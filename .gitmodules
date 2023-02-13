@@ -1,0 +1,3 @@
+[submodule "mrc-for-flat-nested-ner"]
+	path = mrc-for-flat-nested-ner
+	url = https://github.com/ShannonAI/mrc-for-flat-nested-ner.git
