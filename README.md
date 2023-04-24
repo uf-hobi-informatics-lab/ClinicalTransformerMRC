@@ -1,2 +1,2 @@
 # ClinicalNERasMRC
-Approaching Clinical NER as a MRC problem
+Approaching Clinical NER and RE as a MRC problem
