@@ -8,4 +8,3 @@ please cite our paper: Clinical Concept and Relation Extraction Using Prompt-bas
 
 # We have a preprint at
 https://arxiv.org/abs/2303.08262
-
