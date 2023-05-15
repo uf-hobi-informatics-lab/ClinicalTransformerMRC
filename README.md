@@ -82,7 +82,9 @@ python ./src/inference/mrc_ner_inference.py \
 
 ```
 
--post-processing (we only support transformation to brat format)
+- post-processing (we only support transformation to brat format)
+
+> we provide a jupyter notebook with postprocessing 2018 n2c2 and 2022 n2c2 dataset as an example
 
 ## Reference
 We have a preprint at
