@@ -26,9 +26,15 @@ refer to [pytorch-lightning documentation.](https://pytorch-lightning.readthedoc
 We released code and scripts for [clinical concept extraction](https://github.com/uf-hobi-informatics-lab/ClinicalTransformerNER) and [relation extraction](https://github.com/uf-hobi-informatics-lab/ClinicalTransformerRelationExtraction) using transformer-based models, where we fine-tuned transformer-based models and treated concept and relation extraction as sequence labeling task and classification task, respectively. <br>
 
 
-
 ## usage and example
 - prepare datasets
+> see sample_data dir (train.tsv and test.tsv) for the train and test data format
+
+> we did not provide a script for training and test data generation
+
+> we have a jupyter notebook with preprocessing 2018 n2c2 and 2022 n2c2 dataset as an example
+
+> you can follow our example to generate your own dataset
 
 - training
 > please refer to the wiki page for all details of the parameters
