@@ -23,7 +23,7 @@ refer to [pytorch-lightning documentation.](https://pytorch-lightning.readthedoc
 
 ## Baseline
 
-We released code and scripts for [clinical concept extraction](https://github.com/uf-hobi-informatics-lab/ClinicalTransformerNER) and [relation extraction](https://github.com/uf-hobi-informatics-lab/ClinicalTransformerRelationExtraction) using transformer-based models, where we fine-tuned transformer-based models and treated clinical concept and relation extraction as sequence labeling task and classification task, respectively. <br>
+We released code and scripts for [clinical concept extraction](https://github.com/uf-hobi-informatics-lab/ClinicalTransformerNER) and [relation extraction](https://github.com/uf-hobi-informatics-lab/ClinicalTransformerRelationExtraction) using transformer-based models, where we fine-tuned transformer-based models and treated concept and relation extraction as sequence labeling task and classification task, respectively. <br>
 
 
 
