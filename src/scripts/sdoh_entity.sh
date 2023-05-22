@@ -3,11 +3,11 @@
 
 
 # training
-TIME=1030
-REPO_PATH=/home/c.peng/projects/mrc-for-ner-medical/mrc_ner
+REPO_PATH=/home/c.peng/projects/ClinicalTransformerMRC/src
 export PYTHONPATH="$PYTHONPATH:$REPO_PATH"
 
-DATA_DIR=/data/datasets/cheng/mrc-for-ner-medical/2022n2c2/2022n2c2_track2/data/mrc_attribute_text/
+DATA_DIR=/red/gatortron-phi/workspace/mrc_medical/data/2022n2c2/2022n2c2_track2/data/mrc_entity/
+TOTAL_CATEGORY=14
 
 # bert-large-cased
 # bert-large-uncased
@@ -18,27 +18,27 @@ DATA_DIR=/data/datasets/cheng/mrc-for-ner-medical/2022n2c2/2022n2c2_track2/data/
 # 345m_uf_syn_pubmed_mimic_wiki_fullcased50k_megatronv22_release
 # 345m_uf_full_deid_pubmed_mimic_wiki_fullcased50k_release
 # gatortron-og-345m_deid_vocab
-FILE=bert-large-uncased
-BERT_DIR=/home/alexgre/projects/transformer_pretrained_models/${FILE}
+FILE=gatortron-og-345m_deid_vocab
+BERT_DIR=/red/gatortron-phi/workspace/mrc_medical/transformer_pretrained_models/${FILE}
 
-MODEL_TYPE=bert
-# MODEL_TYPE=megatron
+# MODEL_TYPE=bert
+MODEL_TYPE=megatron
 
-OUTPUT_BASE=/data/datasets/cheng/mrc-for-ner-medical/exp
+OUTPUT_BASE=/red/gatortron-phi/workspace/mrc_medical/exp/2022n2c2
 
-BATCH=4
+BATCH=1
 GRAD_ACC=4
-BERT_DROPOUT=0.1
-MRC_DROPOUT=0.3 # 0.3 vs 0.1
-LR=1e-5 #3e-5
-LR_MINI=1e-7 #1e-6
+BERT_DROPOUT=0.1 #0.1
+MRC_DROPOUT=0.1 # 0.3 vs 0.1
+LR=3e-5
+LR_MINI=1e-7
 LR_SCHEDULER=polydecay
 SPAN_WEIGHT=0.1
 WARMUP=0
 MAX_LEN=512
 MAX_NORM=1.0
-MAX_EPOCH=30
-INTER_HIDDEN=2048
+MAX_EPOCH=20 #100
+INTER_HIDDEN=2048 #4096
 WEIGHT_DECAY=0.05  # 0.02 vs 0.05
 OPTIM=torch.adam #adamw
 VAL_CHECK=0.2
@@ -53,16 +53,19 @@ SPAN_CAND=pred_and_gold
 # INTER_HIDDEN=2048
 # PREC=32
 
-OUTPUT_DIR=${OUTPUT_BASE}/model/${FILE}_${BATCH}_${GRAD_ACC}_${WEIGHT_DECAY}_${LR}_${MAX_EPOCH}_'text'
+
+
+OUTPUT_DIR=${OUTPUT_BASE}/model/entity/${FILE}_${BATCH}_${LR}_${LR_MINI}_${MAX_EPOCH}_${BERT_DROPOUT}
 mkdir -p ${OUTPUT_DIR}
 
-python ${REPO_PATH}/train/mrc_ner_trainer.py \
+
+CUDA_VISIBLE_DEVICES=0,1,2,3 python3 ${REPO_PATH}/train/mrc_ner_trainer.py \
 --data_dir ${DATA_DIR} \
 --model_type $MODEL_TYPE \
 --bert_config_dir ${BERT_DIR} \
 --max_length ${MAX_LEN} \
 --batch_size ${BATCH} \
---gpus="3" \
+--gpus="2" \
 --precision=${PREC} \
 --progress_bar_refresh_rate 1 \
 --lr ${LR} \
@@ -82,4 +85,5 @@ python ${REPO_PATH}/train/mrc_ner_trainer.py \
 --optimizer ${OPTIM} \
 --lr_scheduler ${LR_SCHEDULER} \
 --classifier_intermediate_hidden_size ${INTER_HIDDEN} \
---lr_mini ${LR_MINI}
+--lr_mini ${LR_MINI} 
+

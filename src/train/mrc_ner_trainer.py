@@ -5,6 +5,7 @@
 
 import os
 import re
+import json
 import argparse
 import logging
 from collections import namedtuple
@@ -93,6 +94,7 @@ class BertLabeling(pl.LightningModule):
         self.chinese = args.chinese
         self.optimizer = args.optimizer
         self.span_loss_candidates = args.span_loss_candidates
+        self.label2idx = None
 
     @staticmethod
     def add_model_specific_args(parent_parser):
@@ -355,6 +357,11 @@ class BertLabeling(pl.LightningModule):
                                 is_chinese=self.chinese,
                                 pad_to_maxlen=False
                                 )
+        if prefix == "train":
+            with open(os.path.join(self.args.default_root_dir, "label2idx.json"), "w") as f:
+                json.dump(dataset.label2idx, f)
+        
+        self.label2idx = dataset.label2idx
 
         if limit is not None:
             dataset = TruncateDataset(dataset, limit)

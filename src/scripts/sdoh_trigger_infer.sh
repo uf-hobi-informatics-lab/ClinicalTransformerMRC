@@ -20,7 +20,7 @@ MAX_LEN=512
 
 FILE=bert-large-uncased_8_4_3e-5_20
 
-predict_output=/data/datasets/cheng/mrc-for-ner-medical/exp/pred_${FILE}_test_1_1.json
+predict_output=/data/datasets/cheng/mrc-for-ner-medical/exp/pred_${FILE}.json
 
 OUTPUT_BASE=/data/datasets/cheng/mrc-for-ner-medical/exp/model
 

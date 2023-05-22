@@ -3,12 +3,12 @@
 
 
 # training
-TIME=1203
-REPO_PATH=/home/c.peng/projects/mrc-for-ner-medical/mrc_ner
+REPO_PATH=/home/c.peng/projects/ClinicalTransformerMRC/src
 export PYTHONPATH="$PYTHONPATH:$REPO_PATH"
 # export PL_TORCH_DISTRIBUTED_BACKEND=gloo
 
-DATA_DIR=/data/datasets/cheng/mrc-for-ner-medical/2018_n2c2/data/mrc_entity/
+DATA_DIR=/data/datasets/cheng/ClinicalTransformerMRC/2018n2c2/dataset/mrc_entity
+TOTAL_CATEGORY=9
 
 # bert-large-cased
 # bert-large-uncased
@@ -54,7 +54,7 @@ SPAN_CAND=pred_and_gold
 # INTER_HIDDEN=2048
 # PREC=32
 
-OUTPUT_DIR=${OUTPUT_BASE}/model/${TIME}_${FILE}_${BATCH}_${GRAD_ACC}_${LR}_${MAX_EPOCH}
+OUTPUT_DIR=${OUTPUT_BASE}/model/${FILE}_${BATCH}_${GRAD_ACC}_${LR}_${MAX_EPOCH}
 mkdir -p ${OUTPUT_DIR}
 
 CUDA_VISIBLE_DEVICES=0,1,2,3 python ${REPO_PATH}/train/mrc_ner_trainer.py \
@@ -83,4 +83,4 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python ${REPO_PATH}/train/mrc_ner_trainer.py \
 --optimizer ${OPTIM} \
 --lr_scheduler ${LR_SCHEDULER} \
 --classifier_intermediate_hidden_size ${INTER_HIDDEN} \
---lr_mini ${LR_MINI}
+--lr_mini ${LR_MINI} 

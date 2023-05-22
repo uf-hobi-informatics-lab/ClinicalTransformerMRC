@@ -4,7 +4,7 @@
 
 # training
 TIME=0303
-REPO_PATH=/home/c.peng/projects/mrc-for-ner-medical/mrc_ner
+REPO_PATH=/home/c.peng/projects/ClinicalTransformerMRC/src
 export PYTHONPATH="$PYTHONPATH:$REPO_PATH"
 
 DATA_DIR=/data/datasets/cheng/mrc-for-ner-medical/2022n2c2/2022n2c2_track2/data/mrc_trigger/

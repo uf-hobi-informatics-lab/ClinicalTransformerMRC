@@ -74,7 +74,7 @@ def collate_to_max_length(batch: List[List[torch.Tensor]]) -> List[torch.Tensor]
         pad_match_labels[sample_idx, : data.shape[1], : data.shape[1]] = data
     output.append(pad_match_labels)
 
-    output.append(torch.stack([x[-4] for x in batch]))
+    output.append([x[-4] for x in batch])
     output.append(torch.stack([x[-3] for x in batch]))
     output.append(torch.stack([x[-2] for x in batch]))
     output.append(torch.stack([x[-1] for x in batch]))

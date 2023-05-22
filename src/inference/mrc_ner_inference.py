@@ -30,25 +30,31 @@ def get_dataloader(config, data_prefix="test"):
 
     return dataloader, data_tokenizer
 
-def get_query_index_to_label_cate(dataset_sign):
+def get_query_index_to_label_cate(l2i_fn):
+    import json
+    
+    with open(l2i_fn, "r") as f:
+        label2idx = json.load(f)
+    
+    return {v: k for k, v in label2idx}
     # NOTICE: need change if you use other datasets.
     # please notice it should in line with the mrc-ner.test/train/dev json file
-    if dataset_sign == "conll03":
-        return {1: "ORG", 2: "PER", 3: "LOC", 4: "MISC"}
-    elif dataset_sign == "ace04":
-        return {1: "GPE", 2: "ORG", 3: "PER", 4: "FAC", 5: "VEH", 6: "LOC", 7: "WEA"}
-    elif dataset_sign == "sdoh_other":
-        # return {1: 'TypeLiving', 2: 'Method', 3: 'StatusEmploy', 4: 'Duration', 5: 'Frequency', 
-        # 6: 'StatusTime', 7: 'Type', 8: 'Amount', 9: 'History'}
-        return {1: 'StatusEmploy', 2:'Type', 3:'Duration', 4: 'History', 5:'TypeLiving', 6:'StatusTime', 7:'Duration', 8:'History', 9:'Duration', 10:'History', 11:'StatusTime', 12:'Type', 13:'Amount', 14:'Method', 15:'Frequency', 16: 'Duration', 17:'History', 18:'StatusTime', 19:'Type', 20:'Amount', 21:'Method', 22:'Frequency', 23:'Duration', 24:'History', 25:'StatusTime', 26:'Type', 27:'Amount', 28:'Method', 29:'Frequency'}
-    elif dataset_sign == "sdoh_trigger":
-        return {1: 'Employment', 2: 'LivingStatus', 3: 'Alcohol', 4: 'Drug', 5: 'Tobacco'}
-    elif dataset_sign == "sdoh_entity":
-        return {1: "Employment", 2: "LivingStatus", 3: "Alcohol", 4: "Drug", 5: "Tobacco", 6: "TypeLiving", 7: "Method", 8: "StatusEmploy", 9: "Duration", 10: "Frequency", 11: "StatusTime", 12: "Type", 13: "Amount", 14: "History"}
-    elif dataset_sign == "drug_ADE":
-        return { 1: "Drug", 2: "Strength", 3: "Form", 4: "Dosage", 5: "Frequency", 6: "Route", 7:"Duration", 8: "Reason", 9: "ADE"}
-    elif dataset_sign == "drug_ADE_relation":
-        return { 1: "Strength", 2: "Form", 3: "Dosage", 4: "Frequency", 5: "Route", 6:"Duration", 7: "Reason", 8: "ADE"}
+    # if dataset_sign == "conll03":
+    #     return {1: "ORG", 2: "PER", 3: "LOC", 4: "MISC"}
+    # elif dataset_sign == "ace04":
+    #     return {1: "GPE", 2: "ORG", 3: "PER", 4: "FAC", 5: "VEH", 6: "LOC", 7: "WEA"}
+    # elif dataset_sign == "sdoh_other":
+    #     # return {1: 'TypeLiving', 2: 'Method', 3: 'StatusEmploy', 4: 'Duration', 5: 'Frequency', 
+    #     # 6: 'StatusTime', 7: 'Type', 8: 'Amount', 9: 'History'}
+    #     return {1: 'StatusEmploy', 2:'Type', 3:'Duration', 4: 'History', 5:'TypeLiving', 6:'StatusTime', 7:'Duration', 8:'History', 9:'Duration', 10:'History', 11:'StatusTime', 12:'Type', 13:'Amount', 14:'Method', 15:'Frequency', 16: 'Duration', 17:'History', 18:'StatusTime', 19:'Type', 20:'Amount', 21:'Method', 22:'Frequency', 23:'Duration', 24:'History', 25:'StatusTime', 26:'Type', 27:'Amount', 28:'Method', 29:'Frequency'}
+    # elif dataset_sign == "sdoh_trigger":
+    #     return {1: 'Employment', 2: 'LivingStatus', 3: 'Alcohol', 4: 'Drug', 5: 'Tobacco'}
+    # elif dataset_sign == "sdoh_entity":
+    #     return {1: "Employment", 2: "LivingStatus", 3: "Alcohol", 4: "Drug", 5: "Tobacco", 6: "TypeLiving", 7: "Method", 8: "StatusEmploy", 9: "Duration", 10: "Frequency", 11: "StatusTime", 12: "Type", 13: "Amount", 14: "History"}
+    # elif dataset_sign == "drug_ADE":
+    #     return { 1: "Drug", 2: "Strength", 3: "Form", 4: "Dosage", 5: "Frequency", 6: "Route", 7:"Duration", 8: "Reason", 9: "ADE"}
+    # elif dataset_sign == "drug_ADE_relation":
+    #     return { 1: "Strength", 2: "Form", 3: "Dosage", 4: "Frequency", 5: "Route", 6:"Duration", 7: "Reason", 8: "ADE"}
         
 
 def get_parser() -> argparse.ArgumentParser:
@@ -60,8 +66,8 @@ def get_parser() -> argparse.ArgumentParser:
     parser.add_argument("--model_ckpt", type=str, default="")
     parser.add_argument("--hparams_file", type=str, default="")
     parser.add_argument("--flat_ner", action="store_true",)
-    parser.add_argument("--dataset_sign", type=str, 
-        choices=["ontonotes4", "msra", "conll03", "ace04", "ace05", "sdoh_trigger", "sdoh_entity", "sdoh_other","drug_ADE", "drug_ADE_relation"], default="conll03")
+    parser.add_argument("--dataset_sign", type=str, default="./label2idx.json",)
+        # choices=["ontonotes4", "msra", "conll03", "ace04", "ace05", "sdoh_trigger", "sdoh_entity", "sdoh_other","drug_ADE", "drug_ADE_relation"], default="conll03")
     parser.add_argument("--output_fn", type=str, default="./predict_result.json")
 
     return parser
@@ -98,9 +104,6 @@ def main():
         # tokens, token_type_ids, start_labels, end_labels, start_label_mask, end_label_mask, match_labels, sample_idx, label_idx = batch
         tokens, token_type_ids, start_labels, end_labels, start_label_mask, end_label_mask, match_labels, sample_idx, head_sent_idx, tail_sent_idx, label_idx = batch
         attention_mask = (tokens != 0).long()
-        # print (tokens.shape, attention_mask.shape, token_type_ids.shape)
-        # print (torch.max(tokens), torch.max(attention_mask), torch.max(token_type_ids))
-        # print (torch.min(tokens), torch.min(attention_mask), torch.min(token_type_ids))
         start_logits, end_logits, span_logits = trained_mrc_ner_model.model(
             tokens, attention_mask=attention_mask, token_type_ids=token_type_ids)
         start_preds, end_preds, span_preds = start_logits > 0, end_logits > 0, span_logits > 0
@@ -140,7 +143,7 @@ def main():
                     entity_lst.append((start, end+1, entity_string, entity_info[2]))
         d['en'] = entity_lst
         d['token_list'] = subtokens_lst
-        d['sample_idx'] = sample_idx.tolist()
+        d['sample_idx'] = sample_idx
         d['label_idx'] = label_idx.tolist()
         d['head_sent_idx'] = head_sent_idx.tolist()
         d['tail_sent_idx'] = tail_sent_idx.tolist()

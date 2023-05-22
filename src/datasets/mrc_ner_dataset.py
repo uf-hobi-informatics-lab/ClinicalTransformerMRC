@@ -32,6 +32,11 @@ class MRCNERDataset(Dataset):
             ]
         self.is_chinese = is_chinese
         self.pad_to_maxlen = pad_to_maxlen
+        self.label2idx = dict()
+        for x in self.all_data:
+            self.label2idx[x.get("entity_label")] = int(x.get("qas_id").split(".")[-1])
+        
+        print(self.label2idx)
 
     def __len__(self):
         return len(self.all_data)
@@ -59,7 +64,7 @@ class MRCNERDataset(Dataset):
         # print(qas_id)
         # sample_idx, label_idx = qas_id.split(".")
         sample_idx, head_sent_idx, tail_sent_idx, label_idx = qas_id.split(".")
-        sample_idx = torch.LongTensor([int(sample_idx)])
+        # sample_idx = torch.LongTensor([int(sample_idx)])
         label_idx = torch.LongTensor([int(label_idx)])
         head_sent_idx = torch.LongTensor([int(head_sent_idx)])
         tail_sent_idx = torch.LongTensor([int(tail_sent_idx)])
@@ -86,14 +91,14 @@ class MRCNERDataset(Dataset):
         tokens = query_context_tokens.ids
         type_ids = query_context_tokens.type_ids
         offsets = query_context_tokens.offsets
-        print(qas_id)
-        print(tokens)
-        print(len(tokens))
-        print(start_positions)
-        print(end_positions)
-        print(type_ids)
-        print(offsets)
-        print(query_context_tokens.words)
+        # print(qas_id)
+        # print(tokens)
+        # print(len(tokens))
+        # print(start_positions)
+        # print(end_positions)
+        # print(type_ids)
+        # print(offsets)
+        # print(query_context_tokens.words)
 
         # find new start_positions/end_positions, considering
         # 1. we add query tokens at the beginning
@@ -397,10 +402,9 @@ def run_dataset():
     from collate_functions import collate_to_max_length
     from torch.utils.data import DataLoader
     # zh datasets
-    bert_path = "/data/datasets/cheng/GatorTron/model/gatortron_4b"
-    # bert_path = "/data/datasets/cheng/transformer-pretrained/bert-large-uncased"
+    # bert_path = "/data/datasets/cheng/GatorTron/model/gatortron_4b"
+    bert_path = "/data/datasets/cheng/transformer-pretrained/bert-large-uncased"
     vocab_file = os.path.join(bert_path, "vocab.txt")
-    # json_path = "/mnt/mrc/zh_msra/mrc-ner.test"
     json_path = "/data/datasets/cheng/mrc-for-ner-medical/2018_n2c2/data/mrc_relation/mrc-ner.train"
     is_chinese = False
 
