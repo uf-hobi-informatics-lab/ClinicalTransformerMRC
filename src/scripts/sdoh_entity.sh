@@ -26,7 +26,7 @@ MODEL_TYPE=megatron
 
 OUTPUT_BASE=/red/gatortron-phi/workspace/mrc_medical/exp/2022n2c2
 
-BATCH=1
+BATCH=4
 GRAD_ACC=4
 BERT_DROPOUT=0.1 #0.1
 MRC_DROPOUT=0.1 # 0.3 vs 0.1

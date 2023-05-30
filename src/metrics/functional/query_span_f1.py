@@ -58,7 +58,8 @@ def extract_nested_spans(start_preds, end_preds, match_preds, start_label_mask, 
     match_label_mask = (start_label_mask.unsqueeze(-1).expand(-1, -1, seq_len) & end_label_mask.unsqueeze(1).expand(-1, seq_len, -1))
     match_label_mask = torch.triu(match_label_mask, 0)  # start should be less or equal to end
     match_preds = match_label_mask & match_preds
-    match_pos_pairs = np.transpose(np.nonzero(match_preds.numpy())).tolist()
+    # match_pos_pairs = np.transpose(np.nonzero(match_preds.numpy())).tolist()
+    match_pos_pairs = np.transpose(np.nonzero(match_preds.cpu().numpy())).tolist()
     # return [(pos[0], pos[1], pseudo_tag) for pos in match_pos_pairs]
     return [(pos[1], pos[2], pseudo_tag) for pos in match_pos_pairs]
 

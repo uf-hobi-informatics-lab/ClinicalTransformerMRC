@@ -14,6 +14,7 @@ from train.mrc_ner_trainer import BertLabeling
 from tokenizers import BertWordPieceTokenizer
 from datasets.mrc_ner_dataset import MRCNERDataset
 from metrics.functional.query_span_f1 import extract_flat_spans, extract_nested_spans
+from datasets.collate_functions import collate_to_max_length
 
 def get_dataloader(config, data_prefix="test"):
     data_path = os.path.join(config.data_dir, f"mrc-ner.{data_prefix}")
@@ -26,17 +27,17 @@ def get_dataloader(config, data_prefix="test"):
                             is_chinese=config.is_chinese,
                             pad_to_maxlen=False)
 
-    dataloader = DataLoader(dataset=dataset, batch_size=1, shuffle=False)
-
+    # dataloader = DataLoader(dataset=dataset, batch_size=1, shuffle=False)
+    dataloader = DataLoader(dataset=dataset, batch_size=16, shuffle=False, collate_fn=collate_to_max_length)
     return dataloader, data_tokenizer
 
 def get_query_index_to_label_cate(l2i_fn):
     import json
-    
+    print(l2i_fn)
     with open(l2i_fn, "r") as f:
         label2idx = json.load(f)
     
-    return {v: k for k, v in label2idx}
+    return {v: k for k, v in label2idx.items()}
     # NOTICE: need change if you use other datasets.
     # please notice it should in line with the mrc-ner.test/train/dev json file
     # if dataset_sign == "conll03":
@@ -76,13 +77,18 @@ def get_parser() -> argparse.ArgumentParser:
 def main():
     parser = get_parser()
     args = parser.parse_args()
+    device = torch.device('cuda')
     trained_mrc_ner_model = BertLabeling.load_from_checkpoint(
         checkpoint_path=args.model_ckpt,
         hparams_file=args.hparams_file,
-        map_location=None,
-        batch_size=1,
+        map_location=device,
+        batch_size=128,
         max_length=args.max_length,
-        workers=0)
+        workers=4)
+    
+    trained_mrc_ner_model.model = trained_mrc_ner_model.model.to(device)
+
+    print(next(trained_mrc_ner_model.model.parameters()).is_cuda)
 
     data_loader, data_tokenizer = get_dataloader(args,)
     # load token
@@ -99,55 +105,72 @@ def main():
     results = []
 
     for i, batch in enumerate(data_loader):
-        d = dict()
+        # d = dict()
 
         # tokens, token_type_ids, start_labels, end_labels, start_label_mask, end_label_mask, match_labels, sample_idx, label_idx = batch
         tokens, token_type_ids, start_labels, end_labels, start_label_mask, end_label_mask, match_labels, sample_idx, head_sent_idx, tail_sent_idx, label_idx = batch
-        attention_mask = (tokens != 0).long()
+
+        # Move tensors to GPU
+        tokens = tokens.to(device)
+        token_type_ids = token_type_ids.to(device)
+        attention_mask = (tokens != 0).long().to(device)
+        start_label_mask = start_label_mask.to(device)
+        end_label_mask = end_label_mask.to(device)
+
+
         start_logits, end_logits, span_logits = trained_mrc_ner_model.model(
             tokens, attention_mask=attention_mask, token_type_ids=token_type_ids)
         start_preds, end_preds, span_preds = start_logits > 0, end_logits > 0, span_logits > 0
 
-        subtokens_idx_lst = tokens.numpy().tolist()[0]
+        # subtokens_idx_lst = tokens.numpy().tolist()[0]
+        subtokens_idx_lst = tokens.cpu().numpy().tolist()
 
-        subtokens_lst = [idx2tokens[item] for item in subtokens_idx_lst]
-        label_cate = query2label_dict[label_idx.item()]
-        readable_input_str = data_tokenizer.decode(subtokens_idx_lst, skip_special_tokens=False)
-        
-        d['text'] = readable_input_str
+        # subtokens_lst = [idx2tokens[item] for item in subtokens_idx_lst]
+        subtokens_lst = [[idx2tokens[item] for item in instance] for instance in subtokens_idx_lst]
 
-        if args.flat_ner:
-            entities_info = extract_flat_spans(torch.squeeze(start_preds), torch.squeeze(end_preds),
-                                               torch.squeeze(span_preds), torch.squeeze(attention_mask), pseudo_tag=label_cate)
-            entity_lst = []
+        # label_cate = query2label_dict[label_idx.item()]
+        label_cate = [query2label_dict[label.item()] for label in label_idx]
 
-            if len(entities_info) != 0:
-                for entity_info in entities_info:
-                    start, end = entity_info[0], entity_info[1]
-                    entity_string = " ".join(subtokens_lst[start: end])
-                    entity_string = entity_string.replace(" ##", "")
-                    entity_lst.append((start, end, entity_string, entity_info[2]))
+        for j in range(len(tokens)):
+            d = dict()
+            readable_input_str = data_tokenizer.decode(subtokens_idx_lst[j], skip_special_tokens=False)
 
-        else:
-            match_preds = span_logits > 0
-            entities_info = extract_nested_spans(
-                start_preds, end_preds, match_preds, start_label_mask, end_label_mask, pseudo_tag=label_cate)
+            d['text'] = readable_input_str
 
-            entity_lst = []
+            if args.flat_ner:
+                entities_info = extract_flat_spans(start_preds[j].unsqueeze(0), end_preds[j].unsqueeze(0), span_preds[j].unsqueeze(0), 
+                                       attention_mask[j].unsqueeze(0), pseudo_tag=label_cate[j])
+                entity_lst = []
 
-            if len(entities_info) != 0:
-                for entity_info in entities_info:
-                    start, end = entity_info[0], entity_info[1]
-                    entity_string = " ".join(subtokens_lst[start: end+1 ])
-                    entity_string = entity_string.replace(" ##", "")
-                    entity_lst.append((start, end+1, entity_string, entity_info[2]))
-        d['en'] = entity_lst
-        d['token_list'] = subtokens_lst
-        d['sample_idx'] = sample_idx
-        d['label_idx'] = label_idx.tolist()
-        d['head_sent_idx'] = head_sent_idx.tolist()
-        d['tail_sent_idx'] = tail_sent_idx.tolist()
-        results.append(d)
+                if len(entities_info) != 0:
+                    for entity_info in entities_info:
+                        start, end = entity_info[0], entity_info[1]
+                        entity_string = " ".join(subtokens_lst[j][start: end])
+                        entity_string = entity_string.replace(" ##", "")
+                        entity_lst.append((start, end, entity_string, entity_info[2]))
+
+            else:
+                match_preds = span_logits[j].unsqueeze(0) > 0
+                entities_info = extract_nested_spans(start_preds[j].unsqueeze(0), end_preds[j].unsqueeze(0), match_preds, 
+                                         start_label_mask[j].unsqueeze(0), end_label_mask[j].unsqueeze(0), pseudo_tag=label_cate[j])
+
+                entity_lst = []
+
+                if len(entities_info) != 0:
+                    for entity_info in entities_info:
+                        start, end = entity_info[0], entity_info[1]
+                        entity_string = " ".join(subtokens_lst[j][start: end+1])
+                        entity_string = entity_string.replace(" ##", "")
+                        entity_lst.append((start, end+1, entity_string, entity_info[2]))
+
+            d['en'] = entity_lst
+            d['token_list'] = subtokens_lst[j]
+            d['sample_idx'] = sample_idx[j]
+            d['label_idx'] = label_idx[j].item()
+            d['head_sent_idx'] = head_sent_idx[j].tolist()
+            d['tail_sent_idx'] = tail_sent_idx[j].tolist()
+            results.append(d)
+
 
         # if i < 1:
         #     print("*="*10)

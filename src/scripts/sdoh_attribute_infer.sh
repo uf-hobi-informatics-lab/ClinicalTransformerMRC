@@ -4,7 +4,7 @@
 # file: nested_inference.sh
 #
 
-REPO_PATH=/home/c.peng/projects/mrc-for-ner-medical/mrc_ner
+REPO_PATH=/home/c.peng/projects/ClinicalTransformerMRC/src
 export PYTHONPATH="$PYTHONPATH:$REPO_PATH"
 
 DATA_SIGN=sdoh_other

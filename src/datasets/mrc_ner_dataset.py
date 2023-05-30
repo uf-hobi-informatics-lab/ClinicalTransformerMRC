@@ -61,7 +61,7 @@ class MRCNERDataset(Dataset):
         tokenizer = self.tokenizer
 
         qas_id = data.get("qas_id", "0.0")
-        # print(qas_id)
+        print(qas_id)
         # sample_idx, label_idx = qas_id.split(".")
         sample_idx, head_sent_idx, tail_sent_idx, label_idx = qas_id.split(".")
         # sample_idx = torch.LongTensor([int(sample_idx)])
