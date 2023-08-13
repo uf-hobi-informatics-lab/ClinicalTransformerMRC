@@ -1,0 +1,174 @@
+T1	Reason 10557 10568	hypotensive
+R1	Reason-Drug Arg1:T1 Arg2:T2
+T2	Drug 10630 10642	vasopressors
+T3	Drug 10808 10819	antitiobics
+T4	Drug 11414 11421	heparin
+T5	Drug 11440 11450	argatroban
+T6	Drug 11524 11535	argatroaban
+T7	Drug 11561 11568	heparin
+T8	Reason 11573 11588	DVT prophylaxis
+R2	Reason-Drug Arg1:T8 Arg2:T7
+T9	ADE 11590 11606	Thrombocytopenia
+R3	ADE-Drug Arg1:T9 Arg2:T4
+T10	Drug 11649 11659	Famotidine
+T11	ADE 11729 11771	Altered/Persistent Depressed mental status
+R4	ADE-Drug Arg1:T11 Arg2:T12
+T12	Drug 11869 11884	benzodiazepines
+T13	Reason 11894 11902	sedation
+R5	Reason-Drug Arg1:T13 Arg2:T12
+T14	Drug 11995 12010	benzodiazepines
+T15	Drug 12665 12675	paralytics
+T16	Reason 12807 12813	Fevers
+R6	Reason-Drug Arg1:T16 Arg2:T17
+T17	Drug 12860 12864	ATBx
+T18	Drug 1303 1309	oxygen
+T19	Drug 13968 13978	amiodarone
+T21	Drug 15178 15188	amiodarone
+T22	Drug 15193 15198	Lasix
+T23	Drug 15350 15359	Quinidine
+T24	Strength 15360 15365	300mg
+R8	Strength-Drug Arg1:T24 Arg2:T23
+T25	Frequency 15366 15371	daily
+R9	Frequency-Drug Arg1:T25 Arg2:T23
+T26	Drug 15374 15383	ibuprofen
+T27	Strength 15384 15389	400mg
+R10	Strength-Drug Arg1:T27 Arg2:T26
+T28	Frequency 15390 15393	PRN
+R11	Frequency-Drug Arg1:T28 Arg2:T26
+T29	Drug 15421 15428	Heparin
+T30	Strength 15429 15438	5000 UNIT
+R12	Strength-Drug Arg1:T30 Arg2:T29
+T31	Route 15439 15441	SC
+R13	Route-Drug Arg1:T31 Arg2:T29
+T32	Frequency 15442 15445	TID
+R14	Frequency-Drug Arg1:T32 Arg2:T29
+T33	Drug 15449 15481	Maalox/Diphenhydramine/Lidocaine
+T34	Dosage 15482 15490	15-30 mL
+R15	Dosage-Drug Arg1:T34 Arg2:T33
+T35	Route 15491 15493	PO
+R16	Route-Drug Arg1:T35 Arg2:T33
+T36	Frequency 15494 15501	QID:PRN
+R17	Frequency-Drug Arg1:T36 Arg2:T33
+T37	Reason 15502 15507;15508 15512	mouth pain
+R18	Reason-Drug Arg1:T37 Arg2:T33
+T38	Drug 15516 15531	Docusate Sodium
+T39	Form 15533 15539	Liquid
+R19	Form-Drug Arg1:T39 Arg2:T38
+T40	Strength 15541 15547	100 mg
+R20	Strength-Drug Arg1:T40 Arg2:T38
+T41	Route 15548 15550	PO
+R21	Route-Drug Arg1:T41 Arg2:T38
+T42	Frequency 15551 15558	BID:PRN
+R22	Frequency-Drug Arg1:T42 Arg2:T38
+T43	Reason 15559 15571	constipation
+R23	Reason-Drug Arg1:T43 Arg2:T38
+T44	Drug 15575 15596	Albuterol-Ipratropium
+T45	Form 15608 15612	PUFF
+R24	Form-Drug Arg1:T45 Arg2:T44
+T46	Route 15613 15615	IH
+R25	Route-Drug Arg1:T46 Arg2:T44
+T47	Frequency 15616 15623	Q4H:PRN
+R26	Frequency-Drug Arg1:T47 Arg2:T44
+T48	Reason 15624 15627	SOB
+R27	Reason-Drug Arg1:T48 Arg2:T44
+T49	Reason 15629 15637	Wheezing
+R28	Reason-Drug Arg1:T49 Arg2:T44
+T50	Drug 15641 15651	Amiodarone
+T51	Strength 15652 15658	200 mg
+R29	Strength-Drug Arg1:T51 Arg2:T50
+T52	Route 15659 15661	PO
+R30	Route-Drug Arg1:T52 Arg2:T50
+T53	Frequency 15662 15667	DAILY
+R31	Frequency-Drug Arg1:T53 Arg2:T50
+T54	Drug 15671 15676	Senna
+T55	Dosage 15677 15678	1
+R32	Dosage-Drug Arg1:T55 Arg2:T54
+T56	Form 15679 15682	TAB
+R33	Form-Drug Arg1:T56 Arg2:T54
+T57	Route 15683 15685	PO
+R34	Route-Drug Arg1:T57 Arg2:T54
+T58	Frequency 15686 15693	BID:PRN
+R35	Frequency-Drug Arg1:T58 Arg2:T54
+T59	Reason 15694 15706	constipation
+R36	Reason-Drug Arg1:T59 Arg2:T54
+T60	Drug 15710 15720	Miconazole
+T61	Form 15721 15727	Powder
+R37	Form-Drug Arg1:T61 Arg2:T60
+T62	Strength 15728 15729	2
+R38	Strength-Drug Arg1:T62 Arg2:T60
+T63	Dosage 15731 15732	1
+R39	Dosage-Drug Arg1:T63 Arg2:T60
+T64	Route 15738 15740	TP
+R40	Route-Drug Arg1:T64 Arg2:T60
+T65	Frequency 15741 15748	TID:PRN
+R41	Frequency-Drug Arg1:T65 Arg2:T60
+T66	Reason 15749 15753	rash
+R42	Reason-Drug Arg1:T66 Arg2:T60
+T67	Drug 15771 15781	Furosemide
+T68	Strength 15782 15787	40 mg
+R43	Strength-Drug Arg1:T68 Arg2:T67
+T69	Route 15788 15790	PO
+R44	Route-Drug Arg1:T69 Arg2:T67
+T70	Frequency 15791 15798	BID:PRN
+R45	Frequency-Drug Arg1:T70 Arg2:T67
+T71	Reason 15799 15814	volume overload
+R46	Reason-Drug Arg1:T71 Arg2:T67
+T72	Drug 164 175	epinephrine
+T73	Reason 16836 16845	pneumonia
+R47	Reason-Drug Arg1:T73 Arg2:T74
+T74	Drug 16941 16952	antibiotics
+T75	Drug 17749 17758	quinidine
+T76	Drug 17771 17781	amiodarone
+T77	Strength 17782 17787	200mg
+R48	Strength-Drug Arg1:T77 Arg2:T76
+T78	Route 17788 17796	by mouth
+R49	Route-Drug Arg1:T78 Arg2:T76
+T79	Frequency 17797 17802	daily
+R50	Frequency-Drug Arg1:T79 Arg2:T76
+T80	Reason 17807 17824;17825 17837	paroxysmal atrial fibrillation
+R51	Reason-Drug Arg1:T80 Arg2:T76
+T81	Drug 17849 17856	heparin
+T82	Dosage 17857 17867	5000 units
+T83	Route 17868 17880	subcutaneous
+R53	Route-Drug Arg1:T83 Arg2:T81
+T84	Frequency 17881 17898	three times daily
+R54	Frequency-Drug Arg1:T84 Arg2:T81
+T85	Drug 18012 18018	colace
+T86	Drug 18023 18028	senna
+T87	Reason 18033 18045	constipation
+R55	Reason-Drug Arg1:T87 Arg2:T85
+R56	Reason-Drug Arg1:T87 Arg2:T86
+T88	Drug 18057 18089	maalox-diphenhydramine-lidocaine
+T90	Dosage 18090 18097	15-30mL
+T900	Route 18098 18106	by mouth
+R58	Route-Drug Arg1:T900 Arg2:T88
+T91	Frequency 18107 18130	every 4 hours as needed
+R59	Frequency-Drug Arg1:T91 Arg2:T88
+T92	Reason 18135 18152	mouth/throat pain
+R60	Reason-Drug Arg1:T92 Arg2:T88
+T93	Drug 18164 18174	miconazole
+T94	Form 18175 18181	powder
+R61	Form-Drug Arg1:T94 Arg2:T93
+T95	Dosage 18182 18187	three
+R62	Dosage-Drug Arg1:T95 Arg2:T93
+T96	Form 18188 18200	applications
+R63	Form-Drug Arg1:T96 Arg2:T93
+T97	Frequency 18201 18208	per day
+R64	Frequency-Drug Arg1:T97 Arg2:T93
+T98	Reason 18213 18217	rash
+R65	Reason-Drug Arg1:T98 Arg2:T93
+T99	Drug 3497 3509	LEVOFLOXACIN
+T100	Drug 3539 3550	CEFTRIAXONE
+T101	Drug 3591 3602	CEFTRIAXONE
+T102	Drug 3643 3653	PENICILLIN
+T103	Drug 4181 4191	PENICILLIN
+T104	Drug 4205 4214	OXACILLIN
+T105	Drug 4438 4450	PENICILLIN G
+T106	Drug 983 995	levofloxacin
+T107	Reason 9911 9920	pneumonia
+R66	Reason-Drug Arg1:T107 Arg2:T108
+T108	Drug 9938 9949	antibiotics
+T109	Reason 996 1022	for coverage of severe CAP
+R67	Reason-Drug Arg1:T109 Arg2:T106
+R7	Dosage-Drug Arg1:T82 Arg2:T81	
+R52	Dosage-Drug Arg1:T90 Arg2:T88	

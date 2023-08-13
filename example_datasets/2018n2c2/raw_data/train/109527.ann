@@ -1,0 +1,97 @@
+T1	Drug 1022 1025	IVF
+T4	Drug 1111 1113	O2
+T5	Reason 1172 1178;1179 1219	patchy infiltates concerning for biliary sepsis
+R3	Reason-Drug Arg1:T5 Arg2:T7
+R4	Reason-Drug Arg1:T5 Arg2:T8
+R5	Reason-Drug Arg1:T5 Arg2:T9
+R6	Reason-Drug Arg1:T5 Arg2:T6
+T6	Drug 1421 1432	antibiotics
+T7	Drug 1434 1438	vanc
+T8	Drug 1440 1445	zosyn
+T9	Drug 1447 1459	moxifloxacin
+T10	Drug 165 176	Penicillins
+T11	Route 2180 2188	epidural
+R7	Route-Drug Arg1:T11 Arg2:T12
+T12	Drug 2189 2196	steroid
+T13	Form 2197 2202	shots
+R8	Form-Drug Arg1:T13 Arg2:T12
+T14	Reason 368 380;381 385	chronic back pain
+R9	Reason-Drug Arg1:T14 Arg2:T18
+T16	Drug 3981 3989	contrast
+T17	Route 419 427	epidural
+R11	Route-Drug Arg1:T17 Arg2:T18
+T18	Drug 428 435	steroid
+T19	Form 436 445	injection
+R12	Form-Drug Arg1:T19 Arg2:T18
+T20	ADE 5441 5444	ATN
+R13	ADE-Drug Arg1:T20 Arg2:T21
+T21	Drug 5458 5466	contrast
+T22	Reason 5500 5511	hypotension
+R14	Reason-Drug Arg1:T22 Arg2:T24
+T24	Drug 5629 5635	fluids
+T25	ADE 5650 5667	post-ATN diuresis
+R16	ADE-Drug Arg1:T25 Arg2:T24
+T26	ADE 5698 5711	hypernatremia
+R17	ADE-Drug Arg1:T26 Arg2:T24
+T27	Reason 5799 5808	pneumonia
+R18	Reason-Drug Arg1:T27 Arg2:T28
+R19	Reason-Drug Arg1:T27 Arg2:T29
+T28	Drug 5947 5951	Vanc
+T29	Drug 5952 5957	Zosyn
+T30	ADE 6362 6381	Intermittent fevers
+R20	ADE-Drug Arg1:T30 Arg2:T32
+T31	ADE 6558 6571	drug reaction
+R21	ADE-Drug Arg1:T31 Arg2:T32
+T32	Drug 6575 6585	penicillin
+T33	ADE 7614 7633	Maculo papular rash
+R22	ADE-Drug Arg1:T33 Arg2:T35
+R23	ADE-Drug Arg1:T33 Arg2:T36
+T34	ADE 7746 7750	rash
+R24	ADE-Drug Arg1:T34 Arg2:T35
+R25	ADE-Drug Arg1:T34 Arg2:T36
+T35	Drug 7805 7816	penicillins
+T36	Drug 7872 7877	zosyn
+T37	Drug 7899 7907	benedryl
+T38	Drug 7912 7917	sarna
+T39	Drug 8130 8138	prilosec
+T40	Strength 8139 8144	20 mg
+R26	Strength-Drug Arg1:T40 Arg2:T39
+T41	Frequency 8145 8150	daily
+R27	Frequency-Drug Arg1:T41 Arg2:T39
+T42	Drug 8151 8160	synthroid
+T43	Strength 8161 8167	75 mcg
+R28	Strength-Drug Arg1:T43 Arg2:T42
+T44	Frequency 8168 8173	daily
+R29	Frequency-Drug Arg1:T44 Arg2:T42
+T45	Drug 8174 8181	lipitor
+T46	Drug 8209 8222	levothyroxine
+T47	Strength 8223 8229	75 mcg
+R30	Strength-Drug Arg1:T47 Arg2:T46
+T48	Form 8230 8236	Tablet
+R31	Form-Drug Arg1:T48 Arg2:T46
+T49	Dosage 8242 8249	One (1)
+R32	Dosage-Drug Arg1:T49 Arg2:T46
+T50	Form 8250 8256	Tablet
+R33	Form-Drug Arg1:T50 Arg2:T46
+T51	Route 8257 8259	PO
+R34	Route-Drug Arg1:T51 Arg2:T46
+T52	Frequency 8260 8265;8266 8273	DAILY (Daily)
+R35	Frequency-Drug Arg1:T52 Arg2:T46
+T53	Reason 8703 8712	pneumonia
+R36	Reason-Drug Arg1:T53 Arg2:T54
+T54	Drug 8730 8756	broad spectrum antibiotics
+T55	Reason 8798 8817	acute renal failure
+R37	Reason-Drug Arg1:T55 Arg2:T57
+T57	Drug 8842 8848	fluids
+T3	Reason 7614 7633	Maculo papular rash
+R2	Reason-Drug Arg1:T3 Arg2:T37	
+R39	Reason-Drug Arg1:T3 Arg2:T38	
+T2	Route 3978 3980	IV
+R1	Route-Drug Arg1:T2 Arg2:T16	
+T15	Route 4474 4476	IV
+T23	Drug 4477 4485	contrast
+R10	Route-Drug Arg1:T15 Arg2:T23	
+T56	Route 5626 5628	IV
+R15	Route-Drug Arg1:T56 Arg2:T24	
+T58	Route 8839 8841	IV
+R38	Route-Drug Arg1:T58 Arg2:T57	

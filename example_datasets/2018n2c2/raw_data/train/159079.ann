@@ -1,0 +1,371 @@
+T1	Strength 10013 10017	20mg
+R1	Strength-Drug Arg1:T1 Arg2:T207
+T2	Strength 10033 10037	10mg
+R2	Strength-Drug Arg1:T2 Arg2:T207
+T3	Drug 10052 10059	Bactrim
+T4	Dosage 10060 10061	1
+R3	Dosage-Drug Arg1:T4 Arg2:T3
+T5	Form 10062 10068	tablet
+R4	Form-Drug Arg1:T5 Arg2:T3
+T6	Frequency 10069 10074	daily
+R5	Frequency-Drug Arg1:T6 Arg2:T3
+T7	Drug 1123 1129	oxygen
+T8	Reason 1249 1258	pneumonia
+R6	Reason-Drug Arg1:T8 Arg2:T9
+R7	Reason-Drug Arg1:T8 Arg2:T10
+R8	Reason-Drug Arg1:T8 Arg2:T11
+T9	Drug 1329 1340	Solu-Medrol
+T10	Drug 1345 1356	antibiotics
+T11	Drug 1369 1379	antifungal
+T12	Drug 165 174	Zithromax
+T13	Drug 177 183	Iodine
+T15	Drug 184 201	Iodine Containing
+T16	Drug 1983 1996	dexamethasone
+T17	Strength 1997 2000	5mg
+R9	Strength-Drug Arg1:T17 Arg2:T16
+T18	Dosage 2003 2009	1 dose
+R10	Dosage-Drug Arg1:T18 Arg2:T16
+T19	Drug 204 211	Vicodin
+T20	Drug 214 220	Biaxin
+T21	Duration 6866 6874	24 hours
+R11	Duration-Drug Arg1:T21 Arg2:T22
+T22	Drug 6878 6886	decadron
+T23	Reason 7026 7049	Gastroesophageal reflux
+R12	Reason-Drug Arg1:T23 Arg2:T24
+T24	Drug 7076 7086	omeprazole
+T25	Drug 7355 7370	DiphenhydrAMINE
+T26	Strength 7371 7376	25 mg
+R13	Strength-Drug Arg1:T26 Arg2:T25
+T27	Route 7377 7379	PO
+R14	Route-Drug Arg1:T27 Arg2:T25
+T28	Frequency 7380 7387	Q6H:PRN
+R15	Frequency-Drug Arg1:T28 Arg2:T25
+T29	Reason 7388 7392	itch
+R16	Reason-Drug Arg1:T29 Arg2:T25
+T30	Drug 7396 7409	Amitriptyline
+T31	Strength 7410 7415	50 mg
+R17	Strength-Drug Arg1:T31 Arg2:T30
+T32	Route 7416 7418	PO
+R18	Route-Drug Arg1:T32 Arg2:T30
+T33	Frequency 7419 7421	HS
+R19	Frequency-Drug Arg1:T33 Arg2:T30
+T34	Drug 7425 7436	Amoxicillin
+T35	Strength 7437 7443	500 mg
+R20	Strength-Drug Arg1:T35 Arg2:T34
+T36	Route 7444 7446	PO
+R21	Route-Drug Arg1:T36 Arg2:T34
+T37	Frequency 7447 7450	Q8H
+R22	Frequency-Drug Arg1:T37 Arg2:T34
+T38	Drug 7454 7476	Sulfameth/Trimethoprim
+T39	Strength 7477 7479	DS
+R23	Strength-Drug Arg1:T39 Arg2:T38
+T40	Dosage 7480 7481	1
+R24	Dosage-Drug Arg1:T40 Arg2:T38
+T41	Form 7482 7485	TAB
+R25	Form-Drug Arg1:T41 Arg2:T38
+T42	Route 7486 7488	PO
+R26	Route-Drug Arg1:T42 Arg2:T38
+T43	Frequency 7489 7492	BID
+R27	Frequency-Drug Arg1:T43 Arg2:T38
+T44	Drug 7496 7508	Fluocinonide
+T45	Strength 7509 7513	0.05
+R28	Strength-Drug Arg1:T45 Arg2:T44
+T46	Form 7515 7520	Cream
+R29	Form-Drug Arg1:T46 Arg2:T44
+T47	Dosage 7521 7522	1
+R30	Dosage-Drug Arg1:T47 Arg2:T44
+T48	Form 7523 7527	Appl
+R31	Form-Drug Arg1:T48 Arg2:T44
+T49	Route 7528 7530	TP
+R32	Route-Drug Arg1:T49 Arg2:T44
+T50	Frequency 7531 7534	TID
+R33	Frequency-Drug Arg1:T50 Arg2:T44
+T51	Reason 7535 7545	scalp rash
+R34	Reason-Drug Arg1:T51 Arg2:T44
+T52	Drug 7549 7572	Triamcinolone Acetonide
+T53	Strength 7573 7576	0.1
+R35	Strength-Drug Arg1:T53 Arg2:T52
+T54	Form 7578 7583	Cream
+R36	Form-Drug Arg1:T54 Arg2:T52
+T55	Dosage 7584 7585	1
+R37	Dosage-Drug Arg1:T55 Arg2:T52
+T56	Form 7586 7590	Appl
+R38	Form-Drug Arg1:T56 Arg2:T52
+T57	Route 7591 7593	TP
+R39	Route-Drug Arg1:T57 Arg2:T52
+T58	Frequency 7594 7597	TID
+R40	Frequency-Drug Arg1:T58 Arg2:T52
+T59	Reason 7601 7610	body rash
+R41	Reason-Drug Arg1:T59 Arg2:T52
+T60	Drug 7614 7624	Loratadine
+T61	Strength 7630 7635	10 mg
+R42	Strength-Drug Arg1:T61 Arg2:T60
+T62	Route 7636 7640	Oral
+R43	Route-Drug Arg1:T62 Arg2:T60
+T63	Frequency 7641 7645	qday
+R44	Frequency-Drug Arg1:T63 Arg2:T60
+T64	Drug 7649 7659	Omeprazole
+T65	Strength 7660 7665	20 mg
+R45	Strength-Drug Arg1:T65 Arg2:T64
+T66	Route 7666 7668	PO
+R46	Route-Drug Arg1:T66 Arg2:T64
+T67	Frequency 7669 7674	DAILY
+R47	Frequency-Drug Arg1:T67 Arg2:T64
+T68	Drug 7678 7687	OxycoDONE
+T69	Form 7689 7706	Immediate Release
+R48	Form-Drug Arg1:T69 Arg2:T68
+T70	Strength 7709 7714	10 mg
+R49	Strength-Drug Arg1:T70 Arg2:T68
+T71	Route 7715 7717	PO
+R50	Route-Drug Arg1:T71 Arg2:T68
+T72	Frequency 7718 7721	Q6H
+R51	Frequency-Drug Arg1:T72 Arg2:T68
+T73	Drug 7726 7736	Gabapentin
+T74	Route 7754 7756	PO
+R52	Route-Drug Arg1:T74 Arg2:T73
+T75	Frequency 7757 7760	TID
+R53	Frequency-Drug Arg1:T75 Arg2:T73
+T76	Drug 7789 7802	Amitriptyline
+T77	Strength 7803 7808	50 mg
+R54	Strength-Drug Arg1:T77 Arg2:T76
+T78	Route 7809 7811	PO
+R55	Route-Drug Arg1:T78 Arg2:T76
+T79	Frequency 7812 7814	HS
+R56	Frequency-Drug Arg1:T79 Arg2:T76
+T80	Drug 7818 7833	DiphenhydrAMINE
+T81	Strength 7834 7839	25 mg
+R57	Strength-Drug Arg1:T81 Arg2:T80
+T82	Route 7840 7842	PO
+R58	Route-Drug Arg1:T82 Arg2:T80
+T83	Frequency 7843 7850	Q6H:PRN
+R59	Frequency-Drug Arg1:T83 Arg2:T80
+T84	Reason 7851 7855	itch
+R60	Reason-Drug Arg1:T84 Arg2:T80
+T85	Drug 7859 7871	Fluocinonide
+T86	Strength 7872 7876	0.05
+R61	Strength-Drug Arg1:T86 Arg2:T85
+T87	Form 7878 7883	Cream
+R62	Form-Drug Arg1:T87 Arg2:T85
+T88	Dosage 7884 7885	1
+R63	Dosage-Drug Arg1:T88 Arg2:T85
+T89	Form 7886 7890	Appl
+R64	Form-Drug Arg1:T89 Arg2:T85
+T90	Route 7891 7893	TP
+R65	Route-Drug Arg1:T90 Arg2:T85
+T91	Frequency 7894 7897	TID
+R66	Frequency-Drug Arg1:T91 Arg2:T85
+T92	Reason 7898 7908	scalp rash
+R67	Reason-Drug Arg1:T92 Arg2:T85
+T93	Drug 7912 7921	OxycoDONE
+T94	Form 7923 7940	Immediate Release
+R68	Form-Drug Arg1:T94 Arg2:T93
+T95	Strength 7943 7948	10 mg
+R69	Strength-Drug Arg1:T95 Arg2:T93
+T96	Route 7949 7951	PO
+R70	Route-Drug Arg1:T96 Arg2:T93
+T97	Frequency 7952 7955	Q6H
+R71	Frequency-Drug Arg1:T97 Arg2:T93
+T98	Drug 7959 7982	Triamcinolone Acetonide
+T99	Strength 7983 7986	0.1
+R72	Strength-Drug Arg1:T99 Arg2:T98
+T100	Form 7988 7993	Cream
+R73	Form-Drug Arg1:T100 Arg2:T98
+T101	Dosage 7994 7995	1
+R74	Dosage-Drug Arg1:T101 Arg2:T98
+T102	Form 7996 8000	Appl
+R75	Form-Drug Arg1:T102 Arg2:T98
+T103	Route 8001 8003	TP
+R76	Route-Drug Arg1:T103 Arg2:T98
+T104	Frequency 8004 8007	TID
+R77	Frequency-Drug Arg1:T104 Arg2:T98
+T105	Reason 8011 8020	body rash
+R78	Reason-Drug Arg1:T105 Arg2:T98
+T106	Drug 8024 8033	Albuterol
+T107	Strength 8034 8039	0.083
+R79	Strength-Drug Arg1:T107 Arg2:T106
+T108	Route 8041 8044	Neb
+R80	Route-Drug Arg1:T108 Arg2:T106
+T109	Form 8045 8049	Soln
+R81	Form-Drug Arg1:T109 Arg2:T106
+T110	Dosage 8050 8051	1
+R82	Dosage-Drug Arg1:T110 Arg2:T106
+T111	Form 8052 8055	NEB
+R83	Form-Drug Arg1:T111 Arg2:T106
+T112	Route 8056 8058	IH
+R84	Route-Drug Arg1:T112 Arg2:T106
+T113	Frequency 8059 8066	Q6H:PRN
+R85	Frequency-Drug Arg1:T113 Arg2:T106
+T114	Reason 8071 8079	wheezing
+R86	Reason-Drug Arg1:T114 Arg2:T106
+T115	Drug 8083 8092	Albuterol
+T116	Form 8093 8100	Inhaler
+R87	Form-Drug Arg1:T116 Arg2:T115
+T117	Form 8111 8115	PUFF
+R88	Form-Drug Arg1:T117 Arg2:T115
+T118	Route 8116 8118	IH
+R89	Route-Drug Arg1:T118 Arg2:T115
+T119	Frequency 8119 8126	Q4H:PRN
+R90	Frequency-Drug Arg1:T119 Arg2:T115
+T120	Reason 8127 8134	Wheezes
+R91	Reason-Drug Arg1:T120 Arg2:T115
+T121	Drug 8138 8148	Loratadine
+T122	Strength 8154 8159	10 mg
+R92	Strength-Drug Arg1:T122 Arg2:T121
+T123	Route 8160 8164	Oral
+R93	Route-Drug Arg1:T123 Arg2:T121
+T124	Frequency 8165 8169	qday
+R94	Frequency-Drug Arg1:T124 Arg2:T121
+T125	Drug 8173 8183	Omeprazole
+T126	Strength 8184 8189	20 mg
+R95	Strength-Drug Arg1:T126 Arg2:T125
+T127	Route 8190 8192	PO
+R96	Route-Drug Arg1:T127 Arg2:T125
+T128	Frequency 8193 8198	DAILY
+R97	Frequency-Drug Arg1:T128 Arg2:T125
+T129	Drug 8203 8214	Amoxicillin
+T130	Strength 8215 8221	500 mg
+R98	Strength-Drug Arg1:T130 Arg2:T129
+T131	Route 8222 8224	PO
+R99	Route-Drug Arg1:T131 Arg2:T129
+T132	Frequency 8225 8228	Q8H
+R100	Frequency-Drug Arg1:T132 Arg2:T129
+T133	Drug 8233 8244	amoxicillin
+T134	Strength 8245 8251	500 mg
+R101	Strength-Drug Arg1:T134 Arg2:T133
+T135	Dosage 8252 8253	1
+R102	Dosage-Drug Arg1:T135 Arg2:T133
+T136	Form 8254 8260	tablet
+R103	Form-Drug Arg1:T136 Arg2:T133
+T137	Route 8264 8272	by mouth
+R104	Route-Drug Arg1:T137 Arg2:T133
+T138	Frequency 8273 8290	three times daily
+R105	Frequency-Drug Arg1:T138 Arg2:T133
+T139	Drug 8323 8333	Gabapentin
+T140	Strength 8334 8340	100 mg
+R106	Strength-Drug Arg1:T140 Arg2:T139
+T141	Route 8341 8343	PO
+R107	Route-Drug Arg1:T141 Arg2:T139
+T142	Frequency 8344 8347	TID
+R108	Frequency-Drug Arg1:T142 Arg2:T139
+T144	Drug 8352 8390	Symbicort *NF* (budesonide-formoterol)
+T145	Strength 8391 8412	160-4.5 mcg/actuation
+R110	Strength-Drug Arg1:T145 Arg2:T144
+T146	Route 8413 8423	Inhalation
+R112	Route-Drug Arg1:T146 Arg2:T144
+T147	Frequency 8424 8429	daily
+R114	Frequency-Drug Arg1:T147 Arg2:T144
+T148	Drug 8434 8444	PredniSONE
+T149	Strength 8445 8450	60 mg
+R115	Strength-Drug Arg1:T149 Arg2:T148
+T150	Route 8451 8453	PO
+R116	Route-Drug Arg1:T150 Arg2:T148
+T151	Frequency 8454 8459	DAILY
+R117	Frequency-Drug Arg1:T151 Arg2:T148
+T152	Duration 8470 8476	2 Days
+R118	Duration-Drug Arg1:T152 Arg2:T148
+T153	Dosage 8477 8496	Tapered dose - DOWN
+R119	Dosage-Drug Arg1:T153 Arg2:T148
+T154	Drug 8501 8511	prednisone
+T155	Strength 8512 8517	10 mg
+R120	Strength-Drug Arg1:T155 Arg2:T154
+T156	Form 8530 8536	tablet
+R121	Form-Drug Arg1:T156 Arg2:T154
+T157	Route 8540 8548	by mouth
+R122	Route-Drug Arg1:T157 Arg2:T154
+T158	Frequency 8549 8554	daily
+R123	Frequency-Drug Arg1:T158 Arg2:T154
+T159	Drug 8587 8597	PredniSONE
+T160	Strength 8598 8603	40 mg
+R124	Strength-Drug Arg1:T160 Arg2:T159
+T161	Route 8604 8606	PO
+R125	Route-Drug Arg1:T161 Arg2:T159
+T162	Frequency 8607 8612	DAILY
+R126	Frequency-Drug Arg1:T162 Arg2:T159
+T163	Duration 8623 8629	2 Days
+R127	Duration-Drug Arg1:T163 Arg2:T159
+T164	Dosage 8630 8649	Tapered dose - DOWN
+R128	Dosage-Drug Arg1:T164 Arg2:T159
+T165	Drug 8654 8664	prednisone
+T166	Strength 8665 8670	20 mg
+R129	Strength-Drug Arg1:T166 Arg2:T165
+T167	Dosage 8671 8672	2
+R130	Dosage-Drug Arg1:T167 Arg2:T165
+T168	Form 8673 8679	tablet
+R131	Form-Drug Arg1:T168 Arg2:T165
+T169	Route 8683 8691	by mouth
+R132	Route-Drug Arg1:T169 Arg2:T165
+T170	Frequency 8692 8702	once daily
+R133	Frequency-Drug Arg1:T170 Arg2:T165
+T171	Drug 8734 8744	PredniSONE
+T172	Strength 8745 8750	20 mg
+R134	Strength-Drug Arg1:T172 Arg2:T171
+T173	Route 8751 8753	PO
+R135	Route-Drug Arg1:T173 Arg2:T171
+T174	Frequency 8754 8759	DAILY
+R136	Frequency-Drug Arg1:T174 Arg2:T171
+T175	Frequency 8770 8776	2 Days
+R137	Frequency-Drug Arg1:T175 Arg2:T171
+T176	Dosage 8777 8796	Tapered dose - DOWN
+R138	Dosage-Drug Arg1:T176 Arg2:T171
+T177	Drug 8801 8811	prednisone
+T178	Strength 8812 8817	20 mg
+R139	Strength-Drug Arg1:T178 Arg2:T177
+T179	Dosage 8818 8819	1
+R140	Dosage-Drug Arg1:T179 Arg2:T177
+T180	Form 8820 8826	tablet
+R141	Form-Drug Arg1:T180 Arg2:T177
+T181	Route 8830 8838	by mouth
+R142	Route-Drug Arg1:T181 Arg2:T177
+T182	Frequency 8839 8844	daily
+R143	Frequency-Drug Arg1:T182 Arg2:T177
+T183	Drug 8876 8886	PredniSONE
+T184	Strength 8887 8892	10 mg
+R144	Strength-Drug Arg1:T184 Arg2:T183
+T185	Route 8893 8895	PO
+R145	Route-Drug Arg1:T185 Arg2:T183
+T186	Frequency 8896 8901	DAILY
+R146	Frequency-Drug Arg1:T186 Arg2:T183
+T187	Duration 8912 8918	2 Days
+R147	Duration-Drug Arg1:T187 Arg2:T183
+T188	Dosage 8919 8938	Tapered dose - DOWN
+R148	Dosage-Drug Arg1:T188 Arg2:T183
+T189	Drug 8943 8953	prednisone
+T190	Strength 8954 8959	10 mg
+R149	Strength-Drug Arg1:T190 Arg2:T189
+T191	Dosage 8960 8961	1
+R150	Dosage-Drug Arg1:T191 Arg2:T189
+T192	Form 8962 8968	tablet
+R151	Form-Drug Arg1:T192 Arg2:T189
+T193	Route 8972 8980	by mouth
+R152	Route-Drug Arg1:T193 Arg2:T189
+T194	Frequency 8981 8986	daily
+R153	Frequency-Drug Arg1:T194 Arg2:T189
+T195	Drug 9018 9040	Sulfameth/Trimethoprim
+T196	Strength 9041 9043	DS
+R154	Strength-Drug Arg1:T196 Arg2:T195
+T197	Dosage 9044 9045	1
+R155	Dosage-Drug Arg1:T197 Arg2:T195
+T198	Form 9046 9049	TAB
+R156	Form-Drug Arg1:T198 Arg2:T195
+T199	Route 9050 9052	PO
+R157	Route-Drug Arg1:T199 Arg2:T195
+T200	Frequency 9053 9058	DAILY
+R158	Frequency-Drug Arg1:T200 Arg2:T195
+T201	Drug 9063 9073	Bactrim DS
+T202	Strength 9074 9087	800 mg-160 mg
+R159	Strength-Drug Arg1:T202 Arg2:T201
+T203	Dosage 9088 9089	1
+R160	Dosage-Drug Arg1:T203 Arg2:T201
+T204	Form 9090 9096	tablet
+R161	Form-Drug Arg1:T204 Arg2:T201
+T205	Route 9100 9108	by mouth
+R162	Route-Drug Arg1:T205 Arg2:T201
+T206	Frequency 9109 9114	daily
+R163	Frequency-Drug Arg1:T206 Arg2:T201
+T207	Drug 9962 9972	Prednisone
+T208	Strength 9973 9977	60mg
+R164	Strength-Drug Arg1:T208 Arg2:T207
+T209	Strength 9993 9997	40mg
+R165	Strength-Drug Arg1:T209 Arg2:T207
+T14	Reason 8067 8070	SOB
+R109	Reason-Drug Arg1:T14 Arg2:T106	

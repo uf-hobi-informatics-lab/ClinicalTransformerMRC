@@ -1,0 +1,204 @@
+Admission Date:  [**2152-6-19**]              Discharge Date:   [**2152-6-22**]
+
+Date of Birth:  [**2092-4-12**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Compazine / Droperidol / Sulfonamides / Gadolinium-Containing
+Agents / Demerol / Morphine
+
+Attending:[**First Name3 (LF) 3507**]
+Chief Complaint:
+Respiratory Distress and Chest pain
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Briefly, this is a 50 year old female with mast cell
+degranulation syndrome who presented last PM with a recurrent
+episode of respiratory distress, chest pain and abd pain
+consistent with her syndrome, who has required 3 doses of 0.3mg
+epinephrine SQ since admission and is being transferred to the
+ICU for closer monitoring. In the ED she was given epi IM,
+methylprednisolone 125mg x 1, pepcid, benadryl 50 x2, dilaudid 2
+x3, atarax 25, zofran 4 and ativan. Tonight at 5pm, the pt was
+found to be c/o SOB with labored breathing but able to speak,
+received albuterol neb without improvement. VS 136/77, HR 99,
+Sat 97% on RA. She was given IV benadryl, 0.3mg SQ epi with
+improvement, transferred to the ICU for further monitoring.
+
+Past Medical History:
+- Mast cell activation syndrome: Followed by [**First Name8 (NamePattern2) 21734**] [**Last Name (NamePattern1) **]
+who is an allergist at [**Hospital1 112**], #[**Telephone/Fax (1) 21735**]. Also followed here by
+Dr. [**Last Name (STitle) 79**] in GI. Has been intubated twice.
+- Depression/anxiety/bipolar d/o, hx of SI
+- MI in [**2147**] after receiving cardiac arrest dose epi instead of
+anaphylactic dose epi
+- HTN
+- Erosive osteoarthritis
+- GERD, gastritis and esophagitis on recent EGD [**2151-1-8**]
+- Paradoxical Vocal Cord Dysfunction viewed on fiberoptic
+laryngoscopy
+- Anemia, iron studies c/w AOCD
+- Hemorrhoids
+- pt reports EGD demonstrated vegetable bezoar (?[**12-6**]).
+- Status post hysterectomy and oophorectomy
+- h/o MRSA infection (porthacath associated)
+- portacath placed [**3-7**] - d/c'd [**2-4**] MRSA infection
+- portacath placed [**2151-6-9**]
+
+
+Social History:
+Pt is divorced.  Lives alone. She works as an ER tech in
+[**Hospital3 **]. No tobacco or EtOH or illicit drugs. Son is
+HCP [**Telephone/Fax (1) 21738**]
+
+
+Family History:
+Mother died of MI @ 76, Sister w/ breast cancer and bilateral
+mastectomy.
+
+
+Physical Exam:
+Vitals: T 97.6, BP 124/64, HR 81, RR 26, Sat 97% on NRB, FS 145
+(on admit to ICU)
+Gen: middle-aged woman, slightly cushingoid in appearance,
+awake, alert, no distress resp or otherwise
+HEENT: NCAT, EOMI, no rash
+Neck: supple, no tenting, no accessory muscle use
+CV: RRR, [**2-8**] holosyst murmur at apex without rads, no rub, no
+gallop
+Pulm: shallow breaths, no rales, no wheeze on inspiration after
+cough
+Abd: + soft, mildly tender in the epigastric area, no r/g
+Ext: no edema, no rashes, skin warm and perfused well
+
+
+Pertinent Results:
+[**2152-6-18**] 09:40PM BLOOD cTropnT-<0.01
+[**2152-6-19**] 09:38PM BLOOD CK-MB-3 cTropnT-<0.01
+[**2152-6-20**] 05:29AM BLOOD CK-MB-3 cTropnT-<0.01
+[**2152-6-18**] 09:40PM BLOOD CK(CPK)-67
+[**2152-6-19**] 02:20PM BLOOD ALT-22 AST-12 LD(LDH)-266* AlkPhos-69
+TotBili-0.2
+[**2152-6-19**] 09:38PM BLOOD CK(CPK)-30
+[**2152-6-20**] 05:29AM BLOOD CK(CPK)-22*
+[**2152-6-18**] 09:40PM BLOOD Neuts-68.0 Lymphs-25.0 Monos-6.0 Eos-1.0
+Baso-0.1
+[**2152-6-19**] 02:20PM BLOOD Neuts-92.4* Lymphs-3.4* Monos-3.8 Eos-0.1
+Baso-0.3
+[**2152-6-18**] 09:40PM BLOOD WBC-7.6# RBC-3.75* Hgb-10.6* Hct-31.3*
+MCV-84 MCH-28.4 MCHC-33.9 RDW-14.6 Plt Ct-274
+[**2152-6-22**] 05:03AM BLOOD WBC-5.3 RBC-3.41* Hgb-9.7* Hct-28.9*
+MCV-85 MCH-28.3 MCHC-33.4 RDW-14.2 Plt Ct-229
+.
+PORTABLE AP CHEST RADIOGRAPH: The lungs are clear. The heart,
+mediastinum, hila, and pulmonary vascularity are within normal
+limits. A right chest wall Port-A-Cath is seen with tip
+terminating in the distal SVC. No pneumothorax is identified.
+
+Brief Hospital Course:
+Mast Cell Degranulation Syndrome: initially admitted to the
+floor but subsequently trasnferred to ICU after requiring
+additional doses of SQ Epi.  Started on Hydrocort taper in ICU.
+She did not required additional epi while in the ICU. CP likely
+related to flare. Ruled out for MI. ECG unchanged.  She was
+continued on regimen of gastrocrom (cromolyn), ranitidine,
+atarax, benadryl, Fexofenadine.  Will complete taper of
+prednisone as an outpatient.
+.
+# HTN: Continued diltiazem.
+.
+# Depression/anxiety/bipolar: continued outpt cymbalta and
+adderall.
+.
+# osteoarthritis: cont plaquenil
+
+
+Medications on Admission:
+diltiazem CD 180mg qday
+atarax 25 QID
+Vivelle dot 0.05 twice per week
+ranitidine 300mg daily
+cymbalta 60mg qday
+plaquenil 200 [**Hospital1 **]
+adderal XR 25
+fexofenadine 180 [**Hospital1 **]
+ambien 10 prn
+zofran 8 prn
+dilaudid 2 prn
+percocet prn
+fiorcet prn
+epi pen prn
+
+
+Discharge Medications:
+1. Diltiazem HCl 180 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily).
+2. Hydroxyzine HCl 25 mg Tablet Sig: One (1) Tablet PO QID (4
+times a day).
+3. Ranitidine HCl 150 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+4. Amphetamine-Dextroamphetamine 20 mg Capsule, Sust. Release 24
+hr Sig: One (1) Capsule, Sust. Release 24 hr PO daily ().
+5. Cromolyn 100 mg/5 mL Solution Sig: Three Hundred (300) ml PO
+QID (4 times a day).
+6. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+7. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+8. Fexofenadine 60 mg Tablet Sig: Three (3) Tablet PO BID (2
+times a day).
+9. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours).
+10. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO three times a day.
+Disp:*90 Tablet, Chewable(s)* Refills:*2*
+11. Prednisone 10 mg Tablet Sig: Taper PO once a day: 40 mg x 4
+days
+30 mg x 3 days
+20 mg x 3 days
+10 mg x 3days.
+Disp:*34 Tablet(s)* Refills:*0*
+12. Vitamin D 400 unit Tablet Sig: Two (2) Tablet PO once a day.
+Disp:*60 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis
+Masth Cell Degranulation Syndrome Exascerbation
+
+Secondary Diagnoses
+- GERD
+- Depression/anxiety/bipolar d/o, has attempted suicide in the
+past
+- MI in [**2147**] after receiving cardiac arrest dose epi instead of
+
+anaphylactic dose epi
+- HTN
+- erosive osteoarthritis
+- Anemia, iron studies c/w AOCD
+- Status post hysterectomy and oophorectomy
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Please contact your primary care physician or Dr. [**Last Name (STitle) 79**] you
+develop any chest pain, nausea, vomiting, shortness of [**Last Name (STitle) 1440**],
+wheezing, or any other serious complaint.
+
+Followup Instructions:
+Provider: [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 2226**]
+Date/Time:[**2152-10-19**] 1:00
+
+
+

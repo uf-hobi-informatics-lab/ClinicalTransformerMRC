@@ -1,0 +1,124 @@
+T1	Drug 455 460	xanax
+T2	Drug 2778 2786	percocet
+T3	Drug 6798 6804	valium
+T4	Strength 6805 6810;6811 6828	10 mg (totoal of 80 mg)
+T5	Drug 2768 2773	xanax
+T6	Drug 2705 2711	valium
+T7	Drug 465 473	percocet
+T8	Drug 1976 1982	folate
+T9	Strength 2006 2010	10mg
+T10	Route 2011 2013	po
+T11	Drug 3034 3042	percocet
+T12	Drug 1501 1507	ativan
+T13	Strength 1494 1497	3mg
+T14	Route 1498 1500	PO
+T15	Drug 2014 2020	valium
+T16	Strength 2025 2028	6mg
+T18	Drug 6242 6247	xanax
+T19	Route 6795 6797	po
+T20	Drug 7461 7466	Xanax
+T21	Drug 614 619	xanax
+T22	Drug 1553 1562	thorazine
+T23	Drug 1962 1970	thiamine
+T24	Strength 1972 1975	1mg
+T25	Drug 6252 6260	percocet
+T26	Drug 1518 1526	benadryl
+T27	Strength 1509 1514	100mg
+T28	Route 1532 1534	PO
+T29	Drug 624 632	percocet
+T30	Drug 2418 2424	ativan
+T31	Dosage 2429 2430;2431 2436	a liter
+T32	Drug 2039 2048	lorazepam
+T33	Drug 2234 2240	ativan
+T34	Drug 1535 1541	haldol
+T35	Strength 1547 1552	200mg
+T36	Reason 2277 2296	worsening agitation
+T37	Route 1515 1517	PO
+T38	Strength 1528 1531	5mg
+T39	Duration 1563 1575	over 6 hours
+T40	Dosage 1946 1948	1L
+T41	Drug 1948 1950	NS
+T42	Strength 1956 1961	100mg
+T43	Drug 1987 1990	MVI
+T44	Route 2029 2031	IM
+T45	Strength 2227 2230	2mg
+T47	Strength 2408 2411	2mg
+T49	Drug 2440 2442	NS
+T50	Strength 2697 2701	10mg
+T51	Reason 2669 2682	hallucinating
+T52	Reason 2341 2354	hallucinating
+T53	Drug 3004 3010	Xanbar
+T54	Frequency 3011 3016	daily
+T55	Drug 6377 6391	Benzodiazepine
+T56	ADE 6392 6402	withdrawal
+T57	Reason 6616 6632	Delerium Tremens
+T58	Drug 7180 7185	benzo
+T59	Drug 7190 7199	narcotics
+T60	Drug 7476 7485	Perciocet
+T61	ADE 7943 7953	withdrawal
+T62	Drug 7959 7974	benzodiazepines
+T63	Frequency 6829 6832	q1h
+R1	Strength-Drug Arg1:T4 Arg2:T3
+R2	Strength-Drug Arg1:T9 Arg2:T15
+R3	Route-Drug Arg1:T10 Arg2:T15
+R4	Strength-Drug Arg1:T13 Arg2:T12
+R5	Route-Drug Arg1:T14 Arg2:T12
+R6	Strength-Drug Arg1:T16 Arg2:T32
+R8	Strength-Drug Arg1:T24 Arg2:T8
+R9	Strength-Drug Arg1:T27 Arg2:T26
+R10	Route-Drug Arg1:T28 Arg2:T34
+R11	Strength-Drug Arg1:T35 Arg2:T22
+R12	Route-Drug Arg1:T37 Arg2:T26
+R13	Strength-Drug Arg1:T38 Arg2:T34
+R14	Duration-Drug Arg1:T39 Arg2:T22
+R15	Dosage-Drug Arg1:T40 Arg2:T41
+R16	Strength-Drug Arg1:T42 Arg2:T23
+R17	Route-Drug Arg1:T44 Arg2:T32
+R19	Strength-Drug Arg1:T45 Arg2:T33
+R20	Reason-Drug Arg1:T36 Arg2:T33
+R21	Strength-Drug Arg1:T47 Arg2:T30
+R23	Strength-Drug Arg1:T50 Arg2:T6
+R24	Reason-Drug Arg1:T51 Arg2:T6
+R25	Reason-Drug Arg1:T52 Arg2:T30
+R26	Frequency-Drug Arg1:T54 Arg2:T53
+R27	ADE-Drug Arg1:T56 Arg2:T55
+R28	Route-Drug Arg1:T19 Arg2:T3
+R29	Reason-Drug Arg1:T57 Arg2:T3
+R30	ADE-Drug Arg1:T61 Arg2:T62
+R31	Frequency-Drug Arg1:T63 Arg2:T3
+T64	Reason 6311 6330	worsening agitation
+T65	ADE 8004 8013	agitation
+T66	ADE 533 542	agitation
+T67	ADE 547 561;562 568	altered mental status
+T68	ADE 1442 1453	combatative
+T69	ADE 1429 1437	confused
+T76	ADE 6335 6342;6343 6356	altered mental status
+T77	ADE 6579 6593	hallucinations
+T78	Duration 6833 6861;6862 6864	until his CIWA was less than 10
+T79	Drug 7605 7619	benzodiazepine
+T80	ADE 7620 7630	withdrawal
+T81	ADE 7985 7999	hallucinations
+R32	ADE-Drug Arg1:T80 Arg2:T79
+R33	ADE-Drug Arg1:T66 Arg2:T7	
+R34	ADE-Drug Arg1:T67 Arg2:T7	
+R35	ADE-Drug Arg1:T66 Arg2:T1	
+R36	ADE-Drug Arg1:T67 Arg2:T1	
+R37	ADE-Drug Arg1:T69 Arg2:T29	
+R38	ADE-Drug Arg1:T68 Arg2:T29	
+R39	Dosage-Drug Arg1:T31 Arg2:T49	
+R40	Reason-Drug Arg1:T64 Arg2:T18	
+R41	ADE-Drug Arg1:T76 Arg2:T18	
+R42	Reason-Drug Arg1:T64 Arg2:T25	
+R43	ADE-Drug Arg1:T76 Arg2:T25	
+R44	ADE-Drug Arg1:T77 Arg2:T55	
+R45	Duration-Drug Arg1:T78 Arg2:T3	
+R46	ADE-Drug Arg1:T81 Arg2:T62	
+R47	ADE-Drug Arg1:T65 Arg2:T62	
+T17	Route 2036 2038	IV
+R7	Route-Drug Arg1:T17 Arg2:T32	
+T46	Route 2231 2233	IV
+R18	Route-Drug Arg1:T46 Arg2:T33	
+T48	Route 2415 2417	IV
+R22	Route-Drug Arg1:T48 Arg2:T30	
+T70	Reason 2359 2367	agitated
+R48	Reason-Drug Arg1:T70 Arg2:T30	

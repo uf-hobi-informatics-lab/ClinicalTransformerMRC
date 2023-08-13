@@ -1,0 +1,217 @@
+Admission Date:  [**2121-7-21**]              Discharge Date:   [**2121-7-28**]
+
+Date of Birth:  [**2061-5-14**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Haloperidol / Valium
+
+Attending:[**First Name3 (LF) 905**]
+Chief Complaint:
+coffee ground emesis
+
+Major Surgical or Invasive Procedure:
+upper endoscopy [**7-21**]
+
+History of Present Illness:
+60 yo M with Hx of CVA admitted to [**Hospital1 **] 4 for suicidal ideation
+(w/ no plan or attempts) was noted to have coffee ground emesis
+twice this evening. On initial evalution by med consult:
+afebrile, with lying BP=127/95, HR=119 & sitting BP=141/104,
+HR=125, in NAD. Quantity of emesis unknown but he was found with
+dried blood on his gown and hands.
+.
+He had originally been transferred to [**Hospital1 **] 4 from the [**Hospital1 **]
+Group Home reporting thoughts of suicide to staff. He reported
+that recently both his mother and an aunt were hospitalized with
+medical conditions. He stated that in this context, he became
+depressed and began having delusional beliefs. He denied
+paranoid delusions and auditory or visual hallucinations.
+.
+Prior to transfer, T&S sent, 2 PIVs placed, IV PPI given, 2L NS
+given. Labs drawn prior to transfer notable for a stable Hct at
+42.6 and leukocytosis of 17.
+.
+On arrival, somnolent but easily arousable and oriented x3.
+Denies ever having had bloody emesis.
+
+
+Past Medical History:
+- Paranoid Schizophrenia
+- Left frontoparietal stroke ([**2114**])- maintained on ASA and
+plavix
+- Seizures
+- Tardive dyskinesia
+- Constipation, bowel/bladder incontinence
+- Migraines
+- COPD
+
+Social History:
+Lives at [**Hospital1 **] [**Hospital1 1426**] [**Hospital3 400**].
+Contacts include father, [**Name (NI) **] [**Name (NI) 23919**] [**Telephone/Fax (1) 23921**] and aunt, [**Name (NI) **]
+[**Name (NI) **], [**Telephone/Fax (1) 23922**].
+
+
+Family History:
+-aunt with scoliosis
+-father with seizures and hepatitis
+-mother with ? aneurysm, stroke, heart valve replacement
+
+
+Physical Exam:
+VS: HR 96 BP 119/63 SaO2 94% RA
+Gen: cooperative, anxious elderly man lying in bed in NAD
+HEENT: anicteric sclerae, EOMI, pupils reactive to light.
+surgical pupil OS (s/p PE:PCIOL). Very dry mucous membranes
+CV: RRR nl S1, S2 no murmurs
+Lungs: CTAB no wheezes
+Abd: +BS, soft, ND diffusely tender to palpation esp RUQ
+Ext: 2+ pulses B/L DP and PT
+Neuro: A&Ox3 but poor insight. able to spell world forwards and
+backwards, unable to perform serial 7's. Able to repeat a
+sentence, speech somewhat tangential and repetitive. Concerned
+he
+is not "getting the right medications for his condition"
+R-sided facial droop (possibly residual from L-sided CVA)
+Strength: [**5-13**] UE and LE B/L
+Cerebellar: FNF intact, gait not assessed
+
+
+Pertinent Results:
+Labs on Admission [**2121-7-21**]
+WBC-17.4*# RBC-4.60 Hgb-14.8 Hct-42.6 MCV-93 MCH-32.3* Plt
+Ct-242
+PT-11.7 PTT-23.7 INR(PT)-1.0
+Glucose-177* UreaN-33* Creat-1.8* Na-129* K-4.3 Cl-91* HCO3-25
+AnGap-17
+ALT-20 AST-19 AlkPhos-73 Amylase-73 TotBili-0.5
+Lipase-33
+Calcium-9.9 Phos-4.5 Mg-2.5
+.
+.
+.
+.
+.
+.
+Other Studies:
+[**2121-7-21**] CXR: Generally low lung volumes and more pronounced
+elevation of the right hemidiaphragm than the left are
+longstanding. There is no evidence of aspiration, no pneumonia
+or atelectasis. Lungs are essentially clear. Heart size normal.
+No pleural abnormality.
+[**2121-7-21**] EGD: Grade 4 esophagitis with spontaneous bleeding was
+seen in the lower third of the esophagus. Cold forceps biopsies
+were performed for histology at the lower third of the
+esophagus. Normal stomach. Normal duodenum.
+
+
+
+Brief Hospital Course:
+This is a 60 yo M with Hx of CVA admitted to [**Hospital1 **] 4 for suicidal
+ideation (w/ no plan or attempts) was noted to have coffee
+ground emesis twice this evening without prior Hx of GI bleed.
+.
+# Upper GIB: The patient has no history of gastric, hepatic, or
+esopheal pathology. No predisposing medications. 2 peripheral
+IV's in place. Pt typed and screened. Hemodynamically stable.
+Initial tachycardia was concerning, but orthostatic signs were
+negative. Stable Hct can be misleading as it was drawn soon
+after episode and patient had not received volume in the
+interim. The patient has an active type and scree. The patient's
+coffee ground emesis resolved quickly with NG tube and lavage.
+An IV PPI [**Hospital1 **] was started. IV PPI [**Hospital1 **] was changed to PO PPI [**Hospital1 **]
+on [**7-23**].
+.
+# Psych: Per the psychiatry team, the patient is Section 12'd
+and does not require a 1:1 sitter. Continuing
+citalopram/olanzapine. Mental status at baseline per [**Hospital1 **] 4
+team. Restarted trileptal.
+.
+# Hx of CVA: re-started ASA/ Plavix as per GI team's recs.
+.
+# urinary retention: when foley was pulled initially pt had
+difficulty voiding. bladder scan at the time revealed 870cc
+residual. straight cath was attempted but this met w/
+resistance. Urology was consulted and they recommended
+re-instating the foley catheter and starting pt on 0.4mg flomax
+daily. the foley was left in place from [**7-25**] to [**7-28**] as per
+urology's recs and it was removed on [**7-28**]. He passed his voiding
+trial and was accepted for transfer to [**Hospital1 **] 4.
+
+Medications on Admission:
+Home medications:
+zyprexa 25mg at night
+citalopram 10mg once daily
+trileptal 600mg qhs plus
+asa 325mg once daily
+bisacodyl every other day
+detrol 1mg [**Hospital1 **]
+robitussin 1 tsp QID
+plavix 75mg once daily
+miralax once daily
+spiriva
+symbicort
+vit b12
+
+
+Discharge Medications:
+zyprexa 25mg at night
+citalopram 10mg once daily
+trileptal 600mg qhs plus
+asa 325mg once daily
+bisacodyl every other day
+detrol 1mg [**Hospital1 **]
+robitussin 1 tsp QID
+plavix 75mg once daily
+miralax once daily
+spiriva
+symbicort
+vit b12
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+PRIMARY: hematemesis
+SECONDARY: Depression/ SI, paranoid schizophrenia, seizure
+disorder
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+You came to the psych floor of the hospital on [**7-17**] with suicidal
+thoughts and abdominal pain. You had one episode of vomiting but
+otherwise did well until [**7-21**] when you vomited some blood. You
+went to the intensive care unit and had an upper endoscopy
+performed by the GI doctors. They found a small bleed in your
+lower esophagus and some yeast. We treated you for the yeast
+with some anti-fungals. You did well in the ICU and came to the
+general medicine floors on [**7-22**]. You continued to do well with
+no further episodes of bleeding but had some problems retaining
+urine.
+Please come back to the hospital if you have any of the
+following symptoms: shortness of breath, chest pain, severe
+abdominal pain, blood in your stool or urine.
+
+Your medications have been changed as follows:
+
+Flomax 0.4mg PO daily
+
+Followup Instructions:
+MD: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3708**]
+
+Specialty: Gastroenterology
+
+Date and time: [**2121-8-15**] 9:00am
+
+Location: [**Location (un) 830**] [**Hospital Unit Name 1825**] [**Location (un) **]
+
+Phone number: [**Telephone/Fax (1) 463**]
+
+
+                             [**Name6 (MD) 251**] [**Name8 (MD) **] MD [**MD Number(1) 910**]
+
+Completed by:[**2121-7-28**]

@@ -1,0 +1,194 @@
+T1	Drug 8577 8584	insulin
+T2	Drug 2629 2637	Protonix
+T3	Strength 2638 2643	40 mg
+T4	Drug 2649 2659	Metoprolol
+T5	Strength 2660 2665	50 mg
+T6	Drug 4801 4810	Diltiazem
+T7	Drug 1164 1172	Cardizem
+T8	Route 1193 1197	p.o.
+T9	Drug 2573 2581	Cardizem
+T10	Strength 2582 2587	60 mg
+T11	Frequency 2593 2599	q.i.d.
+T12	Route 2588 2592	p.o.
+T13	Drug 2510 2517	Heparin
+T14	Drug 7954 7964	Vancomycin
+T15	Strength 7979 7985	750 mg
+T16	Route 7965 7978	intravenously
+T17	Drug 2068 2077	Verapamil
+T18	Drug 2606 2615	Synthroid
+T19	Strength 2616 2623	100 mcg
+T20	Drug 2518 2525	Sotalol
+T21	Strength 2526 2531	80 mg
+T22	Frequency 2532 2538	b.i.d.
+T23	Drug 6169 6176;6177 6192	calcium channel blocker
+T24	Drug 7512 7521	Risperdal
+T25	Strength 7522 7527	.5 mg
+T26	Route 7528 7532	p.o.
+T27	Drug 2329 2338	Verapamil
+T28	Frequency 2343 2349	b.i.d.
+T29	Drug 8026 8032	Flagyl
+T30	Strength 8033 8039	500 mg
+T31	Frequency 8045 8051	t.i.d.
+T32	Route 8040 8044	p.o.
+T33	Drug 1141 1151	Metoprolol
+T34	Drug 2082 2089	Digoxin
+T35	Drug 7203 7212	Synthroid
+T36	Drug 7588 7596	Prevacid
+T37	Strength 7597 7602	30 mg
+T38	Route 7603 7607	p.o.
+T39	Drug 5285 5292	Esmolol
+T40	Drug 6822 6832	Vancomycin
+T41	Route 6833 6846	intravenously
+T42	Drug 6760 6766	Flagyl
+T43	Strength 6788 6794	500 mg
+T44	Duration 6767 6779	for a 14 day
+T45	Frequency 6795 6801	b.i.d.
+T46	Drug 1129 1136	Sotalol
+T47	Drug 7722 7729	Heparin
+T48	Dosage 7730 7740	5000 units
+T49	Frequency 7756 7762	b.i.d.
+T50	Route 7741 7755	subcutaneously
+T51	Drug 7617 7626	Synthroid
+T52	Strength 7627 7633	200 mg
+T53	Route 7634 7638	p.o.
+T54	Drug 2350 2357	Aspirin
+T55	Drug 2433 2440	Digoxin
+T56	Strength 2441 2448	.125 mg
+T57	Drug 2545 2554	Risperdal
+T58	Strength 2555 2559	5 mg
+T59	Route 2560 2564	p.o.
+T60	Drug 7648 7656	Nystatin
+T61	Form 7657 7663	powder
+T62	Drug 5417 5424	Esmolol
+T63	Drug 7544 7551	Tylenol
+T64	Strength 7552 7558	650 mg
+T65	Route 7559 7563	p.o.
+T66	Drug 2363 2372	Synthroid
+T67	Strength 2373 2380	100 mcg
+T68	Drug 1085 1093	Dopamine
+T69	Drug 8510 8519	Synthroid
+T70	Drug 5429 5439	Amiodarone
+T72	Reason 4832 4843	tachycardia
+T73	ADE 4865 4876	hypotensive
+T74	Reason 6197 6209	rate control
+T75	Route 1094 1098	drip
+T76	Reason 1021 1081	long ventriculoperitoneal tachycardiac narrow complex at 139
+T77	Reason 2024 2054	paroxysmal atrial fibrillation
+T78	Strength 2339 2342	120
+T79	Frequency 2358 2362	q.d.
+T80	Frequency 2381 2385	q.d.
+T81	Duration 2449 2463	times one year
+T82	Route 2497 2509	Subcutaneous
+T83	Frequency 2565 2572	q. h.s.
+T84	Frequency 2624 2628	q.d.
+T85	Frequency 2644 2648	q.d.
+T86	Frequency 2666 2676	q. 6 hours
+T87	Route 4811 4815	drip
+T88	Route 5293 5297	drip
+T89	Drug 5302 5315	Neosynephrine
+T90	Route 5316 5320	drip
+T91	Reason 5342 5353	hypotension
+T92	Drug 5490 5503	Neosynephrine
+T93	Drug 5549 5557	pressors
+T94	Drug 5588 5593	fluid
+T95	Strength 6847 6850	750
+T96	Frequency 6851 6856	q. 18
+T97	Duration 6873 6883	seven days
+T98	Reason 7144 7171	TSH was also elevated to 25
+T99	Frequency 7533 7539	q.h.s.
+T100	Frequency 7564 7583	q. 4 to 6 hours prn
+T101	Frequency 7608 7612	q.d.
+T102	Frequency 7639 7643	q.d.
+T103	Frequency 7682 7686	q.d.
+T104	Drug 7691 7702	Neutra-Phos
+T105	Dosage 7703 7704	2
+T106	Form 7705 7712	packets
+T107	Frequency 7713 7717	q.d.
+T108	Frequency 7986 7997	q. 18 hours
+T109	Dosage 8563 8570;8571 8576	sliding scale
+R1	Strength-Drug Arg1:T3 Arg2:T2
+R2	Strength-Drug Arg1:T5 Arg2:T4
+R3	Route-Drug Arg1:T8 Arg2:T7
+R4	Strength-Drug Arg1:T10 Arg2:T9
+R5	Frequency-Drug Arg1:T11 Arg2:T9
+R6	Route-Drug Arg1:T12 Arg2:T9
+R7	Strength-Drug Arg1:T15 Arg2:T14
+R8	Route-Drug Arg1:T16 Arg2:T14
+R9	Strength-Drug Arg1:T19 Arg2:T18
+R10	Strength-Drug Arg1:T21 Arg2:T20
+R11	Frequency-Drug Arg1:T22 Arg2:T20
+R12	Strength-Drug Arg1:T25 Arg2:T24
+R13	Route-Drug Arg1:T26 Arg2:T24
+R14	Frequency-Drug Arg1:T28 Arg2:T27
+R15	Strength-Drug Arg1:T30 Arg2:T29
+R16	Frequency-Drug Arg1:T31 Arg2:T29
+R17	Route-Drug Arg1:T32 Arg2:T29
+R18	Strength-Drug Arg1:T37 Arg2:T36
+R19	Route-Drug Arg1:T38 Arg2:T36
+R20	Route-Drug Arg1:T41 Arg2:T40
+R21	Strength-Drug Arg1:T43 Arg2:T42
+R22	Duration-Drug Arg1:T44 Arg2:T42
+R23	Frequency-Drug Arg1:T45 Arg2:T42
+R24	Dosage-Drug Arg1:T48 Arg2:T47
+R25	Frequency-Drug Arg1:T49 Arg2:T47
+R26	Route-Drug Arg1:T50 Arg2:T47
+R27	Strength-Drug Arg1:T52 Arg2:T51
+R28	Route-Drug Arg1:T53 Arg2:T51
+R29	Strength-Drug Arg1:T56 Arg2:T55
+R30	Strength-Drug Arg1:T58 Arg2:T57
+R31	Route-Drug Arg1:T59 Arg2:T57
+R32	Form-Drug Arg1:T61 Arg2:T60
+R33	Strength-Drug Arg1:T64 Arg2:T63
+R34	Route-Drug Arg1:T65 Arg2:T63
+R35	Strength-Drug Arg1:T67 Arg2:T66
+R36	Route-Drug Arg1:T75 Arg2:T68
+R37	Reason-Drug Arg1:T76 Arg2:T33
+R38	Reason-Drug Arg1:T76 Arg2:T46
+R39	Reason-Drug Arg1:T77 Arg2:T34
+R40	Frequency-Drug Arg1:T80 Arg2:T66
+R41	Frequency-Drug Arg1:T79 Arg2:T54
+R42	Strength-Drug Arg1:T78 Arg2:T27
+R43	Duration-Drug Arg1:T81 Arg2:T55
+R44	Route-Drug Arg1:T82 Arg2:T13
+R45	Frequency-Drug Arg1:T83 Arg2:T57
+R46	Frequency-Drug Arg1:T86 Arg2:T4
+R47	Frequency-Drug Arg1:T85 Arg2:T2
+R48	Frequency-Drug Arg1:T84 Arg2:T18
+R49	Reason-Drug Arg1:T72 Arg2:T6
+R50	Route-Drug Arg1:T87 Arg2:T6
+R51	ADE-Drug Arg1:T73 Arg2:T6
+R52	Route-Drug Arg1:T88 Arg2:T39
+R53	Reason-Drug Arg1:T91 Arg2:T89
+R54	Route-Drug Arg1:T90 Arg2:T89
+R55	Reason-Drug Arg1:T74 Arg2:T23
+R56	Frequency-Drug Arg1:T96 Arg2:T40
+R57	Strength-Drug Arg1:T95 Arg2:T40
+R58	Duration-Drug Arg1:T97 Arg2:T40
+R59	Reason-Drug Arg1:T98 Arg2:T35
+R60	Frequency-Drug Arg1:T99 Arg2:T24
+R61	Frequency-Drug Arg1:T100 Arg2:T63
+R62	Frequency-Drug Arg1:T101 Arg2:T36
+R63	Frequency-Drug Arg1:T102 Arg2:T51
+R64	Frequency-Drug Arg1:T103 Arg2:T60
+R65	Frequency-Drug Arg1:T107 Arg2:T104
+R66	Form-Drug Arg1:T106 Arg2:T104
+R67	Dosage-Drug Arg1:T105 Arg2:T104
+R68	Frequency-Drug Arg1:T108 Arg2:T14
+R69	Dosage-Drug Arg1:T109 Arg2:T1
+T110	Drug 7813 7824;7825 7830	ProMod with fiber
+T111	Dosage 7834 7836;7837 7842	65 cc/hr
+T112	Reason 2010 2022	hypertension
+T113	Reason 5576 5587	maintenance
+T114	Route 6157 6168	intravenous
+T116	Reason 7800 7810	Tube feeds
+T117	Dosage 7909 7921	bolus 100 cc
+T118	Route 7926 7942	gastrostomy tube
+T119	Frequency 7943 7949	t.i.d.
+R70	Dosage-Drug Arg1:T111 Arg2:T110
+R71	Reason-Drug Arg1:T116 Arg2:T110
+R72	Dosage-Drug Arg1:T117 Arg2:T110
+R73	Route-Drug Arg1:T118 Arg2:T110
+R74	Frequency-Drug Arg1:T119 Arg2:T110
+R75	Reason-Drug Arg1:T112 Arg2:T17	
+R76	Reason-Drug Arg1:T113 Arg2:T94	
+R77	Route-Drug Arg1:T114 Arg2:T23	

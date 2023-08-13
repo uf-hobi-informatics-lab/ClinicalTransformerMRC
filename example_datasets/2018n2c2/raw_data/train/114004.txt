@@ -1,0 +1,278 @@
+Admission Date:  [**2114-2-28**]              Discharge Date:   [**2114-3-2**]
+
+Date of Birth:  [**2046-11-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Furosemide / Klor-Con / ZPACK / Atrovent
+
+Attending:[**First Name3 (LF) 983**]
+Chief Complaint:
+BRBRP hematuria
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+67 YOM who presents with worsening B BRBPR and hematuria.  He
+reports developing BRBPR 8-9 months ago after starting pradaxa
+for afib.  It remained stable, but over the past 4-5 days there
+has been increasing blood and rectal pain along with hematuria
+and dysuria.  He reports this was in the setting of cold
+symptoms.  He denies melena, abdominal pain, nausea or vomiting.
+He had some mild shortness of breath and fatigue yesterday and
+today, but no CP.
+.
+In the ED, initial VS were ED 97.2 57 82/58 16 96%, and he
+triggered for hypotension.  EKG showed sinus 60 na ni qtc 496.
+WBC was 20.6 and Hct was 37.7.  INR was 1.3.  Cr was 2.0 but
+improved to 1.5.  Lactate 1.7.  UA showed 108 wbc and many
+bacteria.  He had a CT a/p which showed cystitis but no major
+bleed.  He received cipro/flagyl.  2 PIVs were placed and
+received 2L NS.  He did not receive blood.
+.
+He was seen by GI who felt that he may warrant a colonoscopy
+initially, but decided given his stable picture to defer for
+now.
+.
+On arrival to the MICU, he is comfortable and without any
+complaints.  VS 98.3  97/58  66  16  94% RA
+
+Review of systems:
+(+) Per HPI
+(-) Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denies cough, shortness of breath, or wheezing. Denies chest
+pain, chest pressure, palpitations, or weakness. Denies nausea,
+vomiting, diarrhea, constipation, abdominal pain. Denies rashes
+or skin changes.
+.
+
+
+Past Medical History:
+Atrial fibrillation
+ED
+Gout
+HTN
+Hypothyroid
+OSA
+Asthma
+Venous stasis ulcers
+
+
+Social History:
+lives alone in [**Location (un) **].  recently separated.  drinks 3
+scotches/night.  No hx of withdrawals.  smokes 4 cigars/night.
+no illicits
+.
+
+
+Family History:
+NC
+
+
+Physical Exam:
+On admission:
+Vitals: 98.3  97/58  66  16  94% RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, pale conjunctiva.  MMM, oropharynx
+clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: diffuse wheezes.  No crackles
+Abdomen: obese soft, non-tender, non-distended, bowel sounds
+present, no organomegaly
+Rectal (in ED): Guiac + brown stool, external hemorroids, no
+obvious fissues
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, 1+ edema.  Multiple leg
+scars
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally, gait
+deferred, finger-to-nose intact
+
+
+Pertinent Results:
+[**2114-2-28**] 10:58AM BLOOD WBC-20.6*# RBC-3.81* Hgb-12.1*# Hct-37.7*
+MCV-99* MCH-31.9 MCHC-32.2# RDW-13.5 Plt Ct-139*
+[**2114-2-28**] 10:58AM BLOOD Neuts-73* Bands-5 Lymphs-14* Monos-7
+Eos-1 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2114-2-28**] 10:58AM BLOOD PT-14.7* PTT-34.7 INR(PT)-1.4*
+[**2114-2-28**] 10:58AM BLOOD Glucose-128* UreaN-36* Creat-2.0* Na-139
+K-5.8* Cl-103 HCO3-25 AnGap-17
+[**2114-3-1**] 03:13AM BLOOD ALT-67* AST-39 LD(LDH)-275* AlkPhos-74
+TotBili-0.5
+[**2114-2-28**] 10:58AM BLOOD Calcium-7.9* Phos-5.2*# Mg-1.8
+[**2114-2-28**] 12:34PM BLOOD Lactate-1.7
+[**2114-2-28**] 01:56PM URINE Color-Yellow Appear-Hazy Sp [**Last Name (un) **]-1.016
+[**2114-2-28**] 01:56PM URINE RBC-10* WBC-108* Bacteri-MANY Yeast-NONE
+Epi-0
+[**2114-2-28**] 01:56PM URINE CastHy-27*
+
+CXR:
+FINDINGS: Frontal and lateral views of the chest are compared to
+previous
+exam from [**2113-3-14**]. Compared to prior, there is new
+central pulmonary vascular engorgement with mild cephalization
+of the pulmonary vasculature.  There is no confluent
+consolidation or effusion. Cardiomediastinal silhouette is
+stable, as are the osseous and soft tissue structures.
+IMPRESSION: Findings suggestive of mild pulmonary vascular
+congestion without frank pulmonary edema.
+
+CT Abd/Pelvis:
+1. Thickened bladder wall with surrounding stranding potentially
+secondary to cystitis and correlation with UA suggested.
+2. There is no retroperitoneal hematoma.
+3. Hypodense lesions in each kidney likely represent cysts,
+however, not
+fully characterized on nonenhanced CT scan. If desired US could
+help
+characterize.
+4. Enlarged prostate.
+
+
+Brief Hospital Course:
+67 yom with history of a.fib, on pradaxa, now presenting with
+worsening BRBPR and hematuria
+.
+# GI Bleed: Patient was monitored in the MICU overnight for GIB
+given pradaxa use.  He remained normotensive throughout his MICU
+stay without drop in Hct.  He was evaluated by GI who felt no
+urgent colonoscopy was needed, and symptoms were likely
+secondary hemorrhoidal and exacerbated by anticoagulation.  He
+was transferred to the medical floor where he remained stable
+o/n.  After discussion with Dr. [**Last Name (STitle) **] the patient's out- patient
+cardiologist, given the fact that he has been in sinus for the
+better part of a year and has not flipped into AFIB he was d/c'd
+on full dose ASA with GI f/u scheduled.
+.
+# UTI: Patient was started on ciprofloxacin for UTI as evidenced
+by UA and dysuria.  He was subsequently switched to cefpodoxime
+given concern for prolonged QTc in combination with amiodarone.
+Micro showed a sensitive E. Coli.
+.
+# Afib: Patient remained in sinus rhythm.  Anticoagulation was
+initially held, then switched to ASA as above.
+
+# [**Last Name (un) **]: Creatinine was 2.0 on admission, improving to 1.2 the
+following day and 1.0 on the day of discharge.  Thought to be
+secondary to volume depletion.
+
+# Wheezing: Patine twas initially slightly wheezy on exam
+thoguht to be sedcondary to mild volume overload.  The following
+day pulmonary exam had improved, patient was comfortable on room
+air.  He refused scripts for inhalers at home, saying he only
+needs them when he is sick.
+
+.
+# Hypertension: Home medications initially held in the MICU,
+were restarted after patient demonstrated hemodynamic stability
+and transferred to the floor.  Did well from this standpoint
+until discharge.
+
+
+Medications on Admission:
+albuterol prn
+alprazolam prn'
+amiodarone 200mg po daily
+atenolol 50mg po daily
+clobetasol 0.05% prn
+dabigatran 150mg po bid
+flovent 110 2 puffs [**Hospital1 **]
+levoxyl 100mcg daily
+lisinopril 40mg po daily
+percocet prn
+cialis
+triamterene/hctz 37.5/25
+ca/Vit D
+fish oil
+MTV
+
+
+Discharge Medications:
+1. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. alprazolam 1 mg Tablet Sig: 1.5 Tablets PO QHS (once a day
+(at bedtime)) as needed for insomnia.
+4. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+5. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable
+Sig: One (1) Tablet, Chewable PO BID (2 times a day).
+6. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every
+12 hours) for 5 days.
+Disp:*20 Tablet(s)* Refills:*0*
+8. phenazopyridine 100 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 2 days.
+Disp:*6 Tablet(s)* Refills:*0*
+9. atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+11. triamterene-hydrochlorothiazid 37.5-25 mg Capsule Sig: One
+(1) Cap PO DAILY (Daily).
+12. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+13. Cialis 5 mg Tablet Sig: One (1) Tablet PO prn as needed for
+intercourse.
+14. Fish Oil 1,000 mg Capsule Sig: One (1) Capsule PO once a
+day.
+15. Flovent HFA 110 mcg/actuation Aerosol Sig: Two (2) puffs
+Inhalation twice a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Lower GI bleeding c/b anticoagulation
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. [**Known lastname 9861**],
+   It has been a pleasure taking care of you in the hospital.
+You were admitted after you saw some blood with your bowel
+movements.  You were observed overnight in the ICU and did quite
+well.  We discussed your pradaxa with Dr. [**Last Name (STitle) **] who agreed that
+you should switch to full dose aspirin.
+.
+Please START Asiprin 325mg daily
+Please STOP Dabigatran(Pradaxa)
+Please START Cefpodoxime 200mg twice per day for 5 more days
+Please START Pyridium to treat you urinary symptoms
+
+
+Followup Instructions:
+Department: [**State **]When: FRIDAY [**2114-3-9**] at 9:30 AM
+With: [**Name6 (MD) **] [**Name8 (MD) 9862**], MD [**Telephone/Fax (1) 2205**]
+Building: [**State **] ([**Location (un) **], MA) [**Location (un) **]
+Campus: OFF CAMPUS     Best Parking: On Street Parking
+.
+DR. [**Last Name (STitle) 9863**] IS WORKING ON GETTING YOU AN EARLIER APPOINTMENT
+AND WILL CALL YOU WITH IT
+.
+Department: DIV. OF GASTROENTEROLOGY
+When: TUESDAY [**2114-4-10**] at 3:30 PM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 9864**], MD [**Telephone/Fax (1) 463**]
+Building: Ra [**Hospital Unit Name 1825**] ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) **]
+Campus: EAST     Best Parking: Main Garage
+.
+Department: WEST PROCEDURAL CENTER
+When: TUESDAY [**2114-5-8**] at 12:30 PM
+With: WPC ROOM THREE [**Telephone/Fax (1) 5072**]
+Building: [**Hospital Ward Name 121**] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **]
+Campus: WEST     Best Parking: [**Street Address(1) 592**] Garage
+
+
+
+Completed by:[**2114-3-4**]

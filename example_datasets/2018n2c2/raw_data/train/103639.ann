@@ -1,0 +1,155 @@
+T1	Drug 166 175	Vitamin K
+T2	Drug 3176 3185	Vitamin K
+T3	Drug 3202 3205	FFP
+T4	Drug 3248 3257	Vitamin K
+T5	ADE 3291 3312	anaphylactic reaction
+R1	ADE-Drug Arg1:T5 Arg2:T4
+R2	ADE-Drug Arg1:T5 Arg2:T7
+T7	Drug 3323 3332	Vitamin K
+T8	Drug 4009 4018	Rifaximin
+T9	Strength 4019 4025	400 mg
+R5	Strength-Drug Arg1:T9 Arg2:T8
+T10	Route 4026 4028	PO
+R6	Route-Drug Arg1:T10 Arg2:T8
+T11	Frequency 4029 4032	TID
+R7	Frequency-Drug Arg1:T11 Arg2:T8
+T12	Drug 4034 4041	Nadolol
+T13	Strength 4042 4047	20 mg
+R8	Strength-Drug Arg1:T13 Arg2:T12
+T14	Frequency 4048 4053	DAILY
+R9	Frequency-Drug Arg1:T14 Arg2:T12
+T15	Drug 4055 4064	Lactulose
+T16	Dosage 4065 4071	45) ML
+R10	Dosage-Drug Arg1:T16 Arg2:T15
+T18	Route 4072 4074	PO
+R12	Route-Drug Arg1:T18 Arg2:T15
+T19	Frequency 4075 4078	QID
+R14	Frequency-Drug Arg1:T19 Arg2:T15
+T21	Drug 4080 4088	Thiamine
+T22	Strength 4089 4095	100 mg
+R16	Strength-Drug Arg1:T22 Arg2:T21
+T23	Frequency 4096 4101	DAILY
+R18	Frequency-Drug Arg1:T23 Arg2:T21
+T24	Drug 4103 4113	Folic Acid
+T25	Strength 4114 4118	1 mg
+R19	Strength-Drug Arg1:T25 Arg2:T24
+T26	Frequency 4119 4124	DAILY
+R20	Frequency-Drug Arg1:T26 Arg2:T24
+T27	Drug 4126 4134	Protonix
+T28	Strength 4135 4140	40 mg
+R21	Strength-Drug Arg1:T28 Arg2:T27
+T29	Frequency 4141 4151	once a day
+R22	Frequency-Drug Arg1:T29 Arg2:T27
+T30	Drug 4153 4162	Sevelamer
+T31	Strength 4163 4170	1600 mg
+R23	Strength-Drug Arg1:T31 Arg2:T30
+T32	Frequency 4171 4174	TID
+R24	Frequency-Drug Arg1:T32 Arg2:T30
+T34	Drug 4203 4212	Rifaximin
+T35	Strength 4213 4219	200 mg
+R25	Strength-Drug Arg1:T35 Arg2:T34
+T36	Form 4220 4226	Tablet
+R27	Form-Drug Arg1:T36 Arg2:T34
+T37	Dosage 4232 4235;4236 4239	Two (2)
+R28	Dosage-Drug Arg1:T37 Arg2:T34
+T39	Form 4240 4246	Tablet
+R30	Form-Drug Arg1:T39 Arg2:T34
+T40	Route 4247 4249	PO
+R32	Route-Drug Arg1:T40 Arg2:T34
+T41	Frequency 4250 4253	TID
+R34	Frequency-Drug Arg1:T41 Arg2:T34
+T42	Drug 4274 4281	Nadolol
+T43	Strength 4282 4287	20 mg
+R36	Strength-Drug Arg1:T43 Arg2:T42
+T44	Form 4288 4294	Tablet
+R37	Form-Drug Arg1:T44 Arg2:T42
+T45	Dosage 4300 4303;4304 4307	One (1)
+R38	Dosage-Drug Arg1:T45 Arg2:T42
+T46	Form 4308 4314	Tablet
+R39	Form-Drug Arg1:T46 Arg2:T42
+T47	Route 4315 4317	PO
+R40	Route-Drug Arg1:T47 Arg2:T42
+T48	Frequency 4318 4323;4324 4331	DAILY (Daily)
+R41	Frequency-Drug Arg1:T48 Arg2:T42
+T49	Drug 4336 4345	Lactulose
+T51	Strength 4346 4356	10 g/15 mL
+R43	Strength-Drug Arg1:T51 Arg2:T49
+T53	Form 4357 4362	Syrup
+R45	Form-Drug Arg1:T53 Arg2:T49
+T55	Dosage 4368 4386	Forty Five (45) ML
+R47	Dosage-Drug Arg1:T55 Arg2:T49
+T57	Route 4387 4389	PO
+R49	Route-Drug Arg1:T57 Arg2:T49
+T58	Frequency 4390 4393	QID
+R50	Frequency-Drug Arg1:T58 Arg2:T49
+T60	Drug 4414 4426	Thiamine HCl
+T61	Strength 4427 4433	100 mg
+R51	Strength-Drug Arg1:T61 Arg2:T60
+T62	Form 4434 4440	Tablet
+R53	Form-Drug Arg1:T62 Arg2:T60
+T63	Dosage 4446 4449;4450 4453	One (1)
+R54	Dosage-Drug Arg1:T63 Arg2:T60
+T65	Form 4454 4460	Tablet
+R56	Form-Drug Arg1:T65 Arg2:T60
+T66	Route 4461 4463	PO
+R58	Route-Drug Arg1:T66 Arg2:T60
+T67	Frequency 4464 4469	DAILY
+R60	Frequency-Drug Arg1:T67 Arg2:T60
+T68	Drug 4482 4492	Folic Acid
+T69	Strength 4493 4497	1 mg
+R61	Strength-Drug Arg1:T69 Arg2:T68
+T70	Form 4498 4504	Tablet
+R62	Form-Drug Arg1:T70 Arg2:T68
+T71	Dosage 4510 4513;4514 4517	One (1)
+R63	Dosage-Drug Arg1:T71 Arg2:T68
+T73	Form 4518 4524	Tablet
+R65	Form-Drug Arg1:T73 Arg2:T68
+T74	Route 4525 4527	PO
+R66	Route-Drug Arg1:T74 Arg2:T68
+T75	Frequency 4528 4533;4534 4541	DAILY (Daily)
+R67	Frequency-Drug Arg1:T75 Arg2:T68
+T76	Drug 4547 4556	Sevelamer
+T77	Strength 4557 4563	800 mg
+R68	Strength-Drug Arg1:T77 Arg2:T76
+T78	Form 4564 4570	Tablet
+R69	Form-Drug Arg1:T78 Arg2:T76
+T79	Dosage 4576 4579;4580 4583	Two (2)
+R70	Dosage-Drug Arg1:T79 Arg2:T76
+T81	Form 4584 4590	Tablet
+R72	Form-Drug Arg1:T81 Arg2:T76
+T82	Route 4591 4593	PO
+R73	Route-Drug Arg1:T82 Arg2:T76
+T85	Drug 4637 4649	Pantoprazole
+T86	Strength 4650 4655	40 mg
+R76	Strength-Drug Arg1:T86 Arg2:T85
+T90	Dosage 4692 4695;4696 4699	One (1)
+R80	Dosage-Drug Arg1:T90 Arg2:T85
+T93	Route 4731 4733	PO
+R83	Route-Drug Arg1:T93 Arg2:T85
+T94	Frequency 4734 4738;4739 4755	Q24H (every 24 hours)
+R84	Frequency-Drug Arg1:T94 Arg2:T85
+T95	Drug 4760 4773	Hydromorphone
+T96	Strength 4774 4778	2 mg
+R85	Strength-Drug Arg1:T96 Arg2:T95
+T97	Form 4779 4785	Tablet
+R86	Form-Drug Arg1:T97 Arg2:T95
+T98	Dosage 4791 4794	0.5
+R87	Dosage-Drug Arg1:T98 Arg2:T95
+T99	Form 4795 4801	Tablet
+R88	Form-Drug Arg1:T99 Arg2:T95
+T100	Route 4802 4804	PO
+R89	Route-Drug Arg1:T100 Arg2:T95
+T102	Frequency 4805 4817;4818 4834	Q6H (every 6 hours) as needed
+R91	Frequency-Drug Arg1:T102 Arg2:T95
+T17	Frequency 4594 4608;4609 4632	TID W/MEALS (3 TIMES A DAY WITH MEALS)
+R11	Frequency-Drug Arg1:T17 Arg2:T76	
+T20	Form 4656 4686	Tablet, Delayed Release (E.C.)
+R17	Form-Drug Arg1:T20 Arg2:T85	
+T33	Form 4700 4730	Tablet, Delayed Release (E.C.)
+R26	Form-Drug Arg1:T33 Arg2:T85	
+T50	Route 3232 3240	infusion
+R3	Route-Drug Arg1:T50 Arg2:T4	
+T38	Form 4845 4854	Tablet(s)
+R13	Form-Drug Arg1:T38 Arg2:T95	
+T6	Route 3320 3322	IV
+R4	Route-Drug Arg1:T6 Arg2:T7	

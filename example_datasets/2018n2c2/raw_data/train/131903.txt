@@ -1,0 +1,25 @@
+Name:  [**Known lastname **],[**Known firstname 8328**]                     Unit No:   [**Numeric Identifier 8329**]
+
+Admission Date:  [**2122-1-10**]              Discharge Date:   [**2122-2-5**]
+
+Date of Birth:  [**2059-1-8**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Percocet / Motrin / Nsaids / Aspirin / Dilantin
+
+Attending:[**First Name3 (LF) 417**]
+Addendum:
+Captopril dose on discharge adjusted to 6.25mg TID from 12.5mg
+TID.  To be held on dialysis days.
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Radius
+
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 424**] MD [**MD Number(1) 425**]
+
+Completed by:[**2122-2-5**]

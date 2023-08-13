@@ -1,0 +1,292 @@
+Admission Date:  [**2133-9-17**]              Discharge Date:   [**2133-9-22**]
+
+Date of Birth:  [**2084-5-25**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Penicillins / Codeine
+
+Attending:[**Doctor First Name 5188**]
+Chief Complaint:
+Abdominal pain, vomiting
+
+
+Major Surgical or Invasive Procedure:
+Right Chest tube placement at bedside
+
+
+History of Present Illness:
+49 year old female with history of cervical cancer status post
+multiple (?26) abdominal surgeries for TAH/BSO and complications
+resulting in colostomy and urostomy presented to OSH on [**2133-9-17**]
+with one day of abdominal pain and vomiting. Per OSH report,
+also experienced chills, fevers, and decreased colostomy output.
+Noted to have WBC count 13.5. Abdominal CT was consistent with
+obstruction. In OSH received NS 1L, cipro IV, and narcotics for
+pain control. Received Narcan and was intubated "due to airway
+concern" - overdose on narcotic analgesics; ABG 7.20/73/77 on NC
+4 LPM, anion gap 17. Also had R subclavian, NG tube placed.
+.
+In the [**Hospital1 18**] ED, T 98.4, HR 126, BP 137/100, RR 14, 99% on AC
+ventilation. Received propofol gtt, flagyl 500mg IV x1, and
+morphine 4mg IV.
+
+
+Past Medical History:
+Past Medical History:
+- Cervical CA s/p TAH/BSO w/incidental appy and damaged bladder
+([**2106**]), s/p mult procedures repair ending in urostomy and
+colostomy
+- Depression
+- ?Hepatitis
+.
+
+
+Social History:
+Lives with boyfriend. On Disability due to multiple abdominal
+surgeries/complications.  Denies alcohol, drug, or tobacco use.
+
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Tmax: 37.7 ??????C (99.9 ??????F)
+Tcurrent: 36.1 ??????C (97 ??????F)
+HR: 106 (105 - 118) bpm
+BP: 145/91(105) {113/56(70) - 156/104(115)} mmHg
+RR: 19 (14 - 28) insp/min
+SpO2: 98%
+
+GEN: Well-appearing, well-nourished,
+HEENT: EOMI, sclera anicteric, no epistaxis or rhinorrhea, MMM
+NECK: No JVD, trachea midline
+CV: RRR, no M/G/R, normal S1 S2, radial pulses +2
+PULM: Coarse breath sounds diffusely
+ABD: Multiple surgical incision scars; colostomy and urostomy
+bags in place; hypoactive bowel sounds; soft, not distended;
+difficult to assess for tenderness
+EXT: No C/C/E
+NEURO: responds to few questions (e.g. Are you in pain?); Moves
+all 4 extremities.
+SKIN: R subclavian in place and dressed; no jaundice, cyanosis,
+or gross dermatitis. No ecchymoses.
+.
+At Discharge:
+Vitals: 98.9, 81, 107/53, 18, 96% on RA
+GEN: NAD, A/Ox3
+CV: RRR, no m/r/g
+RESP: CTAB
+ABD: Soft, ND, slightly tender to palpation. +BS, passing
+flatus, +Stool
+Ostomy: stoma beefy red, viable with liquid yellow effluence
+Urostomy: conduit intact with clear yellow urine
+Extrem: no c/c/e
+
+
+Pertinent Results:
+[**2133-9-19**] 04:32AM BLOOD WBC-9.7 RBC-3.35* Hgb-11.8* Hct-33.9*
+MCV-101* MCH-35.3* MCHC-34.9 RDW-13.6 Plt Ct-223
+[**2133-9-17**] 07:24PM BLOOD Neuts-81.9* Lymphs-14.2* Monos-3.3
+Eos-0.3 Baso-0.3
+[**2133-9-19**] 04:32AM BLOOD PT-12.8 PTT-25.8 INR(PT)-1.1
+[**2133-9-19**] 04:32AM BLOOD Glucose-95 UreaN-10 Creat-0.7 Na-144
+K-3.3 Cl-106 HCO3-29 AnGap-12
+[**2133-9-19**] 04:32AM BLOOD ALT-43* AST-39 LD(LDH)-216 AlkPhos-143*
+TotBili-1.1
+[**2133-9-19**] 04:32AM BLOOD Calcium-8.7 Phos-2.3* Mg-1.9
+[**2133-9-18**] 12:17AM BLOOD Type-ART Rates-/14 pO2-124* pCO2-50*
+pH-7.33* calTCO2-28 Base XS-0 Intubat-INTUBATED Vent-CONTROLLED
+[**2133-9-17**] 07:32PM BLOOD Lactate-1.3
+[**2133-9-21**] 04:50AM BLOOD WBC-6.6 RBC-3.02* Hgb-10.9* Hct-30.4*
+MCV-101* MCH-36.1* MCHC-35.8* RDW-13.3 Plt Ct-232
+[**2133-9-22**] 05:34AM BLOOD Glucose-92 UreaN-5* Creat-0.7 Na-140
+K-3.9 Cl-106 HCO3-28 AnGap-10
+[**2133-9-22**] 05:34AM BLOOD Calcium-9.0 Phos-3.3# Mg-2.1
+.
+
+
+Brief Hospital Course:
+49 year-old female with history of cervical cancer and many
+abdominal surgeries s/p colostomy and [**Hospital 80011**] transferred from
+OSH for further management of suspected small bowel obstruction.
+Admitted to Medical ICU.
+.
+# Abdominal pain, nausea ?????? Surgery involved. At this time
+diagnosis of SBO suspected, although surgeons are waiting to see
+CT abdomen from OSH to solidify diagnosis. Supported by large
+number of abdominal surgeries patient has had (-> risk for
+adhesions). Also with mildly elevated transaminases and alk
+phos. Differential also includes gastroenteritis, cholecystitis,
+cholangitis. Mildly febrile and with leukocytosis. Given history
+of possibile pneumobilia on CT at OSH hospital, ddx also
+includes biliary-enteric anastomosis or fistula. ?history of
+hepatitis.
+- intially NPO
+- NGT to low continuous suction, removed [**9-20**] and started on
+sips
+- Hydrate with IVF until adequate PO
+- Pain control (minimize narcotics)
+.
+#Pneumothorax: Pt had PTX most likely [**1-3**] line placement at OSH.
+ Chest-tube was placed and almost complete resolution of PTX.
+-chest tube to suction until [**9-20**] - placed to waterseal
+-chest tube removed [**9-21**] without complication
+.
+# Respiratory failure ?????? Pt previously intubated for hypercarbic
+respiratory failure. Likely secondary to narcotics. Pt
+successfully extubated and on 4L NC on [**9-18**]
+.
+# [**Name (NI) 3674**] pt with Hct of 33.9 down from 38.1.  Likely dilutional
+from fluids and blood loss from chest tube placment.
+.
+# Acute renal failure ?????? Creatinine 0.7 today, much improved from
+admission. History of vomiting and poor PO intake, this may be
+secondary to dehydration. Urine output  >30 cc per hour.
+- Continue to hydrate
+- Maintain UOP >30cc/hr
+.
+# UTI - UA with positive nitrite, trace ketones, >50 WBCs, and
+many bacteria. Given one dose of ciprofloxacin in ED. Given that
+patient has ileostomy, she will likely always have a 'dirty' UA.
+
+- Hold off on treating at this time as may just be a contaminant
+- Follow urine culture
+.
+Patient was successfully extubated in ICU. Continued with
+confusion. Restraints applied. Remained NPO with IVF. Mental
+status cleared slowly. Transferred to Stone 5 for further
+management on [**9-20**].
+.
+[**9-20**] -Pt pulled NGT out due to agitation r/t naroctic
+medications. Maintained in 2 point restraints overnight. Mental
+status much improved in morning. Ostomy with gas but no stool.
+KUB repeated-resolving ileus.
+.
+[**9-21**] -Abdomen slightly distened. Started on clear liquids.
+Tolerating well. No N/V. Right chest tube removed at bedside,
+uncomplicated. CXR completed 2 hours after, lungs clear, no
+evidence of pneumothorax. Ostomy RN contact[**Name (NI) **] to assist with
+management of leaking ostomy and urostomy. Assisted OOB with
+nursing. Ambulated without assist. Lives independently with
+boyfriend. Diet advanced to regular food in evening. Tolerated
+well.
+.
+[**9-22**] -Continues to tolerate Regular food. Ostomy and Urostomy
+putting out adequate amounts of urine/stool. Pain well
+controlled with oral medication. Abdominal pain decreased.
+Ostomy continues to leak even with efforts of Ostomy RN due to
+patient's anatomy. Plan for discharge home today with VNA for
+continued management of Ostomy appliance and skin assessment.
+
+Medications on Admission:
+Seroquel 25mg PO BID
+Zantac 150mg PO QHS
+Cymbalta 60mg PO BID
+
+
+Discharge Medications:
+1. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+3. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).
+4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for fever or pain: Not to exceed 4gm per day.
+.
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation for 1 months: Take with
+Hydrocodone.
+Disp:*60 Capsule(s)* Refills:*0*
+6. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain for 2 weeks: Do not
+exceed 4000mg of Acetaminophen in 24hrs.
+Disp:*45 Tablet(s)* Refills:*0*
+7. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation: Take with Hydrocodone.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) **] Nursing Services
+
+Discharge Diagnosis:
+Primary:
+Small bowel obstruction
+Post-extubation confused related to medications
+Right pneumothorax-Chest tube inserted.
+UTI
+Acute renal failure
+.
+Secondary:
+Depression, hepatitis C, cervical CA,  TAH/BSO-Bladder injury
+(urostomy & Colostomy)
+
+
+Discharge Condition:
+Stable
+Tolerating a regular diet
+Adequate pain control with oral medication
+
+
+Discharge Instructions:
+Please call your doctor or return to the ER for any of the
+following:
+* You experience new chest pain, pressure, squeezing or
+tightness.
+* New or worsening cough or wheezing.
+* If you are vomiting and cannot keep in fluids or your
+medications.
+* You are getting dehydrated due to continued vomiting,
+diarrhea or other reasons. Signs of dehydration include dry
+mouth, rapid heartbeat or feeling dizzy or faint when standing.
+* You see blood or dark/black material when you vomit or have a
+bowel movement.
+* Your pain is not improving within 8-12 hours or not gone
+within 24 hours. Call or return immediately if your pain is
+getting worse or is changing location or moving to your chest or
+
+back.
+*Avoid driving or operating heavy machinery while taking pain
+medications.
+* You have shaking chills, or a fever greater than 101.5 (F)
+degrees or 38(C) degrees.
+* Any serious change in your symptoms, or any new symptoms that
+concern you.
+* Please resume all regular home medications and take any new
+meds
+as ordered.
+* Continue to ambulate several times per day.
+.
+Monitoring Ostomy output/Prevention of Dehydration:
+-Keep well hydrated.
+-Replace fluid loss from ostomy daily.
+-Avoid only drinking plain water. Include Gatorade and/or other
+vitamin drinks to replace fluid.
+-Try to maintain ostomy output between 1000mL to 1500mL per day.
+[**Name8 (MD) **] MD if output greater than 2 liters or under 500ml in 24
+hours.
+.
+Urostomy:
+-Continue with urostomy managment prior to admission.
+.
+Diet:
+-Continue with a low residue diet until your follow-up
+appointment with your PCP.
+[**Name10 (NameIs) **] to Hand out provided to you by nursing for guidance.
+
+
+Followup Instructions:
+1. Follow-up with PCP, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 48826**] in 1 week and
+as needed.
+
+
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) **] MD, [**MD Number(3) 5190**]
+
+Completed by:[**2133-9-22**]

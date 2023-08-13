@@ -1,0 +1,345 @@
+T1	Drug 1373 1376	ASA
+T2	Drug 1381 1385	SLNG
+T4	Drug 1551 1559	levoquin
+T5	Strength 1560 1566	750 mg
+R2	Strength-Drug Arg1:T5 Arg2:T4
+T7	Dosage 1588 1590	2L
+R4	Dosage-Drug Arg1:T7 Arg2:T8
+T8	Drug 1591 1593	NS
+T9	Drug 16195 16206	allopurinol
+T10	Drug 16211 16214	IVF
+T11	Reason 16234 16237	TLS
+R5	Reason-Drug Arg1:T11 Arg2:T9
+R6	Reason-Drug Arg1:T11 Arg2:T10
+T12	Drug 16535 16541	bicarb
+T13	Route 16542 16546	drip
+R7	Route-Drug Arg1:T13 Arg2:T12
+T14	Reason 16584 16609	worsening lactic acidosis
+R8	Reason-Drug Arg1:T14 Arg2:T12
+T15	Drug 16742 16746	vanc
+T16	Drug 16747 16752	zosyn
+T17	Drug 16753 16760	azithro
+T18	Reason 16765 16774	pneumonia
+R9	Reason-Drug Arg1:T18 Arg2:T15
+R10	Reason-Drug Arg1:T18 Arg2:T16
+R11	Reason-Drug Arg1:T18 Arg2:T17
+T19	Drug 16978 16989	rasburicase
+T20	Reason 16994 17015;17016 17025	persistently elevated uric acid
+R12	Reason-Drug Arg1:T20 Arg2:T19
+T21	Reason 17034 17047	renal failure
+R13	Reason-Drug Arg1:T21 Arg2:T19
+T22	Reason 17143 17151	diuresed
+R14	Reason-Drug Arg1:T22 Arg2:T23
+T23	Drug 17157 17162	lasix
+T24	Drug 17224 17229	RCHOP
+T25	Reason 17290 17299	mucositis
+R15	Reason-Drug Arg1:T25 Arg2:T26
+T26	Drug 17323 17327;17328 17339	pain medications
+T27	Drug 17382 17390	D5 RCHOP
+T28	Reason 17644 17653	Pneumonia
+R16	Reason-Drug Arg1:T28 Arg2:T30
+R17	Reason-Drug Arg1:T28 Arg2:T31
+R18	Reason-Drug Arg1:T28 Arg2:T32
+T29	Reason 17729 17738	pneumonia
+R19	Reason-Drug Arg1:T29 Arg2:T30
+R20	Reason-Drug Arg1:T29 Arg2:T31
+R21	Reason-Drug Arg1:T29 Arg2:T32
+R22	Reason-Drug Arg1:T29 Arg2:T33
+T30	Drug 17758 17763	vanco
+T31	Drug 17764 17769	zosyn
+T32	Drug 17770 17777	azithro
+T33	Drug 17805 17816	antibiotics
+T34	Duration 17817 17822;17823 17827	for 7 days
+R23	Duration-Drug Arg1:T34 Arg2:T30
+R24	Duration-Drug Arg1:T34 Arg2:T31
+R25	Duration-Drug Arg1:T34 Arg2:T32
+R26	Duration-Drug Arg1:T34 Arg2:T33
+T35	Reason 18307 18311	Rash
+R27	Reason-Drug Arg1:T35 Arg2:T37
+T36	Reason 18546 18553;18554 18564	contact dermatitis
+R28	Reason-Drug Arg1:T36 Arg2:T37
+T37	Drug 18566 18579	Triamcinolone
+T38	Route 18592 18601	topically
+R29	Route-Drug Arg1:T38 Arg2:T37
+T39	Reason 18647 18662	Fluid retention
+R30	Reason-Drug Arg1:T39 Arg2:T43
+T40	Drug 18681 18687	fluids
+T41	Reason 18703 18723	chemotherapy regimen
+R31	Reason-Drug Arg1:T41 Arg2:T40
+T42	Drug 18908 18913	chemo
+T43	Drug 18935 18940	lasix
+T44	Reason 19296 19304	Shingles
+R32	Reason-Drug Arg1:T44 Arg2:T46
+R33	Reason-Drug Arg1:T44 Arg2:T48
+R34	Reason-Drug Arg1:T44 Arg2:T49
+T45	Reason 19418 19422	pain
+R35	Reason-Drug Arg1:T45 Arg2:T46
+R36	Reason-Drug Arg1:T45 Arg2:T49
+R37	Reason-Drug Arg1:T45 Arg2:T48
+T46	Drug 19440 19449	lidocaine
+T47	Form 19450 19457	patches
+R38	Form-Drug Arg1:T47 Arg2:T46
+T48	Drug 19462 19471	oxycodone
+T49	Drug 19472 19481	oxycontin
+T50	Reason 19488 19491	BPH
+R39	Reason-Drug Arg1:T50 Arg2:T51
+R40	Reason-Drug Arg1:T50 Arg2:T52
+T51	Drug 19536 19547	finasteride
+T52	Drug 19552 19562	tamsulosin
+T53	Drug 19641 19648	avodart
+T54	Strength 19649 19655	0.5 mg
+R41	Strength-Drug Arg1:T54 Arg2:T53
+T55	Drug 19656 19675	uroxatral/alfuzosin
+T56	Drug 19676 19691	alpha 1 blocker
+T57	Strength 19692 19697	10 mg
+R42	Strength-Drug Arg1:T57 Arg2:T55
+T58	Drug 19698 19706	Lidoderm
+T59	Form 19707 19712	patch
+R43	Form-Drug Arg1:T59 Arg2:T58
+T60	Drug 19740 19755	docusate sodium
+T61	Strength 19756 19762	100 mg
+R44	Strength-Drug Arg1:T61 Arg2:T60
+T62	Form 19763 19770	Capsule
+R45	Form-Drug Arg1:T62 Arg2:T60
+T63	Dosage 19776 19783	One (1)
+T64	Form 19784 19791	Capsule
+R46	Form-Drug Arg1:T64 Arg2:T60
+T65	Route 19792 19794	PO
+R47	Route-Drug Arg1:T65 Arg2:T60
+T66	Frequency 19795 19801;19802 19814	BID (2 times a day)
+R48	Frequency-Drug Arg1:T66 Arg2:T60
+T67	Drug 19849 19858	oxycodone
+T68	Drug 19896 19910	ranitidine HCl
+T69	Strength 19911 19917	300 mg
+R49	Strength-Drug Arg1:T69 Arg2:T68
+T70	Form 19918 19924	Tablet
+R50	Form-Drug Arg1:T70 Arg2:T68
+T71	Dosage 19930 19937	One (1)
+R51	Dosage-Drug Arg1:T71 Arg2:T68
+T72	Form 19938 19944	Tablet
+R52	Form-Drug Arg1:T72 Arg2:T68
+T73	Route 19945 19947	PO
+R53	Route-Drug Arg1:T73 Arg2:T68
+T74	Frequency 19948 19950;19951 19958	at bedtime
+R54	Frequency-Drug Arg1:T74 Arg2:T68
+T75	Drug 19995 20004	lidocaine
+T76	Strength 20005 20022	5 %(700 mg/patch)
+R55	Strength-Drug Arg1:T76 Arg2:T75
+T77	Form 20023 20048	Adhesive Patch, Medicated
+R56	Form-Drug Arg1:T77 Arg2:T75
+T78	Dosage 20054 20061	One (1)
+R57	Dosage-Drug Arg1:T78 Arg2:T75
+T79	Form 20062 20087	Adhesive Patch, Medicated
+R58	Form-Drug Arg1:T79 Arg2:T75
+T80	Route 20088 20095	Topical
+R59	Route-Drug Arg1:T80 Arg2:T75
+T81	Frequency 20096 20109	DAILY (Daily)
+R60	Frequency-Drug Arg1:T81 Arg2:T75
+T82	Drug 20165 20175	filgrastim
+T83	Strength 20176 20186	300 mcg/mL
+R61	Strength-Drug Arg1:T83 Arg2:T82
+T84	Form 20187 20195	Solution
+R62	Form-Drug Arg1:T84 Arg2:T82
+T85	Dosage 20201 20208	One (1)
+R63	Dosage-Drug Arg1:T85 Arg2:T82
+T86	Form 20209 20218	injection
+R64	Form-Drug Arg1:T86 Arg2:T82
+T87	Route 20219 20228	Injection
+R65	Route-Drug Arg1:T87 Arg2:T82
+T88	Frequency 20229 20250	Q24H (every 24 hours)
+R66	Frequency-Drug Arg1:T88 Arg2:T82
+T89	Duration 20251 20262	for 10 days
+R67	Duration-Drug Arg1:T89 Arg2:T82
+T90	Drug 20300 20311	fluconazole
+T91	Strength 20312 20318	200 mg
+R68	Strength-Drug Arg1:T91 Arg2:T90
+T92	Form 20319 20325	Tablet
+R69	Form-Drug Arg1:T92 Arg2:T90
+T93	Dosage 20331 20338	One (1)
+R70	Dosage-Drug Arg1:T93 Arg2:T90
+T94	Form 20339 20345	Tablet
+R71	Form-Drug Arg1:T94 Arg2:T90
+T95	Route 20346 20348	PO
+R72	Route-Drug Arg1:T95 Arg2:T90
+T96	Frequency 20349 20360;20361 20370	Q24H (every 24 hours)
+R73	Frequency-Drug Arg1:T96 Arg2:T90
+T97	Drug 20407 20416	acyclovir
+T98	Strength 20417 20423	400 mg
+R74	Strength-Drug Arg1:T98 Arg2:T97
+T99	Form 20424 20430	Tablet
+R75	Form-Drug Arg1:T99 Arg2:T97
+T100	Dosage 20436 20443	One (1)
+R76	Dosage-Drug Arg1:T100 Arg2:T97
+T101	Form 20444 20450	Tablet
+R77	Form-Drug Arg1:T101 Arg2:T97
+T102	Route 20451 20453	PO
+R78	Route-Drug Arg1:T102 Arg2:T97
+T103	Frequency 20454 20466;20467 20473	Q8H (every 8 hours)
+R79	Frequency-Drug Arg1:T103 Arg2:T97
+T104	Drug 20510 20515	senna
+T105	Strength 20516 20522	8.6 mg
+R80	Strength-Drug Arg1:T105 Arg2:T104
+T106	Form 20523 20529	Tablet
+R81	Form-Drug Arg1:T106 Arg2:T104
+T107	Dosage 20535 20542	Two (2)
+R82	Dosage-Drug Arg1:T107 Arg2:T104
+T108	Form 20543 20549	Tablet
+R83	Form-Drug Arg1:T108 Arg2:T104
+T109	Route 20550 20552	PO
+R84	Route-Drug Arg1:T109 Arg2:T104
+T110	Frequency 20553 20567;20568 20582	BID (2 times a day) as needed
+R85	Frequency-Drug Arg1:T110 Arg2:T104
+T111	Reason 20587 20599	constipation
+R86	Reason-Drug Arg1:T111 Arg2:T104
+T112	Drug 20636 20660	oral wound care products
+T113	Form 20665 20678	Gel in Packet
+R87	Form-Drug Arg1:T113 Arg2:T112
+T114	Dosage 20684 20691	One (1)
+R88	Dosage-Drug Arg1:T114 Arg2:T112
+T115	Form 20692 20698	Packet
+R89	Form-Drug Arg1:T115 Arg2:T112
+T116	Route 20699 20714	Mucous membrane
+R90	Route-Drug Arg1:T116 Arg2:T112
+T117	Frequency 20715 20744	TID (3 times a day) as needed
+R91	Frequency-Drug Arg1:T117 Arg2:T112
+T118	Reason 20749 20758	Mucositis
+R92	Reason-Drug Arg1:T118 Arg2:T112
+T119	Drug 20792 20801	oxycodone
+T120	Strength 20802 20807	10 mg
+R93	Strength-Drug Arg1:T120 Arg2:T119
+T121	Form 20808 20838	Tablet Sustained Release 12 hr
+R94	Form-Drug Arg1:T121 Arg2:T119
+T122	Dosage 20844 20851	One (1)
+R95	Dosage-Drug Arg1:T122 Arg2:T119
+T123	Form 20852 20882	Tablet Sustained Release 12 hr
+R96	Form-Drug Arg1:T123 Arg2:T119
+T124	Route 20883 20885	PO
+R97	Route-Drug Arg1:T124 Arg2:T119
+T125	Frequency 20886 20907	Q12H (every 12 hours)
+R98	Frequency-Drug Arg1:T125 Arg2:T119
+T126	Drug 21021 21039	potassium chloride
+T127	Strength 21040 21046	20 mEq
+R99	Strength-Drug Arg1:T127 Arg2:T126
+T128	Form 21047 21077	Tab Sust.Rel. Particle/Crystal
+R100	Form-Drug Arg1:T128 Arg2:T126
+T129	Dosage 21083 21090	One (1)
+R101	Dosage-Drug Arg1:T129 Arg2:T126
+T130	Form 21091 21121	Tab Sust.Rel. Particle/Crystal
+R102	Form-Drug Arg1:T130 Arg2:T126
+T131	Route 21122 21124	PO
+R103	Route-Drug Arg1:T131 Arg2:T126
+T132	Frequency 21125 21136	twice a day
+R104	Frequency-Drug Arg1:T132 Arg2:T126
+T133	Drug 21163 21168	lasix
+T134	Drug 21230 21235	Lasix
+T135	Strength 21236 21241	20 mg
+R105	Strength-Drug Arg1:T135 Arg2:T134
+T136	Form 21242 21248	Tablet
+R106	Form-Drug Arg1:T136 Arg2:T134
+T137	Dosage 21254 21261	One (1)
+R107	Dosage-Drug Arg1:T137 Arg2:T134
+T138	Form 21262 21268	Tablet
+R108	Form-Drug Arg1:T138 Arg2:T134
+T139	Route 21269 21271	PO
+R109	Route-Drug Arg1:T139 Arg2:T134
+T140	Frequency 21272 21282	once a day
+R110	Frequency-Drug Arg1:T140 Arg2:T134
+T141	Drug 21320 21331	dutasteride
+T142	Strength 21332 21338	0.5 mg
+R111	Strength-Drug Arg1:T142 Arg2:T141
+T143	Form 21339 21346	Capsule
+R112	Form-Drug Arg1:T143 Arg2:T141
+T144	Dosage 21352 21359	One (1)
+R113	Dosage-Drug Arg1:T144 Arg2:T141
+T145	Form 21360 21367	Capsule
+R114	Form-Drug Arg1:T145 Arg2:T141
+T146	Route 21368 21370	PO
+R115	Route-Drug Arg1:T146 Arg2:T141
+T147	Frequency 21371 21377;21378 21381	once a day
+R116	Frequency-Drug Arg1:T147 Arg2:T141
+T148	Drug 21420 21429	alfuzosin
+T149	Strength 21430 21435	10 mg
+R117	Strength-Drug Arg1:T149 Arg2:T148
+T150	Form 21436 21466	Tablet Sustained Release 24 hr
+R118	Form-Drug Arg1:T150 Arg2:T148
+T151	Dosage 21472 21479	One (1)
+R119	Dosage-Drug Arg1:T151 Arg2:T148
+T152	Form 21480 21510	Tablet Sustained Release 24 hr
+R120	Form-Drug Arg1:T152 Arg2:T148
+T153	Route 21511 21513	PO
+R121	Route-Drug Arg1:T153 Arg2:T148
+T154	Frequency 21514 21524	once a day
+R122	Frequency-Drug Arg1:T154 Arg2:T148
+T155	Drug 22188 22200	chemotherapy
+T156	Reason 22264 22273	pneumonia
+R123	Reason-Drug Arg1:T156 Arg2:T157
+T157	Drug 22306 22317	antibiotics
+T158	Reason 22447 22462	retaining fluid
+R124	Reason-Drug Arg1:T158 Arg2:T159
+T159	Drug 22488 22498	water pill
+T160	Drug 22786 22796	filgrastim
+T161	Route 22798 22808	injections
+R125	Route-Drug Arg1:T161 Arg2:T160
+T162	Reason 22831 22843	blood counts
+R126	Reason-Drug Arg1:T162 Arg2:T160
+T163	Drug 22859 22870	fluconazole
+T164	Reason 22875 22898	prevention of infection
+R127	Reason-Drug Arg1:T164 Arg2:T163
+T165	Drug 22914 22923	acyclovir
+T166	Reason 22928 22951	prevention of infection
+R128	Reason-Drug Arg1:T166 Arg2:T165
+T167	Drug 22967 22977	ranitidine
+T168	Reason 22987 22994	stomach
+R129	Reason-Drug Arg1:T168 Arg2:T167
+T169	Drug 23010 23019	oxycontin
+T170	Reason 23029 23033	pain
+R130	Reason-Drug Arg1:T170 Arg2:T169
+T171	Drug 23047 23053	colace
+T172	Drug 23058 23063	senna
+T173	Reason 23106 23113;23114 23126	prevent constipation
+R131	Reason-Drug Arg1:T173 Arg2:T171
+R132	Reason-Drug Arg1:T173 Arg2:T172
+T174	Drug 23154 23163	oxycontin
+T175	Drug 23197 23202	lasix
+T176	Reason 23211 23229	fluid in your legs
+R133	Reason-Drug Arg1:T176 Arg2:T175
+T177	Drug 23245 23254	potassium
+T178	Drug 23280 23285	lasix
+T179	Drug 23300 23308	gelclair
+T180	Reason 23323 23337	mucositis pain
+R134	Reason-Drug Arg1:T180 Arg2:T179
+T181	Reason 3706 3714	Shingles
+R135	Reason-Drug Arg1:T181 Arg2:T182
+T182	Drug 3745 3751	lyrica
+T183	Reason 897 907	chest pain
+R137	Reason-Drug Arg1:T183 Arg2:T1
+R138	Strength-Drug Arg1:T57 Arg2:T56	
+R139	Dosage-Drug Arg1:T63 Arg2:T60	
+T184	Form 19869 19879	Capsule(s)
+R140	Form-Drug Arg1:T184 Arg2:T60	
+T185	Form 19969 19978	Tablet(s)
+R141	Form-Drug Arg1:T185 Arg2:T68	
+T186	Form 20120 20148	Adhesive Patch, Medicated(s)
+R142	Form-Drug Arg1:T186 Arg2:T75	
+T187	Form 20273 20283	injections
+R143	Form-Drug Arg1:T187 Arg2:T82	
+T188	Form 20381 20390	Tablet(s)
+R144	Form-Drug Arg1:T188 Arg2:T90	
+T189	Form 20484 20493	Tablet(s)
+R145	Form-Drug Arg1:T189 Arg2:T97	
+T190	Form 20610 20619	Tablet(s)
+R146	Form-Drug Arg1:T190 Arg2:T104	
+T191	Form 20769 20775	Packet
+R147	Form-Drug Arg1:T191 Arg2:T112	
+T192	Form 20970 21003	Tablet Sustained Release 12 hr(s)
+R148	Form-Drug Arg1:T192 Arg2:T119	
+T193	Form 21179 21212	Tab Sust.Rel. Particle/Crystal(s)
+R149	Form-Drug Arg1:T193 Arg2:T126	
+T194	Form 21293 21302	Tablet(s)
+R150	Form-Drug Arg1:T194 Arg2:T134	
+T195	Form 21392 21402	Capsule(s)
+R151	Form-Drug Arg1:T195 Arg2:T141	
+T196	Form 21535 21568	Tablet Sustained Release 24 hr(s)
+R152	Form-Drug Arg1:T196 Arg2:T148	
+T3	Route 1567 1569	IV
+R1	Route-Drug Arg1:T3 Arg2:T4	

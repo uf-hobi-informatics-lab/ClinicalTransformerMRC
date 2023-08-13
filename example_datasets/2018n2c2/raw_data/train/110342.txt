@@ -1,0 +1,313 @@
+Admission Date:  [**2193-7-28**]              Discharge Date:   [**2193-8-4**]
+
+Date of Birth:  [**2140-11-9**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 348**]
+Chief Complaint:
+Hemoptysis
+
+Major Surgical or Invasive Procedure:
+endotracheal intubation
+femoral line placement
+bronchoscopy
+right bronchial artery embolization
+
+
+History of Present Illness:
+52M w/ hx of treated TB (3 years ago, in [**Country 651**], 3 meds, cannot
+recall names, treated for 9 mos) w/ 1 episode of hemoptysis
+earlier this evening. Reports coughing up a handful of blood,
+all blood, no sputum. Over last week or so, has had a cough
+productive of whitish sputum. No sick contacts. [**Name (NI) **] fevers, no
+night sweats, no weight loss. Approx 1 mo ago, had a URI.
+
+IN ER: Had repeat episode. hemodynamically stable. CT chest was
+performed noting abnormal findings possibly consistant with
+reactivated TB. Pulm c/s service notified.
+
+ROS:
+-Constitutional: [x]WNL []Weight loss []Fatigue/Malaise []Fever
+[]Chills/Rigors []Nightweats []Anorexia
+-Cardiac: [x]WNL []Chest pain []Palpitations []LE edema
+[]Orthopnea/PND []DOE
+-Respiratory: see HPI
+-Gastrointestinal: [x]WNL []Nausea []Vomiting []Abdominal pain
+[]Abdominal Swelling []Diarrhea []Constipation []Hematemesis
+[]Hematochezia []Melena
+-Skin: [x]WNL []Rash []Pruritus
+-Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain
+-Neurological: [x ]WNL []Numbness of extremities []Weakness of
+extremities []Parasthesias []Dizziness/Lightheaded []Vertigo
+[]Confusion []Headache
+
+
+Past Medical History:
+other than TB, no medical history. TB was found on routine
+screening prior to migrating to US. He has never experienced
+respiratory symptoms.  He received nine months of therapy.
+
+Social History:
+now living in US, son is HCP and primary contact [**Telephone/Fax (1) 80531**].
+patient is a non-smoker.
+
+Family History:
+no sick contacts. [**Name (NI) **] family members with active TB.
+
+Physical Exam:
+Exam:
+VS: T 97.2 P 60 BP 101/56 O2 98%RA
+Gen: Well, no acute distress, awake, alert, appropriate, and
+oriented x 3
+Skin: warm to touch, no apparent rashes.
+HEENT: No conjunctival pallor, no scleral jaundice,OP clear, no
+cervical LAD
+CV: RRR no audible m/r/g
+Lungs: clear to auscultation
+Abd: soft, NT, normal BS
+Ext: No C/C/E
+Neuro: strength and sensation intact bilaterally.
+
+Exam on discharge:
+97.1  HR 72  BP 115/68  RR 20  99% RA
+Gen: Well, no acute distress, awake, alert, appropriate, and
+oriented x 3
+Skin: warm to touch, no apparent rashes
+HEENT: No conjunctival pallor, no scleral jaundice,OP clear, no
+cervical LAD
+CV: RRR no audible m/r/g
+Lungs: clear to auscultation
+Abd: soft, NT, normal BS
+Ext: No C/C/E
+Neuro: strength and sensation intact bilaterally
+
+
+
+Pertinent Results:
+[**2193-7-28**]
+LACTATE-1.4
+GLUCOSE-116* UREA N-13 CREAT-0.9 SODIUM-143 POTASSIUM-4.0
+CHLORIDE-107 TOTAL CO2-26 ANION GAP-14
+estGFR-Using this
+WBC-6.8 RBC-4.95 HGB-14.1 HCT-42.6 MCV-86 MCH-28.5 MCHC-33.1
+RDW-13.2
+NEUTS-64.3 LYMPHS-27.6 MONOS-4.6 EOS-2.9 BASOS-0.6
+PLT COUNT-267
+PT-12.1 PTT-29.7 INR(PT)-1.0
+
+Labs on discharge:
+
+WBC   RBC   Hgb   Hct  MCV MCH   MCHC   RDW   Plt Ct
+10.7 3.83* 11.0* 32.8* 86  28.7  33.5   13.0    230
+
+Glucose UreaN Creat   Na    K   Cl   HCO3 AnGap
+  106*   13    1.2   139   4.1 107    26   10
+
+Calcium Phos Mg
+   9.0   2.7 2.4
+
+HIV Ab NEGATIVE
+
+ASPERGILLUS GALACTOMANNAN ANTIGEN B-GLUCAN pending
+
+urine histoplasma Ag pending
+
+
+CXR [**2193-7-27**]
+IMPRESSION: Multifocal airspace opacities in the right upper and
+lower lobes, concerning for active infection. With evidence
+suggestive of prior TB, current active TB infection is not
+excluded.
+
+CT CHEST [**2193-7-28**]
+IMPRESSIONS:
+1. Peribronchovascular opacities in the right upper and middle
+lobes most
+suggestive of bronchopneumonia. Given history of TB and a partly
+calcified
+mass in the right upper lobe which could represent a large
+granuloma, active tuberculosis is an important differential
+consideration. Hemorrhage is another consideration.
+
+2. Calcified nodule in the right lung (20 x 10 mm), probably
+sequela of prior infection versus a tumor. CT follow-up is
+recommended to resolution of opacities and surveillance of the
+lung nodule within three months. If
+available, comparison to prior studies could also be helpful.
+PET scanning
+could also be considered once the more acute process has
+resolved.
+
+[**2193-8-2**] urine culture - no growth
+
+[**2193-8-1**] blood culture pending on discharge
+
+Brochoalveolar lavage results:
+GRAM STAIN (Final [**2193-8-1**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Preliminary):
+      10,000-100,000 ORGANISMS/ML. OROPHARYNGEAL FLORA.
+      GRAM NEGATIVE ROD(S).    ~3000/ML.
+         Isolates are considered potential pathogens in amounts
+>=10,000
+         cfu/ml.
+      STAPH AUREUS COAG +.    ~[**2183**]/ML.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   ACID FAST SMEAR (Final [**2193-8-2**]):
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+   LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED
+
+Respiratory Viral Culture (Final [**2193-8-4**]):
+      No respiratory viruses isolated.
+      Culture screened for Adenovirus, Influenza A & B,
+Parainfluenza type
+      1,2 & 3, and Respiratory Syncytial Virus.
+
+   Legionella Urinary Antigen  (Final [**2193-7-31**]):
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+           (Reference Range-Negative
+
+SPUTUM      Source: Expectorated.
+
+   GRAM STAIN (Final [**2193-7-30**]):
+      >25 PMNs and >10 epithelial cells/100X field.
+      Gram stain indicates extensive contamination with upper
+respiratory
+      secretions. Bacterial culture results are invalid.
+      PLEASE SUBMIT ANOTHER SPECIMEN.
+
+   ACID FAST SMEAR (Final [**2193-7-31**]):
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR x 3
+
+[**7-27**] and [**7-28**] blood culture showed no growth
+
+
+
+
+Brief Hospital Course:
+Mr. [**Known lastname **] presented to the ED with a chief complaint of hemoptysis
+
+# Hemoptysis - Chest film demonstrated multifocal opacities in
+the RUL and RLL. Given the patient's prior history of TB and the
+inability to exclude this on presentation, he was admitted to a
+negative-pressure room.  On the floor, he remained
+hemodynamically stable. He had three negative AFBs and was
+removed from respiratory precautions. He had a CT scan on [**7-28**]
+which showed peribronchovascular opacities and a 1cm x 2cm right
+lung nodule felt to be chronic granuloma/prior infection
+sequelae vs. malignancy. On [**7-29**], he again had moderate
+hemoptysis and reportedly vomited blood and had black stools.
+Pulmonary was consulted, and he was started on
+Ceftriaxone/Azithromycin empirically for CAP on [**2193-7-31**].
+
+Durnig his course, he had a recurrence of massive hemoptysis.
+He was bronched on [**8-1**] and found to have substantial bleeding
+from the posterior segment of right upper lobe. He then went to
+IR and had embolization of the right bronchial artery and right
+upper intercostal arterial branch. After the procedure, he was
+intubated with a dual-lumen endotracheal tube to prevent
+extravasation of blood into the left lung if bleeding recurred.
+He remained stable and was extubated on [**8-2**]. Ceftriaxone was
+replaced with Cefpodoxime on [**8-3**]. His pulmonary hemorrhage was
+attributed to inflammation of prior eroded tissue from old TB,
+with a new pneumonia as the precipitant.
+
+# Elevated creatinine - He also had mild renal insufficiency
+which was likely secondary to contrast nephropathy after the IR
+procedure. The patient was transferred to the medical floor on
+[**2193-8-3**], and his creatinine normalized with IV fluids and time.
+
+He demonstrated continued clinical improvement, with small
+amount of hemoptysis post-procedure.  He remained afebrile with
+normal vital signs after transfer from the ICU.  He was
+discharged on [**2193-8-4**] and will complete a 7 day course of both
+azithromycin and cefpodoxime, to be completed on [**2193-8-6**].  He
+will schedule a follow up appointment with Dr. [**Last Name (STitle) **], his PCP,
+[**Name10 (NameIs) **] the week of discharge.
+
+No other medications were started.
+
+The patient is a full code.
+
+
+Medications on Admission:
+Patient takes no medications regularly
+
+Discharge Medications:
+1. Cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every
+12 hours) for 3 days.
+Disp:*10 Tablet(s)* Refills:*0*
+2. Azithromycin 250 mg Tablet Sig: One (1) Tablet PO once a day
+for 2 days.
+Disp:*2 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+hemoptysis
+pneumonia
+
+Secondary Diagnoses:
+history of tuberculosis, treated with three drug regimen in
+[**Country 651**] in [**2190**]
+
+
+Discharge Condition:
+stable and improved, no recurrence of hemoptysis post-procedure
+
+
+Discharge Instructions:
+You were admitted to the hospital after coughing up blood.  You
+were treated for a pneumonia with antiobiotics.  Tests showed
+that you did not have tuberculosis again.  You had another
+episode of coughing up blood while in the hospital, and you had
+a short stay in the intensive care unit.  At this time, a
+procedure was performed to help stop the bleeding in your lungs,
+which was successful.  You continued to do well after the
+procedure, and you were discharged on [**2193-8-4**].
+
+Please call Dr. [**Last Name (STitle) **] to set up an appointment this week. You
+should discuss with him when to have another exam of your chest.
+This exam of your chest should be within the next 3 months.
+
+The following changes were made to your medications:
+you were not taking any medications before you came to the
+hospital.
+you will continue taking two antibiotics:
+cefpodoxime 200 mg twice a day for two days, finish on Tuesday
+azithromycin 250 mg once a day for two days, finish on Tuesday
+
+Please call Dr. [**Last Name (STitle) **] or 911 if you have red or black urine, if
+you cough up large amounts of blood, if you have trouble
+breathing, if you develop fevers, chills, or chest pain or any
+other concerning medical symptoms.
+
+Followup Instructions:
+Please call your PCP, [**Last Name (NamePattern4) **]. [**First Name (STitle) **] J. [**Doctor Last Name **], at [**Telephone/Fax (1) 8236**] to set
+up an appointment in the next week.
+
+
+

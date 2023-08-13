@@ -1,0 +1,198 @@
+Admission Date:  [**2128-12-3**]              Discharge Date:   [**2128-12-6**]
+
+Date of Birth:  [**2076-8-14**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Erythromycin Base / Penicillins / Codeine / Bactrim Ds / Egg /
+Shellfish Derived / Lisinopril / Ace Inhibitors / Valsartan
+
+Attending:[**First Name3 (LF) 2167**]
+Chief Complaint:
+CC:[**CC Contact Info 104586**]
+Major Surgical or Invasive Procedure:
+endotracheal intubation
+Nasogastric tube
+
+History of Present Illness:
+HPI:  52 y/o lady with hyptension presented to the Emergency
+Department with swollen tongue and funny feeling in her tongue.
+Patient is sedated at this time and history was obtained from
+the medical records.  Patient denied any difficulty breathing,
+palpitations, nausea, vomitting or diarrhea.  No new food
+exposure.  Vitals in ED were T 98.3  BP 161/117  HR 94  RR 12
+100% RA.  Her swelling was worsening in ED and was she was
+intubated for airway protection.  She recieved solumedrol 125 mg
+IV, benadryl 30 mg IV, pepcid 20 mg IV, fentanyl 100 mcg IV x2
+and versed 2 mg IV x 2.
+
+On arrival to the floor her vitals were T 96.3  HR 79  BP 153/98
+ RR 14  100% FiO2.  CMV/AC FiO2 100% TV 550 PEEP 5.  Patient is
+heavily sedated and unable to give any history.
+
+
+Past Medical History:
+PMHx:
+Hypertension
+Asthma
+Menorrhagia secondary to fibroid uterus
+Seasonal Allergies
+
+Social History:
+Social History: (obtained from OMR notes)
+She is single, currently not in a relationship.  She has two
+grown sons.   in their 20s, a boy and girl.  She use to work at
+[**Hospital1 18**].
+
+
+Family History:
+Unable to obtain any significant history.
+.
+
+
+Physical Exam:
+Vitals:  T 96.3  HR 79  BP 153/98  RR 14  100% FiO2.  CMV/AC
+FiO2 100% TV 550 PEEP 5.
+Gen:  Medically sedated.  Not responding to verbal stimuli.
+HEENT:  Swollen lips.  asymetric swelling of the cheeks right
+greater than left.  Unable to properly assess oropharynx given
+swollen lips and OT tube.
+Heart:  S1S2 RRR, no MRG
+Lungs:  CTAB in ant lung fields, no wheezes or crackles
+Abdomen:  Obese, BS present, soft NTND, no appreciable
+mass/organomegaly
+Ext:  WWP, DP 2+, no edema
+Neuro: Limited due to sedation.  Pinpoint pupils.
+
+
+Pertinent Results:
+[**2128-12-3**] 09:40AM BLOOD WBC-5.0 RBC-4.22 Hgb-11.3* Hct-34.6*
+MCV-82 MCH-26.9* MCHC-32.8 RDW-14.2 Plt Ct-199
+[**2128-12-6**] 06:25AM BLOOD WBC-14.3* RBC-4.09* Hgb-10.7* Hct-33.3*
+MCV-81* MCH-26.2* MCHC-32.1 RDW-13.6 Plt Ct-200
+[**2128-12-3**] 09:40AM BLOOD Neuts-60.0 Lymphs-32.3 Monos-3.8 Eos-3.1
+Baso-0.7
+[**2128-12-4**] 06:00AM BLOOD Neuts-91.4* Lymphs-7.8* Monos-0.5*
+Eos-0.2 Baso-0
+[**2128-12-4**] 06:00AM BLOOD PT-13.5* PTT-26.2 INR(PT)-1.2*
+[**2128-12-4**] 06:00AM BLOOD ESR-20
+[**2128-12-3**] 09:40AM BLOOD Glucose-97 UreaN-12 Creat-0.6 Na-139
+K-3.5 Cl-107 HCO3-24 AnGap-12
+[**2128-12-6**] 06:25AM BLOOD Glucose-93 UreaN-13 Creat-0.6 Na-138
+K-4.0 Cl-102 HCO3-29 AnGap-11
+[**2128-12-5**] 06:33AM BLOOD Calcium-8.4 Phos-2.8 Mg-2.7*
+[**2128-12-4**] 06:00AM BLOOD TSH-0.23*
+[**2128-12-3**] 05:15PM BLOOD C1 ESTERASE INHIBITOR, FUNCTIONAL
+ASSAY-PND
+[**2128-12-4**] 06:00AM BLOOD C4-PND
+.
+CXR [**12-3**]: FINDINGS: The patient is status post endotracheal
+tube placement with the tip lying 3.0 cm above the level of the
+carina. There are right base atelectatic changes. There are low
+lung volumes. The lungs are clear with no evidence of pneumonia
+or congestive heart failure. There is no evidence of pleural
+effusions or pneumothorax. The cardiac and mediastinal contours
+are normal in appearance. The visualized osseous structures are
+unremarkable. There are high-density ovoid structures projecting
+over the right upper quadrant of the abdomen that could either
+represent gallstones or may be extrinsic to the patient. Please
+correlate clinically. IMPRESSION: 1. ET tube 3 cm above the
+level of the carina. 2. Possible calcified gallstones.
+.
+CXR ([**2128-12-4**]): Tubes and lines in good position. Nasogastric
+tube coils in the stomach. Atelectasis in the left lower lobe.
+
+Brief Hospital Course:
+The patient presented with lip and tongue swelling consistent
+with angioedema in setting of ACEi use. She was intubated for
+airway protection in the ED. Upon admission to the ICU, the
+patient was started on pulse dose steroids, antihistamines and
+H2 blockers around the clock. Her swelling rapidly improved and
+she was successfully extubated within 48 hours. She was
+evaluated by the allergy consult service who recommended C4 and
+C1 esterase inhibitor levels which are pending at the time of
+discharge. The patient was discharged on an oral prednisone
+taper. She was transitioned off of her home ACEi in favor of
+amlodipine for blood pressure control. She was also [**Month/Day/Year 1988**]
+for outpatient allergy follow-up. The patient should avoid all
+ACEi and [**Last Name (un) **] use in the future.
+
+The patient was incidentally noted to have hilar lymphadenopathy
+on CXR. Outpatient CT is recommended for further evaluation of
+this finding.
+
+She continues on albuertol for astham and oral contraceptives
+for chronic uterine bleeding.
+
+Medications on Admission:
+Home Medications:
+Lisinopril 10 mg daily
+Albuterol 2 puffs prn
+Flovent [**12-24**] inh [**Hospital1 **]
+Nasonex 50 mcg 2 sprays daily
+Norethindrone-Ethin (Necon 1/35) once a day
+.
+Allergies:
+Erythromycin causes rash and itching.  Penicillin causes throat
+swelling and anaphylaxis type reaction.  Allergy to codeine,
+which causes anaphylaxis.  Bactrim causes rash.  Egg causes
+hives.
+
+
+Discharge Medications:
+1. Prednisone 20 mg Tablet Sig: Per schedule Tablet PO DAILY
+(Daily): 2 pills for 2 days, 1 pill for 2 days and then 0.5
+pills for 2 days.
+Disp:*8 Tablet(s)* Refills:*0*
+2. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation Q6H (every 6 hours).
+3. Flovent HFA 110 mcg/Actuation Aerosol Sig: [**12-24**]  Inhalation
+twice a day.
+4. Nasonex 50 mcg/Actuation Spray, Non-Aerosol Sig: Two (2)
+Nasal once a day.
+5. Necon 1/35 (28) 1-35 mg-mcg Tablet Sig: One (1) Tablet PO
+once a day.
+6. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Angioedema
+
+Hypertension
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted with swelling of the lips and tongue. This was
+almost certainly due to an allergic reaction to the medication
+lisinopril. Avoid this medication in the future and all other
+medications of this class, called ACE inhibitors or angiotensin
+converting enzyme inhibitors.Please complete a course of
+prednisone as treatment for this problem. Follow-up in your
+primary care doctors office as [**Name5 (PTitle) 1988**].  Also follow-up with
+Dr. [**Last Name (STitle) 2603**] of allergy medicine as [**Last Name (STitle) 1988**].
+
+Take all medications as prescribed. Take amlodipine for blood
+pressure control.
+
+Call your doctor or return to the ED for any new or worsening
+swelling of the lips or tongue, shortness of breath, chest pain
+or any other concerning symptoms.
+
+Followup Instructions:
+Primary care: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], RN, CS Phone:[**Telephone/Fax (1) 250**] [**2128-12-14**]
+8:00
+
+Allergy: Dr. [**Last Name (STitle) 2603**] ([**Telephone/Fax (1) **]) Tuesday [**2128-2-8**]
+9:00AM
+
+
+

@@ -1,0 +1,260 @@
+Admission Date:  [**2142-10-12**]              Discharge Date:   [**2142-10-13**]
+
+Date of Birth:  [**2082-10-16**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Statins-Hmg-Coa Reductase Inhibitors
+
+Attending:[**First Name3 (LF) 7333**]
+Chief Complaint:
+atrial flutter
+
+Major Surgical or Invasive Procedure:
+atrial flutter ablation, intubation
+
+
+History of Present Illness:
+This is a 59 year old patient with a PMH of DMII, HTN, MI
+([**2135**])and history of persistent atrial fibrillation for several
+years. He is s/p atrial fibrillation ablation in [**5-23**] and had
+recurrent atrial flutter post procedure which required 2 DCCV??????s
+in [**8-22**]. He again was seen by Dr. [**Last Name (STitle) 13177**] for an episode of
+Atrial Flutter and was cardioverted in [**7-24**]. Although he feels
+reletively well in atrial flutter he has noticed a decrease in
+exercise tolerance due to shortness of breath. He used to be
+able to walk one mile but in the last 2 months his exercise
+tolerance has decreased to unable to climb 1 flight of stairs.
+He also experiences lightheadedess when bending over when he is
+in atrial flutter. Since the patient was becoming more
+sympomatic he was scheduled to undergo elective ablation.
+.
+During the procedure, initial BP was 168/109 (baseline). He got
+etomidate and succ for intubation, followed by fentanyl and
+midazolam. The procedure went well and his atrial flutter
+converted to NSR. Immediately after conversion, patient became
+hypotensive to 70/50. Stat echo showed mildly depressed EF
+without signs of tamponade. He was started on phenylephrine
+briefly which was quickly weaned prior to arrival in CCU. He was
+extubated without difficulty prior to transfer.
+.
+On arrival to the CCU patient is in NAD, alert and animated. No
+SOB, CP, dizziness, or nausea and vomiting.
+.
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, or pulmonary embolism. He denies
+exertional buttock or calf pain.
+.
+Cardiac review of systems is notable for dyspnea on exertion,
+ankle edema, and palpatations. However there is absence of chest
+pain.
+
+
+Past Medical History:
+-Atrial fibrillation s/p cardioversion x 2, followed by atrial
+fib ablation [**5-23**] (Pulmonary Vein Isolation)
+-Cardioversion x 2 post PVI for atrial flutter
+-Hypothyroidism [**3-19**] to Amiodarone
+-Rash on right shoulder [**7-24**]. Pt rested positive for Lyme
+disease
+treated with Doxycycline. Rash now resolved.
+-IDDM (Type 2 DM on insulin pump)
+-Asthma
+-Bronchitis
+-S/P Tonsillectomy
+-Osteomyelitis right foot s/p surgery [**2134**]
+-Neuropathy
+-Cataract
+-Anxiety
+-? MI [**2135**] at [**Hospital1 34**] - had cath - no intervention - 50% occlusion
+(pt not sure which vessel)
+-Cardiac cath in [**2141**] per patient no intervention
+(total of [**4-18**] caths since [**2135**])
+-Basal cell carcinoma of the left forearm s/p surgical removal.
+
+
+
+Social History:
+-Tobacco history: None
+-ETOH: Social
+-Illicit drugs: None at present. During college years marijuana.
+His HCP is his significant other [**Name (NI) 74545**] [**Name (NI) **] ([**Telephone/Fax (1) 78137**]).
+Has one son age 30.
+
+
+Family History:
+Family history significant for brother age 66 with A. fib s/p
+ablation. Father: DM, HTN died at age 55 of liver cancer.
+
+Physical Exam:
+VS: T= 96.9 BP= 124/65 HR= 72 RR= 18 O2 sat= 100% 6L NC Height:
+6 feet 5 inches Weight: 293 lbs BMI 34.7
+GENERAL: Obese white male in NAD. Oriented x3. Mood, affect
+appropriate. Laying comfortably
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. Dry oral mucosa.
+No xanthalesma.
+NECK: Supple. No LAD. No JVP appreciated. ?Left carotid bruit
+CARDIAC: RRR, normal S1, S2. No m/r/g appreciated. No thrills,
+lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB anteriorly and
+midaxillary as well as no crackles, wheezes or rhonchi. (Pt
+unable to sit up due to BL cath sites)
+ABDOMEN: Soft, NTND. Obese. No HSM or tenderness. Unable to
+access abdomial aorta. No abdominial bruits.
+EXTREMITIES: left forearm 1.5cm x 1cm scab with erythematous
+borders s/p BCC removal. Decreased sensation to pin prick BL
+lower extremities. +1 edema at the ankles. No femoral bruits.
+SKIN: Dry lower extremities. Well healed right toe ulcer.
+Onychomycosis BL feet.
+PULSES:
+Right: Carotid 2+ Femoral 2+ DP 2+
+Left: Carotid 2+ Femoral 2+ DP 2+
+Post-cath check 5:45pm
+No evidence of hematoma, bruising or bruits at either site. Good
+distal pulses. No mottling of the skin.
+
+
+Pertinent Results:
+Admission labs:
+[**2142-10-12**] 12:10PM   GLUCOSE-232* UREA N-18 CREAT-1.1 SODIUM-143
+POTASSIUM-4.4 CHLORIDE-109* TOTAL CO2-28 ANION GAP-10
+[**2142-10-12**] 12:10PM   WBC-8.5 RBC-5.31 HGB-15.1 HCT-46.1 MCV-87
+MCH-28.4 MCHC-32.7 RDW-14.3
+[**2142-10-12**] 06:30AM   PT-25.4* INR(PT)-2.4*
+
+Brief Hospital Course:
+This 59 year old patient with a PMH of DMII, HTN, ? MI ([**2135**])and
+history of recurrent Atrial Fibrillation/ Atrial flutter
+referred for elective Atrial flutter ablation on [**2142-10-12**], now
+admitted to the CCU for management of his hypotension during
+ablation requiring pressors.
+.
+# Rhythm: He was admitted for elective ablation.  The procedure
+went well from a rhythm standpoint and his atrial flutter
+converted to NSR.
+.
+In the CCU, he was monitorred on telemetry overnight and
+remained in NSR.  Metoprolol was decreased to 50 mg [**Hospital1 **]. [**Doctor Last Name **] of
+Hearts monitorring was arranged prior to discharge, and he was
+instructed to follow up with his cardiologist in 5 days.
+.
+The patient was therapeutically anticoagulated upon admission
+and will continue his outpatient dose of warfarin with INR
+monitorring upon discharge.
+.
+# Hypotension: Patient chronically hypertensive. Baseline SBP
+160s-180s. During the procedure, initial BP was 168/109
+(baseline). He got etomidate and succinylcholine for intubation,
+followed by fentanyl and midazolam.  Immediately after reversion
+to NSR, patient became hypotensive to 70/50. Stat echo showed
+mildly depressed EF without signs of tamponade. He was started
+on phenylephrine briefly which was quickly weaned. He was
+extubated without difficulty and transferred to the CCU.  He had
+no further episodes of hypotension.  In the CCU BPs were
+100-140s systolic.  His home ACEI and metoprolol were restarted.
+
+# Coronaries: Patient experienced a questionable MI in [**2135**] for
+which he was cath and demonstrated 50% occlusion of an unknown
+vessel.  Given that history, ASA was started.  He will discuss
+whether it is appropriate to continue this with his
+cardiologist.  ACEI and beta blocker were continued.  He was
+noted to have been unable to tolerate statins secondary to
+myalgias.
+.
+# Pump: Unknown EF.  Apparently euvolemic.  Lasix was continued
+at home dose.
+.
+# Type II DM: Last HBA1C was 8.3%.  FS were initially 200s-300s
+immediatley after procedure but well controlled subsequently.
+Home insulin pump regimen was continued.
+.
+# Asthma:  No active disease.  Advair was continued
+
+
+Medications on Admission:
+Advair (250/50 mcg)
+Albuterol PRN
+Benazepril 30 mg twice a day
+Coumadin regulated by Dr. [**Last Name (STitle) 13177**]
+[**Name (STitle) **] oil 1,000mg daily
+Lasix 40 mg once a day
+Insulin pump
+Metoprolol tartrate 100 mg twice a day
+Multivitamin 1 tablet daily
+Glucosamine 1,500 mg daily
+Vitamin C 1,000mg
+Alpha lipoic acid
+Zetia 10 mg daily
+
+
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Warfarin 2 mg Tablet Sig: Three (3) Tablet PO Once Daily at 4
+PM: except 7 mg on Thursday.
+6. Advair Diskus 250-50 mcg/Dose Disk with Device Sig: One (1)
+puff Inhalation twice a day.
+7. Benazepril 20 mg Tablet Sig: 1.5 Tablets PO twice a day.
+8. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+9. insulin pump
+Please continue your fingersticks and insulin pump as per home
+regimen.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+primary: atrial flutter, hypotension
+secondary:  diabetes, hypothyroidism, asthma
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You came to the hospital for a procedure to stop your atrial
+flutter.  The procedure was a success, but you briefly had low
+blood pressure.  This improved with medications.
+
+The following medication changes were made:
+1) metoprolol was decreased to 50 mg twice daily
+2) aspirin 81 mg daily was started (Please discuss with Dr.
+[**Last Name (STitle) 13177**] if you should continue this.)
+
+You should resume your previous coumadin dosing and check your
+levels as you have been doing.
+
+Please follow up at [**Hospital3 **] Cardiology on Thursday,
+[**10-18**]. The office will call you to arrange this.  If you
+do not hear from them, you need to call to schedule the
+appointment:  [**0-0-**].
+
+Please wear the [**Doctor Last Name **] of Hearts monitor until you discuss it with
+Dr. [**Last Name (STitle) 13177**] on Thursday.  Instructions for this were provided.
+
+Please call you doctor or return to the hospital for chest pain,
+palpitations, shortness of breath, high fevers and chills, or
+other symptoms that are concerning to you.
+
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) 13177**] on Thursday, [**10-18**].
+The office will call you to arrange this.  If you do not hear
+from them, you need to call to schedule the appointment:
+[**0-0-**].
+
+
+
+Completed by:[**2142-10-13**]

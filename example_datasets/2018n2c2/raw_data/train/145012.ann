@@ -1,0 +1,279 @@
+T1	Strength 10002 10007	3-4mg
+R1	Strength-Drug Arg1:T1 Arg2:T165
+T2	Frequency 10008 10011	QHS
+R2	Frequency-Drug Arg1:T2 Arg2:T165
+T3	Drug 10040 10047	Digoxin
+T4	Strength 10048 10055	250 mcg
+R3	Strength-Drug Arg1:T4 Arg2:T3
+T5	Form 10056 10062	Tablet
+R4	Form-Drug Arg1:T5 Arg2:T3
+T6	Dosage 10068 10075	One (1)
+R5	Dosage-Drug Arg1:T6 Arg2:T3
+T7	Form 10076 10082	Tablet
+R6	Form-Drug Arg1:T7 Arg2:T3
+T8	Route 10083 10085	PO
+R7	Route-Drug Arg1:T8 Arg2:T3
+T9	Frequency 10086 10096	once a day
+R8	Frequency-Drug Arg1:T9 Arg2:T3
+T10	Drug 10133 10146	Levothyroxine
+T11	Strength 10147 10153	25 mcg
+R9	Strength-Drug Arg1:T11 Arg2:T10
+T12	Form 10154 10160	Tablet
+R10	Form-Drug Arg1:T12 Arg2:T10
+T13	Dosage 10166 10173	One (1)
+R11	Dosage-Drug Arg1:T13 Arg2:T10
+T14	Form 10174 10180	Tablet
+R12	Form-Drug Arg1:T14 Arg2:T10
+T15	Route 10181 10183	PO
+R13	Route-Drug Arg1:T15 Arg2:T10
+T16	Frequency 10184 10189	DAILY
+R14	Frequency-Drug Arg1:T16 Arg2:T10
+T17	Drug 10202 10209	Sotalol
+T18	Strength 10210 10215	80 mg
+R15	Strength-Drug Arg1:T18 Arg2:T17
+T19	Dosage 10228 10231	1.5
+R16	Dosage-Drug Arg1:T19 Arg2:T17
+T20	Form 10232 10239	Tablets
+R17	Form-Drug Arg1:T20 Arg2:T17
+T21	Route 10240 10242	PO
+R18	Route-Drug Arg1:T21 Arg2:T17
+T22	Frequency 10243 10246	BID
+R19	Frequency-Drug Arg1:T22 Arg2:T17
+T23	Drug 10268 10279	Simvastatin
+T24	Strength 10280 10285	40 mg
+R20	Strength-Drug Arg1:T24 Arg2:T23
+T25	Form 10286 10292	Tablet
+R21	Form-Drug Arg1:T25 Arg2:T23
+T26	Dosage 10298 10305	One (1)
+R22	Dosage-Drug Arg1:T26 Arg2:T23
+T27	Form 10306 10312	Tablet
+R23	Form-Drug Arg1:T27 Arg2:T23
+T28	Route 10313 10315	PO
+R24	Route-Drug Arg1:T28 Arg2:T23
+T29	Frequency 10316 10321	DAILY
+R25	Frequency-Drug Arg1:T29 Arg2:T23
+T30	Drug 10334 10343	Midodrine
+T31	Strength 10344 10348	5 mg
+R26	Strength-Drug Arg1:T31 Arg2:T30
+T32	Form 10349 10355	Tablet
+R27	Form-Drug Arg1:T32 Arg2:T30
+T33	Dosage 10361 10368	One (1)
+R28	Dosage-Drug Arg1:T33 Arg2:T30
+T34	Form 10369 10375	Tablet
+R29	Form-Drug Arg1:T34 Arg2:T30
+T35	Route 10376 10378	PO
+R30	Route-Drug Arg1:T35 Arg2:T30
+T36	Frequency 10379 10382	TID
+R31	Frequency-Drug Arg1:T36 Arg2:T30
+T37	Drug 10403 10411	Zolpidem
+T38	Strength 10412 10416	5 mg
+R32	Strength-Drug Arg1:T38 Arg2:T37
+T39	Form 10417 10423	Tablet
+R33	Form-Drug Arg1:T39 Arg2:T37
+T40	Dosage 10429 10436	Two (2)
+R34	Dosage-Drug Arg1:T40 Arg2:T37
+T41	Form 10437 10443	Tablet
+R35	Form-Drug Arg1:T41 Arg2:T37
+T42	Route 10444 10446	PO
+R36	Route-Drug Arg1:T42 Arg2:T37
+T43	Frequency 10447 10462	HS (at bedtime)
+R37	Frequency-Drug Arg1:T43 Arg2:T37
+T44	Drug 10468 10477	Lorazepam
+T45	Strength 10478 10482	1 mg
+R38	Strength-Drug Arg1:T45 Arg2:T44
+T46	Form 10483 10489	Tablet
+R39	Form-Drug Arg1:T46 Arg2:T44
+T47	Dosage 10495 10503	Four (4)
+R40	Dosage-Drug Arg1:T47 Arg2:T44
+T48	Form 10504 10510	Tablet
+R41	Form-Drug Arg1:T48 Arg2:T44
+T49	Dosage 1051 1053	2L
+R42	Dosage-Drug Arg1:T49 Arg2:T52
+T50	Route 10511 10513	PO
+R43	Route-Drug Arg1:T50 Arg2:T44
+T51	Frequency 10514 10529;10530 10539	HS (at bedtime) as needed
+R44	Frequency-Drug Arg1:T51 Arg2:T44
+T52	Drug 1054 1056	NS
+T53	Reason 10544 10552	insomnia
+R45	Reason-Drug Arg1:T53 Arg2:T44
+T54	Drug 10557 10566	Bupropion
+T55	Strength 10567 10573	100 mg
+R46	Strength-Drug Arg1:T55 Arg2:T54
+T56	Form 10574 10580	Tablet
+R47	Form-Drug Arg1:T56 Arg2:T54
+T57	Strength 1058 1061	1gm
+R48	Strength-Drug Arg1:T57 Arg2:T62
+T58	Dosage 10586 10593	One (1)
+R49	Dosage-Drug Arg1:T58 Arg2:T54
+T59	Form 10594 10600	Tablet
+R50	Form-Drug Arg1:T59 Arg2:T54
+T60	Route 10601 10603	PO
+R51	Route-Drug Arg1:T60 Arg2:T54
+T61	Frequency 10604 10607	BID
+R52	Frequency-Drug Arg1:T61 Arg2:T54
+T62	Drug 1062 1065	CTX
+T63	Drug 10628 10638	Furosemide
+T64	Strength 10639 10644	40 mg
+R53	Strength-Drug Arg1:T64 Arg2:T63
+T65	Form 10645 10651	Tablet
+R54	Form-Drug Arg1:T65 Arg2:T63
+T66	Dosage 10657 10664	One (1)
+R55	Dosage-Drug Arg1:T66 Arg2:T63
+T67	Form 10665 10671	Tablet
+R56	Form-Drug Arg1:T67 Arg2:T63
+T68	Route 10672 10674	PO
+R57	Route-Drug Arg1:T68 Arg2:T63
+T69	Frequency 10675 10685	once a day
+R58	Frequency-Drug Arg1:T69 Arg2:T63
+T70	Strength 1070 1074	1 gm
+R59	Strength-Drug Arg1:T70 Arg2:T74
+T71	Drug 10723 10737	Spironolactone
+T72	Strength 10738 10743	25 mg
+R60	Strength-Drug Arg1:T72 Arg2:T71
+T73	Form 10744 10750	Tablet
+R61	Form-Drug Arg1:T73 Arg2:T71
+T74	Drug 1075 1085	vancomycin
+T75	Dosage 10756 10759	0.5
+R62	Dosage-Drug Arg1:T75 Arg2:T71
+T76	Form 10760 10766	Tablet
+R63	Form-Drug Arg1:T76 Arg2:T71
+T77	Route 10767 10769	PO
+R64	Route-Drug Arg1:T77 Arg2:T71
+T78	Frequency 10770 10775	DAILY
+R65	Frequency-Drug Arg1:T78 Arg2:T71
+T79	Drug 10821 10830	Linezolid
+T80	Strength 10831 10837	600 mg
+R66	Strength-Drug Arg1:T80 Arg2:T79
+T81	Form 10838 10844	Tablet
+R67	Form-Drug Arg1:T81 Arg2:T79
+T82	Dosage 10850 10857	One (1)
+R68	Dosage-Drug Arg1:T82 Arg2:T79
+T83	Form 10858 10864	Tablet
+R69	Form-Drug Arg1:T83 Arg2:T79
+T84	Route 10865 10867	PO
+R70	Route-Drug Arg1:T84 Arg2:T79
+T85	Frequency 10868 10879	twice a day
+R71	Frequency-Drug Arg1:T85 Arg2:T79
+T86	Duration 10880 10891	for 14 days
+R72	Duration-Drug Arg1:T86 Arg2:T79
+T87	Drug 10929 10934	Cipro
+T88	Strength 10935 10941	500 mg
+R73	Strength-Drug Arg1:T88 Arg2:T87
+T89	Form 10942 10948	Tablet
+R74	Form-Drug Arg1:T89 Arg2:T87
+T90	Dosage 10954 10960	One (1
+R75	Dosage-Drug Arg1:T90 Arg2:T87
+T91	Form 10962 10968	Tablet
+R76	Form-Drug Arg1:T91 Arg2:T87
+T92	Route 10969 10971	PO
+R77	Route-Drug Arg1:T92 Arg2:T87
+T93	Frequency 10972 10983	twice a day
+R78	Frequency-Drug Arg1:T93 Arg2:T87
+T94	Duration 10984 10987;10988 10995	for 14 days
+R79	Duration-Drug Arg1:T94 Arg2:T87
+T95	Drug 11106 11113	Digoxin
+T96	Drug 12437 12448	antibiotics
+T97	Duration 12471 12478	2 weeks
+R80	Duration-Drug Arg1:T97 Arg2:T96
+T98	Drug 12646 12656	antibiotic
+T99	Reason 12681 12695	foot infection
+R81	Reason-Drug Arg1:T99 Arg2:T100
+T100	Drug 12697 12706	linezolid
+T101	ADE 12723 12728;12729 12755	white blood cell count to be low
+R82	ADE-Drug Arg1:T101 Arg2:T100
+T102	ADE 12852 12876	worsening renal function
+R83	ADE-Drug Arg1:T102 Arg2:T103
+T103	Drug 12897 12907	vancomycin
+T104	Drug 12911 12921	antibiotic
+T105	Reason 12947 12956	infection
+R84	Reason-Drug Arg1:T105 Arg2:T103
+R85	Reason-Drug Arg1:T105 Arg2:T104
+T106	Drug 13145 13152	digxoin
+T107	Drug 13154 13159	lasix
+T108	Drug 13164 13178	spironolactone
+T109	Drug 13373 13386	Ciprofloxacin
+T110	Drug 13391 13400	Linezolid
+T111	Drug 13404 13415	antibiotics
+T113	Reason 13425 13439	foot infection
+R86	Reason-Drug Arg1:T113 Arg2:T109
+R87	Reason-Drug Arg1:T113 Arg2:T110
+R88	Reason-Drug Arg1:T113 Arg2:T111
+T114	Frequency 13457 13468	twice daily
+R89	Frequency-Drug Arg1:T114 Arg2:T110
+R90	Frequency-Drug Arg1:T114 Arg2:T109
+R91	Frequency-Drug Arg1:T114 Arg2:T111
+T115	Drug 167 178	Penicillins
+T116	Drug 1717 1723	NSAIDs
+T117	Drug 1728 1736	coumadin
+T119	Drug 8444 8470	broad spectrum antibiotics
+T120	Drug 8850 8859	Linezolid
+T121	Drug 8864 8877	Ciprofloxacin
+T122	Drug 9051 9058	digoxin
+T123	Drug 9063 9070	sotalol
+T125	Drug 9103 9108	lasix
+T126	Drug 9113 9127	spironolactone
+T127	ADE 9272 9306	patient's creatinine began to rise
+R92	ADE-Drug Arg1:T127 Arg2:T128
+T128	Drug 9368 9378	vancomycin
+T129	ADE 9379 9387	toxicity
+R93	ADE-Drug Arg1:T129 Arg2:T128
+T130	Drug 9403 9412	diuretics
+T131	Drug 956 963	Digoxin
+T132	Drug 9575 9585	vancomycin
+T133	Drug 9745 9759	Spironolactone
+T134	Strength 9760 9764	25mg
+R94	Strength-Drug Arg1:T134 Arg2:T133
+T135	Route 9765 9767	po
+R95	Route-Drug Arg1:T135 Arg2:T133
+T136	Frequency 9768 9771	BID
+R96	Frequency-Drug Arg1:T136 Arg2:T133
+T137	Drug 9772 9779	Sotalol
+T138	Strength 9780 9785	120mg
+R97	Strength-Drug Arg1:T138 Arg2:T137
+T139	Route 9786 9788	PO
+R98	Route-Drug Arg1:T139 Arg2:T137
+T140	Frequency 9789 9792	BID
+R99	Frequency-Drug Arg1:T140 Arg2:T137
+T141	Drug 9793 9802	Bupropion
+T142	Strength 9803 9808	100mg
+R100	Strength-Drug Arg1:T142 Arg2:T141
+T143	Drug 9826 9839	Levothyroxine
+T144	Strength 9840 9845	25mcg
+R101	Strength-Drug Arg1:T144 Arg2:T143
+T145	Frequency 9846 9851	daily
+R102	Frequency-Drug Arg1:T145 Arg2:T143
+T146	Drug 9852 9862	Clonazepam
+T147	Strength 9863 9868	0.5mg
+R103	Strength-Drug Arg1:T147 Arg2:T146
+T148	Drug 9886 9897	Simvastatin
+T149	Strength 9898 9902	40mg
+R104	Strength-Drug Arg1:T149 Arg2:T148
+T150	Frequency 9903 9908	Daily
+R105	Frequency-Drug Arg1:T150 Arg2:T148
+T151	Drug 9909 9916	Digoxin
+T152	Strength 9917 9920	125
+R106	Strength-Drug Arg1:T152 Arg2:T151
+T153	Frequency 9921 9924	QAM
+R107	Frequency-Drug Arg1:T153 Arg2:T151
+T154	Strength 9926 9929	250
+R108	Strength-Drug Arg1:T154 Arg2:T151
+T155	Frequency 9930 9933	QPM
+R109	Frequency-Drug Arg1:T155 Arg2:T151
+T156	Drug 9934 9943	Midodrine
+T157	Strength 9944 9947	5mg
+R110	Strength-Drug Arg1:T157 Arg2:T156
+T158	Frequency 9948 9951	TID
+R111	Frequency-Drug Arg1:T158 Arg2:T156
+T159	Drug 9952 9960	Zolpidem
+T160	Strength 9961 9965	10mg
+R112	Strength-Drug Arg1:T160 Arg2:T159
+T161	Frequency 9966 9969	QHS
+R113	Frequency-Drug Arg1:T161 Arg2:T159
+T162	Drug 9970 9980	Furosemide
+T163	Strength 9981 9985	80mg
+R114	Strength-Drug Arg1:T163 Arg2:T162
+T164	Frequency 9986 9991	Daily
+R115	Frequency-Drug Arg1:T164 Arg2:T162
+T165	Drug 9992 10001	Lorazepam
+T124	Drug 9092 9101	diuretics
+R116	Reason-Drug Arg1:T99 Arg2:T98	

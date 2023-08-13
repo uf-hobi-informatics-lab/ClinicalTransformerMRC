@@ -1,0 +1,286 @@
+Admission Date:  [**2116-12-24**]              Discharge Date:   [**2116-12-28**]
+
+Date of Birth:  [**2050-11-14**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Morphine / Penicillins / Darvon / Macrobid
+
+Attending:[**Doctor First Name 1402**]
+Chief Complaint:
+presyncopal episodes
+
+Major Surgical or Invasive Procedure:
+EP ablation
+
+History of Present Illness:
+66yof w/ pmh CAD s/p CABG '[**85**], AAA repair, DM, PVD s/p bilat
+AKA, hypoithyroid, hyperlipidemia, CHF, dizziness, chroinic
+wounds (healed pressure ulcer on back, red cuts under breasts,
+old healing abd wound), presents to OSH [**12-20**] w/ presyncopal
+episodes and hypotension that had been on and off for three
+days.  She was managed on the floor but tx to CCU [**12-21**] for per
+report sustained VT w/ BP 50/.  She was intubated and shocked
+x5.  She was started on Procainamide gtt at 3mg/min, Neo gtt and
+propofol gtt.  Per report, while pt intubated and sedated, her
+she had no VT.  Her last shock was [**12-21**].She was weaned from
+sedation and extubated [**12-22**] and her VT re-occurred.  Since then,
+she has been in NS/SB 48-52 and has recurrent VT (5-10 beat
+runs) w/ BP 80-90/.
+
+She reported presyncopal attacks for 3 days prior to [**Last Name (un) **]
+presentation to the OSH. During these episodes, she felt dizzy
+and had reduction in her vision. No associated chest pain, [**Doctor Last Name **]
+or palpitations. No history of diarrhoea, vomiting or reduced
+intake. There had been no recent change in her home medications.
+In addition, she reprots that her caregiver noticed dark stool
+on day 2 of symptoms, unclear whether melanotic.  Denies any
+BRBPR, no nausea/vomiting/abdominal pain.
+
+Transferred to [**Hospital1 18**] for possible EP ablation of the focus of
+her presumed Vtach. On arrival at [**Hospital1 18**] CCU, ECG in sinus
+revealed RBBB, LAFB, left atrial abnormality. ECG from OSH([**Hospital1 34**])
+showed NSVT negative in II, III, F, positive in 1, L, transition
+at V3/V4 in setting of SVT possible AT at 260.
+
+
+Past Medical History:
+- CAD s/p MI [**2085**], s/p CABGx3
+- h/o AAA repair in [**2104**] at [**Hospital1 112**]
+- HTN
+- Hyperlipidemia
+- Hypothyroidism
+- CHF (EF 30-35%)
+- PVD s/p B AKA [**12-31**] infection of total knee prostheses, with
+left side revision [**2112**] and known DVT (on coumadin).
+- ventral hernia (incisional)
+- s/p cholecystectomy ([**2084**])
+- depression
+- precautions (MRSA - [**12-6**], VRE - leg [**1-6**], ESBL - urine klebs
+[**10-6**])
+
+
+Social History:
+She lives at with a personal care attendant, is able to
+dress/feed herself, but needs a [**Doctor Last Name 2598**] lift to move around. 1.5
+ppd tobacco. Denies etoh, ivdu. Sister [**Name (NI) **] (HCP) lives in
+[**Name (NI) 8447**] ([**Telephone/Fax (1) 97139**].
+
+
+Family History:
+Father: hx HTN, angina
+
+Physical Exam:
+ON ADMISSION:
+Tcurrent: 36.3 ??????C (97.3 ??????F)
+HR: 100 (72 - 100) bpm
+BP: 91/61(66) {87/43(55) - 96/69(73)} mmHg
+RR: 14 (14 - 24) insp/min
+SpO2: 91%
+Heart rhythm: SR (Sinus Rhythm)
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+pallor or cyanosis of the oral mucosa. No xanthalesma.
+NECK: Supple with no elevation of JVP
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. Irregularly irregular cardiac impulse, normal S1, S2. No
+murmurs or added heart sounds. No thrills, lifts.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No abdominial bruits.
+EXTREMITIES: Bilateral AKA. No femoral bruits. Mild edema on the
+lower limb stumps bilaterally.
+SKIN: Healing scars on her back, active lesions beneath her
+breasts.
+PULSES:
+Right: Carotid 2+ Femoral 2+
+Left: Carotid 2+ Femoral 2+
+
+
+Pertinent Results:
+CXR [**2116-12-25**]
+Sinus rhythm with ventricular premature beats. Right
+bundle-branch block. Left anterior fascicular block.
+Anterolateral lead ST-T wave abnormalities are primary and are
+non-specific. Since the previous tracing of [**2114-4-1**] ventricular
+ectopy is present. Otherwise, there is no significant change.
+.
+- CXR at OSH showed no evidence of pulmonary congestion.
+.
+- ECG:  ECG in sinus revealed RBBB, LAFB, left atrial
+abnormality. ECG from OSH([**Hospital1 34**]) showed NSVT negative in II, III,
+F, positive in 1, L, transition at V3/V4 in setting of SVT
+possible AT at 260.
+.
+- ECHO: [**2116-12-21**] at [**Hospital6 33**].  Full report in chart.
+ Of note, EF 10-15%.  Severe diffuse hypokinesis.  Akinesis and
+aneursymal deformity of apical walls.  Mild mitral
+regurgitation, trace tricuspid regurgitation, PASP estimated at
+13mmHg + RA pressure.
+.
+CT ABD/PELVIS [**2116-12-26**]
+1. Diffuse thinning of anterior abdominal musculature with
+diffuse bulge of abdomen. Fat containing umbilical hernia.
+Multiple gas-filled loops of bowel including the transverse
+colon, finding which can be seen in bedbound patients. No bowel
+obstruction.
+2. Diffusely abnormal abdominal aorta with long-segment fusiform
+aneurysm (5 cm), as previously described. Size is similar to
+that seen on [**2114-4-1**], however now with increased mural thrombus,
+effectively resulting in decreased size of true lumen. Also now
+occluded right common iliac artery, with reconstitution of flow
+seen at right common femoral artery.
+3. Cardiomegaly with left ventricular enlargement and left
+ventricular
+aneurysm.
+4. Possible 3-mm right lower lobe nodule, incompletely imaged.
+[**First Name8 (NamePattern2) **]
+[**Last Name (un) 8773**] criteria, if the patient is at high risk for
+intrathoracic
+malignancy, follow-up CT would be recommended in 1 year.
+Otherwise, no
+further imaging would be recommended.
+5. Multiple renal hypodensities, too small to characterize.
+.
+TTE [**2116-12-25**]
+Poor image quality. The left atrium is mildly dilated. The right
+atrium is moderately dilated. No atrial septal defect is seen by
+2D or color Doppler. There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity is mildly dilated.
+There is severe regional left ventricular systolic dysfunction
+with akinesis of the distal 2/3rds of the ventricle. A left
+ventricular mass/thrombus cannot be excluded (not seen but poor
+visualization of the apex cannot exclude). There is no
+ventricular septal defect. The diameters of aorta at the sinus,
+ascending and arch levels are normal. The mitral valve leaflets
+are mildly thickened. Mild to moderate ([**11-30**]+) mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. There is no pericardial effusion. EF 20-25%.
+Compared with the prior study (images reviewed) of [**2114-4-4**], no
+clear change (given LV dysfunciton persists, Takotsubo CM is no
+longer on the differential). If indicated, a repeat study with
+echo contrast OR a cardiac MRI may better assess LV/RV function
+and exclude apical thrombus.
+
+Brief Hospital Course:
+66F with CAD s/p CABG [**2085**], HL, PAD s/p B/L AKA in [**2112**] & AAA
+endovascular repair [**2104**], hypothyroid, 1 PPD [**Last Name (LF) 1818**], [**First Name3 (LF) **] 30-35%
+per [**Hospital1 34**] echo [**2114**], obesity, decub ulcer, ventral hernia with
+ulceration p/w VT storm to [**Hospital1 34**] now transferred to [**Hospital1 18**] for
+possible VT ablation by Dr. [**Last Name (STitle) 13177**].
+.
+#Arrhythmia: SVT with RBBB with intervals of VTach (runs of
+between 3 and 18 each time). At least two ectobic sites, one in
+the atria causing the SVT and one causing the VT. Probable
+causes previous MI, hyper/hypotension, elytes. Pt denies any
+CP/SOB/orthopnea. TSH was normal at 1.8. ECG from [**Hospital1 34**] showed
+NSVT negative in II, III, F, positive in 1, L, transition at
+V3/V4 in setting of SVT possible AT at 260.
+ECG on arrival to [**Hospital1 18**] in sinus showed RBBB, LAFB, left atrial
+abnormality
+Pt was started on procainamide gtt at 3, VT initially reduced
+but then flared up and gtt was increased to 4, and then DCd
+prior to ablation. CCU attending ?????? 60 minutes critical care. Pt
+continued to have runs of VT and was taken for ablation. EP lab
+transseptal approach to ablate focus in LV, however found
+several other foci of VT as well as AT. Given multiple foci not
+all of which successfully ablated, decision to treat with
+antiarrythmics.  Pt also had a competing atrial tachycardia.
+Given procainamide 950mg IV bolus which converted to sinus
+(although sinus rhythm difficult to tell from VT - mainly by
+rate - VT rate was 130, sinus in 90s) and then transitioned to
+amiodarone with procainamide DCd. Pt was monitored but continued
+having occasional runs of VT, and plan was to place permanent
+pacer. Progressive second degree heart block throughout day
+after the procedure with HR transiently dropping to 30s although
+BP stable. Resited RIJ to left cordis/ trauma line and placed
+temp transvenous pacer. However, she developed septic picture
+and permanent hardware was not able to be placed in that setting
+(see sepsis, below). Patient had sedation weaned and did not
+regain consciousness. In the setting of increasing leukocytosis,
+worsening renal failure, anasarca, and acute wound dehiscence at
+her groin puncture sites extending deep into the groin tissue,
+patient was transitioned to comfort measures only per the wishes
+of her family on the morning of [**2116-12-28**]. At 1827 on [**12-28**],
+patient expired peacefully of cardiac arrest, with family at
+bedside.
+.
+# Hypotension: Patient's SBP during course of illness ranged
+from low of 50s to 90. In the unit the MAPS have been btw 55-70
+with SBP of 77-94 and DBP of 48-60. Probable causes are
+cardiogenic(previous MI with non-contractile myocardium, SVT/VT,
+valvular dxs), hypovolemia, anemia, sepsis, hypothyroidism,
+non-compliance to medication). Pt was started on levophed but in
+setting of VT/arrythmia with increased ectopy this was changed
+to neosynephrine.
+.
+# CHF: Ptn with previous hx of CAD/MI and CABG.On Ace inh and BB
+at home. Probable causes for decompensation include arrythmias,
+hypovolemia, anemia. Repeat echo shows decline in EF: [**Month (only) **]/12 -
+10-15%, from 30-35% in [**2114**]. Diuresis was attempted with lasix
+but was minimally successful. Diuretics then held in setting of
+hypotension. ACEI and Bblocker also held in setting of
+hypotension.
+.
+# [**Last Name (un) **]: Creatinine 0.8 on [**2116-12-21**], went up to 1.8 on [**2116-12-27**].
+Renal assisted in examination of urine sediment and no casts
+were seen. Cytology consistent with pre-renal picture (shrunken
+RBCs) but no signs of ATN. FeNa was 0.13%.
+.
+# Sepsis - WBC to 23 on [**2116-12-27**]. Pt still with phenylephrine
+pressor requirement, fevers, and intermittently tachycardic. UA
+was dirty and there was evidence of skin breakdown around the
+areas where pt had vascular access. PT also had history of MRSA
+colonization, and was started empirically on vanc/cefepime. -
+central line in RIJ was changed over a wire. New line was placed
+in LIJ and catheter tip of RIJ was sent for culture. Urine
+culture showed no growth. Blood cultures pending at time of
+expiration.
+.
+# Anemia: Normocytic normochromic anemia. Probably 2/2 blood
+loss (dark stool reported), hemolysis or anemia of chronic
+illness. Hct down at 31 from 38  five days earlier.
+.
+# Supratherapeutic INR - pt had INR of 2.5 on presentation (on
+warfarin for h/o DVT) which peaked at 4.5 on [**2116-12-26**] even though
+coumadin was held after INR was supratherapeutic at 3.5.
+.
+# Sacral, chest, abdominal, groin wounds: Chronic wounds. Groin
+wounds developed secondary to femoral catheterization. Pain
+controlled with methadone.
+
+Medications on Admission:
+-  Levothyroxine 50mcg/d
+-  Plavix 75mg/d
+-  Lisinopril 5mg/d
+-  Imdur 30mg [**Hospital1 **]
+-  Pravachol 20mg/d
+-  Coumadin
+-  Methadone 20mg/d
+-  Ativan PRN
+-  Hydroxyzine PRN
+
+Discharge Medications:
+expired.
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+expired
+
+
+Discharge Condition:
+expired
+
+
+Discharge Instructions:
+expired
+
+Followup Instructions:
+expired
+
+
+

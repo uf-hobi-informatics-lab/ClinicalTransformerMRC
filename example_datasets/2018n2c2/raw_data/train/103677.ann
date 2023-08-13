@@ -1,0 +1,214 @@
+T1	Drug 1001 1007	pepcid
+T2	Strength 1008 1013	20 mg
+R1	Strength-Drug Arg1:T2 Arg2:T1
+T4	Drug 1018 1026	fentanyl
+T5	Strength 1027 1034	100 mcg
+R3	Strength-Drug Arg1:T5 Arg2:T4
+T7	Dosage 1039 1040	2
+R5	Dosage-Drug Arg1:T7 Arg2:T4
+T8	Drug 1045 1051	versed
+T9	Strength 1052 1056	2 mg
+R6	Strength-Drug Arg1:T9 Arg2:T8
+T11	Dosage 1062 1063	2
+R8	Dosage-Drug Arg1:T11 Arg2:T8
+T12	Drug 165 177	Erythromycin
+T13	Drug 185 196	Penicillins
+T14	Drug 199 206	Codeine
+T15	Drug 209 219	Bactrim Ds
+T16	Drug 248 258	Lisinopril
+T17	Drug 261 275	Ace Inhibitors
+T18	Drug 278 287	Valsartan
+T19	ADE 4019 4042	lip and tongue swelling
+R9	ADE-Drug Arg1:T19 Arg2:T21
+T20	ADE 4059 4069	angioedema
+R10	ADE-Drug Arg1:T20 Arg2:T21
+T21	Drug 4084 4088	ACEi
+T22	Dosage 4199 4209	pulse dose
+R11	Dosage-Drug Arg1:T22 Arg2:T23
+T23	Drug 4210 4218	steroids
+T24	Drug 4220 4234	antihistamines
+T25	Drug 4239 4250	H2 blockers
+T27	Route 4529 4533	oral
+R12	Route-Drug Arg1:T27 Arg2:T28
+T28	Drug 4534 4544	prednisone
+T29	Dosage 4545 4550	taper
+R13	Dosage-Drug Arg1:T29 Arg2:T28
+T30	Drug 4589 4593	ACEi
+T31	Drug 4606 4616	amlodipine
+T32	Reason 4621 4643	blood pressure control
+R14	Reason-Drug Arg1:T32 Arg2:T31
+R15	Reason-Drug Arg1:T32 Arg2:T30
+T33	Drug 4747 4751	ACEi
+T34	Drug 4958 4967	albuertol
+T35	Reason 4972 4978	astham
+R16	Reason-Drug Arg1:T35 Arg2:T34
+T36	Drug 4983 5002	oral contraceptives
+T37	Reason 5007 5031	chronic uterine bleeding
+R17	Reason-Drug Arg1:T37 Arg2:T36
+T38	Drug 5078 5088	Lisinopril
+T39	Strength 5089 5094	10 mg
+R18	Strength-Drug Arg1:T39 Arg2:T38
+T40	Frequency 5095 5100	daily
+R19	Frequency-Drug Arg1:T40 Arg2:T38
+T41	Drug 5101 5110	Albuterol
+T42	Dosage 5111 5112	2
+R20	Dosage-Drug Arg1:T42 Arg2:T41
+T43	Form 5113 5118	puffs
+R21	Form-Drug Arg1:T43 Arg2:T41
+T44	Frequency 5119 5122	prn
+R22	Frequency-Drug Arg1:T44 Arg2:T41
+T45	Drug 5123 5130	Flovent
+T46	Drug 5164 5171	Nasonex
+T47	Strength 5172 5178	50 mcg
+R23	Strength-Drug Arg1:T47 Arg2:T46
+T48	Dosage 5179 5180	2
+R24	Dosage-Drug Arg1:T48 Arg2:T46
+T49	Form 5181 5187	sprays
+R25	Form-Drug Arg1:T49 Arg2:T46
+T50	Frequency 5188 5193	daily
+R26	Frequency-Drug Arg1:T50 Arg2:T46
+T51	Drug 5194 5213	Norethindrone-Ethin
+T52	Strength 5221 5225	1/35
+R27	Strength-Drug Arg1:T52 Arg2:T51
+T53	Frequency 5227 5237	once a day
+R28	Frequency-Drug Arg1:T53 Arg2:T51
+T54	Drug 5251 5263	Erythromycin
+T55	ADE 5271 5275	rash
+R29	ADE-Drug Arg1:T55 Arg2:T54
+T56	ADE 5280 5287	itching
+R30	ADE-Drug Arg1:T56 Arg2:T54
+T57	Drug 5290 5300	Penicillin
+T58	ADE 5308 5314;5315 5323	throat swelling
+R31	ADE-Drug Arg1:T58 Arg2:T57
+T59	ADE 5328 5353	anaphylaxis type reaction
+R32	ADE-Drug Arg1:T59 Arg2:T57
+T60	Drug 5367 5374	codeine
+T61	ADE 5389 5400	anaphylaxis
+R33	ADE-Drug Arg1:T61 Arg2:T60
+T62	Drug 5403 5410	Bactrim
+T63	ADE 5418 5422	rash
+R34	ADE-Drug Arg1:T63 Arg2:T62
+T64	Drug 5471 5481	Prednisone
+T65	Strength 5482 5487	20 mg
+R35	Strength-Drug Arg1:T65 Arg2:T64
+T66	Form 5488 5494	Tablet
+R36	Form-Drug Arg1:T66 Arg2:T64
+T67	Form 5513 5519	Tablet
+R37	Form-Drug Arg1:T67 Arg2:T64
+T68	Route 5520 5522	PO
+R38	Route-Drug Arg1:T68 Arg2:T64
+T69	Frequency 5523 5528;5529 5536	DAILY (Daily)
+R39	Frequency-Drug Arg1:T69 Arg2:T64
+T70	Dosage 5538 5539	2
+R40	Dosage-Drug Arg1:T70 Arg2:T64
+T71	Form 5540 5545	pills
+R41	Form-Drug Arg1:T71 Arg2:T64
+T72	Duration 5546 5556	for 2 days
+R42	Duration-Drug Arg1:T72 Arg2:T64
+T73	Dosage 5558 5559	1
+R43	Dosage-Drug Arg1:T73 Arg2:T64
+T74	Form 5560 5564	pill
+R44	Form-Drug Arg1:T74 Arg2:T64
+T75	Duration 5565 5575	for 2 days
+R45	Duration-Drug Arg1:T75 Arg2:T64
+T76	Dosage 5585 5588	0.5
+R46	Dosage-Drug Arg1:T76 Arg2:T64
+T77	Form 5589 5594	pills
+R47	Form-Drug Arg1:T77 Arg2:T64
+T78	Duration 5595 5605	for 2 days
+R48	Duration-Drug Arg1:T78 Arg2:T64
+T79	Drug 5641 5650	Albuterol
+T80	Strength 5651 5667	90 mcg/Actuation
+R49	Strength-Drug Arg1:T80 Arg2:T79
+T81	Form 5668 5675	Aerosol
+R50	Form-Drug Arg1:T81 Arg2:T79
+T82	Dosage 5681 5688	Two (2)
+R51	Dosage-Drug Arg1:T82 Arg2:T79
+T83	Form 5689 5693	Puff
+R52	Form-Drug Arg1:T83 Arg2:T79
+T84	Route 5694 5704	Inhalation
+R53	Route-Drug Arg1:T84 Arg2:T79
+T85	Frequency 5705 5724	Q6H (every 6 hours)
+R54	Frequency-Drug Arg1:T85 Arg2:T79
+T86	Drug 5729 5740	Flovent HFA
+T87	Strength 5741 5758	110 mcg/Actuation
+R55	Strength-Drug Arg1:T87 Arg2:T86
+T88	Form 5759 5766	Aerosol
+R56	Form-Drug Arg1:T88 Arg2:T86
+T89	Route 5785 5795	Inhalation
+R57	Route-Drug Arg1:T89 Arg2:T86
+T90	Frequency 5796 5807	twice a day
+R58	Frequency-Drug Arg1:T90 Arg2:T86
+T91	Drug 5812 5819	Nasonex
+T92	Strength 5820 5836	50 mcg/Actuation
+R59	Strength-Drug Arg1:T92 Arg2:T91
+T93	Form 5837 5855	Spray, Non-Aerosol
+R60	Form-Drug Arg1:T93 Arg2:T91
+T94	Dosage 5861 5868	Two (2)
+R61	Dosage-Drug Arg1:T94 Arg2:T91
+T95	Route 5869 5874	Nasal
+R62	Route-Drug Arg1:T95 Arg2:T91
+T96	Frequency 5875 5885	once a day
+R63	Frequency-Drug Arg1:T96 Arg2:T91
+T97	Drug 5890 5895	Necon
+T98	Strength 5896 5905	1/35 (28)
+R64	Strength-Drug Arg1:T98 Arg2:T97
+T99	Strength 5906 5917	1-35 mg-mcg
+R65	Strength-Drug Arg1:T99 Arg2:T97
+T100	Form 5918 5924	Tablet
+R66	Form-Drug Arg1:T100 Arg2:T97
+T101	Dosage 5930 5937	One (1)
+R67	Dosage-Drug Arg1:T101 Arg2:T97
+T102	Form 5938 5944	Tablet
+R68	Form-Drug Arg1:T102 Arg2:T97
+T103	Route 5945 5947	PO
+R69	Route-Drug Arg1:T103 Arg2:T97
+T104	Frequency 5948 5958	once a day
+R70	Frequency-Drug Arg1:T104 Arg2:T97
+T105	Drug 5963 5973	Amlodipine
+T106	Strength 5974 5978	5 mg
+R71	Strength-Drug Arg1:T106 Arg2:T105
+T107	Form 5979 5985	Tablet
+R72	Form-Drug Arg1:T107 Arg2:T105
+T108	Dosage 5991 5998	One (1)
+R73	Dosage-Drug Arg1:T108 Arg2:T105
+T109	Form 5999 6005	Tablet
+R74	Form-Drug Arg1:T109 Arg2:T105
+T110	Route 6006 6008	PO
+R75	Route-Drug Arg1:T110 Arg2:T105
+T111	Frequency 6009 6022	DAILY (Daily)
+R76	Frequency-Drug Arg1:T111 Arg2:T105
+T112	ADE 6212 6243	swelling of the lips and tongue
+R78	ADE-Drug Arg1:T112 Arg2:T114
+R80	ADE-Drug Arg1:T112 Arg2:T115
+R81	ADE-Drug Arg1:T112 Arg2:T117
+T113	ADE 6281 6298	allergic reaction
+R82	ADE-Drug Arg1:T113 Arg2:T114
+R83	ADE-Drug Arg1:T113 Arg2:T117
+T114	Drug 6317 6327	lisinopril
+T115	Drug 6413 6427	ACE inhibitors
+T117	Drug 6431 6442;6443 6471	angiotensin converting enzyme inhibitors
+T118	Drug 6500 6510	prednisone
+T119	Drug 6769 6779	amlodipine
+T120	Reason 6784 6789;6790 6806	blood pressure control
+R84	Reason-Drug Arg1:T120 Arg2:T119
+T121	Drug 960 970	solumedrol
+T122	Strength 971 977	125 mg
+R85	Strength-Drug Arg1:T122 Arg2:T121
+T124	Drug 982 990	benadryl
+T125	Strength 991 996	30 mg
+R87	Strength-Drug Arg1:T125 Arg2:T124
+T116	Form 5615 5624	Tablet(s)
+R90	Form-Drug Arg1:T116 Arg2:T64	
+T127	Form 6033 6042	Tablet(s)
+R91	Form-Drug Arg1:T127 Arg2:T105	
+T3	Route 997 999	IV
+T6	Route 1057 1059	IV
+T10	Route 978 980	IV
+R2	Route-Drug Arg1:T3 Arg2:T124	
+R4	Route-Drug Arg1:T10 Arg2:T121	
+R7	Route-Drug Arg1:T6 Arg2:T8	
+T26	Route 1014 1016	IV
+R77	Route-Drug Arg1:T26 Arg2:T1	
+T123	Route 1035 1037	IV
+R79	Route-Drug Arg1:T123 Arg2:T4	

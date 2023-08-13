@@ -1,0 +1,161 @@
+Admission Date: [**2178-1-20**]        Discharge Date: [**2178-2-7**]
+
+Date of Birth:  [**2107-2-15**]        Sex:  M
+
+Service:  OME
+
+
+HISTORY OF PRESENT ILLNESS:  This patient is a 70-year-old
+male with extensive locally recurrent melanoma involving his
+face, status post excision, neck dissection and radiation
+therapy.  Initial staging was consistent with stage III C
+disease but now with mets to the lung, bone and soft tissue.
+He was due to be started on high-dose IL-2 but in clinic on
+[**2178-1-12**], he was noticed to have erythema in an area of
+recent lymph node dissection felt consistent with cellulitis,
+and was started on oral Keflex, and now is presenting with
+worsening erythema.  The patient reports that in the week
+since he started antibiotics, the erythema has enlarged and
+become more red.  In clinic today, his white blood cell count
+was up to 20,000 and he was admitted to OMED service.
+
+PAST MEDICAL HISTORY:  Hypertension, metastatic melanoma with
+original diagnosis in [**2177-6-5**].  On [**2177-8-21**] he underwent
+wide local excision and sentinel lymph node biopsy, with
+melanoma present in 1 left intraparotid node.  On [**2177-8-28**]
+he had re-excision of the left temple and cheek area and a
+left radical neck dissection, with melanoma in 7 of 69 total
+lymph nodes.  He underwent radiation therapy to the forehead
+area, completing 20 fractions over 4 weeks.  He then
+developed soft tissue nodule superior to the graft, that
+might have represented residual melanoma and appeared to have
+reduced in size with radiation.
+
+In late [**2177-10-6**] a PET CT showed increased glucose
+uptake at sites of surgery on his thigh and around the
+superior edge of the graft on his face.  He was seen in
+follow-up one of three weeks after completion of radiation.
+Follow up head MRI and torso CT on [**2178-1-7**] revealed no
+metastatic brain lesions, but metastatic disease in his
+chest, left axilla, mediastinum and lung, as well as a T12
+sclerotic focus felt consistent with melanoma.  The BRCA
+mutation testing on his tumor was negative.  He has passed
+screening tests to begin high-dose IL-2 therapy.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION:  Enalapril 20 mg p.o. daily,
+pravastatin 20 mg p.o. daily, Keflex 500 mg p.o. b.i.d.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Reveals an elderly male
+in no apparent distress.  HEENT:  Pupils equal, round,
+reactive to light.  Left temporal and buccal graft without
+erythema.  NECK:  Well-healed scar from posterior auricular
+area to the left upper chest.  No signs of wound dehiscence.
+Broad area of erythema and corresponding area warm to touch.
+No palpable masses or fluid collections.  No cervical,
+supraclavicular or axillary lymphadenopathy.  HEART:  Regular
+rate and rhythm, S1, S2.  CHEST:  No dullness to percussion
+and clear to auscultation bilaterally.  ABDOMEN:  Positive
+bowel sounds, soft, nontender.  EXTREMITIES:  Warm and well
+perfused, 1+ edema to [**12-8**] the way up shins bilaterally, 2+ DP
+and PT pulses.  NEUROLOGIC EXAM:  Nonfocal.
+
+ADMISSION LABS:  WBC 20.9, hemoglobin 11.7, hematocrit 33.7,
+platelet count 206,000, BUN 20, creatinine 1.2, sodium 134,
+potassium 6.1, chloride 101, CO2 23, glucose 117.
+
+HOSPITAL COURSE:  The patient was admitted with cellulitis
+and was placed on IV vancomycin.  Doxycycline was added when
+he did not appear to be improving.  Unasyn was added when the
+cellulitic area continued to worsen.  He also became short of
+breath and was treated with Lasix.  Transthoracic echo
+revealed diastolic heart failure and he was continued on
+enalapril and Lasix.  He had an ID consult on [**1-28**] who
+suggested stopping the Unasyn, changing to cefepime and
+adding vancomycin back.  Blood cultures remained negative and
+he was afebrile throughout this time.  Derm consult on [**1-28**]
+was obtained due to persistent rash, and a biopsy was
+performed consistent with melanoma.  He was subsequently
+transferred to the biologic service on [**2178-1-30**] to begin
+high-dose IL-2 therapy.
+
+During this week he received 7 of 14 doses with 7 doses held
+related to tachycardia and pulmonary edema.  On treatment day
+#4, he was tachypneic with hypoxia to the mid 80s.  Chest x-
+ray was consistent with bilateral pleural effusions.
+Throughout the day he became increasingly more tachypneic and
+fatigued, and was transferred to the ICU.  He was treated
+with Lasix with improvement in his respiratory status.  An
+echocardiogram on [**2178-2-3**] showed a small pericardial
+effusion with question tamponade physiology.  Cardiology was
+consulted and felt they were not able to tap the effusion.
+He underwent a cardiac MRI on [**2178-2-4**] revealing no cardiac
+metastases and no tamponade physiology.
+
+He developed SVT to the 140s on [**2178-2-4**], which
+spontaneously improved with a fluid bolus.  His respiratory
+status improved with continued diuresis, and he was
+transferred back to the floor on [**2178-2-5**].  Lasix and
+enalapril were continued and he was weaned to room air with
+O2 saturations in the mid 90s.
+
+Physical therapy consult was initiated and he was ambulating
+short distances with a steady gait.  He was discharged to
+home on [**2178-2-7**] with a plan to follow up in clinic on
+[**2178-2-10**].
+
+Other side effects related to IL-2 included rigors improved
+with Demerol; fatigue; and hypotension on treatment day 3,
+requiring fluid boluses.  During this week he developed acute
+renal failure with a peak creatinine of 3.0 with associated
+oliguria.  He developed metabolic acidosis with a minimum
+bicarb of 18, improved with bicarbonate boluses.
+Electrolytes were monitored and repleted per protocol.
+Strict I & Os and serum chemistries were maintained.  IV
+fluids were continued given acute renal failure.
+
+During this week he had mild ST elevation to 54, which
+improved prior to discharge.  He had no hyperbilirubinemia,
+myocarditis or coagulopathy noted.  He was thrombocytopenic
+to a platelet count low of 68,000 without evidence of
+bleeding.  He was anemic and was transfused with packed red
+blood cells with discharge hemoglobin of 9.1.  By [**2178-2-7**]
+he had recovered from side effects to allow for discharge to
+home.
+
+CONDITION ON DISCHARGE:  Alert, oriented and ambulatory.
+
+DISCHARGE STATUS:  To home with his family.
+
+DISCHARGE DIAGNOSES:
+1. Metastatic melanoma status post cycle 1, week 1, high-
+    dose IL-2 therapy complicated by pulmonary edema, and
+    bilateral pleural effusions from IL-2 induced capillary
+    leak, with respiratory distress.
+2. Acute renal failure related to IL-2 therapy.
+
+DISCHARGE MEDICATIONS:  Enalapril 20 mg p.o. daily, Lasix 20
+mg p.o. daily, lorazepam 0.5 mg q. 6 hours p.r.n. nausea,
+pravastatin 20 mg p.o. daily, Compazine 5 to 10 mg q.i.d.
+p.r.n. nausea.
+
+FOLLOW-UP PLANS:  The patient will return to clinic on
+[**2178-2-10**] for assessment of his clinical status prior to
+consideration for treatment with week #2 of therapy.
+
+
+I have reviewed the discharge summary and agree with the hospital
+course and disposition as dictated by [**First Name8 (NamePattern2) 622**] [**Last Name (NamePattern1) 17265**].
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) **], MD [**MD Number(2) 66804**]
+
+Dictated By:[**Last Name (NamePattern1) 18853**]
+MEDQUIST36
+D:  [**2178-2-24**] 12:32:55
+T:  [**2178-2-25**] 15:33:12
+Job#:  [**Job Number 87177**]
+
+cc:[**Numeric Identifier 87178**]

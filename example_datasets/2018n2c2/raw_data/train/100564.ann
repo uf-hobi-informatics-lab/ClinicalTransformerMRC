@@ -1,0 +1,133 @@
+T1	Drug 1340 1343	tPA
+T2	Route 1344 1352	infusion
+R1	Route-Drug Arg1:T2 Arg2:T1
+T3	Reason 1380 1384	DMII
+R2	Reason-Drug Arg1:T3 Arg2:T4
+T4	Drug 1413 1422	glyburide
+T5	Reason 1526 1535	rectal CA
+R3	Reason-Drug Arg1:T5 Arg2:T6
+T6	Drug 1647 1652	5- FU
+T7	Drug 1657 1660	XRT
+T8	Duration 1688 1699	for 6 weeks
+R4	Duration-Drug Arg1:T8 Arg2:T6
+R5	Duration-Drug Arg1:T8 Arg2:T7
+T9	Reason 2969 2991	peri-catheter thrombus
+R6	Reason-Drug Arg1:T9 Arg2:T10
+T10	Drug 3256 3259	TPA
+T11	Reason 359 371	thrombolysis
+R7	Reason-Drug Arg1:T11 Arg2:T12
+T12	Drug 377 380	TPA
+T13	Drug 3827 3830	tpa
+T14	Strength 3834 3840	1mg/hr
+R8	Strength-Drug Arg1:T14 Arg2:T13
+T16	Duration 3841 3880	for 8 hours followed by another 8 hours
+R10	Duration-Drug Arg1:T16 Arg2:T13
+T17	Dosage 3884 3892	1/2mg/hr
+R11	Dosage-Drug Arg1:T17 Arg2:T13
+T18	Drug 3975 3978	TPA
+T19	Drug 4109 4116	lovenox
+T20	Reason 4130 4139	Rectal CA
+R12	Reason-Drug Arg1:T20 Arg2:T21
+R13	Reason-Drug Arg1:T20 Arg2:T22
+T21	Drug 4217 4221	5-fu
+T22	Drug 4237 4243	Xeloda
+T23	Reason 4324 4328	DMII
+R14	Reason-Drug Arg1:T23 Arg2:T24
+T24	Drug 4338 4347	glyburide
+T25	Drug 4385 4389	RISS
+T27	Drug 4395 4404	glyburide
+T28	ADE 4444 4452	Diarrhea
+R16	ADE-Drug Arg1:T28 Arg2:T29
+T29	Drug 4472 4475	5FU
+T30	Drug 4642 4651	Glyburide
+T31	Strength 4652 4655	5mg
+R17	Strength-Drug Arg1:T31 Arg2:T30
+T32	Frequency 4656 4658	qd
+R18	Frequency-Drug Arg1:T32 Arg2:T30
+T33	Drug 4659 4667	Prilosec
+T34	Strength 4668 4672	20mg
+R19	Strength-Drug Arg1:T34 Arg2:T33
+T35	Drug 4690 4702	itraconazole
+T36	Strength 4703 4708	100mg
+R20	Strength-Drug Arg1:T36 Arg2:T35
+T37	Frequency 4709 4711	qd
+R21	Frequency-Drug Arg1:T37 Arg2:T35
+T38	Drug 4712 4721	lorazepam
+T39	Strength 4722 4725	5mg
+R22	Strength-Drug Arg1:T39 Arg2:T38
+T40	Frequency 4726 4731	p.r.n
+R23	Frequency-Drug Arg1:T40 Arg2:T38
+T41	Drug 4733 4742	oxycodone
+T42	Strength 4743 4746	5mg
+R24	Strength-Drug Arg1:T42 Arg2:T41
+T43	Frequency 4747 4754	q4h prn
+R25	Frequency-Drug Arg1:T43 Arg2:T41
+T44	Drug 4783 4792	Glyburide
+T45	Strength 4793 4797	5 mg
+R26	Strength-Drug Arg1:T45 Arg2:T44
+T46	Form 4798 4804	Tablet
+R27	Form-Drug Arg1:T46 Arg2:T44
+T47	Dosage 4810 4817	One (1)
+R28	Dosage-Drug Arg1:T47 Arg2:T44
+T48	Form 4818 4824	Tablet
+R29	Form-Drug Arg1:T48 Arg2:T44
+T49	Route 4825 4827	PO
+R30	Route-Drug Arg1:T49 Arg2:T44
+T50	Frequency 4828 4833	DAILY
+R31	Frequency-Drug Arg1:T50 Arg2:T44
+T51	Drug 4846 4856	Enoxaparin
+T52	Strength 4857 4869	80 mg/0.8 mL
+R32	Strength-Drug Arg1:T52 Arg2:T51
+T53	Form 4870 4877	Syringe
+R33	Form-Drug Arg1:T53 Arg2:T51
+T54	Dosage 4883 4894	Eighty (80)
+R34	Dosage-Drug Arg1:T54 Arg2:T51
+T55	Form 4895 4897	mg
+R35	Form-Drug Arg1:T55 Arg2:T51
+T56	Route 4898 4910	Subcutaneous
+R36	Route-Drug Arg1:T56 Arg2:T51
+T57	Frequency 4911 4915	Q12H
+R38	Frequency-Drug Arg1:T57 Arg2:T51
+T58	Drug 4964 4973	Oxycodone
+T59	Strength 4974 4978	5 mg
+R39	Strength-Drug Arg1:T59 Arg2:T58
+T60	Form 4979 4985	Tablet
+R40	Form-Drug Arg1:T60 Arg2:T58
+T61	Dosage 4991 4998	One (1)
+R41	Dosage-Drug Arg1:T61 Arg2:T58
+T62	Form 4999 5005	Tablet
+R43	Form-Drug Arg1:T62 Arg2:T58
+T63	Route 5006 5008	PO
+R45	Route-Drug Arg1:T63 Arg2:T58
+T64	Frequency 5009 5023;5024 5045	Q4-6H (every 4 to 6 hours) as needed
+R46	Frequency-Drug Arg1:T64 Arg2:T58
+T65	Reason 5050 5054	pain
+R47	Reason-Drug Arg1:T65 Arg2:T58
+T66	Drug 5059 5071	Itraconazole
+T67	Strength 5072 5078	100 mg
+R48	Strength-Drug Arg1:T67 Arg2:T66
+T68	Form 5079 5086	Capsule
+R49	Form-Drug Arg1:T68 Arg2:T66
+T69	Dosage 5092 5099	Two (2)
+R50	Dosage-Drug Arg1:T69 Arg2:T66
+T70	Form 5100 5107	Capsule
+R51	Form-Drug Arg1:T70 Arg2:T66
+T71	Route 5108 5110	PO
+R52	Route-Drug Arg1:T71 Arg2:T66
+T72	Frequency 5111 5116	DAILY
+R53	Frequency-Drug Arg1:T72 Arg2:T66
+T73	Drug 5129 5138	Lorazepam
+T74	Strength 5139 5145	0.5 mg
+R54	Strength-Drug Arg1:T74 Arg2:T73
+T75	Form 5146 5152	Tablet
+R55	Form-Drug Arg1:T75 Arg2:T73
+T76	Dosage 5158 5165	One (1)
+R56	Dosage-Drug Arg1:T76 Arg2:T73
+T77	Form 5166 5172	Tablet
+R57	Form-Drug Arg1:T77 Arg2:T73
+T78	Route 5173 5175	PO
+R58	Route-Drug Arg1:T78 Arg2:T73
+T79	Frequency 5176 5181	Q4-6H
+R59	Frequency-Drug Arg1:T79 Arg2:T73
+T80	Drug 571 574	XRT
+T81	Drug 579 583	5-FU

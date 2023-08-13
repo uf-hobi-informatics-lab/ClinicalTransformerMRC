@@ -1,0 +1,49 @@
+T1	Drug 199 209	Tazobactam
+T2	Drug 2765 2777	levofloxacin
+T3	Strength 2778 2783	500mg
+T4	Drug 2862 2870	docusate
+T5	Strength 2871 2876	100mg
+T6	Drug 2928 2936	fentanyl
+T7	Strength 2943 2947	12mg
+T8	Form 2937 2942	patch
+T9	Drug 2801 2811	metoprolol
+T10	Strength 2812 2818	12.5mg
+T11	Drug 212 219	Heparin
+T12	Drug 2894 2907	lactobacillus
+T13	Drug 2711 2723	atorvastatin
+T14	Strength 2724 2728	20mg
+T15	Drug 2744 2755	mirtazapine
+T16	Strength 2756 2760	45mg
+T17	Drug 2836 2854	methylprednisolone
+T18	Strength 2855 2858	4mg
+T19	Drug 3195 3202	heparin
+T20	ADE 3211 3227	thrombocytopenia
+T21	Drug 165 198	Ceftriaxone / Piperacillin Sodium
+T22	Frequency 2729 2731	qd
+T23	Drug 2732 2735	ASA
+T24	Strength 2736 2740	81mg
+T25	Frequency 2741 2743	qd
+T26	Frequency 2761 2764	qhs
+T27	Frequency 2784 2786	qd
+T28	Frequency 2859 2861	qd
+T29	Route 2948 2950	tp
+T30	Frequency 2951 2955	q72h
+R1	Strength-Drug Arg1:T3 Arg2:T2
+R2	Strength-Drug Arg1:T5 Arg2:T4
+R3	Strength-Drug Arg1:T7 Arg2:T6
+R4	Form-Drug Arg1:T8 Arg2:T6
+R5	Strength-Drug Arg1:T10 Arg2:T9
+R6	Strength-Drug Arg1:T14 Arg2:T13
+R7	Strength-Drug Arg1:T16 Arg2:T15
+R8	Strength-Drug Arg1:T18 Arg2:T17
+R9	Frequency-Drug Arg1:T30 Arg2:T6
+R10	Route-Drug Arg1:T29 Arg2:T6
+R11	Frequency-Drug Arg1:T28 Arg2:T17
+R12	Frequency-Drug Arg1:T27 Arg2:T2
+R13	Frequency-Drug Arg1:T26 Arg2:T15
+R14	Frequency-Drug Arg1:T25 Arg2:T23
+R15	Strength-Drug Arg1:T24 Arg2:T23
+R16	Frequency-Drug Arg1:T22 Arg2:T13
+R17	ADE-Drug Arg1:T20 Arg2:T19
+T31	Reason 2788 2799	prophylaxis
+R18	Reason-Drug Arg1:T31 Arg2:T2	

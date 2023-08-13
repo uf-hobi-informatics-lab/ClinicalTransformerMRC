@@ -1,0 +1,514 @@
+Admission Date:  [**2103-8-7**]              Discharge Date:   [**2103-9-23**]
+
+Date of Birth:  [**2056-3-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Compazine
+
+Attending:[**First Name3 (LF) 3913**]
+Chief Complaint:
+Hypercalcemia
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. [**Known lastname 4003**] is a 47 year old woman who carries a diagnosis of
+HTLV-associated adult T-Cell leukemia/lymphoma who presents from
+routine clinic appointment with hypercalcemia, with a corrected
+calcium of 15.5. She received a liter of normal saline, but no
+bisphosphonate, and was subsequently admitted to the floor.
+.
+She was recently hospitalized from [**2103-7-11**] through [**2103-8-4**], also
+for hypercalcemia with acute mental status changes, which was
+attributed to progression of her hematologic malignancy.
+Following IV hydration and zometa, her calcium normalized, and
+she underwent treatment with [**Hospital1 **] cycle 1. Her post-chemo
+course was unfortunately complicated by DIC requiring multiple
+cryoprecipitate, C. dif colitis, CMV viremia, and a severe
+abdominal pain requiring bowel rest with TPN. She developed a
+LLL pnuemonia towards the end of her hospitalization and was
+discharged on a 10 day course of levaquin in addition to home
+TPN.
+.
+Since her discharge, Ms. [**Known lastname 4003**] has been slowly regaining her
+strength, noting persistent fatigue which has acutely worsened
+today. She denies acute confusion or mental status changes which
+accompanied her previous hypercalcemic episode. She notes no
+pain or paresthesias or tetany. Her last hospitalization was
+complicated by severe abdominal pain requiring bowel rest- she
+remains on home TPN and has been tolerating light meals due to a
+sense of fullness. She also had CXR evidence of LLL pneumonia
+and had been discharged on levaquin, which she has taken. She
+had also developed C.dif, and CMV viremia, which had been
+maintained on PO flagyl x 14d and valganciclovir in the
+outpatient setting.
+.
+On review of systems, the patient denies fevers, chills, nausea,
+vomiting, diarrhea, malaise, rigors, abdominal pain, blood in
+the stools, shortness of breath, cough, dysuria, hematuria,
+paresthesias, weakness.
+
+
+Past Medical History:
+Stage [**Doctor First Name **] mycosis fungoides (Cutaneous T-cell lymphoma, stage IV
+1A) with transformation to CD-30 positive large cell lymphoma
+and development of HTLV-1 Adult T-cell Leukemia Lymphoma
+.
+- [**10-29**]: The patient developed a pruritic, papular rash. She
+was seen in the internal medicine and dermatology clinics on
+several occasions and was treated with antibiotics,
+triamcinolone, clobetasol, and IV triamcinolone w/ no
+improvement.
+- [**2100-3-12**]: Skin Bx 1: LLE: Superficial and deep perivascular
+lymphohistiocytic infiltrate with perivascular and interstitial
+
+eosinophils consistent with a hypersensitivity rxn. Scabies neg.
+
+- [**2100-7-13**]: Skin Bx 2: Atypical superficial and deep dermal
+lymphoid infiltrate containing CD30-positive cells and showing
+epidermotropism. PCR analysis for the T-cell receptor gamma gene
+showed two sharp bands with a migration pattern suggestive of a
+clonal rearrangement.
+- [**2100-8-24**]: [**Hospital **] clinic: WBC 10.6 with 57% Lymphocytes S??????zary
+cells.
+Immunophenotypic analysis -> expanded T-cell population with
+increased CD4:CD8 ratio (15) and loss of CD7. Due to her high
+count of circulating S??????zary cells, she was felt to have Stage
+[**Doctor First Name 690**] mycosis fungoides.
+- [**2100-9-8**] CT scan: Infiltrating, hypo-enhancing lesion in the
+R. kidney (?infiltrating neoplasm vs pyelonephritis) compatible
+w/ lymphomatous involvement of the kidney but was not present on
+a follow-up scan on [**2101-1-21**].
+- [**9-30**]: Photopheresis therapy through an indwelling central
+venous catheter, placed due to poor venous access.
+- [**2101-1-5**]: Skin Bx 3: CTCL with large-cell transformation.
+- [**2101-1-10**]: Interferon alpha at 3M units 3x/wk given w/ with
+photopheresis every other week and PUVA.
+- [**2101-1-26**]: Interferon alpha increased to 6Munits 3x/wk; PUVA was
+d/ced [**12-26**] side effects.
+- [**2101-2-23**]: Interferon alpha decreased to 4.5Munits 3x/wk on
+[**2101-2-23**] b/c fatigued. Photopheresis was d/ced when catheter
+removed due to a line infection (last treatment [**2101-3-10**]).
+- [**2101-8-4**]: The patient presented for a follow-up evaluation with
+clear evidence of disease progression. Interferon alpha was
+increased to 6M units three times weekly and bexarotene was
+started at 150mg daily, decreased to 75mg daily due to poor
+tolerability.
+- [**2101-8-25**]: Mtx added to interferon alpha and bexarotene and the
+dose was up-titrated to 45mg weekly.
+- [**2101-10-18**]: Hospital admission for severe lower extremity pain
+at the site of new, large, papular skin lesions. Biopsy showed
+cutaneous T-cell lymphoma with large cell transformation,
+involving the panniculus with an unusual angiocentric pattern.
+The patient was prescribed vorinostat 400mg daily (started
+[**2101-10-27**]) with continuation of interferon alpha 6M units TIW. Due
+to thrombocytopenia, interferon alpha was decreased to 3M units
+3x/wk.
+- [**2101-12-22**]: Cycle 1 Day 1 liposomal doxorubicin plus gemcitabine.
+
+Vorinostat and interferon alpha were d/ced. Side Effect: severe
+palmar-plantar erythrodysesthesia [**12-26**] to liposomal doxorubicin.
+
+- [**2102-1-17**]: Cycle 1 Day 1 bortezomib plus gemcitabine,
+dose-reduced during Cycle 2 due to neutropenia.
+- [**2102-2-9**] 3M units TIW Interferon alpha restarted
+- [**2102-3-9**]: Due to the observation that peripheral T-cells
+contained floret-like nuclei, immunophenotypic analysis was
+performed on peripheral blood, revealing findings consistent
+with involvement by patient's known T cell lymphoproliferative
+disorder as well as CD25 co-expression in a significant
+population of the neoplastic CD3+ lymphocytes, suggesting a
+diagnosis of HTLV-1 associated lymphoma. PCR for HTLV-1 DNA was
+positive.
+- [**2102-5-26**]: Following a treatment break, the patient was started
+on pentostatin 4mg/m2 weekly x4 doses with reinitiation of
+interferon alpha at 3Munits 3x/wkly , increased to 3M
+units 5x/wkly. She d/ced therapy after 2 cycles in [**7-2**] in favor
+of a Chinese herbal preparation she received in [**Location (un) 4708**].
+- [**2102-8-18**]: Evaluation in the [**Hospital 18**] [**Hospital 3242**] clinic: good candidate
+for allo SCT.
+- [**2102-9-26**]: CT scan: s/p 3 mo off therapy: stable to improved
+disease: lymph nodes in the chest, abdomen, and pelvis, are
+stable to decreased in size since [**2102-7-28**], with no new pathologic
+LAD identified. Decreased size of the previously enlarged
+spleen, now within normal limits in size.
+- [**2102-12-25**] Initiation of ONTAK therapy Cycle 1 [**2102-12-25**], Cycle 2
+[**2103-1-15**], Cycle 3 [**2103-2-5**], Cycle 4 [**2103-2-26**], Cycle 5
+[**2103-6-4**], Cycle 6 [**2103-7-2**]
+- [**2103-4-26**]: 2 weeks of total skin electron beam therapy at the
+[**Hospital3 2358**] under the care of Dr. [**First Name4 (NamePattern1) 3403**] [**Last Name (NamePattern1) **]. Therapy was held
+
+[**2103-5-18**] through [**2103-5-24**] [**12-26**] fatigue. She received a single dose
+on Friday [**2103-5-25**].
+- [**2103-5-29**]: Hypercalcemia: IVF and Zometa.
+- [**2103-5-29**]: Treatment Discussion: Re: Total Skin Electron Beam
+Therapy: Progressive Disease and Difficulty tolerating therapy.
+Decision to resume ONTAK therapy with intention of initiating
+auto-transplant as she demonstrates response.
+-[**2103-7-11**]: admitted for AMS in the setting of hypercalcemia,
+which was thought to be due to progression of ATLL. Started
+[**Hospital1 **] [**7-11**], complicated by c dif, CMV viremia, DIC.
+
+
+Social History:
+The patient is from [**Location (un) 4708**]. She moved to the U.S. 11 years
+ago. She is married and has two children. She denies past or
+current tobacco, etoh or illicit drug use.
+
+
+Family History:
+Mother had an MI. Her father with CAD.
+
+Physical Exam:
+VS: T98.9 BP128/86 P109 RR18 Sa02100RA
+GENERAL: Fatigued appearing female in no acute distress
+HEENT: EOMI, PERRLA, white plaques along lateral left border of
+tongue, pharyngeal wall nonerythematous without exudates
+PULMONARY: Minimal bibasilar crackles, otherwise clear to
+auscultation
+CARDS: RRR, normal S1, S2, 3/6 systolic ejection murmur. no rubs
+or gallops.
+ABDOMEN: soft, nondistended, positive bowel sounds, mild
+tenderness to palpation of the RUQ which is chronic, no rebound
+tenderness or guarding.
+EXTREMITIES: nonedematous, 2+ PT, DP pulses bilaterally
+NEUROLOGIC: CN II-XII intact bilaterally. Strength 5/5
+throughout though deconditioned. Sensation to soft touch intact
+throughout. DTRs depressed.
+SKIN: no rashes or lesions appreciated.
+
+
+Pertinent Results:
+ADMISSION LABS:
+.
+[**2103-8-7**] 11:30AM   PT-15.1* PTT-35.9* INR(PT)-1.3*
+[**2103-8-7**] 11:30AM   PLT COUNT-129*#
+[**2103-8-7**] 11:30AM   HYPOCHROM-1+ ANISOCYT-2+ POIKILOCY-1+
+MACROCYT-2+ MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-1+
+[**2103-8-7**] 11:30AM   NEUTS-38* BANDS-3 LYMPHS-45* MONOS-6 EOS-0
+BASOS-0 ATYPS-8* METAS-0 MYELOS-0
+[**2103-8-7**] 11:30AM   WBC-16.9* RBC-2.57* HGB-8.5* HCT-25.5*
+MCV-99* MCH-32.9* MCHC-33.2 RDW-17.9*
+[**2103-8-7**] 11:30AM   ALBUMIN-2.9* CALCIUM-14.6* PHOSPHATE-7.2*#
+MAGNESIUM-2.2
+[**2103-8-7**] 11:30AM   ALT(SGPT)-14 AST(SGOT)-26 ALK PHOS-209* TOT
+BILI-0.4
+[**2103-8-7**] 11:30AM   GLUCOSE-103* UREA N-34* CREAT-1.1 SODIUM-145
+POTASSIUM-3.8 CHLORIDE-105 TOTAL CO2-31 ANION GAP-13
+[**2103-8-7**] 06:57PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2103-8-7**] 06:57PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.007
+[**2103-8-7**] 09:48PM   CALCIUM-14.1*
+.
+IMAGING:
+CXR [**2103-8-12**]: Cardiac size is normal. ET tube tip is in a
+standard position 3.8 cm above the carina. Right PICC tip is in
+the mid SVC. Left subclavian catheter tip is in the proximal
+SVC. There is no pneumothorax. New bibasilar opacities, left
+greater than right, are a combination of pleural effusions and
+atelectasis. Superimposed infection on the left cannot be
+totally excluded.  NG tube tip is in the stomach.
+.
+HEAD MRI [**2103-8-12**]:
+FINDINGS: There is mild prominence of sulci and ventricles
+inappropriate for patient's age. There is no midline shift or
+mass effect. There is no hydrocephalus. There is no acute
+infarct seen on diffusion images. Following gadolinium, there is
+no abnormal parenchymal, vascular or meningeal enhancement
+identified. In particular, there is no leptomeningeal
+enhancement seen.
+Soft tissue changes are visualized in the paranasal sinuses due
+to mucosal thickening. Diffuse low signal is identified within
+the bony structures,
+which could be secondary to marrow hyperplasia. It should be
+noted that on
+FLAIR images, increased signal identified at the sulci at the
+convexity is
+secondary to these images were obtained following gadolinium.
+IMPRESSION: No acute infarcts or enhancing brain lesions are
+identified. No mass effect or hydrocephalus. Other findings as
+described above.
+.
+PORTABLE ABDOMEN [**2103-8-12**]:
+NG tube tip is in the stomach. There is no evidence of bowel
+obstruction.
+Nondistended air-filled large bowel loops are seen. There are no
+pathologic intraabdominal calcifications.
+.
+CT Torso: [**2103-8-27**]
+1. No evidence of pulmonary embolus or acute aortic syndrome.
+2. Interval development of right middle upper lobe airspace
+consolidation
+most consistent with pneumonia, with additional focus of opacity
+in the left perihilar region, possibly representing additional
+focus of infection,
+although enlargement of left hilar lymph nodes is difficult to
+exclude.
+Followup imaging following treatment to ensure resolution is
+recommended.
+3. Splenomegaly.
+4. Retroperitoneal adenopathy, grossly stable from [**2103-6-24**].
+5. No intra-abdominal explanation for fever. Colon is diffusely
+fluid-filled but thin-walled and without associated inflammatory
+change. There is no loculated fluid collection or abscess
+identified.
+6. Diffuse soft tissue anasarca.
+.
+Bronchial Embolization: [**2103-9-4**].
+IMPRESSION: Uncomplicated embolization of the right bronchial
+artery with
+300-500 micron Embospheres until stasis was achieved.
+.
+CT Head [**2103-9-17**].
+No acute hemorrhagic mass seen, nor large area of edema or mass
+effect on non-contrast head CT. However, for evaluation of
+subtle process,
+MRI before and after IV gadolinium would be recommended for more
+sensitive
+evaluation.
+.
+Peripheral Blood Analysis:
+Flow Analysis:
+INTERPRETATION
+More than 99% of the peripheral blood lymphocytes are
+CD4-positive subset with co-expression of CD3, CD2, CD5.  They
+have loss of expression of CD7.  About half of these T-cells
+also express CD25.  These immunophenotypic findings and the
+presence of "floret-like cells" in peripheral blood smear are
+consistent with involvement by patient's known "Adult T cell
+leukemia/lymphoma".
+.
+Microbiology:
+
+Major Studies/Findings listed here:
+[**2103-9-4**] 4:49 pm BRONCHOALVEOLAR LAVAGE
+
+   GRAM STAIN (Final [**2103-9-4**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Final [**2103-9-6**]):    NO GROWTH, <1000
+CFU/ml.
+
+   LEGIONELLA CULTURE (Final [**2103-9-11**]):    NO LEGIONELLA
+ISOLATED.
+
+   POTASSIUM HYDROXIDE PREPARATION (Final [**2103-9-4**]):
+      Test cancelled by laboratory.
+      PATIENT CREDITED.
+      This is a low yield procedure based on our in-house
+studies.
+      if pulmonary Histoplasmosis, Coccidioidomycosis,
+Blastomycosis,
+      Aspergillosis or Mucormycosis is strongly suspected,
+contact the
+      Microbiology Laboratory (7-2306).
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      [**2103-9-5**]):    NEGATIVE for Pneumocystis jirovecii
+(carinii)..
+
+   FUNGAL CULTURE (Final [**2103-9-17**]):    NO FUNGUS ISOLATED.
+
+   ACID FAST SMEAR (Final [**2103-9-5**]):
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+
+
+   VIRAL CULTURE: R/O CYTOMEGALOVIRUS (Final [**2103-10-3**]):
+      No Cytomegalovirus (CMV) isolated.
+
+[**2103-8-28**] 1:43 pm BRONCHOALVEOLAR LAVAGE
+      BRONCHIAL LAVAGE, RIGHT MIDDLE LOBE.
+
+   GRAM STAIN (Final [**2103-8-28**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Final [**2103-8-30**]):    NO GROWTH, <1000
+CFU/ml.
+
+   POTASSIUM HYDROXIDE PREPARATION (Final [**2103-8-29**]):
+      NO FUNGAL ELEMENTS SEEN.
+      This is a low yield procedure based on our in-house
+studies.
+      TEST REQUESTED BY PULMONARY FELLOW [**Numeric Identifier 28457**] [**2103-8-29**].
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii)
+(Final
+      [**2103-8-29**]):    NEGATIVE for Pneumocystis jirovecii
+(carinii)..
+
+   FUNGAL CULTURE (Final [**2103-9-14**]):
+      YEAST.
+
+   NOCARDIA CULTURE (Final [**2103-9-17**]):    NO NOCARDIA ISOLATED.
+
+   ACID FAST SMEAR (Final [**2103-8-29**]):
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+
+.
+[**2103-8-28**] 11:31 am SPUTUM     Site: EXPECTORATED
+      Source: Expectorated.
+
+                            **FINAL REPORT [**2103-9-14**]**
+
+   GRAM STAIN (Final [**2103-8-28**]):
+      <10 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED.
+
+   RESPIRATORY CULTURE (Final [**2103-8-30**]):
+      RARE GROWTH Commensal Respiratory Flora.
+      YEAST.    RARE GROWTH.
+
+   FUNGAL CULTURE (Final [**2103-9-14**]):
+      YEAST.
+.
+[**2103-8-12**] 11:24 am SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT [**2103-8-14**]**
+
+   GRAM STAIN (Final [**2103-8-12**]):
+      <10 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED.
+
+   RESPIRATORY CULTURE (Final [**2103-8-14**]):
+      Commensal Respiratory Flora Absent.
+      YEAST.    SPARSE GROWTH.
+.
+[**2103-8-21**] 9:31 pm URINE      Source: CVS.
+
+                            **FINAL REPORT [**2103-8-23**]**
+
+   URINE CULTURE (Final [**2103-8-23**]):
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML..
+         PRESUMPTIVE IDENTIFICATION.
+         Piperacillin/tazobactam sensitivity testing available
+on request.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------     4 S
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+.
+Test                          Result              Reference
+Range/Units
+ASPERGILLUS ANTIGEN           6.5  H              <0.5
+.  	
+Test
+----
+Fungitell (tm) Assay for (1,3)-B-D-Glucans
+
+Results                                 Reference Ranges
+-------                                 ----------------
+358 pg/mL                               Negative       Less than
+60 pg/mL
+                                        Indeterminate  60 - 79
+pg/mL
+                                        Positive       Greater
+than or equal to
+                                                       80 pg/mL
+
+
+
+
+
+
+Brief Hospital Course:
+In brief, Ms. [**Known lastname 4003**] was a 47 year old lady with a diagnosis of
+HTLV-1 associated Adult T cell leukemia/lymphoma who initially
+presented with hyerpcalcemia.  Her hospital course was
+complicated by Mental Status changes which after ICE therapy
+necessitating an admission to the ICU without any acute evidence
+of an intracranial process. Her hospital course at this time was
+also complicated by persistent ATLL, hypercalcemia, renal
+tubular acidosis, acute renal failure, C. Diff colitis, and CMV
+viremia.  Subsequently she developed hypoxic respiratory failure
+secondary to invasive aspergillosis with pulmonary hemorrhage.
+She underwent a pulmonary embolization procedure and a second
+intubation and ICU stay.  Upon returning to the floor, no
+additional therapeutic intervention was started for her ATLL.
+Her mental status continued to deteroirate, and she stopped
+taking PO.  Due to disease progression in addition to a
+persistent fungal infection and concern for aspiration goals of
+care were discussed with her family.  Due to her poor prognosis,
+she was made DNR/DNI, and subsequently CMO.  She passed
+peacefully on [**2103-9-23**].
+
+
+Medications on Admission:
+1. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day). Disp:*60 Tablet(s)* Refills:*2*
+4. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every
+8 hours). Disp:*28 Tablet(s)* Refills:*0*
+5. Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for nausea, anxiety.
+6. Metoclopramide 10 mg Tablet Sig: 0.5 Tablet PO TID (3 times a
+day).
+7. Doxepin 25 mg Capsule Sig: [**11-25**] Capsules PO once a day.
+8. Spironolactone 25 mg Tablet Sig: Two (2) Tablet PO twice a
+day.
+9. Pyridoxine 100 mg Tablet Sig: Four (4) Tablet PO once a day.
+
+10. Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+11. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO once a day.
+
+12. Benadryl Oral
+13. Levaquin 750 mg Tablet Sig: One (1) Tablet PO once a day for
+9 days. Disp:*9 Tablet(s)* Refills:*0*
+14. Line flush order Sodium chloride 5-10ml pre- and post
+infusion Heparin 10units/ml [**12-29**] ml infused as a final flush
+15. Metoclopramide 5 mg Tablet Sig: One (1) Tablet PO three
+times a day as needed for nausea.
+
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Deceased.
+
+Discharge Condition:
+None
+
+Discharge Instructions:
+None
+
+Followup Instructions:
+None
+
+
+Completed by:[**2103-10-17**]

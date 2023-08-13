@@ -1,0 +1,130 @@
+T1	Drug 1539 1544	lasix
+T2	Drug 16773 16777	iron
+T3	Drug 15239 15247	Coumadin
+T5	Drug 2447 2455	warfarin
+T6	Drug 1426 1435	Vitamin K
+T7	Drug 16707 16713;16714 16716	Toprol XL
+T8	Strength 16717 16723	100 mg
+T9	Drug 16661 16666	ImDur
+T10	Strength 16667 16672	90 mg
+T11	Drug 16918 16930	Pantoprazole
+T12	Strength 16931 16936	40 mg
+T13	Drug 16541 16549	warfarin
+T14	Strength 16550 16554	3 mg
+T15	Drug 16645 16650	Lasix
+T16	Strength 16651 16656	40 mg
+T17	Drug 165 172	Insulin
+T18	Strength 16817 16823	2.5 mg
+T19	Drug 16806 16815;16815 16816	Metolazon e
+T20	Drug 16625 16634	doxazosin
+T21	Strength 16635 16639	4 mg
+T22	Drug 1452 1457	Lasix
+T23	Strength 1458 1463	80 mg
+T25	Drug 16685 16695	lisinopril
+T26	Strength 16696 16700	5 mg
+T27	Drug 16944 16951	Insulin
+T28	Drug 16561 16568	Lipitor
+T29	Strength 16569 16574	40 mg
+T32	Strength 16744 16749	81 mg
+T33	Drug 16736 16742;16742 16743	aspiri n
+T34	Drug 16579 16589	cilostazol
+T35	Strength 16590 16595	50 mg
+T36	Drug 16968 16980	Atorvastatin
+T37	Strength 16981 16986	20 mg
+T38	Drug 16843 16848	Lasix
+T39	Strength 16849 16854;16854 16856	15 mg /h
+T40	Route 16857 16859;16860 16863	IV gtt
+T41	Drug 16866 16873	Tylenol
+T42	Frequency 16885 16888;16889 16892	q6h prn
+T43	Drug 597 605	coumadin
+T44	Drug 16677 16684	insulin
+T45	Drug 1632 1637	Lasix
+T46	Drug 2913 2921	coumadin
+T48	Drug 16227 16237	flumazenil
+T51	Drug 16754 16762	Protonix
+T52	Strength 16763 16768	40 mg
+T53	Drug 1779 1784	lasix
+T54	Reason 2431 2441	Chronic AF
+T55	Reason 16893 16897	pain
+T56	Reason 574 593	atrial fibrillation
+T57	Strength 1420 1425	10 mg
+T58	Reason 1436 1450	to reverse INR
+T59	Route 1545 1548	gtt
+T60	Route 1638 1641	gtt
+T61	ADE 1565 1576	hypotension
+T62	Route 1785 1788	gtt
+T64	Reason 15231 15235	afib
+T65	Drug 16188 16194	benzos
+T66	Frequency 16555 16560	daily
+T67	Frequency 16574 16578	/day
+T68	Drug 16613 16624	Vitamin B12
+T69	Frequency 16640 16643	qhs
+T70	Frequency 16656 16660	/day
+T71	Frequency 16672 16676	/day
+T72	Frequency 16701 16706	daily
+T73	Frequency 16723 16727	/day
+T74	Frequency 16749 16753	/day
+T75	Frequency 16768 16772	/day
+T76	Strength 16874 16884	325-650 mg
+T77	Drug 16900 16903	ASA
+T78	Strength 16904 16909	81 mg
+T79	Frequency 16910 16915	daily
+T80	Frequency 16937 16941	q24h
+T81	Dosage 16952 16965	sliding scale
+T82	Frequency 16987 16992	daily
+R1	Strength-Drug Arg1:T8 Arg2:T7
+R2	Strength-Drug Arg1:T10 Arg2:T9
+R3	Strength-Drug Arg1:T12 Arg2:T11
+R4	Strength-Drug Arg1:T14 Arg2:T13
+R5	Strength-Drug Arg1:T16 Arg2:T15
+R6	Strength-Drug Arg1:T18 Arg2:T19
+R7	Strength-Drug Arg1:T21 Arg2:T20
+R8	Strength-Drug Arg1:T23 Arg2:T22
+R10	Strength-Drug Arg1:T26 Arg2:T25
+R11	Strength-Drug Arg1:T29 Arg2:T28
+R12	Strength-Drug Arg1:T32 Arg2:T33
+R13	Strength-Drug Arg1:T35 Arg2:T34
+R14	Strength-Drug Arg1:T37 Arg2:T36
+R15	Strength-Drug Arg1:T39 Arg2:T38
+R16	Route-Drug Arg1:T40 Arg2:T38
+R17	Frequency-Drug Arg1:T42 Arg2:T41
+R18	Strength-Drug Arg1:T52 Arg2:T51
+R19	Reason-Drug Arg1:T56 Arg2:T43
+R20	Strength-Drug Arg1:T57 Arg2:T6
+R21	Reason-Drug Arg1:T58 Arg2:T6
+R22	Route-Drug Arg1:T59 Arg2:T1
+R23	Route-Drug Arg1:T60 Arg2:T45
+R24	ADE-Drug Arg1:T61 Arg2:T1
+R25	Route-Drug Arg1:T62 Arg2:T53
+R26	Reason-Drug Arg1:T54 Arg2:T5
+R27	Reason-Drug Arg1:T64 Arg2:T3
+R28	Frequency-Drug Arg1:T75 Arg2:T51
+R29	Frequency-Drug Arg1:T74 Arg2:T33
+R30	Frequency-Drug Arg1:T73 Arg2:T7
+R31	Frequency-Drug Arg1:T72 Arg2:T25
+R32	Frequency-Drug Arg1:T71 Arg2:T9
+R33	Frequency-Drug Arg1:T70 Arg2:T15
+R34	Frequency-Drug Arg1:T69 Arg2:T20
+R35	Frequency-Drug Arg1:T67 Arg2:T28
+R36	Frequency-Drug Arg1:T66 Arg2:T13
+R37	Frequency-Drug Arg1:T82 Arg2:T36
+R38	Dosage-Drug Arg1:T81 Arg2:T27
+R39	Frequency-Drug Arg1:T80 Arg2:T11
+R40	Frequency-Drug Arg1:T79 Arg2:T77
+R41	Strength-Drug Arg1:T78 Arg2:T77
+R42	Reason-Drug Arg1:T55 Arg2:T41
+R43	Strength-Drug Arg1:T76 Arg2:T41
+T83	Drug 10023 10031	CONTRAST
+T84	Drug 10548 10556	contrast
+T85	Route 10536 10547	intravenous
+T86	Drug 15478 15486	diuresis
+T87	ADE 15452 15463	hypotension
+T89	Reason 2889 2892	DVT
+T91	Drug 16728 16731	NTG
+T92	Frequency 16732 16735	prn
+R44	Frequency-Drug Arg1:T92 Arg2:T91
+R45	Route-Drug Arg1:T85 Arg2:T84
+R46	ADE-Drug Arg1:T87 Arg2:T86
+R47	Reason-Drug Arg1:T89 Arg2:T46	
+T24	Route 1464 1466	IV
+R9	Route-Drug Arg1:T24 Arg2:T22	

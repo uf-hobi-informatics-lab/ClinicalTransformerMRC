@@ -1,0 +1,77 @@
+Name:  [**Known lastname **], [**Known firstname 2045**]                         Unit No:  [**Numeric Identifier 2046**]
+
+Admission Date:  [**2129-3-14**]     Discharge Date:  [**2129-3-21**]
+
+Date of Birth:   [**2067-10-24**]     Sex:  F
+
+Service:
+
+This is an addendum to the previous discharge summary
+dictated by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].  This discharge summary
+pertains to her last day of hospitalization.
+
+On [**2129-3-20**], the patient's Coumadin was held, and the patient
+was started on Heparin in preparation for an endoscopy to
+further evaluate her anemia.  Per report, the endoscopy did
+not discover any etiology for her guaiac-positive stools or
+anemia.  The patient became very insistent on leaving after
+having endoscopy, which did not further elucidate the anemia.
+After discussion, the team decided to discharge the patient
+home with VNA earlier than expected.
+
+DISCHARGE DIAGNOSES:
+1. Ischemic cardiomyopathy.
+2. Coronary artery disease status post three-vessel coronary
+artery bypass graft.
+3. Atrial fibrillation, atrial flutter.
+4. Gastrointestinal bleed.
+
+DISCHARGE CONDITION:  Stable.  Patient was ambulating without
+difficulty.  Eating a full diet.
+
+DISCHARGE FOLLOWUP:  The patient is to followup at [**Hospital1 2057**]
+Lab on [**2129-3-22**] for INR draw.  These results are to be
+communicated to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1313**], her cardiologist at
+[**Telephone/Fax (1) 2058**].  In addition, she is to followup with Dr.
+[**First Name (STitle) 1313**] on [**4-25**] for followup of her ischemic
+cardiomyopathy.  She was advised that she should actually
+schedule an appointment earlier than this [**4-25**]
+appointment within the next week for more prompt followup
+given her recent hospitalization.  She was also advised that
+she needs to call to setup an appointment with her Infectious
+Disease doctor, Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2059**] at [**Telephone/Fax (1) 496**] for an
+appointment one week within discharge.  Dr. [**Last Name (STitle) 2059**] was
+e.mailed that the patient was discharged.  This appointment
+is necessary in order to make a decision regarding the
+duration of her sulfadiazine antibiotic.
+
+DISCHARGE MEDICATIONS:
+1. Aspirin 81 p.o. q.d.
+2. Lipitor 10 p.o. q.d.
+3. Trazodone 100 p.o. h.s.
+4. Pantoprazole 40 p.o. b.i.d.
+5. Sertraline 50 one tablet p.o. b.i.d.
+6. Enalapril 5 mg one tablet p.o. b.i.d.
+7. Spironolactone 25 mg p.o. q.d.
+8. Insulin sliding scale per home regimen.
+9. Calcium carbonate 500 mg p.o. q.i.d. prn.
+10. Dopamine 8 mcg/kg/minute drip continuous infusion.
+11. Lasix 80 mg one tablet p.o. b.i.d.
+12. Sulfadiazine 500 mg three tablets p.o. q.6h. x2 weeks.
+13. Epogen 10,000 units one injection q Saturday.
+14. Coumadin 4 mg p.o. q.h.s.
+
+DISCHARGE STATUS:  The patient will be discharged to home
+with close VNA followup.
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1949**], M.D.  [**MD Number(1) 1950**]
+
+Dictated By:[**Name8 (MD) 1314**]
+
+MEDQUIST36
+
+D:  [**2129-3-22**]  14:50
+T:  [**2129-3-24**]  08:02
+JOB#:  [**Job Number 2060**]

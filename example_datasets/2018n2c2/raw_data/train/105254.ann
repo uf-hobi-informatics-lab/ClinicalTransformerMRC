@@ -1,0 +1,181 @@
+T1	Drug 1126 1135	labetolol
+T2	Drug 1408 1421	nitroprusside
+T3	Strength 1425 1440	0.25 mcg/kg/min
+R1	Strength-Drug Arg1:T3 Arg2:T2
+T4	Drug 1477 1490	Nitroprusside
+T5	Strength 1508 1523	0.15 mcg/kg/min
+R2	Strength-Drug Arg1:T5 Arg2:T4
+T6	Drug 1590 1598	Percocet
+T7	Reason 1607 1615	headache
+R3	Reason-Drug Arg1:T7 Arg2:T6
+T8	Reason 402 410	headache
+R4	Reason-Drug Arg1:T8 Arg2:T24
+T9	Reason 4207 4221	SBP in 200-210
+R5	Reason-Drug Arg1:T9 Arg2:T10
+T10	Drug 4243 4256	nitroprusside
+T11	Route 4257 4261	drip
+R6	Route-Drug Arg1:T11 Arg2:T10
+T12	Reason 426 440	SBP in 200-210
+R7	Reason-Drug Arg1:T12 Arg2:T24
+T13	Reason 4267 4270	HTN
+R8	Reason-Drug Arg1:T13 Arg2:T14
+T14	Drug 4324 4337	nitroprusside
+T15	Duration 4361 4368	2 hours
+R9	Duration-Drug Arg1:T15 Arg2:T14
+T16	Drug 4394 4403	labetolol
+T17	Strength 4404 4410	200 mg
+R10	Strength-Drug Arg1:T17 Arg2:T16
+T18	Route 4411 4413	PO
+R11	Route-Drug Arg1:T18 Arg2:T16
+T19	Frequency 4414 4417	bid
+R12	Frequency-Drug Arg1:T19 Arg2:T16
+T20	Drug 4488 4497	Labetolol
+T21	Strength 4516 4522	200 mg
+R13	Strength-Drug Arg1:T21 Arg2:T20
+T22	Route 4523 4525	PO
+R14	Route-Drug Arg1:T22 Arg2:T20
+T23	Frequency 4526 4529	tid
+R15	Frequency-Drug Arg1:T23 Arg2:T20
+T24	Drug 462 475	nitroprusside
+T25	Reason 4627 4658	Blood pressure rose back to 200
+R16	Reason-Drug Arg1:T25 Arg2:T28
+R17	Reason-Drug Arg1:T25 Arg2:T26
+T26	Drug 4661 4674	Nitroglycerin
+T27	Route 4675 4679	drip
+R18	Route-Drug Arg1:T27 Arg2:T26
+T28	Drug 4694 4703	Labetalol
+T29	Dosage 4708 4718	uptitrated
+R19	Dosage-Drug Arg1:T29 Arg2:T28
+T30	Drug 4720 4724	HCTZ
+T31	Drug 4737 4748	Hydralazine
+T32	Route 476 480	drip
+R20	Route-Drug Arg1:T32 Arg2:T24
+T33	Drug 4806 4819	nitroglycerin
+T34	Drug 4899 4908	labetalol
+T35	Strength 4909 4914	600mg
+R21	Strength-Drug Arg1:T35 Arg2:T34
+T36	Drug 4933 4943	amlodipine
+T37	Strength 4944 4948	10mg
+R22	Strength-Drug Arg1:T37 Arg2:T36
+T38	Frequency 4949 4954	daily
+R23	Frequency-Drug Arg1:T38 Arg2:T36
+T39	Drug 4959 4963	HCTZ
+T40	Strength 4964 4968	25mg
+R24	Strength-Drug Arg1:T40 Arg2:T39
+T41	Frequency 4969 4974	daily
+R25	Frequency-Drug Arg1:T41 Arg2:T39
+T42	ADE 5117 5136	Acute kidney injury
+R26	ADE-Drug Arg1:T42 Arg2:T44
+R27	ADE-Drug Arg1:T42 Arg2:T43
+T43	Drug 5229 5232;5233 5242	ACE inhibitor
+T44	Drug 5251 5261	lisinopril
+T45	Drug 5964 5974	lisinopril
+T46	Strength 5975 5980	40 mg
+R28	Strength-Drug Arg1:T46 Arg2:T45
+T47	Frequency 5981 5985	qday
+R29	Frequency-Drug Arg1:T47 Arg2:T45
+T48	Drug 5986 5995	labetolol
+T49	Strength 5996 6002	100 mg
+R30	Strength-Drug Arg1:T49 Arg2:T48
+T50	Drug 6047 6056	Labetalol
+T51	Strength 6057 6063	300 mg
+R31	Strength-Drug Arg1:T51 Arg2:T50
+T52	Form 6064 6070	Tablet
+R32	Form-Drug Arg1:T52 Arg2:T50
+T53	Dosage 6076 6083	Two (2)
+R33	Dosage-Drug Arg1:T53 Arg2:T50
+T54	Form 6084 6090	Tablet
+R34	Form-Drug Arg1:T54 Arg2:T50
+T55	Route 6091 6093	PO
+R35	Route-Drug Arg1:T55 Arg2:T50
+T56	Frequency 6094 6105	twice a day
+R36	Frequency-Drug Arg1:T56 Arg2:T50
+T57	Drug 6143 6153	Amlodipine
+T58	Strength 6154 6159	10 mg
+R37	Strength-Drug Arg1:T58 Arg2:T57
+T59	Form 6160 6166	Tablet
+R38	Form-Drug Arg1:T59 Arg2:T57
+T60	Dosage 6172 6179	One (1)
+R39	Dosage-Drug Arg1:T60 Arg2:T57
+T61	Form 6180 6186	Tablet
+R40	Form-Drug Arg1:T61 Arg2:T57
+T62	Route 6187 6189	PO
+R41	Route-Drug Arg1:T62 Arg2:T57
+T63	Frequency 6190 6200	once a day
+R42	Frequency-Drug Arg1:T63 Arg2:T57
+T64	Drug 6237 6256	Hydrochlorothiazide
+T65	Strength 6257 6262	25 mg
+R43	Strength-Drug Arg1:T65 Arg2:T64
+T66	Form 6263 6269	Tablet
+R44	Form-Drug Arg1:T66 Arg2:T64
+T67	Dosage 6275 6282	One (1)
+R45	Dosage-Drug Arg1:T67 Arg2:T64
+T68	Form 6283 6289	Tablet
+R46	Form-Drug Arg1:T68 Arg2:T64
+T69	Route 6290 6292	PO
+R47	Route-Drug Arg1:T69 Arg2:T64
+T70	Frequency 6293 6297;6298 6303	once a day
+R48	Frequency-Drug Arg1:T70 Arg2:T64
+T71	Reason 7119 7129;7130 7138	your blood pressure
+T72	Drug 7142 7151	Labetalol
+T73	Strength 7153 7158	300mg
+R49	Strength-Drug Arg1:T73 Arg2:T72
+T74	Form 7159 7166	tablets
+R50	Form-Drug Arg1:T74 Arg2:T72
+T75	Dosage 7168 7169	2
+R51	Dosage-Drug Arg1:T75 Arg2:T72
+T76	Form 7170 7177	tablets
+R52	Form-Drug Arg1:T76 Arg2:T72
+T77	Frequency 7178 7189	twice a day
+R53	Frequency-Drug Arg1:T77 Arg2:T72
+T78	Drug 7192 7202	Amlodipine
+T79	Strength 7204 7208	10mg
+R54	Strength-Drug Arg1:T79 Arg2:T78
+T80	Form 7209 7216	tablets
+R55	Form-Drug Arg1:T80 Arg2:T78
+T81	Dosage 7218 7219	1
+R56	Dosage-Drug Arg1:T81 Arg2:T78
+T82	Form 7220 7226	tablet
+R57	Form-Drug Arg1:T82 Arg2:T78
+T83	Frequency 7227 7237	once a day
+R58	Frequency-Drug Arg1:T83 Arg2:T78
+T84	Drug 7240 7259	Hydrochlorothiazide
+T85	Drug 7261 7265	HCTZ
+T86	Strength 7268 7272	25mg
+R59	Strength-Drug Arg1:T86 Arg2:T85
+R60	Strength-Drug Arg1:T86 Arg2:T84
+T87	Form 7273 7280	tablets
+R61	Form-Drug Arg1:T87 Arg2:T85
+R62	Form-Drug Arg1:T87 Arg2:T84
+T88	Dosage 7282 7283	1
+R63	Dosage-Drug Arg1:T88 Arg2:T84
+R64	Dosage-Drug Arg1:T88 Arg2:T85
+T89	Form 7284 7290	tablet
+R65	Form-Drug Arg1:T89 Arg2:T85
+R66	Form-Drug Arg1:T89 Arg2:T84
+T90	Frequency 7291 7301	once a day
+R67	Frequency-Drug Arg1:T90 Arg2:T84
+R68	Frequency-Drug Arg1:T90 Arg2:T85
+T91	Drug 748 760	metanephrine
+T92	Drug 788 798	lisinopril
+T93	Strength 799 804	20 mg
+R69	Strength-Drug Arg1:T93 Arg2:T92
+T94	Frequency 805 809	qday
+R70	Frequency-Drug Arg1:T94 Arg2:T92
+T95	Reason 829 846	BP was still high
+R71	Reason-Drug Arg1:T95 Arg2:T96
+R72	Reason-Drug Arg1:T95 Arg2:T99
+R73	Reason-Drug Arg1:T95 Arg2:T1
+T96	Drug 856 866	lisinopril
+T97	Strength 884 889	40 mg
+R74	Strength-Drug Arg1:T97 Arg2:T96
+T98	Frequency 890 894	qday
+R75	Frequency-Drug Arg1:T98 Arg2:T96
+T99	Drug 899 908	labetolol
+T100	Strength 909 912	100
+R76	Strength-Drug Arg1:T100 Arg2:T99
+R77	Reason-Drug Arg1:T25 Arg2:T30	
+R78	Reason-Drug Arg1:T25 Arg2:T31	
+R79	Reason-Drug Arg1:T71 Arg2:T72	
+R80	Reason-Drug Arg1:T71 Arg2:T78	
+R81	Reason-Drug Arg1:T71 Arg2:T84	

@@ -1,0 +1,236 @@
+Admission Date:  [**2194-6-24**]              Discharge Date:   [**2194-6-27**]
+
+
+Service: MEDICINE
+
+Allergies:
+Aspirin
+
+Attending:[**First Name3 (LF) 425**]
+Chief Complaint:
+Transfer from OSH for STEMI
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+
+
+History of Present Illness:
+87-year-old M with h/o HTN, hyperlipidemia presented to OSH [**Hospital1 **]
+[**Location (un) 620**] with SSCP. Patient woke up in the morning and went for
+walk/gardening then started to feel very badly around 10 am,
+nauseas, profuse sweating and feeling as though his chest was
+going to "explode". He went home and tried to vomit but couldn't
+so presented to the [**Hospital1 **] [**Location (un) 620**]. At baseline he is very active
+and can do 30 minutes on the stationary bike or 20 minutes of
+rowing. He has never had similar symptoms in the past.
+.
+At OSH, VS 97.2 63 135/78 20 97% RA. EKG showing STE in inferior
+leads. Treated with heparin bolus of 4200 units no gtt,
+Integrillin bolus 6.8 ml with no drip, 2 sublinqual gtt then
+stopped, and 2 mg of Morphine IV and 2L NS. Attempted to give
+Lopressor IV but after 1 mg pt's b/p dropped to 96/48 so not
+given. Patient transferred for cath.
+.
+Cath here showed a proximal RCA occlusion with placement of 3
+BMS. Transferred to ICU for hemodynamic instability, started on
+Integrilin gtt and Dopamine gtt for hypotension although AO
+137/75 during cath. Upon arrival to the ICU patient is totally
+CP free. He c/o feeling cold and thirsty/dry mouth. ROS negative
+for h/o stroke, GI/GU complaints.
+
+
+Past Medical History:
+- HTN
+- Hyperlipidemia
+- h/o hematuria with renal stone s/p ?lithotripsy
+
+
+Social History:
+Patient lives alone, wife recently put in [**Name (NI) **] for advanced
+Alzheimer's, previously looked after her at home x 1 yr. He is
+independent with ADL's, very active as described above. Never
+smoked, never drinks, no OTC meds, no illicit drugs. Has several
+children in the area.
+
+Family History:
+No early CAD. Brother died of hemorrhagic stroke.
+
+Physical Exam:
+VS: T 95.6 BP 151/79 HR 76 RR 14 O2 97% 4L
+Gen: elderly male lying flat, NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+Neck: Supple with JVP of 7 cm.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+palpation. No abdominial bruits.
+Ext: No c/c/e. No femoral bruits. Left groin sheat in place,
+c/d/i, 2+ pulses, 2+ dp pulses b/l
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+
+Pertinent Results:
+EKG [**2194-6-24**] 10:51: NSR at 70, 4 mm STE II, III, F, RBBB, PR 192,
+nl axis
+Post intervention: 1-2 mm STE inferior leads, RBBB
+.
+140  107  18
+-------------< 161
+4.2  25  0.9
+PT: 11.9  PTT: 81.0  INR: 1.0
+.
+trends:
+[**2194-6-24**] WBC-10.3 RBC-3.79* Hgb-12.6* Hct-37.6* Plt Ct-250
+[**2194-6-24**] 12:00PM BLOOD CK(CPK)-217*
+[**2194-6-24**] 09:12PM BLOOD CK(CPK)-1042*
+[**2194-6-25**] 06:24AM BLOOD CK(CPK)-873*
+[**2194-6-24**] 12:00PM BLOOD CK-MB-10 MB Indx-4.6 cTropnT-0.04*
+[**2194-6-24**] 09:12PM BLOOD CK-MB-153* MB Indx-14.7* cTropnT-4.03*
+[**2194-6-25**] 06:24AM BLOOD CK-MB-117* MB Indx-13.4*
+.
+[**6-24**]: Cath:
+1. Selective coronary angiography of this right dominant system
+revealed
+single vessel coronary artery disease. The LMCA had no
+angiographically
+apparent flow limiting stenosis. The LAD had mild diffuse
+disease. The
+LCX had no angiographically apparent flow limiting stenosis. The
+RCA was
+a dominant vessel and was totally occluded proximally.
+2. Limited resting hemodynamics revealed normal systemic
+pressure.
+3. Left ventriculography was deferred.
+FINAL DIAGNOSIS:
+1. One vessel coronary artery disease.
+2. Normal systemic pressure.
+3. Acute inferior myocardial infarction, managed by acute ptca.
+ 3 bare metal stents placed in the RCA vessel.
+.
+[**6-26**]: ECHO: EF 45-50%.  The left atrium is normal in size. The
+estimated right atrial pressure is >20 mmHg. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is mildly depressed with inferior
+akinesis/hypokinesis and inferolateral hypokinesis. Right
+ventricular chamber size is normal. Right ventricular systolic
+function appears depressed. There is abnormal septal
+motion/position consistent with right ventricular
+pressure/volume overload. The aortic valve leaflets (3) are
+mildly thickened. No aortic regurgitation is seen. The mitral
+valve appears structurally normal with trivial mitral
+regurgitation. There is a trivial/physiologic pericardial
+effusion. At least moderate pulmonary artery systolic
+hypertension.
+
+
+Brief Hospital Course:
+ASSESSMENT AND PLAN, AS REVIEWED AND DISCUSSED IN
+MULTIDISCIPLINARY ROUNDS:
+Pt is an 87 yo M with h/o HTN, hyperlipidemia who presents with
+IMI s/p 3x BMS to proximal RCA lesion.
+.
+#) CAD: IMI with proximal RCA occlusion, CK here 217 Trop 0.04
+- trend CK to peak
+- monitor on tele
+- start ASA desensitization protocol given allergy
+- Plavix
+- high dose statin
+- Integrilin x 18 hrs
+- wean dopamine given elevated SBP, low dose beta blocker once
+off dopamine
+- echo in AM to evaluate EF
+- daily EKG
+- bolus IVF for hypotension
+- start ACEI once hemodynamically stable
+- going check, PM Hct, plts
+.
+#) Hypotension. Transient, likely in setting of vasodilators at
+OSH. Started on dopamine --wean as SBP tolerates.
+- bolus IVF for hypotension
+- low dose beta blocker
+.
+#) Rhythm: NSR, RBBB, ? old
+- contact PCP for old EKG
+- monitor on tele for PR prolongation, LAFB
+- low dose beta blocker
+.
+#) Pump: echo in AM
+.
+#) Hyperlipidemia: high dose statin
+.
+#) HTN: holding hctz, low dose beta blocker as tolerated
+.
+#) FEN: bolus IVF prn, cardiac diet, replete lytes prn
+.
+#) PPX: PPI, bowel reg prn
+.
+#) Access: PIV x 2
+.
+#) Dispo: ICU level of care pending hemodynamic stability
+.
+#) Code: full
+
+
+Medications on Admission:
+ALLERGIES: ASA -->facial swelling/itching
+.
+CURRENT MEDICATIONS:
+- Hctz ?dose ([**1-14**] pill)
+- Simvastatin ?dose ([**1-14**] pill)
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+- Acute STEMI, inferior MI with CA occlusion
+- HTN
+- Hyperlipidemia
+- ASA allergy s/p successful desensitization
+
+
+Discharge Condition:
+well
+
+
+Discharge Instructions:
+You came in after experiencing a heart attack.  You underwent
+cardiac catheterization and had three stents placed in your
+right coronary artery.  You tolerated the procedure well.  We
+performed an aspirin desentizitation protocol to start aspirin.
+.
+Please take all of your medications as instucted.  We made the
+following adjustments:
+1.  Plavix: you MUST take this medication every day for the next
+month.  We recommend you take it for at least 1 year or
+otherwise as pe your cardiologist
+2.  Toprol XL once daily
+3.  Atorvastatin 80mg daily (stop you simvastatin)
+4.  Stop your hydrochlorothiazide.
+5.  Aspirin 325mg daily
+6.  Lisinopril 5mg daily
+.
+Please contact your PCP or come to the [**Name (NI) **] if you experience
+chest pain, shortness of breath, abdominal pain.  Please
+followup with your PCP within the next 1-2 weeks.
+
+Followup Instructions:
+You have an appointment with Dr. [**Last Name (STitle) **] on [**7-11**] at 11:00AM.
+Please call his office @ [**Telephone/Fax (1) 30419**] if any changes need to be
+made.
+.
+A follow up appointment has been made with Dr. [**Last Name (STitle) **] of
+Cardiology at the [**Hospital1 18**] in [**Location (un) 620**], MA. His office number is
+[**Telephone/Fax (1) 4105**]. The appointment is on [**7-17**] @ 3:30pm. Please
+call if any changes are needed to be made.
+
+
+
+Completed by:[**2194-6-27**]

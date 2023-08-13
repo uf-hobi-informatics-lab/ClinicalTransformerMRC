@@ -1,0 +1,306 @@
+Admission Date:  [**2121-9-1**]              Discharge Date:   [**2121-9-4**]
+
+Date of Birth:  [**2048-1-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4057**]
+Chief Complaint:
+dyspnea, methemoglobinemia
+
+Major Surgical or Invasive Procedure:
+intubation
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 73 year old gentleman well known to the
+OMED service, recently discharged for dysphagia, recently s/p
+tracheal dilitation and stent placement; presented to the ED
+with 2 days of dyspnea, chills and an inability to clear sputum,
+leading to difficult sleeping.
+.
+In the ED, initial vs were: 98.6 110 149/74 20 100. Pulmonary
+was consulted and a bronch was performed.  The patient was found
+to have a paralyzed R vocal cord.  Around the time of the
+bronch, he became hypoxic with sats in the 80s refractory to
+oxygenation.  A blood gas was obtained and he was found to have
+methemeglobinemia of 64%.  Toxicology was consulted and the
+patient was given 90mg of Methylene blue, with subsequent blood
+gases demonstrating a reduction in methemeglobin.  The patient
+also received Racemic epi & heliox prior to intubation for
+stridor. Transfer VS 135 148/95 CMV Peep 10  Fi02100 on
+Propofol.
+.
+On arrival to the floor, the patient is intubated and sedated,
+unable to provide further history.  His partner confirms the
+limited story prior to the ED above.
+
+
+Past Medical History:
+Poorly-differentiated anaplastic carcinoma of the thyroid
+Well-differentiated squamous cell carcinoma of the esophagus
+tracheal compression related to the large thyroid cancer s/p a
+sequential dilation tracheal stenosis and the placement of a
+covered metal stent
+hypercalcemia of malignancy
+HTN
+Chronic kidney disease stage III-IV probably related to
+untreated hypertension
+Asthma or COPD
+H/o tobacco and alcohol dependence
+
+Social History:
+He is retired, formerly worked as a safecracker for a safe
+company.  He lives with his wife.  [**Name (NI) **] is a half to one pack per
+day smoker for at least 50 years, but quit recently.
+
+
+Family History:
+His parents lived to advanced age.  His father died at age [**Age over 90 **].
+His mother died in her late 80s.  He had four siblings, two of
+whom are now deceased.  One of his brothers died at age 66 from
+complications of diabetes and one of his sisters died in her 50s
+from breast cancer.  He has a 67-year-old brother
+who remains alive and is well other than a past stroke and he
+has a 72-year-old sister who is alive and well.  He has four
+children aged 45, 43, 42, and 40.  His 42-year-old son has
+metastatic colon cancer.
+
+
+Physical Exam:
+Gen: Well appearing adult male, no acute distress
+HEENT: PERRL, EOMi, Dry MM, OPC, conjunctivae well pigmented
+Neck: Supple, no LAD or JVD
+Chest: CTAB
+CV: RRR
+Ab: Soft NTND
+Ext: No edema
+Neuro: AO3
+
+Pertinent Results:
+Labs on admission:
+
+[**2121-9-1**] 11:52PM   TYPE-ART TEMP-36.3 RATES-/15 TIDAL VOL-550
+PEEP-10 O2-70 PO2-346* PCO2-30* PH-7.50* TOTAL CO2-24 BASE XS-1
+INTUBATED-INTUBATED VENT-CONTROLLED
+[**2121-9-1**] 11:52PM   HGB-9.4* calcHCT-28 O2 SAT-90 MET HGB-8*
+[**2121-9-1**] 10:59PM   TYPE-ART TEMP-36.7 RATES-/16 TIDAL VOL-500
+PEEP-10 O2-99 PO2-375* PCO2-30* PH-7.50* TOTAL CO2-24 BASE XS-1
+AADO2-315 REQ O2-57 INTUBATED-INTUBATED VENT-CONTROLLED
+[**2121-9-1**] 10:59PM   O2 SAT-69 MET HGB-31*
+[**2121-9-1**] 10:14PM   TYPE-ART RATES-/18 TIDAL VOL-550 PEEP-8 O2
+FLOW-100 PO2-495* PCO2-34* PH-7.47* TOTAL CO2-25 BASE XS-2
+INTUBATED-INTUBATED
+[**2121-9-1**] 10:14PM   HGB-9.7* calcHCT-29 O2 SAT-34 MET HGB-64*
+[**2121-9-1**] 06:35PM   GLUCOSE-103* UREA N-18 CREAT-1.2 SODIUM-132*
+POTASSIUM-4.0 CHLORIDE-97 TOTAL CO2-29 ANION GAP-10
+[**2121-9-1**] 06:35PM   estGFR-Using this
+[**2121-9-1**] 06:35PM   CK(CPK)-40*
+[**2121-9-1**] 06:35PM   CK-MB-2 cTropnT-0.03*
+[**2121-9-1**] 06:35PM   CALCIUM-9.3 PHOSPHATE-2.4* MAGNESIUM-1.4*
+[**2121-9-1**] 06:35PM   OSMOLAL-279
+[**2121-9-1**] 06:35PM   WBC-2.0* RBC-3.21* HGB-9.3* HCT-27.9* MCV-87
+MCH-28.9 MCHC-33.3 RDW-15.9*
+[**2121-9-1**] 06:35PM   NEUTS-69.1 LYMPHS-24.9 MONOS-5.1 EOS-0.8
+BASOS-0.2
+[**2121-9-1**] 06:35PM   PLT COUNT-220
+.
+Labs on Discharge:
+
+[**2121-9-4**] 05:30AM BLOOD WBC-1.9* RBC-2.56* Hgb-7.4* Hct-22.6*
+MCV-88 MCH-28.9 MCHC-32.8 RDW-15.6* Plt Ct-198
+[**2121-9-4**] 05:30AM BLOOD Neuts-62 Bands-0 Lymphs-19 Monos-15*
+Eos-1 Baso-2 Atyps-1* Metas-0 Myelos-0
+[**2121-9-4**] 05:30AM BLOOD Plt Smr-NORMAL Plt Ct-198
+[**2121-9-4**] 05:30AM BLOOD PT-13.2 PTT-38.8* INR(PT)-1.1
+[**2121-9-4**] 05:30AM BLOOD Gran Ct-1180*
+[**2121-9-4**] 05:30AM BLOOD Glucose-79 UreaN-9 Creat-1.1 Na-139
+K-3.0* Cl-101 HCO3-30 AnGap-11
+[**2121-9-4**] 05:30AM BLOOD Calcium-8.5 Phos-2.0* Mg-1.5*
+.
+Imaging:
+CT-Neck [**9-3**]: IMPRESSION:
+
+1. Soft tissue attenuation noted within the soft tissues of the
+right neck
+extending from the level of the hyoid bone inferiorly to the
+superior
+mediastinum as described above. Nonvisualization of the inferior
+right
+internal jugular vein, which reconstitutes at the level just
+superior to the
+hyoid bone. Adjacent focal area of hypoattenuation may represent
+thrombosed
+jugular vein vs cystic lymph nodes. Color doppler US is may be
+obtained for
+further characterization.
+
+2. Tracheal stent noted originating in the subglottic airway,
+extending to
+the superior mediastinum with secretions noted inferior to the
+stent.
+
+3. Right vocal cord paralysis, with or without tumor
+involvement. Correlation
+with direct visualization is recommended.
+
+4. Linear air-filled structure extending to the right of
+midline, originating
+from the esophagus, possibly representing an esophageal
+diverticulum.
+
+5. Lytic lesions in vertebral bodies C2 and C3, present on prior
+PET without
+abnormal FDG uptake. While these findings may be attributed to
+degenerative
+change, a bone scan may be obtained for further
+characterization.
+.
+Neck US [**9-3**]: IMPRESSION:
+
+1. Large mass in the right neck consistent with tumor spread.
+
+2. Occlusion of the right internal jugular vein but apparently
+related to
+mass effect or invasion rather than thrombosis.
+
+Brief Hospital Course:
+# Respiratory failure/Methemeglobinemia:  The patient was
+intubated with sats in the high 90s after methylene blue.  ABGs
+showed improving trend.  Methemeglobinemia likely over at point
+of transfer to MICU.  Weaned off vent to CPAP and was extubated
+in the afternoon on [**9-2**] by the pulmonary team.  Cardiac enzymes
+were trended and were stable.  Reglan was held. Toxicology
+followed during stay in MICU and methylene blue was redosed.
+.
+# Thyroid & Esphageal Carcinoma: Intent of care remained
+palliative during this admission. Chemoradiation was deemed to
+not have made a significant impact on the patient's symptoms,
+which continue to be cough, difficulty breathing / talking, and
+dysphagia. The decision was made to stop further chemotherapy
+and pursue potential surgical avenues for further palliation. A
+number of medication changes were also made, including starting
+Mirtazapine for appetite stimulation per palliative care, and
+Acetylcysteine and Codeine/Guiafenesin to promote productive
+coughing.
+.
+# Transient hypotension: The patient developed transient
+hypotension in the setting of propofol boluses, diarrhea.
+Hypovolemia also possible given sinus tach.  Blood pressure
+normalized with fluid boluses and in the absence of fever or
+leukocytosis, sepsis was deemed unlikely and empiric Vanc/Zosyn
+was discontinued.
+.
+# ARF: Recent elevation this month in the setting of new chemo,
+possibly prerenal from chemo associated diarrhea. Cr remained
+stable at 1.2; the patient was discharge with Cr 1.1.
+# Hyponatremia: Hypovolemic hyponatremia normalized from 132 to
+139 upon discharge with volume resuscitation.
+
+
+Medications on Admission:
+Fibersource HN  Liquid Sig: 1560 (1560) cc PO once a day: goal
+rate of 65 cc/hr.
+Ipratropium Bromide 0.02 % Q6 PRN
+Fentanyl 25 mcg/hr Patch 72 hr
+Docusate Sodium 50 mg/5 mL PO BID
+Albuterol Sulfate 2.5 mg /3 mL Q4 PRN
+Acetylcysteine 20 % (200 mg/mL) Solution Sig: 6-10 MLs Q6h
+Enoxaparin 60 mg SC BID
+Ferrous Sulfate 300  mg PO Daily
+Metoclopramide 10 mg PO Q6H
+Metoprolol Tartrate 12.5 PO BID
+Morphine 10 mg/5 mL Solution Sig: [**6-16**] mL PO Q2H (every 2
+hours) as needed for pain.
+Ipratropium-Albuterol Q6H PRN
+Senna 8.8 mg/5 mL PRN
+Guaifenesin 50 mg/5 mL PO Q6PRN
+Lidocaine-Diphenhyd-[**Doctor Last Name **]-Mag-[**Doctor Last Name **] 200-25-400-40 mg/30 mL Q6 PRN
+
+Discharge Medications:
+1. Docusate Sodium 50 mg/5 mL Liquid Sig: Ten (10) mL PO BID (2
+times a day).
+2. Ipratropium Bromide 0.02 % Solution Sig: One (1) inhalation
+Inhalation every six (6) hours.
+3. Fentanyl 25 mcg/hr Patch 72 hr Sig: One (1) patch Transdermal
+every seventy-two (72) hours.
+4. Albuterol Sulfate 2.5 mg/0.5 mL Solution for Nebulization
+Sig: [**2-8**] pulvules Inhalation every four (4) hours as needed for
+shortness of breath or wheezing.
+5. Acetylcysteine 20 % (200 mg/mL) Solution Sig: [**7-17**] mL
+Miscellaneous [**Hospital1 **] (2 times a day).
+6. Enoxaparin 60 mg/0.6 mL Syringe Sig: One (1) syringe
+Subcutaneous Q12H (every 12 hours).
+7. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)
+Tablet PO once a day.
+8. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4
+times a day (before meals and at bedtime)).
+9. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO twice a
+day.
+10. Morphine 10 mg/5 mL Solution Sig: [**6-16**] mL PO Q2hrs as needed
+for pain.
+11. Senna 8.8 mg/5 mL Syrup Sig: [**6-16**] mL PO twice a day as
+needed for constipation.
+12. Lidocaine-Diphenhyd-[**Doctor Last Name **]-Mag-[**Doctor Last Name **] 200-25-400-40 mg/30 mL
+Mouthwash Sig: 15-30 mL Mucous membrane every six (6) hours as
+needed for Throat pain.
+13. Codeine-Guaifenesin 10-100 mg/5 mL Syrup Sig: 5-10 MLs PO
+BID (2 times a day).
+Disp:*600 1* Refills:*2*
+14. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*0*
+15. Sodium Chloride 3 % Solution for Nebulization Sig: One (1)
+neb Inhalation every eight (8) hours.
+Disp:*90 nebs* Refills:*2*
+16. Tube Feeds
+Fibersource HN Liquid 1560 cc once a day at rate of 65 ml/hr
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+Metastatic anaplastic thyroid cancer
+Right vocal cord paralysis
+Squamous cell cancer of the esophagus
+Methemaglobinemia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were admitted for issues with your breathing.  A
+bronchoscopy was attempted to see if your stent needed
+adjustment but it was appropriately positioned.  Due to a rare
+side effect of a medication your oxygen level went low and you
+had to go to the intensive care unit.  You were then extubated
+and brought to the floor.
+
+On the floor we adjusted your medications to try and help you
+deal with your coughing and secretions.  This slightly improved.
+ Dr. [**First Name (STitle) **] discussed mechanical or procedural fixes to your
+swallowing and breathing issues with interventional pulmonolgy
+and surgery and they have one possible solution that requires
+further work up.  Dr. [**First Name (STitle) **] will help arrange this next week.
+
+
+Your medications have been changed.  Please take your
+medications as prescribed.
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6198**], MD Phone:[**Telephone/Fax (1) 22**]
+Date/Time:[**2121-9-15**] 3:00
+
+
+

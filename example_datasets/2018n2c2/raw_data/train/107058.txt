@@ -1,0 +1,237 @@
+Admission Date:  [**2178-3-12**]              Discharge Date:   [**2178-3-12**]
+
+Date of Birth:  [**2109-1-27**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+neck, throat swelling
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+69 year-old man with a h/o DM2, CAD, CHF, GERD, chronic
+sinusitis, asthma, s/p esophageal dilatation who presents with
+uvular swelling.  Pt reports that he was walking to the bathroom
+at midnight when he noted the onset of a swelling sensation in
+his throat with difficulty and mild pain on swallowing.  He also
+notes mild lip swelling.  No urticaria, flushing, pruritis, or
+lightheadedness.  No fevers, cough, swollen lymph nodes, sore
+throat, or purulent sputum.  He has stable rhinorrhea worst at
+night from chronic sinusitis.  He denies any difficulty handling
+his secretions or dysphagia; these sx are dissimilar from those
+leading to his esophageal dilatation several years ago.  The
+patient does recall one similar prior episode a few years ago
+after eating a [**Location (un) 6002**].  At an OSH ED, he was given some
+medications and the swelling resolved after several hours; this
+was attributed to mayonnaise. He has tolerated this fine since
+and denies mayonnaise or other new foods recently.  He reports
+being on lisinopril for 2-3 years; he believes he was taking it
+at the time of this previous episode. His only new medication is
+ferrous sulfate, started yesterday AM.  He has not taken ASA or
+NSAIDs in at least 4 months due to his renal failure.  No insect
+stings or chemical exposures.  No chronic abdominal pain or
+family history of angioedema.
+.
+In the ED, initial vs were: T 98, P 82, BP 161/66, RR 22, O2sat
+100. Pt was without stridor or wheezing with minimal tongue and
+lip swelling but +uvular hydrops. He was given diphenhydramine
+50mg IV, famotidine 20mg IV, and methylprednisolone 125mg IV. Pt
+stable but given absence of improvement, he is being admitted to
+the ICU.  VS on transfer: T 98.0, P 83, BP 151/79, RR 14, O2sat
+100% 2L.
+.
+On the floor, pt currently reports slight improvement in his
+swelling.  No difficulty handling secretions.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, stably fluctuating
+weights due to CHF. Denies headache.  Chronic sinus tenderness,
+rhinorrhea, and congestion. Denies cough, shortness of breath,
+or wheezing.  Denies chest pain, chest pressure, palpitations,
+or weakness. Denies nausea, vomiting, abdominal pain.  1 episode
+of diarrhea yesterday; none since.  Denies dysuria, frequency,
+or urgency. Denies arthralgias or myalgias. Denies rashes or
+skin changes.
+
+Past Medical History:
+Diabetes mellitus 2
+Hypertension
+Hyperlipidemia
+CAD with "mild MI" in the past per patient
+CHF (EF 51% on [**2178-2-19**] stress MIBI)
+ESRD undergoing work-up for PD and transplant
+Chronic sinusitis
+H/o asthma (last exacerbation in [**2152**])
+GERD
+Prostate cancer (new dx on [**2-19**] prostatic bx - [**Doctor Last Name **] score 6
+(3+3), small focus involving less than 5% of the core tissue)
+S/p esophageal dilatation several years ago
+S/p removal of benign cyst under tongue at age 15
+
+Social History:
+Lives with wife and daughters and granddaughters. Retired, used
+to work for a cleaning company.
+- Tobacco: Quit tobacco 20 yrs ago
+- Alcohol: Denies
+- Illicits: Denies
+
+Family History:
+Strong family history of DM and CAD
+
+Physical Exam:
+T 96.9, P 90, BP 165/73, RR 14, O2sat 100% 2L
+General: Alert, oriented, no acute distress, stridor, or
+wheezing
+HEENT: Sclera anicteric, MMM, lips and tongue not noticeably
+swollen, uvular hydrops without exudates, no erythema, no
+parotitis
+Neck: Supple, JVP not elevated, no LAD, nontender
+Lungs: Minimal crackles at bilateral bases, otherwise clear
+without wheezes.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen:  Soft, non-tender, obese but non-distended, bowel
+sounds present, no rebound tenderness or guarding, no
+organomegaly
+GU: No foley
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Skin: No flushing or rash
+Neuro: AAO x 3, nonfocal
+
+Pertinent Results:
+[**2178-3-11**] 10:36AM BLOOD WBC-6.8 RBC-3.92* Hgb-11.0* Hct-33.3*
+MCV-85 MCH-28.0 MCHC-32.9 RDW-13.5 Plt Ct-405
+[**2178-3-11**] 10:36AM BLOOD UreaN-58* Creat-5.9* Na-140 K-4.7 Cl-100
+HCO3-27 AnGap-18
+[**2178-3-11**] 10:36AM BLOOD Calcium-7.9* Phos-4.5
+[**2178-3-11**] 10:36AM BLOOD PTH-527*
+[**2178-3-12**] 12:35PM BLOOD C4-39
+
+Brief Hospital Course:
+69 yo man with DM, CAD, GERD, chronic sinusitis, asthma, s/p
+esophageal dilatation p/w angioedema.
+.
+# Angioedema: C/w angioedema.  Most commonly associated with
+ACE-I.  Does have a history of similar episode; acquired C1
+inhibitor deficiency possible - familial less likely given age
+and absence of family hx.  Did just start iron supplement and
+allergy to a component is possible, but time course not as
+consistent and more likely kinin-mediated rather than mast cell
+given absence of urticaria, prurutis.  No inhalant abuse; not
+taking ASA or NSAIDS due to renal failure. Pharyngitis can cause
+uvular swelling but no fever, exudates, or sore throat to
+suggest acute infectious etiology.  Lisinopril was held on
+admission and the patient was instructed not to resume this
+medication.  Complement levels were checked.  His angioedema
+resolved completely by the end of the day and he was discharged.
+.
+# HTN: He was restarted on home blood pressure medications
+except for lisinopril.  Blood pressure was controlled and he was
+discharged with instructions to f/u with his PCP.
+.
+# DM: He reports episodes of hypoglycemia at home in the 50s and
+Lantus was recently lowered.  His Glyburide was stopped on
+admission due to his end stage renal disease.  He will continue
+to monitor his blood sugars regularly at home.
+.
+# ESRD: In work-up for PD and transplant. Sevelamer and
+calcitriol continued.
+.
+# CAD: Stable: Simvastatin and b-blocker continued.
+.
+# CHF: Euvolemic: Home lasix dose continued.
+.
+.
+# Prostate cancer: New dx, [**Doctor Last Name **] score 6
+- Outpt f/u with Dr. [**Last Name (STitle) 770**] on [**2178-3-19**]
+
+
+Medications on Admission:
+ALBUTEROL SULFATE (not taking)
+CALCITRIOL 0.25 mcg daily
+FUROSEMIDE 80 mg [**Hospital1 **]
+GLYBURIDE 5 mg daily
+INSULIN GLARGINE [LANTUS] 8 units daily
+LISINOPRIL 40 mg [**Hospital1 **]
+METOPROLOL TARTRATE 25 mg [**Hospital1 **]
+NIFEDIPINE SR 90 mg daily
+SEVELAMER CARBONATE [RENVELA] 1600 mg tid w/ meals
+SIMVASTATIN 80 mg daily
+IRON 325 mg daily
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+2. Furosemide 40 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+3. Nifedipine 90 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO DAILY (Daily).
+4. Insulin Glargine 100 unit/mL Solution Sig: Eight (8) units
+Subcutaneous once a day.
+5. Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO once a
+day.
+6. Sevelamer HCl 800 mg Tablet Sig: Two (2) Tablet PO three
+times a day.
+7. Simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Angioedema
+
+Secondary Diagnosis:
+2. Diabetes Mellitus
+3. End-Stage Renal Disease
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted to the hospital with a reaction called
+angioedema.  We think that this was due to your Lisinopril
+dosing.  It may have been related to your iron as well.  You
+should not take Lisinipril ever or this may cause a
+life-threatening reaction.
+
+The following changes were made to your medications:
+STOP Lisinopril
+STOP glyburide
+
+You should follow-up with your PCP [**Last Name (NamePattern4) **] 2 weeks.
+
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more
+than 3 lbs.
+
+You should monitor your blood pressure at home and call your
+primary care doctor [**First Name (Titles) **] [**Last Name (Titles) **] values over 160 systolic.
+You should check your blood sugars regularly and call your
+primary care doctor for values over 200 or less than 70.
+
+Followup Instructions:
+Scheduled Appointments:
+Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Phone:[**Telephone/Fax (1) 673**] Date/Time:[**2178-3-16**]
+3:30
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4653**], MD Phone:[**Telephone/Fax (1) 5727**]
+Date/Time:[**2178-3-19**] 4:00
+Provider: [**First Name11 (Name Pattern1) 819**] [**Last Name (NamePattern4) 820**], MD Phone:[**Telephone/Fax (1) 673**] Date/Time:[**2178-3-26**]
+8:30
+
+Please see your primary care doctor within 2 weeks of discharge.
+
+
+

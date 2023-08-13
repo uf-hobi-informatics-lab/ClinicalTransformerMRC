@@ -1,0 +1,199 @@
+T1	Drug 6785 6798	CIPROFLOXACIN
+T2	Strength 14032 14038	750 mg
+T3	Form 14059 14065	Tablet
+T4	Route 14066 14068	PO
+T5	Drug 14018 14030;14030 14031	Ciprofloxaci n
+T6	Drug 6723 6734	CEFTAZIDIME
+T7	Drug 13385 13391	DIOVAN
+T8	Strength 13392 13396	80MG
+T9	Form 13402 13408	tablet
+T10	Dosage 13398 13401	One
+T11	Route 13409 13417	by mouth
+T12	Drug 13858 13869;13870 13877	Hyoscyamine Sulfate
+T13	Strength 13878 13886	0.125 mg
+T14	Form 13887 13893	Tablet
+T15	Drug 11278 11288	ampicillin
+T16	Drug 13529 13538	PRAVACHOL
+T17	Strength 13539 13543	20MG
+T18	Form 13549 13555	tablet
+T19	Dosage 13545 13548	One
+T20	Drug 6421 6433;6433 6439	Trimethoprim /Sulfa
+T21	Drug 12886 12892	Asacol
+T22	Drug 13271 13277	ASACOL
+T23	Strength 13278 13283	400MG
+T24	Form 13287 13291	tabs
+T25	Dosage 13285 13286	2
+T26	Frequency 13292 13305;13306 13309	three times a day
+T27	Drug 6692 6700	CEFEPIME
+T28	Drug 6940 6950	TOBRAMYCIN
+T29	Drug 2330 2336	flagyl
+T30	Drug 6878 6887	MEROPENEM
+T31	Drug 11344 11349	cipro
+T32	Duration 11403 11423	for total of 14 days
+T33	Drug 6754 6765	CEFTRIAXONE
+T34	Drug 2211 2218	tylenol
+T35	Drug 13348 13355	ASPIRIN
+T36	Strength 13356 13360	81MG
+T37	Form 13366 13372	tablet
+T38	Dosage 13362 13365	One
+T39	Frequency 13373 13380;13381 13384	twice a day
+T40	Drug 13480 13490;13491 13499	METOPROLOL TARTRATE
+T41	Strength 13500 13504	25MG
+T42	Form 13510 13516	tablet
+T43	Dosage 13506 13509	One
+T44	Frequency 13517 13524;13525 13528	twice a day
+T45	Drug 12579 12586	aspirin
+T46	Strength 13749 13755	400 mg
+T47	Form 13756 13762;13762 13786	Tablet , Delayed Release (E.C.)
+T48	Drug 13738 13747;13747 13748	Mesalamin e
+T49	Drug 12964 12970	diovan
+T50	Drug 13428 13439;13440 13447	HYOSCYAMINE SULFATE
+T51	Strength 13448 13455	0.375MG
+T52	Form 13461 13467	tablet
+T53	Dosage 13457 13460	One
+T54	Frequency 13468 13475;13476 13479	twice a day
+T55	Drug 12894 12901	Anaspaz
+T56	Drug 6847 6855	IMIPENEM
+T57	Drug 6909 6921	PIPERACILLIN
+T58	Drug 13630 13649	Metoprolol Tartrate
+T59	Strength 13650 13655	25 mg
+T60	Form 13672 13678	Tablet
+T61	Dosage 13668 13671	0.5
+T62	Route 13679 13681	PO
+T63	Drug 1144 1154	ampicillin
+T64	Strength 1155 1158	2gm
+T66	Drug 1167 1177	gentamicin
+T67	Strength 1178 1182	80mg
+T69	Drug 2321 2325	levo
+T71	Drug 2522 2525	abx
+T72	Drug 2866 2869	IVF
+T73	Drug 2877 2881	levo
+T74	Drug 2883 2889	flagyl
+T75	Drug 6816 6826	GENTAMICIN
+T76	Reason 12839 12850	h/o colitis
+T77	Drug 12926 12929	IVF
+T78	Frequency 13418 13427	every day
+T79	Frequency 13556 13566	at bedtime
+T80	Drug 13567 13574	TIMOLOL
+T81	Strength 13575 13580	0.25%
+T82	Dosage 13582 13585	One
+T83	Route 13586 13589	gtt
+T84	Frequency 13590 13601	twice a day
+T85	Form 13656 13662	Tablet
+T86	Frequency 13682 13688;13689 13701	BID (2 times a day)
+T87	Dosage 13792 13799	Two (2)
+T88	Form 13800 13830	Tablet, Delayed Release (E.C.)
+T89	Route 13831 13833	PO
+T90	Frequency 13834 13853	TID (3 times a day)
+T91	Route 13895 13905	Sublingual
+T92	Dosage 13911 13918	One (1)
+T93	Form 13919 13925	Tablet
+T94	Route 13927 13937	Sublingual
+T95	Frequency 13949 13968	QID (4 times a day)
+T96	Form 14039 14045	Tablet
+T97	Dosage 14051 14058	One (1)
+T98	Frequency 14069 14076;14077 14080	twice a day
+T99	Duration 14081 14092	for 11 days
+T100	Drug 14586 14597	antibiotics
+R1	Strength-Drug Arg1:T2 Arg2:T5
+R2	Form-Drug Arg1:T3 Arg2:T5
+R3	Route-Drug Arg1:T4 Arg2:T5
+R4	Strength-Drug Arg1:T8 Arg2:T7
+R5	Form-Drug Arg1:T9 Arg2:T7
+R6	Dosage-Drug Arg1:T10 Arg2:T7
+R7	Route-Drug Arg1:T11 Arg2:T7
+R8	Strength-Drug Arg1:T13 Arg2:T12
+R9	Form-Drug Arg1:T14 Arg2:T12
+R10	Strength-Drug Arg1:T17 Arg2:T16
+R11	Form-Drug Arg1:T18 Arg2:T16
+R12	Dosage-Drug Arg1:T19 Arg2:T16
+R13	Strength-Drug Arg1:T23 Arg2:T22
+R14	Form-Drug Arg1:T24 Arg2:T22
+R15	Dosage-Drug Arg1:T25 Arg2:T22
+R16	Frequency-Drug Arg1:T26 Arg2:T22
+R17	Duration-Drug Arg1:T32 Arg2:T31
+R18	Strength-Drug Arg1:T36 Arg2:T35
+R19	Form-Drug Arg1:T37 Arg2:T35
+R20	Dosage-Drug Arg1:T38 Arg2:T35
+R21	Frequency-Drug Arg1:T39 Arg2:T35
+R22	Strength-Drug Arg1:T41 Arg2:T40
+R23	Form-Drug Arg1:T42 Arg2:T40
+R24	Dosage-Drug Arg1:T43 Arg2:T40
+R25	Frequency-Drug Arg1:T44 Arg2:T40
+R26	Strength-Drug Arg1:T46 Arg2:T48
+R27	Form-Drug Arg1:T47 Arg2:T48
+R28	Strength-Drug Arg1:T51 Arg2:T50
+R29	Form-Drug Arg1:T52 Arg2:T50
+R30	Dosage-Drug Arg1:T53 Arg2:T50
+R31	Frequency-Drug Arg1:T54 Arg2:T50
+R32	Strength-Drug Arg1:T59 Arg2:T58
+R33	Form-Drug Arg1:T60 Arg2:T58
+R34	Dosage-Drug Arg1:T61 Arg2:T58
+R35	Route-Drug Arg1:T62 Arg2:T58
+R37	Strength-Drug Arg1:T67 Arg2:T66
+R38	Strength-Drug Arg1:T64 Arg2:T63
+R41	Reason-Drug Arg1:T76 Arg2:T21
+R42	Frequency-Drug Arg1:T78 Arg2:T7
+R43	Frequency-Drug Arg1:T79 Arg2:T16
+R44	Frequency-Drug Arg1:T84 Arg2:T80
+R45	Route-Drug Arg1:T83 Arg2:T80
+R46	Strength-Drug Arg1:T81 Arg2:T80
+R47	Dosage-Drug Arg1:T82 Arg2:T80
+R48	Frequency-Drug Arg1:T86 Arg2:T58
+R49	Form-Drug Arg1:T85 Arg2:T58
+R50	Frequency-Drug Arg1:T90 Arg2:T48
+R51	Route-Drug Arg1:T89 Arg2:T48
+R52	Form-Drug Arg1:T88 Arg2:T48
+R53	Dosage-Drug Arg1:T87 Arg2:T48
+R54	Frequency-Drug Arg1:T95 Arg2:T12
+R55	Route-Drug Arg1:T94 Arg2:T12
+R56	Form-Drug Arg1:T93 Arg2:T12
+R57	Dosage-Drug Arg1:T92 Arg2:T12
+R58	Route-Drug Arg1:T91 Arg2:T12
+R59	Duration-Drug Arg1:T99 Arg2:T5
+R60	Frequency-Drug Arg1:T98 Arg2:T5
+R61	Dosage-Drug Arg1:T97 Arg2:T5
+R62	Form-Drug Arg1:T96 Arg2:T5
+T101	Drug 2506 2517	rehydration
+T103	Drug 12639 12645	statin
+T104	Drug 2036 2047	anti-biotic
+T105	Reason 2178 2195;2196 2201	fevers at home of 103.8
+T106	Drug 6369 6400	third generation cephalosporins
+T107	Drug 7330 7338	CONTRAST
+T109	Drug 8399 8407	CONTRAST
+T111	Drug 11293 11303	gentamicin
+T112	Reason 11070 11113	Gram negative septicemia due to cholangitis
+T113	Route 11341 11343	po
+T114	Reason 12553 12560	h/o CAD
+T115	Drug 12593 12605	beta blocker
+T116	Reason 12907 12910	ARF
+T117	Reason 13043 13055	Coagulopathy
+T118	Drug 13071 13080	vitamin K
+T119	Route 13938 13948	Sublingual
+R65	Reason-Drug Arg1:T112 Arg2:T111
+R66	Reason-Drug Arg1:T114 Arg2:T115
+R67	Reason-Drug Arg1:T117 Arg2:T118
+R69	Reason-Drug Arg1:T105 Arg2:T34	
+R70	Reason-Drug Arg1:T112 Arg2:T15	
+R71	Route-Drug Arg1:T113 Arg2:T31	
+R72	Reason-Drug Arg1:T112 Arg2:T31	
+R73	Reason-Drug Arg1:T114 Arg2:T45	
+R74	Reason-Drug Arg1:T114 Arg2:T103	
+T120	ADE 12662 12674	bump in LFTs
+R75	ADE-Drug Arg1:T120 Arg2:T103	
+R76	Reason-Drug Arg1:T76 Arg2:T55	
+R77	Reason-Drug Arg1:T116 Arg2:T77	
+R78	Route-Drug Arg1:T119 Arg2:T12	
+T65	Route 1159 1161	IV
+R36	Route-Drug Arg1:T65 Arg2:T63	
+T68	Route 1183 1185	IV
+R39	Route-Drug Arg1:T68 Arg2:T66	
+T70	Route 2503 2505	iv
+T102	Route 2519 2521	iv
+R40	Route-Drug Arg1:T70 Arg2:T101	
+R63	Route-Drug Arg1:T102 Arg2:T71	
+T108	Route 7327 7329	IV
+R64	Route-Drug Arg1:T108 Arg2:T107	
+T110	Route 8396 8398	IV
+R68	Route-Drug Arg1:T110 Arg2:T109	
+T121	Drug 3070 3076	O2 sat

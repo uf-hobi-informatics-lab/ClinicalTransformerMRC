@@ -1,0 +1,611 @@
+Admission Date:  [**2137-10-7**]              Discharge Date:   [**2137-10-31**]
+
+Date of Birth:  [**2061-8-17**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Lasix / Diuril / Keflex / Iodine
+
+Attending:[**First Name3 (LF) 2712**]
+Chief Complaint:
+Dyspnea, Renal Failure, anemia, fluid overload
+
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+
+
+History of Present Illness:
+76 year old female with h/o IPF on chronic prednisone, COPD with
+trach, CHF, mechanical mitral valve, pacemaker, and anemia who
+presents with several days of worsening dysypnea, peripheral
+edema, and fatigue. She reports difficulty walking very short
+distances due to SOB and lightheadness frequently. She reports
+[**2-28**] pillow orthopnea that remains unchanged from baseline. She
+reports frequent productive cough that occasionally is bloody,
+last bloody sputum was this morning. She reports frequency of
+cough and sputum production is same as baseline. She believes
+she has had an unknown amount of weight gain.  Peripheral edema
+fluctuates in severity. She denies changes in bowel habits and
+denies changes in urination. She denies changes in appetite,
+denies fever, chills, chest pain, nausea, vomiting, abdominal
+pain, melena, and BRBPR.She denies sick contacts and recent
+travel.
+
+In the ED, labs were significant for Hct 14, INR 10, creatinine
+2.1.  Had peripheral edema on exam.  She was ordered for 2 units
+PRBCs (not given due to difficult crossmatch), crossmatched 4
+units. Also given 5mg po vitamin K.  She was not given lasix or
+FFP.  Most recent vitals 85 113/49 23 100% 5L.
+.
+In the MICU, she was noted to be short of breath and had brown,
+guaiac positive stool.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats,denies headache, sinus
+tenderness, rhinorrhea or congestion.Denies chest pain, chest
+pressure, palpitations, or weakness. Denies nausea, vomiting,
+diarrhea, constipation, abdominal pain, or changes in bowel
+habits. Denies dysuria, frequency, or urgency. Denies
+arthralgias or myalgias.
+
+Past Medical History:
+- s/p mechanical mitral valve repair [**2125**]
+-sinus node dysfunction s/p DDD pacemaker placement [**2125**]
+- atrial flutter s/p ablation [**2-/2132**] and cardioversion [**11-3**]
+- congestive heart failure, Last echo [**2137-9-12**] LVEF= 40-45%
+Moderate to severe [3+] tricuspid regurgitation
+- chronic obstructive pulmonary disease: 4LO2 trach at home at
+rest
+- idiopathic pulmonary fibrosis on chronic prednisone
+- chronic kidney disease; baseline creatinine 1.3-1.6 on [**2137-9-18**]
+UreaN-40* Creat-1.1
+- anemia due to mechanical valve and chronic kidney disease
+- hypertension
+- hypercholesterolemia
+- hypothyroidism
+- meniere??????s disease (HOH)
+- spinal arthritis
+- breast cancer radical mastectomy right breast [**2095**]. Partial
+left [**2097**].
+- s/p hysterectomy [**2101**]
+- s/p nasal embolization for refractory epistaxis [**6-30**]
+
+
+Social History:
+-smoked 36 years, quit in [**2111**].
+-denies alcohol use.
+-no IVDU.
+-requires assistance with all ADLs and IADLs
+-uses walker at baseline.
+-housekeeper 2x /week in past.
+-peapod for groceries.
+-HHA twice a week and for assitance with showers.
+-husband does [**Name2 (NI) 14994**].
+-Husband [**Name (NI) 9102**] [**Name (NI) **] [**Telephone/Fax (1) 15153**]
+
+Family History:
+Father had polymyositis and coronary artery disease; mother had
+metastatic bone cancer. She has several cousins with breast
+cancer.
+
+
+Physical Exam:
+Vitals: T:98.3 BP:119/51 P:86 R:13  SpO2:100%
+General: Alert, oriented, short of breath, difficulty finishing
+sentences
+HEENT: Sclera anicteric,pale conjuctiva, no tenderness,
+increased pigmentation bilateral cheeks, dry oral mucosa,
+oropharynx clear, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: tachycardia, normal S1 loud mechanical S2, no rubs,no
+gallops
+Lungs: slight use of accessory muscles,decreased breath sounds
+bilaterally L>R, crackles in R Lung, large healed scar on R
+chest in mammary region from radical mastectomy
+Abdomen:refused
+GU: foley
+Rectal: refused
+Ext: cap refill <2 sec, +2 pitting edema upper and lower
+extremities
+
+
+Pertinent Results:
+[**2137-10-7**] 02:24PM   WBC-13.6*# RBC-1.49*# HGB-4.6*# HCT-14.2*#
+MCV-95 MCH-30.6 MCHC-32.1 RDW-17.5*
+[**2137-10-7**] 02:24PM   PLT COUNT-240#
+[**2137-10-7**] 02:24PM   NEUTS-92.1* LYMPHS-4.3* MONOS-2.0 EOS-1.4
+BASOS-0.1
+[**2137-10-7**] 02:24PM   PT-86.1* PTT-53.0* INR(PT)-10.0*
+[**2137-10-7**] 02:24PM   GLUCOSE-254* UREA N-72* CREAT-2.1* SODIUM-138
+POTASSIUM-5.4* CHLORIDE-97 TOTAL CO2-29 ANION GAP-17
+[**2137-10-7**] 02:24PM   cTropnT-0.13*
+[**2137-10-7**] 03:20PM   IRON-13*
+[**2137-10-7**] 03:20PM   calTIBC-329 HAPTOGLOB-122 FERRITIN-64 TRF-253
+[**2137-10-7**] 03:20PM   CK-MB-3 proBNP-1495*
+[**2137-10-7**] 03:20PM   ALT(SGPT)-20 AST(SGOT)-23 LD(LDH)-405*
+CK(CPK)-48 ALK PHOS-48 TOT BILI-0.3
+[**2137-10-7**] 08:36PM   RET MAN-15.1*
+[**2137-10-7**] 10:03PM URINE  RBC-0 WBC-1 BACTERIA-NONE YEAST-NONE
+EPI-0
+[**2137-10-7**] 10:03PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0
+LEUK-NEG
+[**2137-10-7**] 10:03PM URINE  OSMOLAL-335
+[**2137-10-7**] 10:03PM URINE  HOURS-RANDOM UREA N-451 CREAT-71
+SODIUM-39 POTASSIUM-44 CHLORIDE-29
+.
+Day of Discharge:
+WBC   RBC   Hgb   Hct MCV MCH MCHC RDW Plt Ct
+11.4* 3.32* 9.7* 30.1* 91 29.3 32.3 16.7* 169
+.
+   PT    PTT     INR(PT)
+  20.4* 47.3*     1.9
+.
+Glucose UreaN Creat  Na   K     Cl HCO3 AnGap
+  87      76* 1.7*  152  3.1* 109*  28   18
+.
+Anemia work-up
+retic: 6.6
+calTIBC Hapto Ferritn TRF
+ 329     122    64    253
+.
+LFTs:
+ALT AST     LD(LDH) CK(CPK) AlkPhos Amylase TotBili DirBili
+ 30   28                      72      492*    0.4
+.
+TFTs
+TSH: 12
+FT4: 1.1
+
+Images:
+[**10-7**] Chest AP: Low lung volumes with known idiopathic pulmonary
+fibrosis. While a subtle superimposed acute consolidation in the
+lung bases is difficult to exclude, it would be highly
+coincidental and is felt less likely with the increased opacity
+likely due to crowding.
+
+CXR ([**10-8**]):
+FINDINGS: As compared to the previous radiograph, there is no
+relevant
+change. Status post sternotomy, status post valvular
+replacement. The
+external and internal pacemaker with leads are visible.
+Unchanged evidence of a right basal opacity with a predominantly
+reticular pattern, that might, in part be, fibrotic.  These are
+likely to be related to the known history of idiopathic
+pulmonary fibrosis. There is no evidence of fluid overload on
+the current image. No pleural effusions. No parenchymal
+opacities have newly occurred.
+.
+CT Torso: [**10-27**]
+IMPRESSION:
+1. Emphysema and pulmonary fibrosis with mild bibasilar
+consolidations, worse on the right than the left, likely
+reflecting atelectasis, although
+superimposed pneumonia cannot be excluded.
+2. Status post right mastectomy.
+3. Cholelithiasis in a nondistended gallbladder with mild wall
+edema/pericholecystic fluid likely reflects either CHF or
+hypoproteinemia.
+4. Diverticulosis without diverticulitis.
+5. No evidence of intra-abdominal free air or organized fluid
+collection.
+6. Indistinct pancreatic head; correlate with pancreatic enzymes
+if clinical concern for pancreatitis.
+.
+RUQ US [**10-25**]
+1. Sludge and stones in the gallbladder neck without other
+findings to
+suggest acute cholecystitis. If there is continued clinical
+concern, a HIDA scan may be more definitive in the exclusion of
+acute cholecystitis.
+2. Dilated hepatic veins consistent with diastolic dysfunction
+.
+CT Head [**10-20**]
+1. No acute intracranial abnormality.
+2. Small vessel ischemic disease and diffuse cerebral atrophy.
+
+.
+Pathology:
+Bronchial lavage:
+  ATYPICAL.
+  Atypical squamous cells.
+  Bronchial cells and inflammatory cells.
+.
+Colonic polyp, distal ascending/proximal transverse (biopsy):
+1.  Fragments of adenoma with focal high grade dysplasia.
+.
+Micro:
+[**2137-10-28**] 2:47 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool.
+
+                            **FINAL REPORT [**2137-10-29**]**
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2137-10-29**]):
+      Reported to and read back by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 15154**] @ 0550 ON
+[**2137-10-29**].
+      CLOSTRIDIUM DIFFICILE.
+         FECES POSITIVE FOR C. DIFFICILE TOXIN BY EIA.
+[**2137-10-27**] 2:27 am SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT [**2137-10-29**]**
+
+   GRAM STAIN (Final [**2137-10-27**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      3+  (5-10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE DIPLOCOCCI.
+      1+    (<1 per 1000X FIELD):   BUDDING YEAST WITH
+PSEUDOHYPHAE.
+      SMEAR REVIEWED; RESULTS CONFIRMED.
+
+   RESPIRATORY CULTURE (Final [**2137-10-29**]):
+      MODERATE GROWTH Commensal Respiratory Flora.
+
+[**2137-10-27**] 1:09 am URINE      Source: Catheter.
+
+                            **FINAL REPORT [**2137-10-28**]**
+
+   URINE CULTURE (Final [**2137-10-28**]):
+      YEAST.    ~7000/ML.
+
+
+Brief Hospital Course:
+76 y.o woman with PMH of IPF,COPD,anemia, mechanical mitral
+valve,and pacemaker presents with worsening dyspnea, acute renal
+failure, and fluid overload.
+
+#. Anemia: On admission hemoglobin of 4.6 and hematocrit of 14.2
+from a
+hgb 10 and hct 33.1 within the last several weeks. Hemolysis
+labs negative, and rectal exam showed guiac positive brown
+stool. Her anemia was believed to be secondary to a GI bleed.
+She was transfused 4 units total with appropriate hct response,
+and her hct/hgb ramined stable. She underwent EGD/colonoscopy
+which showed esophageal and fundal varices and a large polyp in
+the colon, concerning for malignancy which was believed to be
+the source of bleeding.  On biopsy, this lesion was found to be
+an adenoma with high grade dysplasia. Gastroenterology believed
+that it would be possible to perform a transluminal resection
+but that the procedure would have high risk of perforation and
+death. After a goals of care discussion with the [**Hospital 228**]
+health care proxy, [**Name (NI) **] [**Name (NI) 15155**], and the gastroenterology team
+it was decided that though the adenoma is high risk for
+malignancy, she will likely succumb to her severe pulmonary
+disease in the next 1-5 years and removal of the mass is not in
+line with her goals of care. She was started on nadolol for
+esophageal varaces.
+OUTPATIENT ISSUES:
+-- Obtain 2x weekly HCTs and transfuse for HCT <21
+-- Continue Fe supplementation and epo administration
+.
+#. Hypoxemic respiratory failure: The patient presented on 5L
+trans-trach from a baseline of 4L at home in the setting of
+known IPF, COPD, and chronic heart failure.  Her dyspnea was
+attributed to anemia vs fluid overload from CHF, and remained
+stable in-house and gradually improved upon discharge from the
+ICU.  There was low suspicion for a COPD or IPF exacerbation.
+She was given IV Torsemide for diuresis with her packed red cell
+transfusions, and her home Bumex was held in-house.  Her home
+prednisone and nebulizers were continued in-house.  Related to
+her shortness of breath, she occassionally coughed up "blood
+balls", which she attributed to bloodly mucous originating at
+her catheter site.  These were inconsistent, and associated with
+epistaxis, and we believed that there was a component of bloody
+post-nasal drip contributing, exacerbated by the fact that she
+was on a heparin gtt for her heart valve.  The total blood loss
+from these episodes was essentially non-contributory.  On the
+floor, she continued to be dyspneic at times.  She was found to
+have evidence of a RUL HAP, so she was started empirically on
+vancomycin and cefepime. She developed progressive respiratory
+distress and returned the MICU where she was intubated. She
+underwent broncheoalveolar lavage which was culture negative and
+her antibiotics were discontinued on [**10-23**]. She continued to be
+intermittently diuresed but it was stopped when her creatinine
+bumped from 1.8 to 2.7. She was extubated and returned to the
+medical floor with o2 sats 95% on 2LNC The thought is that her
+respiratory distress was likely due to a mucus plug and
+pulmonary edema. After two days on the medical floor, she pulled
+out a nasogastric tube which had been used for tubefeeds,
+aspirated and developed respiratory distress with hypoxia and
+acidemia. She was transferred to the MICU for a third time where
+she was again intubated. Out of concern for HCAP the pt was
+started on vanc/[**Last Name (un) 2830**]. Due to increasing wbc and decreased stool
+output there was also concern for c.diff, which ultimately was
+positive, and the pt was started on flagyl/PO vanc. The pt's
+respiratory status improved and she was successfully extubated.
+Vancomycin was discontinued on [**10-30**] with plan to complete a
+total of 8d of meropenem.
+OUTPATIENT ISSUES:
+-- Continue meropenem thru [**11-3**].
+-- Ongoing discussion regarding replacement of transtracheal
+catheter.
+.
+#Clostridium Difficile: The pt was found to have a rising WBC,
+episodes of hypotension and decreased stool output. She was
+empirically started on IV flagyl and PO vanco which were
+continued when stool culture was positive for c.diff. Pt had
+subsequent decreased in WBC to normal with improvement in loose
+stools.
+OUTPATIENT ISSUES:
+-- Plan to complete PO vancomycin 125mg PO Q6hrs as well as
+Flagyl 500mg Q8hrs; end date [**11-9**].
+.
+#Anticoagulation: Patient anticoagulated due to presence of
+mechanical valve. Patient presented with an INR of 10 for
+unclear reasons.  She received 5mg PO Vit K, and her INR
+down-trended to the sub-therapeutic range and she was started on
+a Heparin gtt for her mechanical mitral valve.  She experienced
+epistaxis and coughed up bloody mucus in the setting of a
+slightly supratherapeutic PTT which resolved with decreasing her
+Heparin gtt.  She was kept on a heparin drip for bridging on the
+medicine floor.  When the decision was made to pursue
+endomucosal resection of her adenoma, her warfarin was
+discontinued, however given this was put on hold, the pt was
+restarted on coumadin [**10-29**]. At time of discharge patient
+remained on hep gtt as well as coumadin 3mg daily; INR on day of
+discharge 1.9
+OUTPATIENT ISSUES:
+-- COntinue hep gtt and coumadin until INR therapeutic (2.5 -
+3.5).
+.
+#Volume Status/Acute Renal Failure. Patient with oscillating
+renal function in house. Peak   Cr 2.8 from a baseline of ~1.4,
+likely secondary to hypovolemia as well as renal hypoperfusion
+[**2-27**] anemia.  Urine lytes showed were consistent with
+hypovolemia. Initially Bumex was held and she was given IV
+hydration. Creatinine increased from 1.8-2.7 in the setting of
+diuresis (as above) and bumex was held. During hospital stay
+patient was intermittently diuresised and prior to discharge
+restarted on PO Bumex 5mg daily with creatinine of 1.7. Weight
+at time of discharge: 62.4kg ; sating >95% on 5L NC.
+OUTPATIENT ISSUES:
+-- Pleae continue Bumex 5mg PO daily; monitor weights daily as
+well as renal function; may consider increasing bumex to [**Hospital1 **] or
+transitioning to IV if weight increases >3lb
+.
+# Esophageal Varices. Newly diagnosed. Patient placed on nadolol
+10mg daily.
+.
+# Hypertension. Patient largely hypotensive to normotensive in
+house. Decision made to hold home amlodipine 5mg daily as well
+as spironolactone 50mg [**Hospital1 **] at time of discharge.
+OUTPATIENT ISSUES:
+-- Close hemodynamic monitoring; plan to re-initiate
+anti-hypertensives if needed.
+.
+# Pulmonary fibrosis. Patient with transtracheal O2 catheter as
+well as use of chronic steriods as an outpatient. During 1st
+intubation transtracheal cath was removed. In house patient
+received stress dose steriods which were weanted to home
+prednisone 10mg daily at time of discharge.
+OUTPATIENT ISSUES:
+-- Continue chronic prednisone; consider need for PCP [**Name9 (PRE) **]
+[**Name9 (PRE) **] Continue discussion re replacement of transtracheal cath
+.
+# Hypernatremia. Patient noted to be intermittently
+hypernatremic when NPO/intubated. Received free water boluses
+thru NGT as well as IV D5 with improvement. Na at time of
+discharge 152
+OUTPATIENT
+-- Continue monitoring of electrolytes; encourage PO intake and
+adminster D5W if needed (however by cautious in setting of known
+diastolic CHF).
+
+# Goals of Care: On [**2137-10-25**] a goals of care discussion was held
+with the patient's HCP [**Name (NI) **] [**Name (NI) 15155**]. The decision was made to
+forgo aggressive management of the colonic adenoma as her life
+expectancy with idiopathic pulmonary fibrosis (which she has
+suffered with for ~8 years) is now less than 5 years and likely
+less than one. The family wanted the patient to remain full code
+and to have aggressive management of her pulmonary disease.
+
+# Code: Full
+# HCP [**Name (NI) **] [**Name (NI) 15155**] [**Telephone/Fax (1) 15156**]
+.
+.
+TRANSITIONAL ISSUES
+===================
+Health Care Associated Pneumonia treatment
+-- Continue on meropenem for planned 8d course, end date [**11-3**]
+.
+C. Difficile infection
+-- Continue on flagyl and PO vanc for planned 10d course; end
+date: [**11-9**]
+.
+Congestive Heart Failure
+-- Continue PO Bumex 5mg daily; monitor weights as well as renal
+function with weekly chem 10 panel
+.
+Mitral Valve Replacement; goal INR 2.5 - 3.5
+-- Continue hep gtt until bridged with coumadin, 3mg daily, to a
+therapeutic INR
+.
+Colonic Polyp; GI bleed
+-- Please check twice weekly hematocrit check with plan to
+transfuse if <24
+.
+Arrythmia
+-- Restarting home dofetilide on discharge; primary cardiologist
+aware.
+.
+Hypernatremia
+-- Patient with improved PO intake in days leading up to
+discharge however sodiums borderine in 140s-150s. Please monitor
+closely to ensure patient does not need additional free water to
+correction of electrolyte abnormality.
+.
+PCP [**Name Initial (PRE) **]:
+[**Month (only) 116**] consider starting PCP prophylaxis given chronic steroid use.
+ Discussed with the patient's pulmonologist, [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].  Patient
+has been on it in the past, but when she was on higher doses of
+PO steroids (~20 mg) chronically.
+
+Left kidney mass was seen on CT abdomen which is new since [**2134**]
+and will need follow up ultrasound and monitoring.
+
+Medications on Admission:
+1.amlodipine 5 mg PO DAILY
+2.fexofenadine 60 mg Tablet PO BID
+3.levothyroxine 112 mcg Tablet PO DAILY
+4.omeprazole 20 mg Capsule, Delayed Release PO BID
+5.multivitamin  One Tablet PO DAILY
+6.tiotropium bromide 18 mcg Capsule, w/Inhalation Device One Cap
+Inhalation DAILY
+7.atorvastatin 20 mg Tablet One Tablet PO DAILY
+8.docusate sodium 100 mg Capsule One Capsule PO BID
+9.dofetilide 125 mcg Capsule One Capsule PO Q12H
+10.albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Two
+Puff Inhalation Q4H (every 4 hours)PRN dyspnea.
+11.cholecalciferol (vitamin D3) 1,000 unit Tablet Two Tablet PO
+DAILY 12.fluticasone 110 mcg/Actuation Aerosol Two Puff
+Inhalation [**Hospital1 **] 13.morphine 15 mg Tablet Extended Release One
+Tablet
+14.morphine 10 mg/5 mL Solution [**1-28**] PO Q4H PRN dyspnea.
+15.calcium carbonate 200 mg calcium (500 mg) Tablet [**Hospital1 **]
+16.warfarin 5 mg One Tablet PO 4X/WEEK ([**Doctor First Name **],MO,WE,FR).
+17.warfarin 2 mg One Tablet PO 3X/WEEK (TU,TH,SA).
+18.Epogen 20,000 unit/mL One Injection once a week.
+19.guaifenesin 600 mg Tablet Extended Release One
+Tablet Extended Release PO twice a day.
+20.bumetanide 5 mg Tablet [**Hospital1 **]
+21.prednisone 10 mg Tablet Sig: Please follow attached taper
+instructions. Tablet PO once a day: On [**8-9**], take 40mg (4
+tablets once daily). On [**8-11**], take 30mg (3 tablets once
+daily). On [**8-14**], take 20mg (two tablets once daily). On
+[**9-26**] and onwards, take 10mg per day (one tablet once daily).
+22.ferrous sulfate 325 mg (65 mg iron) One Tablet PO once a day.
+23.spironolactone 50mg [**Hospital1 **] added [**2137-10-5**]
+
+Discharge Medications:
+1. Outpatient Lab Work
+Please obtain twice weekly hematocrits, INR (INR goal 2.5 - 3.5)
+2. Outpatient Lab Work
+Please obtain twice weekly chemistry panels (sodium, potassium,
+chloride, bicarb, BUN, creatinine, mag, calcium, phosp) to
+monitor for hypernatremia and chronic kidney insufficiency
+3. bumetanide 1 mg Tablet Sig: Five (5) Tablet PO once a day.
+4. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush
+Temporary Central Access-ICU: Flush with 10mL Normal Saline
+daily and PRN.
+5. warfarin 1 mg Tablet Sig: Three (3) Tablet PO Once Daily at 4
+PM: goal inr 2.5 - 3.5.
+6. vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours): TO END [**2137-11-9**].
+7. prednisone 10 mg Tablet Sig: One (1) Tablet PO once a day.
+8. fexofenadine 60 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+9. levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO once a
+day.
+10. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO twice a day.
+11. multivitamin     Capsule Sig: One (1) Capsule PO once a day.
+
+12. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1)  Inhalation once a day.
+13. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+
+14. dofetilide 125 mcg Capsule Sig: One (1) Capsule PO twice a
+day.
+15. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Two (2)  Inhalation every four (4) hours as needed for shortness
+of breath or wheezing.
+16. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: One (1)
+Tablet PO once a day.
+17. fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+18. morphine 15 mg Tablet Extended Release Sig: One (1) Tablet
+Extended Release PO once a day as needed for pain: hold for
+sedation, RR< 12.
+19. morphine 10 mg/5 mL Solution Sig: [**1-28**]  PO every four (4)
+hours as needed for shortness of breath or wheezing.
+20. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable
+Sig: One (1) Tablet, Chewable PO twice a day.
+21. Epogen 20,000 unit/mL Solution Sig: One (1)  Injection once
+a week: Please administer on Monday.
+22. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1)
+Tablet PO once a day.
+23. metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H
+(every 8 hours): TO END [**2137-11-9**].
+24. heparin (porcine) in D5W  Intravenous
+25. nadolol 20 mg Tablet Sig: 0.5 Tablet PO once a day.
+26. meropenem 500 mg Recon Soln Sig: Five Hundred (500) mg
+Intravenous every eight (8) hours for 3 days: TO END [**2137-11-3**].
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 459**] for the Aged - MACU
+
+Discharge Diagnosis:
+GI bleed secondary to colonic lesion
+Health care associated pneumonia
+Acute on chronic kidney insufficiency
+COPD
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+Dear Ms [**Known lastname **] it was a pleasure taking care of you.
+
+You were admitted to [**Hospital1 18**] for evaluation of GI bleed and while
+in house you developed respiratory compromise requiring
+intubation.
+.
+Regarding the GI bleed, you were seen by our team of GI doctors
+who performed a colonscopy. During the procedure a colonic
+lesion was seen and a plan was devised to proceed for excisional
+biopsy. You were transfused RBCs as needed and your blood counts
+were monitored closely. After discussion with your family the
+decision to undergo biopsy was deferred to the outpatient
+setting.
+.
+While in house your breathing became labored on several
+occassions which required intubation twice. The cause of the
+distress included aspiration and possible pneumonia. You were
+started on antibiotics with a plan to complete an 8d course.
+Your transtracheal catheter was removed with plan to discuss
+replacement as an outpatient. At time of discharge you were
+oxygenating well using supplemental oxygen delivered by nasal
+cannula.
+
+Also you were noted to have an infection in your GI tract and
+were started on antiobiotics to eradicate this bacteria.
+
+Prior to discharge you were feeling much improved and the
+decision was made to transition to a nursing facility/rehab
+where you can work to optimize strength, mobility and nutrition.
+.
+CHANGES TO YOUR MEDICATIONS:
+START 10mg Nadolol daily for gastric varices
+CONTINUE MEROPENEM until [**2137-11-3**]
+CONTINUE VANCOMYCIN AND FLAGYL until [**2137-11-9**]
+STOP SPIRONOLACTONE and AMLODIPINE until told otherwise
+CHANGE COUMADIN to 3mg daily (goal INR 2.5 to 3.5)
+CHANGE BUMEX to 5mg daily (previously 5mg twice a day)
+
+Again it was a pleasure taking care of you. Please contact with
+any questions or concerns.
+
+Followup Instructions:
+Department: WEST [**Hospital 2002**] CLINIC
+When: TUESDAY [**2137-11-26**] at 8:45 AM
+With: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 3020**]
+Building: De [**Hospital1 **] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **]
+Campus: WEST     Best Parking: [**Street Address(1) 592**] Garage
+
+
+

@@ -1,0 +1,202 @@
+T1	Drug 1795 1801	BIAXIN
+T2	Drug 648 654	Ceftin
+T3	Drug 1803 1815	TETRACYCLINE
+T4	Drug 780 785;785 791	Solu- Medrol
+T5	Strength 2073 2079	150 mg
+T6	Frequency 2089 2094;2095 2102	twice per day
+T7	Route 2080 2088	by mouth
+T8	Drug 2066 2071;2071 2072	Zanta c
+T9	Drug 1943 1950	Atacand
+T10	Strength 1951 1955	8 mg
+T11	Frequency 1965 1969;1970 1977	once per day
+T12	Route 1956 1964	by mouth
+T13	Drug 6296 6303	Tylenol
+T14	Drug 1817 1823	XOLAIR
+T15	Drug 5786 5794	Dilaudid
+T16	Drug 2204 2210	Ambien
+T17	Strength 2211 2217	2.5 mg
+T19	Drug 2328 2335	Topamax
+T20	Strength 2336 2341	50 mg
+T21	Frequency 2351 2355;2356 2363	once per day
+T22	Route 2342 2350	by mouth
+T23	Drug 6175 6183	Dilaudid
+T24	Strength 6184 6188;6189 6196	2 mg to 4 mg
+T25	Frequency 6206 6210;6211 6218	once per day
+T26	Route 6197 6205	by mouth
+T27	Drug 1825 1834	OXYCONTIN
+T28	Drug 6051 6058	Atacand
+T29	Strength 6059 6063	8 mg
+T30	Route 6064 6072	by mouth
+T31	Drug 5924 5930	Celexa
+T32	Strength 5931 5936	10 mg
+T33	Frequency 5946 5950;5951 5958	once per day
+T34	Route 5937 5945	by mouth
+T35	Drug 5799 5805	Motrin
+T36	Drug 2472 2478	Ceftin
+T37	Strength 2479 2485	500 mg
+T38	Frequency 2495 2500;2501 2508	twice per day
+T39	Route 2486 2494	by mouth
+T40	Drug 1836 1844	ETODOLAC
+T41	Drug 6324 6333	Albuterol
+T42	Drug 1846 1861	PSEUDOEPHEDRINE
+T43	Drug 1716 1724	BETADINE
+T44	Drug 2107 2116	Singulair
+T45	Strength 2117 2122	10 mg
+T46	Frequency 2132 2136;2137 2144	once per day
+T47	Route 2123 2131	by mouth
+T48	Drug 1982 1988	Celexa
+T49	Strength 1989 1994	10 mg
+T50	Frequency 2004 2008;2009 2016	once per day
+T51	Route 1995 2003	by mouth
+T52	Drug 2241 2248	Nasonex
+T53	Drug 5963 5969	Zantac
+T54	Strength 5970 5976	150 mg
+T55	Frequency 5986 5991;5992 5999	twice per day
+T56	Route 5977 5985	by mouth
+T57	Drug 2374 2381	Uniphyl
+T58	Strength 2382 2388	400 mg
+T59	Frequency 2398 2403;2404 2411	twice per day
+T60	Route 2389 2397	by mouth
+T61	Drug 6090 6099	Pulmicort
+T62	Form 6100 6109	nebulizer
+T63	Frequency 6110 6121;6122 6129	three times per day
+T64	Drug 1867 1878	GUAIFENESIN
+T65	Drug 5582 5589	Toradol
+T66	Drug 6223 6229	Motrin
+T67	Strength 6230 6236	600 mg
+T68	Frequency 6246 6257;6258 6265	three times per day
+T69	Route 6237 6245	by mouth
+T70	Drug 1747 1758	AMOXICILLIN
+T71	Drug 1760 1769	AUGMENTIN
+T72	Drug 4703 4708;4708 4714	Solu- Medrol
+T73	Drug 2021 2030	Pulmicort
+T74	Frequency 2042 2053;2054 2061	three times per day
+T75	Form 2031 2041	nebulizers
+T76	Drug 2279 2288	Verapamil
+T77	Strength 2289 2295	280 mg
+T78	Frequency 2305 2309;2310 2317	once per day
+T79	Route 2296 2304	by mouth
+T80	Drug 1771 1784	CIPROFLOXACIN
+T81	Drug 1905 1914	Albuterol
+T82	Form 1915 1924	nebulizer
+T83	Frequency 1925 1930;1931 1938	twice per day
+T84	Drug 6004 6016	Theophylline
+T85	Strength 6017 6023	400 mg
+T86	Frequency 6033 6038;6039 6046	twice per day
+T87	Route 6024 6032	by mouth
+T88	Drug 1726 1738	ERYTHROMYCIN
+T89	Drug 6134 6140	Colace
+T90	Strength 6141 6147	100 mg
+T91	Frequency 6157 6162;6163 6170	twice per day
+T92	Route 6148 6156	by mouth
+T93	Drug 5881 5890	Verapamil
+T94	Strength 5891 5897	280 mg
+T95	Frequency 5907 5911;5912 5919	once per day
+T96	Route 5898 5906	by mouth
+T97	Drug 1786 1793	VASOTEC
+T99	Drug 460 467	steroid
+T100	Reason 661 693	positive urinary tract infection
+T101	Strength 770 773;774 776	125 mg
+T102	Reason 827 833;834 846	asthma exacerbation
+T103	Drug 908 922	gamma globulin
+T104	Route 863 874	Perm-A-Cath
+T105	Drug 1740 1745	SULFA
+T106	Drug 2149 2163	Gamma globulin
+T107	Form 2164 2172	infusion
+T108	Dosage 2173 2181	84 grams
+T109	Frequency 2182 2199	every three weeks
+T110	Dosage 2249 2250	2
+T111	Form 2251 2258	squirts
+T112	Frequency 2259 2268	as needed
+T113	Reason 5590 5593;5594 5609	for pain management
+T114	Reason 5806 5814;5815 5825	for pain management
+T115	Frequency 6073 6085	once per day
+T116	Duration 6267 6276;6277 6284	for three    days
+T117	Frequency 6304 6313	as needed
+T118	Frequency 6334 6343	as needed
+R1	Strength-Drug Arg1:T5 Arg2:T8
+R2	Frequency-Drug Arg1:T6 Arg2:T8
+R3	Route-Drug Arg1:T7 Arg2:T8
+R4	Strength-Drug Arg1:T10 Arg2:T9
+R5	Frequency-Drug Arg1:T11 Arg2:T9
+R6	Route-Drug Arg1:T12 Arg2:T9
+R7	Strength-Drug Arg1:T17 Arg2:T16
+R9	Strength-Drug Arg1:T20 Arg2:T19
+R10	Frequency-Drug Arg1:T21 Arg2:T19
+R11	Route-Drug Arg1:T22 Arg2:T19
+R12	Strength-Drug Arg1:T24 Arg2:T23
+R13	Frequency-Drug Arg1:T25 Arg2:T23
+R14	Route-Drug Arg1:T26 Arg2:T23
+R15	Strength-Drug Arg1:T29 Arg2:T28
+R16	Route-Drug Arg1:T30 Arg2:T28
+R17	Strength-Drug Arg1:T32 Arg2:T31
+R18	Frequency-Drug Arg1:T33 Arg2:T31
+R19	Route-Drug Arg1:T34 Arg2:T31
+R20	Strength-Drug Arg1:T37 Arg2:T36
+R21	Frequency-Drug Arg1:T38 Arg2:T36
+R22	Route-Drug Arg1:T39 Arg2:T36
+R23	Strength-Drug Arg1:T45 Arg2:T44
+R24	Frequency-Drug Arg1:T46 Arg2:T44
+R25	Route-Drug Arg1:T47 Arg2:T44
+R26	Strength-Drug Arg1:T49 Arg2:T48
+R27	Frequency-Drug Arg1:T50 Arg2:T48
+R28	Route-Drug Arg1:T51 Arg2:T48
+R29	Strength-Drug Arg1:T54 Arg2:T53
+R30	Frequency-Drug Arg1:T55 Arg2:T53
+R31	Route-Drug Arg1:T56 Arg2:T53
+R32	Strength-Drug Arg1:T58 Arg2:T57
+R33	Frequency-Drug Arg1:T59 Arg2:T57
+R34	Route-Drug Arg1:T60 Arg2:T57
+R35	Form-Drug Arg1:T62 Arg2:T61
+R36	Frequency-Drug Arg1:T63 Arg2:T61
+R37	Strength-Drug Arg1:T67 Arg2:T66
+R38	Frequency-Drug Arg1:T68 Arg2:T66
+R39	Route-Drug Arg1:T69 Arg2:T66
+R40	Frequency-Drug Arg1:T74 Arg2:T73
+R41	Form-Drug Arg1:T75 Arg2:T73
+R42	Strength-Drug Arg1:T77 Arg2:T76
+R43	Frequency-Drug Arg1:T78 Arg2:T76
+R44	Route-Drug Arg1:T79 Arg2:T76
+R45	Form-Drug Arg1:T82 Arg2:T81
+R46	Frequency-Drug Arg1:T83 Arg2:T81
+R47	Strength-Drug Arg1:T85 Arg2:T84
+R48	Frequency-Drug Arg1:T86 Arg2:T84
+R49	Route-Drug Arg1:T87 Arg2:T84
+R50	Strength-Drug Arg1:T90 Arg2:T89
+R51	Frequency-Drug Arg1:T91 Arg2:T89
+R52	Route-Drug Arg1:T92 Arg2:T89
+R53	Strength-Drug Arg1:T94 Arg2:T93
+R54	Frequency-Drug Arg1:T95 Arg2:T93
+R55	Route-Drug Arg1:T96 Arg2:T93
+R56	Reason-Drug Arg1:T100 Arg2:T2
+R57	Strength-Drug Arg1:T101 Arg2:T4
+R58	Reason-Drug Arg1:T102 Arg2:T4
+R59	Route-Drug Arg1:T104 Arg2:T103
+R60	Frequency-Drug Arg1:T109 Arg2:T106
+R61	Dosage-Drug Arg1:T108 Arg2:T106
+R62	Form-Drug Arg1:T107 Arg2:T106
+R63	Frequency-Drug Arg1:T112 Arg2:T52
+R64	Form-Drug Arg1:T111 Arg2:T52
+R65	Dosage-Drug Arg1:T110 Arg2:T52
+R66	Reason-Drug Arg1:T113 Arg2:T65
+R67	Reason-Drug Arg1:T114 Arg2:T35
+R68	Reason-Drug Arg1:T114 Arg2:T15
+R69	Frequency-Drug Arg1:T115 Arg2:T28
+R70	Duration-Drug Arg1:T116 Arg2:T66
+R71	Frequency-Drug Arg1:T118 Arg2:T41
+R72	Frequency-Drug Arg1:T117 Arg2:T13
+T119	Drug 947 952;953 963	local anesthetic
+T120	Drug 1459 1466	steroid
+T121	ADE 1475 1496	myopathy of the spine
+T122	Frequency 2227 2236	as needed
+T124	Drug 4457 4467	antibiotic
+T125	Drug 4850 4861	antibiotics
+T126	Dosage 450 459	high-dose
+R73	ADE-Drug Arg1:T121 Arg2:T120
+R74	Frequency-Drug Arg1:T38 Arg2:T36	
+T98	Duration 2509 2522;2523 2536	(for the past    two weeks)
+R75	Duration-Drug Arg1:T98 Arg2:T36	
+R76	Dosage-Drug Arg1:T126 Arg2:T99	
+T18	Route 2218 2226	by mouth
+R8	Route-Drug Arg1:T18 Arg2:T16	
+R77	Frequency-Drug Arg1:T122 Arg2:T16	

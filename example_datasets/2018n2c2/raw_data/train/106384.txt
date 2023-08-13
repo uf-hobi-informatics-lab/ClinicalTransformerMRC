@@ -1,0 +1,281 @@
+Admission Date:  [**2151-1-25**]              Discharge Date:   [**2151-1-27**]
+
+Date of Birth:  [**2077-10-24**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2736**]
+Chief Complaint:
+chest pain, hypotension
+
+Major Surgical or Invasive Procedure:
+Stress MIBI test
+
+
+History of Present Illness:
+73 year old patient of Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 11493**] with a history of
+rheumatic heart disease with moderate MR [**First Name (Titles) **] [**Last Name (Titles) **], PAF (on
+coumadin), hypertension who has a history of vague chest pain.
+She was admitted to [**Location (un) **] back in [**Month (only) 359**] and ruled out.
+Stress on [**2150-11-9**] exercised for 4 minutes on [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] protocol
+to a heart rate of 98.  She experienced no chest pain and had no
+significant ST-T wave changes.  Nuclear images did show a
+posterolateral reversible defect in addition to a small anterior
+apical defect. She was seen last week by Dr. [**Last Name (STitle) 11493**] in the office
+for evaluation of near syncope and given an event monitor. Today
+she went to the [**Location (un) **] ER due to increasing chest pain over the
+past week with associated weakness. No significant findings on
+event monitor per [**Doctor Last Name 11493**]. Per patient, she has had symptoms of
+left shoulder pain radiating down her left arm and up left jaw
+for many years and all previous work-up has been negative.
+However, in past month, she has developed a new type of chest
+discomfort over entire chest and associated with nausea and
+feeling fatigued and lightheaded. No palps, no SOB, no LOC, no
+association with any activity. She has 4 episodes a day lasting
+about 5 minutes. Nothing make it better or worse and they occur
+irregardless of activity.
+.
+Upon arrival to [**Location (un) **] ER, INR 3.3. EKG without acute findings
+of ischemia. She received SLNTG X3 with no effect. Nitro gtt
+started and CP free after 30 min. Then, 45 min later developed
+hypotension to 84/36, pt asymptomatic -> nitro gtt stopped, 500
+of NS, then 1L NS bolus. SBP in mid80's and she was transferred
+to [**Hospital1 18**].
+.
+On route to [**Hospital1 18**], SBP dropped again->500 cc NS given. SBP
+dropped to 47/26 -> started dopamine 20 mcg in ambulance. BP
+rose to 110-130s within 5 minutes. NO chest pain, palps, SOB
+during this, but did feel more fatigued.
+.
+In CCU, afebrile, 111/64, 62, 100%2LNC. She reports feeling
+fatigued, but no other symptoms of CP, palp, SOB, LHD,
+dizzyness. At baseline, she can climb 2 flights of stairs and
+now feels slightly more fatigued than usual.
+.
+ROS remarkable for intermittent right eye loss of vision "like
+blind pulled down" for past month, occasional tingling and
+numbess of right face for at least 6 years (prior to stroke).
++PND, sleeps with 2 pillows, no LE swelling, no pleuritic CP,
+recent illnesses, bladder/bowel changes.
+
+
+Past Medical History:
+- HTN
+- hyperlipidemia
+- PAF: on coumadin, started propafenone 2 years ago which has
+kept her in sinus
+- Hx of rheumatic fever: MR/MS [**Name13 (STitle) **] per Dr. [**Last Name (STitle) 11493**] note, no
+significant valvular disease
+- GERD
+- Stroke: 6 years ago with recovery of right hand function
+- thyroidectomy due to goiter
+- colon cancer s/p surgery and chemotherapy
+
+
+Social History:
+Social history is significant for the absence of current tobacco
+use. There is no history of alcohol abuse.
+
+Family History:
+There is family history of premature coronary artery disease or
+sudden death in brother who died of MI age 51.
+Father: stroke, lung ca, HTN, MI
+
+
+Physical Exam:
+VS 96.0 104/56 62 17 99% 2LNC
+Gen: WDWN middle aged female in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+Neck: Supple with JVP of 8 cm; no carotid bruits
+CV: RR, normal S1, S2. I/VI systolic murmur at apex. No thrills,
+lifts. No S3 or S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+Abd: Soft, NTND. No HSM or tenderness.
+Ext: trace pitting edema; faint DP pulses bilaterally
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+
+Pertinent Results:
+EKG demonstrated sinus rhythm, 60bpm, nl axis, PR 200 msec, no
+ST or TW changes compared to earlier in day. PR from OSH EKG
+TELEMETRY demonstrated: normal rhythm,
+2D-ECHOCARDIOGRAM: Per patient, she had an echo 1 week prior
+which was reportedly normal
+ETT: Per Dr. [**Last Name (STitle) 11493**] notes: [**2150-11-9**]. 4 minutes on [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+protocol to a heart rate of 98.  She experienced no chest pain
+and had no significant ST-T wave changes.  Nuclear images did
+show a posterolateral reversible defect in addition to a small
+anterior apical defect.
+
+CXR:  In comparison with the study of [**1-25**], the patient has
+taken a
+better inspiration.  The cardiac silhouette is within normal
+limits with mild prominence of the ascending aorta that would
+reflect aortic stenosis or hypertension.
+
+Pertinent labs on discharge:
+[**2151-1-27**] WBC-3.9* RBC-3.93* Hgb-12.1 Hct-36.0 MCV-92 MCH-30.8
+MCHC-33.6 RDW-13.7 Plt Ct-149*
+[**2151-1-27**] PT-16.9* PTT-31.5 INR(PT)-1.5*
+[**2151-1-26**] PT-32.5* PTT-38.3* INR(PT)-3.4*
+[**2151-1-25**] PT-31.8* PTT-37.7* INR(PT)-3.3* ->given 5mg PO vit K
+[**2151-1-26**] TSH-2.9 Free T4-1.3
+[**2151-1-26**] %HbA1c-6.1*
+[**2151-1-26**] Triglyc-107 HDL-40 CHOL/HD-3.3 LDLcalc-70
+
+Brief Hospital Course:
+Patient is a 73 y/o F hx PAF on coumadin, HTN, bradycardia and
+first degree AVB now presents with chest pressure and
+lightheadedness
+
+CAD: Patient has no known diagnosis of CAD, and cardiac cath
+from [**2148**] from [**Hospital3 2568**] had clean coronary arteries.  She ruled
+out for an MI here and had a stress stress P - MIBI which
+revealed no perfusion defects and an LVEF of 65%. Recent stress
+test per OSH cardiologist notes echo done last week per Dr.
+[**Last Name (STitle) 11493**] no valve abnormalites. Prior report of MS/MR incorrect.
+She has been having these symptoms for the past month and her
+cardiologist felt that there may be a component of near syncope
+[**3-13**] bradycardia as opposed to CAD. However, her symptoms were
+relieved with nitro. NO EKG changes. [**Hospital3 **] cath report from
+[**2148**] show clean coronary arteries.  Given negative stress,
+recent cath that was negative, reportedly normal echo a decision
+was made not to cath the patient.  Beta blocker, aspirin, statin
+were continued.  Her coumadin was held as an inpatient as she
+was supratherapeutic, this drifted down to INR 1.5 upon
+discharge, she was discharged with a lovenox bridge.  A1C 6.1%.
+LDL 70, HDL 40, Total 131, Trig 107.
+
+Chest Pain: 2 weeks at most 30 min at a time, no assoc w/
+exerction, not reproduced w/ palpation dull in nature, several
+times per day. Supratherapeutic on couadmin and not pleurtic
+making PE less likely, no tenderness on exam so costochondritis
+is less likely, cannot rule out coronary vasospasm.  Patient
+should also have a workup for GERD as an outpatient.
+
+Rhythm: Hx of paroxsysmal afib,  continue anticoagulation and
+propafenone.  INR 1.4 on discharge, discharged with lovenox
+bridge with close follow up with her primary cardiologist.
+
+Hypotension: patient was hypotensive in the setting of nitro
+gtt, transiently on a dopamine drip for a SBP in the 40s
+although the patient was mentating at the time and there is a
+question as to whether the pressure was actually as low as
+recorded.  Hypotension did not return and the patient was
+normotensive with the addition of her home antihypertensive
+regimen.
+
+Loss of vision/curtain like loss of vision in R eye on waking
+for the past month.  temporal arteritis given ESR of 7 and
+normal physical exam.  Normal carotids on exam, possibly TIA,
+the patient should have carotid ultrasounds as an outpatient at
+an early date if she has not already had them.  She is on
+aspirin and anticoagulated.
+
+Medications on Admission:
+propafenone 150 mg b.i.d.
+aspirin 325 mg
+Cozaar 50 mg
+Levoxyl 112 mcg daily
+Prilosec 20 mg
+Zocor 20 mg
+metoprolol 50 mg b.i.d.
+Coumadin 3 mg daily
+
+Discharge Medications:
+1. Losartan 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Propafenone 150 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+4. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+5. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+6. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+7. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO DAILY16 (Once
+Daily at 16).
+9. Enoxaparin 80 mg/0.8 mL Syringe Sig: One (1) syringe
+Subcutaneous [**Hospital1 **] (2 times a day): Continue taking lovenox
+injections until INR is between [**3-14**] on coumadin as directed by
+your primary care physician.
+[**Name Initial (NameIs) **]:*14 syringes* Refills:*1*
+10. Outpatient Lab Work
+Please check PT/INR on [**2151-1-29**] at Dr.[**Name (NI) 62094**] Office and
+every week thereafter. Please follow up results with him to
+decide on coumadin dosing and how long to continue with the
+lovenox injections
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) **] Nursing Services
+
+Discharge Diagnosis:
+Atypical chest pain
+
+Secondary diagnoses:
+Paroxysmal atrial fibrillation on coumadin
+Hypertension
+Hyperlipidemia
+History of rheumatic fever
+
+
+Discharge Condition:
+Good, chest pain free, ambulating
+
+
+Discharge Instructions:
+You were admitted for workup of chest pain, lightheadness. You
+had a full workup of your heart which was negative for any
+problems with your heart as the reason for your symptoms. This
+was including a stress test that was negative for any
+significant cardiac abnormalities.
+
+While you were here, your coumadin level (INR) was found to be
+low.  We have started you on a medication, Lovenox, to be
+injected twice daily. This should be continued until your INR
+becomes therapeutic at a level of [**3-14**]. You should follow up with
+your primary care doctor this week for regular checks of your
+INR to determine when you can stop this medication. Your first
+lab check for this will be in 2 days from discharge on [**2151-1-29**]
+where you should get your INR checked before your annual
+physical exam with Dr. [**Last Name (STitle) 27542**].
+
+Please take all your medications as prescribed and keep all
+follow up appointments. We made no changes to your medications
+except the addition of the lovenox injections twice a day until
+your INR is within the 2-3 range on your coumadin and Dr.
+[**Last Name (STitle) 27542**] gives the okay for you to stop the lovenox
+injections.
+
+If you develop chest pain, increased shortness of breath, severe
+weakness or any other symptom that concerns you, please call
+your doctor [**First Name (Titles) **] [**Last Name (Titles) 10836**] to the Emergency Room as soon as
+possible.
+
+Followup Instructions:
+Please keep the following appointment:
+Provider [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] Phone:[**Telephone/Fax (1) 16827**] Date/Time:[**2151-2-15**] 9:40
+
+It is very important that you follow up with your primary care
+doctor, Dr. [**Last Name (STitle) 27542**], this week to check your coumadin level
+(INR). Please keep your follow up appointment on [**2151-1-29**] with
+Dr. [**Last Name (STitle) 27542**]. At this visit, and weekly afterwards, he will
+need to follow up on your INR level to decide how long you
+should continue on the lovenox injections.
+
+
+

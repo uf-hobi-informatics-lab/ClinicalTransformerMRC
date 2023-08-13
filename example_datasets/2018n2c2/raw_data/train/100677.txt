@@ -1,0 +1,290 @@
+Admission Date:  [**2181-7-12**]              Discharge Date:   [**2181-7-17**]
+
+Date of Birth:  [**2126-6-27**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5552**]
+Chief Complaint:
+right flank pain
+
+Major Surgical or Invasive Procedure:
+right sided thoracocentesis (-2200 mL fluid)
+
+History of Present Illness:
+55 YO female with metastatic adenocarcinoma with unknown primary
+on C2D1 gemcitabine/irinotecan and with malignant pleural
+effusions presented to [**Hospital1 18**] ED with severe R flank pain,
+radiating to chest.   Patient reports pain was [**9-19**] in
+severity.  She was otherwise asymptomatic, denying shortness of
+breath or coughing at presentation.  She experienced R flank
+pain previously for which she had applied a fentanyl patch with
+adequate pain control.  Of note, she has known lytic bone
+lesions to the R pelvis. She reports that she had not applied
+the fentanyl patch to the R flank recently as pain control had
+improved.
+.
+The patient's cancer initially presented as syncope and further
+work-up revealed
+pericardial/pleural effusion [**2181-5-10**].  The pleural fluid
+revealed metastatic adenocarcinoma and the pericardial fluid a
+well-differentiated mucinous adenocarcinoma. The patient has had
+3 recent admissions: on [**5-16**] for dyspnea and [**6-6**] and [**6-14**] for
+dizziness/syncope.  On admission [**6-6**], the patient had
+pericardiocentesis and balloon pericardiotomy with removal of
+520 cc of bloody fluid. [**Month/Year (2) **] on [**6-4**] showed stable loculated
+pericardial effusion. [**Month/Year (2) **] [**6-11**] (EF>55%) suggestive of
+pericardial constriction, although unchanged in size since prior
+admission.
+.
+During admission on [**6-14**], cardiology team saw the patient and
+recommended trial of low dose beta blocker for rate control; a
+pericardial window was not performed because the effusion was
+determined to be stable and symptoms thought to be related to
+dehydration and tachycardia.  Subsequent CT of the torso did not
+reveal a primary source but did reveal bony lytic lesions in the
+right ischium and bilateral ilia concerning for metastatic
+disease. She also underwent an upper and lower endoscopy without
+evidence of a  primary lesion. Considering pericardial and
+pleural fluid pathology, a subtle gastric or pancreatico/biliary
+tumor was suspected and the patient was started on
+gemcitabine/irinotecan.  Her last dose of chemotherapy was
+yesterday 8/2 per patient. Chemotherapy was begun on [**2181-6-15**].
+.
+Pt. presented to ED with tachycardia above baseline in 130s to
+140s.  Patient has h/o resting tachycardia 115-120.
+Electrocardiogram in the ED showed sinus tachycardia unchanged
+from prior.  Radiography showed reaccumulation of pulmonary
+edema and CT of the chest showed no acute changes.  A
+therapeutic thoracentesis was performed of 2200 mL of dark
+maroon right pleural fluid.  In addition, after the procedure,
+the patient complained of increased shortness of breath
+increased from baseline, patient's O2 saturation was in the 90s.
+ The patient was administered Lasix (40 mg X1) in the ED with
+subsequent improvement of respiratory function.  In ED patient
+was administered vancomycin 1 g, ondasetron 2 mg twice, and 4
+doses of morphine sulfate 4 mg. Patient was admitt-ed to ICU for
+pain control and management of tachycardia in setting of pleural
+effusions.
+
+
+Past Medical History:
+- Tuberculosis treated in [**2145**] with normal chest x-ray at [**Hospital1 2025**] in
+[**2162**].
+- GYN: G2 P2. Tubal ligation [**2156**]. Stopped menstruating at age
+50, normal pap's per patient
+- Hypertension.
+- History of mild asthma, inhalers not used for several years.
+- normal mammogram less than one year ago.
+- normal colonoscopy 2/[**2178**].
+- recent pericardial effusion/tamponade
+- right pleural effusion
+- large common femoral DVT
+- adenocarcinoma of unclear primary
+
+
+Social History:
+She works as a nursing assistant. Lives with her husband, who
+keeps very early hours, working at the [**Location (un) **] food market.
+Children are 18 and 19.
+
+
+Family History:
+Her father died of stomach cancer at age 72. Mother died of
+colon cancer at age 63. She is the 10th of 13 children. She has
+lost 3 siblings to motor vehicle accidents.
+
+Physical Exam:
+Gen: NAD
+HEENT: Sclera anicteric. PERRL, EOMI. No oral lesions
+Neck: Supple
+CV: Tachycardic, regular, no M/R/G.
+Chest: Bilaterally decreased LL BS L>R to [**12-13**] way up. R sided
+ronchi.
+ABD: Soft, NND. No HSM or tenderness.  Soft subcutaneous firm
+mobile nodule in midepigastrium (at site of Lovenox injection
+sites per patient).
+Ext: No cyanosis or edema
+Neuro: non-focal, CN II-XII grossly intact, moves all
+extremities well
+Skin: no rash or petechiae noted
+
+
+Pertinent Results:
+[**2181-7-11**] 11:40AM   GRAN CT-1260*
+[**2181-7-11**] 11:40AM   PLT COUNT-521*
+[**2181-7-11**] 11:40AM   WBC-2.7* RBC-4.04* HGB-13.2 HCT-37.9 MCV-94
+MCH-32.5* MCHC-34.7 RDW-17.4*
+[**2181-7-12**] 12:17PM   LACTATE-1.7
+[**2181-7-12**] 12:22PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL
+MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-OCCASIONAL
+[**2181-7-12**] 12:22PM   ALT(SGPT)-98* AST(SGOT)-52* CK(CPK)-63 ALK
+PHOS-148* AMYLASE-30 TOT BILI-0.8
+[**2181-7-12**] 12:22PM   LIPASE-74*
+[**2181-7-12**] 12:22PM   GLUCOSE-119* UREA N-5* CREAT-0.6 SODIUM-137
+POTASSIUM-4.5 CHLORIDE-102 TOTAL CO2-24 ANION GAP-16
+.
+C.dif - negative
+Blood and urine cx: no growth
+.
+CXR ([**7-11**]):
+IMPRESSION:  Increased size of now large right pleural effusion
+and minimally increased now moderate left pleural effusion.
+.
+Chest CT ([**7-12**])
+IMPRESSION:
+1.  Diffuse peribronchovascular opacity with air bronchograms
+involving the right middle and right lower lobes post
+thoracentesis.  Given the rapid evolution of this process,
+findings likely represent pulmonary edema. Pulmonary hemorrhage
+or multifocal pneumonia is less likely.  Close interval
+radiographic follow up recommended.
+2.  Large left pleural effusion with adjacent compressive
+atelectasis.
+3.  Minimal pericardial fluid.
+4.  No pneumothorax or reaccumulation of the right pleural
+effusion.
+
+CXR ([**7-15**]):
+IMPRESSION:
+1.  Unchanged moderate left-sided pleural effusion.
+2.  Patchy opacities at the right lung base have cleared since
+the prior
+examination, likely representing pulmonary edema given its rapid
+improvement;
+mild persistent residual pulmonary edema.
+
+
+Brief Hospital Course:
+The patient is a 55 y/o woman with metastatic adenocarcinoma of
+unknown primary (likely discrete gastric or pancreaticobiliary
+ca) admitted with tachycardia in the setting of malignant
+pericardial effusions and uncontrolled pain.
+.
+# Malignant Effusion - The patient presented for outpatient
+therapeutic thoracocentesis [**7-12**] (done for worsening SOB) with
+removal of 2200 mL R sided fluid, followed by excruciating pain
+at thoracotomy site. The dyspnea after her procedure was likely
+a result of reexpansion edema, which was reflected on her chest
+X-ray. She was initially treated in the intensive care unit with
+oxygen therapy as well as IV Lasix and closely monitored. No
+infectious etiology was identified. It was decided that
+thoracentesis was not warranted as her pleural effusion was
+significantly smaller after the procedure. Her respiratory
+distress rapidly improved with diuresis and she was soon back to
+baseline (requires home O2).
+.
+# Mucinous adenocarcinoma of unknown primary: The patient began
+chemotherapy on [**2181-6-15**] with Gemzar and CPT-11 for metastatic
+disease. She did not experience significant nausea during
+hospitalization, but continued to have diarrhea related to her
+chemotherapy which was treated with Lomotil.
+.
+# DVT/PE - She is s/p IVC filter placement on [**2181-5-30**] s/p DVT of
+common femoral. She was continued on lovenox therapy.
+.
+# Pain - Patient had known lytic lesions, with high risk of
+pathologic fracture. Bilateral hip xray on [**6-12**] demonstrated no
+progression of known metastatic lesions. Orthopedics were
+consulted on prior admisson and believe chemotherapy should
+proceed prior to any radiation therapy to the hip. Also with
+pain at site of thoracentesis. She was treated with home
+fentanyl 25mcg patch for pain control, home lidocaine patch with
+morphine for breakthrough pain
+
+
+Medications on Admission:
+1. Enoxaparin 60 mg/0.6 mL Syringe Sig: One (1) injection
+Subcutaneous Q12H (every 12 hours).
+2. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+3. Fentanyl 25 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr
+Transdermal Q72H (every 72 hours).
+4. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for pain.
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+
+times a day).
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO ONCE (Once) for 1
+doses.
+7. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO three
+
+times a day.
+8. Zofran 4 mg Tablet Sig: One (1) Tablet PO every six (6) hours
+
+as needed for nausea.
+
+
+Discharge Medications:
+1. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+2. Fentanyl 25 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr
+Transdermal Q72H (every 72 hours).
+3. Ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO every 6-8 hours as needed.
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. Enoxaparin 60 mg/0.6 mL Syringe Sig: Sixty (60) mg
+Subcutaneous Q12H (every 12 hours).
+6. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+as needed for Nausea.
+7. Megace Oral 40 mg/mL Suspension Sig: Ten (10) mL PO once a
+day.
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+9. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+10. Lomotil 2.5-0.025 mg Tablet Sig: One (1) Tablet PO every [**3-16**]
+hours as needed for diarrhea.
+11. Nebulizer for home use
+Please provide one nebulizer and associated equipment.
+12. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1)
+nebulizer treatment Inhalation every six (6) hours.
+Disp:*120 mL* Refills:*2*
+13. Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulizer
+treatment Inhalation every six (6) hours.
+Disp:*120 mL* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Physician [**Name9 (PRE) **] [**Name9 (PRE) **]
+
+Discharge Diagnosis:
+1.) Malignant pleural effusion
+2.) Mucinous adenocarcinoma of unknown primary
+
+
+Discharge Condition:
+fair
+
+
+Discharge Instructions:
+You were in the hospital because of pain and difficulty
+breathing after your thoracocentesis (or pleural fluid
+drainage).  You were given medications to help get fluid off of
+your lungs and pain medications.
+When you leave the hospital, continue to take all medications as
+prescribed and keep all health care appointments.
+If you feel worsening shortness of breath, chest pain, fever,
+chills, abdominal pain or if your condition worsens in any way,
+seek immediate medical attention.
+
+Followup Instructions:
+You have the following appointments with Dr.[**Name (NI) 8949**] office
+on [**7-25**].
+
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 593**], MD Phone:[**Telephone/Fax (1) 22**]
+Date/Time:[**2181-7-25**] 9:30
+Provider: [**Name10 (NameIs) **] [**Name11 (NameIs) 13145**], MD Phone:[**Telephone/Fax (1) 22**]
+Date/Time:[**2181-7-25**] 9:30
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4425**], RN Phone:[**Telephone/Fax (1) 22**] Date/Time:[**2181-7-25**]
+10:00
+
+
+

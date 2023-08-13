@@ -1,0 +1,278 @@
+T1	Drug 8845 8853	atenolol
+T2	Strength 8854 8859	50 mg
+T3	Form 8860 8866	Tablet
+T4	Drug 1294 1300	ativan
+T5	Strength 1301 1305	4 mg
+T6	Drug 9560 9573	levetiracetam
+T7	Strength 9574 9580	500 mg
+T8	Form 9601 9607	Tablet
+T9	Route 9608 9610	PO
+T10	Drug 2580 2589	Herceptin
+T11	Drug 9239 9247;9248 9254	docusate sodium
+T12	Strength 9255 9261	100 mg
+T13	Form 9283 9290	Capsule
+T14	Route 9291 9293	PO
+T15	Drug 7321 7327	ativan
+T16	Drug 1307 1316	phenytoin
+T17	Strength 1343 1347	6 mg
+T19	Drug 546 555	Herceptin
+T20	Drug 9636 9649	dexamethasone
+T21	Strength 9650 9654	2 mg
+T22	Form 9671 9678	Tablets
+T23	Dosage 9667 9670	1.5
+T24	Route 9679 9681	PO
+T25	Drug 6437 6446	Herceptin
+T26	Drug 9128 9137	bisacodyl
+T27	Strength 9138 9142	5 mg
+T28	Form 9143 9149;9149 9173	Tablet , Delayed Release (E.C.)
+T29	Drug 9385 9392;9393 9399	insulin lispro
+T30	Drug 6693 6702	phenytoin
+T31	Strength 9795 9799	2 mg
+T32	Form 9816 9822	Tablet
+T33	Dosage 9812 9815	0.5
+T34	Route 9823 9825	PO
+T35	Drug 9781 9794	dexamethasone
+T36	Drug 1720 1728	Decadron
+T38	Drug 8771 8780	Phenytoin
+T39	Strength 8781 8787	100 mg
+T40	Frequency 8788 8791	TID
+T41	Drug 6680 6688	decadron
+T42	Drug 9031 9044	acetaminophen
+T43	Strength 9045 9051	325 mg
+T44	Form 9068 9075	Tablets
+T45	Dosage 9064 9067	1-2
+T46	Route 9076 9078	PO
+T47	Strength 8921 8926	40 mg
+T48	Form 8927 8933;8933 8957	Tablet , Delayed Release (E.C.)
+T49	Drug 8908 8920	pantoprazole
+T50	Drug 10062 10069;10069 10083	heparin , porcine (PF)
+T51	Strength 8806 8810	4 mg
+T52	Frequency 8811 8813;8814 8817	q6 hrs
+T53	Drug 8792 8805	Dexamethasone
+T54	Form 9983 9989	Tablet
+T55	Drug 2531 2540	Taxotere,
+T56	Drug 9707 9720	dexamethasone
+T57	Strength 9721 9725	2 mg
+T58	Form 9746 9752	Tablet
+T59	Route 9753 9755	PO
+T60	Drug 2541 2553	carboplatin,
+T61	Drug 1704 1712	dilantin
+T63	Drug 8702 8708	ativan
+T64	Strength 8709 8715	0.5 mg
+T65	Drug 9851 9858;9859 9868	heparin (porcine)
+T66	Strength 9869 9879;9879 9882	5,000 unit /mL
+T67	Drug 2558 2567	Herceptin
+T68	Drug 9471 9496	phenytoin sodium extended
+T69	Strength 9497 9503	100 mg
+T70	Form 9525 9532	Capsule
+T71	Reason 7350 7361	her seizure
+T72	Reason 8737 8744	anxiety
+T73	Reason 10052 10056	pain
+T74	Drug 521 533	chemotherapy
+T75	Drug 1330 1342	dexamethason
+T76	Drug 6412 6424	chemotherapy
+T77	Dosage 8872 8879	One (1)
+T78	Route 8887 8889	PO
+T79	Frequency 8890 8903	DAILY (Daily)
+T80	Dosage 8963 8966;8967 8970	One (1)
+T81	Route 9002 9004	PO
+T82	Frequency 9005 9026	Q24H (every 24 hours)
+T83	Frequency 9079 9091;9092 9108	Q6H (every 6 hours) as needed
+T84	Reason 9113 9118	fever
+T85	Reason 9119 9123	pain
+T86	Dosage 9179 9186	Two (2)
+T87	Route 9218 9220	PO
+T88	Frequency 9221 9234	DAILY (Daily)
+T89	Dosage 9275 9282	One (1)
+T90	Frequency 9294 9300;9301 9313	BID (2 times a day)
+T91	Drug 9318 9323	senna
+T92	Strength 9324 9330	8.6 mg
+T93	Form 9331 9337	Tablet
+T94	Dosage 9343 9350	One (1)
+T95	Route 9358 9360	PO
+T96	Frequency 9361 9375;9376 9380	BID (2 times a day)
+T97	Strength 9400 9411	100 unit/mL
+T98	Form 9412 9420	Solution
+T99	Dosage 9426 9433	One (1)
+T100	Route 9434 9446	Subcutaneous
+T101	Dosage 9517 9524	One (1)
+T102	Route 9533 9535	PO
+T103	Frequency 9536 9555	TID (3 times a day)
+T104	Dosage 9593 9600	Two (2)
+T105	Frequency 9611 9617;9618 9630	BID (2 times a day)
+T106	Frequency 9682 9687	q6hrs
+T107	Frequency 9756 9761	q6hrs
+T108	Duration 9769 9775	3 days
+T109	Frequency 9826 9831	q6hrs
+T111	Form 9883 9891	Solution
+T112	Dosage 9897 9904	One (1)
+T113	Frequency 9915 9934	TID (3 times a day)
+T114	Route 9905 9914	Injection
+T115	Drug 9940 9969	butalbital-acetaminophen-caff
+T116	Strength 9970 9982	50-325-40 mg
+T117	Route 10015 10017	PO
+T118	Frequency 10018 10047	Q4H (every 4 hours) as needed
+T119	Strength 10084 10094	10 unit/mL
+T120	Form 10095 10102	Syringe
+T121	Dosage 10108 10116	Five (5)
+T122	Route 10120 10131	Intravenous
+T123	Reason 10162 10172	line flush
+T124	Drug 10178 10206	heparin lock flush (porcine)
+T125	Strength 10207 10218	100 unit/mL
+T126	Form 10219 10226	Syringe
+T127	Dosage 10232 10236;10237 10243	Five (5) ML
+T128	Route 10244 10255	Intravenous
+T129	Reason 10286 10298;10299 10303	DE-ACCESSING port
+T130	Drug 11206 11219;11220 11228	narcotic pain medicine
+T131	Drug 11327 11344	Docusate (Colace)
+T132	Drug 11358 11382	narcotic pain medication
+T133	Drug 11553 11573	Dilantin (Phenytoin)
+T134	Reason 11578 11590	anti-seizure
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Form-Drug Arg1:T3 Arg2:T1
+R3	Strength-Drug Arg1:T5 Arg2:T4
+R4	Strength-Drug Arg1:T7 Arg2:T6
+R5	Form-Drug Arg1:T8 Arg2:T6
+R6	Route-Drug Arg1:T9 Arg2:T6
+R7	Strength-Drug Arg1:T12 Arg2:T11
+R8	Form-Drug Arg1:T13 Arg2:T11
+R9	Route-Drug Arg1:T14 Arg2:T11
+R10	Strength-Drug Arg1:T21 Arg2:T20
+R11	Form-Drug Arg1:T22 Arg2:T20
+R12	Dosage-Drug Arg1:T23 Arg2:T20
+R13	Route-Drug Arg1:T24 Arg2:T20
+R14	Strength-Drug Arg1:T27 Arg2:T26
+R15	Form-Drug Arg1:T28 Arg2:T26
+R16	Strength-Drug Arg1:T31 Arg2:T35
+R17	Form-Drug Arg1:T32 Arg2:T35
+R18	Dosage-Drug Arg1:T33 Arg2:T35
+R19	Route-Drug Arg1:T34 Arg2:T35
+R21	Strength-Drug Arg1:T39 Arg2:T38
+R22	Frequency-Drug Arg1:T40 Arg2:T38
+R23	Strength-Drug Arg1:T43 Arg2:T42
+R24	Form-Drug Arg1:T44 Arg2:T42
+R25	Dosage-Drug Arg1:T45 Arg2:T42
+R26	Route-Drug Arg1:T46 Arg2:T42
+R27	Strength-Drug Arg1:T47 Arg2:T49
+R28	Form-Drug Arg1:T48 Arg2:T49
+R29	Strength-Drug Arg1:T51 Arg2:T53
+R30	Frequency-Drug Arg1:T52 Arg2:T53
+R31	Strength-Drug Arg1:T57 Arg2:T56
+R32	Form-Drug Arg1:T58 Arg2:T56
+R33	Route-Drug Arg1:T59 Arg2:T56
+R35	Strength-Drug Arg1:T64 Arg2:T63
+R36	Strength-Drug Arg1:T66 Arg2:T65
+R37	Strength-Drug Arg1:T69 Arg2:T68
+R38	Form-Drug Arg1:T70 Arg2:T68
+R39	Strength-Drug Arg1:T17 Arg2:T75
+R41	Reason-Drug Arg1:T71 Arg2:T15
+R42	Reason-Drug Arg1:T72 Arg2:T63
+R43	Dosage-Drug Arg1:T77 Arg2:T1
+R44	Route-Drug Arg1:T78 Arg2:T1
+R45	Frequency-Drug Arg1:T79 Arg2:T1
+R46	Dosage-Drug Arg1:T80 Arg2:T49
+R47	Route-Drug Arg1:T81 Arg2:T49
+R48	Frequency-Drug Arg1:T82 Arg2:T49
+R49	Frequency-Drug Arg1:T83 Arg2:T42
+R50	Reason-Drug Arg1:T84 Arg2:T42
+R51	Reason-Drug Arg1:T85 Arg2:T42
+R52	Dosage-Drug Arg1:T86 Arg2:T26
+R53	Route-Drug Arg1:T87 Arg2:T26
+R54	Frequency-Drug Arg1:T88 Arg2:T26
+R55	Dosage-Drug Arg1:T89 Arg2:T11
+R56	Frequency-Drug Arg1:T90 Arg2:T11
+R57	Strength-Drug Arg1:T92 Arg2:T91
+R58	Frequency-Drug Arg1:T96 Arg2:T91
+R59	Form-Drug Arg1:T93 Arg2:T91
+R60	Dosage-Drug Arg1:T94 Arg2:T91
+R61	Route-Drug Arg1:T95 Arg2:T91
+R62	Strength-Drug Arg1:T97 Arg2:T29
+R63	Form-Drug Arg1:T98 Arg2:T29
+R64	Dosage-Drug Arg1:T99 Arg2:T29
+R65	Route-Drug Arg1:T100 Arg2:T29
+R66	Dosage-Drug Arg1:T101 Arg2:T68
+R67	Route-Drug Arg1:T102 Arg2:T68
+R68	Frequency-Drug Arg1:T103 Arg2:T68
+R69	Dosage-Drug Arg1:T104 Arg2:T6
+R70	Frequency-Drug Arg1:T105 Arg2:T6
+R71	Frequency-Drug Arg1:T106 Arg2:T20
+R72	Frequency-Drug Arg1:T107 Arg2:T56
+R73	Duration-Drug Arg1:T108 Arg2:T56
+R75	Frequency-Drug Arg1:T109 Arg2:T35
+R76	Dosage-Drug Arg1:T112 Arg2:T65
+R77	Form-Drug Arg1:T111 Arg2:T65
+R78	Route-Drug Arg1:T114 Arg2:T65
+R79	Frequency-Drug Arg1:T113 Arg2:T65
+R80	Strength-Drug Arg1:T116 Arg2:T115
+R81	Form-Drug Arg1:T54 Arg2:T115
+R82	Frequency-Drug Arg1:T118 Arg2:T115
+R83	Route-Drug Arg1:T117 Arg2:T115
+R84	Reason-Drug Arg1:T73 Arg2:T115
+R85	Strength-Drug Arg1:T119 Arg2:T50
+R86	Form-Drug Arg1:T120 Arg2:T50
+R87	Dosage-Drug Arg1:T121 Arg2:T50
+R88	Route-Drug Arg1:T122 Arg2:T50
+R89	Reason-Drug Arg1:T123 Arg2:T50
+R90	Dosage-Drug Arg1:T127 Arg2:T124
+R91	Route-Drug Arg1:T128 Arg2:T124
+R92	Strength-Drug Arg1:T125 Arg2:T124
+R93	Form-Drug Arg1:T126 Arg2:T124
+R94	Reason-Drug Arg1:T129 Arg2:T124
+R95	Reason-Drug Arg1:T134 Arg2:T133
+T135	Drug 11822 11828	Keppra
+T136	Form 10117 10119	ML
+T137	Drug 11475 11482	Motrin,
+T138	Drug 11492 11498	Advil,
+T139	Drug 11483 11491	Aspirin,
+T140	Drug 11503 11512	Ibuprofen
+T141	Reason 1675 1684	agitation
+T142	Dosage 1317 1324	loading
+T143	Drug 2501 2513	chemotherapy
+T144	Reason 6604 6641	Metastatic breast cancer to the brain
+T145	Reason 6642 6649	Seizure
+T146	ADE 7142 7156	Encephalopathy
+T147	Form 8880 8886	Tablet
+T148	Form 8971 9001	Tablet, Delayed Release (E.C.)
+T149	Form 9052 9058	Tablet
+T150	Form 9187 9217	Tablet, Delayed Release (E.C.)
+T151	Form 9262 9269	Capsule
+T152	Form 9351 9357	Tablet
+T153	Frequency 9447 9452	ASDIR
+T154	Form 9504 9511	Capsule
+T155	Form 9581 9587	Tablet
+T156	Form 9655 9661	Tablet
+T157	Form 9726 9732	Tablet
+T158	Dosage 9738 9745	One (1)
+T159	Form 9800 9806	Tablet
+T160	Form 10007 10014	Tablets
+T162	Drug 4196 4205	Phenytoin
+T163	Drug 7520 7524	IVFs
+T165	Frequency 10132 10157	PRN (as needed) as needed
+T166	Frequency 10256 10281	PRN (as needed) as needed
+T167	Drug 11286 11317	over the counter stool softener
+T168	Reason 10784 10788	pain
+R97	Reason-Drug Arg1:T145 Arg2:T30	
+R98	Reason-Drug Arg1:T144 Arg2:T25	
+R99	ADE-Drug Arg1:T146 Arg2:T15	
+R100	Form-Drug Arg1:T147 Arg2:T1	
+R101	Form-Drug Arg1:T148 Arg2:T49	
+R102	Form-Drug Arg1:T149 Arg2:T42	
+R103	Form-Drug Arg1:T150 Arg2:T26	
+R104	Form-Drug Arg1:T151 Arg2:T11	
+R105	Form-Drug Arg1:T152 Arg2:T91	
+R106	Frequency-Drug Arg1:T153 Arg2:T29	
+R107	Form-Drug Arg1:T154 Arg2:T68	
+R108	Form-Drug Arg1:T155 Arg2:T6	
+R109	Form-Drug Arg1:T156 Arg2:T20	
+R111	Form-Drug Arg1:T157 Arg2:T56	
+R112	Dosage-Drug Arg1:T158 Arg2:T56	
+R113	Form-Drug Arg1:T159 Arg2:T35	
+R114	Frequency-Drug Arg1:T165 Arg2:T50	
+R115	Frequency-Drug Arg1:T166 Arg2:T124	
+R20	Dosage-Drug Arg1:T142 Arg2:T16	
+T18	Route 1348 1350	IV
+R34	Route-Drug Arg1:T18 Arg2:T75	
+T37	Route 1713 1715	IV
+R40	Route-Drug Arg1:T37 Arg2:T61	
+T62	Route 1729 1731	IV
+R74	Route-Drug Arg1:T62 Arg2:T36	

@@ -1,0 +1,210 @@
+T1	Drug 169 180	Penicillins
+T2	Drug 183 190	Codeine
+T3	Drug 19164 19172	Decadron
+T4	Strength 19173 19176	4mg
+R1	Strength-Drug Arg1:T4 Arg2:T3
+T5	Frequency 19177 19179	Q6
+R2	Frequency-Drug Arg1:T5 Arg2:T3
+T6	Drug 20840 20848	decadron
+T7	Dosage 20853 20861	tappered
+R3	Dosage-Drug Arg1:T7 Arg2:T6
+T8	Frequency 21067 21070	QID
+R4	Frequency-Drug Arg1:T8 Arg2:T9
+T9	Drug 21075 21082	insulin
+T10	Dosage 21083 21090;21091 21096	sliding scale
+R5	Dosage-Drug Arg1:T10 Arg2:T9
+T11	Drug 21122 21130	steroids
+T12	Drug 21160 21163	IVF
+T13	Reason 21186 21200	poor PO intake
+R6	Reason-Drug Arg1:T13 Arg2:T12
+T14	Drug 21312 21315	PPI
+T15	Reason 21320 21331	prophylaxis
+R7	Reason-Drug Arg1:T15 Arg2:T14
+T16	Route 21432 21434	SQ
+R8	Route-Drug Arg1:T16 Arg2:T17
+T17	Drug 21435 21442	heparin
+T18	Reason 21447 21462	DVT prophylaxis
+R9	Reason-Drug Arg1:T18 Arg2:T17
+T19	Drug 21469 21472	PPI
+T20	Reason 21477 21491	GI prophylaxis
+R10	Reason-Drug Arg1:T20 Arg2:T19
+T21	Drug 21626 21633	Vicodin
+T22	Frequency 21634 21637	prn
+R11	Frequency-Drug Arg1:T22 Arg2:T21
+T23	Drug 21665 21678	acetaminophen
+T24	Strength 21679 21685	325 mg
+R12	Strength-Drug Arg1:T24 Arg2:T23
+T25	Form 21686 21692	Tablet
+R13	Form-Drug Arg1:T25 Arg2:T23
+T26	Dosage 21698 21705	Two (2)
+R14	Dosage-Drug Arg1:T26 Arg2:T23
+T27	Form 21706 21712	Tablet
+R15	Form-Drug Arg1:T27 Arg2:T23
+T28	Route 21713 21715	PO
+R16	Route-Drug Arg1:T28 Arg2:T23
+T29	Frequency 21716 21726;21727 21745	Q6H (every 6 hours) as needed
+R17	Frequency-Drug Arg1:T29 Arg2:T23
+T30	Reason 21750 21754	Pain
+R18	Reason-Drug Arg1:T30 Arg2:T23
+T31	Drug 21759 21772	dexamethasone
+T32	Strength 21773 21777	4 mg
+R19	Strength-Drug Arg1:T32 Arg2:T31
+T33	Form 21778 21784	Tablet
+R20	Form-Drug Arg1:T33 Arg2:T31
+T34	Dosage 21790 21797	One (1)
+R21	Dosage-Drug Arg1:T34 Arg2:T31
+T35	Form 21798 21804	Tablet
+R22	Form-Drug Arg1:T35 Arg2:T31
+T36	Route 21805 21807	PO
+R23	Route-Drug Arg1:T36 Arg2:T31
+T37	Frequency 21808 21813	DAILY
+R24	Frequency-Drug Arg1:T37 Arg2:T31
+T38	Drug 21826 21847	insulin regular human
+T39	Strength 21848 21859	100 unit/mL
+R25	Strength-Drug Arg1:T39 Arg2:T38
+T40	Form 21860 21868	Solution
+R26	Form-Drug Arg1:T40 Arg2:T38
+T41	Dosage 21874 21881	One (1)
+R27	Dosage-Drug Arg1:T41 Arg2:T38
+T42	Form 21882 21891	Injection
+R28	Form-Drug Arg1:T42 Arg2:T38
+T43	Frequency 21892 21897	ASDIR
+R29	Frequency-Drug Arg1:T43 Arg2:T38
+T44	Drug 21916 21933	calcium carbonate
+T45	Strength 21934 21940	200 mg
+R30	Strength-Drug Arg1:T45 Arg2:T44
+T46	Drug 21941 21948	calcium
+T47	Strength 21950 21956	500 mg
+R31	Strength-Drug Arg1:T47 Arg2:T46
+T48	Form 21958 21974	Tablet, Chewable
+R32	Form-Drug Arg1:T48 Arg2:T44
+T49	Dosage 21980 21987	One (1)
+R33	Dosage-Drug Arg1:T49 Arg2:T44
+T50	Form 21988 22004	Tablet, Chewable
+R34	Form-Drug Arg1:T50 Arg2:T44
+T51	Route 22005 22007	PO
+R35	Route-Drug Arg1:T51 Arg2:T44
+T52	Frequency 22008 22037	QID (4 times a day) as needed
+R36	Frequency-Drug Arg1:T52 Arg2:T44
+T53	Reason 22042 22052	Heart burn
+R37	Reason-Drug Arg1:T53 Arg2:T44
+T54	Drug 22057 22070	levetiracetam
+T55	Strength 22071 22077	250 mg
+R38	Strength-Drug Arg1:T55 Arg2:T54
+T56	Form 22078 22084	Tablet
+R39	Form-Drug Arg1:T56 Arg2:T54
+T57	Dosage 22090 22099	Three (3)
+R40	Dosage-Drug Arg1:T57 Arg2:T54
+T58	Form 22100 22106	Tablet
+R41	Form-Drug Arg1:T58 Arg2:T54
+T59	Route 22107 22109	PO
+R42	Route-Drug Arg1:T59 Arg2:T54
+T60	Frequency 22110 22113	BID
+R43	Frequency-Drug Arg1:T60 Arg2:T54
+T61	Drug 22134 22139	senna
+T62	Strength 22140 22146	8.6 mg
+R44	Strength-Drug Arg1:T62 Arg2:T61
+T63	Form 22147 22153	Tablet
+R45	Form-Drug Arg1:T63 Arg2:T61
+T64	Dosage 22159 22166	One (1)
+R46	Dosage-Drug Arg1:T64 Arg2:T61
+T65	Form 22167 22173	Tablet
+R47	Form-Drug Arg1:T65 Arg2:T61
+T66	Route 22174 22176	PO
+R49	Route-Drug Arg1:T66 Arg2:T61
+T67	Frequency 22177 22191;22192 22196	BID (2 times a day)
+R51	Frequency-Drug Arg1:T67 Arg2:T61
+R52	Frequency-Drug Arg1:T67 Arg2:T61
+T68	Drug 22201 22210	oxycodone
+T69	Strength 22211 22215	5 mg
+R53	Strength-Drug Arg1:T69 Arg2:T68
+T70	Form 22216 22222	Tablet
+R54	Form-Drug Arg1:T70 Arg2:T68
+T71	Dosage 22228 22235	One (1)
+R55	Dosage-Drug Arg1:T71 Arg2:T68
+T72	Form 22236 22242	Tablet
+R56	Form-Drug Arg1:T72 Arg2:T68
+T73	Route 22243 22245	PO
+R57	Route-Drug Arg1:T73 Arg2:T68
+T74	Frequency 22246 22258;22259 22275	Q4H (every 4 hours) as needed
+R58	Frequency-Drug Arg1:T74 Arg2:T68
+T75	Reason 22280 22284	pain
+R59	Reason-Drug Arg1:T75 Arg2:T68
+T76	Drug 22289 22301	pantoprazole
+T77	Strength 22302 22307	40 mg
+R60	Strength-Drug Arg1:T77 Arg2:T76
+T78	Form 22308 22331;22332 22338	Tablet, Delayed Release (E.C.)
+R61	Form-Drug Arg1:T78 Arg2:T76
+T79	Dosage 22344 22347;22348 22351	One (1)
+R62	Dosage-Drug Arg1:T79 Arg2:T76
+T80	Form 22352 22375;22376 22382	Tablet, Delayed Release (E.C.)
+R63	Form-Drug Arg1:T80 Arg2:T76
+T81	Route 22383 22385	PO
+R64	Route-Drug Arg1:T81 Arg2:T76
+T82	Frequency 22386 22407	Q24H (every 24 hours)
+R65	Frequency-Drug Arg1:T82 Arg2:T76
+T83	Drug 22412 22427	docusate sodium
+T84	Strength 22428 22434	100 mg
+R66	Strength-Drug Arg1:T84 Arg2:T83
+T85	Form 22435 22442	Capsule
+R67	Form-Drug Arg1:T85 Arg2:T83
+T86	Dosage 22448 22455	One (1)
+R68	Dosage-Drug Arg1:T86 Arg2:T83
+T87	Form 22456 22463	Capsule
+R69	Form-Drug Arg1:T87 Arg2:T83
+T88	Route 22464 22466	PO
+R70	Route-Drug Arg1:T88 Arg2:T83
+T90	Frequency 22467 22473;22474 22486	BID (2 times a day)
+R71	Frequency-Drug Arg1:T90 Arg2:T83
+T91	Drug 22492 22499;22500 22509	heparin (porcine)
+T92	Strength 22510 22523	5,000 unit/mL
+R72	Strength-Drug Arg1:T92 Arg2:T91
+T93	Form 22524 22532	Solution
+R73	Form-Drug Arg1:T93 Arg2:T91
+T94	Dosage 22538 22545	One (1)
+R74	Dosage-Drug Arg1:T94 Arg2:T91
+T95	Form 22546 22555	Injection
+R75	Form-Drug Arg1:T95 Arg2:T91
+T96	Frequency 22556 22559;22560 22575	TID (3 times a day)
+R76	Frequency-Drug Arg1:T96 Arg2:T91
+T97	Drug 22581 22592	Ondansetron
+T98	Strength 22593 22597	4 mg
+R77	Strength-Drug Arg1:T98 Arg2:T97
+T100	Frequency 22601 22608	Q8H:PRN
+R79	Frequency-Drug Arg1:T100 Arg2:T97
+T101	Reason 22609 22615	Nausea
+R80	Reason-Drug Arg1:T101 Arg2:T97
+T102	Drug 22816 22823	steroid
+T103	ADE 22824 22833	psychosis
+R81	ADE-Drug Arg1:T103 Arg2:T102
+T104	Drug 23144 23157	pain medicine
+T105	Drug 23527 23540;23541 23549	narcotic pain medicine
+T106	ADE 23560 23572	constipation
+R82	ADE-Drug Arg1:T106 Arg2:T105
+T107	Drug 23648 23656	Docusate
+T108	Drug 23658 23664	Colace
+T109	Drug 23679 23703	narcotic pain medication
+T110	Drug 23760 23787	anti-inflammatory medicines
+T111	Drug 23796 23802	Motrin
+T112	Drug 23804 23811	Aspirin
+T113	Drug 23813 23818	Advil
+T114	Drug 23824 23833	Ibuprofen
+T115	Drug 23867 23873	Keppra
+T116	Drug 23875 23888	Levetiracetam
+T117	Drug 23972 23990	steroid medication
+T118	Drug 24055 24063	Prilosec
+T119	Drug 24065 24073	Protonix
+T120	Drug 24078 24084	Pepcid
+T121	ADE 24118 24125;24126 24136	stomach irritation
+R83	ADE-Drug Arg1:T121 Arg2:T117
+T122	Drug 24162 24169	steroid
+T123	Reason 3585 3602	carcinoma of lung
+R84	Reason-Drug Arg1:T123 Arg2:T124
+R85	Reason-Drug Arg1:T123 Arg2:T125
+T124	Drug 3660 3669	cisplatin
+T125	Drug 3670 3679	etoposide
+T126	ADE 3811 3813	PE
+R86	ADE-Drug Arg1:T126 Arg2:T127
+T127	Drug 3845 3863	oral contraceptive
+T89	Route 22598 22600	IV
+R48	Route-Drug Arg1:T89 Arg2:T97	

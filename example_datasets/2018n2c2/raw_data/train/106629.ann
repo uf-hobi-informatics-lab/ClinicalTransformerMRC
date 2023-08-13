@@ -1,0 +1,201 @@
+T1	Drug 1000 1009	neurontin
+T2	Drug 1014 1020	ambien
+T3	Drug 1025 1033	baclofen
+T4	Reason 1320 1328	agitated
+R1	Reason-Drug Arg1:T4 Arg2:T5
+R2	Reason-Drug Arg1:T4 Arg2:T6
+R3	Reason-Drug Arg1:T4 Arg2:T7
+R4	Reason-Drug Arg1:T4 Arg2:T8
+T5	Drug 1371 1377	ativan
+T6	Drug 1379 1387	fentanyl
+T7	Drug 1389 1395	haldol
+T8	Drug 1397 1403	versed
+T9	Reason 1423 1432	intubated
+R5	Reason-Drug Arg1:T9 Arg2:T12
+R6	Reason-Drug Arg1:T9 Arg2:T11
+T10	Reason 1437 1446	paralyzed
+R7	Reason-Drug Arg1:T10 Arg2:T12
+R8	Reason-Drug Arg1:T10 Arg2:T11
+T11	Drug 1454 1463	etomidate
+T12	Drug 1465 1480	succinylcholine
+T13	Drug 1494 1504	banana bag
+T14	Drug 1509 1514	ancef
+T15	Drug 1684 1691	Tylenol
+T16	Drug 1693 1700	Lipitor
+T17	Drug 1702 1708	Detrol
+T18	Drug 1829 1838	OxyContin
+T19	Drug 2828 2831	BZD
+T20	Drug 2833 2840	cocaine
+T21	Reason 3024 3033	intubated
+R9	Reason-Drug Arg1:T21 Arg2:T22
+T22	Drug 3051 3059	propofol
+T23	Drug 3408 3416	propofol
+T24	Drug 3451 3460	lorazepam
+T25	Reason 3465 3473	sedation
+R10	Reason-Drug Arg1:T25 Arg2:T24
+T26	Reason 3978 3988	withdrawal
+R11	Reason-Drug Arg1:T26 Arg2:T30
+T27	ADE 4033 4044	oversedated
+R12	ADE-Drug Arg1:T27 Arg2:T28
+R13	ADE-Drug Arg1:T27 Arg2:T29
+T28	Drug 4074 4080	ativan
+T29	Drug 4126 4132	Ativan
+T30	Drug 4149 4155	Haldol
+T31	Drug 435 443	narcotic
+T32	Drug 4368 4373	opoid
+T33	ADE 4573 4581	diahrrea
+R14	ADE-Drug Arg1:T33 Arg2:T35
+T34	ADE 4586 4593	anxiety
+R15	ADE-Drug Arg1:T34 Arg2:T35
+T35	Drug 4650 4655	opoid
+T36	ADE 4656 4665	withdrawl
+R16	ADE-Drug Arg1:T36 Arg2:T35
+T37	Drug 4775 4784	clonidine
+T38	Strength 4785 4790	0.1mg
+R17	Strength-Drug Arg1:T38 Arg2:T37
+T39	Drug 4809 4815	ativan
+T40	Strength 4816 4819	1mg
+R18	Strength-Drug Arg1:T40 Arg2:T39
+T41	Frequency 4820 4823	prn
+R19	Frequency-Drug Arg1:T41 Arg2:T39
+R20	Frequency-Drug Arg1:T41 Arg2:T37
+T42	Drug 5422 5433	hydroxyzine
+T43	Frequency 5434 5437	qid
+R21	Frequency-Drug Arg1:T43 Arg2:T42
+T44	Drug 5438 5447	neurontin
+T45	Strength 5448 5453	400mg
+R22	Strength-Drug Arg1:T45 Arg2:T44
+T46	Frequency 5454 5457	qid
+R23	Frequency-Drug Arg1:T46 Arg2:T44
+T47	Drug 5458 5466	flexeril
+T48	Strength 5467 5470	5mg
+R24	Strength-Drug Arg1:T48 Arg2:T47
+T49	Frequency 5471 5474	tid
+R25	Frequency-Drug Arg1:T49 Arg2:T47
+T50	Drug 5475 5484	clonidine
+T51	Form 5485 5490	patch
+R26	Form-Drug Arg1:T51 Arg2:T50
+T52	Strength 5495 5500	0.1mg
+R27	Strength-Drug Arg1:T52 Arg2:T50
+T53	Frequency 5501 5504	tid
+R28	Frequency-Drug Arg1:T53 Arg2:T50
+T54	Drug 5505 5521	chlordiazepoxide
+T55	Strength 5522 5526	20mg
+R29	Strength-Drug Arg1:T55 Arg2:T54
+T56	Frequency 5527 5530	tid
+R30	Frequency-Drug Arg1:T56 Arg2:T54
+T57	Strength 5548 5552	10mg
+R31	Strength-Drug Arg1:T57 Arg2:T54
+T58	Frequency 5553 5556	qid
+R32	Frequency-Drug Arg1:T58 Arg2:T54
+T59	Drug 5558 5566	baclofen
+T60	Frequency 5567 5570	tid
+R33	Frequency-Drug Arg1:T60 Arg2:T59
+T61	Drug 5590 5600	nabumetone
+T62	Strength 5601 5606	500mg
+R34	Strength-Drug Arg1:T62 Arg2:T61
+T63	Frequency 5607 5610	tid
+R35	Frequency-Drug Arg1:T63 Arg2:T61
+T64	Drug 5611 5617	bentyl
+T65	Strength 5618 5622	20mg
+R36	Strength-Drug Arg1:T65 Arg2:T64
+T66	Frequency 5623 5626	tid
+R37	Frequency-Drug Arg1:T66 Arg2:T64
+T67	Drug 5627 5634	doxepin
+T68	Strength 5635 5640	50 mg
+R38	Strength-Drug Arg1:T68 Arg2:T67
+T69	Frequency 5641 5644	qhs
+R39	Frequency-Drug Arg1:T69 Arg2:T67
+T70	Drug 5645 5651	ambien
+T71	Strength 5652 5656	10mg
+R40	Strength-Drug Arg1:T71 Arg2:T70
+T72	Frequency 5657 5660	qhs
+R41	Frequency-Drug Arg1:T72 Arg2:T70
+T73	Drug 5690 5709	Quetiapine Fumarate
+T74	Strength 5710 5715	25 mg
+R42	Strength-Drug Arg1:T74 Arg2:T73
+T75	Form 5716 5722	Tablet
+R43	Form-Drug Arg1:T75 Arg2:T73
+T76	Dosage 5728 5735	One (1)
+R44	Dosage-Drug Arg1:T76 Arg2:T73
+T77	Form 5736 5742	Tablet
+R45	Form-Drug Arg1:T77 Arg2:T73
+T78	Route 5743 5745	PO
+R46	Route-Drug Arg1:T78 Arg2:T73
+T80	Frequency 5746 5749;5750 5775	BID (2 times a day) as needed
+R48	Frequency-Drug Arg1:T80 Arg2:T73
+T81	Reason 5780 5787	anxiety
+R49	Reason-Drug Arg1:T81 Arg2:T73
+T82	Drug 5834 5843	Lorazepam
+T83	Strength 5844 5848	1 mg
+R50	Strength-Drug Arg1:T83 Arg2:T82
+T84	Form 5849 5855	Tablet
+R51	Form-Drug Arg1:T84 Arg2:T82
+T85	Dosage 5861 5868	One (1)
+R52	Dosage-Drug Arg1:T85 Arg2:T82
+T86	Form 5869 5875	Tablet
+R53	Form-Drug Arg1:T86 Arg2:T82
+T87	Route 5876 5878	PO
+R54	Route-Drug Arg1:T87 Arg2:T82
+T88	Frequency 5879 5881	QD
+R55	Frequency-Drug Arg1:T88 Arg2:T82
+T89	Duration 5885 5890;5891 5895	for 1 days
+R56	Duration-Drug Arg1:T89 Arg2:T82
+T90	Drug 5931 5940	Clonidine
+T91	Drug 594 603	OxyContin
+T92	Strength 5941 5947	0.1 mg
+R57	Strength-Drug Arg1:T92 Arg2:T90
+T93	Form 5948 5954	Tablet
+R58	Form-Drug Arg1:T93 Arg2:T90
+T94	Dosage 5960 5967	One (1)
+R59	Dosage-Drug Arg1:T94 Arg2:T90
+T95	Form 5968 5974	Tablet
+R60	Form-Drug Arg1:T95 Arg2:T90
+T96	Route 5975 5977	PO
+R61	Route-Drug Arg1:T96 Arg2:T90
+T97	Frequency 5978 5986;5987 6005	taper as directed as needed
+R62	Frequency-Drug Arg1:T97 Arg2:T90
+T99	Reason 6010 6016	nausea
+R64	Reason-Drug Arg1:T99 Arg2:T90
+T100	Reason 6017 6025	vomiting
+R65	Reason-Drug Arg1:T100 Arg2:T90
+T101	Reason 6026 6034	diahrrea
+R66	Reason-Drug Arg1:T101 Arg2:T90
+T102	Reason 6035 6042	craving
+R67	Reason-Drug Arg1:T102 Arg2:T90
+T103	Strength 605 614	80-100 mg
+R68	Strength-Drug Arg1:T103 Arg2:T91
+T104	Frequency 615 618	tid
+R69	Frequency-Drug Arg1:T104 Arg2:T91
+T105	Duration 619 630	for ~1 year
+R70	Duration-Drug Arg1:T105 Arg2:T91
+T106	Drug 6299 6307	Narcotic
+T107	ADE 6308 6318	withdrawal
+R71	ADE-Drug Arg1:T107 Arg2:T106
+T108	Drug 6518 6526	narcotic
+T109	ADE 6527 6537	withdrawal
+R72	ADE-Drug Arg1:T109 Arg2:T108
+T110	Drug 6632 6637	benzo
+T111	ADE 6638 6648	withdrawal
+R73	ADE-Drug Arg1:T111 Arg2:T110
+T112	Drug 6810 6819	narcotics
+T113	ADE 6820 6830	withdrawal
+R74	ADE-Drug Arg1:T113 Arg2:T112
+T114	Reason 876 884	restless
+R75	Reason-Drug Arg1:T114 Arg2:T3
+R76	Reason-Drug Arg1:T114 Arg2:T2
+R77	Reason-Drug Arg1:T114 Arg2:T1
+R78	Reason-Drug Arg1:T114 Arg2:T117
+R79	Reason-Drug Arg1:T114 Arg2:T116
+T115	Reason 897 902	sleep
+R80	Reason-Drug Arg1:T115 Arg2:T3
+R81	Reason-Drug Arg1:T115 Arg2:T2
+R82	Reason-Drug Arg1:T115 Arg2:T1
+R83	Reason-Drug Arg1:T115 Arg2:T117
+R84	Reason-Drug Arg1:T115 Arg2:T116
+T116	Drug 978 985	doxepin
+T117	Drug 987 994	librium
+T79	Reason 3038 3045	sedated
+R47	Reason-Drug Arg1:T79 Arg2:T22	
+T98	Reason 5788 5797	agitation
+R63	Reason-Drug Arg1:T98 Arg2:T73	

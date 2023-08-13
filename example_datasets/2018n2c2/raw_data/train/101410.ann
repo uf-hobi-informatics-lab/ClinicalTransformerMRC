@@ -1,0 +1,501 @@
+T1	ADE 10606 10615	confusion
+R1	ADE-Drug Arg1:T1 Arg2:T2
+T2	Drug 10860 10874	benzodiazepine
+T3	Drug 11044 11051	tylenol
+T4	Drug 11056 11065	ibuprofen
+T5	Reason 11075 11084	back pain
+R2	Reason-Drug Arg1:T5 Arg2:T3
+R3	Reason-Drug Arg1:T5 Arg2:T4
+T6	Drug 11237 11246	trazadone
+T7	Strength 11247 11253	100 mg
+R4	Strength-Drug Arg1:T7 Arg2:T6
+T8	Frequency 11254 11262	at night
+R5	Frequency-Drug Arg1:T8 Arg2:T6
+T9	Drug 11275 11286	mirtazepine
+T10	Strength 11287 11292	30 mg
+R6	Strength-Drug Arg1:T10 Arg2:T9
+T11	Frequency 11293 11301	at night
+R7	Frequency-Drug Arg1:T11 Arg2:T9
+T12	Drug 11314 11327	acetominophen
+T13	Strength 11328 11337	325-650mg
+R8	Strength-Drug Arg1:T13 Arg2:T12
+T14	Frequency 11338 11361	every 6 hours as needed
+R9	Frequency-Drug Arg1:T14 Arg2:T12
+T15	Drug 1134 1140	benzos
+T16	Reason 11366 11375	back pain
+R10	Reason-Drug Arg1:T16 Arg2:T12
+T17	Drug 11420 11429	Ibuprofen
+T18	Strength 11430 11435	600mg
+R11	Strength-Drug Arg1:T18 Arg2:T17
+T19	Frequency 11436 11459	every 8 hours as needed
+R12	Frequency-Drug Arg1:T19 Arg2:T17
+T20	Reason 11464 11468;11469 11473	back pain
+R13	Reason-Drug Arg1:T20 Arg2:T17
+T22	Drug 11538 11546	Thiamine
+T23	Drug 11567 11576	Vitamin D
+T24	Drug 11597 11607	Folic acid
+T25	Drug 164 174	sertraline
+T27	Drug 1717 1725	thiamine
+T28	Reason 1730 1749	presumed Wernicke's
+R16	Reason-Drug Arg1:T28 Arg2:T27
+T29	Drug 1802 1810	dopamine
+T30	Drug 1834 1840	Haldol
+T31	ADE 1868 1898	Wernicke Korsakoff's pathology
+R17	ADE-Drug Arg1:T31 Arg2:T30
+T32	Reason 1951 1962	Agoraphobia
+R18	Reason-Drug Arg1:T32 Arg2:T33
+T33	Drug 1985 1995	sertraline
+T34	ADE 2024 2042	serotonin syndrome
+R19	ADE-Drug Arg1:T34 Arg2:T33
+T35	Drug 2045 2054	Methadone
+T36	Reason 2071 2083	opioid detox
+R20	Reason-Drug Arg1:T36 Arg2:T35
+T37	Drug 2388 2397	methadone
+T38	ADE 2914 2922	bruising
+R21	ADE-Drug Arg1:T38 Arg2:T39
+T39	Drug 2928 2935	heparin
+T40	Route 2936 2946	injections
+R22	Route-Drug Arg1:T40 Arg2:T39
+T41	ADE 3455 3463	bruising
+R23	ADE-Drug Arg1:T41 Arg2:T42
+T42	Drug 3469 3476	heparin
+T43	Route 3477 3487	injections
+R24	Route-Drug Arg1:T43 Arg2:T42
+T44	Drug 5686 5694	oxazepam
+T45	Strength 5739 5743	12mg
+R25	Strength-Drug Arg1:T45 Arg2:T47
+T47	Drug 5748 5757	lorazepam
+T48	Strength 5798 5801	5mg
+R27	Strength-Drug Arg1:T48 Arg2:T47
+T50	ADE 5837 5864	benzodiazepine intoxication
+R29	ADE-Drug Arg1:T50 Arg2:T44
+R30	ADE-Drug Arg1:T50 Arg2:T47
+T51	ADE 5900 5921	altered mental status
+R31	ADE-Drug Arg1:T51 Arg2:T44
+R32	ADE-Drug Arg1:T51 Arg2:T47
+T52	Drug 5923 5929	Benzos
+T53	Drug 5956 5963	Zyprexa
+T54	Strength 5985 5989	35mg
+R33	Strength-Drug Arg1:T54 Arg2:T53
+T55	Frequency 5990 5995	daily
+R34	Frequency-Drug Arg1:T55 Arg2:T53
+T56	Drug 6072 6078	folate
+T57	Drug 6080 6092	multivitamin
+T58	Drug 6094 6103	vitamin D
+T59	Drug 6108 6116	thiamine
+T60	Drug 6145 6155	olanzapine
+T61	Strength 6156 6160	5 mg
+R35	Strength-Drug Arg1:T61 Arg2:T60
+T62	Frequency 6161 6164	QAM
+R36	Frequency-Drug Arg1:T62 Arg2:T60
+T63	Strength 6169 6174	15 mg
+R37	Strength-Drug Arg1:T63 Arg2:T60
+T64	Frequency 6175 6178	QPM
+R38	Frequency-Drug Arg1:T64 Arg2:T60
+T65	Drug 6330 6339	trazadone
+T66	Strength 6340 6346	100 mg
+R39	Strength-Drug Arg1:T66 Arg2:T65
+T67	Frequency 6347 6350	QHS
+R40	Frequency-Drug Arg1:T67 Arg2:T65
+T68	Drug 6355 6366	mirtazepine
+T69	Strength 6367 6372	30 mg
+R41	Strength-Drug Arg1:T69 Arg2:T68
+T70	Route 6373 6375	PO
+R42	Route-Drug Arg1:T70 Arg2:T68
+T71	Frequency 6376 6379	QHS
+R43	Frequency-Drug Arg1:T71 Arg2:T68
+T72	Drug 7249 7258	ibuprofen
+T73	Drug 7260 7267	tylenol
+T74	Drug 7272 7281	lidocaine
+T75	Form 7282 7287	patch
+R44	Form-Drug Arg1:T75 Arg2:T74
+T76	Reason 7323 7335	Hypertension
+R45	Reason-Drug Arg1:T76 Arg2:T78
+R46	Reason-Drug Arg1:T76 Arg2:T77
+T77	Drug 7352 7363	propranolol
+T78	Drug 7368 7378	lisinopril
+T79	Reason 7384 7400	Essential tremor
+R47	Reason-Drug Arg1:T79 Arg2:T80
+T80	Drug 7417 7428	proprnaolol
+T81	Reason 7443 7446	CAD
+R48	Reason-Drug Arg1:T81 Arg2:T82
+T82	Drug 7463 7470	aspirin
+T83	Reason 7485 7488	BPH
+R49	Reason-Drug Arg1:T83 Arg2:T84
+T84	Drug 7505 7515	tamsulosin
+T85	Reason 7530 7534	GERD
+R50	Reason-Drug Arg1:T85 Arg2:T86
+T86	Drug 7551 7561	omeprazole
+T87	Drug 7587 7597	Olanzapine
+T88	Strength 7612 7617	30 mg
+R51	Strength-Drug Arg1:T88 Arg2:T87
+T89	Frequency 7618 7623	daily
+R52	Frequency-Drug Arg1:T89 Arg2:T87
+T90	Drug 7801 7808	Aspirin
+T91	Strength 7809 7814	81 mg
+R53	Strength-Drug Arg1:T91 Arg2:T90
+T92	Route 7815 7817	PO
+R54	Route-Drug Arg1:T92 Arg2:T90
+T93	Frequency 7818 7823	DAILY
+R55	Frequency-Drug Arg1:T93 Arg2:T90
+T94	Drug 7840 7862	Fluticasone Propionate
+T95	Route 7863 7868	NASAL
+R56	Route-Drug Arg1:T95 Arg2:T94
+T96	Dosage 7869 7870	2
+R57	Dosage-Drug Arg1:T96 Arg2:T94
+T97	Form 7871 7875	SPRY
+R58	Form-Drug Arg1:T97 Arg2:T94
+T98	Route 7876 7878	NU
+R59	Route-Drug Arg1:T98 Arg2:T94
+T99	Drug 7899 7909	FoLIC Acid
+T100	Strength 7910 7914	1 mg
+R60	Strength-Drug Arg1:T100 Arg2:T99
+T101	Route 7915 7917	PO
+R61	Route-Drug Arg1:T101 Arg2:T99
+T102	Frequency 7918 7923	DAILY
+R62	Frequency-Drug Arg1:T102 Arg2:T99
+T103	Drug 7940 7950	Lisinopril
+T104	Strength 7951 7956	10 mg
+R63	Strength-Drug Arg1:T104 Arg2:T103
+T105	Route 7957 7959	PO
+R64	Route-Drug Arg1:T105 Arg2:T103
+T106	Frequency 7960 7965	DAILY
+R65	Frequency-Drug Arg1:T106 Arg2:T103
+T107	Drug 7989 8002	Multivitamins
+T108	Dosage 8003 8004	1
+R66	Dosage-Drug Arg1:T108 Arg2:T107
+T109	Form 8005 8008	TAB
+R67	Form-Drug Arg1:T109 Arg2:T107
+T110	Route 8009 8011	PO
+R68	Route-Drug Arg1:T110 Arg2:T107
+T111	Frequency 8012 8017	DAILY
+R69	Frequency-Drug Arg1:T111 Arg2:T107
+T112	Drug 8034 8044	Omeprazole
+T113	Strength 8045 8050	20 mg
+R70	Strength-Drug Arg1:T113 Arg2:T112
+T114	Route 8051 8053	PO
+R71	Route-Drug Arg1:T114 Arg2:T112
+T115	Frequency 8054 8059	DAILY
+R72	Frequency-Drug Arg1:T115 Arg2:T112
+T116	Drug 8076 8087	Propranolol
+T117	Strength 8088 8093	20 mg
+R73	Strength-Drug Arg1:T117 Arg2:T116
+T118	Route 8094 8096	PO
+R74	Route-Drug Arg1:T118 Arg2:T116
+T119	Frequency 8097 8100	BID
+R75	Frequency-Drug Arg1:T119 Arg2:T116
+T120	Drug 8146 8156	Tamsulosin
+T121	Strength 8157 8163	0.4 mg
+R76	Strength-Drug Arg1:T121 Arg2:T120
+T122	Route 8164 8166	PO
+R77	Route-Drug Arg1:T122 Arg2:T120
+T123	Frequency 8167 8169	HS
+R78	Frequency-Drug Arg1:T123 Arg2:T120
+T124	Drug 8173 8181	Thiamine
+T125	Strength 8182 8188	100 mg
+R79	Strength-Drug Arg1:T125 Arg2:T124
+T126	Route 8189 8191	PO
+R80	Route-Drug Arg1:T126 Arg2:T124
+T127	Frequency 8192 8197	DAILY
+R81	Frequency-Drug Arg1:T127 Arg2:T124
+T128	Drug 8215 8224	Vitamin D
+T129	Strength 8225 8233	400 UNIT
+R82	Strength-Drug Arg1:T129 Arg2:T128
+T130	Route 8234 8236	PO
+R83	Route-Drug Arg1:T130 Arg2:T128
+T131	Frequency 8237 8242	DAILY
+R84	Frequency-Drug Arg1:T131 Arg2:T128
+T132	Drug 8260 8271	Mirtazapine
+T133	Strength 8272 8277	15 mg
+R85	Strength-Drug Arg1:T133 Arg2:T132
+T134	Route 8278 8280	PO
+R86	Route-Drug Arg1:T134 Arg2:T132
+T135	Frequency 8281 8283	HS
+R87	Frequency-Drug Arg1:T135 Arg2:T132
+T136	Drug 8288 8298	OLANZapine
+T137	Strength 8299 8303	5 mg
+R88	Strength-Drug Arg1:T137 Arg2:T136
+T138	Route 8304 8306	PO
+R89	Route-Drug Arg1:T138 Arg2:T136
+T139	Frequency 8307 8310	QAM
+R90	Frequency-Drug Arg1:T139 Arg2:T136
+T140	Drug 8315 8325	OLANZapine
+T141	Strength 8326 8331	15 mg
+R91	Strength-Drug Arg1:T141 Arg2:T140
+T142	Route 8332 8334	PO
+R92	Route-Drug Arg1:T142 Arg2:T140
+T143	Frequency 8335 8338	QPM
+R93	Frequency-Drug Arg1:T143 Arg2:T140
+T144	Drug 8343 8353	OLANZapine
+T145	Strength 8354 8358	5 mg
+R94	Strength-Drug Arg1:T145 Arg2:T144
+T146	Route 8359 8361	PO
+R95	Route-Drug Arg1:T146 Arg2:T144
+T147	Frequency 8362 8369	BID:PRN
+R96	Frequency-Drug Arg1:T147 Arg2:T144
+T148	Reason 8370 8379	agitation
+R97	Reason-Drug Arg1:T148 Arg2:T144
+T149	Reason 8380 8389	psychosis
+R98	Reason-Drug Arg1:T149 Arg2:T144
+T150	Drug 8418 8425	Aspirin
+T151	Strength 8426 8431	81 mg
+R99	Strength-Drug Arg1:T151 Arg2:T150
+T152	Route 8432 8434	PO
+R100	Route-Drug Arg1:T152 Arg2:T150
+T153	Frequency 8435 8440	DAILY
+R101	Frequency-Drug Arg1:T153 Arg2:T150
+T154	Drug 8445 8452	aspirin
+T155	Strength 8453 8458	81 mg
+R102	Strength-Drug Arg1:T155 Arg2:T154
+T156	Dosage 8459 8460	1
+R103	Dosage-Drug Arg1:T156 Arg2:T154
+T157	Route 8471 8479	by mouth
+R104	Route-Drug Arg1:T157 Arg2:T154
+T158	Frequency 8480 8490	once a day
+R105	Frequency-Drug Arg1:T158 Arg2:T154
+T159	Drug 8522 8544	Fluticasone Propionate
+T160	Route 8545 8550	NASAL
+R106	Route-Drug Arg1:T160 Arg2:T159
+T161	Dosage 8551 8552	2
+R107	Dosage-Drug Arg1:T161 Arg2:T159
+T162	Form 8553 8557	SPRY
+R109	Form-Drug Arg1:T162 Arg2:T159
+T163	Drug 8582 8593	fluticasone
+T164	Strength 8594 8600	50 mcg
+R110	Strength-Drug Arg1:T164 Arg2:T163
+T165	Dosage 8601 8602	2
+R111	Dosage-Drug Arg1:T165 Arg2:T163
+T166	Form 8603 8609	sprays
+R112	Form-Drug Arg1:T166 Arg2:T163
+T167	Route 8610 8620	intranasal
+R113	Route-Drug Arg1:T167 Arg2:T163
+T168	Frequency 8621 8632	twice a day
+R114	Frequency-Drug Arg1:T168 Arg2:T163
+T169	Drug 8661 8671	Lisinopril
+T170	Strength 8672 8677	10 mg
+R115	Strength-Drug Arg1:T170 Arg2:T169
+T171	Route 8678 8680	PO
+R116	Route-Drug Arg1:T171 Arg2:T169
+T172	Frequency 8681 8686	DAILY
+R117	Frequency-Drug Arg1:T172 Arg2:T169
+T173	Drug 8711 8721	lisinopril
+T174	Strength 8722 8727	10 mg
+R118	Strength-Drug Arg1:T174 Arg2:T173
+T175	Dosage 8728 8729	1
+R119	Dosage-Drug Arg1:T175 Arg2:T173
+T176	Route 8740 8748	by mouth
+R120	Route-Drug Arg1:T176 Arg2:T173
+T177	Frequency 8749 8754	daily
+R121	Frequency-Drug Arg1:T177 Arg2:T173
+T178	Drug 8786 8799	Multivitamins
+T179	Dosage 8800 8801	1
+R122	Dosage-Drug Arg1:T179 Arg2:T178
+T180	Form 8802 8805	TAB
+R123	Form-Drug Arg1:T180 Arg2:T178
+T181	Route 8806 8808	PO
+R124	Route-Drug Arg1:T181 Arg2:T178
+T182	Frequency 8809 8814	DAILY
+R125	Frequency-Drug Arg1:T182 Arg2:T178
+T183	Drug 8914 8924	OLANZapine
+T184	Strength 8925 8930	15 mg
+R126	Strength-Drug Arg1:T184 Arg2:T183
+T185	Route 8931 8933	PO
+R127	Route-Drug Arg1:T185 Arg2:T183
+T186	Frequency 8934 8937	QPM
+R128	Frequency-Drug Arg1:T186 Arg2:T183
+T187	Drug 8942 8952	olanzapine
+T188	Strength 8953 8958	15 mg
+R129	Strength-Drug Arg1:T188 Arg2:T187
+T189	Dosage 8959 8960	1
+R130	Dosage-Drug Arg1:T189 Arg2:T187
+T190	Route 8971 8979	by mouth
+R131	Route-Drug Arg1:T190 Arg2:T187
+T191	Drug 9022 9032	Omeprazole
+T192	Strength 9033 9038	20 mg
+R132	Strength-Drug Arg1:T192 Arg2:T191
+T193	Route 9039 9041	PO
+R133	Route-Drug Arg1:T193 Arg2:T191
+T194	Frequency 9042 9047	DAILY
+R134	Frequency-Drug Arg1:T194 Arg2:T191
+T195	Drug 9052 9062	omeprazole
+T196	Strength 9063 9068	20 mg
+R135	Strength-Drug Arg1:T196 Arg2:T195
+T197	Route 9081 9089	by mouth
+R136	Route-Drug Arg1:T197 Arg2:T195
+T198	Frequency 9090 9095	daily
+R137	Frequency-Drug Arg1:T198 Arg2:T195
+T199	Drug 9127 9138	Propranolol
+T200	Strength 9139 9144	20 mg
+R138	Strength-Drug Arg1:T200 Arg2:T199
+T201	Route 9145 9147	PO
+R139	Route-Drug Arg1:T201 Arg2:T199
+T202	Frequency 9148 9151	BID
+R140	Frequency-Drug Arg1:T202 Arg2:T199
+T203	Drug 9185 9196	propranolol
+T204	Strength 9197 9202	20 mg
+R141	Strength-Drug Arg1:T204 Arg2:T203
+T205	Dosage 9203 9204	1
+R142	Dosage-Drug Arg1:T205 Arg2:T203
+T206	Route 9215 9223	by mouth
+R143	Route-Drug Arg1:T206 Arg2:T203
+T207	Frequency 9224 9235	twice a day
+R144	Frequency-Drug Arg1:T207 Arg2:T203
+T208	Drug 9267 9277	Tamsulosin
+T209	Strength 9278 9284	0.4 mg
+R145	Strength-Drug Arg1:T209 Arg2:T208
+T210	Route 9285 9287	PO
+R146	Route-Drug Arg1:T210 Arg2:T208
+T211	Frequency 9288 9290	HS
+R147	Frequency-Drug Arg1:T211 Arg2:T208
+T212	Drug 9295 9305	tamsulosin
+T213	Strength 9306 9312	0.4 mg
+R148	Strength-Drug Arg1:T213 Arg2:T212
+T214	Dosage 9313 9314	1
+R149	Dosage-Drug Arg1:T214 Arg2:T212
+T215	Route 9326 9334	by mouth
+R150	Route-Drug Arg1:T215 Arg2:T212
+T216	Drug 9378 9389	Mirtazapine
+T217	Strength 9390 9395	30 mg
+R151	Strength-Drug Arg1:T217 Arg2:T216
+T218	Route 9396 9398	PO
+R152	Route-Drug Arg1:T218 Arg2:T216
+T219	Frequency 9399 9401	HS
+R153	Frequency-Drug Arg1:T219 Arg2:T216
+T220	Drug 9406 9417	mirtazapine
+T221	Strength 9418 9423	30 mg
+R154	Strength-Drug Arg1:T221 Arg2:T220
+T222	Dosage 9424 9425	1
+R155	Dosage-Drug Arg1:T222 Arg2:T220
+T223	Route 9436 9444	by mouth
+R156	Route-Drug Arg1:T223 Arg2:T220
+T224	Drug 9488 9498	OLANZapine
+T225	Strength 9499 9503	5 mg
+R157	Strength-Drug Arg1:T225 Arg2:T224
+T226	Route 9504 9506	PO
+R158	Route-Drug Arg1:T226 Arg2:T224
+T227	Frequency 9507 9510	QAM
+R159	Frequency-Drug Arg1:T227 Arg2:T224
+T228	Drug 9515 9525	olanzapine
+T229	Strength 9526 9530	5 mg
+R160	Strength-Drug Arg1:T229 Arg2:T228
+T230	Dosage 9531 9532	1
+R161	Dosage-Drug Arg1:T230 Arg2:T228
+T231	Route 9543 9551	by mouth
+R162	Route-Drug Arg1:T231 Arg2:T228
+T232	Drug 9599 9608	traZODONE
+T233	Strength 9609 9615	100 mg
+R163	Strength-Drug Arg1:T233 Arg2:T232
+T234	Route 9616 9618	PO
+R164	Route-Drug Arg1:T234 Arg2:T232
+T235	Frequency 9619 9621	HS
+R165	Frequency-Drug Arg1:T235 Arg2:T232
+T236	Drug 9626 9635	trazodone
+T237	Strength 9636 9642	100 mg
+R166	Strength-Drug Arg1:T237 Arg2:T236
+T238	Dosage 9643 9644	1
+R167	Dosage-Drug Arg1:T238 Arg2:T236
+T239	Route 9655 9663	by mouth
+R168	Route-Drug Arg1:T239 Arg2:T236
+T240	Drug 9707 9720	Acetaminophen
+T241	Strength 9721 9731	325-650 mg
+R169	Strength-Drug Arg1:T241 Arg2:T240
+T242	Route 9732 9734	PO
+R170	Route-Drug Arg1:T242 Arg2:T240
+T243	Frequency 9735 9742	Q6H:PRN
+R171	Frequency-Drug Arg1:T243 Arg2:T240
+T244	Reason 9743 9747	pain
+R172	Reason-Drug Arg1:T244 Arg2:T240
+T245	Strength 9766 9772	325 mg
+T246	Form 9785 9791	tablet
+T247	Route 9795 9803	by mouth
+T248	Drug 9857 9866	Ibuprofen
+T249	Strength 9867 9873	600 mg
+R173	Strength-Drug Arg1:T249 Arg2:T248
+T250	Route 9874 9876	PO
+R174	Route-Drug Arg1:T250 Arg2:T248
+T251	Frequency 9877 9884	Q8H:PRN
+R175	Frequency-Drug Arg1:T251 Arg2:T248
+T252	Reason 9885 9894	back pain
+R176	Reason-Drug Arg1:T252 Arg2:T248
+T253	Strength 9917 9923	200 mg
+T254	Dosage 9924 9925	3
+T255	Form 9926 9932	tablet
+T256	Route 9936 9944	by mouth
+T257	Frequency 9945 9956;9957 9966	every eight (8) hours
+T258	Form 8461 8470	tablet(s)
+R177	Form-Drug Arg1:T258 Arg2:T154	
+T259	Route 8558 8560	NU
+R178	Route-Drug Arg1:T259 Arg2:T159	
+T260	Form 8730 8739	tablet(s)
+T261	Form 8765 8771	Tablet
+R108	Form-Drug Arg1:T260 Arg2:T173	
+R179	Form-Drug Arg1:T261 Arg2:T173	
+T262	Drug 8819 8853	multivitamin [Daily Multi-Vitamin]
+T263	Dosage 8856 8857	1
+T264	Form 8858 8867	tablet(s)
+T265	Route 8868 8876	by mouth
+T266	Frequency 8877 8882	daily
+T267	Form 8893 8899	Tablet
+R180	Dosage-Drug Arg1:T263 Arg2:T262	
+R181	Frequency-Drug Arg1:T266 Arg2:T262	
+R182	Form-Drug Arg1:T267 Arg2:T262	
+R183	Form-Drug Arg1:T264 Arg2:T262	
+R184	Route-Drug Arg1:T265 Arg2:T262	
+T268	Form 8961 8970	tablet(s)
+R185	Form-Drug Arg1:T268 Arg2:T187	
+T269	Frequency 8980 8990	at bedtime
+R186	Frequency-Drug Arg1:T269 Arg2:T187	
+T270	Form 9001 9007	Tablet
+R187	Form-Drug Arg1:T270 Arg2:T187	
+T271	Dosage 9069 9070	1
+T272	Form 9071 9080	tablet(s)
+T273	Form 9106 9112	Tablet
+R188	Form-Drug Arg1:T273 Arg2:T195	
+R189	Dosage-Drug Arg1:T271 Arg2:T195	
+R190	Form-Drug Arg1:T272 Arg2:T195	
+T274	Form 9205 9214	tablet(s)
+T275	Form 9246 9252	Tablet
+R191	Form-Drug Arg1:T274 Arg2:T203	
+R192	Form-Drug Arg1:T275 Arg2:T203	
+T276	Form 9315 9325	capsule(s)
+T277	Frequency 9335 9345	at bedtime
+T278	Form 9356 9363	Capsule
+R193	Form-Drug Arg1:T276 Arg2:T212	
+R194	Frequency-Drug Arg1:T277 Arg2:T212	
+R195	Form-Drug Arg1:T278 Arg2:T212	
+T279	Form 9426 9435	tablet(s)
+T280	Form 9466 9472	Tablet
+T281	Frequency 9445 9455	at bedtime
+R196	Form-Drug Arg1:T279 Arg2:T220	
+R197	Frequency-Drug Arg1:T281 Arg2:T220	
+R198	Form-Drug Arg1:T280 Arg2:T220	
+T282	Form 9645 9654	tablet(s)
+T283	Form 9685 9691	Tablet
+T284	Frequency 9664 9674	at bedtime
+R199	Form-Drug Arg1:T283 Arg2:T236	
+R200	Form-Drug Arg1:T282 Arg2:T236	
+R201	Frequency-Drug Arg1:T284 Arg2:T236	
+T285	Drug 9752 9765	acetaminophen
+T286	Frequency 9804 9817;9818 9823	every six (6) hours
+T287	Form 9835 9841	Tablet
+R202	Strength-Drug Arg1:T245 Arg2:T285	
+R203	Form-Drug Arg1:T246 Arg2:T285	
+R204	Route-Drug Arg1:T247 Arg2:T285	
+R205	Frequency-Drug Arg1:T286 Arg2:T285	
+R206	Form-Drug Arg1:T287 Arg2:T285	
+T288	Drug 9899 9916	ibuprofen [Advil]
+R207	Strength-Drug Arg1:T253 Arg2:T288	
+R208	Frequency-Drug Arg1:T257 Arg2:T288	
+T289	Form 9978 9984	Tablet
+R209	Form-Drug Arg1:T255 Arg2:T288	
+R210	Form-Drug Arg1:T289 Arg2:T288	
+R211	Route-Drug Arg1:T256 Arg2:T288	
+R212	Dosage-Drug Arg1:T254 Arg2:T288	
+T21	Route 1714 1716	IV
+R14	Route-Drug Arg1:T21 Arg2:T27	
+T26	Route 5744 5746	IV
+R15	Route-Drug Arg1:T26 Arg2:T47	
+T46	Route 5802 5804	IV
+R26	Route-Drug Arg1:T46 Arg2:T47	
+T49	ADE 10620 10629	agitation
+R28	ADE-Drug Arg1:T49 Arg2:T2	

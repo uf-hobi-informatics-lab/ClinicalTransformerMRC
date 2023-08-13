@@ -1,0 +1,219 @@
+T1	Drug 10240 10249	vitamin D
+T2	Drug 11137 11145	Atenolol
+T3	Strength 11146 11152	100 mg
+T4	Drug 7940 7947	heparin
+T5	Drug 11397 11409	Azithromycin
+T6	Strength 11410 11416	250 mg
+T7	Drug 11521 11530	Albuterol
+T8	Drug 11272 11278	Neoral
+T9	Strength 11279 11284	25 mg
+T10	Drug 8364 8374	prednisone
+T11	Drug 9610 9618	warfarin
+T12	Drug 8332 8344	cyclosporine
+T13	Drug 4621 4631	sildenafil
+T14	Drug 4241 4251	sildenafil
+T15	Drug 10260 10267	calcium
+T16	Drug 7957 7965	coumadin
+T17	Drug 5273 5281	cefepime
+T18	Drug 8346 8354	Cellcept
+T19	Drug 11421 11428	Bactrim
+T20	Drug 9381 9391	sildenafil
+T22	Drug 4906 4918	levofloxacin
+T24	Drug 11436 11442	Lantus
+T25	Drug 7730 7736	flagyl
+T26	Drug 5300 5310	vancomycin
+T27	Drug 11193 11201	Cellcept
+T28	Drug 11323 11330	Valtrex
+T29	Strength 11331 11337	500 mg
+T30	Drug 4924 4937	ciprofloxacin
+T31	Drug 11456 11464	Zolpidem
+T32	Strength 11465 11470	10 mg
+T33	Drug 5315 5321	flagyl
+T34	Drug 6468 6477	adenosine
+T35	Drug 5452 5462	vancomycin
+T36	Drug 11474 11483	Oxycodone
+T37	Strength 11484 11488	5 mg
+T38	Drug 11289 11299	Prednisone
+T39	Strength 11300 11305	15 mg
+T40	Drug 7033 7041	levophed
+T41	Drug 5464 5472	cefepime
+T42	Drug 11355 11360	VFEND
+T43	Strength 11361 11367	200 mg
+T44	Drug 11229 11240	Hydralazine
+T45	Strength 11241 11246	25 mg
+T46	Frequency 11247 11254	q 6 hrs
+T47	Drug 5478 5484	flagyl
+T48	Drug 4369 4379	metolazone
+T49	Drug 5693 5702	Meropenem
+T50	Drug 624 631	Cytoxan
+T51	Drug 4338 4343	lasix
+T52	Drug 6388 6397	adenosine
+T53	Strength 6398 6402	6 mg
+T54	Drug 9598 9605	heparin
+T55	Drug 11255 11261	Neoral
+T56	Strength 11262 11267	50 mg
+T57	Drug 10744 10752	dilaudid
+T58	Drug 11385 11396	Benzonatate
+T59	Reason 10767 10779	pain control
+T60	Drug 1279 1289	ampicillin
+T61	Drug 4329 4336	albumin
+T62	Drug 4349 4362	chlorthiazide
+T63	Reason 4787 4790	UTI
+T64	Reason 5720 5756;5757 5765	double gram-negative and Psuedomonas coverage
+T65	Dosage 6405 6406	2
+T66	Drug 7028 7031	neo
+T67	Drug 7047 7058	vasopressin
+T68	Drug 6945 6954	verapimil
+T69	Reason 7018 7026	pressors
+T70	Duration 7713 7719	14 day
+T71	Reason 7847 7876	Right basilic vein thrombosis
+T73	Reason 8285 8309	AML with history of GVHD
+T74	Reason 9080 9102	Pulmonary hypertension
+T75	ADE 9489 9509	Heme positive stools
+T78	Reason 9574 9589	anticoagulation
+T79	Drug 9787 9790	PPI
+T80	Frequency 10233 10239	weekly
+T81	Frequency 10254 10259	daily
+T82	Drug 10393 10407	bisphosphonate
+T83	Route 10739 10743	oral
+T84	Drug 10917 10928	cyclosporin
+T85	Drug 10943 10959	artificial tears
+T86	Drug 11043 11050	Refresh
+T87	Frequency 11153 11155	qd
+T88	Drug 11156 11165	Cell cept
+T89	Frequency 11189 11192	qam
+T90	Frequency 11225 11228	qpm
+T91	Frequency 11268 11271	qam
+T92	Frequency 11285 11288	qhs
+T93	Form 11417 11420	qod
+T94	Strength 11429 11431	DS
+T95	Frequency 11432 11435	MWF
+T96	Dosage 11443 11447	12 U
+T97	Frequency 11448 11450	qd
+T98	Drug 11451 11455	HSSI
+T99	Frequency 11471 11473	qd
+T100	Frequency 11489 11492	prn
+T101	Drug 11493 11503	Odansetron
+T102	Strength 11504 11508	4 mg
+T103	Frequency 11509 11520	q 8 hrs prn
+T104	Frequency 11531 11534	prn
+R1	Strength-Drug Arg1:T3 Arg2:T2
+R2	Strength-Drug Arg1:T6 Arg2:T5
+R3	Strength-Drug Arg1:T9 Arg2:T8
+R6	Strength-Drug Arg1:T29 Arg2:T28
+R7	Strength-Drug Arg1:T32 Arg2:T31
+R8	Strength-Drug Arg1:T37 Arg2:T36
+R9	Strength-Drug Arg1:T39 Arg2:T38
+R10	Strength-Drug Arg1:T43 Arg2:T42
+R11	Strength-Drug Arg1:T45 Arg2:T44
+R12	Frequency-Drug Arg1:T46 Arg2:T44
+R13	Strength-Drug Arg1:T53 Arg2:T52
+R14	Strength-Drug Arg1:T56 Arg2:T55
+R15	Reason-Drug Arg1:T63 Arg2:T30
+R16	Reason-Drug Arg1:T63 Arg2:T22
+R17	Reason-Drug Arg1:T64 Arg2:T49
+R18	Dosage-Drug Arg1:T65 Arg2:T52
+R19	Duration-Drug Arg1:T70 Arg2:T25
+R20	Reason-Drug Arg1:T71 Arg2:T4
+R21	Reason-Drug Arg1:T71 Arg2:T16
+R23	Reason-Drug Arg1:T73 Arg2:T18
+R24	Reason-Drug Arg1:T73 Arg2:T10
+R25	Reason-Drug Arg1:T73 Arg2:T12
+R26	Reason-Drug Arg1:T74 Arg2:T20
+R30	Frequency-Drug Arg1:T80 Arg2:T1
+R31	Frequency-Drug Arg1:T81 Arg2:T15
+R32	Reason-Drug Arg1:T59 Arg2:T57
+R33	Route-Drug Arg1:T83 Arg2:T57
+R34	Frequency-Drug Arg1:T87 Arg2:T2
+R35	Frequency-Drug Arg1:T92 Arg2:T8
+R36	Frequency-Drug Arg1:T90 Arg2:T27
+R37	Frequency-Drug Arg1:T91 Arg2:T55
+R38	Frequency-Drug Arg1:T89 Arg2:T88
+R39	Form-Drug Arg1:T93 Arg2:T5
+R40	Frequency-Drug Arg1:T104 Arg2:T7
+R41	Frequency-Drug Arg1:T103 Arg2:T101
+R42	Strength-Drug Arg1:T102 Arg2:T101
+R43	Frequency-Drug Arg1:T100 Arg2:T36
+R44	Frequency-Drug Arg1:T97 Arg2:T24
+R45	Dosage-Drug Arg1:T96 Arg2:T24
+R46	Frequency-Drug Arg1:T95 Arg2:T19
+R47	Strength-Drug Arg1:T94 Arg2:T19
+T106	Drug 764 771	steroid
+T107	Drug 812 819	steroid
+T108	ADE 820 828	myopathy
+T109	Drug 5109 5118	quinolone
+T110	Drug 5612 5620	pressors
+T111	Drug 5840 5848	pressors
+T112	Drug 6140 6145	fluid
+T113	Dosage 6146 6153	boluses
+T114	Reason 6023 6034	Hypotension
+T115	Reason 6039 6050	tachycardia
+T116	Drug 7090 7099	verapimil
+T117	Drug 7971 7986	anticoagulation
+T118	Drug 8264 8279	anticoagulation
+T119	Drug 9022 9029	albumin
+T120	Drug 9743 9751	steroids
+T121	Reason 9760 9764	GVHD
+T123	Drug 10144 10151	steroid
+T124	ADE 10070 10089	hyperparathyroidism
+T125	Drug 616 619	TBI
+T126	Reason 526 529	AML
+T127	Reason 1209 1232	Enterococcal bacteremia
+T128	Drug 1234 1239	vanco
+T129	Reason 4142 4164	pulmonary hypertension
+T130	Reason 4299 4307	diuresed
+T132	Reason 6257 6281	tachycardia to the 120's
+T133	Reason 6800 6809;6810 6833	fasicular ventricular tachycardia
+T134	Reason 7550 7565	C. diff colitis
+T135	Reason 9830 9849	Hyperparathyroidism
+T136	Route 10929 10932	eye
+T137	Reason 10786 10795	Eye pains
+T138	Route 11051 11054	eye
+R48	Reason-Drug Arg1:T126 Arg2:T125
+R49	Reason-Drug Arg1:T127 Arg2:T128
+R50	ADE-Drug Arg1:T108 Arg2:T107
+R51	Dosage-Drug Arg1:T113 Arg2:T112
+R52	Reason-Drug Arg1:T114 Arg2:T112
+R53	Reason-Drug Arg1:T121 Arg2:T120
+R54	ADE-Drug Arg1:T124 Arg2:T123
+T21	Form 10933 10938	drops
+R4	Route-Drug Arg1:T136 Arg2:T84	
+R55	Form-Drug Arg1:T21 Arg2:T84	
+T23	Form 11055 11060	drops
+R5	Route-Drug Arg1:T138 Arg2:T86	
+R56	Form-Drug Arg1:T23 Arg2:T86	
+R57	Reason-Drug Arg1:T126 Arg2:T50	
+T139	ADE 802 810	diabetes
+R58	ADE-Drug Arg1:T139 Arg2:T106	
+R59	Reason-Drug Arg1:T129 Arg2:T14	
+R60	Reason-Drug Arg1:T130 Arg2:T61	
+R61	Reason-Drug Arg1:T130 Arg2:T62	
+R62	Reason-Drug Arg1:T130 Arg2:T48	
+R63	Reason-Drug Arg1:T130 Arg2:T51	
+T105	Duration 4887 4895	two week
+R64	Duration-Drug Arg1:T105 Arg2:T22	
+R65	Duration-Drug Arg1:T105 Arg2:T30	
+R66	Reason-Drug Arg1:T132 Arg2:T52	
+R67	Reason-Drug Arg1:T115 Arg2:T52	
+R68	Reason-Drug Arg1:T132 Arg2:T34	
+R69	Reason-Drug Arg1:T115 Arg2:T34	
+R70	Reason-Drug Arg1:T133 Arg2:T68	
+R71	Reason-Drug Arg1:T134 Arg2:T25	
+R72	Reason-Drug Arg1:T78 Arg2:T54	
+R73	Reason-Drug Arg1:T78 Arg2:T11	
+R27	ADE-Drug Arg1:T75 Arg2:T54	
+R28	ADE-Drug Arg1:T75 Arg2:T11	
+T76	Reason 9489 9509	Heme positive stools
+R74	Reason-Drug Arg1:T76 Arg2:T79	
+R77	Reason-Drug Arg1:T135 Arg2:T82	
+R78	Reason-Drug Arg1:T137 Arg2:T84	
+R79	Reason-Drug Arg1:T137 Arg2:T85	
+R80	Reason-Drug Arg1:T137 Arg2:T86	
+R81	Frequency-Drug Arg1:T99 Arg2:T31	
+T72	Route 7937 7939	IV
+R22	Route-Drug Arg1:T72 Arg2:T4	
+T77	Route 9595 9597	IV
+R29	Route-Drug Arg1:T77 Arg2:T54	
+T122	Reason 9854 9874	vitamin D deficiency
+R82	Reason-Drug Arg1:T122 Arg2:T1	
+R83	Reason-Drug Arg1:T122 Arg2:T15	

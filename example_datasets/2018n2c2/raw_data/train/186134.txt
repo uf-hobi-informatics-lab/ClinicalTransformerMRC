@@ -1,0 +1,252 @@
+Admission Date:  [**2185-9-12**]              Discharge Date:   [**2185-9-17**]
+
+Date of Birth:  [**2141-7-28**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Augmentin / Biaxin / Sulfa (Sulfonamides) / Naprosyn / Motrin
+
+Attending:[**First Name3 (LF) 613**]
+Chief Complaint:
+Obstructed kidney stone
+
+
+Major Surgical or Invasive Procedure:
+Nephrostomy
+
+
+History of Present Illness:
+HPI: Pt is a 44 yo female with PMHx of allergic fungal
+sinusitis, who presents from OSH with obstructed kidney stone.
+Pt, who has no history of stones, says that Friday [**2185-9-9**] she
+started to have pain on the right side. She is unable to
+describe it saying that it was "constant and hurt." The next
+day, she continued to have the pain which was worse and a [**6-30**].
+She also had subjective fevers, but did not take her
+temperature. Yesterday, she went to OSH ED ([**Hospital3 **] Hospital).
+She was found to have a WBC of 22.7, 89% neutrophils. U/a was
+WBC >50, +LE,. A transabdominal u/s done for RUQ pain showed
+normal kidneys and no hydronephrosis. There was an 8.9 x 6.3 mm
+gallstone without evidence of pericholecystic fluid and no
+evidence of choledocholithiasis (free fluid in morrisons pouch).
+She was discharged home on levaquin.
+.
+Pt again presented to OSH ED ~3 am this am as pain was worse and
+she was lightheaded. Pt noted to be tachycardic to 118,
+hypotensive to 81/55, and temp to 99.9. CT abd/pelvis showed a 5
+mm calculus in the right proximal ureter 5 cm below
+ureteropelvic junction with mild right hydronephrosis and right
+renal perinephric stranding. There was also a 1 mm
+non-obstructing left ureter calculus. Pt was transferred to [**Hospital1 **]
+this am for further management and likely IR procedure.
+.
+VS on arrival to [**Hospital1 18**] were: T: 104.6, HR: 127; BP: 138/75; RR:
+25. She was given 1 g tylenol, 1 g vancomycin, 500 mg IV
+levaquin, 2 mg IV morphine, solumedrol 125 mg IV x 1, motrin 600
+mg po. She was noted to develop an arm rash and eyelid edema
+when she got the levaquin and morphine. She was given 25 mg po
+benadryl. Currently pt denies any pain. No dysuria or hematuria
+per pt. No N/V.
+.
+
+
+Past Medical History:
+Past Medical History:
+Allergic fungal sinusitis- s/p multiple surgeries since [**2171**]
+Asthma
+Colonoscopy- done for screening showed polyps
+Uterine fibroids s/p surgery
+
+
+Social History:
+Owns plumbing and heating company with husband. [**Name (NI) **] children. No
+smoking. Social beer. No drugs.
+
+
+Family History:
+F: melanoma; M: CAD; kidney stone. No other renal problems in
+family.
+
+
+Physical Exam:
+VS: T: 98.4; BP: 91/53; HR:85; RR: 16; O2: 97 RA
+Gen: Laying in bed speaking in full sentences in NAD
+HEENT: Puffy eyelids. PERRLA; EOMI; sclera anicteric; OP clear.
+No pettechiae.
+Neck: No LAD.
+CV: RRR S1S2. No M/R/G
+Lungs: CTA b/l with good air entry
+Abd: NABS. +suprapubic tenderness. +RUQ pain without rebound. +
+right CVA/flank pain.
+Back: No spinal, paraspinal tenderness. CVA/flank as above
+Ext: No edema. DP 2+
+Neuro: CN II-CII tested and intact.
+Skin: puffy eyelids slightly erythematous. Scattered papules
+left hand, right leg.
+.
+
+Pertinent Results:
+[**2185-9-12**] 08:29PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.033
+[**2185-9-12**] 08:29PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-50 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2185-9-12**] 08:29PM URINE  RBC-[**4-30**]* WBC-0-2 BACTERIA-OCC
+YEAST-NONE EPI-0
+[**2185-9-12**] 06:30PM   GLUCOSE-137* UREA N-8 CREAT-0.9 SODIUM-141
+POTASSIUM-4.8 CHLORIDE-116* TOTAL CO2-16* ANION GAP-14
+[**2185-9-12**] 06:30PM   CALCIUM-6.4* PHOSPHATE-2.3* MAGNESIUM-1.8
+[**2185-9-12**] 06:30PM   WBC-10.3 RBC-3.45* HGB-10.8* HCT-31.2* MCV-91
+MCH-31.4 MCHC-34.7 RDW-13.0
+[**2185-9-12**] 06:30PM   PLT COUNT-214
+[**2185-9-12**] 11:37AM   PT-13.5* PTT-32.6 INR(PT)-1.2*
+[**2185-9-12**] 09:02AM   LACTATE-1.7
+[**2185-9-12**] 09:00AM   GLUCOSE-102 UREA N-9 CREAT-1.1 SODIUM-131*
+POTASSIUM-5.7* CHLORIDE-103 TOTAL CO2-20* ANION GAP-14
+[**2185-9-12**] 09:00AM   ALT(SGPT)-21 AST(SGOT)-75* ALK PHOS-53
+AMYLASE-66 TOT BILI-0.3
+[**2185-9-12**] 09:00AM   LIPASE-51
+[**2185-9-12**] 09:00AM   WBC-15.7* RBC-4.27 HGB-12.9 HCT-39.1 MCV-92
+MCH-30.3 MCHC-33.1 RDW-13.0
+[**2185-9-12**] 09:00AM   NEUTS-80* BANDS-6* LYMPHS-9* MONOS-5 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2185-9-12**] 09:00AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-NORMAL OVALOCYT-1+
+[**2185-9-12**] 09:00AM   PLT SMR-NORMAL PLT COUNT-250
+
+Brief Hospital Course:
+Pt is a 44 yo female with chronic sinusitis who presents with an
+obstructed kidney stone.
+1. Obstructed kidney stone- with impaction and superimposed
+infection. u/a, ucx taken at OSH, none here. At OSH, growing
+>100,000 pan sensitive E.Coli. UCx negative at [**Hospital1 18**].
+-Pt is allergic to PCN (augmentin). Treated with gentamicin
+- had nephrostomy with tube placement. kidney abscess improved
+on repeat CT. Evaluated by ID consult, sent home on
+Ciprofloxacin 500 Q12 for 14days.
+Will need follow up CT scan before seeing urology as outpatient.
+
+2. Pain control- ? allergy with morphine. Dilaudid IV prn.
+.
+3. Rash- scattered papules on arm and swollen eyelids. Unclear
+if from levaquin or morphine. Will also need to look and see
+when she got the motrin.
+-benadryl prn; Famotidine [**Hospital1 **]. On steroids (see below)
+.
+4. Chronic steroid use- On steroids as outpatient.
+prednisone 10mg QOD
+.
+5. Acute renal failure- Creatinine was 1.4 at OSH now 1.1.
+Likely [**12-23**] post renal obstruction.
+.
+6. Chronic sinusitis- continue home regimen of once tolerating
+POs and will continue nasal sprays.
+.
+
+
+Medications on Admission:
+Medications:
+Prednisone 10 mg qod
+Fexofenadine
+Albuterol prn- ~1x/day
+Flovent 110 mcg, qday
+Nasonex
+Singulair qday
+
+
+Discharge Medications:
+1. Diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO Q6H
+(every 6 hours) as needed for rash.
+2. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed for dyspnea.
+3. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed for dyspnea.
+4. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+6. Insulin Regular Human 100 unit/mL Solution Sig: One (1)
+Injection ASDIR (AS DIRECTED).
+7. Prednisone 10 mg Tablet Sig: One (1) Tablet PO QOD ().
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+9. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed.
+
+1. Diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO Q6H
+(every 6 hours) as needed for rash.
+2. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed for dyspnea.
+3. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed for dyspnea.
+4. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+6. Insulin Regular Human 100 unit/mL Solution Sig: One (1)
+Injection ASDIR (AS DIRECTED).
+7. Prednisone 10 mg Tablet Sig: One (1) Tablet PO QOD ().
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+9. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed.
+10. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+Disp:*20 Tablet(s)* Refills:*0*
+11. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours) for 2 weeks.
+Disp:*28 Tablet(s)* Refills:*0*
+12. K-Dur 20 mEq Tab Sust.Rel. Particle/Crystal Sig: Two (2) Tab
+Sust.Rel. Particle/Crystal PO once a day for 2 weeks: Continue
+until you have blood checked with your primary care physician
+and are instructed further.
+Disp:*28 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+13. Outpatient Lab Work
+Patient will require once weekly Chemistry-7 profile performed
+until appointment with Primary Care Physician
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary
+- Kidney abscess
+- nephrolithiasis
+.
+Secondary
+- Asthma
+
+
+Discharge Condition:
+Good. Patient is afebrile, hemodynamically stable, O2 sats > 95%
+on RA
+
+
+Discharge Instructions:
+1. Please take all medications as prescribed
+.
+2. Please keep all outpatient appointments
+.
+3. Please return to the hospital immediately or seek medical
+attention for symptoms of fevers/chills, dizziness, shortness of
+breath or any other concerning symptom.
+
+Followup Instructions:
+1. You should be seen by your primary care physician within one
+week for follow up visit and to have potassium levels monitored.
+PLease call your PCPs office to schedule this appointment.
+.
+2. Please call Dr. [**Last Name (STitle) 3748**] from the division of Urology at([**Telephone/Fax (1) 39050**] to schedule an outpatient appointment. You will need to
+be seen in approximately three weeks time. At this office visit
+your nephrostomy tube will be removed. Also, a follow-up CT scan
+has been ordered for you. Please call the radiology department
+at [**Telephone/Fax (1) 327**] on Monday to schedule an appointment for the
+study. The CT scan should be done in 2 weeks (before you see
+urology)
+
+
+                             [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 617**]
+
+Completed by:[**2185-9-17**]

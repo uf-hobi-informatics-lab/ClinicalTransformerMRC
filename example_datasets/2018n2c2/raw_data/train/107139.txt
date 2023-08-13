@@ -1,0 +1,129 @@
+Admission Date:  [**2193-12-23**]              Discharge Date:   [**2194-1-18**]
+
+Date of Birth:  [**2130-5-22**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Ceftriaxone / Piperacillin Sodium/Tazobactam / Heparin Agents
+
+Attending:[**First Name3 (LF) 2597**]
+Chief Complaint:
+aortoenteric fistula
+
+Major Surgical or Invasive Procedure:
+[**12-27**] ex lap, NAIS (Neo-Aorto-Iliac Surgery, [**Last Name (un) 72148**] procedure),
+primay duodenal & pyloric exclusion, G & J tubes
+[**1-2**] ex lap, duodenostomy tube placement
+[**1-10**] percutaneous CT guided abdominal abscess drainage
+[**1-12**] ex lap, end duodenostomy, small bowel resection x2, G
+tube, J tube, repair of aortic tear
+multiple central line, arterial line and swan placements
+
+
+History of Present Illness:
+63M s/p ruptured mycotic AAA repair with Dacron tube graft [**3-27**],
+now with infected AAA graft site by CT & MR.  His symptoms
+include sharp epigastric and mid-back pain, low grade fevers and
+general failure to thrive.
+
+Past Medical History:
+PMH: htn, etoh abuse (recently stopped drinking 1 month ago),
+hyperlipidemia
+PSH: bilateral inguinal hernias, endo AAA repair x 2 ([**3-27**])
+
+
+Social History:
+pos smoker / recently quit
+pos drinker
+
+
+Family History:
+n/c
+
+Physical Exam:
+ON PRESENTATION
+
+PE: v/s 98.9 87 124/76 20 95RA
+Gen: thin male in intermittant severe distress with movement,
+NAD
+when perfectly still, well-appearing
+HEENT: NC/AT, PERRLA bilat., slight L lateral strabismus, MMM,
+soft neck without LAD
+Cor: RRR without m/g/r, no bruits, no JVD
+Lungs: CTA bilat., no w/r/[**Initials (NamePattern4) **]
+[**Last Name (NamePattern4) **]: +BS, soft, NT, ND, no masses, 'swiss cheese' type
+incisional hernia at midline laparotomy incision
+Rectal: guaiac negative
+PVasc: warm feet, no edema
+Pulses:   fem   [**Doctor Last Name **]    PT    DP
+       R  palp  palp   palp  palp
+       L  palp  palp   palp  palp
+
+Ext: no tissue loss
+Neuro: grossly intact and non-focal
+
+
+Pertinent Results:
+review carevue
+
+Brief Hospital Course:
+review chart for specfics
+
+[**12-23**]: admitted to vascular.  ID, neurosurg consulted
+[**12-27**]: operative repair of infected AAA.  NAIS procedure
+performed.  intraop surgical consult for duodenal involvement
+[**1-2**]: ex lap for duodenal leak - THAL patch performed
+[**1-10**]: EC fistula from duodenal repair & intraaabdominal abscess
+drained by CT
+[**1-12**]: aortic rupture.  shock, UGIB, abddominal distension.
+taken to OR for ex alp, aortic repair & SB resection x 2
+[**1-18**]: repear aortic rupture.  shock, abddominal distension,
+blood from JP's, blown pupil.  patient made CMO after discussion
+with family, who declined autopsy.  ME & NEOB declined case.
+
+Medications on Admission:
+atorvastatin 20mg qd
+ASA 81mg qd
+mirtazapine 45mg qhs
+levofloxacin 500mg qd (prophylaxis)
+metoprolol 12.5mg [**Hospital1 **]
+methylprednisolone 4mg qd
+docusate 100mg [**Hospital1 **]
+lactobacillus ii [**Hospital1 **]
+fentanyl patch 12mg tp q72h
+
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+aortoenteric fistula
+ruptured AAA
+stroke
+hemodynamic collapse
+hemorrhagic shock
+septic shock
+respiratory failure
+postop atelectasis
+enterocutaneous fistula
+heparin induced thrombocytopenia
+blood loss anemia
+bacteremia
+line infection
+intraabdominal abscess
+
+Discharge Condition:
+deceased
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+
+Completed by:[**2194-1-18**]

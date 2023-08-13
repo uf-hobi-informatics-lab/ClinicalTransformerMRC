@@ -1,0 +1,915 @@
+T1	Drug 7683 7688	Zosyn
+T2	Drug 16388 16398	vancomycin
+T3	Drug 19461 19469;19470 19476	docusate sodium
+T4	Strength 19478 19484	100 mg
+T5	Form 19503 19510	Capsule
+T6	Route 19511 19513	PO
+T7	Drug 16903 16912	nafcillin
+T8	Drug 19828 19835;19836 19845	heparin (porcine)
+T9	Strength 19847 19857;19857 19860	5,000 unit /mL
+T10	Form 19880 19889	Injection
+T11	Drug 12845 12855	Prednisone
+T12	Strength 12856 12861	10 mg
+T13	Form 12867 12873	Tablet
+T14	Route 12862 12866	Oral
+T15	Drug 19990 20001;20002 20010	ondansetron HCl (PF)
+T16	Strength 20012 20016;20016 20021	4 mg /2 mL
+T17	Route 20041 20050	Injection
+T18	Drug 20247 20257	vancomycin
+T19	Drug 2840 2847	Avastin
+T20	Strength 19753 19759	500 mg
+T21	Form 19777 19783	Tablet
+T22	Route 19784 19786	PO
+T23	Drug 19738 19750;19750 19751	acetaminophe n
+T24	Drug 3759 3770	Carboplatin
+T25	Drug 14620 14630;14631 14634	ranitidine HCl
+T26	Strength 14635 14641	150 mg
+T27	Form 14662 14668	Tablet
+T28	Route 14669 14671	PO
+T29	Drug 15133 15142	oxycodone
+T30	Strength 15143 15148	20 mg
+T31	Form 15149 15155;15156 15178	Tablet Extended Release 12 hr
+T32	Strength 13071 13077	400 mg
+T33	Form 13097 13103	TABLET
+T34	Dosage 13095 13096	1
+T35	Frequency 13104 13111;13112 13115	TWICE A DAY
+T36	Route 13078 13082	Oral
+T37	Drug 13061 13069;13069 13070	Acyclovi r
+T38	Drug 14104 14112;14112 14119	camphor- menthol
+T39	Form 14130 14136	Lotion
+T40	Route 14155 14162	Topical
+T41	Drug 11044 11052	Dilaudid
+T42	Strength 11056 11060	4 mg
+T43	Route 11053 11055	PO
+T44	Drug 19237 19250	hydromorphone
+T45	Strength 19252 19256	2 mg
+T46	Form 19274 19280	Tablet
+T47	Route 19281 19283	PO
+T48	Drug 2344 2353	Tamoxifen
+T49	Drug 3371 3378	Avastin
+T50	Drug 7981 7989	Levophed
+T51	Drug 2606 2612	Xeloda
+T52	Drug 16177 16187	vancomycin
+T53	Strength 16188 16196	1,000 mg
+T54	Route 16222 16233	Intravenous
+T55	Drug 13116 13125	Oxycodone
+T56	Strength 13126 13130	5 mg
+T57	Form 13150 13156	TABLET
+T58	Dosage 13148 13149	1
+T59	Frequency 13157 13162;13163 13175	EVERY 6 TO 8 HOURS
+T60	Route 13131 13135	Oral
+T61	Drug 11070 11079	oxycodone
+T62	Strength 11080 11085	20 mg
+T63	Frequency 11089 11092	BID
+T64	Route 11086 11088	PO
+T65	Drug 13376 13400	Prochlorperazine Maleate
+T66	Strength 13401 13406	10 mg
+T67	Form 13426 13432	TABLET
+T68	Dosage 13424 13425	1
+T69	Route 13407 13411	Oral
+T70	Drug 19158 19168;19169 19172	ranitidine HCl
+T71	Strength 19174 19180	150 mg
+T72	Form 19198 19204	Tablet
+T73	Route 19205 19207	PO
+T74	Drug 4423 4431	Faslodex
+T75	Strength 4432 4437	500mg
+T76	Drug 12360 12367	miralax
+T77	Drug 2378 2386	Arimidex
+T78	Drug 15436 15447	fulvestrant
+T79	Strength 15448 15454;15454 15459	250 mg /5 mL
+T80	Drug 12369 12378	bisacodyl
+T81	Drug 14932 14947	docusate sodium
+T82	Strength 14948 14954	100 mg
+T83	Form 14976 14983	Capsule
+T84	Route 14984 14986	PO
+T85	Strength 19098 19102	1 mg
+T86	Form 19120 19126	Tablet
+T87	Frequency 19130 19133;19134 19149	TID (3 times a day)
+T88	Route 19127 19129	PO
+T89	Drug 19087 19095;19095 19096	lorazepa m
+T90	Drug 18987 19011	polyethylene glycol 3350
+T91	Route 19041 19043	PO
+T92	Drug 15972 15982	furosemide
+T93	Drug 7525 7532	heparin
+T94	Drug 2918 2923	Taxol
+T95	Drug 9832 9842	Vancomycin
+T96	Drug 1642 1652	Vancomycin
+T97	Drug 3868 3875	Ixempra
+T98	Strength 3876 3880;3880 3883	40mg /m2
+T100	Drug 8560 8570	vancomycin
+T101	Drug 3698 3707	Navelbine
+T102	Drug 15988 15998	furosemide
+T103	Strength 15999 16004;16004 16007	10 mg /mL
+T104	Form 16034 16043	Injection
+T105	Drug 12350 12358	docusate
+T106	Form 12930 12937	tablets
+T107	Drug 14697 14710	hydromorphone
+T108	Strength 14711 14715	2 mg
+T109	Form 14736 14742	Tablet
+T110	Route 14743 14745	PO
+T111	Drug 3448 3454	Gemzar
+T112	Strength 3455 3460;3460 3463	800mg /m2
+T113	Drug 2681 2690	Tamoxifen
+T114	Drug 19324 19335	guaifenesin
+T115	Strength 19337 19343	600 mg
+T116	Drug 20094 20104	Vancomycin
+T117	Strength 20105 20112	1000 mg
+T119	Drug 14443 14467	polyethylene glycol 3350
+T120	Form 14481 14487	Powder
+T121	Route 14502 14504	PO
+T122	Drug 913 923	Vancomycin
+T123	Drug 8899 8909	Vancomycin
+T124	Drug 15252 15265	acetaminophen
+T125	Strength 15266 15272	500 mg
+T126	Form 15293 15299	Tablet
+T127	Route 15300 15302	PO
+T128	Drug 11160 11168	Dilaudid
+T129	Drug 13468 13477	Lactulose
+T130	Strength 13478 13485;13485 13491	10 gram /15 mL
+T131	Dosage 13511 13513;13514 13516	30 mL
+T132	Route 13492 13496	Oral
+T133	Drug 16290 16300	vancomycin
+T134	Drug 6939 6949	Vancomycin
+T135	Drug 165 172	Codeine
+T136	Drug 19624 19633	oxycodone
+T137	Strength 19635 19640	20 mg
+T138	Drug 12457 12466	Lorazepam
+T139	Strength 12467 12471	1 mg
+T140	Route 12472 12474	PO
+T141	Drug 18860 18869	Bisacodyl
+T142	Strength 18871 18875	5 mg
+T143	Drug 175 184	Nafcillin
+T144	Drug 13176 13186	Gabapentin
+T145	Strength 13187 13193	100 mg
+T146	Form 13219 13227	CAPSULES
+T147	Dosage 13212 13216;13217 13218	1 to 3
+T148	Route 13194 13198	Oral
+T149	Drug 8115 8123	Levophed
+T150	Drug 13812 13822	gabapentin
+T151	Strength 13823 13829	300 mg
+T152	Form 13851 13858	Capsule
+T153	Route 13859 13861	PO
+T154	Drug 12730 12741;12742 12745	Ondansetron HCl
+T155	Strength 12746 12750	4 mg
+T156	Form 12775 12782	tablets
+T157	Dosage 12768 12772;12773 12774	1 to 2
+T158	Route 12751 12755	Oral
+T159	Drug 13246 13255	Lorazepam
+T160	Strength 13256 13260	1 mg
+T161	Form 13280 13286	tablet
+T162	Dosage 13278 13279	1
+T163	Route 13261 13265	Oral
+T164	Drug 9666 9671	lasix
+T165	Drug 2755 2760	Taxol
+T166	Drug 14790 14801	guaifenesin
+T167	Strength 14802 14808	600 mg
+T168	Form 14809 14815;14816 14832	Tablet Extended Release
+T169	Drug 19912 19923	fulvestrant
+T170	Strength 19925 19931;19931 19936	250 mg /5 mL
+T171	Drug 18380 18390	gabapentin
+T172	Strength 18391 18397	300 mg
+T173	Form 18416 18423	Capsule
+T174	Route 18424 18426	PO
+T175	Drug 18124 18134	Furosemide
+T176	Strength 18148 18152	10mg
+T177	Frequency 18156 18161;18162 18167	twice daily
+T179	Drug 2765 2772	Avastin
+T180	Strength 13018 13024;13024 13028	125 mg /2.5
+T181	Drug 8145 8153	dilaudid
+T182	Drug 9938 9948	Vancomycin
+T183	Drug 20180 20190	vancomycin
+T184	Drug 9685 9694	nafcillin
+T185	Strength 14560 14564	1 mg
+T186	Form 14585 14591	Tablet
+T187	Route 14592 14594	PO
+T188	Drug 14550 14558;14558 14559	lorazepa m
+T189	Drug 1657 1662	Zosyn
+T190	Drug 1499 1506	heparin
+T191	Drug 2272 2280	Taxotere
+T192	Strength 14315 14319	5 mg
+T193	Form 14320 14326;14326 14350	Tablet , Delayed Release (E.C.)
+T194	Drug 14305 14313;14313 14314	bisacody l
+T195	Drug 12002 12010	faslodex
+T196	Strength 12011 12016	500mg
+T197	Drug 16100 16110	furosemide
+T199	Frequency 18619 18622;18623 18648	Q6H (every 6 hours) as needed
+T200	Drug 3656 3662	Gemzar
+T201	Drug 2282 2292	Adriamycin
+T202	Drug 15596 15607;15608 15616	ondansetron HCl (PF)
+T203	Strength 15617 15621;15621 15626	4 mg /2 mL
+T204	Drug 18662 18670;18670 18677	camphor- menthol
+T205	Form 18689 18695	Lotion
+T206	Route 18710 18717	Topical
+T207	Drug 12783 12798;12799 12802	Diphenhydramine HCl
+T208	Strength 12803 12808	50 mg
+T209	Form 12814 12821	Capsule
+T210	Route 12824 12832	by mouth
+T211	Strength 13573 13578	50 mg
+T212	Form 13598 13604	tablet
+T213	Dosage 13596 13597	1
+T214	Route 13579 13583	Oral
+T215	Drug 13553 13571;13571 13572	Hydrochlorothiazid e
+T216	Drug 15347 15354;15355 15364	heparin (porcine)
+T217	Strength 15365 15375;15375 15378	5,000 unit /mL
+T218	Drug 7668 7678	Vancomycin
+T219	Drug 8062 8075	Phenylephrine
+T220	Drug 2297 2304	Cytoxan
+T221	Drug 8698 8707	Nafcillin
+T222	Drug 13308 13319	Propranolol
+T223	Strength 13320 13325	10 mg
+T224	Form 13364 13370	tablet
+T225	Dosage 13362 13363	1
+T226	Route 13326 13330	Oral
+T227	Reason 868 872	MSSA
+T228	Reason 6903 6915	Enterococcus
+T229	Reason 8158 8170	pain control
+T230	Reason 9225 9236	hypotension
+T231	Reason 12485 12492	anxiety
+T232	Reason 13461 13467	nausea
+T233	Reason 13540 13552	constipation
+T234	Reason 13799 13807	glaucoma
+T235	Reason 14288 14300	constipation
+T236	Reason 14426 14438	constipation
+T237	Reason 14533 14545	constipation
+T238	Reason 14780 14784	pain
+T239	Reason 15021 15033	constipation
+T240	Reason 15337 15341	pain
+T241	Reason 15693 15699	nausea
+T242	Reason 18369 18377	glaucoma
+T243	Reason 18972 18984	constipation
+T244	Reason 19072 19084	constipation
+T245	Reason 19318 19322	pain
+T246	Reason 19821 19825	pain
+T247	Reason 20085 20091	nausea
+T248	Reason 1564 1571	empyema
+T249	ADE 3483 3491	anasarca
+T250	ADE 3528 3534	nausea
+T251	ADE 3536 3543	fatigue
+T252	ADE 3545 3551	aching
+T253	Drug 1890 1902	chemotherapy
+T254	Drug 1954 1968	chemotherapies
+T255	Drug 2050 2058;2059 2072	Faslodex (Fulvestrant)
+T256	Reason 1805 1823	Stage IV breast ca
+T257	Frequency 3691 3697	weekly
+T258	Frequency 3752 3758	weekly
+T259	Frequency 3887 3896	q 21 days
+T260	Route 4438 4440	IM
+T261	Route 8076 8079	gtt
+T262	Route 8124 8127	gtt
+T265	ADE 8806 8826	Cr plateauing at 1.9
+T266	Drug 9252 9260	pressors
+T267	Reason 9672 9680	diuresis
+T268	Drug 10016 10023	albumin
+T269	Strength 10025 10028	25g
+T270	Strength 10060 10064	10mg
+T271	Drug 10065 10070	lasix
+T272	Reason 11002 11006	pain
+T273	Frequency 11061 11068	Q4H PRN
+T274	Dosage 11904 11911	2 units
+T275	Reason 11622 11628	ANEMIA
+T276	Drug 11915 11920	blood
+T277	Route 12017 12019	IM
+T278	Reason 12261 12273	CONSTIPATION
+T279	Drug 12384 12389	senna
+T280	Frequency 12475 12480	Q8hrs
+T282	Route 12615 12617	SQ
+T283	Reason 12609 12612	PPX
+T284	Form 12756 12762	Tablet
+T285	Route 12809 12813	Oral
+T286	Frequency 12833 12844	up to 3xday
+T287	Frequency 12938 12943	daily
+T288	Route 13029 13042	Intramuscular
+T289	Form 13043 13050	Syringe
+T290	Strength 13051 13056	500mg
+T291	Route 13057 13059	im
+T292	Drug 12995 13017	Fulvestrant (FASLODEX)
+T293	Form 13083 13089	Tablet
+T294	Form 13136 13142	Tablet
+T295	Form 13199 13206	Capsule
+T296	Frequency 13228 13239;13240 13245	THREE TIMES DAILY
+T297	Form 13266 13272	Tablet
+T298	Frequency 13287 13307	at bedtime as needed
+T299	Form 13331 13337	Tablet
+T300	Dosage 13343 13344	2
+T301	Form 13345 13352	TABLETs
+T302	Frequency 13353 13357	q am
+T304	Form 13412 13418	Tablet
+T305	Frequency 13433 13440;13441 13456	EVERY 8 hours AS NEEDED
+T306	Form 13497 13505	Solution
+T307	Frequency 13517 13530;13531 13535	every 6hrs as need
+T308	Form 13584 13590	Tablet
+T309	Frequency 13605 13610	daily
+T310	Drug 13695 13710	timolol maleate
+T311	Strength 13711 13716	0.5 %
+T312	Form 13717 13722	Drops
+T313	Dosage 13728 13735	One (1)
+T314	Form 13736 13740	Drop
+T315	Route 13741 13751	Ophthalmic
+T316	Frequency 13769 13794	(2 times a day) as needed
+T317	Form 13830 13837	Capsule
+T318	Dosage 13843 13850	One (1)
+T319	Frequency 13862 13868;13869 13877	HS (at bedtime)
+T320	Drug 13882 13901	ipratropium bromide
+T321	Strength 13902 13908	0.02 %
+T322	Form 13909 13917	Solution
+T323	Dosage 13923 13930	One (1)
+T324	Route 13932 13942	Inhalation
+T325	Frequency 13943 13962	Q6H (every 6 hours)
+T326	Drug 13967 13984	albuterol sulfate
+T327	Strength 13985 14007	2.5 mg /3 mL (0.083 %)
+T328	Form 14008 14020;14021 14033	Solution for Nebulization
+T329	Dosage 14039 14046	One (1)
+T330	Route 14048 14058	Inhalation
+T331	Frequency 14059 14081;14082 14088	Q6H (every 6 hours) as needed
+T332	Reason 14093 14099	wheeze
+T333	Frequency 14163 14192	QID (4 times a day) as needed
+T334	Reason 14197 14206	itchiness
+T335	Form 14150 14154	Appl
+T336	Dosage 14142 14149	One (1)
+T337	Strength 14120 14129	0.5-0.5 %
+T338	Drug 14211 14216	senna
+T339	Strength 14217 14223	8.6 mg
+T340	Form 14224 14230	Tablet
+T341	Dosage 14236 14243	One (1)
+T342	Form 14244 14250	Tablet
+T343	Route 14251 14253	PO
+T344	Frequency 14254 14268;14269 14283	BID (2 times a day) as needed
+T345	Dosage 14356 14363	Two (2)
+T346	Form 14364 14394	Tablet, Delayed Release (E.C.)
+T347	Route 14395 14397	PO
+T348	Frequency 14398 14421	DAILY (Daily) as needed
+T349	Strength 14468 14480	17 gram/dose
+T350	Dosage 14493 14500	One (1)
+T351	Frequency 14505 14528	DAILY (Daily) as needed
+T352	Form 14565 14571	Tablet
+T353	Dosage 14577 14584	One (1)
+T354	Frequency 14595 14609;14610 14614	TID (3 times a day)
+T355	Form 14642 14648	Tablet
+T356	Dosage 14654 14661	One (1)
+T357	Frequency 14672 14678;14679 14691	BID (2 times a day)
+T358	Form 14716 14722	Tablet
+T359	Dosage 14728 14735	Two (2)
+T360	Frequency 14746 14756;14757 14775	Q4H (every 4 hours) as needed
+T361	Dosage 14838 14845	One (1)
+T362	Form 14846 14869	Tablet Extended Release
+T363	Route 14870 14872	PO
+T364	Frequency 14873 14902	BID (2 times a day) as needed
+T365	Reason 14907 14926	difficulty coughing
+T366	Form 14955 14962	Capsule
+T367	Dosage 14968 14975	One (1)
+T368	Frequency 14987 14990;14991 15016	BID (2 times a day) as needed
+T369	Drug 15039 15057	miconazole nitrate
+T370	Strength 15058 15061	2 %
+T371	Form 15062 15068	Powder
+T372	Dosage 15074 15081	One (1)
+T373	Form 15082 15086	Appl
+T374	Route 15087 15094	Topical
+T375	Frequency 15113 15126	2 times a day
+T376	Dosage 15184 15191	One (1)
+T377	Form 15192 15221	Tablet Extended Release 12 hr
+T378	Route 15222 15224	PO
+T379	Frequency 15225 15246	Q12H (every 12 hours)
+T380	Form 15273 15279	Tablet
+T381	Dosage 15285 15292	One (1)
+T382	Frequency 15303 15306;15307 15332	Q6H (every 6 hours) as needed
+T383	Form 15379 15387	Solution
+T384	Dosage 15393 15400	One (1)
+T385	Route 15401 15410	Injection
+T386	Frequency 15411 15430	TID (3 times a day)
+T387	Form 15460 15467	Syringe
+T388	Dosage 15473 15480	Two (2)
+T389	Route 15482 15495	Intramuscular
+T390	Duration 15520 15532	for 1 months
+T391	Frequency 15496 15500	ONCE
+T392	Form 15627 15635	Solution
+T393	Dosage 15641 15648	One (1)
+T394	Route 15649 15658	Injection
+T395	Frequency 15659 15688	Q8H (every 8 hours) as needed
+T396	Drug 15814 15828	albumin, human
+T397	Route 15883 15894	Intravenous
+T398	Strength 15829 15838	25 % 25 %
+T399	Strength 15864 15870;15871 15882	Twenty Five (25) g
+T400	Form 15839 15858	Parenteral Solution
+T401	Frequency 15913 15926	2 times a day
+T402	Form 16008 16016	Solution
+T403	Strength 16022 16033	Ten (10) mg
+T404	Frequency 16062 16075	2 times a day
+T405	Strength 16095 16099	10mg
+T406	Drug 16164 16171	albumin
+T407	Frequency 16114 16119;16120 16125	twice daily
+T408	Form 16197 16207	Recon Soln
+T409	Dosage 16213 16220	One (1)
+T411	ADE 16869 16897	Acute Interstitial Nephritis
+T412	Drug 18267 18282	Timolol maleate
+T413	Drug 18194 18201	albumin
+T414	Strength 18284 18289	0.5 %
+T415	Form 18290 18295	Drops
+T416	Dosage 18298 18305	One (1)
+T417	Form 18306 18310	Drop
+T418	Frequency 18339 18341;18342 18364	(2 times a day) as needed
+T419	Route 18311 18321	Ophthalmic
+T420	Form 18398 18405	Capsule
+T421	Dosage 18408 18415	One (1)
+T422	Frequency 18427 18442	HS (at bedtime)
+T423	Drug 18451 18470	ipratropium bromide
+T424	Strength 18472 18478	0.02 %
+T425	Form 18479 18487	Solution
+T426	Dosage 18490 18497	One (1)
+T427	Route 18498 18508	Inhalation
+T428	Frequency 18509 18512;18513 18528	Q6H (every 6 hours)
+T429	Drug 18530 18547	albuterol sulfate
+T430	Strength 18549 18571	2.5 mg /3 mL (0.083 %)
+T431	Form 18572 18584;18585 18597	Solution for Nebulization
+T432	Route 18608 18618	Inhalation
+T433	Dosage 18600 18607	One (1)
+T434	Reason 18653 18659	wheeze
+T435	Strength 18679 18688	0.5-0.5 %
+T436	Dosage 18697 18704	One (1)
+T437	Form 18705 18709	Appl
+T438	Frequency 18718 18724;18725 18747	QID (4 times a day) as needed
+T439	Reason 18752 18761	itchiness
+T440	Drug 18771 18776	senna
+T441	Strength 18778 18784	8.6 mg
+T442	Form 18785 18791	Tablet
+T443	Dosage 18794 18801	One (1)
+T444	Form 18802 18808	Tablet
+T445	Route 18809 18811	PO
+T446	Reason 18846 18858	constipation
+T447	Frequency 18812 18834;18835 18841	BID (2 times a day) as needed
+T448	Form 18876 18899	Tablet, Delayed Release
+T449	Dosage 18902 18909	Two (2)
+T450	Form 18910 18917;18918 18940	Tablet, Delayed Release (E.C.)
+T451	Route 18941 18943	PO
+T452	Frequency 18944 18967	DAILY (Daily) as needed
+T453	Strength 19013 19025	17 gram/dose
+T454	Frequency 19044 19049;19050 19067	DAILY (Daily) as needed
+T455	Dosage 19033 19040	One (1)
+T456	Form 19103 19109	Tablet
+T457	Dosage 19112 19119	One (1)
+T458	Form 19181 19187	Tablet
+T459	Dosage 19190 19197	One (1)
+T460	Frequency 19208 19222;19223 19227	BID (2 times a day)
+T461	Frequency 20116 20138	Q 24H (every 24 hours)
+T462	Form 20022 20030	Solution
+T463	Dosage 20033 20040	One (1)
+T464	Frequency 20051 20054;20055 20080	Q8H (every 8 hours) as needed
+T465	Form 19861 19869	Solution
+T466	Dosage 19872 19879	One (1)
+T467	Frequency 19890 19909	TID (3 times a day)
+T468	Form 19937 19944	Syringe
+T469	Dosage 19947 19954	Two (2)
+T470	Route 19955 19968	Intramuscular
+T471	Frequency 19969 19972;19973 19987	one time per month
+T472	Form 19760 19766	Tablet
+T473	Dosage 19769 19776	One (1)
+T474	Frequency 19787 19799;19800 19816	Q6H (every 6 hours) as needed
+T475	Form 19641 19670	Tablet Extended Release 12 hr
+T476	Dosage 19673 19680	One (1)
+T477	Form 19681 19687;19688 19710	Tablet Extended Release 12 hr
+T478	Route 19711 19713	PO
+T479	Frequency 19714 19735	Q12H (every 12 hours)
+T480	Drug 19535 19553	miconazole nitrate
+T481	Strength 19555 19558	2 %
+T482	Form 19559 19565	Powder
+T483	Dosage 19568 19575	One (1)
+T484	Form 19576 19580	Appl
+T485	Route 19581 19588	Topical
+T487	Form 19485 19492	Capsule
+T488	Dosage 19495 19502	One (1)
+T489	Frequency 19514 19520;19521 19533	BID (2 times a day)
+T490	Form 19344 19367	Tablet Extended Release
+T491	Dosage 19370 19377	One (1)
+T492	Frequency 19284 19296;19297 19313	Q4H (every 4 hours) as needed
+T493	Form 19257 19263	Tablet
+T494	Dosage 19266 19273	Two (2)
+T495	Form 19378 19384;19385 19401	Tablet Extended Release
+T496	Route 19402 19404	PO
+T497	Frequency 19405 19434	BID (2 times a day) as needed
+T498	Reason 19439 19449;19450 19458	difficulty coughing
+R1	Strength-Drug Arg1:T4 Arg2:T3
+R2	Form-Drug Arg1:T5 Arg2:T3
+R3	Route-Drug Arg1:T6 Arg2:T3
+R4	Strength-Drug Arg1:T9 Arg2:T8
+R5	Form-Drug Arg1:T10 Arg2:T8
+R6	Strength-Drug Arg1:T12 Arg2:T11
+R7	Form-Drug Arg1:T13 Arg2:T11
+R8	Route-Drug Arg1:T14 Arg2:T11
+R9	Strength-Drug Arg1:T16 Arg2:T15
+R10	Strength-Drug Arg1:T20 Arg2:T23
+R11	Form-Drug Arg1:T21 Arg2:T23
+R12	Route-Drug Arg1:T22 Arg2:T23
+R13	Strength-Drug Arg1:T26 Arg2:T25
+R14	Form-Drug Arg1:T27 Arg2:T25
+R15	Route-Drug Arg1:T28 Arg2:T25
+R16	Strength-Drug Arg1:T30 Arg2:T29
+R17	Form-Drug Arg1:T31 Arg2:T29
+R18	Strength-Drug Arg1:T32 Arg2:T37
+R19	Form-Drug Arg1:T33 Arg2:T37
+R20	Dosage-Drug Arg1:T34 Arg2:T37
+R21	Frequency-Drug Arg1:T35 Arg2:T37
+R22	Route-Drug Arg1:T36 Arg2:T37
+R23	Form-Drug Arg1:T39 Arg2:T38
+R24	Route-Drug Arg1:T40 Arg2:T38
+R25	Strength-Drug Arg1:T42 Arg2:T41
+R26	Route-Drug Arg1:T43 Arg2:T41
+R27	Strength-Drug Arg1:T45 Arg2:T44
+R28	Form-Drug Arg1:T46 Arg2:T44
+R29	Route-Drug Arg1:T47 Arg2:T44
+R30	Strength-Drug Arg1:T53 Arg2:T52
+R31	Route-Drug Arg1:T54 Arg2:T52
+R32	Strength-Drug Arg1:T56 Arg2:T55
+R33	Form-Drug Arg1:T57 Arg2:T55
+R34	Dosage-Drug Arg1:T58 Arg2:T55
+R35	Frequency-Drug Arg1:T59 Arg2:T55
+R36	Route-Drug Arg1:T60 Arg2:T55
+R37	Strength-Drug Arg1:T62 Arg2:T61
+R38	Frequency-Drug Arg1:T63 Arg2:T61
+R39	Route-Drug Arg1:T64 Arg2:T61
+R40	Strength-Drug Arg1:T66 Arg2:T65
+R41	Form-Drug Arg1:T67 Arg2:T65
+R42	Dosage-Drug Arg1:T68 Arg2:T65
+R43	Route-Drug Arg1:T69 Arg2:T65
+R44	Strength-Drug Arg1:T71 Arg2:T70
+R45	Form-Drug Arg1:T72 Arg2:T70
+R46	Route-Drug Arg1:T73 Arg2:T70
+R47	Strength-Drug Arg1:T75 Arg2:T74
+R48	Strength-Drug Arg1:T79 Arg2:T78
+R49	Strength-Drug Arg1:T82 Arg2:T81
+R50	Form-Drug Arg1:T83 Arg2:T81
+R51	Route-Drug Arg1:T84 Arg2:T81
+R52	Strength-Drug Arg1:T85 Arg2:T89
+R53	Form-Drug Arg1:T86 Arg2:T89
+R54	Frequency-Drug Arg1:T87 Arg2:T89
+R55	Route-Drug Arg1:T88 Arg2:T89
+R56	Route-Drug Arg1:T91 Arg2:T90
+R57	Strength-Drug Arg1:T98 Arg2:T97
+R59	Strength-Drug Arg1:T103 Arg2:T102
+R60	Form-Drug Arg1:T104 Arg2:T102
+R61	Strength-Drug Arg1:T108 Arg2:T107
+R62	Form-Drug Arg1:T109 Arg2:T107
+R63	Route-Drug Arg1:T110 Arg2:T107
+R64	Strength-Drug Arg1:T112 Arg2:T111
+R65	Strength-Drug Arg1:T115 Arg2:T114
+R66	Strength-Drug Arg1:T117 Arg2:T116
+R68	Form-Drug Arg1:T120 Arg2:T119
+R69	Route-Drug Arg1:T121 Arg2:T119
+R70	Strength-Drug Arg1:T125 Arg2:T124
+R71	Form-Drug Arg1:T126 Arg2:T124
+R72	Route-Drug Arg1:T127 Arg2:T124
+R73	Strength-Drug Arg1:T130 Arg2:T129
+R74	Dosage-Drug Arg1:T131 Arg2:T129
+R75	Route-Drug Arg1:T132 Arg2:T129
+R76	Strength-Drug Arg1:T137 Arg2:T136
+R77	Strength-Drug Arg1:T139 Arg2:T138
+R78	Route-Drug Arg1:T140 Arg2:T138
+R79	Strength-Drug Arg1:T142 Arg2:T141
+R80	Strength-Drug Arg1:T145 Arg2:T144
+R81	Form-Drug Arg1:T146 Arg2:T144
+R82	Dosage-Drug Arg1:T147 Arg2:T144
+R83	Route-Drug Arg1:T148 Arg2:T144
+R84	Strength-Drug Arg1:T151 Arg2:T150
+R85	Form-Drug Arg1:T152 Arg2:T150
+R86	Route-Drug Arg1:T153 Arg2:T150
+R87	Strength-Drug Arg1:T155 Arg2:T154
+R88	Form-Drug Arg1:T156 Arg2:T154
+R89	Dosage-Drug Arg1:T157 Arg2:T154
+R90	Route-Drug Arg1:T158 Arg2:T154
+R91	Strength-Drug Arg1:T160 Arg2:T159
+R92	Form-Drug Arg1:T161 Arg2:T159
+R93	Dosage-Drug Arg1:T162 Arg2:T159
+R94	Route-Drug Arg1:T163 Arg2:T159
+R95	Strength-Drug Arg1:T167 Arg2:T166
+R96	Form-Drug Arg1:T168 Arg2:T166
+R97	Strength-Drug Arg1:T170 Arg2:T169
+R98	Strength-Drug Arg1:T172 Arg2:T171
+R99	Form-Drug Arg1:T173 Arg2:T171
+R100	Route-Drug Arg1:T174 Arg2:T171
+R101	Strength-Drug Arg1:T176 Arg2:T175
+R102	Frequency-Drug Arg1:T177 Arg2:T175
+R104	Strength-Drug Arg1:T185 Arg2:T188
+R105	Form-Drug Arg1:T186 Arg2:T188
+R106	Route-Drug Arg1:T187 Arg2:T188
+R107	Strength-Drug Arg1:T192 Arg2:T194
+R108	Form-Drug Arg1:T193 Arg2:T194
+R109	Strength-Drug Arg1:T196 Arg2:T195
+R111	Strength-Drug Arg1:T203 Arg2:T202
+R112	Form-Drug Arg1:T205 Arg2:T204
+R113	Route-Drug Arg1:T206 Arg2:T204
+R114	Strength-Drug Arg1:T208 Arg2:T207
+R115	Form-Drug Arg1:T209 Arg2:T207
+R116	Route-Drug Arg1:T210 Arg2:T207
+R117	Strength-Drug Arg1:T211 Arg2:T215
+R118	Form-Drug Arg1:T212 Arg2:T215
+R119	Dosage-Drug Arg1:T213 Arg2:T215
+R120	Route-Drug Arg1:T214 Arg2:T215
+R121	Strength-Drug Arg1:T217 Arg2:T216
+R122	Strength-Drug Arg1:T223 Arg2:T222
+R123	Form-Drug Arg1:T224 Arg2:T222
+R124	Dosage-Drug Arg1:T225 Arg2:T222
+R125	Route-Drug Arg1:T226 Arg2:T222
+R126	Reason-Drug Arg1:T227 Arg2:T122
+R127	Reason-Drug Arg1:T248 Arg2:T96
+R128	Reason-Drug Arg1:T248 Arg2:T189
+R129	ADE-Drug Arg1:T249 Arg2:T111
+R130	ADE-Drug Arg1:T251 Arg2:T111
+R131	ADE-Drug Arg1:T252 Arg2:T111
+R132	ADE-Drug Arg1:T250 Arg2:T111
+R133	Reason-Drug Arg1:T256 Arg2:T253
+R134	Frequency-Drug Arg1:T257 Arg2:T101
+R135	Frequency-Drug Arg1:T258 Arg2:T24
+R136	Frequency-Drug Arg1:T259 Arg2:T97
+R137	Route-Drug Arg1:T260 Arg2:T74
+R138	Reason-Drug Arg1:T228 Arg2:T134
+R139	Route-Drug Arg1:T262 Arg2:T149
+R140	Route-Drug Arg1:T261 Arg2:T219
+R142	Reason-Drug Arg1:T229 Arg2:T181
+R144	ADE-Drug Arg1:T265 Arg2:T221
+R145	Reason-Drug Arg1:T230 Arg2:T266
+R146	Reason-Drug Arg1:T267 Arg2:T164
+R147	Strength-Drug Arg1:T269 Arg2:T268
+R148	Strength-Drug Arg1:T270 Arg2:T271
+R149	Reason-Drug Arg1:T272 Arg2:T41
+R150	Reason-Drug Arg1:T272 Arg2:T61
+R151	Frequency-Drug Arg1:T273 Arg2:T41
+R152	Dosage-Drug Arg1:T274 Arg2:T276
+R153	Reason-Drug Arg1:T275 Arg2:T276
+R154	Route-Drug Arg1:T277 Arg2:T195
+R155	Reason-Drug Arg1:T278 Arg2:T279
+R156	Reason-Drug Arg1:T278 Arg2:T80
+R157	Reason-Drug Arg1:T278 Arg2:T76
+R158	Reason-Drug Arg1:T278 Arg2:T105
+R159	Frequency-Drug Arg1:T280 Arg2:T138
+R162	Form-Drug Arg1:T284 Arg2:T154
+R163	Route-Drug Arg1:T285 Arg2:T207
+R164	Frequency-Drug Arg1:T286 Arg2:T207
+R165	Form-Drug Arg1:T106 Arg2:T11
+R166	Frequency-Drug Arg1:T287 Arg2:T11
+R167	Form-Drug Arg1:T293 Arg2:T37
+R168	Form-Drug Arg1:T294 Arg2:T55
+R169	Form-Drug Arg1:T295 Arg2:T144
+R170	Frequency-Drug Arg1:T296 Arg2:T144
+R171	Form-Drug Arg1:T297 Arg2:T159
+R172	Frequency-Drug Arg1:T298 Arg2:T159
+R174	Form-Drug Arg1:T299 Arg2:T222
+R175	Dosage-Drug Arg1:T300 Arg2:T222
+R176	Form-Drug Arg1:T301 Arg2:T222
+R177	Frequency-Drug Arg1:T302 Arg2:T222
+R178	Form-Drug Arg1:T304 Arg2:T65
+R179	Frequency-Drug Arg1:T305 Arg2:T65
+R180	Reason-Drug Arg1:T233 Arg2:T129
+R181	Form-Drug Arg1:T306 Arg2:T129
+R182	Frequency-Drug Arg1:T307 Arg2:T129
+R183	Form-Drug Arg1:T308 Arg2:T215
+R184	Frequency-Drug Arg1:T309 Arg2:T215
+R185	Strength-Drug Arg1:T311 Arg2:T310
+R186	Frequency-Drug Arg1:T316 Arg2:T310
+R187	Reason-Drug Arg1:T234 Arg2:T310
+R188	Form-Drug Arg1:T312 Arg2:T310
+R189	Dosage-Drug Arg1:T313 Arg2:T310
+R190	Form-Drug Arg1:T314 Arg2:T310
+R191	Route-Drug Arg1:T315 Arg2:T310
+R192	Form-Drug Arg1:T317 Arg2:T150
+R193	Dosage-Drug Arg1:T318 Arg2:T150
+R194	Frequency-Drug Arg1:T319 Arg2:T150
+R195	Strength-Drug Arg1:T321 Arg2:T320
+R196	Form-Drug Arg1:T322 Arg2:T320
+R197	Dosage-Drug Arg1:T323 Arg2:T320
+R198	Route-Drug Arg1:T324 Arg2:T320
+R199	Frequency-Drug Arg1:T325 Arg2:T320
+R200	Strength-Drug Arg1:T327 Arg2:T326
+R201	Form-Drug Arg1:T328 Arg2:T326
+R202	Frequency-Drug Arg1:T331 Arg2:T326
+R203	Reason-Drug Arg1:T332 Arg2:T326
+R204	Dosage-Drug Arg1:T329 Arg2:T326
+R205	Route-Drug Arg1:T330 Arg2:T326
+R206	Strength-Drug Arg1:T337 Arg2:T38
+R207	Reason-Drug Arg1:T334 Arg2:T38
+R208	Frequency-Drug Arg1:T333 Arg2:T38
+R209	Dosage-Drug Arg1:T336 Arg2:T38
+R210	Form-Drug Arg1:T335 Arg2:T38
+R211	Strength-Drug Arg1:T339 Arg2:T338
+R212	Form-Drug Arg1:T340 Arg2:T338
+R213	Frequency-Drug Arg1:T344 Arg2:T338
+R214	Reason-Drug Arg1:T235 Arg2:T338
+R215	Dosage-Drug Arg1:T341 Arg2:T338
+R216	Form-Drug Arg1:T342 Arg2:T338
+R217	Route-Drug Arg1:T343 Arg2:T338
+R218	Dosage-Drug Arg1:T345 Arg2:T194
+R219	Form-Drug Arg1:T346 Arg2:T194
+R220	Reason-Drug Arg1:T236 Arg2:T194
+R221	Route-Drug Arg1:T347 Arg2:T194
+R222	Frequency-Drug Arg1:T348 Arg2:T194
+R223	Dosage-Drug Arg1:T350 Arg2:T119
+R224	Frequency-Drug Arg1:T351 Arg2:T119
+R225	Strength-Drug Arg1:T349 Arg2:T119
+R226	Reason-Drug Arg1:T237 Arg2:T119
+R227	Form-Drug Arg1:T352 Arg2:T188
+R228	Dosage-Drug Arg1:T353 Arg2:T188
+R229	Frequency-Drug Arg1:T354 Arg2:T188
+R230	Frequency-Drug Arg1:T357 Arg2:T25
+R231	Form-Drug Arg1:T355 Arg2:T25
+R232	Dosage-Drug Arg1:T356 Arg2:T25
+R233	Form-Drug Arg1:T358 Arg2:T107
+R234	Reason-Drug Arg1:T238 Arg2:T107
+R235	Frequency-Drug Arg1:T360 Arg2:T107
+R236	Dosage-Drug Arg1:T359 Arg2:T107
+R237	Dosage-Drug Arg1:T361 Arg2:T166
+R238	Form-Drug Arg1:T362 Arg2:T166
+R239	Reason-Drug Arg1:T365 Arg2:T166
+R240	Route-Drug Arg1:T363 Arg2:T166
+R241	Frequency-Drug Arg1:T364 Arg2:T166
+R242	Form-Drug Arg1:T366 Arg2:T81
+R243	Dosage-Drug Arg1:T367 Arg2:T81
+R244	Frequency-Drug Arg1:T368 Arg2:T81
+R245	Reason-Drug Arg1:T239 Arg2:T81
+R246	Strength-Drug Arg1:T370 Arg2:T369
+R247	Form-Drug Arg1:T371 Arg2:T369
+R248	Dosage-Drug Arg1:T372 Arg2:T369
+R249	Form-Drug Arg1:T373 Arg2:T369
+R250	Route-Drug Arg1:T374 Arg2:T369
+R251	Frequency-Drug Arg1:T375 Arg2:T369
+R252	Dosage-Drug Arg1:T376 Arg2:T29
+R253	Form-Drug Arg1:T377 Arg2:T29
+R254	Route-Drug Arg1:T378 Arg2:T29
+R255	Frequency-Drug Arg1:T379 Arg2:T29
+R256	Form-Drug Arg1:T380 Arg2:T124
+R257	Dosage-Drug Arg1:T381 Arg2:T124
+R258	Frequency-Drug Arg1:T382 Arg2:T124
+R259	Reason-Drug Arg1:T240 Arg2:T124
+R260	Form-Drug Arg1:T383 Arg2:T216
+R261	Dosage-Drug Arg1:T384 Arg2:T216
+R262	Route-Drug Arg1:T385 Arg2:T216
+R263	Frequency-Drug Arg1:T386 Arg2:T216
+R264	Frequency-Drug Arg1:T391 Arg2:T78
+R265	Duration-Drug Arg1:T390 Arg2:T78
+R266	Form-Drug Arg1:T387 Arg2:T78
+R267	Dosage-Drug Arg1:T388 Arg2:T78
+R268	Route-Drug Arg1:T389 Arg2:T78
+R269	Form-Drug Arg1:T392 Arg2:T202
+R270	Dosage-Drug Arg1:T393 Arg2:T202
+R271	Route-Drug Arg1:T394 Arg2:T202
+R272	Frequency-Drug Arg1:T395 Arg2:T202
+R273	Reason-Drug Arg1:T241 Arg2:T202
+R274	Strength-Drug Arg1:T398 Arg2:T396
+R275	Form-Drug Arg1:T400 Arg2:T396
+R276	Strength-Drug Arg1:T399 Arg2:T396
+R277	Route-Drug Arg1:T397 Arg2:T396
+R278	Frequency-Drug Arg1:T401 Arg2:T396
+R279	Form-Drug Arg1:T402 Arg2:T102
+R280	Strength-Drug Arg1:T403 Arg2:T102
+R281	Frequency-Drug Arg1:T404 Arg2:T102
+R282	Strength-Drug Arg1:T405 Arg2:T197
+R283	Frequency-Drug Arg1:T407 Arg2:T197
+R284	Form-Drug Arg1:T408 Arg2:T52
+R286	Dosage-Drug Arg1:T409 Arg2:T52
+R287	ADE-Drug Arg1:T411 Arg2:T7
+R288	Strength-Drug Arg1:T414 Arg2:T412
+R289	Frequency-Drug Arg1:T418 Arg2:T412
+R290	Reason-Drug Arg1:T242 Arg2:T412
+R291	Form-Drug Arg1:T415 Arg2:T412
+R292	Dosage-Drug Arg1:T416 Arg2:T412
+R293	Form-Drug Arg1:T417 Arg2:T412
+R294	Route-Drug Arg1:T419 Arg2:T412
+R295	Form-Drug Arg1:T420 Arg2:T171
+R296	Dosage-Drug Arg1:T421 Arg2:T171
+R297	Frequency-Drug Arg1:T422 Arg2:T171
+R298	Strength-Drug Arg1:T424 Arg2:T423
+R299	Form-Drug Arg1:T425 Arg2:T423
+R300	Dosage-Drug Arg1:T426 Arg2:T423
+R301	Route-Drug Arg1:T427 Arg2:T423
+R302	Frequency-Drug Arg1:T428 Arg2:T423
+R303	Strength-Drug Arg1:T430 Arg2:T429
+R304	Reason-Drug Arg1:T434 Arg2:T429
+R305	Form-Drug Arg1:T431 Arg2:T429
+R306	Dosage-Drug Arg1:T433 Arg2:T429
+R307	Route-Drug Arg1:T432 Arg2:T429
+R308	Frequency-Drug Arg1:T199 Arg2:T429
+R309	Strength-Drug Arg1:T435 Arg2:T204
+R310	Frequency-Drug Arg1:T438 Arg2:T204
+R311	Reason-Drug Arg1:T439 Arg2:T204
+R312	Dosage-Drug Arg1:T436 Arg2:T204
+R313	Form-Drug Arg1:T437 Arg2:T204
+R314	Strength-Drug Arg1:T441 Arg2:T440
+R315	Form-Drug Arg1:T442 Arg2:T440
+R316	Dosage-Drug Arg1:T443 Arg2:T440
+R317	Form-Drug Arg1:T444 Arg2:T440
+R318	Route-Drug Arg1:T445 Arg2:T440
+R319	Frequency-Drug Arg1:T447 Arg2:T440
+R320	Reason-Drug Arg1:T446 Arg2:T440
+R321	Form-Drug Arg1:T448 Arg2:T141
+R322	Reason-Drug Arg1:T243 Arg2:T141
+R323	Dosage-Drug Arg1:T449 Arg2:T141
+R324	Form-Drug Arg1:T450 Arg2:T141
+R325	Route-Drug Arg1:T451 Arg2:T141
+R326	Frequency-Drug Arg1:T452 Arg2:T141
+R327	Frequency-Drug Arg1:T454 Arg2:T90
+R328	Reason-Drug Arg1:T244 Arg2:T90
+R329	Strength-Drug Arg1:T453 Arg2:T90
+R330	Dosage-Drug Arg1:T455 Arg2:T90
+R331	Form-Drug Arg1:T456 Arg2:T89
+R332	Dosage-Drug Arg1:T457 Arg2:T89
+R333	Form-Drug Arg1:T458 Arg2:T70
+R334	Dosage-Drug Arg1:T459 Arg2:T70
+R335	Frequency-Drug Arg1:T460 Arg2:T70
+R336	Frequency-Drug Arg1:T461 Arg2:T116
+R337	Form-Drug Arg1:T462 Arg2:T15
+R338	Dosage-Drug Arg1:T463 Arg2:T15
+R339	Reason-Drug Arg1:T247 Arg2:T15
+R340	Frequency-Drug Arg1:T464 Arg2:T15
+R341	Route-Drug Arg1:T17 Arg2:T15
+R342	Form-Drug Arg1:T465 Arg2:T8
+R343	Dosage-Drug Arg1:T466 Arg2:T8
+R344	Frequency-Drug Arg1:T467 Arg2:T8
+R345	Form-Drug Arg1:T468 Arg2:T169
+R346	Dosage-Drug Arg1:T469 Arg2:T169
+R347	Route-Drug Arg1:T470 Arg2:T169
+R348	Frequency-Drug Arg1:T471 Arg2:T169
+R349	Form-Drug Arg1:T472 Arg2:T23
+R350	Dosage-Drug Arg1:T473 Arg2:T23
+R351	Frequency-Drug Arg1:T474 Arg2:T23
+R352	Form-Drug Arg1:T475 Arg2:T136
+R353	Dosage-Drug Arg1:T476 Arg2:T136
+R354	Form-Drug Arg1:T477 Arg2:T136
+R355	Route-Drug Arg1:T478 Arg2:T136
+R356	Frequency-Drug Arg1:T479 Arg2:T136
+R357	Strength-Drug Arg1:T481 Arg2:T480
+R358	Form-Drug Arg1:T482 Arg2:T480
+R359	Dosage-Drug Arg1:T483 Arg2:T480
+R360	Form-Drug Arg1:T484 Arg2:T480
+R361	Route-Drug Arg1:T485 Arg2:T480
+R363	Form-Drug Arg1:T487 Arg2:T3
+R364	Dosage-Drug Arg1:T488 Arg2:T3
+R365	Frequency-Drug Arg1:T489 Arg2:T3
+R366	Form-Drug Arg1:T493 Arg2:T44
+R367	Dosage-Drug Arg1:T494 Arg2:T44
+R368	Frequency-Drug Arg1:T492 Arg2:T44
+R369	Reason-Drug Arg1:T245 Arg2:T44
+R370	Form-Drug Arg1:T490 Arg2:T114
+R371	Dosage-Drug Arg1:T491 Arg2:T114
+R372	Form-Drug Arg1:T495 Arg2:T114
+R373	Route-Drug Arg1:T496 Arg2:T114
+R374	Frequency-Drug Arg1:T497 Arg2:T114
+R375	Reason-Drug Arg1:T498 Arg2:T114
+T500	Reason 2437 2457;2458 2466	carcinoma consistent w/breast
+T501	Dosage 3472 3475	two
+T504	Reason 8015 8035	SBP remained in 80's
+T506	Route 10031 10032	)
+T508	Reason 11975 11999	METASTATIC BREAST CANCER
+T509	Reason 12394 12401	ANXIETY
+T510	Dosage 12822 12823	1
+T511	Drug 1605 1615	antibiotic
+T512	Drug 7631 7641	antibiotic
+T514	Dosage 8055 8057	2L
+T515	Drug 8058 8060	LR
+T516	Drug 8534 8544	antibiotic
+T518	Reason 11117 11121	pain
+T519	Reason 12425 12432	anxiety
+T521	Drug 16497 16502	Vanco
+T524	Drug 18019 18026	Albumin
+T525	Strength 18040 18043	25g
+T527	Frequency 18047 18058	twice daily
+T528	Form 19026 19031	Powde
+R376	Dosage-Drug Arg1:T514 Arg2:T515
+R377	Strength-Drug Arg1:T525 Arg2:T524
+R379	Frequency-Drug Arg1:T527 Arg2:T524
+R380	Reason-Drug Arg1:T500 Arg2:T51	
+R381	Reason-Drug Arg1:T500 Arg2:T113	
+R382	Dosage-Drug Arg1:T501 Arg2:T111	
+R383	Reason-Drug Arg1:T504 Arg2:T219	
+R384	Route-Drug Arg1:T506 Arg2:T268	
+R385	Reason-Drug Arg1:T518 Arg2:T128	
+R386	Reason-Drug Arg1:T508 Arg2:T195	
+R387	Reason-Drug Arg1:T509 Arg2:T138	
+R388	Reason-Drug Arg1:T519 Arg2:T138	
+R389	Reason-Drug Arg1:T231 Arg2:T138	
+R390	Strength-Drug Arg1:T180 Arg2:T292	
+R391	Route-Drug Arg1:T288 Arg2:T292	
+R392	Form-Drug Arg1:T289 Arg2:T292	
+R393	Strength-Drug Arg1:T290 Arg2:T292	
+R394	Route-Drug Arg1:T291 Arg2:T292	
+R395	Reason-Drug Arg1:T232 Arg2:T65	
+R396	Reason-Drug Arg1:T246 Arg2:T23	
+T99	Drug 12614 12615	H
+R58	Reason-Drug Arg1:T283 Arg2:T99	
+R67	Route-Drug Arg1:T282 Arg2:T99	
+T118	Route 3884 3886	IV
+R103	Route-Drug Arg1:T118 Arg2:T97	
+T178	Route 8531 8533	IV
+R110	Route-Drug Arg1:T178 Arg2:T516	
+T198	Route 16111 16113	IV
+R141	Route-Drug Arg1:T198 Arg2:T197	
+T263	Route 18044 18046	IV
+R143	Route-Drug Arg1:T263 Arg2:T524	
+T264	Route 18153 18155	IV
+R160	Route-Drug Arg1:T264 Arg2:T175	
+T281	Drug 5071 5073	O2
+T303	Route 8142 8144	IV
+R161	Route-Drug Arg1:T303 Arg2:T181	
+T410	Route 20113 20115	IV
+R173	Route-Drug Arg1:T410 Arg2:T116	
+T486	Reason 877 889	Enterococcus
+R285	Reason-Drug Arg1:T486 Arg2:T122	
+T499	Reason 6894 6898	MSSA
+R362	Reason-Drug Arg1:T499 Arg2:T134	
+T502	ADE 8796 8799	AIN
+R378	ADE-Drug Arg1:T502 Arg2:T221	

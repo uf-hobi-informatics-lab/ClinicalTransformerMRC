@@ -1,0 +1,208 @@
+Admission Date:  [**2109-6-2**]              Discharge Date:   [**2109-6-8**]
+
+Date of Birth:  [**2089-4-1**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 598**]
+Chief Complaint:
+Trauma:  stab wound
+
+Major Surgical or Invasive Procedure:
+[**2109-6-2**] Trauma ex-lap, repair gastric perforation
+
+
+History of Present Illness:
+History Present Illness: 22M s/p stab to LUQ w/ 6" knife w/
+large
+hematemesis ~2-3L, brought into ED via [**Location (un) **], received 2
+units RBC, hemodynamically stable, intubated w/ more hematemesis
+post-intubation, additional 3units RBCs given during flight.  Pt
+was then brought emergently to OR where on ex-lap, there was
+concern for aortic injury on top of gastric/hepatic injuries.
+
+
+Past Medical History:
+PMH: htn, hyperlipidemia
+
+Social History:
+NC
+
+Family History:
+NC
+
+Physical Exam:
+Vitals:T=98.8, Hr=77, bp=112/88, rr=18, sat=98%/ra
+Gen:A+Ox3
+HEENT: PERRL, EOMI
+Chest:  CTABL
+CVS: NS1S2
+Abd:soft, appropriately tender, non distended, no rebound/
+guarding
+wound:c/d/i
+Ext: no c/c/e
+
+
+Pertinent Results:
+[**2109-6-4**] 06:20AM BLOOD WBC-12.5* RBC-4.02* Hgb-12.1* Hct-36.6*
+MCV-91 MCH-30.1 MCHC-33.1 RDW-13.7 Plt Ct-159
+[**2109-6-3**] 09:54AM BLOOD Hct-38.5*
+[**2109-6-4**] 06:20AM BLOOD Plt Ct-159
+[**2109-6-3**] 01:48AM BLOOD Plt Ct-198
+[**2109-6-3**] 01:48AM BLOOD PT-13.0 PTT-23.5 INR(PT)-1.1
+[**2109-6-4**] 06:20AM BLOOD Glucose-140* UreaN-8 Creat-0.7 Na-135
+K-4.0 Cl-102 HCO3-27 AnGap-10
+[**2109-6-3**] 01:48AM BLOOD Glucose-136* UreaN-19 Creat-0.9 Na-142
+K-4.4 Cl-110* HCO3-22 AnGap-14
+[**2109-6-4**] 06:20AM BLOOD Calcium-8.5 Phos-1.8*# Mg-1.7
+[**2109-6-3**] 02:04AM BLOOD freeCa-1.20
+
+[**2109-6-2**]: chest x-ray:
+
+Endotracheal and nasogastric tubes in appropriate position.
+Clear lungs
+
+[**2109-6-2**]: x-ray of the abdomen:
+
+FINDINGS: Supine AP portable view of the abdomen and pelvis were
+obtained. A vertical line of skin surgical staples is seen
+coursing in the midline. The inferior aspect of a nasogastric
+tube is seen coiling in the left upper quadrant, in the expected
+location of the stomach. Coursing into the left upper quadrant,
+is a curvilinear radiopaque structure consistent with a JP
+drain. Additional scattered staples are seen projecting over the
+
+groin/buttock bilaterally, noted by Dr. [**Last Name (STitle) **] to be external
+to the patient, staples holding down drapes. No radiopaque
+foreign body concerning for surgical sponge or instrument is
+seen. No evidence of bowel obstruction.
+
+[**2109-6-3**]: chest x-ray:
+
+ FINDINGS: In comparison with the study of [**6-2**], the endotracheal
+and
+nasogastric tubes remain in satisfactory position. The pulmonary
+vascularity in the apical region is somewhat sparse bilaterally,
+though no definite pleural line to indicate pneumothorax. If
+this is a clinical concern, repeat expiration view could be
+obtained.
+
+
+
+
+
+
+Brief Hospital Course:
+ 22 year old gentleman admitted to the acute care service with
+an abdominal stab wound.  He was intubated at the scene
+requiring fluid resuscitation including blood products. He was
+hemodynamically stable upon transport. Upon admission, he was
+taken emergently to the operating room where he underwent an
+oversewing of an anterior-posterior gastrotomy.  He also had an
+injury to a branch of a gastric vessel which was oversewn.
+Because there was a concern for an aortic injury, he was
+evaluated by the Vascular team.  He was found not to have an
+aortic injury.
+ During his operative course, he had a 500cc blood loss and
+received 1 UPRBC.  He was monitored in the intensive care unit
+after the procedure.  He had an NG tube in place and a JP drain.
+On POD #1 he was extubated.  His incisional pain was managed
+with a morphine PCA and changed to a dilaudid PCA because of
+reports of nausea.  He was transported to the surgical floor POD
+#1. He was evaluated by Social services  and they have provided
+additional support to him and his family and made
+recommendations about the availibility of community programs.
+His foley catheter was discontinued on POD #2 and he voided
+without difficulty.  His vital signs are stable and he is
+afebrile.  His hematocrit has stablized at 36.6.  His
+[**Last Name (un) **]-gastric tube was discontinued on POD #3 and his JP drain
+was d/ced prior to his discharge.
+He had mild nausea which has been controlled with an
+anti-emetic. He had been out of bed.His diet was slowly advanced
+which he tolerated well.His diet was advanced to regular and he
+was started on oral pain meds on [**2109-6-7**] which he tolerated
+well.
+He was discharged on [**2109-6-8**], when he was tolerating a regular
+diet, voiding normally and ambulating without any difficulty. He
+would follow up with the [**Hospital 2536**] clinic in [**12-30**] weeks.
+
+
+Medications on Admission:
+none
+
+Discharge Medications:
+1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY (Daily).
+3. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)
+as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+4. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for pain.
+5. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+stab wound
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted to the hospital after you received a stab
+wound to the abdomen.  You were taken to the operating room
+where you underwent an exploratory laparotomy and repair of a
+stomach laceration.   You are now preparing for discharge home
+with the following instructions:
+
+Please resume all regular home medications , unless specifically
+advised not to take a particular medication. Also, please take
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times
+per day, and drink adequate amounts of fluids. Avoid lifting
+weights greater than [**5-7**] lbs until you follow-up with your
+surgeon.
+
+Avoid driving or operating heavy machinery while taking pain
+medications.
+
+Incision Care:
+
+*Please call your doctor or nurse practitioner if you have
+increased pain, swelling, redness, or drainage from the incision
+site.
+
+*Avoid swimming and baths until your follow-up appointment.
+
+*You may shower, and wash surgical incisions with a mild soap
+and warm water. Gently pat the area dry.
+
+*If you have staples, they will be removed at your follow-up
+appointment.
+
+*If you have steri-strips, they will fall off on their own.
+Please remove any remaining strips 7-10 days after surgery
+
+
+Followup Instructions:
+Please follow up with the acute care service in 2 weeks.  You
+can schedule your appointment by calling # [**Telephone/Fax (1) 600**]
+
+
+                             [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number(2) 601**]
+
+Completed by:[**2109-6-11**]

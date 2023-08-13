@@ -1,0 +1,129 @@
+T1	Drug 5702 5710	Precedex
+T2	Drug 7626 7643	calcium carbonate
+T3	Strength 7644 7650	200 mg
+T4	Form 7566 7572;7572 7596	Tablet , Delayed Release (E.C.)
+T5	Route 7597 7599	PO
+T6	Drug 5389 5394	lasix
+T7	Duration 5423 5433	for 2 days
+T8	Drug 7503 7515	pantoprazole
+T9	Strength 7516 7521	40 mg
+T10	Form 7522 7528;7528 7552	Tablet , Delayed Release (E.C.)
+T11	Drug 5269 5275	Flagyl
+T12	Drug 7770 7779;7780 7787	albuterol sulfate
+T13	Strength 7788 7794;7794 7804	90 mcg /actuation
+T14	Drug 5263 5268	Cipro
+T15	Drug 5212 5223	ceftriaxone
+T16	Drug 7365 7375	clonazepam
+T17	Strength 7376 7382	0.5 mg
+T18	Form 7403 7409	Tablet
+T19	Route 7410 7412	PO
+T20	Drug 7651 7658	calcium
+T21	Strength 7660 7666	500 mg
+T22	Form 7668 7674;7674 7684	Tablet , Chewable
+T23	Drug 7270 7283	acetaminophen
+T24	Strength 7284 7290	325 mg
+T25	Drug 7207 7216	albuterol
+T26	Drug 6055 6062	Heparin
+T27	Drug 5997 6002	fiber
+T28	Drug 5679 5687	propofol
+T29	Drug 7218 7228	sertraline
+T30	Strength 7229 7235	100 mg
+T31	Strength 7448 7453	50 mg
+T32	Form 7474 7480	Tablet
+T33	Route 7481 7483	PO
+T34	Drug 7437 7446;7446 7447	sertralin e
+T35	Drug 6071 6081	famotidine
+T36	Drug 5692 5698	versed
+T37	Reason 5031 5062	ventilator associated pneumonia
+T38	Reason 7355 7360	fever
+T39	Reason 7756 7765	heartburn
+T40	Reason 7889 7897	wheezing
+T41	Drug 5015 5026	antibiotics
+T42	Reason 5145 5169	streptococcus pneumoniae
+T43	Drug 5258 5262	Vanc
+T44	Route 5395 5399	drip
+T45	Reason 5444 5452	diuresis
+T46	Reason 5936 5944	diarrhea
+T47	Reason 6025 6036	prophylaxis
+T48	Route 6063 6069	sub-cu
+T49	Frequency 7236 7241	daily
+T50	Form 7291 7297	Tablet
+T51	Dosage 7303 7310	Two (2)
+T52	Form 7311 7317	Tablet
+T53	Route 7318 7320	PO
+T54	Frequency 7321 7331;7332 7350	Q6H (every 6 hours) as needed
+T55	Form 7383 7389	Tablet
+T56	Dosage 7395 7402	One (1)
+T57	Frequency 7413 7425;7426 7432	BID (2 times a day)
+T58	Form 7454 7460	Tablet
+T59	Frequency 7484 7497	DAILY (Daily)
+T60	Dosage 7466 7473	Two (2)
+T61	Dosage 7558 7561;7562 7565	One (1)
+T62	Frequency 7600 7621	Q24H (every 24 hours)
+T63	Form 7701 7718	Tablet, Chewables
+T64	Route 7719 7721	PO
+T65	Frequency 7722 7751	QID (4 times a day) as needed
+T66	Dosage 7830 7838	Four (4)
+T67	Form 7805 7824	HFA Aerosol Inhaler
+T68	Form 7839 7843	Puff
+T69	Route 7844 7854	Inhalation
+T70	Frequency 7855 7884	Q4H (every 4 hours) as needed
+R1	Strength-Drug Arg1:T3 Arg2:T2
+R2	Form-Drug Arg1:T4 Arg2:T8
+R3	Route-Drug Arg1:T5 Arg2:T8
+R4	Duration-Drug Arg1:T7 Arg2:T6
+R5	Strength-Drug Arg1:T9 Arg2:T8
+R6	Form-Drug Arg1:T10 Arg2:T8
+R7	Strength-Drug Arg1:T13 Arg2:T12
+R8	Strength-Drug Arg1:T17 Arg2:T16
+R9	Form-Drug Arg1:T18 Arg2:T16
+R10	Route-Drug Arg1:T19 Arg2:T16
+R11	Strength-Drug Arg1:T21 Arg2:T20
+R12	Form-Drug Arg1:T22 Arg2:T2
+R13	Strength-Drug Arg1:T24 Arg2:T23
+R14	Strength-Drug Arg1:T30 Arg2:T29
+R15	Strength-Drug Arg1:T31 Arg2:T34
+R16	Form-Drug Arg1:T32 Arg2:T34
+R17	Route-Drug Arg1:T33 Arg2:T34
+R18	Reason-Drug Arg1:T37 Arg2:T41
+R19	Reason-Drug Arg1:T42 Arg2:T15
+R20	Reason-Drug Arg1:T42 Arg2:T43
+R21	Reason-Drug Arg1:T42 Arg2:T14
+R22	Reason-Drug Arg1:T42 Arg2:T11
+R23	Route-Drug Arg1:T44 Arg2:T6
+R24	Reason-Drug Arg1:T45 Arg2:T6
+R25	Reason-Drug Arg1:T46 Arg2:T27
+R26	Reason-Drug Arg1:T47 Arg2:T26
+R27	Reason-Drug Arg1:T47 Arg2:T35
+R28	Route-Drug Arg1:T48 Arg2:T26
+R29	Frequency-Drug Arg1:T49 Arg2:T29
+R30	Reason-Drug Arg1:T38 Arg2:T23
+R31	Frequency-Drug Arg1:T54 Arg2:T23
+R32	Route-Drug Arg1:T53 Arg2:T23
+R33	Form-Drug Arg1:T52 Arg2:T23
+R34	Dosage-Drug Arg1:T51 Arg2:T23
+R35	Form-Drug Arg1:T50 Arg2:T23
+R36	Frequency-Drug Arg1:T57 Arg2:T16
+R37	Dosage-Drug Arg1:T56 Arg2:T16
+R38	Form-Drug Arg1:T55 Arg2:T16
+R39	Frequency-Drug Arg1:T59 Arg2:T34
+R40	Dosage-Drug Arg1:T60 Arg2:T34
+R41	Form-Drug Arg1:T58 Arg2:T34
+R42	Frequency-Drug Arg1:T62 Arg2:T8
+R43	Dosage-Drug Arg1:T61 Arg2:T8
+R44	Reason-Drug Arg1:T39 Arg2:T2
+R45	Frequency-Drug Arg1:T65 Arg2:T2
+R46	Route-Drug Arg1:T64 Arg2:T2
+R47	Form-Drug Arg1:T63 Arg2:T2
+R48	Frequency-Drug Arg1:T70 Arg2:T12
+R49	Reason-Drug Arg1:T40 Arg2:T12
+R50	Route-Drug Arg1:T69 Arg2:T12
+R51	Form-Drug Arg1:T68 Arg2:T12
+R52	Dosage-Drug Arg1:T66 Arg2:T12
+R53	Form-Drug Arg1:T67 Arg2:T12
+T77	Drug 5175 5186	antibiotics
+T78	Drug 6580 6586	oxygen
+T79	Drug 6638 6643	otics
+T80	Drug 8442 8453	antibiotics
+T81	Reason 8463 8484	respiratory infection
+R54	Reason-Drug Arg1:T81 Arg2:T80

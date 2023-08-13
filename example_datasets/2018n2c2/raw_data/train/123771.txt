@@ -1,0 +1,519 @@
+Admission Date:  [**2191-6-24**]              Discharge Date:   [**2191-7-13**]
+
+Date of Birth:  [**2107-6-14**]             Sex:   M
+
+Service: PLASTIC
+
+Allergies:
+aspirin
+
+Attending:[**First Name3 (LF) 36263**]
+Chief Complaint:
+Dog attack/mauling
+
+Major Surgical or Invasive Procedure:
+[**2191-6-24**]
+1. left arm Irrigation and debridement of skin, subcutaneous
+tissue
+    and muscle (400 sq cm).
+2. Left arm Median nerve exploration in upper and lower arm.
+3. Left arm Ulnar nerve exploration in upper and lower arm.
+4. Left arm Radial nerve exploration in upper and lower arm.
+5. Left arm Volar and dorsal forearm compartment release
+6. Exploration of left brachial artery, thrombectomy of left
+brachial artery, left brachial artery repair.
+7. Left flank and buttock skin and subcutaneous fat and soft
+tissue debridement with a VAC dressing placement.
+.
+[**2191-6-28**]
+1. Irrigation and debridement of skin, subcutaneous tissue,
+muscle and fascia bilateral upper extremities (200 cm2).
+2. Debridement of left brachium posterior compartment, and right
+forearm posterior compartments.
+.
+[**2191-7-5**]
+1. Split-thickness skin graft reconstruction of right forearm,
+(20 x 10 cm).
+2. Artificial skin substitute (Integra) reconstruction of right
+forearm (10 x 5 cm).
+3. Left upper extremity skin graft reconstruction (20 x 15 cm).
+4. Left upper extremity skin substitute (Integra) reconstruction
+8 x 5 cm.
+
+
+History of Present Illness:
+85M RHD medflighted in with bilateral upper extremity
+near-circumferential degloving injuries s/p attack by his own
+[**First Name4 (NamePattern1) 533**] [**Last Name (NamePattern1) 9995**] 4-5hrs prior to presentation. A&O on
+presentation, HD stable, h/o afib on coumadin. Per [**Location (un) **]
+report was found sitting on couch at home covered in blood by
+his daughter and reported that he was attacked after trying to
+feed the dog ice cubes. His injuries include LUE near
+circumferential degloving injury over the proximal to mid
+humerus level, with exposed neurovascular structures as well as
+significant soft tissue avulsion on the dorsal and volar aspects
+of the forearm; No dopplerable pulse at radial or brachial
+artery; No sensation in M/R/U distribution with minimal flexor
+function in fingers, absent motor function at wrist. Right upper
+extremity with near circumferential degloving forearm injury
+down to muscle belly. Motor and sensory intact in M/R/U
+distribution. Also has left lower back wound and left lower leg
+wound.  Emergently taken to OR for exploration, washout and
+debridement of bilateral upper extremities, left lower back
+wound and left lower leg wound.
+
+Past Medical History:
+PMH: Afib on coumadin, Gout, chronic kidney disease, HTN,
+Chronic dermatitis, BPH, Esophagitis, Hx gastric (?) ulcer,
+hyperlipidemia.
+.
+PSH: Inguinal hernia repair, cholecystectomy
+.
+Home medications: allopurinol 100'', atenolol 50'', clobetasol
+PRN, finasteride 5, furosemide 40, Klor-Con 20meq, omeprazole
+20, simvastatin 80, terazosin 5, warfarin 5 (T,Sat)/2.5
+(MWRFSun)
+
+Social History:
+Pt is an 84 yo male brought in by med flight s/p being attacked
+by a rescue dog that his daughter had taken in two years ago.
+Patient lives with daughter [**Name (NI) **], [**Telephone/Fax (1) 112138**] (c), [**Telephone/Fax (1) 112139**]
+(h). The dog officer took custody of the dog and the dog was put
+down. This should not be communicated to the pt.
+.
+The pt has been living with his daughter, her husband and their
+2 dogs for the last 3 yrs. The other dog, Ginger, is very close
+with the patient and apparently witnessed attack and is now
+'traumatized' according to daughter, [**Name (NI) **].
+.
+The pt moved in with his daughter when the pt's wife developed
+[**Name (NI) 2481**] and required the care of a nursing home.
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+.
+NAD, AOx3
+LUE
+Near circumferential degloving injury of the upper arm with
+exposed neurovascular structures near the axilla; No dopplerable
+pulse at radial or brachial artery, dopplerable axillary flow
+detected in the OR; No sensation in M/R/U distribution with
+minimal motor function in fingers, absent motor function at
+wrist. Hand is cool, delayed cap refill.
+
+RUE
+Near circumferential degloving forearm injury down to muscle
+belly. Motor and sensory intact in M/R/U distribution.
+Palpable radial and ulnar pulses.
+
+LLE with 3x5 cm stellate laceration at medial aspect of lower
+leg with muscle belly exposed.
+Thighs and legs are soft
+1+ PT and DP pulses
+
+Contralateral extremity examined with good range of motion,
+SILT, motors intact and no pain or edema
+
+Left lower back/flank bite wound with exposed muscle.
+.
+
+Pertinent Results:
+ADMISSION LABS:
+[**2191-6-24**] 08:56PM   TYPE-ART PO2-411* PCO2-31* PH-7.42 TOTAL
+CO2-21 BASE XS--2
+[**2191-6-24**] 08:56PM   GLUCOSE-157* LACTATE-2.2* NA+-138 K+-2.5*
+[**2191-6-24**] 08:56PM   HGB-7.8* calcHCT-23
+[**2191-6-24**] 08:45PM   GLUCOSE-186* UREA N-22* CREAT-1.4* SODIUM-136
+POTASSIUM-3.3 CHLORIDE-106 TOTAL CO2-24 ANION GAP-9
+[**2191-6-24**] 08:45PM   CALCIUM-8.2* PHOSPHATE-4.3 MAGNESIUM-1.7
+[**2191-6-24**] 08:45PM   WBC-5.1 RBC-2.91*# HGB-9.1* HCT-27.7* MCV-95
+MCH-31.1 MCHC-32.7 RDW-15.2
+[**2191-6-24**] 08:45PM   PLT SMR-LOW PLT COUNT-98*
+[**2191-6-24**] 08:45PM   PT-17.7* PTT-89.2* INR(PT)-1.7*
+[**2191-6-24**] 07:59PM   TYPE-ART PO2-376* PCO2-43 PH-7.38 TOTAL
+CO2-26 BASE XS-0 INTUBATED-INTUBATED
+[**2191-6-24**] 07:59PM   GLUCOSE-175* LACTATE-2.8* NA+-136 K+-3.3
+CL--105
+[**2191-6-24**] 07:59PM   HGB-8.9* calcHCT-27
+[**2191-6-24**] 07:59PM   freeCa-1.28
+[**2191-6-24**] 06:31PM   WBC-6.3 RBC-2.29* HGB-7.4* HCT-22.3* MCV-98
+MCH-32.4* MCHC-33.3 RDW-14.9
+[**2191-6-24**] 06:31PM   PLT COUNT-109*
+[**2191-6-24**] 05:47PM   TYPE-[**Last Name (un) **] PO2-40* PCO2-52* PH-7.24* TOTAL
+CO2-23 BASE XS--5
+[**2191-6-24**] 05:47PM   GLUCOSE-300* LACTATE-5.5* NA+-134 K+-2.8*
+CL--101
+[**2191-6-24**] 05:47PM   GLUCOSE-300* LACTATE-5.5* NA+-134 K+-2.8*
+CL--101
+[**2191-6-24**] 05:47PM   freeCa-0.70*
+[**2191-6-24**] 05:00PM   GLUCOSE-234* UREA N-22* CREAT-1.5* SODIUM-142
+POTASSIUM-2.6* CHLORIDE-107 TOTAL CO2-20* ANION GAP-18
+[**2191-6-24**] 05:00PM   CK(CPK)-846*
+[**2191-6-24**] 05:00PM   CALCIUM-6.6*
+[**2191-6-24**] 05:00PM   PT-23.3* PTT-150.0* INR(PT)-2.2*
+[**2191-6-24**] 04:17PM   TYPE-[**Last Name (un) **] PO2-32* PCO2-39 PH-7.32* TOTAL
+CO2-21 BASE XS--6
+[**2191-6-24**] 04:17PM   GLUCOSE-244* LACTATE-10.0* NA+-135 K+-2.8*
+CL--101
+[**2191-6-24**] 04:17PM   GLUCOSE-244* LACTATE-10.0* NA+-135 K+-2.8*
+CL--101
+[**2191-6-24**] 04:17PM   HGB-8.7* calcHCT-26
+[**2191-6-24**] 04:17PM   freeCa-0.99*
+[**2191-6-24**] 04:13PM   WBC-8.7 RBC-2.61* HGB-8.8* HCT-26.7* MCV-102*
+MCH-33.5* MCHC-32.8 RDW-13.9
+[**2191-6-24**] 04:13PM   PLT COUNT-155
+[**2191-6-24**] 04:13PM   PT-22.9* PTT-31.1 INR(PT)-2.2*
+[**2191-6-24**] 03:33PM   COMMENTS-GREEN TOP
+[**2191-6-24**] 03:33PM   GLUCOSE-225* NA+-137 K+-2.9* CL--103 TCO2-15*
+[**2191-6-24**] 03:15PM   UREA N-24* CREAT-1.7*
+[**2191-6-24**] 03:15PM   estGFR-Using this
+[**2191-6-24**] 03:15PM   LIPASE-50
+[**2191-6-24**] 03:15PM   ASA-NEG ETHANOL-17* ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2191-6-24**] 03:15PM   WBC-10.2 RBC-3.02* HGB-10.4* HCT-31.0*
+MCV-103* MCH-34.6* MCHC-33.6 RDW-13.8
+[**2191-6-24**] 03:15PM   PLT COUNT-203
+[**2191-6-24**] 03:15PM   PT-25.8* PTT-30.2 INR(PT)-2.5*
+[**2191-6-24**] 03:15PM   FIBRINOGE-310
+.
+DISCHARGE LABS:
+
+[**2191-7-10**] 05:14AM BLOOD WBC-9.0 RBC-2.71* Hgb-8.3* Hct-25.6*
+MCV-94 MCH-30.6 MCHC-32.4 RDW-16.1* Plt Ct-551*
+[**2191-7-10**] 05:14AM BLOOD Glucose-105* UreaN-17 Creat-1.4* Na-140
+K-3.8 Cl-110* HCO3-23 AnGap-11
+[**2191-7-10**] 05:14AM BLOOD Calcium-7.5* Phos-3.0 Mg-2.1
+[**2191-7-11**] 08:37AM BLOOD Albumin-2.3*
+[**2191-7-7**] 05:36AM BLOOD VitB12-1008*
+.
+MICROBIOLOGY
+[**2191-6-24**] 10:33 pm MRSA SCREEN      Source: Nasal swab.
+
+                            **FINAL REPORT [**2191-6-27**]**
+
+   MRSA SCREEN (Final [**2191-6-27**]):    No MRSA isolated.
+.
+[**2191-6-28**] 10:40 pm TISSUE     Site: ELBOW      LEFT ELBOW.
+
+                            **FINAL REPORT [**2191-7-3**]**
+
+   GRAM STAIN (Final [**2191-6-29**]):
+      Reported to and read back by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] @ 1:23A [**2191-6-29**].
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS.
+
+   TISSUE (Final [**2191-7-2**]):
+      ENTEROCOCCUS SP..    RARE GROWTH.
+         DR. [**Last Name (STitle) 4091**] [**3-/4952**] REQUESTED Daptomycin SENSITIVITY
+[**2191-7-1**].
+         SENSITIVE TO Daptomycin (3.0 MCG/ML).
+         Daptomycin Sensitivity testing performed by Etest.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------  =>32 R
+DAPTOMYCIN------------       S
+LINEZOLID-------------     2 S
+PENICILLIN G----------  =>64 R
+VANCOMYCIN------------  =>32 R
+
+   ANAEROBIC CULTURE (Final [**2191-7-3**]):    NO ANAEROBES ISOLATED.
+
+.
+[**2191-7-7**] 11:40 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool.
+
+                            **FINAL REPORT [**2191-7-8**]**
+
+   C. difficile DNA amplification assay (Final [**2191-7-8**]):
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay.
+           (Reference Range-Negative).
+.
+RADIOLOGY:
+Radiology Report HUMERUS (AP & LAT) BILAT Study Date of [**2191-6-24**]
+3:00 PM
+FINDINGS:  Single view of the right arm and single view of the
+left arm.
+There is no fracture.  Fine detail is obscured by overlying
+bandages.  There are multiple soft tissue defects along the arms
+noted, left greater than right.  Foci of subcutaneous air are
+seen within the left axilla.
+SINGLE PORTABLE FRONTAL VIEW OF THE CHEST:  Fine detail is
+obscured by
+overlying trauma board.  However, there is no pleural effusion
+or
+pneumothorax.  The lungs are clear without focal consolidation.
+Heart size is normal.
+.
+Radiology Report HAND FILM IN OR LEFT IN O.R. Study Date of
+[**2191-6-24**] 6:17 PM
+STUDY:  Left forearm.  Fluoroscopic assistance without
+radiologist present.
+HISTORY:  Left upper extremity angiogram.
+Fluoroscopic images of the left forearm demonstrate contrast
+material
+opacifying the vessels in the elbow and forearm.  Please refer
+to the
+procedure note for additional details.
+.
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2191-6-24**] 9:36
+PM
+STUDY:  AP chest [**2191-6-24**].
+CLINICAL HISTORY:  84-year-old male with polytrauma and status
+post wide
+debridement, evaluate position of endotracheal tube.
+FINDINGS:  There is an endotracheal tube whose tip is 6 cm above
+the carina. This could be advanced 1 cm for more optimal
+placement.  There is a nasogastric tube whose tip and sideport
+are below the gastroesophageal
+junction.  Heart size is upper limits of normal.  There is no
+focal
+consolidation, pleural effusions, or signs of overt pulmonary
+edema.
+.
+Radiology Report VIDEO OROPHARYNGEAL SWALLOW Study Date of
+[**2191-7-8**] 11:13 AM
+INDICATION:  84-year-old man status post dog attack with skin
+graft to
+bilateral upper extremities, rule out aspiration.
+COMPARISONS:  None.
+FINDINGS:  Video swallow fluoroscopy was performed in
+conjunction with the speech and swallow division.  Multiple
+consistencies of barium were
+administered.  There was penetration of nectar liquids and
+aspiration with thin liquids.  There was significant
+oropharyngeal residue.  Puree
+consistencies were unremarkable.
+IMPRESSION:  Mild penetration of nectar and aspiration of thin
+liquids.
+Please see official note in OMR for further details.
+
+
+Brief Hospital Course:
+As noted in the HPI, Mr. [**Known lastname **] was noted in the trauma bay to
+have bilateral mangled extremities.  He also had an absent
+radial pulse on the left side prompting vascular surgery
+involvement.  He was noted to have extensively mangled bilateral
+upper extremities as well as a left buttock soft tissue injury
+that did not appear to track to bone.  Orthopedics, plastics and
+vascular surgery were consulted in addition to the acute care
+surgery team and he was taken to the OR directly from the trauma
+bay.
+.
+Please refer to the individual operative summaries from the
+various teams providing care from [**2191-6-24**] for specific details
+but, in brief, vascular surgery performed a thrombectomy of the
+left brachial artery with primary repair of arteriotomy after
+initial debridement and washout by ACS and orthopedics.  The
+wounds were wrapped and a vac was applied to the buttock wound.
+He was taken to the Trauma ICU postoperatively.
+.
+Patient underwent one more debridement surgery on [**2191-6-28**] and
+then and initial reconstructive surgery of bilateral upper
+extremities with skin grafts and integra on [**2191-7-5**].
+.
+Patient's mental status improved after ICU stay and he was alert
+and able to carry on conversations with staff.  At times he was
+A+Ox3 but at other times confused.  He is able to recall the dog
+attack.  Geriatric team felt fluctuations in mental status were
+multifactorial and related to trauma, de-conditioning, ICU stay,
+sleep deprivation, pain medications.  They felt that this would
+gradually improve over time and with supportive care.
+.
+Neuro: He was intubated and sedated in the immediate
+post-operative period and for several days while in the TICU.
+He was on fentanyl and propofol for pain control and sedation
+during this time.  When he was awake and extubated, his pain was
+controlled with IV dilaudid for dressing changes and oxycodone
+for complaints of pain in between.
+.
+Cardiovascular: He did not require vasopressors in the
+post-operative period.  He was hemodynamically stable.  He did
+have a history of paroxysmal afib but was in normal sinus
+rhythym for most of his admission.  His coumadin was held during
+this admission and he was prophylactically anticoagulated with
+once daily lovenox injections.
+.
+Heme: Patient required multiple blood product transfusions
+during his ICU stay due to loss of blood at the scene of the
+attack and subsequently due to oozing open wounds. Geriatrics
+was consulted for help with managing patient once he was
+transferred to the floor and onto Plastics surgery service.
+Geriatrics recommended starting patient on thiamine, folate and
+MVI for h/o heavy EtOH and persistent anemia post-traumatic
+event and subsequent surgeries.
+.
+Resp: Initially, he was intubated with an ETT on MMV and CMV,
+eventually weaned to CPAP and then successfully extubated on
+[**2191-6-30**].  Patient continued to improve his respiratory status
+post extubation.  On hospital day #19, there was a question as
+to whether patient may have aspirated after a meal when his head
+of bed was lowered.  Patient was encouraged to cough and deep
+breathe and his vital signs/O2 sats remained stable.  He was
+ordered for albuterol nebulizer treatments PRN for wheezes.
+.
+GI/nutrition: In the post-operative period, he had an OGT placed
+and was started on tube feeds under the guidance of Nutrition.
+Patient received isosource 1.5 with a goal rate of 60 cc/hr.  He
+tolerated these well.  When patient was awake and alert, Speech
+and Swallowing was consulted to assess the patient's safety
+eating different consistencies of foods and liquids.  A video
+swallow revealed evidence of some aspiration of thin liquids so
+patient was placed on soft/ground diet which he tolerated well.
+Patient self d/c'd his Dobhoff tube and it was not replaced due
+to ability to take POs.  Patient required 1:1 assistance with
+all of his meals and snacks.  Patient with cumulative
+nutritional deficit due to events related to trauma and
+reconstruction.  Albumin 2.3 from initial albumin of 2.9.
+Snacks and supplemental puddings were encouraged.
+.
+Renal: He had a foley catheter and maintained good urine output.
+ His creatinine was elevated on admission and trended down to
+1.4 at discharge.  His electrolytes were repleted PRN. He was
+given lasix/albumin to assist with his edema on HD 5.  Patient's
+foley was maintained for inpatient stay due to inability to
+utilize a urinal manually d/t bilateral upper extremity injuries
+and dressings.
+.
+ID: He was initially started on broad spectrum antibiotics,
+vanc/zosyn/clinda.  Infectious Disease was consulted on [**2191-6-25**]
+to help with antibiotic guidance and postexposure rabies
+vaccinations.  Patient received Rabies Immune Globulin 1650 UNIT
+IM ONCE within 24-hours of arrival and then Rabies vaccine on
+days 1, 3, 7 and 14. The clindamycin was dc'd on [**2191-6-28**] due to
+lessened concern for a necrotizing soft tissue infection.  Blood
+cultures were negative.  A tissue sample obtained in the OR from
+left elbow grew VRE so Vancomycin was discontinued and patient
+was maintained on zosyn IV until [**2191-7-11**].  Patient remained
+negative C.difficele despite multiple loose stools/day.
+.
+Prophylaxis: Patient was maintained on Lovenox 40 mg QD for DVT
+prophylaxis and wore pneumo boots while in bed.  He was assisted
+in and out of bed to chair when he was able to tolerate
+transfers.  Patient was assisted to use his incentive
+spirometer.
+.
+TLD: He had a right groin CVL placed during the initial trauma
+evaluation.  This was removed in the OR and he had a right IJ
+CVL placed which remained in place until day of discharge to
+rehab when it was removed.
+.
+At the time of discharge on hospital day #19, the patient was
+doing well, afebrile with stable vital signs, tolerating a soft
+mechanical diet and supervised thin liquids, getting out of bed
+to chair with mechanical lift, foley catheter draining clear
+yellow urine, and pain was well controlled.  Bilateral upper
+extremities (BUE) with skin grafts and integra in place to wound
+without evidence of infection or breakdown.  BUEs with daily
+dressing changes with xeroform, gauze fluffs, kerlix and ace
+wraps.  Left forearm/hand with custom orthoplast splint in
+place.  Wound vac dressing intact and patent to left posterior
+buttock/flank wound (last vac change [**7-11**]).  Bilateral thigh
+skin graft donor sites with original xeroform dressings in place
+and left open to air to dry.  Left lower medial calf wound with
+dry dressing in place.
+
+Medications on Admission:
+allopurinol 100'', atenolol 50'', clobetasol PRN, finasteride 5,
+furosemide 40, Klor-Con 20meq, omeprazole 20, simvastatin 80,
+terazosin 5, warfarin 5 (T,Sat)/2.5 (MWRFSun)
+
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheezes
+3. Allopurinol 100 mg PO BID
+4. Atenolol 50 mg PO BID
+5. Docusate Sodium (Liquid) 100 mg PO BID:PRN constipation
+6. Enoxaparin Sodium 40 mg SC Q 24H
+7. Finasteride 5 mg PO DAILY
+do not crush. hold until swallowing.
+8. FoLIC Acid 1 mg PO DAILY
+9. Thiamine 100 mg PO DAILY
+10. Senna 1 TAB PO BID:PRN constipation
+11. Lansoprazole Oral Disintegrating Tab 15 mg PO DAILY
+12. OxycoDONE (Immediate Release)  5-10 mg PO Q4H:PRN pain
+13. Terazosin 5 mg PO HS
+14. Simvastatin 40 mg PO DAILY
+15. Multivitamins 1 TAB PO DAILY
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] Hospital for Continuing Medical Care - [**Location (un) 1121**]
+([**Hospital3 1122**] Center)
+
+Discharge Diagnosis:
+Bilateral upper extremity and left buttock severe bite wounds
+status post dog attack.
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+Followup Instructions:.
+-Elevate right and left arms on pillows as much as possible and
+maintain left forearm/hand in orhtoplast custom splint.
+-Bilateral arm dressings should be changed once/day:  Apply
+xeroform dressing to all skin grafts and wounds on arms and
+cover with layer of fluffed gauze followed by kerlix wrap and
+cover with ace wrap.
+-You will need assistance with all meals until you are
+physically able to feed yourself.
+-You should be sitting straight up while eating your meals and
+drinking beverages and stay sitting up (do not recline) for 1
+hour post meals.
+-Your left buttock/flank wound vac dressing should be changed
+every 3 days.  Maintain Vac at -125mmHg.  Please bring a vac
+sponge dressing change to your follow up appointment with Dr.
+[**First Name (STitle) 1022**] on [**7-26**].
+-Bilateral thigh skin graft donor sites should be left open to
+air to dry out.  The xeroform dressings should stay in place
+until they dry and are able to be peeled/cut away easily.
+-Your left medial calf wound should be dressing with clean, dry
+dressing daily until healed.
+-You have a foley cathether to drain your urine from your
+bladder temporarily, until you are able to maneuver your hands
+and arms again.
+- If there are any significant or concerning changes, please
+call Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] office ([**Telephone/Fax (1) 31444**]) to report this.
+.
+Return to the ER if:
+* If you are vomiting and cannot keep in fluids or your
+medications.
+* If you have shaking chills, fever greater than 101.5 (F)
+degrees or 38 (C) degrees, increased redness, swelling or
+discharge from incisions or wounds, chest pain, shortness of
+breath, or anything else that is troubling you.
+
+
+Followup Instructions:
+Hand Clinic: ([**Telephone/Fax (1) 2007**]
+[**Hospital Ward Name **], [**Hospital Ward Name 23**] Building, [**Location (un) **]
+.
+Please follow up in the Hand Clinic on Tuesday, [**2191-7-26**].  The
+clinic is open from 8-12pm most Tuesdays.  Please bring an extra
+vac sponge dressing with you to clinic for a Vac dressing
+change.  You should also take some pain medication just prior to
+your appointment as your bilateral arm dressings will be changed
+at this appointment, as well.
+
+
+
+Completed by:[**2191-7-13**]

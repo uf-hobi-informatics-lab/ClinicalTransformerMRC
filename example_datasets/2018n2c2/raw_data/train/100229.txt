@@ -1,0 +1,488 @@
+Admission Date:  [**2114-12-24**]              Discharge Date:   [**2115-1-6**]
+
+Date of Birth:  [**2070-12-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Heparin Agents
+
+Attending:[**First Name3 (LF) 943**]
+Chief Complaint:
+Hypotension with elevated lactate, code sepsis.
+
+Major Surgical or Invasive Procedure:
+Right internal jugular venous catheter placement.
+
+
+History of Present Illness:
+44 yoM PMH ESRD secondary to Brights disease on HD s/p two
+failed renal transplants, HCV, CHF with EF 20%, AF on coumadin
+who presented to the ED with a two week history of diffuse
+abdominal pain with one day of nausea and vomiting [**2114-12-24**]. Two
+weeks prior to admission the patient began to experience diffuse
+dull abdominal pain without nausea or vomiting and loose stools
+2-3 times per day. The patient believed this was secondary to
+fluid overload. One week prior to presentation the patient
+complained of subjective fevers, cough productive of yellow
+sputum. His nephrologist gave him a five-day course of
+azithromycin. The patient had persistent symptoms and was
+started on levofloxacin by his PCP two days prior to admission.
+The patient had a history of tylenol use 3g/day for 5 days prior
+to admission for fever, body aches. The day prior to admission
+the patient began to experience worsened abdominal pain
+associated with nausea, a few episodes of vomiting,
+nonbilious/nonbloody, and diarrhea 4-5 times per day, watery,
+nonbloody.
+.
+In the ED the patient was found to be hypotensive with lactate
+of 5.6 and a code sepsis was called. He was given Vanco, Flagyl
+and Zosyn for presumed infection. He was given Decadron for
+presumed adrenal insufficiency. He was also given Calcium
+gluconate, sodium bicarbonate, Insulin and D50 for hyperkalemia.
+A CVL was placed and he received 3L of NS with normalization of
+pressures. He was transferred to the MICU.
+.
+In the MICU the patient's LFTs were significantly elevated and
+peaked at ALT 3016, AST 2956, LDH [**2064**], INR 4.3 on [**12-25**]. This
+was thought to be secondary to shock liver in the setting of
+hypotension/sepsis versus tylenol toxicity despite negative
+serum tylenol. LFTs subsequently trending down.
+.
+Upon transfer to the floor, the patient continues to complain of
+cough productive of yellow sputum. Denies chest pain, shortness
+of breath. The patient denied any fevers/chills, abdominal pain,
+nausea, vomiting. Diarrhea improving. Denies dysuria/hematuria;
+minimal urine output while on HD. Denies lightheadedness. Denies
+myalgias/arthralgias. Review of systems otherwise negative in
+detail.
+
+Past Medical History:
+1. End-stage renal disease secondary to glomerulonephritis on
+hemodialysis status post two failed transplants [**2089**] and [**2097**]
+2. Coronary artery disease status post myocardial infarction and
+stent [**2105**]
+3. Congestive heart failure with ejection fraction 10%, status
+post right sided placement of ICD
+4. Cerebrovascular accident [**2105**] without residual complications
+or deficits
+5. Atrial fibrillation
+6. Hypertension
+7. Basal cell and squamous cell skin cancers status post
+excision and radiation to lower face
+8. Gout
+9. Erectile dysfunction
+10. Right lung pneumonia with pleurisy
+11. Hepatitis C, genotype 2
+
+Social History:
+He is married, lives in [**Location 13011**] with wife of 11 years, son and
+daughter. [**Name (NI) **] owns and runs a landscaping/contracting business
+and works for the city sanding the streets during the winter. He
+denies tobacco or recreational drug use.
+
+Family History:
+Mother, maternal uncle, and grandfather with [**Name2 (NI) **]
+grandmother, Lymphoma in paternal grandfather, peripheral
+vascular disease in maternal grandmother, no h/o kidney disease,
+other CA, heart disease, CVA, or psychiatric diseases.
+
+Physical Exam:
+VITAL SIGNS: 98.6 112/68 130 18 98RA
+GENERAL: NAD, pleasant and cooperative.
+HEENT: PERRL, EOMI, OP clear, MMM, anicteric sclerae
+NECK: no masses, no LAD, no JVD, no carotid bruit, RIJ in place
+
+HEART: irreg irreg, nl s1s2, holosystolic murmur [**3-5**] over
+precordium, laterally displaced PMI, no rub
+LUNGS: cta b/l, no crackles or wheezes.
+ABDOMEN: soft, nd, +bs, no organomegaly, tender in RLQ, negative
+[**Doctor Last Name **] sign, no rebound, no guarding
+EXTREMITIES: no cyanosis, no clubbing; no edema, 1+ dp, pulses
+b/l.
+NEUROLOGIC: awake, alert, a&ox3, cn ii-xii intact; strength 5/5
+bilaterally, sensory and coordination grossly intact, reflesxes
+1+ bilaterally
+SKIN: petechia on trunk, AV fistula in L arm, positive thrill
+
+
+Pertinent Results:
+Labwork on admission:
+[**2114-12-24**] 12:15PM   WBC-14.0*# RBC-3.54* HGB-11.5* HCT-34.7*
+MCV-98 MCH-32.5* MCHC-33.2 RDW-14.6
+[**2114-12-24**] 12:15PM   PLT COUNT-286
+[**2114-12-24**] 12:15PM   NEUTS-77.9* LYMPHS-14.1* MONOS-6.7 EOS-0.2
+BASOS-1.1
+[**2114-12-24**] 12:15PM   PT-23.1* PTT-29.9 INR(PT)-2.3*
+[**2114-12-24**] 12:15PM   GLUCOSE-62* UREA N-90* CREAT-14.8*#
+SODIUM-139 POTASSIUM-7.1* CHLORIDE-86* TOTAL CO2-23 ANION
+GAP-37*
+[**2114-12-24**] 12:15PM   ALT(SGPT)-1122* AST(SGOT)-1469* LD(LDH)-1523*
+ALK PHOS-156* AMYLASE-59 TOT BILI-1.5
+[**2114-12-24**] 12:15PM   LIPASE-43
+[**2114-12-24**] 12:15PM   ALBUMIN-4.0 CALCIUM-10.7* PHOSPHATE-11.2*#
+MAGNESIUM-2.8*
+[**2114-12-24**] 12:15PM   CORTISOL-36.0*
+[**2114-12-24**] 12:27PM   LACTATE-5.9*
+.
+CHEST (PA & LAT)  [**2114-12-24**]
+IMPRESSION:
+Clear lungs, mild pulmonary congestion and cardiomegaly,
+unchanged.
+.
+CT ABD W&W/O C  [**2114-12-25**]
+IMPRESSION:
+1) Cardiomegaly and hepatomegaly with abnormal liver perfusion
+likely secondary to passive congestion (nutmeg liver). No focal
+hepatic abscess or adjacent hematoma.
+2) Cholelithiasis and sludge/vicarious excretion of IV contrast.
+Small amount of pericholecystic fluid is present. The fluid
+could be due to patient's liver dysfunction/third spacing from
+CHF. If cholecystitis is of clinical concern, HIDA scan can be
+performed provided the total bilirubin is not elevated.
+3) Hyperdense renal cortex in left lower quadrant transplanted
+kidney. Findings are most likely due to chronic rejection or
+prior ATN. There is apparent thickening of the arterial wall
+supplying the transplant. No hydronephrosis or perinephric
+collection.
+4) Minor anatomic variant involving liver vasculature as
+described above. Hepatic veins and portal venous system appear
+widely patent.
+5) 6 mm lesion in head of pancreas. Continued follow up of this
+area is recommended on future studies.
+6) Areas of ground glass opacity and intralobular septal
+thickening in the lung bases, most likely due to fluid
+overload/CHF. Nodular areas of opacity are also present which
+could be due to infection. Continued followup is reccomended.
+7) Small lymph nodes and vague retroperitoneal stranding.
+Findings could be due to CHF.
+.
+ECG Study Date of [**2114-12-25**]  2:41:34 AM
+Atrial fibrillation with rapid ventricular response
+Intraventricular conduction delay - possible atypical left
+bundle branch block
+Anterior myocardial infarct, age indeterminate - may be old
+Nonspecific ST-T wave changes
+Since previous tracing of [**2114-2-7**], ventricular rate faster
+.
+ECHO Study Date of [**2114-12-28**]
+Conclusions:
+1. The left atrium is moderately dilated.
+2. The left ventricular cavity is severely dilated. There is
+severe global left ventricular hypokinesis. Overall left
+ventricular systolic function is severely depressed. Left
+ventricular dysnchrony is present.
+3. The right ventricular cavity is dilated. Right ventricular
+systolic
+function appears depressed.
+4. The aortic valve leaflets are mildly thickened. Mild (1+)
+aortic
+regurgitation is seen.
+5. The mitral valve leaflets are mildly thickened. Moderate to
+severe (3+) mitral regurgitation is seen. The effective
+regurgitant orifice is >=0.40cm2
+6. Moderate [2+] tricuspid regurgitation is seen. There is
+moderate pulmonary artery systolic hypertension.
+7. There is a trivial/physiologic pericardial effusion.
+8. Compared with the report of the prior study of [**2114-1-8**], LV
+function is probably worse.
+.
+CHEST (PA & LAT)  [**2114-12-29**]
+IMPRESSION: Evidence for pulmonary venous hypertension.
+Cardiomegaly. No focal consolidation.
+.
+Labwork on discharge:
+[**2115-1-6**] 06:30AM
+COMPLETE BLOOD COUNT
+White Blood Cells 8.7 K/uL 4.0 - 11.0
+Red Blood Cells 2.74* m/uL 4.6 - 6.2
+Hemoglobin 9.7* g/dL 14.0 - 18.0
+Hematocrit 29.3* % 40 - 52
+MCV 107* fL 82 - 98
+MCH 35.6* pg 27 - 32
+MCHC 33.3 % 31 - 35
+RDW 18.1* % 10.5 - 15.5
+BASIC COAGULATION (PT, PTT, PLT, INR)
+Platelet Count 128* K/uL 150 - 440
+[**2115-1-6**] 06:30AM
+RENAL & GLUCOSE
+Glucose 121* mg/dL 70 - 105
+Urea Nitrogen 56* mg/dL 6 - 20
+Creatinine 7.5*# mg/dL 0.5 - 1.2
+Sodium 138 mEq/L 133 - 145
+Potassium 3.8 mEq/L 3.3 - 5.1
+Chloride 99 mEq/L 96 - 108
+Bicarbonate 27 mEq/L 22 - 32
+Anion Gap 16 mEq/L 8 - 20
+ENZYMES & BILIRUBIN
+Alanine Aminotransferase (ALT) 146* IU/L 0 - 40
+Asparate Aminotransferase (AST) 45* IU/L 0 - 40
+Lactate Dehydrogenase (LD) 274* IU/L 94 - 250
+Alkaline Phosphatase 151* IU/L 39 - 117
+Bilirubin, Total 1.6* mg/dL 0 - 1.5
+CHEMISTRY
+Albumin 3.1* g/dL 3.4 - 4.8
+Calcium, Total 7.4* mg/dL 8.4 - 10.2
+Phosphate 4.1 mg/dL 2.7 - 4.5
+Magnesium 2.2 mg/dL 1.6 - 2.6
+[**2115-1-6**] 06:30AM
+RENAL & GLUCOSE
+Glucose 121* mg/dL 70 - 105
+Urea Nitrogen 56* mg/dL 6 - 20
+Creatinine 7.5*# mg/dL 0.5 - 1.2
+Sodium 138 mEq/L 133 - 145
+Potassium 3.8 mEq/L 3.3 - 5.1
+Chloride 99 mEq/L 96 - 108
+Bicarbonate 27 mEq/L 22 - 32
+Anion Gap 16 mEq/L 8 - 20
+ENZYMES & BILIRUBIN
+Alanine Aminotransferase (ALT) 146* IU/L 0 - 40
+Asparate Aminotransferase (AST) 45* IU/L 0 - 40
+Lactate Dehydrogenase (LD) 274* IU/L 94 - 250
+Alkaline Phosphatase 151* IU/L 39 - 117
+Bilirubin, Total 1.6* mg/dL 0 - 1.5
+CHEMISTRY
+Albumin 3.1* g/dL 3.4 - 4.8
+Calcium, Total 7.4* mg/dL 8.4 - 10.2
+Phosphate 4.1 mg/dL 2.7 - 4.5
+Magnesium 2.2 mg/dL 1.6 - 2.6
+[**2115-1-6**] 10:29AM
+BASIC COAGULATION (PT, PTT, PLT, INR)
+PT 27.9* sec 10.4 - 13.1
+PTT 47.7* sec 22.0 - 35.0
+INR(PT) 2.9*   0.9 - 1.1
+
+Brief Hospital Course:
+44 year-old male with past medical history of ESRD on HD, HCV,
+presenting with hypotension and elevated lactate, presumed
+sepsis without source found. The patient was noted to have
+elevated LFTs on admission. The patient was found to be HIT Ab
+positive.
+.
+1. Sepsis: There was no source found, but patient had received
+antibiotics prior to admission. The patient remained afebrile
+and hemodynamically stable throughout transfer to the floor. The
+patient had leukocytosis on admission but this resolved prior to
+transfer. The patient completed an empiric seven-day course of
+vancomycin/zosyn and ten-day course of flagyl. The patient's
+immunosuppressive therapy with cyclosporine for history of renal
+transplant was discontinued; prednisone 10 mg QOD was continued.
+CXR x 2 without evidence of pneumonia. The patient's blood,
+urine, stools, and sputum cultures were negative at the time of
+discharge. C. difficile toxin B was negative. The patient
+complained of continued cough and loose stools which were
+improving prior to discharge.
+.
+2. Hypotension: Resolved prior to transfer to the floor. Likely
+sepsis given elevated lactate. Hypovolemia possible in setting
+of poor po prior to admission. Cardiac etiology unlikely; no
+significant change in cardiac function and cardiac enzymes
+unrevealing. Adrenal insufficiency was unlikely with random
+cortisol of 36,  however, the patient on chronic steroids; the
+patient was continued on prednisone 10 mg every other day for
+history of renal transplant. The patient received treatment for
+sepsis as above.
+.
+3. Elevated LFTs/coagulopathy: Secondary to shock liver versus
+tylenol toxicity. The patient was initially maintained on
+mucomyst gtt but this was discontinued when the patient's liver
+function tests improved. There was likely a component of
+congestion secondary to CHF. This was unlikely secondary to HCV
+as there was no change in immunosuppression and only mild active
+inflammation on very recent biopsy. Unlikely to be due to recent
+liver biopsy. The patient's liver function tests continued to
+trend down prior to discharge.
+.
+4. Atrial fibrillation: The patient's coumadin was initially
+held in the setting of liver failure and elevated INR. The
+patient's digoxin and amiodarone were initially held in the
+setting of renal and liver failure and the patient's rate was
+subsequently poorly-controlled to heart rate 130-140s. The
+patient was followed by his primary cardiologist, Dr. [**Last Name (STitle) 911**],
+during admission. The patient's amiodarone was restarted and
+increased from previous per his recommendations. Digoxin was not
+restarted. The patient's elanopril was discontinued on admission
+and the patient was started on captopril; there was an attempt
+to up-titrate the dose but the patient's blood pressure did not
+tolerate the increase. The patient was discharged on captopril
+6.25 twice daily. The patient's blood pressure does not tolerate
+beta-blocker therapy. The patient was restarted on coumadin
+prior to discharge. The patient's rapid ventricular rate is most
+likely compensatory for low ejection fraction; rate control to
+110-120s is acceptable. The patient's rate was at goal 110s-120s
+on discharge. The patient will follow-up with Dr. [**Last Name (STitle) 911**] as an
+outpatient.
+.
+5. Acute on chronic renal failure: Baseline creatinine [**5-2**]. The
+patient is on HD status post two failed renal transplants. The
+differential for the patient's acute renal failure included
+acute tubular necrosis and cyclotoxicity (recently on
+azithromycin). The patient's ACE inhibitor was initially held.
+The patient's creatinine did not improve to baseline and was 7.5
+prior to discharge. The patient was followed by the renal
+service throughout hospitalization. The patient continued to
+receive hemodialysis per his MWF schedule. The patient was
+started on sensipar for elevated PTH. The patient was continued
+on prednisone 10 mg QOD for history of renal transplant. The
+patient's cyclosporine was discontinued. Amphogel was
+discontinued and cinecalcet was added to the patient's regimen.
+.
+6. Thrombocytopenia/HIT Ab positive: HIT antibodies were sent
+because of the patient's thrombocytopenia. The patient's HIT
+antibodies were positive. The patient had been on heparin SC and
+heparin flushes in the MICU but these were discontinued prior to
+transfer to the floor. The patient was followed by hematology
+during admission. The patient had a right basilic vein
+thrombosis visualized but no other signs or symptoms of
+thrombosis. After discussion with hematology and pharmacy, the
+patient was started on argatroban and bridged to coumadin. The
+patient's INR goal was 2.5-3.5 given his history of liver
+disease.
+.
+7. Congestive heart failure. EF of 10% per echo [**12-28**] with 3+ MR,
+2+ TR. Mixed ischemic/nonischemic dilated cardiomyopathy.
+Patient has a fixed LAD/anterior defect on MIBI on 2/[**2114**]. The
+patient is status post ICD placement [**1-1**]. The patient was
+started on captopril as above. The patient's blood pressure does
+not tolerate beta-blocker therapy. The patient's volume status
+was addressed at hemodialysis. The patient was assessed for
+biventricular ICD by EP; the decision was made not to place at
+this time given the patient's narrow QRS duration and especially
+in the setting of recent sepsis. The patient will follow-up with
+Drs. [**Last Name (STitle) 911**] and [**Name5 (PTitle) 437**] in [**5-3**] weeks. The patient will receive
+outpatient cardiopulmonary assessment for possible cardiac
+transplant.
+.
+8. Coronary artery disease status post myocardial infarction and
+stent [**2105**]. The patient was without complaints of chest pain
+throughout admission. The patient was continued on aspirin. The
+patient's elanopril was discontinued and the patient was started
+on captopril as above. The patient's blood pressure does not
+tolerate beta-blocker therapy.
+.
+9. Nucleated red blood cells. There were 20 NRBC/100 white blood
+cells on the patient's blood smear on transfer to the floor,
+with low grade hemolysis and high reticulocyte count. Hematology
+was consulted and believed this was likely secondary to
+hyperactive marrow stimulated in the setting of recent sepsis.
+This resolved prior to discharge.
+
+Medications on Admission:
+Prednisone 10 mg PO QOD
+B Complex-Vitamin C-Folic Acid 1 mg PO DAILY
+Aspirin 81 mg Tablet PO DAILY
+Coumadin 1 mg PO DAILY
+Amiodarone 100 mg [**Hospital1 **]
+Cyclosporine
+Amphogel
+Elanopril
+
+
+Discharge Medications:
+1. Captopril 12.5 mg Tablet Sig: 0.5 Tablet PO BID (2 times a
+day).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Prednisone 10 mg Tablet Sig: One (1) Tablet PO QOD ().
+3. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+5. Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Lanthanum 500 mg Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*90 Tablet, Chewable(s)* Refills:*2*
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+9. Coumadin 1 mg Tablet Sig: Two (2) Tablet PO at bedtime.
+Disp:*60 Tablet(s)* Refills:*2*
+10. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for abdominal pain.
+Disp:*20 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+1. Sepsis
+2. Shock liver
+3. Heparin-induced thrombocytopenia
+.
+Secondary:
+1. End-stage renal disease on hemodialysis
+2. Coronary artery disease status post myocardial infarction and
+stent [**2105**]
+3. Congestive heart failure with ejection fraction 10%, status
+post right sided placement of ICD
+4. Cerebrovascular accident [**2105**] without residual complications
+or deficits
+5. Atrial fibrillation
+6. Hypertension
+7. Basal cell and squamous cell skin cancers status post
+excision and radiation to lower face
+8. Gout
+9. Erectile dysfunction
+10. Right lung pneumonia with pleurisy
+11. Hepatitis C, genotype 2
+
+
+Discharge Condition:
+Afebrile, vital signs stable.
+
+
+Discharge Instructions:
+Please contact a physician if you experience fevers, chills,
+abdominal pain, nausea, vomiting, diarhea, black stools or blood
+in your stools, or any other concerning symptoms.
+.
+Please take your medications as prescribed.
+- You cyclosporine was discontinued for now; you will restart at
+outpatient dialysis per Dr. [**Last Name (STitle) 1860**].
+- Your amphogel was discontinued.
+- Your elanopril was discontined.
+- You should take captopril 6.25 mg twice daily to control your
+heart rate.
+- Your amiodarone was increased to 200 mg once daily.
+- You should take fosrenal 500 mg three times daily with meals
+to control phosphorus because of kidney failure.
+- You should take cinecalcet 30 mg once daily to control calcium
+and phosphorus because of kidney failure.
+- You should take protonix 40 mg once daily to protect your
+stomach when taking prednisone.
+- You should take coumadin 2 mg once daily and follow-up in
+coumadin clinic on Monday.
+.
+Please keep your appointments as below.
+
+Followup Instructions:
+Please follow-up in coumadin clinic on Monday regarding your INR
+levels.
+.
+The office of Drs. [**Last Name (STitle) 911**] and [**Name5 (PTitle) 437**] should contact you regarding
+follow-up appointments. Please contact Dr.[**Name (NI) 5786**] office at
+([**Telephone/Fax (1) 7236**] or Dr.[**Name (NI) 3536**] office at ([**Telephone/Fax (1) 13786**] if you do
+not hear from their representatives or have any questions.
+.
+Follow-up with your nephrologist: Provider: [**First Name8 (NamePattern2) **] [**Name11 (NameIs) **], [**Name Initial (NameIs) **].D.,
+PH.D.[**MD Number(3) 708**]:[**Telephone/Fax (1) 435**] Date/Time:[**2115-1-7**] 2:00
+.
+[**Month/Day/Year **] test for heart transplant evaluation: Provider: [**Name10 (NameIs) 10081**]
+TESTING Phone:[**Telephone/Fax (1) 1566**] Date/Time:[**2115-1-14**] 1:15
+.
+Follow-up with your primary care doctor, Dr. [**Last Name (STitle) 14757**] [**Name (STitle) 13674**], on
+[**1-17**] at 5:30pm. Please call [**Telephone/Fax (1) 14758**] if you need to
+reschedule.
+.
+Provider:  [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 59**] Date/Time:[**2115-4-16**]
+3:30
+Provider: [**Known firstname **] [**Last Name (NamePattern4) 1008**], M.D. Phone:[**Telephone/Fax (1) 285**]
+Date/Time:[**2115-4-16**] 4:00
+
+
+

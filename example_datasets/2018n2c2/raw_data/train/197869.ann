@@ -1,0 +1,177 @@
+T2	Drug 2656 2667	antibiotics
+T4	Drug 2675 2683	diuresis
+T5	Drug 2693 2704	antibiotics
+T6	Drug 2706 2711	vanco
+T7	Drug 2713 2718	cipro
+T8	Drug 2720 2726	flagyl
+T9	Drug 2731 2736	zosyn
+T10	ADE 2812 2831	erythema over trunk
+R3	ADE-Drug Arg1:T10 Arg2:T6
+R4	ADE-Drug Arg1:T10 Arg2:T7
+R5	ADE-Drug Arg1:T10 Arg2:T8
+R6	ADE-Drug Arg1:T10 Arg2:T9
+T11	Drug 2876 2887	antibiotics
+T12	Drug 2928 2939	ceftaroline
+T13	Drug 3353 3362	Linezolid
+T14	Drug 3887 3896	oxycontin
+T17	Strength 3914 3918	30mg
+R9	Strength-Drug Arg1:T17 Arg2:T14
+T20	Drug 4061 4069	coumadin
+T21	Reason 4105 4124	atrial fibrillation
+R11	Reason-Drug Arg1:T21 Arg2:T20
+T22	Drug 4179 4188	Moexipril
+T23	Strength 4189 4194	30 mg
+R12	Strength-Drug Arg1:T23 Arg2:T22
+T24	Frequency 4195 4206	twice daily
+R13	Frequency-Drug Arg1:T24 Arg2:T22
+T25	Drug 4305 4314	linezolid
+T26	Drug 4380 4383	ASA
+T27	Strength 4383 4386	325
+R14	Strength-Drug Arg1:T27 Arg2:T26
+T28	Drug 4388 4398	Amlodipine
+T29	Strength 4399 4401	10
+R15	Strength-Drug Arg1:T29 Arg2:T28
+T30	Drug 4403 4413	Carvedilol
+T31	Strength 4414 4416	25
+R16	Strength-Drug Arg1:T31 Arg2:T30
+T32	Drug 4435 4446	Clobestasol
+T33	Frequency 4447 4450	qAM
+R17	Frequency-Drug Arg1:T33 Arg2:T32
+T34	Drug 4452 4462	Furosemide
+T35	Strength 4463 4465	40
+R18	Strength-Drug Arg1:T35 Arg2:T34
+R19	Strength-Drug Arg1:T35 Arg2:T34
+T36	Drug 4469 4478	Glipizide
+T37	Strength 4479 4480	5
+R20	Strength-Drug Arg1:T37 Arg2:T36
+T38	Drug 4482 4491	Moexipril
+T39	Strength 4492 4494	30
+R21	Strength-Drug Arg1:T39 Arg2:T38
+R22	Strength-Drug Arg1:T39 Arg2:T38
+T40	Drug 4498 4510	Rosuvastatin
+T41	Strength 4511 4512	5
+R23	Strength-Drug Arg1:T41 Arg2:T40
+T42	Drug 4514 4523	oxycontin
+T43	Strength 4524 4526	20
+R24	Strength-Drug Arg1:T43 Arg2:T42
+R25	Strength-Drug Arg1:T43 Arg2:T42
+T44	Drug 4558 4578	Rosuvastatin Calcium
+T45	Strength 4579 4583	5 mg
+R26	Strength-Drug Arg1:T45 Arg2:T44
+T46	Route 4584 4586	PO
+R27	Route-Drug Arg1:T46 Arg2:T44
+T47	Frequency 4587 4592	DAILY
+R28	Frequency-Drug Arg1:T47 Arg2:T44
+T48	Drug 4596 4604	Warfarin
+T49	Strength 4605 4609	5 mg
+R29	Strength-Drug Arg1:T49 Arg2:T48
+T50	Route 4610 4612	PO
+R30	Route-Drug Arg1:T50 Arg2:T48
+T51	Frequency 4613 4617	ONCE
+R31	Frequency-Drug Arg1:T51 Arg2:T48
+T52	Dosage 4628 4629	1
+R32	Dosage-Drug Arg1:T52 Arg2:T48
+T53	Drug 4639 4648	GlipiZIDE
+T54	Strength 4649 4653	5 mg
+R33	Strength-Drug Arg1:T54 Arg2:T53
+T55	Route 4654 4656	PO
+R34	Route-Drug Arg1:T55 Arg2:T53
+T56	Frequency 4657 4662	DAILY
+R35	Frequency-Drug Arg1:T56 Arg2:T53
+T57	Drug 4666 4687	Clobetasol Propionate
+T58	Strength 4688 4692	0.05
+R36	Strength-Drug Arg1:T58 Arg2:T57
+T59	Form 4694 4699	Cream
+R37	Form-Drug Arg1:T59 Arg2:T57
+T60	Dosage 4700 4701	1
+R38	Dosage-Drug Arg1:T60 Arg2:T57
+T61	Form 4702 4706	Appl
+R39	Form-Drug Arg1:T61 Arg2:T57
+T62	Route 4707 4709	TP
+R40	Route-Drug Arg1:T62 Arg2:T57
+T63	Drug 4730 4740	Carvedilol
+T64	Strength 4741 4746	25 mg
+R41	Strength-Drug Arg1:T64 Arg2:T63
+T65	Route 4747 4749	PO
+R42	Route-Drug Arg1:T65 Arg2:T63
+T66	Frequency 4750 4753	BID
+R43	Frequency-Drug Arg1:T66 Arg2:T63
+T67	Drug 4757 4767	Amlodipine
+T68	Strength 4768 4773	10 mg
+R44	Strength-Drug Arg1:T68 Arg2:T67
+T69	Route 4774 4776	PO
+R45	Route-Drug Arg1:T69 Arg2:T67
+T70	Frequency 4777 4782	DAILY
+R46	Frequency-Drug Arg1:T70 Arg2:T67
+T71	Drug 4786 4793	Aspirin
+T72	Strength 4794 4800	325 mg
+R47	Strength-Drug Arg1:T72 Arg2:T71
+T73	Route 4801 4803	PO
+R48	Route-Drug Arg1:T73 Arg2:T71
+T74	Frequency 4804 4809	DAILY
+R49	Frequency-Drug Arg1:T74 Arg2:T71
+T75	Drug 4813 4823	Furosemide
+T76	Strength 4824 4829	40 mg
+R50	Strength-Drug Arg1:T76 Arg2:T75
+T77	Route 4830 4832	PO
+R51	Route-Drug Arg1:T77 Arg2:T75
+T78	Frequency 4833 4836	BID
+R52	Frequency-Drug Arg1:T78 Arg2:T75
+T79	Drug 6793 6801	coumadin
+T81	Reason 6813 6824	blood clots
+R54	Reason-Drug Arg1:T81 Arg2:T79
+T82	Reason 6835 6854	atrial fibrillation
+R55	Reason-Drug Arg1:T82 Arg2:T79
+T83	Drug 6960 6968	coumadin
+T84	Drug 7128 7143	pain medication
+T85	Drug 7189 7197	coumadin
+T86	Drug 7244 7252	coumadin
+T87	Drug 7315 7331	pain medications
+T88	Strength 7350 7354	20mg
+R56	Strength-Drug Arg1:T88 Arg2:T90
+T89	Frequency 7355 7360;7361 7366	twice daily
+R57	Frequency-Drug Arg1:T89 Arg2:T90
+T90	Drug 7370 7379	oxycontin
+T91	Drug 7437 7446	oxycontin
+T92	Strength 7450 7454	20mg
+R58	Strength-Drug Arg1:T92 Arg2:T91
+T93	Frequency 7455 7464	in the AM
+R59	Frequency-Drug Arg1:T93 Arg2:T91
+T95	Strength 7469 7473	10mg
+R61	Strength-Drug Arg1:T95 Arg2:T91
+T96	Frequency 7474 7482	at night
+R62	Frequency-Drug Arg1:T96 Arg2:T91
+T98	Drug 9012 9020	coumadin
+T100	Reason 9032 9043	blood clots
+R65	Reason-Drug Arg1:T100 Arg2:T98
+T101	Reason 9054 9073	atrial fibrillation
+R66	Reason-Drug Arg1:T101 Arg2:T98
+T102	Drug 9179 9187	coumadin
+T103	Drug 9347 9362	pain medication
+T104	Drug 9408 9416	coumadin
+T105	Drug 9463 9471	coumadin
+T106	Drug 9534 9550	pain medications
+T107	Strength 9569 9573	20mg
+R67	Strength-Drug Arg1:T107 Arg2:T109
+T108	Frequency 9574 9579;9580 9585	twice daily
+R68	Frequency-Drug Arg1:T108 Arg2:T109
+T109	Drug 9589 9598	oxycontin
+T110	Drug 9656 9665	oxycontin
+T111	Strength 9669 9673	20mg
+R69	Strength-Drug Arg1:T111 Arg2:T110
+T112	Frequency 9674 9683	in the AM
+R70	Frequency-Drug Arg1:T112 Arg2:T110
+T114	Strength 9688 9692	10mg
+R72	Strength-Drug Arg1:T114 Arg2:T110
+T115	Frequency 9693 9701	at night
+R73	Frequency-Drug Arg1:T115 Arg2:T110
+T15	Frequency 3920 3923	day
+R7	Frequency-Drug Arg1:T15 Arg2:T14	
+T16	Strength 3902 3906	40mg
+T18	Frequency 3907 3910	day
+R8	Strength-Drug Arg1:T16 Arg2:T14	
+R10	Frequency-Drug Arg1:T18 Arg2:T14	
+T1	Route 2653 2655	IV
+R1	Route-Drug Arg1:T1 Arg2:T2	
+T3	Route 2672 2674	IV
+R2	Route-Drug Arg1:T3 Arg2:T4	

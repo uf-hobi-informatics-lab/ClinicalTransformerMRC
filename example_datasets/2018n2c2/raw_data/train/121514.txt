@@ -1,0 +1,336 @@
+Admission Date:  [**2138-7-29**]              Discharge Date:   [**2138-8-9**]
+
+Date of Birth:  [**2090-11-19**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2291**]
+Chief Complaint:
+Lithium Toxicity
+
+Major Surgical or Invasive Procedure:
+Left femoral temporary hemodialysis catheter placed on [**2138-7-29**]
+
+Hemodialysis on [**2138-7-29**]
+
+History of Present Illness:
+47 yo female w/ h/o bipolar d/o, schizophrenia and DM2, who
+presents to the ED from [**Hospital1 1680**]-HRI with progressively worsening
+mental status and tremulousness, found to have a lithium level
+of 3.5. History was obtained by patient's nurse [**First Name (Titles) **] [**Last Name (Titles) 1680**]-HRI.
+At some point in [**Name (NI) 205**], pt's clozapine was discontinued due to
+agranulocytosis. This resulted in an acute psychotic episode,
+requiring hospitalization at [**Hospital1 1680**]-HRI on [**6-22**]. She has been
+hospitalized at this facility for the past 5 weeks. Her nurse
+notes that over the first 2-3 weeks of her hospitalization, she
+steadily became more psychotic and paranoid, believing that she
+was being poisoned. For the past 3 weeks, pt. has had very poor
+PO intake. Per her nurse, she did not have any nausea, vomiting,
+diarrhea, abdominal pain, SOB, cough, chest pain, fevers, or
+dysuria. Of note, a full set of basic labs were obtained on
+[**7-18**]. These were all wnl, including a BUN/Cr of 24/0.8. She was
+started on lithium 300mg TID on [**7-23**]. Over the past week, staff
+have noted that she has been increasingly tremulous and unsteady
+on her feet, requiring a walker to ambulate. Over the past two
+days, pt. became increaisngly confused and incoherent. She was
+refusing to get out of bed and being more agitated. A lithium
+level was checked and was 3.5. This prompted transfer to [**Hospital1 18**]
+ED.
+
+In the ED, initial VS were: 100.2 120 115/92 18 97%
+Labs were notable for Lithium level of 3.0. Na 133 K 5.5 Cl 101
+HCO3- 23 BUN 47 Cr 3.3 Glucose 84. AST 32 ALT 24 AP 103 T Bili
+0.4.
+WBC 11.9 (74.2% PMN) HCT 43.8 Plt 288. PTT 30.5 INR 1.0
+
+Pt. was noted to be very tremulous and agitated. A temporary HD
+line was placed in the ED. For her agitation, she was given a
+total of 4mg of Ativan, and was transfered to the MICU for HD
+and further management.
+
+On arrival to the MICU, VS:T 97.8 HR 95 BP 111/68 RR 19 97% on
+RA
+
+Review of systems:
+As per HPI. unable to obtain further ROS due to mental status
+
+
+Past Medical History:
+1. Schizophrenia
+2. Bipolar d/o
+3. DM2
+4. hypothyroidism
+
+
+Social History:
+unable to obtain
+
+Family History:
+unable to obtain
+
+Physical Exam:
+Physical Exam ON ADMISSION
+VS:T 97.8 HR 95 BP 111/68 RR 19 97% on RA
+General: oriented to self. stated the date was [**2139-8-25**].
+mumbling incoherently
+HEENT: Sclera anicteric, dry mucous membranes, oropharynx clear,
+EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, diffusely tender to palpation, no rebound
+tenderness or guarding, non-distended, bowel sounds present, no
+organomegaly
+GU: foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: Minimal tremor at rest, but all four extremities exhibit
+significant tremor with active and passive motion. No rigidity
+noted. Unable to assess strength as pt. uncooperative with exam.
+Patellar DTRs were 3+ bilaterally. 4 beats of clonus elicited
+with ankle dorsiflexion bilaterally.
+
+Physical Exam on Discharge:
+VS - 97.6, 129/68, 73, 20, 96% RA
+GENERAL - Ms. [**Known lastname 77651**] is an overweight female found lying in bed
+ resting in NAD. Patient blinking frequently and is tremulous.
+HEENT - NC/AT, PERRL, EOMI, sclerae anicteric, MMM, OP clear
+NECK - supple, no thyromegaly, no JVD, no lymphadenopathy
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp
+unlabored, no accessory muscle use
+HEART - normal RRR, no MRG, nl S1-S2
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no
+rebound/guarding
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)
+
+LUE with edema (mostly in hand and forearm), very minimal
+erythema of dorasal aspect of hand, no warmth.
+RUE with midline access in place and without surround erythema.
+
+
+Pertinent Results:
+[**2138-7-29**] 01:47PM BLOOD WBC-11.9* RBC-4.57 Hgb-14.5 Hct-43.8
+MCV-96 MCH-31.8 MCHC-33.2 RDW-13.7 Plt Ct-288
+[**2138-7-31**] 03:54AM BLOOD WBC-6.3 RBC-3.43* Hgb-10.5* Hct-32.9*
+MCV-96 MCH-30.6 MCHC-31.9 RDW-13.5 Plt Ct-160
+
+[**2138-7-29**] 01:47PM BLOOD Glucose-84 UreaN-47* Creat-3.3* Na-133
+K-5.5* Cl-101 HCO3-23 AnGap-15
+[**2138-7-31**] 03:54AM BLOOD Glucose-66* UreaN-9 Creat-0.8 Na-138
+K-3.6 Cl-108 HCO3-27 AnGap-7*
+
+[**2138-7-31**] 03:54AM BLOOD Calcium-7.8* Phos-3.2 Mg-1.6
+[**2138-7-29**] 06:12PM BLOOD TSH-0.99
+[**2138-7-29**] 01:47PM BLOOD Lithium-3.0*
+[**2138-7-30**] 04:34AM BLOOD Lithium-1.0
+[**2138-7-30**] 01:05PM BLOOD Lithium-1.2
+[**2138-7-30**] 06:20PM BLOOD Lithium-1.1
+[**2138-7-31**] 03:54AM BLOOD Lithium-1.0
+[**2138-7-31**] 12:03PM BLOOD Lithium-0.9
+
+UA [**2138-7-29**]: clean
+
+[**2138-7-29**] 2:50 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Preliminary):
+      STREPTOCOCCUS SPECIES.    PROBABLE MULTIPLE MORPHOLOGIES.
+
+   Anaerobic Bottle Gram Stain (Final [**2138-7-30**]):
+      Reported to and read back by [**First Name8 (NamePattern2) **] [**Doctor Last Name **],9/05/12,12:05PM.
+
+      GRAM POSITIVE COCCI IN PAIRS AND CHAINS.
+
+EKG [**7-29**]: NSR, no abnormalities
+
+CXR [**7-29**]: IMPRESSION:  No acute cardiopulmonary process.
+
+TTE [**7-30**]: The left atrium is normal in size. Left ventricular
+wall thicknesses and cavity size are normal. Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. Overall left ventricular systolic function is
+normal (LVEF>55%). The number of aortic valve leaflets cannot be
+determined. There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. No mitral regurgitation is seen. The estimated
+pulmonary artery systolic pressure is normal. There is no
+pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. No evidence of
+vegetations. Left ventricular function is probably normal, a
+focal wall motion abnormality cannot be fully excluded.
+
+LUE US [**2138-8-2**]:
+FINDINGS: Grayscale and color Doppler son[**Name (NI) 493**] evaluation was
+performed of the left upper extremity. Normal compressibility
+and flow was seen in the left subclavian, internal jugular,
+brachial, basilic and cephalic veins without evidence of left
+upper extremity DVT.
+
+Labs on Discharge:
+[**2138-8-6**] 07:00AM BLOOD WBC-7.0 RBC-3.49* Hgb-10.9* Hct-32.4*
+MCV-93 MCH-31.1 MCHC-33.6 RDW-14.2 Plt Ct-281
+[**2138-8-6**] 07:00AM BLOOD Glucose-122* UreaN-9 Creat-0.9 Na-138
+K-3.9 Cl-104 HCO3-25 AnGap-13
+[**2138-8-6**] 07:00AM BLOOD Lithium-<0.2
+
+Brief Hospital Course:
+Ms. [**Known lastname 77651**] is a 47 y/o female with a h/o schizophrenia,
+bipolar, DM, and hypothyroidism who presented to [**Hospital1 18**] with
+altered mental status and tremulous and was found to have
+lithium toxicity, [**Last Name (un) **], and streptococcus viridans in bacteremia.
+
+Acute Issues:
+# Lithium Toxicity: The patient was found to ahve a Lithium
+level of 3.0 on arrival. It is unlikely that this represents an
+overdose as patient has been an inpatient at a psychiatric
+hospital. She has only been on lithium for approximately 1 week.
+It is likely that patient sustained an acute kidney injury over
+the course of the past few weeks, causing decreased renal
+lithium clearance, resulting in toxicicty. Toxicology and renal
+were consulted. Temporary femoral HD line was placed, and she
+was dialyzed x 1 session. Lithium level was checked 6 hours
+after dialysis and was 1.0, re-check was 1.2, then came down to
+0.9 as UOP picked up. Her lithium level decreased again to 0.7
+and then to < 0.2.
+
+# Acute Renal Failure: The patient was found to have a Cr of 3.3
+on presentation (baseline was 0.8 on [**2138-7-18**]). This was likely
+pre-renal [**12-26**] poor po intake over past few weeks. She received
+2L boluses of NS and had maintenance fluids of NS at 200-250cc.
+Her UOP increased significantly with aggressive hydration and
+her creatinine returned to her baseline of 0.8.
+
+# Streptococcus Viridans bacteremia: The patient was found to
+have strep viridans present in [**11-25**] bottles. The patient was
+initially started on Vancomycin and it was thought that the gram
+positive cocci represented a contamination. Upon speciation of
+strep viridans, Infectious Disease was consulted. They
+considered this a low risk bacteremia and recommended 14 days of
+ceftriaxone 2 g IV daily from negative cultures. Repeat cultures
+on [**2138-7-30**] were with no growth. The temporary hemodialysis
+catheter tip was sent for culture on [**7-31**] and was with no growth.
+A midline was placed on [**2138-8-2**] for antibiotic administration and
+antibiotics will be completed on [**2138-8-14**].
+
+# AMS/Psychosis: Improved somewhat after dialysis and
+normalization of lithium level. Agitation was generally well
+controlled with PRN Ativan. Continued to be agitated and
+responding to internal stimuli. Her antipsychotics were
+initially held in setting of acute lithium toxicity due to
+increased risk of NMS. Psych was consulted and followed patient.
+They recommended re-starting her aripiprazole and it was slowly
+titrated back to home dose of 30 mg daily. She was discharged to
+inpatient psych bed on [**Hospital1 **] 4.
+
+Chronic:
+# Schizophrenia/Bioplar: Psych was consulted and followed
+patient. Initially all psych meds were held in the setting of
+acute lithium toxicity. Her aripriprazole was started back and
+slowly titrated back to home dose. The remainder of psych meds
+were held. She was discharged to inpatient psych bed on [**Hospital1 **] 4.
+
+#DM2: The patient's home metformin was held during
+hospitalization and she was maintained on insulin sliding scale.
+
+#Hypothyroidism: The patient's TSH was within normal limits. Her
+home synthroid was continued during hospitalization and cytomel
+will be restarted upon discharge.
+
+Transitional Issues:
+-Will need to complete 14 day course of ceftriaxone with 9/6
+conuted as day 1 (to be completed on [**8-14**]).
+-Psychiatry to continue titrating and adjust psychiatric
+medicaitons.
+-Patient will need to restart metformin when not refusing to
+eat.
+- patient will need Panorex and/or Dental eval for multiple
+caries when acute psychosis improves as possible source for her
+bacteremia
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from  [**Hospital1 1680**]-HRI.
+1. Aripiprazole 30 mg PO DAILY
+2. BuPROPion (Sustained Release) 200 mg PO BID
+3. Benztropine Mesylate 1 mg PO BID
+4. Bisacodyl 5 mg PO DAILY
+5. Cytomel 10 mcg PO DAILY
+6. Chloral Hydrate 500 mg PO QHS
+7. Clonazepam 1 mg PO Q4H:PRN anxiety
+8. Clonazepam 0.5 mg PO BID
+9. Haloperidol 10 mg PO BID
+10. Lithium Carbonate 300 mg PO QHS
+11. MetFORMIN (Glucophage) 500 mg PO DAILY
+12. Ibuprofen 400 mg PO Q6H:PRN pain
+13. Omeprazole 20 mg PO Q 12H
+14. Prazosin 1 mg PO HS
+15. Levothyroxine Sodium 50 mcg PO DAILY
+16. Vitamin D 1000 UNIT PO DAILY
+
+
+Discharge Medications:
+1. Aripiprazole 30 mg PO DAILY
+2. Ibuprofen 400 mg PO Q6H:PRN pain
+3. Levothyroxine Sodium 50 mcg PO DAILY
+4. CeftriaXONE 2 gm IV Q24H
+5. Bisacodyl 5 mg PO DAILY
+6. Cytomel 10 mcg PO DAILY
+7. Omeprazole 20 mg PO Q 12H
+8. Vitamin D 1000 UNIT PO DAILY
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 **] 4
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Lithium Toxicity
+Streptococcs Viridans bacteremia
+
+Secondary Diagnosis:
+Schizophrenia
+Bipolar
+
+
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Currently refusing to get out of bed,
+previously ambulatory.
+
+
+Discharge Instructions:
+Ms. [**Known lastname 77651**],
+
+You were admitted to the hospital for lithium toxicity and you
+were also found to show that your kidneys were not functioning
+well. You were treated with one session of hemodialysis and you
+lithium level came down in to the normal range. We gave you IV
+(through your vein) fluids and you kidney function returned to
+[**Location 213**].
+
+While you were here we also found that you had a bacteria in
+your blood. To treat this we are giving you IV (through your
+vein) antibiotics.
+
+While you were here psychiatry followed you and adjusted your
+medications.
+
+It was a pleasure caring for you,
+Your [**Hospital1 **] doctors
+
+Followup Instructions:
+PCP and psychiatry follow up to be scheduled by inpatient
+psychiatry.
+
+
+
+Completed by:[**2138-8-10**]

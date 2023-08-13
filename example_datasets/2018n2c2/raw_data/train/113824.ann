@@ -1,0 +1,211 @@
+T1	Drug 12225 12231	flagyl
+T2	Drug 8642 8652	cytarabine
+T3	Drug 9925 9933	ambisome
+T4	Drug 12870 12882	voriconazole
+T5	Strength 12883 12889	200 mg
+T6	Route 12902 12910	by mouth
+T7	Drug 8455 8466	allopurinol
+T8	Drug 15177 15186	acyclovir
+T9	Drug 15132 15144	voriconazole
+T10	Drug 13325 13334	acyclovir
+T11	Strength 13335 13341	400 mg
+T12	Frequency 13363 13368;13369 13380	every eight hours
+T13	Route 13354 13362	by mouth
+T14	Strength 13014 13020	162 mg
+T15	Route 13021 13023	PO
+T16	Drug 13006 13012;13012 13013	Aspiri n
+T17	Drug 8480 8488	cefepime
+T18	Drug 12240 12248	ambisome
+T19	Strength 827 833	300 mg
+T20	Frequency 834 837	QID
+T21	Drug 8655 8665	idarubicin
+T22	Drug 13207 13227	metoprolol succinate
+T23	Strength 13228 13233	50 mg
+T24	Frequency 13255 13261;13262 13265	once a day
+T25	Route 13246 13254	by mouth
+T26	Drug 13090 13103	cod liver oil
+T27	Form 13148 13151	TAB
+T28	Dosage 13146 13147	1
+T29	Route 13152 13154	PO
+T30	Drug 12453 12465	voriconazole
+T31	Drug 15266 15276	metoprolol
+T32	Drug 12003 12012	aztreonam
+T33	Strength 12980 12986	650 mg
+T34	Frequency 12990 12993;12993 12997	Q6H :PRN
+T35	Route 12987 12989	PO
+T36	Drug 12966 12978;12978 12979	Acetaminophe n
+T37	Drug 12838 12850	Voriconazole
+T38	Strength 12851 12857	200 mg
+T39	Frequency 12861 12865	Q12H
+T40	Route 12858 12860	PO
+T41	Drug 12017 12023	flagyl
+T42	Drug 10088 10096	ambisome
+T43	Drug 13033 13050;13050 13061	calcium carbonate -vitamin D3
+T44	Form 13069 13075	tablet
+T45	Dosage 13067 13068	1
+T46	Route 13076 13080	Oral
+T47	Drug 11690 11699	meropenem
+T48	Drug 10539 10551	voriconazole
+T49	Strength 11264 11269	162mg
+T50	Drug 13164 13184;13185 13187	Metoprolol Succinate XL
+T51	Strength 13188 13193	50 mg
+T52	Route 13194 13196	PO
+T53	Drug 13297 13306	Acyclovir
+T54	Strength 13307 13313	400 mg
+T55	Frequency 13317 13320	Q8H
+T56	Route 13314 13316	PO
+T57	Drug 12724 12737	COD LIVER OIL
+T58	Frequency 12800 12806;12807 12810	once a day
+T59	Route 12791 12799	by mouth
+T60	Drug 14238 14248	cytarabine
+T61	Drug 12663 12680;12680 12691	CALCIUM CARBONATE -VITAMIN D3
+T62	Drug 8442 8453	hydroxyurea
+T63	Drug 15230 15237	aspirin
+T64	ADE 9882 9893	hypotension
+T65	Drug 815 826	clindamycin
+T66	Drug 1500 1511	allopurinol
+T67	Strength 1512 1518	300 mg
+T68	Route 1519 1521	PO
+T69	Dosage 1524 1525	1
+T70	Drug 8493 8498	chemo
+T71	Drug 8553 8565	chemotherapy
+T72	ADE 10017 10028	hypotension
+T73	Drug 11260 11263	ASA
+T74	Frequency 11270 11275	daily
+T75	ADE 11660 11664	Rash
+T76	Reason 11717 11726	Typhlitis
+T77	Drug 12213 12223	aztrenonam
+T78	Drug 12233 12238	vanco
+T79	Drug 12599 12611	chemotherapy
+T80	Drug 12766 12778	MULTIVITAMIN
+T81	Dosage 12890 12891	1
+T82	Form 12892 12901	tablet(s)
+T83	Frequency 12911 12928;12929 12934	every twelve (12) hours
+T84	Reason 12998 13002	pain
+T85	Frequency 13081 13086	Daily
+T86	Dosage 13109 13110	1
+T87	Form 13111 13117	tablet
+T88	Route 13118 13122	Oral
+T89	Frequency 13123 13128	Daily
+T90	Drug 13132 13145	Multivitamins
+T91	Frequency 13155 13160	DAILY
+T92	Frequency 13197 13202	DAILY
+T93	Dosage 13234 13235	1
+T94	Form 13236 13245	tablet(s)
+T95	Dosage 13342 13343	1
+T96	Form 13344 13353	tablet(s)
+T97	Drug 14187 14199	chemotherapy
+T98	Drug 14268 14280	chemotherapy
+T99	Drug 14731 14742	chemotherpy
+T100	Reason 15154 15170	fungal infection
+T101	Reason 15190 15214	prevent viral infections
+T102	Dosage 15221 15224	two
+T103	Reason 15253 15259	stroke
+T104	Reason 15286 15305	high blood pressure
+R1	Strength-Drug Arg1:T5 Arg2:T4
+R2	Route-Drug Arg1:T6 Arg2:T4
+R3	Strength-Drug Arg1:T11 Arg2:T10
+R4	Frequency-Drug Arg1:T12 Arg2:T10
+R5	Route-Drug Arg1:T13 Arg2:T10
+R6	Strength-Drug Arg1:T14 Arg2:T16
+R7	Route-Drug Arg1:T15 Arg2:T16
+R8	Strength-Drug Arg1:T19 Arg2:T65
+R9	Frequency-Drug Arg1:T20 Arg2:T65
+R10	Strength-Drug Arg1:T23 Arg2:T22
+R11	Frequency-Drug Arg1:T24 Arg2:T22
+R12	Route-Drug Arg1:T25 Arg2:T22
+R13	Form-Drug Arg1:T27 Arg2:T90
+R14	Dosage-Drug Arg1:T28 Arg2:T90
+R15	Route-Drug Arg1:T29 Arg2:T90
+R16	Strength-Drug Arg1:T33 Arg2:T36
+R17	Frequency-Drug Arg1:T34 Arg2:T36
+R18	Route-Drug Arg1:T35 Arg2:T36
+R19	Strength-Drug Arg1:T38 Arg2:T37
+R20	Frequency-Drug Arg1:T39 Arg2:T37
+R21	Route-Drug Arg1:T40 Arg2:T37
+R22	Form-Drug Arg1:T44 Arg2:T43
+R23	Dosage-Drug Arg1:T45 Arg2:T43
+R24	Route-Drug Arg1:T46 Arg2:T43
+R25	Strength-Drug Arg1:T51 Arg2:T50
+R26	Route-Drug Arg1:T52 Arg2:T50
+R27	Strength-Drug Arg1:T54 Arg2:T53
+R28	Frequency-Drug Arg1:T55 Arg2:T53
+R29	Route-Drug Arg1:T56 Arg2:T53
+R30	Frequency-Drug Arg1:T58 Arg2:T80
+R31	Route-Drug Arg1:T59 Arg2:T80
+R32	Dosage-Drug Arg1:T69 Arg2:T66
+R33	Route-Drug Arg1:T68 Arg2:T66
+R34	Strength-Drug Arg1:T67 Arg2:T66
+R35	ADE-Drug Arg1:T64 Arg2:T3
+R36	ADE-Drug Arg1:T72 Arg2:T42
+R37	Strength-Drug Arg1:T49 Arg2:T73
+R38	Frequency-Drug Arg1:T74 Arg2:T73
+R39	ADE-Drug Arg1:T75 Arg2:T47
+R40	Reason-Drug Arg1:T76 Arg2:T41
+R41	Reason-Drug Arg1:T76 Arg2:T32
+R42	Form-Drug Arg1:T82 Arg2:T4
+R43	Frequency-Drug Arg1:T83 Arg2:T4
+R44	Dosage-Drug Arg1:T81 Arg2:T4
+R45	Reason-Drug Arg1:T84 Arg2:T36
+R46	Frequency-Drug Arg1:T85 Arg2:T43
+R47	Frequency-Drug Arg1:T89 Arg2:T26
+R48	Route-Drug Arg1:T88 Arg2:T26
+R49	Form-Drug Arg1:T87 Arg2:T26
+R50	Dosage-Drug Arg1:T86 Arg2:T26
+R51	Frequency-Drug Arg1:T91 Arg2:T90
+R52	Frequency-Drug Arg1:T92 Arg2:T50
+R53	Form-Drug Arg1:T94 Arg2:T22
+R54	Dosage-Drug Arg1:T93 Arg2:T22
+R55	Form-Drug Arg1:T96 Arg2:T10
+R56	Dosage-Drug Arg1:T95 Arg2:T10
+R57	Reason-Drug Arg1:T104 Arg2:T31
+R58	Reason-Drug Arg1:T103 Arg2:T63
+R59	Dosage-Drug Arg1:T102 Arg2:T63
+R60	Reason-Drug Arg1:T101 Arg2:T8
+R61	Reason-Drug Arg1:T100 Arg2:T9
+T106	Drug 9953 9958	fluid
+T107	Form 9959 9966	boluses
+T108	Drug 9987 9994	pressor
+T109	Drug 10190 10193	abx
+T110	Drug 10520 10531	antibiotics
+T111	Drug 12061 12071	antibiotic
+T112	Frequency 13024 13029	DAILY
+T113	ADE 14609 14628	neutropenic colitis
+T114	Drug 14771 14782	antibiotics
+T115	Drug 14940 14952	antibioitics
+T116	ADE 14904 14908	rash
+T117	Strength 15225 15229	baby
+T118	Drug 12693 12704;12705 12711	CALCIUM 600 + D(3)
+T119	Reason 746 763	3 abscessed teeth
+T120	Reason 7928 7942	Acute leukemia
+T121	Drug 9548 9553	vanco
+T122	Reason 9336 9342	Sepsis
+T123	Reason 10958 10970	Ischemic CVA
+T126	Reason 14133 14159	acute myelogenous leukemia
+T127	Frequency 15238 15243	a day
+R62	Reason-Drug Arg1:T122 Arg2:T121
+R63	Form-Drug Arg1:T107 Arg2:T106
+R64	ADE-Drug Arg1:T116 Arg2:T115
+R65	Reason-Drug Arg1:T119 Arg2:T65	
+R66	Reason-Drug Arg1:T120 Arg2:T62	
+R67	Reason-Drug Arg1:T120 Arg2:T7	
+R68	Reason-Drug Arg1:T120 Arg2:T17	
+R69	Reason-Drug Arg1:T120 Arg2:T70	
+R70	Reason-Drug Arg1:T120 Arg2:T2	
+R71	Reason-Drug Arg1:T120 Arg2:T71	
+R72	Reason-Drug Arg1:T120 Arg2:T21	
+T128	Reason 9882 9893	hypotension
+R73	Reason-Drug Arg1:T128 Arg2:T106	
+R74	Reason-Drug Arg1:T123 Arg2:T73	
+R75	Frequency-Drug Arg1:T112 Arg2:T16	
+R76	Reason-Drug Arg1:T126 Arg2:T97	
+R77	Reason-Drug Arg1:T126 Arg2:T60	
+R78	Reason-Drug Arg1:T126 Arg2:T98	
+R79	ADE-Drug Arg1:T113 Arg2:T99	
+R80	Strength-Drug Arg1:T117 Arg2:T63	
+R81	Frequency-Drug Arg1:T127 Arg2:T63	
+T105	Reason 9343 9362	Febrile neutropenia
+R82	Reason-Drug Arg1:T105 Arg2:T121	
+T124	Reason 11727 11746	Neutropenic colitis
+R83	Reason-Drug Arg1:T124 Arg2:T32	
+R84	Reason-Drug Arg1:T124 Arg2:T41	

@@ -1,0 +1,418 @@
+Admission Date:  [**2185-4-20**]              Discharge Date:   [**2185-4-23**]
+
+Date of Birth:  [**2131-3-30**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Benadryl Allergy / Ambisome / Flomax
+
+Attending:[**Last Name (NamePattern1) 4377**]
+Chief Complaint:
+renal failure
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+53 year old man with h/o AML s/p allo cord transplant (now day
++516) complicated by chronic GVHD with arthritis, BOOP, who
+presented to the BMT floor from clinic with worsening renal
+function(2.3) and hyperkalemia, and worsening odynophagia on
+[**2185-4-20**].
+
+On arrival to the BMT floor, as he was transitioning into the
+bed, he became mom[**Name (NI) 11711**] unresponsive to verbal stimuli and
+physical stimuli. No jerking movements or incontience were
+noted. A code blue was called. On arrival of the code team, BP
+124/80, Hr 70s, satting 100% on 5L NC. He was responsive to
+verbal stimuli and answering questions appropriately. He does
+not recall only seconds of the entire episode; wife notes that
+his eyes were closed. 1 amp of D50, 10units regular insulin, and
+abuterol nebs were given for known hyperkalemia. An EKG was
+obtained which showed isolated peaked T waves. CXR showed no
+interval change when accounted for technique from prior in the
+day. During this time, he did experience a headache that was
+located in the forhead, temples and described as a pressure /
+squeeze that he has experienced with prior tension headaches.
+He was then transferred to the [**Hospital Unit Name 153**] for further cardiac
+monitoring. During this time, he was also noted to have some
+tremors in hands and legs, but this was not associated with any
+loss of consciousness or loss of consciousness. These episodes
+will occur for only seconds at a time and tend to occur when he
+is holding objects in his hands / intention tremor. He has not
+had formal workup for this, but there was no clear etiology to
+this tremor (which has been present intermittently over the past
+2 years) to date.
+His wife also relays the presence of intermittent episodes of
+unresponsiveness over the past x2 years ago at a frequency of
+1-2x per week lasting only seconds at a time. This has not been
+formally evaluated to date.
+
+
+Past Medical History:
+Past Medical History (taken from previous notes)
+1) AML, M5b diagnosed 07/[**2182**].
+- Received induction chemotherapy with 7 + 3(ARA-C and
+idarubicin)-[**2182-7-23**] until [**2182-8-22**]. The patient achieved a
+CR after this therapy.
+- High-dose ARA-C x 2 cycles from [**2182-8-28**] until [**2182-9-27**].
+- Pt found to have relapsing dz and reinduced with Mitoxantrone
+and Ara-C [**Date range (1) 39624**]. Pt was found to have relapsing dz on
+bone marrow bx [**2183-9-2**] with 16% blasts, then was admitted
+between [**Date range (1) 39625**] for Mitoxantrone, Etopiside and Cytarabine.
+- s/p myeloablative sequential unrelated double cord blood
+transplant, now D+334. Day 100 bone marrow biopsy showed no
+siagnostic morphologic features of involvement by acute
+leukemia, with cytogenetics revealing karyotype 46XX, consistent
+with that of female donor.
+2) hepatic insufficiency due to secondary hemochromatosis and
+steatosis
+3) Aspergillosis of the sinus/nares on voriconazole.
+4) Bacillary angiomatosis
+5) Acute appendicitis deep into his nadir during transplant that
+was successfully treated with daptomycin, meropenem, levofloxain
+and metronidazole
+6) Incidental HHV6 IgG-positive, without disease
+7) Hx of post chemo-induced cardiomyopathy; TTE [**6-19**] with
+preserved EF.
+8) Sarcoid - diagnosed in [**2172**], received intermittent steroids
+9) GERD
+10) HTN
+11) Hypercholesterolemia
+12) s/p cholecystectomy in [**6-/2180**] complicated by sinus
+tract to the abdominal wall
+13) Hepatic and splenic microabscesses/candidiasis ([**8-/2182**])
+14) BOOP requiring extended ICU/hospital course in [**3-/2184**] and
+home oxygen
+15) Peripheral neuropathy
+
+Social History:
+Formerly worked as auto mechanic, now disabled econdary to AML
+and GVHD. Lives with wife, teenage son. Past tobacco use, but
+non currently.
+
+Family History:
+Father- CAD s/p CABG. Type II Diabetes
+Mother- Type [**Name (NI) **] Diabetes.
+Multiple paternal uncles with heart disease.
+2 siblings in good health.
+
+Physical Exam:
+GENERAL: Middle-aged, Cushingoid, overweight man in NAD
+HEENT: EOMI, PERRLA, mucous membranes moist, no cervical LAD, no
+JVD, neck supple w/out tenderness
+CARDIAC: RRR no m/g/r, S1, S2 nl
+CHEST: kyphotic
+LUNG: few bilateral crackles at bases, no wheezes, rhonchi
+ABDOMEN: obese, soft, NT, ND, unable to appreciate HSM [**2-14**] body
+habitus, no rebound or guarding
+EXT: warm, + bilateral 2+ pitting edema to knees, DP+
+bilaterally, no cyanosis - L elbow medial epicondyle tenderness
+w/ effusion, no joint erythema or effusion
+NEURO: CNII-XII intact, motor symmetric strength, hyperesthetic
+sensation bilateral LE/feet, no evidence of toe nail erythema
+DERM: ecchymoses on abdomen [**2-14**] insulin, no other lesions.
+Psych: Mood liabile, affect appropriate, intermittently tearing
+up to labs draws, movement to ICU
+
+
+Pertinent Results:
+CBC:
+[**2185-4-20**] 11:11AM BLOOD WBC-5.3 RBC-2.84* Hgb-9.3* Hct-29.3*
+MCV-103* MCH-32.7* MCHC-31.7 RDW-15.2 Plt Ct-101*
+[**2185-4-23**] 06:10AM BLOOD WBC-2.5* RBC-2.79* Hgb-9.2* Hct-29.1*
+MCV-104* MCH-33.1* MCHC-31.7 RDW-15.3 Plt Ct-88*
+[**2185-4-20**] 11:11AM BLOOD Neuts-84.9* Lymphs-4.7* Monos-7.5 Eos-2.9
+Baso-0
+[**2185-4-23**] 06:10AM BLOOD Neuts-70.4* Lymphs-11.9* Monos-13.8*
+Eos-3.7 Baso-0.2
+
+Chemistries:
+[**2185-4-20**] 11:11AM BLOOD Glucose-156* UreaN-91* Creat-2.3* Na-137
+K-5.5* Cl-103 HCO3-22 AnGap-18
+[**2185-4-20**] 07:49PM BLOOD Glucose-108* UreaN-74* Creat-2.1* Na-136
+K-4.8 Cl-126* HCO3-18* AnGap--3*
+[**2185-4-21**] 04:18AM BLOOD Glucose-112* UreaN-83* Creat-2.2* Na-137
+K-5.7* Cl-108 HCO3-23 AnGap-12
+[**2185-4-21**] 08:18AM BLOOD Na-139 K-6.8* Cl-109*
+[**2185-4-21**] 08:18AM BLOOD Na-142 K-5.6* Cl-110*
+[**2185-4-21**] 02:12PM BLOOD Na-140 K-5.7* Cl-108
+[**2185-4-22**] 05:14AM BLOOD Glucose-88 UreaN-72* Creat-2.0* Na-142
+K-4.8 Cl-108 HCO3-24 AnGap-15
+[**2185-4-23**] 06:10AM BLOOD Glucose-88 UreaN-61* Creat-1.9* Na-142
+K-4.0 Cl-108 HCO3-26 AnGap-12
+
+LFTs:
+[**2185-4-20**] 11:11AM BLOOD ALT-35 AST-28 LD(LDH)-246 AlkPhos-189*
+TotBili-0.2
+[**2185-4-21**] 04:18AM BLOOD ALT-33 AST-27 CK(CPK)-17* AlkPhos-168*
+TotBili-0.1
+
+Cardiac Enzymes:
+[**2185-4-20**] 06:29PM BLOOD CK-MB-3 cTropnT-<0.01
+[**2185-4-21**] 04:18AM BLOOD CK-MB-3 cTropnT-<0.01
+
+[**2185-4-20**] 11:11AM BLOOD Calcium-8.4 Phos-3.9 Mg-2.6
+[**2185-4-23**] 06:10AM BLOOD Calcium-8.3* Phos-3.4 Mg-2.2
+
+Antibody Titers:
+[**2185-4-20**] 11:11AM BLOOD IgG-412* IgA-54* IgM-17*
+
+ABG:
+[**2185-4-20**] 06:30PM BLOOD Type-ART pO2-134* pCO2-39 pH-7.38
+calTCO2-24 Base XS--1 Intubat-NOT INTUBA
+[**2185-4-20**] 06:30PM BLOOD Glucose-442* Lactate-1.7 Na-132* K-6.5*
+Cl-100
+[**2185-4-20**] 06:30PM BLOOD freeCa-1.13
+
+Blood and urine cultures from [**4-20**] negative.
+
+Head CT ([**4-21**]):
+IMPRESSION: No acute intracranial hemorrhage. Paranasal sinus
+disease in the left maxillary and sphenoid sinus, as described
+above.
+
+CXR: ([**4-21**]) :
+FINDINGS: Allowing for differences in technique there has been
+no interval
+change in appearance of the chest since the recent study with no
+acute
+cardiopulmonary abnormality identified.
+
+
+Brief Hospital Course:
+Summary of Hospital Course: 53 year old man with h/o AML s/p
+allo cord transplant (day +516 on admission) complicated by
+chronic GVHD with arthritis, BOOP, who now presents to clinic
+with acute on chronic renal failure. Hospital course complicated
+by syncopal episode the day of admission resulting in Code Blue
+and hyperkalemia, requiring brief ICU admission.
+
+#Syncope: Patient had syncopal episode the day of admission,
+where he was unresponsive for ~1 minute while lying flat.
+Unclear etiology, possible due to orthostatic hypotension (noted
+to have orthostatic physiology in the ICU and on the floor) vs
+arrythmia vs seizure activity. Of note, (per wife), patient has
+had many of these episodes recently (~2 years, ~1-2 episodes per
+week). Patient denied any heralding symptoms and was not
+post-ictal afterwards, but was noted to have a resting tremor in
+the MICU. His history of tremor is not consistent wtih seizure
+activity. It appears to be an intention tremor that gets worse
+when holding on to objects and is low in amplitude while high in
+frequency, bilateral and not associated with change in
+consciousness or incontinence.
+
+Noted to be hyperkalemic during the code, given amp D50 and 10 U
+insulin peri-code and kayexalate in the ICU, with drop in
+potassium down to 4.0 on discharge.   Neurology consulted on
+patient who recommended EEG and possible midodrine or fluorinef
+support. Held patient's lisinopril, but continued him on his
+carvedilol 12.5 mg PO BID as this was recently decreased in the
+setting of light headedness/dizziness by his cardiologist on
+[**3-21**], although informed him not to take the medication if he had
+any pre-syncopal symptoms. Medication can be decreased at the
+discretion of his cardiologist. Patient had no further syncopal
+episodes or events on telemetry in the ICU or on the floor.
+Neurology was consulted who recommended an EEG, possible blood
+pressure support with midodrine or fluorinef, at the discretion
+of the patient's outpatient oncologist and nephrologist. Was
+noted to not have any telemetry events or syncopal events while
+ambulating, with appropriate increase in pulse and blood
+pressure. and requested to be discharged with outpatient syncope
+work-up. Outpatient TTE, EEG, carotid U/S, and holter monitering
+were arranged prior to discharge.
+
+#Acute on chronic renal failure: Noted to have mildly elevated
+Cre to 2.3 in clinic the day of admission. Creatine has
+fluctuated over the past two years, with several episodes of
+acute renal failure while hospitalized. Followed by nephrology
+as an outpatient. Per outpatient notes, etiology of CKD thought
+to be [**2-14**] ATN that has not resolved, medication effect in the
+setting of bactrim, voriconazole, lisinopril, or AIN. Less
+likely due to AML infiltration of kidneys (very rare) or
+chemotherapy. Unlikely progressive glomerular disease given
+patient only has scant proteinuria. Patient has refused renal
+biopsy in the past. Baseline Cre has been 1.4-2.0 over the past
+few months.  Lisinopril was held. Cellcept was decreased to
+[**Telephone/Fax (3) 39636**] as GFR was ~30. Oral fluid intake encouraged. Renal
+failure resolved to baseline creatinine (1.9) on discharge.
+Renal did not have chance to formally consult on patient since
+he requested discharge, but stated informally that they had no
+further recommendations as an inpatient since he was refusing
+renal biopsy, and he could be accommodated very soon in renal
+clinic with his current outpatient nephrologist.
+
+#Congestive Heart Failure: Euvolemic to mildly hypervolemic on
+exam. Requested TTE as outpatient. Continued home meds including
+aspirin, beta-blocker. Held ACEI due to hyperkalemia.
+
+#AML: allo SCT +519 days. counts stable. continued prophylactic
+medications. Arranged to follow up with outpatient oncologist.
+
+#Epigastric discomfort: Gastritis, likely in setting of
+prednisone. Patient has tried and failed Nexium, reporting it
+has not helped his gastritis for 3 months. Relieved with
+protonix, which was added to med list on discharge. Can obtain
+prior authorization from PCP [**Name Initial (PRE) 5564**].
+
+Medications on Admission:
+-Acyclovir 400 [**Hospital1 **]
+-Carvedilol 12.5 [**Hospital1 **]
+-Cyanocobalamin 1000mcg IM 1xmonth
+-Nexium 20mg PO BID
+-Furosemide 40mg PO BID
+-Gabapentin 300 cap 3caps tid
+-Insulin Novolog 4xday, sliding scale
+-Glargine 10u qhs
+-Lisinopril 5mg daily
+-Montelukast 10mg PO daily
+-Morphine 15mg PO q6-8 hrs prn pain
+-MMF 500mg TID
+-Nitro 0.3mg tab SL
+-zofran 4-8mg q8 hrs prn nausea
+-Oxycodone SR 10mg PO BID
+-Prednisone 20mg daily
+-Bactrim 800-160 MWF
+-Voriconazole 200mg tab, 1.5 tab q12h
+-AA Magnesium Sulfate OTC 1tab daily
+-Vit C 500mg tab daily
+-Aspirin 81 mg tab Enteric coated
+-Cal Carb 1000mg tab [**Hospital1 **]
+-Vit D3 400u daily
+-Hexavitamin 1 tab daily
+-Miconazole 2% powder to affected areas [**Hospital1 **]
+-Thiamine 50mg PO daily
+-Docusate 100mg PO BID
+-Senna 1 tab [**Hospital1 **] prn
+
+
+Discharge Medications:
+1. Acyclovir 200 mg Capsule [**Hospital1 **]: Two (2) Capsule PO Q12H (every
+12 hours).
+2. Gabapentin 300 mg Capsule [**Hospital1 **]: One (1) Capsule PO three times
+a day.
+3. Montelukast 10 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY
+(Daily).
+4. Prednisone 20 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+
+5. Furosemide 40 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a
+day).
+6. Docusate Sodium 100 mg Capsule [**Hospital1 **]: One (1) Capsule PO BID (2
+times a day).
+7. Senna 8.6 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a
+day).
+8. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet [**Hospital1 **]: One (1)
+Tablet PO 3X/WEEK (MO,WE,FR).
+9. Oxycodone 10 mg Tablet Sustained Release 12 hr [**Hospital1 **]: One (1)
+Tablet Sustained Release 12 hr PO Q12H (every 12 hours).
+10. Morphine 15 mg Tablet [**Hospital1 **]: One (1) Tablet PO every 6-8 hours
+as needed for pain.
+11. Voriconazole 200 mg Tablet [**Hospital1 **]: 1.5 Tablets PO Q12H (every
+12 hours).
+12. Calcium Carbonate 500 mg Tablet, Chewable [**Hospital1 **]: Two (2)
+Tablet, Chewable PO BID (2 times a day).
+13. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) [**Hospital1 **]: One
+(1) Tablet, Delayed Release (E.C.) PO every twenty-four(24)
+hours.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+14. Aspirin 81 mg Tablet, Chewable [**Hospital1 **]: One (1) Tablet, Chewable
+PO DAILY (Daily).
+15. Thiamine HCl 100 mg Tablet [**Hospital1 **]: 0.5 Tablet PO DAILY (Daily).
+
+16. Nitroglycerin 0.3 mg Tablet, Sublingual [**Hospital1 **]: One (1) Tablet,
+Sublingual Sublingual PRN (as needed) as needed for chest pain.
+
+17. Nystatin 100,000 unit/mL Suspension [**Hospital1 **]: Five (5) ML PO QID
+(4 times a day).
+18. Carvedilol 12.5 mg Tablet [**Hospital1 **]: One (1) Tablet PO twice a
+day: HOLD if patient loses consciousness or has systolic blood
+pressure less than 100.
+19. Hexavitamin     Tablet [**Hospital1 **]: One (1) Tablet PO once a day.
+20. Vitamin D-3 400 unit Tablet [**Hospital1 **]: One (1) Tablet PO once a
+day.
+21. Vitamin C 500 mg Tablet [**Hospital1 **]: One (1) Tablet PO once a day.
+22. Insulin Aspart 100 unit/mL Solution [**Hospital1 **]: One (1) as directed
+Subcutaneous four times a day: per sliding scale.
+23. Insulin Glargine 100 unit/mL Solution [**Hospital1 **]: One (1) syringe
+Subcutaneous at bedtime: 10 Units at bedtime.
+24. Zofran 4 mg Tablet [**Hospital1 **]: 1-2 Tablets PO every eight (8) hours
+as needed for nausea.
+25. Mycophenolate Mofetil 250 mg Capsule [**Hospital1 **]: Two (2) Capsule PO
+BID (2 times a day).
+26. Mycophenolate Mofetil 250 mg Capsule [**Hospital1 **]: One (1) Capsule PO
+DAILY (Daily): please administer at noon  .
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1' Diagnosis
+Acute on Chronic Renal Failure
+Hyperkalemia
+Syncope
+
+2' Diagnosis
+Congestive Heart Failure
+Hypertension
+Acute Myelogenous Leukemia
+
+
+Discharge Condition:
+afebrile, hemodynamically stable, without syncopal episode x48
+hours
+
+Discharge Instructions:
+
+
+You were admitted with a diagnosis of acute on chronic renal
+failure, high potassium levels, and syncope. Your kidney
+function resolved back to it's baseline, and your potassium
+levels normalized with some kayexalate. We wanted to run some
+lab tests to evaluate the reason for your syncope, but you felt
+well and wanted to go home and have the testing done as an
+outpatient.
+
+Please take your medications as directed
+- Please hold your lisinopril as this medication can cause
+elevated potassium levels. Please restart at the discretion of
+your PCP or cardiologist.
+- Your Cellcept was decreased as noted on the medication list.
+- We started you on protonix for your heart burn in place of the
+Nexium. You may need prior authorization from your primary care
+physician or oncologist for this medications.
+
+Please return to the hospital if you have fever > 100.4, any
+further fainting episodes, chest pain, palpitations, or any
+other symptoms not listed here concerning enough to warrant
+physician [**Name Initial (PRE) 2742**].
+
+Followup Instructions:
+Provider: [**Name Initial (NameIs) 455**] 5-HEM ONC 7F [**Name Initial (NameIs) **]/ONCOLOGY-7F
+Date/Time:[**2185-4-25**] 9:00
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4380**], MD Phone:[**Telephone/Fax (1) 3237**]
+Date/Time:[**2185-4-25**] 2:00
+Provider: [**Name10 (NameIs) 3310**],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]/ONCOLOGY-7F
+Date/Time:[**2185-4-25**] 2:00
+
+with your cardiologist as an outpatient. The phone number is
+[**Telephone/Fax (1) 62**].
+
+with renal as an outpatient. Please call ([**Telephone/Fax (1) 773**] to make
+an appointment.
+
+to get your trans-thoracic echocardiogram, your carotid
+ultrasound, your holter monitoring, and your EEG. They have all
+been ordered and your outpatient oncologist should follow up on
+the results.
+- Please call [**Telephone/Fax (1) 327**] to schedule your carotid ultrasound.
+- Please call [**Telephone/Fax (1) 62**] to schedule your trans-thoracic
+ultrasound.
+- Please call [**Telephone/Fax (1) 3104**] to schedule your holter monitoring.
+- Please call [**Telephone/Fax (1) 5285**] to schedule your EEG.
+
+
+
+Completed by:[**2185-4-25**]

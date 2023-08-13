@@ -1,0 +1,249 @@
+T1	Drug 10376 10389	beta-blockers
+T2	Drug 10391 10397	statin
+T3	Drug 10398 10405	aspirin
+T4	Drug 10406 10415	diuretics
+T5	Drug 11017 11022	Lasix
+T6	Drug 11036 11039	IVF
+T7	Drug 11493 11502	Metformin
+T8	Strength 11503 11510	1000 mg
+R1	Strength-Drug Arg1:T8 Arg2:T7
+T9	Frequency 11511 11514	qam
+R2	Frequency-Drug Arg1:T9 Arg2:T7
+T10	Drug 11517 11526	Humalin-N
+T11	Dosage 11527 11535	30 units
+R3	Dosage-Drug Arg1:T11 Arg2:T10
+T12	Frequency 11536 11541	daily
+R4	Frequency-Drug Arg1:T12 Arg2:T10
+T13	Drug 11544 11553	Humalin-R
+T14	Dosage 11554 11562	30 units
+R5	Dosage-Drug Arg1:T14 Arg2:T13
+T15	Frequency 11563 11568	daily
+R6	Frequency-Drug Arg1:T15 Arg2:T13
+T16	Drug 11571 11581	Lisinopril
+T17	Dosage 11582 11584	20
+R7	Dosage-Drug Arg1:T17 Arg2:T16
+T18	Frequency 11585 11590	daily
+R8	Frequency-Drug Arg1:T18 Arg2:T16
+T19	Drug 11593 11603	paroxetine
+T20	Dosage 11604 11606	20
+R9	Dosage-Drug Arg1:T20 Arg2:T19
+T21	Frequency 11607 11612	daily
+R10	Frequency-Drug Arg1:T21 Arg2:T19
+T22	Drug 11640 11652	atorvastatin
+T23	Strength 11653 11658	40 mg
+R11	Strength-Drug Arg1:T23 Arg2:T22
+T24	Form 11659 11665	Tablet
+R12	Form-Drug Arg1:T24 Arg2:T22
+T25	Dosage 11671 11678	One (1)
+R13	Dosage-Drug Arg1:T25 Arg2:T22
+T26	Form 11679 11685	Tablet
+R14	Form-Drug Arg1:T26 Arg2:T22
+T27	Route 11686 11688	PO
+R15	Route-Drug Arg1:T27 Arg2:T22
+T28	Frequency 11689 11694;11695 11702	DAILY (Daily)
+R16	Frequency-Drug Arg1:T28 Arg2:T22
+T29	Drug 11739 11753	paroxetine HCl
+T30	Strength 11754 11759	20 mg
+R17	Strength-Drug Arg1:T30 Arg2:T29
+T31	Form 11760 11766	Tablet
+R18	Form-Drug Arg1:T31 Arg2:T29
+T32	Dosage 11772 11779	One (1)
+R19	Dosage-Drug Arg1:T32 Arg2:T29
+T33	Form 11780 11786	Tablet
+R20	Form-Drug Arg1:T33 Arg2:T29
+T34	Route 11787 11789	PO
+R21	Route-Drug Arg1:T34 Arg2:T29
+T35	Frequency 11790 11795;11796 11803	DAILY (Daily)
+R22	Frequency-Drug Arg1:T35 Arg2:T29
+T36	Drug 11840 11855	docusate sodium
+T37	Strength 11856 11862	100 mg
+R23	Strength-Drug Arg1:T37 Arg2:T36
+T38	Form 11863 11870	Capsule
+R24	Form-Drug Arg1:T38 Arg2:T36
+T39	Dosage 11876 11883	One (1)
+R25	Dosage-Drug Arg1:T39 Arg2:T36
+T40	Form 11884 11891	Capsule
+R26	Form-Drug Arg1:T40 Arg2:T36
+T41	Route 11892 11894	PO
+R27	Route-Drug Arg1:T41 Arg2:T36
+T42	Frequency 11895 11901;11902 11914	BID (2 times a day)
+R28	Frequency-Drug Arg1:T42 Arg2:T36
+T43	Drug 11952 11959	aspirin
+T44	Strength 11960 11965	81 mg
+R29	Strength-Drug Arg1:T44 Arg2:T43
+T45	Form 11966 11996	Tablet, Delayed Release (E.C.)
+R30	Form-Drug Arg1:T45 Arg2:T43
+T46	Dosage 12002 12009	One (1)
+R31	Dosage-Drug Arg1:T46 Arg2:T43
+T47	Form 12010 12040	Tablet, Delayed Release (E.C.)
+R32	Form-Drug Arg1:T47 Arg2:T43
+T48	Route 12041 12043	PO
+R33	Route-Drug Arg1:T48 Arg2:T43
+T49	Frequency 12044 12057	DAILY (Daily)
+R34	Frequency-Drug Arg1:T49 Arg2:T43
+T50	Drug 12118 12128	omeprazole
+T51	Strength 12129 12134	20 mg
+R35	Strength-Drug Arg1:T51 Arg2:T50
+T52	Form 12135 12165	Capsule, Delayed Release(E.C.)
+R36	Form-Drug Arg1:T52 Arg2:T50
+T53	Dosage 12171 12178	Two (2)
+R37	Dosage-Drug Arg1:T53 Arg2:T50
+T54	Form 12179 12209	Capsule, Delayed Release(E.C.)
+R38	Form-Drug Arg1:T54 Arg2:T50
+T55	Route 12210 12212	PO
+R39	Route-Drug Arg1:T55 Arg2:T50
+T56	Frequency 12213 12226	DAILY (Daily)
+R40	Frequency-Drug Arg1:T56 Arg2:T50
+T57	Drug 12287 12296	metformin
+T58	Strength 12297 12303	500 mg
+R41	Strength-Drug Arg1:T58 Arg2:T57
+T59	Form 12304 12310	Tablet
+R42	Form-Drug Arg1:T59 Arg2:T57
+T60	Dosage 12316 12323	One (1)
+R43	Dosage-Drug Arg1:T60 Arg2:T57
+T61	Form 12324 12330	Tablet
+R44	Form-Drug Arg1:T61 Arg2:T57
+T62	Route 12331 12333	PO
+R45	Route-Drug Arg1:T62 Arg2:T57
+T63	Frequency 12334 12348;12349 12353	BID (2 times a day)
+R46	Frequency-Drug Arg1:T63 Arg2:T57
+T64	Drug 12390 12403	acetaminophen
+T65	Strength 12404 12410	325 mg
+R47	Strength-Drug Arg1:T65 Arg2:T64
+T66	Form 12411 12417	Tablet
+R48	Form-Drug Arg1:T66 Arg2:T64
+T67	Dosage 12423 12430	Two (2)
+R49	Dosage-Drug Arg1:T67 Arg2:T64
+T68	Form 12431 12437	Tablet
+R50	Form-Drug Arg1:T68 Arg2:T64
+T69	Route 12438 12440	PO
+R51	Route-Drug Arg1:T69 Arg2:T64
+T70	Frequency 12441 12451;12452 12470	Q4H (every 4 hours) as needed
+R52	Frequency-Drug Arg1:T70 Arg2:T64
+T71	Reason 12475 12479	pain
+R53	Reason-Drug Arg1:T71 Arg2:T64
+T72	Reason 12481 12486	fever
+R54	Reason-Drug Arg1:T72 Arg2:T64
+T73	Drug 12491 12510	metoprolol tartrate
+T74	Strength 12511 12516	25 mg
+R55	Strength-Drug Arg1:T74 Arg2:T73
+T75	Form 12517 12523	Tablet
+R56	Form-Drug Arg1:T75 Arg2:T73
+T76	Dosage 12529 12532	0.5
+R57	Dosage-Drug Arg1:T76 Arg2:T73
+T77	Form 12533 12539	Tablet
+R58	Form-Drug Arg1:T77 Arg2:T73
+T78	Route 12540 12542	PO
+R59	Route-Drug Arg1:T78 Arg2:T73
+T79	Frequency 12543 12549;12550 12562	BID (2 times a day)
+R60	Frequency-Drug Arg1:T79 Arg2:T73
+T80	Drug 12599 12604	senna
+T81	Strength 12605 12611	8.6 mg
+R61	Strength-Drug Arg1:T81 Arg2:T80
+T82	Form 12612 12619	Capsule
+R62	Form-Drug Arg1:T82 Arg2:T80
+T83	Dosage 12625 12632	One (1)
+R63	Dosage-Drug Arg1:T83 Arg2:T80
+T84	Form 12633 12640	Capsule
+R64	Form-Drug Arg1:T84 Arg2:T80
+T85	Route 12641 12643	PO
+R65	Route-Drug Arg1:T85 Arg2:T80
+T86	Frequency 12644 12655	twice a day
+R66	Frequency-Drug Arg1:T86 Arg2:T80
+T93	Drug 12867 12888	insulin regular human
+T94	Strength 12889 12900	100 unit/mL
+R71	Strength-Drug Arg1:T94 Arg2:T93
+T95	Form 12901 12909	Solution
+R72	Form-Drug Arg1:T95 Arg2:T93
+T96	Dosage 12915 12927;12928 12933	Fifteen (15) units
+R73	Dosage-Drug Arg1:T96 Arg2:T93
+T97	Route 12934 12943	Injection
+R74	Route-Drug Arg1:T97 Arg2:T93
+T98	Frequency 12944 12957	every morning
+R75	Frequency-Drug Arg1:T98 Arg2:T93
+T99	Dosage 13002 13004;13005 13010	30 units
+R76	Dosage-Drug Arg1:T99 Arg2:T93
+T101	Drug 13040 13049	Humulin N
+T102	Strength 13050 13061	100 unit/mL
+R78	Strength-Drug Arg1:T102 Arg2:T101
+T103	Form 13062 13072	Suspension
+R79	Form-Drug Arg1:T103 Arg2:T101
+T104	Dosage 13078 13096	Fifteen (15) units
+R80	Dosage-Drug Arg1:T104 Arg2:T101
+T105	Route 13097 13109	Subcutaneous
+R81	Route-Drug Arg1:T105 Arg2:T101
+T106	Frequency 13110 13124	every  morning
+R82	Frequency-Drug Arg1:T106 Arg2:T101
+T107	Dosage 13169 13171;13172 13177	30 units
+R83	Dosage-Drug Arg1:T107 Arg2:T101
+T109	Drug 13215 13225	furosemide
+T110	Strength 13226 13231	20 mg
+R85	Strength-Drug Arg1:T110 Arg2:T109
+T111	Form 13232 13238	Tablet
+R86	Form-Drug Arg1:T111 Arg2:T109
+T112	Dosage 13244 13251	One (1)
+R87	Dosage-Drug Arg1:T112 Arg2:T109
+T113	Form 13252 13258	Tablet
+R88	Form-Drug Arg1:T113 Arg2:T109
+T114	Route 13259 13261	PO
+R89	Route-Drug Arg1:T114 Arg2:T109
+T115	Frequency 13262 13272	once a day
+R90	Frequency-Drug Arg1:T115 Arg2:T109
+T116	Duration 13273 13283	for 5 days
+R91	Duration-Drug Arg1:T116 Arg2:T109
+T117	Drug 13320 13338	potassium chloride
+T118	Strength 13339 13345	10 mEq
+R92	Strength-Drug Arg1:T118 Arg2:T117
+T119	Form 13346 13369	Tablet Extended Release
+R93	Form-Drug Arg1:T119 Arg2:T117
+T120	Dosage 13375 13378;13379 13382	One (1)
+R94	Dosage-Drug Arg1:T120 Arg2:T117
+T121	Form 13383 13406	Tablet Extended Release
+R95	Form-Drug Arg1:T121 Arg2:T117
+T122	Route 13407 13409	PO
+R96	Route-Drug Arg1:T122 Arg2:T117
+T123	Frequency 13410 13420	once a day
+R97	Frequency-Drug Arg1:T123 Arg2:T117
+T124	Duration 13421 13431	for 5 days
+R98	Duration-Drug Arg1:T124 Arg2:T117
+T125	Reason 13918 13933	Incisional pain
+R99	Reason-Drug Arg1:T125 Arg2:T127
+T126	Route 13947 13951	oral
+R100	Route-Drug Arg1:T126 Arg2:T127
+T127	Drug 13952 13961	analgesia
+T128	Drug 171 178	aspirin
+T129	Drug 181 188	Codeine
+T130	Drug 191 202	Penicillins
+T131	Drug 205 211	Iodine
+T132	Reason 5000 5008	AV paced
+R101	Reason-Drug Arg1:T132 Arg2:T133
+T133	Drug 5021 5034	phenylephrine
+T134	Form 5035 5043	infusion
+R102	Form-Drug Arg1:T134 Arg2:T133
+T135	Drug 610 617	insulin
+T136	Reason 628 630	DM
+R103	Reason-Drug Arg1:T136 Arg2:T135
+T137	Drug 665 672	aspirin
+T138	Reason 9759 9782	coronary artery disease
+R104	Reason-Drug Arg1:T138 Arg2:T1
+R105	Reason-Drug Arg1:T138 Arg2:T2
+R106	Reason-Drug Arg1:T138 Arg2:T3
+R107	Reason-Drug Arg1:T138 Arg2:T4
+T139	Form 11713 11722	Tablet(s)
+R108	Form-Drug Arg1:T139 Arg2:T22	
+T140	Form 11814 11823	Tablet(s)
+R109	Form-Drug Arg1:T140 Arg2:T29	
+T141	Form 11925 11935	Capsule(s)
+R110	Form-Drug Arg1:T141 Arg2:T36	
+T142	Form 12068 12101	Tablet, Delayed Release (E.C.)(s)
+R111	Form-Drug Arg1:T142 Arg2:T43	
+T143	Form 12237 12270	Capsule, Delayed Release(E.C.)(s)
+R112	Form-Drug Arg1:T143 Arg2:T50	
+T144	Form 12364 12373	Tablet(s)
+R113	Form-Drug Arg1:T144 Arg2:T57	
+T145	Form 12573 12582	Tablet(s)
+R114	Form-Drug Arg1:T145 Arg2:T73	
+T87	Form 13293 13302	Tablet(s)
+R67	Form-Drug Arg1:T87 Arg2:T109	
+T88	Form 13441 13467	Tablet Extended Release(s)
+R68	Form-Drug Arg1:T88 Arg2:T117	

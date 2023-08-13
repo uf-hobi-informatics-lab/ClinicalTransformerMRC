@@ -1,0 +1,502 @@
+Admission Date:  [**2109-1-20**]              Discharge Date:   [**2109-1-23**]
+
+Date of Birth:  [**2023-8-19**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Aspirin / NSAIDS
+
+Attending:[**First Name3 (LF) 2071**]
+Chief Complaint:
+NSTEMI
+
+Major Surgical or Invasive Procedure:
+Cardiac catherization
+Inferior Vena Cava Filter Placement (outside hospital)
+Aspirin Densensitazation
+
+
+History of Present Illness:
+Mr. [**Known firstname 90223**] is a 85-year-old male with CAD s/p PTCA LCx
+([**2092**]), HLD, AAA, PE, PAD, COPD that was transferred to [**Hospital1 18**]
+for c. cath with complicated OSH course consisting of anemia
+secondary to GIB, bilateral PE not on anticoagulation, and
+NSTEMI with reduction of EF, and acute systolic heart failure.
+Pt is transferred to the CCU prior to cardiac cath for ASA
+desensitization protocol.
+.
+He was admitted on [**2109-1-10**] for SOB at [**Hospital3 1443**]
+Hospital (contact number [**Telephone/Fax (1) 90224**]). [**Name2 (NI) **] oximetry was in
+the low 80s at home responsive to home O2 via NC. He endorses
+feeling cold type symptoms with coughing for quite a few weeks
+but became more dyspneic with increasing cough and clear sputum
+production. Chest CT showed new bilateral pulmonary emboli.
+Venous US was negative for DVT. An IVF filter was placed on
+[**1-10**] in setting of inability to anti-coagulate with anemia.
+Admission labs were also notable for Hgb/Hct of 6.6/24.2 and
+guaiac positive stool. He was treated for a presumed GIB. He was
+transfused 3 units of pRBC. Endoscopy performed on [**1-11**] was
+unremarkable. Colonoscopy was attempted on [**1-10**] but unable to
+be performed secondary to stool in bowel. Colonoscopy
+subsequently performed on [**1-17**] showed diverticulosis and
+diminutive polyp x 1, which showed fragments of adenoma.
+Labs were also significant for 3 sets of elevated troponins and
+CPKs. ECHO on [**1-15**] showed EF 35 % (last EF on [**2108-3-6**] showed
+EF 60 %). Stress test showed large area of ischemia extending
+from the anterior wall and anterior apex of inferior wall. There
+was evidence of prior small lateral wall infarction with
+significantly depressed LVEF. His latest CXR showed mild CHF.
+Additional studies included abdominal US showing AAA that is
+stable compared to prior exam on [**2108-10-4**].
+Hospital course also complicated by flash pulmonary edema on
+[**2109-1-12**].
+The patient was also treated for pneumonia although viral URI
+was favored with fever 100.2 in setting of chronic prednisone
+therapy although no infiltrate noted. He was treated with
+moxifloxacin 400 mg PO qD for a 10-day course. CXR did not
+suggest pneumonia.
+.
+Pt describes an ASA allergy consisting of redness on his face,
+and rash diffusely many years ago.
+.
+On arrival to CCU, he was afebrile, with VS HR 76, BP 106/70, RR
+20, 93% 3LNC, repeated at 98%. Pt denies chest pain, chest
+pressure, or SOB. He says that he has felt overall weak since he
+was admitted to the OSH, but that this has gotten better.
+.
+On review of systems, he endorses overall weakness as above. He
+says that he has had black stools for the past year, but that
+the doctors [**Name5 (PTitle) **]'t been able to figure out why. He states that
+he went to the OSH because he knew that his [**Name5 (PTitle) **] counts were
+low. He denies fever or chills, but continues mild cough with
+yellow sputum.
+He also endorses previous leg cramping.
+He denies any prior history of stroke, bleeding at the time of
+surgery, myalgias, joint pains, hemoptysis, or red stools. All
+of the other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.  He is able to
+walk 3 blocks with having to stop 2-3 times, which is unchanged
+in the past year. He performs all of his ADL's and lives on his
+own.
+
+
+Past Medical History:
+- CAD s/p MI in [**2092**] with PTCA to of Lcx
+- bilateral pulmonary embolism s/p IVC filter placement
+([**2109-1-10**]) with prior history of PE 1 year ago (previously
+treated with Coumadin)
+- HLD
+- PVD (last ABIs in [**12-3**] showing moderate right PVD)
+- Temporal arteritis
+Followed by Dr. [**Last Name (STitle) **] of [**Hospital6 2561**]
+- AAA (4.8 cm on [**2107-7-13**])
+- [**Female First Name (un) 564**] esophagitis
+- longstanding anemia with recent transfusion-dependent anemia
+secondary to ?GIB.
+- osteopenia
+- history of hemorrhoids
+- history of prostate cancer s/p TURP in past
+- history of GI bleeding (gastric antrum)
+- depression
+- right wrist fracture in past
+
+
+Social History:
+-Tobacco history: He has smoked 1 ppd for 63 years.
+-ETOH: social drinking
+-Illicit drugs: none
+Patient had been widowed for a number of years. The patient has
+an adoptive son who helps with his care.  He shops on his own,
+and performs all of his own ADL's.
+
+Family History:
+His three brothers all had MI at various ages - 36,42, and 58.
+No family history of DVT/PE.
+
+Physical Exam:
+VS: T 97.4 BP 106/70 HR 76 RR 20 O2 sats 93 % on 3 L NC -->
+repeated at 98%
+GENERAL: Pleasant, elderly male, sitting up in bed, NAD.
+Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pale, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple, JVP not elevated
+CARDIAC: Distant heart sounds, RRR, S1/S2 not appreciated. No
+m/r/g. No thrills, lifts. No S3 or S4.
+LUNGS: Resp were unlabored, no accessory muscle use. Poor air
+exchange throughout, no wheezing noted or crackles
+ABDOMEN: +BS, Soft, NTND. No HSM or tenderness.
+EXTREMITIES: Warm, dry, no [**Location (un) **], apparent mm wasting, + clubbing
+on hands and feet.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ PT 2+, unable to palpated DP
+Left: Carotid 2+ PT 2+, unable to palpated DP
+
+Pertinent Results:
+[**2109-1-20**] 08:41PM   %HbA1c-6.5* eAG-140*
+[**2109-1-20**] 05:42PM   GLUCOSE-121* UREA N-27* CREAT-1.1 SODIUM-137
+POTASSIUM-5.1 CHLORIDE-99 TOTAL CO2-30 ANION GAP-13
+[**2109-1-20**] 05:42PM   ALT(SGPT)-54* AST(SGOT)-23 CK(CPK)-26* ALK
+PHOS-72 TOT BILI-0.2
+[**2109-1-20**] 05:42PM   CK-MB-2 cTropnT-0.04*
+[**2109-1-20**] 05:42PM   CALCIUM-8.6 PHOSPHATE-4.4 MAGNESIUM-2.1
+CHOLEST-195
+[**2109-1-20**] 05:42PM   TRIGLYCER-152* HDL CHOL-40 CHOL/HDL-4.9
+LDL(CALC)-125
+[**2109-1-20**] 05:42PM   WBC-7.0 RBC-4.59* HGB-10.5* HCT-34.5* MCV-75*
+MCH-23.0* MCHC-30.6* RDW-19.4*
+[**2109-1-20**] 05:42PM   PLT COUNT-442*
+[**2109-1-20**] 05:42PM   PT-11.9 PTT-23.0 INR(PT)-1.0
+.
+EKG's:
+OSH EKG dated [**2109-1-14**] at 0:51:06 showing NSR, vent rate 77 bpm,
+PR 166 ms, QRS 92 ms, QTc 463 ms, R axis - 27. Q waves in III,
+aVR, aVF, V1. TWI in I, II, III, avF, V4,V5,V6. Flattening in
+V3. J-point elevation in V1 and V2 vs. sub-mm ST elevation.
+Sub-mm ST depression in V6.
+Admission EKG similar to OSH EKG with extensive ST-T changes, ?
+left anterior hemiblock. Q-waves are not present as documented
+above except in V1. V4 showing < 1mm ST depression.
+
+.
+2D-ECHOCARDIOGRAM:
+ECHO [**12-3**] showing EF 55 %, Trace AI, mild MR.
+OSH ECHO ([**2109-1-15**]):
+-Left ventricle: hypokinesis of apical anterior, apical
+inferior, basal inferolateral, and apical wall. Wall thickness
+mildly increased. EF estimated 35 %.
+- Mitral valve: Mild regurgitation
+- Tricuspid valve: mild regurgitation
+- Aorta: root exhibited mild dilatation
+.
+Abdominal US: Significant for infrarenal abdominal aortic
+aneurysm (4.5 cm x 4 cm). Similar US seen on prior on [**2108-10-4**]
+
+.
+Colonoscopy ([**2109-1-17**]): 70 cm polyp
+.
+ETT:
+Stress myoview [**7-1**]: normal scans. Mild inferior base
+hypokinesis. EF 60 %.
+.
+CARDIAC CATH:  prior from [**2092**] not available
+[**2109-1-21**] prelim: 1. Coronary angiography in this right-dominant
+system demonstrated three-vessel disease. The LMCA had a distal
+80% stenosis. The LAD had a 50% mid stenosis and a 50% stenosis
+of D1. The LCx had a 90% mid
+stenosis. The RCA was occluded proximally and filled distally
+via
+left-to-right collaterals.
+2. Limited resting hemodynamics revealed normal systemic
+arterial [**Year (4 digits) **]
+pressures with SBP 106mmHg and DBP 56mmHg.
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease and left main disease.
+
+
+Brief Hospital Course:
+NSTEMI:  Patient reported chest pain in setting of shortness of
+breath, which appeared to be multifactorial. Denied any chest
+pain but does endorsed shortness of breath which improved.
+Complete cardiac biomarker set unavailable from outside records,
+but appears had NSTEMI given biomarker elevation, EKG changes,
+and decreased EF resulting in acute heart failure (60's to 30's
+EF).  Nuclera stress at OSH showed large area of ischemia
+extending from anterior wall and anterior apex of inferior wall
+with evidence of prior small lateral wall infarction. He was
+transferred to [**Hospital1 18**] for consideration of cardiac catherization,
+but first required aspirin desensitization as has documented
+aspirin allergy.  Left cardiac ICU after aspirin
+desensitization.  Cardiac catherization confirmed triple vessel
+disease with RCA occlusion and LAD 80% occlusion.  Patient was
+informed of necessity of coronary artery bypass, and declined
+surgical intervention multiple times.  Based on patient wishes,
+optimized medical management and defered surgical treatment.
+* Medical management with Atorvastatin 80 mg qhs, Carvedilol
+6.25 mg PO BID, ASA 325 mg PO qday, Captopril 12.5 mg TID.
+* [**Month (only) 116**] want to switch short acting captopril to longer acting
+lisinopril as an outpatient.
+
+Acute systolic heart failure (last EF 35 %):
+Patient developed acute systolic heart failure given EF decline
+from 60 % ([**2108-3-6**]) to 35 %.  Most likely from ischemic event
+as above. His dry weight in unknown, and he has experienced
+weight loss in the past 3 months of about 20 lbs. At the OSH,
+had flash pulmonary edema and an oxygen requirement which
+resolved in house. Discharge weight steady at 140 lbs and
+physical exam suggested euvolemia.
+* Continued medical management with Captopril 12.5 mg PO TID,
+Carvedilol 6.25 mg PO BID.  [**Month (only) 116**] want to change short acting
+captopril to longer acting lisinopril as an outpatient.
+* Deferred use of spironolactone as borderline hyperkalemia at
+4.7.
+
+Bilateral pulmonary embolisms, recurrent s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 260**] filter
+placement:  He has had second episode of pulmonary embolism in
+past year. Uncertain as primary imaging report not available to
+classify as segmental, subsegmental but overall did not appear
+to cause hemodynamic instability at presentation. Etiology
+unknown.  Given advanced age, 20-lb weight loss, and chronic
+tobacco abuse, would suspect that neoplasm high on differential.
+Other etiologies like immobility or recent surgery not present
+to explain recurrence, and no family history of thrombosis.  Had
+heparin gtt in house.  Discharged with 10 days worth of
+enoxaparin injections with bridging therapy with coumadin to
+treat PE.
+* Follow up CBC/ Coag panel
+* Discuss with patient duration of anticoagulation (life long?)
+* Confirm age appropriate cancer screening on outpatient basis
+per above
+* consider thrombophilia work-up as outpatient
+* IVC filter in place
+
+Microcytic Anemia:  Has a history of anemia at baseline.
+Admission to OSH Hct 24 and post-transfusion OSH Hct 33 status
+post 3U pRBC.  At [**Hospital1 18**], Hct stable in the low to mid 30's.  [**Month (only) 116**]
+have had marrow suppresion in setting of viral illness, as well
+as GI [**Month (only) **] loss given history of adenomas. Hematology consult
+at OSH impression was ACD vs. other process with consideration
+for bone marrow biopsy as outpatient for unclear reasons. His
+EPO level was elevated, which could suggest chronic hypoxemia in
+setting of COPD vs. renal cell carcinoma vs. appropriate
+response to anemia. Flow cytometry also not suggestive of
+abnormal myeloid maturation or an increased blast population or
+lymphoproliferative disorder. SPEP performed but results were
+not available upon transfer.  No hypercalcemia or bony
+involvement to suggest MM. He does have a history of prior GIB
+in the stomach antrum. OSH Colonoscopy and EGD showed
+diverticuli and polyp consistent with adenoma but no active
+source of bleeding.  At [**Hospital1 18**], patient excxlaimed he has had a
+20lbs weight loss, as well as night sweats a few times a week
+for the last month.  Concern for malignancy, but discussion with
+PCP is that he is aware of these symptoms and has performed age
+appropriate screening for this patient.  Did have a history of
+prostate cancer, but not complaints of bone pain at [**Hospital1 18**].
+*  Need to follow-up final pathology of polyp from OSH
+*  Check CBC on follow up
+
+
+COPD :  Patient has long tobacco history and continues to smoke.
+No evidence for active COPD exacerbation.  CXR demonstrated
+diaphragmatic flattening consistent with COPD.  Discharged home
+on albuterol and tiotropium.  Counseled on tobacco cessation but
+patient not interested in quitting.  Additionally, at OSH was
+treated with a 10-day course of avelox for low grade fever in
+setting of prednisone usage with no infiltrate on CXR or CT.
+* continued albuterol/tiotropium at home.
+* F/u with PFT's prn
+
+Abnormal ALT: Incidentally  patient's ALT elevated to 204 on
+[**2109-1-10**] with downtrend to 51 on [**2109-1-20**]. Per OSH report
+Abdominal US showed no liver pathology.  ALT on admission 204
+now trended to 50s prior to discharge.
+* Follow up LFT's as an outpateint
+
+CHRONIC ISSUES
+Temporal arteritis: No active issues. Continued prednisone 10mg
+daily.
+
+Weight loss
+Broad differential for weight loss including depression given
+prior history, poor access to food, underlying chronic illness,
+and possible occult neoplasm.  Follow up per above.
+*  Defer to outpatient work-up
+
+Asymptomatic AAA:  AAA noted on OSH US significant for
+infrarenal abdominal aortic aneurysm (4.5 cm x 4 cm) stable from
+prior US dated [**2108-10-4**].
+*  Defer to further outpatient management.
+
+TRANSITIONAL ISSUES:  Code status in house changed to DNR/DNI
+confirmed with patient.  Should reconfirm with patient as an
+outpatient and make sure power of attorney/living will paper
+work is up to date.  Patient counseled on necessity of
+continuing aspirin, and that if he discontinues use for even one
+day may experience recurrence of allergic reaction given history
+of allergy.  Patient understood necessity to take daily.
+COMM: [**Name (NI) **], son [**Telephone/Fax (1) 90225**] ([**Doctor First Name 429**])
+
+PENDING LABS:  OSH colonoscopy pathology for adenoma.  [**Hospital1 3793**] Hospital (contact number [**Telephone/Fax (1) 90224**]).
+.
+
+Medications on Admission:
+A. Home medications
+Plavix 75 mg PO qD
+Diltiazem 180 mg PO qD
+Zetia 10 mg PO qD
+Simvastatin 20 mg PO qD
+Prednisone 10 mg PO qD
+Iron supplement
+nitro SL prn
+.
+B. Medications on transfer to [**Hospital1 **]
+Plavix 75 mg PO daily
+Zetia 10 mg PO daily
+Simvastatin 20 mg PO daily
+Captopril 12.5 mg PO TID
+Carvedilol 6.25 mg PO BID
+Nitroglycerin 0.1 mg/hr (2.5 mg) TD qHS
+Prednisone 10 mg PO qD
+.
+.
+ALLERGIES: SEVERE ALLERGY TO ASPIRIN  --> rash, redness on face
+
+Discharge Medications:
+1. acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for pain.
+2. carvedilol 3.125 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day).
+Disp:*120 Tablet(s)* Refills:*0*
+3. warfarin 1 mg Tablet Sig: Three (3) Tablet PO Once Daily at 4
+PM.
+Disp:*30 Tablet(s)* Refills:*0*
+4. captopril 12.5 mg Tablet Sig: One (1) Tablet PO three times a
+day.
+Disp:*90 Tablet(s)* Refills:*0*
+5. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. prednisone 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+7. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+8. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+One (1)  Inhalation PRN as needed for shortness of breath or
+wheezing.
+Disp:*1 inhaler* Refills:*0*
+9. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1)  Inhalation at bedtime.
+Disp:*1 inhaler* Refills:*0*
+10. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+11. enoxaparin 60 mg/0.6 mL Syringe Sig: One (1)  Subcutaneous
+twice a day for 10 days.
+Disp:*20 syringes* Refills:*0*
+12. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1)
+Sublingual PRN as needed for chest pain: If chest pain not
+resolved after 3 doses, call your doctor, report to the nearest
+ED, or call 911.
+Disp:*30 tabs* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Greater [**Location (un) 1468**] VNA
+
+Discharge Diagnosis:
+Primary:
+Pulmonary Embolism
+Coronary Artery Disease (Severe)
+Non ST Elevation Myocardial Infarction
+Iron Deficiency Anemia
+.
+Secondary:
+Chronic Obstructive Pulmonary Disease
+History of PE 1 year ago
+Hyperlipidemia
+Peripheral Vascular Disease
+Temporal arteritis
+Abdominal Aortic Aneursym
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Mr. [**Known lastname 90226**],
+  You originally presented to another hospital because of
+shortness of breath.  There, you were found to have multiple
+medical problems, including [**Name2 (NI) **] clots in your lungs as well as
+evidence of a minor heart attack based on [**Name2 (NI) **] tests.
+Additionally, you were found to have very low red [**Name2 (NI) **] cell
+count.  You were given bags of [**Name2 (NI) **] to replete your low counts,
+and placed on [**Name2 (NI) **] thinners in an attempt to treat the clots in
+your lungs.  Your small heart attack affected the way your heart
+could pump, and as a result the doctors at your [**Name5 (PTitle) **] hospital
+suggested you come to [**Hospital1 **] for further
+evaluation
+  At [**Hospital1 **], you had a procedure called a cardiac catherization.
+This is a procedure where a catheter is inserted in the large
+vessel in your groin, and wired to the heart.  Dye was injected
+to analyze the vessels in your heart, known as the coronary
+arteries.  There evidence of severe coronary artery disease,
+which causes the [**Hospital1 **] vessels to become blocked off.  This
+finding was concering, as it increases your risk of a severe
+heart attack.  Your doctors informed [**Name5 (PTitle) **] of this finding, and
+suggested you have surgery known as a "Triple Bypass" surgery,
+to circumvent the blocks in your coronary arteries.  However,
+after you were told about the risks and benefits of having the
+surgery, you decided this is not a procedure you would want
+performed at this time.
+  Because you declined to have the surgery, we have attempted to
+medically optimize your medication regimen.  It is important to
+continue to take your medications as prescribed, to help reduce
+your risk of having another, larger, heart attack in the future.
+
+  Additionally, you have been placed on medication to treat the
+[**Name5 (PTitle) **] clots in your lungs.  The first medication is called
+"Lovenox" or "Enoxaparin".  It is injection you give yourself
+twice a day.  The second drug is called "Warfarin" or
+"Coumadin".  It is a pill you will take to help keep your blodo
+thin.  As warfarin takes some time to work, it is important you
+take enoxaparin in the interim to help keep your [**Name5 (PTitle) **] thin
+while warfarin starts to work in your body.  Please use the
+enoxaparin injections for 10 days or as arranged by your PCP.
+   [**Name10 (NameIs) **] is unclear why your red [**Name10 (NameIs) **] cell count was low when you
+came to the hospital.  It is importnat you follow up with your
+primary care doctor for further evaluation of this issue.
+
+The following is your NEW LIST of medications.  Please
+discontinue taking any medications that are not on this list,
+and adhere to the medication dosing.
+
+Your were "desensitzed" to Aspirin, this means that if you
+continue to take it everyday you will not have an allergy to it.
+ HOWEVER if you miss even a single dose please call your PCP to
+discuss whether or not he wants you to take the next dose BEFORE
+you take it.
+
+Acetaminophen  325 mg Tablet 1 Tablet by mouth every 6 hours as
+needed for pain.
+Carvedilol  3.125 mg Tablet 2 Tablets by mouth [**Hospital1 **] 2 times a day
+Warfarin  1 mg Tablet 3 Tablets by mouth once Daily at 4 PM.
+Captopril  12.5 mg Tablet 1 Tablet by mouth three times a day.
+Atorvastatin  80 mg Tablet 1 Tablet by mouth at night
+Prednisone  5 mg Tablet 2 Tablet by mouth DAILY
+Aspirin  325 mg Tablet 1 tablet by mouth daily
+Omeprazole 20 mg tablet 1 tablet by mouth daily
+Albuterol sulfate  90 mcg/Actuation HFA Aerosol Inhaler
+ 1 Inhalation as needed for shortness of breath or wheezing.
+Tiotropium bromide  18 mcg Capsule, w/Inhalation Device
+ 1 Inhalation at bedtime.
+Enoxaparin 60 mcg 1 injection 2x a day for 10 days
+Nitroprusside 0.4 sublingual as needed for chest pain
+
+It has been a pleasure taking care of you Mr. [**Known lastname 90226**]!
+
+Followup Instructions:
+It is very important that you see your PCP.  [**Name10 (NameIs) 357**] arrange for
+follow up within the week.  They can be reached at:
+
+Dr. [**First Name (STitle) **] KO
+#[**Telephone/Fax (1) 39260**]
+
+Additionally, it is importnat that you follow up with your
+cardiologist within the month for discussion of your cardiac
+issues.  Please call your cardiologist and arrange for follow
+up.
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD, [**MD Number(3) 2073**]
+

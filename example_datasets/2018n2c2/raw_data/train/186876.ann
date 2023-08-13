@@ -1,0 +1,247 @@
+T1	Drug 10096 10107	ceftriaxone
+T2	Strength 10108 10111	1gm
+R1	Strength-Drug Arg1:T2 Arg2:T1
+T3	Frequency 10112 10119	q24 hrs
+R2	Frequency-Drug Arg1:T3 Arg2:T1
+T4	Drug 10199 10211	beta blocker
+T5	Drug 10272 10282	metoprolol
+T6	Strength 10283 10289	6.25mg
+R3	Strength-Drug Arg1:T6 Arg2:T5
+T7	Route 10290 10292	PO
+R4	Route-Drug Arg1:T7 Arg2:T5
+T8	Drug 1048 1058	solumedrol
+T9	Drug 10498 10505	Januvia
+T10	Strength 10525 10530	25 mg
+R5	Strength-Drug Arg1:T10 Arg2:T9
+T11	Route 10531 10535	Oral
+R6	Route-Drug Arg1:T11 Arg2:T9
+T12	Frequency 10536 10541	daily
+R7	Frequency-Drug Arg1:T12 Arg2:T9
+T13	Drug 10545 10563	Potassium Chloride
+T14	Strength 10564 10570	10 mEq
+R8	Strength-Drug Arg1:T14 Arg2:T13
+T15	Route 10571 10573	PO
+R9	Route-Drug Arg1:T15 Arg2:T13
+T16	Frequency 10574 10579	DAILY
+R10	Frequency-Drug Arg1:T16 Arg2:T13
+T17	Duration 10590 10598	24 Hours
+R11	Duration-Drug Arg1:T17 Arg2:T13
+T18	Drug 10615 10628	Multivitamins
+T19	Dosage 10629 10630	1
+R12	Dosage-Drug Arg1:T19 Arg2:T18
+T20	Form 10631 10634	TAB
+R13	Form-Drug Arg1:T20 Arg2:T18
+T21	Route 10635 10637	PO
+R14	Route-Drug Arg1:T21 Arg2:T18
+T22	Frequency 10638 10643	DAILY
+R15	Frequency-Drug Arg1:T22 Arg2:T18
+T23	Drug 10647 10662	Sodium Chloride
+T24	Form 10663 10668	Nasal
+R16	Form-Drug Arg1:T24 Arg2:T23
+T25	Dosage 10669 10670	1
+R17	Dosage-Drug Arg1:T25 Arg2:T23
+T26	Form 10671 10675	SPRY
+R18	Form-Drug Arg1:T26 Arg2:T23
+T27	Route 10676 10678	NU
+R19	Route-Drug Arg1:T27 Arg2:T23
+T28	Frequency 10679 10684	DAILY
+R20	Frequency-Drug Arg1:T28 Arg2:T23
+T29	Drug 10688 10701	Acetaminophen
+T30	Strength 10702 10708	650 mg
+R21	Strength-Drug Arg1:T30 Arg2:T29
+T31	Route 10709 10711	PO
+R22	Route-Drug Arg1:T31 Arg2:T29
+T32	Frequency 10712 10719	Q4H:PRN
+T33	Reason 10720 10724	pain
+R23	Reason-Drug Arg1:T33 Arg2:T29
+T34	Drug 10728 10737	Bisacodyl
+T35	Strength 10738 10743	10 mg
+R24	Strength-Drug Arg1:T35 Arg2:T34
+T36	Route 10744 10746	PR
+R25	Route-Drug Arg1:T36 Arg2:T34
+T37	Frequency 10747 10753	HS:PRN
+T38	Reason 10754 10766	consitpation
+R26	Reason-Drug Arg1:T38 Arg2:T34
+T39	Drug 10795 10804	Bisacodyl
+T40	Reason 1080 1084	COPD
+R27	Reason-Drug Arg1:T40 Arg2:T8
+T41	Strength 10805 10810	10 mg
+R28	Strength-Drug Arg1:T41 Arg2:T39
+T42	Route 10811 10813	PR
+R29	Route-Drug Arg1:T42 Arg2:T39
+T43	Frequency 10814 10820	HS:PRN
+R30	Frequency-Drug Arg1:T43 Arg2:T39
+T44	Reason 10821 10833	consitpation
+R31	Reason-Drug Arg1:T44 Arg2:T39
+T45	Drug 10837 10850	Acetaminophen
+T46	Strength 10851 10857	650 mg
+R32	Strength-Drug Arg1:T46 Arg2:T45
+T47	Route 10858 10860	PO
+R33	Route-Drug Arg1:T47 Arg2:T45
+T48	Frequency 10861 10868	Q4H:PRN
+R34	Frequency-Drug Arg1:T48 Arg2:T45
+T49	Reason 10869 10873	pain
+R35	Reason-Drug Arg1:T49 Arg2:T45
+T50	Drug 10877 10884	Januvia
+T51	Strength 10904 10909	25 mg
+R36	Strength-Drug Arg1:T51 Arg2:T50
+T52	Route 10910 10914	Oral
+R37	Route-Drug Arg1:T52 Arg2:T50
+T53	Frequency 10915 10920	daily
+R38	Frequency-Drug Arg1:T53 Arg2:T50
+T54	Drug 10924 10937	Multivitamins
+T55	Dosage 10938 10939	1
+R39	Dosage-Drug Arg1:T55 Arg2:T54
+T56	Form 10940 10943	TAB
+R40	Form-Drug Arg1:T56 Arg2:T54
+T57	Route 10944 10946	PO
+R41	Route-Drug Arg1:T57 Arg2:T54
+T58	Frequency 10947 10952	DAILY
+R42	Frequency-Drug Arg1:T58 Arg2:T54
+T59	Drug 10956 10974	Potassium Chloride
+T60	Strength 10975 10981	10 mEq
+R43	Strength-Drug Arg1:T60 Arg2:T59
+T61	Route 10982 10984	PO
+R44	Route-Drug Arg1:T61 Arg2:T59
+T62	Frequency 10985 10990	DAILY
+R45	Frequency-Drug Arg1:T62 Arg2:T59
+T63	Duration 11001 11009	24 Hours
+R46	Duration-Drug Arg1:T63 Arg2:T59
+T64	Drug 11026 11041	Sodium Chloride
+T65	Form 11042 11047	Nasal
+R47	Form-Drug Arg1:T65 Arg2:T64
+T66	Dosage 11048 11049	1
+R48	Dosage-Drug Arg1:T66 Arg2:T64
+T67	Form 11050 11054	SPRY
+R49	Form-Drug Arg1:T67 Arg2:T64
+T68	Route 11055 11057	NU
+R50	Route-Drug Arg1:T68 Arg2:T64
+T69	Frequency 11058 11063	DAILY
+R51	Frequency-Drug Arg1:T69 Arg2:T64
+T70	Drug 11067 11078	CeftriaXONE
+T71	Strength 11079 11083	1 gm
+R52	Strength-Drug Arg1:T71 Arg2:T70
+T73	Frequency 11087 11091	Q24H
+R54	Frequency-Drug Arg1:T73 Arg2:T70
+T74	Drug 111 123	Levofloxacin
+T76	Drug 1113 1124	Vancomycine
+T77	Drug 11135 11150	Docusate Sodium
+T78	Form 11152 11158	Liquid
+R58	Form-Drug Arg1:T78 Arg2:T77
+T79	Strength 11160 11166	100 mg
+R59	Strength-Drug Arg1:T79 Arg2:T77
+T80	Route 11167 11169	PO
+R60	Route-Drug Arg1:T80 Arg2:T77
+T81	Frequency 11170 11173	BID
+R61	Frequency-Drug Arg1:T81 Arg2:T77
+T82	Drug 11177 11196	Polyethylene Glycol
+T83	Strength 11197 11201	17 g
+R62	Strength-Drug Arg1:T83 Arg2:T82
+T84	Route 11202 11204	PO
+R63	Route-Drug Arg1:T84 Arg2:T82
+T85	Frequency 11205 11214	DAILY:PRN
+R64	Frequency-Drug Arg1:T85 Arg2:T82
+T86	Reason 11215 11227	constipation
+R65	Reason-Drug Arg1:T86 Arg2:T82
+T87	Drug 1129 1138	Aztreonam
+T88	Drug 11341 11364	Triamcinolone Acetonide
+T89	Strength 11365 11370	0.025
+R66	Strength-Drug Arg1:T89 Arg2:T88
+T90	Form 11372 11380	Ointment
+R67	Form-Drug Arg1:T90 Arg2:T88
+T91	Dosage 11381 11382	1
+R68	Dosage-Drug Arg1:T91 Arg2:T88
+T92	Form 11383 11387	Appl
+R69	Form-Drug Arg1:T92 Arg2:T88
+T93	Route 11388 11390	TP
+R70	Route-Drug Arg1:T93 Arg2:T88
+T94	Frequency 11391 11396	DAILY
+R71	Frequency-Drug Arg1:T94 Arg2:T88
+T95	Reason 11397 11401	rash
+R72	Reason-Drug Arg1:T95 Arg2:T88
+T96	Drug 1173 1186	metronidazole
+T98	Drug 12065 12076	antibiotics
+T99	Dosage 1207 1209	1L
+R73	Dosage-Drug Arg1:T99 Arg2:T101
+T100	Duration 12087 12095	few days
+R74	Duration-Drug Arg1:T100 Arg2:T98
+T101	Drug 1210 1223	Normal Saline
+T102	Duration 12298 12309	2 more days
+R75	Duration-Drug Arg1:T102 Arg2:T103
+T103	Drug 12313 12324	ceftriaxone
+T104	Reason 12334 12341;12342 12351	urinary infection
+R76	Reason-Drug Arg1:T104 Arg2:T103
+T105	Drug 126 140	Nitrofurantoin
+T106	Drug 1346 1355	Aztreonam
+T107	Drug 1390 1398	cefepime
+T108	Drug 143 148	Sulfa
+T109	Drug 1435 1442	insulin
+T110	Dosage 1443 1450;1451 1456	sliding scale
+R77	Dosage-Drug Arg1:T110 Arg2:T109
+T112	Drug 1545 1551	fluids
+T113	Dosage 1671 1678	boluses
+R79	Dosage-Drug Arg1:T113 Arg2:T114
+T114	Drug 1682 1688	fluids
+T115	Drug 176 187	Penicillins
+T116	Drug 190 196	NSAIDS
+T117	Drug 238 250	lansoprazole
+T118	Drug 7224 7234	Vancomycin
+T119	Drug 7239 7247	Cefepime
+T121	Drug 7264 7275	Ceftriaxone
+T122	Reason 7285 7288	UTI
+R81	Reason-Drug Arg1:T122 Arg2:T121
+T123	Drug 7313 7316	IVF
+T124	Strength 7324 7331	40cc/ml
+R82	Strength-Drug Arg1:T124 Arg2:T123
+T125	Duration 7345 7351	3 days
+R83	Duration-Drug Arg1:T125 Arg2:T123
+T126	Drug 7955 7967	beta blocker
+T127	Drug 7969 7972	asa
+T128	Drug 8027 8030	asa
+T129	Drug 8102 8112	metoprolol
+T130	Strength 8113 8119	6.25mg
+R84	Strength-Drug Arg1:T130 Arg2:T129
+T131	Drug 8560 8568	primaxin
+T133	Drug 8696 8699	abx
+T134	Duration 8731 8736	7 day
+R86	Duration-Drug Arg1:T134 Arg2:T135
+T135	Drug 8747 8758	ceftriaxone
+T136	Drug 9003 9008	fluid
+T137	Dosage 9009 9016	boluses
+R87	Dosage-Drug Arg1:T137 Arg2:T136
+T138	Drug 9061 9064	IVF
+T139	Strength 9068 9075	40cc/hr
+R88	Strength-Drug Arg1:T139 Arg2:T138
+T140	Reason 9145 9170	Diabetes Mellitus Type II
+R89	Reason-Drug Arg1:T140 Arg2:T141
+T141	Drug 9183 9186	ISS
+T142	ADE 9223 9235	hypoglycemic
+R90	ADE-Drug Arg1:T142 Arg2:T141
+T143	Drug 9285 9300	regular insulin
+T144	Dosage 9301 9308	sliding
+R91	Dosage-Drug Arg1:T144 Arg2:T143
+T145	Drug 9326 9333	Januvia
+T146	Drug 9389 9396	insulin
+T147	Dosage 9397 9411	slididng scale
+R92	Dosage-Drug Arg1:T147 Arg2:T146
+T148	Drug 9426 9433	Januvia
+T149	ADE 9747 9755	Pruritus
+R93	ADE-Drug Arg1:T149 Arg2:T151
+T150	ADE 9770 9787	agitated pruritus
+R94	ADE-Drug Arg1:T150 Arg2:T151
+T151	Drug 9824 9832	cefepime
+T152	Drug 9878 9889	ceftriaxone
+R95	Frequency-Drug Arg1:T32 Arg2:T29	
+R96	Frequency-Drug Arg1:T37 Arg2:T34	
+T72	Route 1110 1112	IV
+R53	Route-Drug Arg1:T72 Arg2:T76	
+R55	Route-Drug Arg1:T72 Arg2:T87	
+T75	Route 1542 1544	IV
+R56	Route-Drug Arg1:T75 Arg2:T112	
+T97	Route 7261 7263	IV
+R57	Route-Drug Arg1:T97 Arg2:T121	
+T111	Route 8693 8695	IV
+T120	Drug 918 920	O2
+R78	Route-Drug Arg1:T111 Arg2:T133	
+T132	Route 11084 11086	IV
+R80	Route-Drug Arg1:T132 Arg2:T70	

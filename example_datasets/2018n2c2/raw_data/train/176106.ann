@@ -1,0 +1,8 @@
+T1	Drug 354 361	Ritalin
+T2	Drug 469 478	Phenytoin
+T3	Drug 366 377	thalidomide
+T4	Reason 483 494	prophylaxis
+T5	ADE 311 319	seizures
+R3	Reason-Drug Arg1:T4 Arg2:T2
+R4	ADE-Drug Arg1:T5 Arg2:T1	
+R1	ADE-Drug Arg1:T5 Arg2:T3	

@@ -1,0 +1,166 @@
+T1	Drug 10023 10032	lactulose
+T2	Drug 10037 10046	rifaximin
+T3	Reason 10074 10104	carbapenemase-resistant E.coli
+R1	Reason-Drug Arg1:T3 Arg2:T4
+R2	Reason-Drug Arg1:T3 Arg2:T5
+T4	Drug 10147 10161	nitrofurantoin
+T5	Drug 10166 10174	amikacin
+T6	Drug 10176 10190	Nitrofurantoin
+T7	Drug 10246 10257	antibiotics
+T8	Drug 10274 10282	colistin
+T9	Drug 10303 10315	tetracycline
+T10	Drug 10426 10435	lactulose
+T11	Drug 10567 10578	octreotride
+T12	Drug 10580 10589	midodrine
+T13	Drug 10594 10601	albumin
+T14	Reason 10606 10626	hepatorenal syndrome
+R3	Reason-Drug Arg1:T14 Arg2:T11
+R4	Reason-Drug Arg1:T14 Arg2:T12
+R5	Reason-Drug Arg1:T14 Arg2:T13
+T15	Reason 10924 10927	DIC
+R6	Reason-Drug Arg1:T15 Arg2:T19
+R7	Reason-Drug Arg1:T15 Arg2:T18
+R8	Reason-Drug Arg1:T15 Arg2:T17
+R9	Reason-Drug Arg1:T15 Arg2:T16
+T16	Drug 11019 11034	red blood cells
+T17	Drug 11036 11045	platelets
+T18	Drug 11047 11062	cryoprecipitate
+T19	Drug 11068 11087	fresh frozen plasma
+T20	Drug 12373 12382	Lactulose
+T21	Dosage 12383 12387	30cc
+R10	Dosage-Drug Arg1:T21 Arg2:T20
+T22	Frequency 12388 12391	tid
+R11	Frequency-Drug Arg1:T22 Arg2:T20
+T23	Drug 12392 12402	Atovaquone
+T24	Strength 12403 12414	750 mg/5 mL
+R12	Strength-Drug Arg1:T24 Arg2:T23
+T25	Dosage 12415 12419	10cc
+R13	Dosage-Drug Arg1:T25 Arg2:T23
+T26	Frequency 12420 12425	daily
+R14	Frequency-Drug Arg1:T26 Arg2:T23
+T27	Drug 12426 12436	Citalopram
+T28	Strength 12437 12442	20 mg
+R15	Strength-Drug Arg1:T28 Arg2:T27
+T29	Frequency 12443 12448	daily
+R16	Frequency-Drug Arg1:T29 Arg2:T27
+T30	Drug 12449 12460	Montelukast
+T31	Strength 12461 12466	10 mg
+R17	Strength-Drug Arg1:T31 Arg2:T30
+T32	Frequency 12467 12472	daily
+R18	Frequency-Drug Arg1:T32 Arg2:T30
+T33	Drug 12473 12494	Mycophenolate Mofetil
+T34	Strength 12495 12501	500 mg
+R19	Strength-Drug Arg1:T34 Arg2:T33
+T35	Drug 12519 12529	Omeprazole
+T36	Strength 12530 12535	20 mg
+R20	Strength-Drug Arg1:T36 Arg2:T35
+T37	Frequency 12536 12541	daily
+R21	Frequency-Drug Arg1:T37 Arg2:T35
+T38	Drug 12542 12551	Rifaximin
+T39	Strength 12552 12558	550 mg
+R22	Strength-Drug Arg1:T39 Arg2:T38
+T40	Drug 12576 12590	Spironolactone
+T41	Strength 12591 12595	50mg
+R23	Strength-Drug Arg1:T41 Arg2:T40
+T42	Frequency 12596 12601	daily
+R24	Frequency-Drug Arg1:T42 Arg2:T40
+T43	Drug 12602 12612	Prednisone
+T44	Strength 12613 12618	10 mg
+R25	Strength-Drug Arg1:T44 Arg2:T43
+T45	Frequency 12619 12624	daily
+R26	Frequency-Drug Arg1:T45 Arg2:T43
+T46	Drug 12625 12635	Sucralfate
+T47	Strength 12636 12642	1 gram
+R27	Strength-Drug Arg1:T47 Arg2:T46
+T48	Frequency 12643 12646	QID
+R28	Frequency-Drug Arg1:T48 Arg2:T46
+T49	Drug 12647 12657	Tacrolimus
+T50	Strength 12658 12664	0.5 mg
+R29	Strength-Drug Arg1:T50 Arg2:T49
+T51	Frequency 12665 12670	daily
+R30	Frequency-Drug Arg1:T51 Arg2:T49
+T52	Drug 12671 12680	Torsemide
+T53	Strength 12681 12686	15 mg
+R31	Strength-Drug Arg1:T53 Arg2:T52
+T54	Frequency 12687 12692	daily
+R32	Frequency-Drug Arg1:T54 Arg2:T52
+T55	Drug 12693 12700	Calcium
+T56	Strength 12701 12704	600
+R33	Strength-Drug Arg1:T56 Arg2:T55
+T57	Drug 12710 12720	Vitamin D3
+T58	Strength 12721 12736	600 mg(1,500mg)
+R34	Strength-Drug Arg1:T58 Arg2:T57
+T59	Dosage 12737 12745	400 unit
+R35	Dosage-Drug Arg1:T59 Arg2:T57
+T60	Frequency 12746 12753;12754 12757	twice a day
+R36	Frequency-Drug Arg1:T60 Arg2:T55
+R37	Frequency-Drug Arg1:T60 Arg2:T57
+T61	Drug 12759 12767	Ursodiol
+T62	Strength 12768 12774	600 mg
+R38	Strength-Drug Arg1:T62 Arg2:T61
+T63	Frequency 12775 12780	daily
+R39	Frequency-Drug Arg1:T63 Arg2:T61
+T64	Drug 165 178	Ciprofloxacin
+T65	Drug 181 186	Zomig
+T66	Drug 3767 3778	Tigecycline
+T68	Drug 3812 3821	MEROPENEM
+T70	Drug 3855 3863	IMIPENEM
+T72	Drug 3906 3914	AMIKACIN
+T73	Drug 3937 3947	AMPICILLIN
+T74	Drug 3968 3988	AMPICILLIN/SULBACTAM
+T75	Drug 3999 4008	CEFAZOLIN
+T76	Drug 4030 4038	CEFEPIME
+T77	Drug 4061 4072	CEFTAZIDIME
+T78	Drug 4092 4103	CEFTRIAXONE
+T79	Drug 4123 4136	CIPROFLOXACIN
+T80	Drug 4154 4164	GENTAMICIN
+T81	Drug 4185 4193	IMIPENEM
+T82	Drug 4216 4225	MEROPENEM
+T83	Drug 4247 4261	NITROFURANTOIN
+T84	Drug 4278 4295	PIPERACILLIN/TAZO
+T85	Drug 4309 4321	TETRACYCLINE
+T86	Drug 4340 4350	TOBRAMYCIN
+T87	Drug 4371 4389	TRIMETHOPRIM/SULFA
+T88	Reason 508 527	Finger stick was 50
+R43	Reason-Drug Arg1:T88 Arg2:T89
+T89	Drug 535 538	D50
+T90	Reason 544 553	combative
+R44	Reason-Drug Arg1:T90 Arg2:T99
+T91	Drug 5448 5456	AMIKACIN
+T92	Drug 5479 5489	AMPICILLIN
+T93	Drug 5510 5530	AMPICILLIN/SULBACTAM
+T94	Drug 5541 5554	CIPROFLOXACIN
+T95	Drug 5572 5582	GENTAMICIN
+T96	Drug 5603 5620	PIPERACILLIN/TAZO
+T97	Drug 5634 5644	TOBRAMYCIN
+T98	Strength 581 585	10mg
+R45	Strength-Drug Arg1:T98 Arg2:T99
+T99	Drug 586 592	haldol
+T100	Drug 6293 6301	AMIKACIN
+T101	Drug 6324 6334	AMPICILLIN
+T102	Drug 6355 6375	AMPICILLIN/SULBACTAM
+T103	Drug 6386 6395	CEFAZOLIN
+T104	Drug 6417 6425	CEFEPIME
+T105	Drug 6450 6461	CEFTAZIDIME
+T106	Drug 6481 6492	CEFTRIAXONE
+T107	Drug 6512 6525	CIPROFLOXACIN
+T108	Drug 6543 6553	GENTAMICIN
+T109	Drug 6574 6583	MEROPENEM
+T110	Drug 6607 6617	TOBRAMYCIN
+T111	Drug 6638 6656	TRIMETHOPRIM/SULFA
+T112	Drug 692 701	lactulose
+T113	Route 705 708	NGT
+R46	Route-Drug Arg1:T113 Arg2:T112
+T114	Drug 714 717	CTX
+T115	Strength 718 720	2g
+R47	Strength-Drug Arg1:T115 Arg2:T114
+T116	Drug 722 726	Vanc
+T117	Strength 727 729	1g
+R48	Strength-Drug Arg1:T117 Arg2:T116
+T118	Reason 9994 10016	hepatic encephalopathy
+R49	Reason-Drug Arg1:T118 Arg2:T1
+R50	Reason-Drug Arg1:T118 Arg2:T2
+R51	Reason-Drug Arg1:T3 Arg2:T9	
+R52	Reason-Drug Arg1:T3 Arg2:T8	
+T67	Reason 558 567	screaming
+R40	Reason-Drug Arg1:T67 Arg2:T99	

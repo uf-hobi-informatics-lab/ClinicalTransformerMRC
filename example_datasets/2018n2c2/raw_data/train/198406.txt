@@ -1,0 +1,333 @@
+Admission Date:  [**2146-1-31**]              Discharge Date:   [**2146-2-2**]
+
+
+Service: MEDICINE
+
+Allergies:
+Nitroglycerin / Aspirin / Penicillins / Levaquin /
+Hydrochlorothiazide
+
+Attending:[**First Name3 (LF) 4765**]
+Chief Complaint:
+s/p fall
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+This is a [**Age over 90 **] y.o. female with past medical history of CAD,
+critical AS, hypertension, and radiation proctitis who presented
+to the emergency department after sustaining an unwitnessed fall
+this morning. The patient was moving from a commode to the bed
+when she sustained a fall. The exact circumstances of this fall
+are unclear. She does not remember experiencing any chest pain,
+shortness of breath. The patient's son, who lives with her,
+heard her fall and found her on the ground lying on her left
+side. She was oriented and appropriate but complaining of severe
+left arm pain.
+
+
+In the ED initial vitals T 96.8, HR 72, BP 141/88, RR 16, O2 Sat
+91% on RA. She went for radiographs, which revealed a left
+femoral neck fracture, and then became hypotensive to 70s after
+returning from radiology. She had some sensation of dizziness
+and appeared pale but denied any localizing pain symptoms or
+shortness of breath. She vomited once. After receving 3 L of IVF
+her SBP's improved to the 90's but then drifted back down to the
+70's. Serial ECG with baseline LVH but transient STE in V2. 1st
+set of cardiac enzymes was negative. The patient endorsed mild
+abdominal pain but denies chest pain, dyspnea, or presyncope.
+She has had normal BM's. Vitals at time of signout T 96.5, AF
+100-117, BP 80/45, RR 16, O2 97% on 2L.
+
+
+Currently, she reports [**10-30**] left shoulder pain but denies any
+chest pain, dyspnea, or other acute symptoms at this time.
+
+
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+
+
+REVIEW OF SYSTEMS: On review of systems, she endorses chronic
+minimally productive cough as well as mild abdominal pain and
+loose stools related to her radiation proctitis. She denies any
+prior history of stroke, TIA, deep venous thrombosis, pulmonary
+embolism, bleeding at the time of surgery, myalgias, joint
+pains, cough, hemoptysis, black stools or red stools. She denies
+recent fevers, chills or rigors. She denies exertional buttock
+or calf pain. All of the other review of systems were negative.
+
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: - Diabetes, - Dyslipidemia, +
+Hypertension (recent SBP's around 100 per son)
+2. CARDIAC HISTORY:
+-CABG: None.
+-PERCUTANEOUS CORONARY INTERVENTIONS: None.
+-PACING/ICD: None.
+3. OTHER PAST MEDICAL HISTORY:
+- Coronary artery disease, s/p MI x 2
+- Hypertrophic cardiomyopathy
+- Critical AS ([**Location (un) 109**] = 0.7 cm2 in [**1-/2144**]); mild (1+) AR
+- Moderate (2+) MR
+- Atrial fibrillation on ASA
+- Graves' disease, s/p treatment with radioactive iodine
+- Osteoporosis with known vertebral fractures
+- Chronic obstructive pulmonary disease
+- Melanoma of the foot
+- Cervical cancer status post radiation therapy and radium
+implant c/b radiation proctitis and chronic diarrhea
+- History of hyponatremia and SIADH
+- Posterior gastric polypoid lesion noted in [**1-/2145**] on CT
+- Cystic pancreatic head lesion
+- Anemia
+
+
+Social History:
+Previously manager of clothing stop. Remote 30 pack year history
+of smoking (>40 years ago). No alcohol. Lives with her son.
+
+Family History:
+Her father and sister died of lung cancer. Her brother had
+multiple myeloma.
+
+Physical Exam:
+VITAL SIGNS: T 94.6, P 92, BP 79/51, RR 17, O2 Sat 95% on 4L by
+NC
+GENERAL: Thin, elderly female appearing uncomfortable but in NAD
+HEENT: Normocephalic, atraumatic, PERRL, EOMI, sclerae
+anicteric, mucous membranes dry appearing but no lesions on
+oropharynx.
+NECK: supple, no JVD, no masses
+LUNGS: Exam limited by positioning and sling but clear
+anteriorly, no wheezes, rhonchi, or rales
+CV: Tachycardic, irregular, 2/6 Systolic ejection murmur heard
+best at base, no S3 or S4; Palpable pulses at carotids, radials,
+and DP's bilaterally
+ABDOMEN: Soft, mildly tender to palpation diffusely, no
+organomegaly or masses appreciated, no rebound/guarding.
+EXTREMITIES: W&WP, No C/C/E
+SKIN: no rashes or lesions, no stasis dermatitis, ulcers, or
+scars
+NEURO: A and O*3, sensation intact in all extremities
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2146-1-31**] 09:00AM BLOOD WBC-6.3 RBC-4.67 Hgb-14.3 Hct-43.6 MCV-94
+MCH-30.6 MCHC-32.8 RDW-13.7
+[**2146-1-31**] 09:00AM BLOOD Neuts-61 Bands-0 Lymphs-27 Monos-8 Eos-4
+Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2146-1-31**] 09:00AM BLOOD PT-12.0 PTT-27.6 INR(PT)-1.0
+[**2146-1-31**] 09:00AM BLOOD Glucose-107* UreaN-31* Creat-0.9 Na-143
+K-3.8 Cl-100 HCO3-35* AnGap-12
+[**2146-1-31**] 09:00AM BLOOD ALT-16 AST-25 LD(LDH)-216 CK(CPK)-37
+AlkPhos-63 TotBili-0.6
+[**2146-2-1**] 04:38AM BLOOD Calcium-8.1* Phos-6.2*# Mg-1.6
+[**2146-1-31**] 12:31PM BLOOD Lactate-2.3*
+----------------
+CARIDAC ENZYMES:
+[**2146-1-31**] 05:37PM BLOOD CK(CPK)-73
+[**2146-2-1**] 04:38AM BLOOD CK(CPK)-278*
+[**2146-2-1**] 12:59PM BLOOD CK(CPK)-494*
+[**2146-2-2**] 04:02AM BLOOD ALT-42* AST-65* LD(LDH)-263* CK(CPK)-863*
+AlkPhos-47 TotBili-0.3
+[**2146-1-31**] 09:00AM BLOOD CK-MB-NotDone cTropnT-LESS THAN
+[**2146-1-31**] 05:37PM BLOOD CK-MB-NotDone cTropnT-0.04*
+[**2146-2-1**] 04:38AM BLOOD CK-MB-18* MB Indx-6.5* cTropnT-0.30*
+[**2146-2-1**] 12:59PM BLOOD CK-MB-21* MB Indx-4.3 cTropnT-0.37*
+[**2146-2-2**] 04:02AM BLOOD CK-MB-21* MB Indx-2.4 cTropnT-0.47*
+----------------
+DISCHARGE LABS:
+[**2146-2-2**] 04:02AM BLOOD WBC-18.6* RBC-3.00* Hgb-9.6* Hct-29.4*
+MCV-98 MCH-32.1* MCHC-32.8 RDW-14.3 Plt Ct-195
+[**2146-2-2**] 04:02AM BLOOD PT-17.9* PTT-83.6* INR(PT)-1.6*
+[**2146-2-2**] 04:02AM BLOOD Glucose-170* UreaN-49* Creat-2.9* Na-140
+K-5.4* Cl-106 HCO3-21* AnGap-18
+[**2146-2-2**] 04:02AM BLOOD ALT-42* AST-65* LD(LDH)-263* CK(CPK)-863*
+AlkPhos-47 TotBili-0.3
+[**2146-2-2**] 04:02AM BLOOD Calcium-8.0* Phos-6.6* Mg-1.6
+----------------
+STUDIES:
+SHOULDER (AP, NEUTRAL & AXILLARY) TRAUMA LEFT Study Date of
+[**2146-1-31**] 10:06 AM
+FINDINGS: Total of two views of the left shoulder were obtained.
+There is an acute fracture involving the left humeral neck with
+impaction and slight medial displacement of the distal fracture
+fragment. No additional fractures are seen.
+IMPRESSION: Left humeral neck fracture.
+.
+CHEST (SINGLE VIEW) Study Date of [**2146-1-31**] 10:06 AM
+FINDINGS: AP upright view of the chest is obtained. There is an
+acute fracture involving the left humeral neck with a slightly
+impacted appearance and medial displacement of the distal
+fragment. Patient is rotated to left with a marked scoliotic
+deformity, which limits evaluation through the chest, though
+there is no definite evidence of lung consolidation, effusion,
+or pneumothorax. Cardiomediastinal silhouette appears grossly
+stable. Bones are demineralized.
+IMPRESSION: Left humeral neck fracture. Otherwise, no acute
+findings.
+.
+TTE (Complete) Done [**2146-2-1**] at 9:42:07 AM
+The left atrium is moderately dilated. There is moderate
+symmetric left ventricular hypertrophy. The left ventricular
+cavity is unusually small. Regional left ventricular wall motion
+is normal. Overall left ventricular systolic function is normal
+(LVEF>55%). The aortic valve leaflets are severely
+thickened/deformed. There is critical aortic valve stenosis
+(valve area <0.8cm2). Trace aortic regurgitation is seen. [Due
+to acoustic shadowing, the severity of aortic regurgitation may
+be significantly UNDERestimated.] The mitral valve leaflets are
+mildly thickened. Moderate (2+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened. Moderate to
+severe [3+] tricuspid regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. The pulmonic valve
+leaflets are thickened. There is no pericardial effusion.
+
+IMPRESSION: Critical aortic stenosis. Moderate symmetric left
+ventricular hypertrophy with vigorous left ventricular systolic
+function. Moderate mitral regurgitation. Moderate to severe
+tricuspid regurgitation. Moderate pulmonary hypertension.
+
+Compared with the prior study (images reviewed) of [**2144-2-13**],
+the calculated aortic valve area is smaller. The severity of
+tricuspid regurgitation has increased. The previously seen small
+secundum ASD is not well-visualized.
+.
+CHEST (PORTABLE AP) Study Date of [**2146-2-2**] 7:47 AM
+FINDINGS: In comparison with the study of [**2-1**], there is little
+interval change on this somewhat limited study. Enlargement of
+the cardiac silhouette persists with bibasilar atelectatic
+change. There is suggestion of gas within a hiatal hernia. No
+evidence of acute focal pneumonia.
+
+
+Brief Hospital Course:
+[**Age over 90 **] year old female with past medical history significant for
+CAD, critical AS, and radiation proctitis presenting after a
+fall with a humeral fracture and hypotension following opiates.
+.
+# Hypotension: Patient was found to be hypotensive in the ED
+after coming back from radiology study.  The etiologies for her
+hypotension were thought to be related to pain-medications and
+critical AS.  Patient was given gental IV fluid boluses after
+being admitted to CCU.  Patient's blood pressure continued to be
+low, systolics in the 60s and 70s, during the rest of her
+hospital stay.  Pressors were avoided given her severe AS.
+Because of hypotension, she developed acute renal failure
+rapidly (creatinine bumped from 0.9 to 2.9 in 2 days).  Patient
+declined hemodialysis, also denied AVR or valvuloplasty, so
+after extensive discussions with patient's HCP (her son, [**Name (NI) **]
+[**Name (NI) 10166**]), decision was made to make patient comfort measures only.
+She expired on day 3 of her hospital stay from acute renal
+failure and electrolyte abnormalities.
+.
+# Critical AS: The patient had a previous valve area of 0.7cm2.
+She underwent a repeat TTE which showed critical aortic valve
+stenosis (valve area <0.8cm2).  She declined AVR or
+valvuloplasty.  She expired on [**2146-2-2**] in the setting of
+critical AS, hypotension and acute renal failure.
+.
+# Acute Renal Failure: Baseline Cr difficult to assess from labs
+but appeared to be around 0.6-0.7.  Patient's creatinine was 0.9
+on admission, likely prerenal in the context of appearing dry.
+No recent antibiotics or other nephrotoxins, and no symptoms of
+UTI with benign UA.  Patient was hypotensive during her hospital
+stay.  As a result, her kidney function deteriorated rapidly.
+Her creatinine bumped to 2.9 on day 3.  Patient declined
+hemodialysis, so she was made comfort measures only after all
+medical options to keep her alive failed.  On the morning of her
+expiration, her K was 5.4, and she was not producing urine.  She
+passed at 1900 that day.  It is therefore very likely that she
+died of hyperkalemia.  On telemetry, she went into brief VT
+followed by asystole minutes before her demise.
+.
+# Fall: Etiology of fall was unclear. The most concerning
+possibility was that patient's AS led to syncope due to
+hypoperfusion. Unfortunately, as the fall was unwitnessed and
+the patient did not remember what happened this was impossible
+to prove. Patient underwent a repeat TTE which showed critical
+aortic valve stenosis (valve area <0.8cm2).  Therefore, it was
+certainly very likely that AS played a role in the fall.
+.
+# Humeral Fracture: Patient was seen by Orthopedics in the ED.
+Ortho decided to manage conservatively with sling and analgesia.
+Pain control was achieved with tylenol around the clock,
+lidocaine patch, and low dose dilaudid with a goal to minimize
+effect on blood pressure.  Patient's pain was well-controlled on
+the above regimen.
+.
+# Rhythm: Patient was in atrial fibrillation, and not
+anticoagulated. She was not on aspirin or coumadin because of a
+previous GI bleed.  Metoprolol was held given her hypotension.
+Patient was observed on telemetry during her hospital stay in
+CCU.  She went into VT followed by asystole minutes before she
+expired, likely secondary to hyperkalemia in the setting of
+acute renal failure.
+.
+# Leukocytosis: Unclear etiology, though rapid increase and lack
+of fevers, chills, or other acute changes suggested possibly
+leukemoid reaction in the context of fracture and injury.
+Cultures were negative, including blood cx, urine cx and c.diff.
+ Patient was not started on antibiotics since she had no sign of
+infection.
+.
+# Anemia: Patient had history of normocytic anemia, baseline
+around 29-20.  Her hct was 43.6 on admission, likely
+hemoconcentrated.  Hct decreased to her baseline of 29 during
+the next two days.  She had no signs of active bleeding.
+.
+# CAD: Patient reported history of CAD, but with minimal details
+and there are no caths in our system. Patient was not on ASA or
+statin (lipids normal). Patient had some cardiac enzyme leaks
+during her hospital stay, likely in the setting of hypotension
+and decreased blood supply to coronaries.
+.
+# PPx: Patient was given subcutaneous heparin for DVT
+prophylaxis.
+.
+# FEN: Patient was given cardiac healthy diet during this
+hospital stay.
+.
+# CODE: DNR/DNI (discussed with patient and son-HCP)
+.
+# Contact: [**Name (NI) **] [**Telephone/Fax (1) 92787**](H), [**Telephone/Fax (1) 92788**](C)
+
+
+Medications on Admission:
+1. Metoprolol Tartrate 25 mg PO TID
+2. Levothyroxine 100 mcg PO once a day.
+3. Calcium Carbonate 500 mg PO TID
+4. Ergocalciferol 50,000 unit weekly
+5. Risedronate 35 mg PO once a week.
+6. Cyanocobalamin 1,000 mcg/mL Injection once a month
+7. Lorazepam 0.25 QAM, O.25 QPM, 0.5 mg QHS
+8 Capsaicin 0.025 % Cream Topical TID
+9. Acetaminophen 1000 mg PO Q6H
+10. Mirtazapine 15 mg PO QHS
+
+
+Discharge Medications:
+Deceased
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Chief cause of death: critical AS
+Immediate cause of death: acute renal failure
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+Deceased
+
+Followup Instructions:
+Deceased
+
+

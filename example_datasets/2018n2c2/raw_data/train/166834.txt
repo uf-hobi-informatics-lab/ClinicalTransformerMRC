@@ -1,0 +1,307 @@
+Admission Date:  [**2159-9-24**]              Discharge Date:   [**2159-9-29**]
+
+Date of Birth:  [**2114-3-15**]             Sex:   F
+
+Service: OBSTETRICS/GYNECOLOGY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 6743**]
+Chief Complaint:
+dysgerminoma of the right ovary
+
+Major Surgical or Invasive Procedure:
+diagnostic laparoscopy
+total abdominal hysterectomy
+left salpingoopherectomy
+pelvic and para-aortic lymph node dissection
+omentectomy
+cystoscopy
+
+
+History of Present Illness:
+This is a 45 yo P0 who presented following discovery of
+disgerminoma of the right ovary.  Dr. [**Known lastname **] was in
+her usual state of good health until [**2159-6-12**].  She
+presented at that time to [**Hospital 1559**] Medical Center with acute
+severe abdominopelvic pain.  She was found to have a torsion of
+the right ovary and underwent an emergent exploratory
+laparotomy,
+right salpingo-oophorectomy.  Final pathology revealed a 15 cm
+serous cystadenoma of the ovary with a 1 cm disgerminoma of the
+ovary focussed within the center.  She had this surgery through
+[**Initials (NamePattern4) **]
+[**Last Name (NamePattern4) 22790**] incision and has healed well from that surgery.
+Pathology has been read here at [**Hospital1 188**].  The disgerminoma is identified as well as the serous
+cyst.  The report was that the ovary was intact without surface
+involvement.  The serous cyst was separate.  The patient has had
+laboratory evaluations performed postoperatively and these
+include an LDH level which is normal, an inhibin level which
+evidently was normal, hCG level normal.  She had normal liver
+function tests and blood counts as well.  She has been advised
+after an evaluation at the [**Hospital 1559**] Medical Center to undergo a
+staging laparotomy including hysterectomy, left
+
+
+Past Medical History:
+PAST MEDICAL HISTORY:  She is relatively healthy.  She denies
+any
+history of asthma, hypertension, mitral valve prolapse, or
+thromboembolic disorder.  With respect to screening evaluations,
+she reports being up-to-date with respect to colonoscopy and
+mammography.  She does suffer from GERD, for which she uses
+Prilosec.
+
+PAST SURGICAL HISTORY:  As above.  She also underwent an
+appendectomy at the age of 13.
+
+OB/GYN HISTORY:  She is a gravida 0.  She has two adopted
+children.  She reports irregular menstrual cycles, which are
+moderate to heavy in flow.  They last five days.  Her last was
+on
+[**7-27**].  She denies any history of pelvic infections or abnormal
+Pap
+smears and her last was obtained in 12/[**2156**].  She denies any
+history of gynecological problems.
+
+
+Social History:
+Neurologist in [**Location (un) **] within the [**Hospital3 **] system.  Denies
+tobacco or illict drug use.  Occasional alcohol use.  She lives
+with her
+husband and two adopted children.  She denies any history of
+verbal, physical, or sexual abuse.
+
+Family History:
+She reports her father had [**Name2 (NI) 499**] cancer at the
+age of 59.  There is no other family history of cancer.
+
+
+Physical Exam:
+At the time of preoperative visit:
+
+GENERAL:  She appears her stated age, in no apparent distress.
+HEENT:  Normocephalic, atraumatic.  Oral mucosa without evidence
+of thrush or mucositis.  Eyes, sclerae are anicteric.
+NECK:  Supple.  There are no masses.
+LYMPHATICS:  Lymph node survey, negative cervical,
+supraclavicular, axillary, or inguinal adenopathy.
+CHEST:  Lungs clear.
+HEART:  Regular rate and rhythm.
+BACK:  No spinal or CVA tenderness.
+ABDOMEN:  Soft, nontender, nondistended.  There are no palpable
+masses.  There is no hepato or splenomegaly.  There is no fluid
+wave.  A well-healed incision is noted.
+EXTREMITIES:  There is no clubbing, cyanosis, or edema.
+PELVIC:  Normal external genitalia.  Inner labia minora are
+normal.  Urethral meatus normal.  Speculum is placed.  The walls
+of the vagina are normal.  Apex is normal.  Cervix is normal.
+Bimanual exam reveals no mass or lesion.
+
+At the time of [**Hospital Unit Name 153**] transfer:
+
+General Appearance: Well nourished, Overweight / Obese, full
+neck
+Eyes / Conjunctiva: PERRL
+Head, Ears, Nose, Throat: Normocephalic, orbital edema
+Lymphatic: Cervical WNL, Supraclavicular WNL
+Cardiovascular: (S1: Normal), (S2: Normal)
+Peripheral Vascular: (Right radial pulse: Not assessed), (Left
+radial pulse: Not assessed), (Right DP pulse: Present), (Left DP
+pulse: Present)
+Abdominal: Midline incision, dressing in place, clean, dry,
+intact with mild serosanguinous drainage
+Extremities: Right lower extremity edema: Trace, Left lower
+extremity edema: Trace
+Skin:  Not assessed, No(t) Rash:
+Neurologic: Attentive, Follows simple commands, Responds to: Not
+assessed, Oriented (to): person, place, time, Movement: Not
+assessed, Tone: Not assessed
+
+Pertinent Results:
+[**2159-9-24**] 02:20PM BLOOD WBC-9.3 RBC-3.93* Hgb-8.3*# Hct-27.5*
+MCV-70*# MCH-21.1*# MCHC-30.1*# RDW-17.5* Plt Ct-366
+[**2159-9-26**] 07:15AM BLOOD WBC-10.1 RBC-3.53* Hgb-8.1* Hct-25.2*
+MCV-71* MCH-23.0* MCHC-32.2 RDW-19.4* Plt Ct-243
+[**2159-9-24**] 07:49PM BLOOD Neuts-85.2* Lymphs-9.1* Monos-5.2 Eos-0.3
+Baso-0.2
+[**2159-9-25**] 05:10PM BLOOD Neuts-77.8* Lymphs-14.5* Monos-7.2
+Eos-0.5 Baso-0.1
+[**2159-9-24**] 02:20PM BLOOD PT-13.0 PTT-21.5* INR(PT)-1.1
+[**2159-9-26**] 07:15AM BLOOD PT-13.2 PTT-25.1 INR(PT)-1.1
+[**2159-9-24**] 02:20PM BLOOD Glucose-168* UreaN-7 Creat-0.7 Na-138
+K-4.6 Cl-104 HCO3-28 AnGap-11
+[**2159-9-26**] 07:15AM BLOOD Glucose-108* UreaN-8 Creat-0.6 Na-133
+K-4.4 Cl-97 HCO3-27 AnGap-13
+[**2159-9-24**] 02:20PM BLOOD Calcium-7.8* Phos-4.5# Mg-2.1
+[**2159-9-25**] 06:00AM BLOOD Calcium-7.7* Phos-3.0 Mg-2.2
+[**2159-9-24**] 03:07PM BLOOD Type-ART pO2-163* pCO2-59* pH-7.27*
+calTCO2-28 Base XS-0 Intubat-NOT INTUBA
+
+CT-A
+IMPRESSION:
+1. Slightly limited exam secondary to motion and body habitus
+however no
+pulmonary embolus in the central or segmental pulmonary
+arteries.
+2. Scattered upper lobe predominent bilateral peribronchiolar
+nodular
+opacities which may be due to an infectious/inflammatory
+etiology or
+aspiration. Bilateral lower lobes and lingular atelectasis.
+3. Diffuse low attenuation of the liver compatible with fatty
+infiltration.
+
+
+Brief Hospital Course:
+On [**9-24**], she underwent diagnostic laparoscoy, converted
+to open total abdominal hysterectomy, left salpingoopherectomy,
+pelvic and para-aortic lymph node dissection, omentectomy, and
+cystoscopy.  Procedure was converted due to difficulty accessing
+the lymph nodes.  Please see Dr.[**Name (NI) 27357**] operative note for
+full details.
+
+Postoperatively, the patient received a TAP block for pain in
+the PACU.  She developed tachycardia to 130s.  Preoperatively,
+the patient had been tachycardic to 110s.   The patient had
+received 6L IV fluids and maintained good UOP.  She also
+received 13mg IV morphine and RR went down to 8.   Arterial
+blood gas demonstrated hypercarbia with pCO2 to 59.  No
+pre-operative Hct was drawn, but the post-op HCT was 27.5.  Her
+02 sat was 82% on RA and up to mid 90s on CPAP.  The decision
+was made to transfer the patient to the [**Hospital Ward Name 332**] ICU for further
+management.  On arrival to the ICU the patient's 02 sat 99% on
+2L, she was alert, oriented and RR 15, not complaining of any
+pain.  She had a one-night [**Hospital Unit Name 153**] stay.
+
+The following were addressed during the [**Hospital Unit Name 153**] stay:
+
+1) Hypoxia:
+Her hypoxia was likely multifactorial, associated with
+atelectasis and low RR in the setting of a high morphine dose.
+The CXR was consistent with atelectasis.  Patient also noted to
+have some snoring and full neck likely associated with some
+degree of sleep apnea.  She was ruled out for pulmonary embolism
+with CT-A. The CT did suggest possible aspiration versus
+infectious etiology with "scattered bilateral
+peribronchovascular opacities."  At the time of [**Hospital Unit Name 153**] call-out,
+the patient was saturating 98% on 2L oxygen by nasal canula,
+which was stable from her presentation to the ICU, mildly
+improved.
+
+2) Sinus Tachycardia:
+Her sinus tachycardia was of unclear etiology, though clearly
+documented prior to going to the OR.  The patient clearly denied
+pain, anxiety; her post-op pain was controlled with dilaudid
+PCA.  She did describe some difficulty with bowel prep that
+could have caused dehydration, but the tachycardia did not
+resolve with 6L IVFs despite orbital edema.  Her post-operative
+fever could have been contributing to the tachycardia as well.
+Telemetry was discontinued upon transfer to the GYN oncology
+service.
+
+3) Fever:
+The patient spiked a fever to 102.5 the evening of POD#0.  CTA
+was suggestive of possible aspiration pneumonia as an etiology.
+
+4) Anemia:
+Hematocrit at time of transfer to the [**Hospital Unit Name 153**] was 24.  She was
+transfused 1 unit of pRBCs in the ICU in addition to 2 units of
+pRBCs she had received intraoperatively in the PACU.
+
+The patient was transferred to the gyn oncology service on
+POD#1.  The remainder of her hospital stay was notable for the
+following:
+
+1) Apiration pneumonia:
+The patient was successfully weaned to room air on gyn oncology
+service.  Given that her temperature was still elevated to 101.2
+at the time of transfer, she was started on IV clindamycin
+empirically for treatment of aspiration pneumonia.  Urine
+culture was negative, and blood cultures were still pending at
+the time of hospital discharge.  Following initiation of
+clindamycin, she remained afebrile for over 24 hours.  She then
+respiked to a low grade temperature of 100.6.  Urinalysis was
+negative.  CXR was repeated, demonstrating bibasilar opacities
+concerning for ongoing aspiration pneumonia.  The patient
+spontaneously defervesced, and remained afebrile for the
+remainder of her hospital stay.  Clindamycin was discontinued
+and levofloxacin initiated.  The patient received 24 hours of IV
+levofloxacin and was discharged home on po levofloxacin.  Within
+24 hours of discharge, the patient called informing that
+insurance would not cover po levofloxacin.  She was switched to
+a 10 day course of augmentin and azithromycin.
+
+2) Nausea/emesis
+The patient experienced an episode of nausea with small amount
+of bilious emesis on POD#3.  Diet was retracted from full
+liquids back to NPO with resolution of symptoms.  Diet was
+successfully advanced the following day.
+
+She was discharged home on POD#5 in good condition: tolerating a
+regular diet, ambulating and voiding without difficulty,
+afebrile, saturating well on room air.
+
+Medications on Admission:
+prilosec
+
+Discharge Medications:
+1. Levofloxacin 750 mg Tablet Sig: One (1) Tablet PO once a day
+for 10 days.
+Disp:*10 Tablet(s)* Refills:*0*
+2. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain: do not exceed 12 pills
+in any 24 hour period.
+Disp:*40 Tablet(s)* Refills:*0*
+5. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+dysgerminoma of the ovary
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+- Please call your doctor if you experience fever > 100.4,
+chills, nausea and vomiting, worsening or severe abdominal pain,
+
+heavy vaginal bleeding, chest pain, trouble breathing, or if you
+
+have any other questions or concerns.
+- Please call if you have
+redness and warmth around the incision, if your incision is
+draining pus-like or foul smelling discharge, or if your
+incision reopens.
+- No driving for two weeks and while taking narcotic pain
+medication as it can make you drowsy.
+- No heavy lifting or strenuous exercise for 6 weeks to allow
+your incision to heal adequately.
+- Nothing per vagina (no tampons, intercourse, douching for 6
+weeks.
+- Please keep your follow-up appointments as outlined below.
+
+
+Followup Instructions:
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 33326**] Phone:[**Telephone/Fax (1) 5777**]
+Date/Time:[**2159-10-4**] 10:10
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 5777**]
+Date/Time:[**2159-10-31**] 1:00
+
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 6753**]
+
+Completed by:[**2159-10-4**]

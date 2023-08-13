@@ -1,0 +1,223 @@
+T1	Dosage 10058 10071	sliding scale
+R1	Dosage-Drug Arg1:T1 Arg2:T2
+T2	Drug 10072 10079	insulin
+T3	Drug 10084 10092	glargine
+T4	Drug 10108 10116	glargine
+T6	Drug 10172 10175	SSI
+T7	Drug 10185 10194	Metformin
+T8	Route 10211 10215	oral
+R3	Route-Drug Arg1:T8 Arg2:T9
+T9	Drug 10216 10229	hypoglycemics
+T10	Drug 10509 10516	heparin
+T11	Drug 11007 11016	metformin
+T12	Strength 11017 11020	500
+R4	Strength-Drug Arg1:T12 Arg2:T11
+T13	Drug 11059 11067	Protonix
+T14	Strength 11068 11072	40mg
+R5	Strength-Drug Arg1:T14 Arg2:T13
+T16	Frequency 11076 11079	BID
+R7	Frequency-Drug Arg1:T16 Arg2:T13
+T17	Drug 11080 11083	MVI
+T18	Route 11084 11086	po
+R8	Route-Drug Arg1:T18 Arg2:T17
+T19	Frequency 11087 11092	daily
+R9	Frequency-Drug Arg1:T19 Arg2:T17
+T20	Drug 11093 11101	Thiamine
+T21	Strength 11102 11107	100mg
+R10	Strength-Drug Arg1:T21 Arg2:T20
+T22	Frequency 11108 11112	qday
+R11	Frequency-Drug Arg1:T22 Arg2:T20
+T23	Drug 11113 11119	Folate
+T24	Strength 11120 11124	i mg
+R12	Strength-Drug Arg1:T24 Arg2:T23
+T25	Route 11125 11127	po
+R13	Route-Drug Arg1:T25 Arg2:T23
+T26	Frequency 11128 11133	daily
+R14	Frequency-Drug Arg1:T26 Arg2:T23
+T27	Drug 11134 11142	nicotine
+T28	Form 11143 11148	patch
+R15	Form-Drug Arg1:T28 Arg2:T27
+T29	Strength 11149 11153	14gm
+R16	Strength-Drug Arg1:T29 Arg2:T27
+T30	Frequency 11154 11158	qday
+R17	Frequency-Drug Arg1:T30 Arg2:T27
+T31	Drug 11159 11166	nadolol
+T32	Strength 11167 11171	20mg
+R18	Strength-Drug Arg1:T32 Arg2:T31
+T33	Frequency 11172 11176	qday
+R19	Frequency-Drug Arg1:T33 Arg2:T31
+T34	Drug 11177 11185	oxazepam
+T35	Frequency 11186 11192	q2 prn
+R20	Frequency-Drug Arg1:T35 Arg2:T34
+T36	Reason 11197 11206	agitation
+R21	Reason-Drug Arg1:T36 Arg2:T34
+T37	Drug 11243 11253	Octreotide
+T38	Route 11254 11257	gtt
+R22	Route-Drug Arg1:T38 Arg2:T37
+T39	Drug 11286 11301	Docusate Sodium
+T40	Strength 11302 11308	100 mg
+R23	Strength-Drug Arg1:T40 Arg2:T39
+T41	Form 11309 11316	Capsule
+R24	Form-Drug Arg1:T41 Arg2:T39
+T42	Dosage 11322 11329	One (1)
+R25	Dosage-Drug Arg1:T42 Arg2:T39
+T43	Form 11330 11337	Capsule
+R26	Form-Drug Arg1:T43 Arg2:T39
+T44	Route 11338 11340	PO
+R27	Route-Drug Arg1:T44 Arg2:T39
+T45	Frequency 11341 11347;11348 11360	BID (2 times a day)
+R28	Frequency-Drug Arg1:T45 Arg2:T39
+T46	Drug 11398 11408	Folic Acid
+T47	Strength 11409 11413	1 mg
+R29	Strength-Drug Arg1:T47 Arg2:T46
+T48	Form 11414 11420	Tablet
+R30	Form-Drug Arg1:T48 Arg2:T46
+T49	Dosage 11426 11433	One (1)
+R31	Dosage-Drug Arg1:T49 Arg2:T46
+T50	Form 11434 11440	Tablet
+R32	Form-Drug Arg1:T50 Arg2:T46
+T51	Route 11441 11443	PO
+R33	Route-Drug Arg1:T51 Arg2:T46
+T52	Frequency 11444 11457	DAILY (Daily)
+R34	Frequency-Drug Arg1:T52 Arg2:T46
+T53	Drug 11494 11506	Thiamine HCl
+T54	Strength 11507 11513	100 mg
+R35	Strength-Drug Arg1:T54 Arg2:T53
+T55	Form 11514 11520	Tablet
+R36	Form-Drug Arg1:T55 Arg2:T53
+T56	Dosage 11526 11533	One (1)
+R37	Dosage-Drug Arg1:T56 Arg2:T53
+T57	Form 11534 11540	Tablet
+R38	Form-Drug Arg1:T57 Arg2:T53
+T58	Route 11541 11543	PO
+R39	Route-Drug Arg1:T58 Arg2:T53
+T59	Frequency 11544 11549;11550 11557	DAILY (Daily)
+R40	Frequency-Drug Arg1:T59 Arg2:T53
+T60	Drug 11594 11606	Pantoprazole
+T61	Strength 11607 11612	40 mg
+R41	Strength-Drug Arg1:T61 Arg2:T60
+T62	Form 11613 11643	Tablet, Delayed Release (E.C.)
+R42	Form-Drug Arg1:T62 Arg2:T60
+T63	Dosage 11649 11652;11653 11656	One (1)
+R43	Dosage-Drug Arg1:T63 Arg2:T60
+T64	Form 11657 11687	Tablet, Delayed Release (E.C.)
+R44	Form-Drug Arg1:T64 Arg2:T60
+T65	Route 11688 11690	PO
+R45	Route-Drug Arg1:T65 Arg2:T60
+T66	Frequency 11691 11712	Q12H (every 12 hours)
+R46	Frequency-Drug Arg1:T66 Arg2:T60
+T67	Drug 11773 11782	Lactulose
+T68	Strength 11783 11793	10 g/15 mL
+R47	Strength-Drug Arg1:T68 Arg2:T67
+T69	Form 11794 11799	Syrup
+R48	Form-Drug Arg1:T69 Arg2:T67
+T70	Dosage 11805 11819	Thirty (30) ML
+R49	Dosage-Drug Arg1:T70 Arg2:T67
+T71	Route 11820 11822	PO
+R50	Route-Drug Arg1:T71 Arg2:T67
+T72	Frequency 11823 11829;11830 11842	TID (3 times a day)
+R51	Frequency-Drug Arg1:T72 Arg2:T67
+T73	Drug 11877 11895	Miconazole Nitrate
+T75	Form 11900 11906	Powder
+R53	Form-Drug Arg1:T75 Arg2:T73
+T76	Dosage 11912 11919	One (1)
+T77	Form 11920 11924	Appl
+R54	Form-Drug Arg1:T77 Arg2:T73
+T78	Route 11925 11932	Topical
+R55	Route-Drug Arg1:T78 Arg2:T73
+T79	Frequency 11933 11936;11937 11962	TID (3 times a day) as needed
+R56	Frequency-Drug Arg1:T79 Arg2:T73
+T81	Drug 1223 1227	PRBC
+T82	Drug 165 176	Macrodantin
+T83	Drug 179 186	Heparin
+T85	Drug 6238 6248	octreotide
+T86	Duration 6253 6258	7 day
+R59	Duration-Drug Arg1:T86 Arg2:T87
+T87	Drug 6269 6281	levofloxacin
+T88	Reason 6286 6301	SBP prophylaxis
+R60	Reason-Drug Arg1:T88 Arg2:T87
+T89	Drug 6405 6414	lactulose
+T90	Drug 6419 6428	rifaximin
+T91	Reason 6433 6447	encephalopathy
+R61	Reason-Drug Arg1:T91 Arg2:T90
+R62	Reason-Drug Arg1:T91 Arg2:T89
+T92	Drug 6561 6575	pentoxyfilline
+T93	Drug 6580 6588	ursodiol
+T94	Reason 6603 6628	acute alcoholic hepatitis
+R63	Reason-Drug Arg1:T94 Arg2:T93
+R64	Reason-Drug Arg1:T94 Arg2:T92
+T95	Drug 6630 6645	Corticosteroids
+T96	Drug 6887 6901	pentoxyfilline
+T97	Drug 6906 6914	ursodiol
+T98	Drug 7012 7022	octreotide
+T99	Drug 7023 7032	midodrine
+T100	Reason 7046 7066	hepatorenal syndrome
+R65	Reason-Drug Arg1:T100 Arg2:T99
+R66	Reason-Drug Arg1:T100 Arg2:T98
+T101	Reason 7120 7126;7127 7136	volume repletion
+R67	Reason-Drug Arg1:T101 Arg2:T103
+R68	Reason-Drug Arg1:T101 Arg2:T102
+T102	Drug 7147 7160	normal saline
+T103	Drug 7165 7172	albumin
+T104	Drug 744 753	vitamin K
+T105	Strength 754 758	10mg
+R69	Strength-Drug Arg1:T105 Arg2:T104
+T106	Route 759 761	SC
+R70	Route-Drug Arg1:T106 Arg2:T104
+T107	Drug 7698 7707	Diuretics
+T108	Drug 794 804	octreotide
+T109	Dosage 818 825	2 units
+R71	Dosage-Drug Arg1:T109 Arg2:T110
+T110	Drug 826 830	PRBC
+T111	Reason 835 843	hct 25.9
+R72	Reason-Drug Arg1:T111 Arg2:T110
+T112	Dosage 848 854	6 bags
+R73	Dosage-Drug Arg1:T112 Arg2:T114
+T113	Reason 8495 8520	Acute renal insufficiency
+R74	Reason-Drug Arg1:T113 Arg2:T116
+R75	Reason-Drug Arg1:T113 Arg2:T117
+T114	Drug 858 867	platelets
+T115	Reason 8596 8616	hepatorenal syndrome
+R76	Reason-Drug Arg1:T115 Arg2:T116
+R77	Reason-Drug Arg1:T115 Arg2:T117
+T116	Drug 8706 8715	midodrine
+T117	Drug 8716 8726	octreotide
+T118	Reason 872 888	platelets of 37K
+R78	Reason-Drug Arg1:T118 Arg2:T114
+T120	Drug 9269 9275	fluids
+T121	Drug 9562 9567	Zosyn
+T122	Drug 9572 9582	Vancomycin
+T123	Drug 9594 9602	Levaquin
+T124	Reason 9607 9629;9630 9638	concern for infectious etiology
+R80	Reason-Drug Arg1:T124 Arg2:T123
+R81	Reason-Drug Arg1:T124 Arg2:T122
+R82	Reason-Drug Arg1:T124 Arg2:T121
+T125	Drug 9648 9659	antibiotics
+T126	Reason 9985 9990	DM II
+R83	Reason-Drug Arg1:T126 Arg2:T127
+R84	Reason-Drug Arg1:T126 Arg2:T2
+R85	Reason-Drug Arg1:T126 Arg2:T3
+R86	Reason-Drug Arg1:T126 Arg2:T4
+R87	Reason-Drug Arg1:T126 Arg2:T7
+T127	Drug 9995 10004	Metformin
+R88	Reason-Drug Arg1:T88 Arg2:T85	
+R89	Reason-Drug Arg1:T124 Arg2:T125	
+T5	Dosage 10117 10124	24units
+T128	Frequency 10124 10130	/night
+R2	Dosage-Drug Arg1:T5 Arg2:T4	
+R90	Frequency-Drug Arg1:T128 Arg2:T4	
+R91	Reason-Drug Arg1:T126 Arg2:T6	
+R92	Reason-Drug Arg1:T126 Arg2:T9	
+T129	Form 11371 11381	Capsule(s)
+T130	Form 11468 11477	Tablet(s)
+R93	Form-Drug Arg1:T129 Arg2:T39	
+R94	Form-Drug Arg1:T130 Arg2:T46	
+T131	Form 11568 11577	Tablet(s)
+R95	Form-Drug Arg1:T131 Arg2:T53	
+T132	Form 11723 11753	Tablet, Delayed Release (E.C.)
+R96	Form-Drug Arg1:T132 Arg2:T60	
+R97	Dosage-Drug Arg1:T76 Arg2:T73	
+T15	Route 9266 9268	IV
+R6	Route-Drug Arg1:T15 Arg2:T120	
+T74	Route 11073 11075	IV
+R52	Route-Drug Arg1:T74 Arg2:T13	

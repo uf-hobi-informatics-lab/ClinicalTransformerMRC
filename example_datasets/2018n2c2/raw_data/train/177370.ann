@@ -1,0 +1,318 @@
+T1	ADE 10121 10126	fever
+R1	ADE-Drug Arg1:T1 Arg2:T3
+T2	ADE 10131 10135	rash
+R2	ADE-Drug Arg1:T2 Arg2:T3
+T3	Drug 10162 10170	dilantin
+T4	Reason 10195 10202;10203 10213	seizure propalaxis
+R3	Reason-Drug Arg1:T4 Arg2:T3
+T5	Drug 10269 10277	steroids
+T6	Reason 10305 10312	itching
+R4	Reason-Drug Arg1:T6 Arg2:T5
+T7	Drug 1033 1045	levofloxacin
+T8	Drug 10519 10527	dilantin
+T9	Drug 10543 10549	Keppra
+T10	Reason 10568 10587	seizure prophalaxis
+R5	Reason-Drug Arg1:T10 Arg2:T9
+T11	Drug 10623 10631	steroids
+T12	Drug 10636 10651	anti-itch cream
+T13	ADE 1155 1174;1175 1188	diffuse morbiliform eruption rash
+R6	ADE-Drug Arg1:T13 Arg2:T14
+T14	Drug 1195 1203	dilantin
+T15	Drug 1227 1235	Dilantin
+T16	Reason 1272 1290	sizure prophylaxis
+R7	Reason-Drug Arg1:T16 Arg2:T15
+T17	Reason 1379 1383	rash
+R8	Reason-Drug Arg1:T17 Arg2:T18
+R9	Reason-Drug Arg1:T17 Arg2:T20
+T18	Drug 1403 1408	Sarna
+T19	Form 1409 1415	lotion
+R10	Form-Drug Arg1:T19 Arg2:T18
+T20	Drug 1420 1428	benadryl
+T21	Drug 165 170	Sulfa
+T22	Strength 1740 1746	125 mg
+R11	Strength-Drug Arg1:T22 Arg2:T23
+T23	Drug 1747 1757	Solumedrol
+T24	Strength 1759 1764	50 mg
+R12	Strength-Drug Arg1:T24 Arg2:T26
+T26	Drug 1768 1776	Benadryl
+T27	Strength 1778 1784	1 gram
+R14	Strength-Drug Arg1:T27 Arg2:T28
+T28	Drug 1785 1792	tylenol
+T29	Drug 1794 1800	Motrin
+T30	Strength 1801 1807	800 mg
+R15	Strength-Drug Arg1:T30 Arg2:T29
+T31	Dosage 1813 1821	4 liters
+R16	Dosage-Drug Arg1:T31 Arg2:T32
+T32	Drug 1825 1838	normal saline
+T33	Drug 195 201	Ativan
+T34	Drug 2010 2013	Abx
+T35	Drug 211 219	Dilantin
+T36	Reason 2291 2306	Graves' disease
+R17	Reason-Drug Arg1:T36 Arg2:T37
+T37	Drug 2311 2319	Tapazole
+T38	Reason 6390 6395	fever
+R18	Reason-Drug Arg1:T38 Arg2:T39
+R19	Reason-Drug Arg1:T38 Arg2:T40
+R20	Reason-Drug Arg1:T38 Arg2:T41
+T39	Drug 6462 6468	fluids
+T40	Drug 6470 6483	acetaminophen
+T41	Drug 6488 6494	motrin
+T42	Drug 6496 6504	Dilantin
+T43	Drug 6514 6520	Keppra
+T44	Reason 6533 6540	seizure
+R21	Reason-Drug Arg1:T44 Arg2:T43
+T45	ADE 6628 6632	Rash
+R22	ADE-Drug Arg1:T45 Arg2:T46
+R23	ADE-Drug Arg1:T45 Arg2:T47
+T46	Drug 6685 6693	dilantin
+T47	Drug 6697 6707	famotidine
+T48	Drug 677 685	dilantin
+T49	Reason 690 709	seizure prophylaxis
+R24	Reason-Drug Arg1:T49 Arg2:T48
+T50	Drug 7097 7107	clobetasol
+T51	Drug 7109 7123	hydrocortisone
+T52	Form 7124 7129	cream
+R25	Form-Drug Arg1:T52 Arg2:T51
+T53	Drug 7131 7139	steroids
+T54	Drug 7151 7159	benadryl
+T55	Drug 7161 7166	Sarna
+T56	Drug 7171 7177	atarax
+T57	Drug 7636 7639	Abx
+T58	Drug 7667 7680	acetaminophen
+T59	Drug 7685 7691	motrin
+T60	Drug 7703 7706	IVF
+T61	Drug 8199 8212	Acetaminophen
+T62	Strength 8213 8219	325 mg
+R26	Strength-Drug Arg1:T62 Arg2:T61
+T63	Form 8220 8226	Tablet
+R27	Form-Drug Arg1:T63 Arg2:T61
+T64	Dosage 8232 8235	1-2
+R28	Dosage-Drug Arg1:T64 Arg2:T61
+T65	Form 8236 8243	Tablets
+R29	Form-Drug Arg1:T65 Arg2:T61
+T66	Route 8244 8246	PO
+R30	Route-Drug Arg1:T66 Arg2:T61
+T67	Frequency 8247 8250	Q6H
+R31	Frequency-Drug Arg1:T67 Arg2:T61
+T68	Drug 8251 8261	Famotidine
+T69	Strength 8262 8267	20 mg
+R32	Strength-Drug Arg1:T69 Arg2:T68
+T70	Form 8268 8274	Tablet
+R33	Form-Drug Arg1:T70 Arg2:T68
+T71	Dosage 8280 8287	One (1)
+R34	Dosage-Drug Arg1:T71 Arg2:T68
+T72	Form 8288 8294	Tablet
+R35	Form-Drug Arg1:T72 Arg2:T68
+T73	Route 8295 8297	PO
+R36	Route-Drug Arg1:T73 Arg2:T68
+T74	Frequency 8298 8302	Q12H
+R37	Frequency-Drug Arg1:T74 Arg2:T68
+T75	Drug 8303 8322	Metoprolol Tartrate
+T76	Strength 8323 8328	25 mg
+R38	Strength-Drug Arg1:T76 Arg2:T75
+T77	Form 8329 8335	Tablet
+R39	Form-Drug Arg1:T77 Arg2:T75
+T78	Dosage 8341 8348	One (1)
+R40	Dosage-Drug Arg1:T78 Arg2:T75
+T79	Form 8349 8355	Tablet
+R41	Form-Drug Arg1:T79 Arg2:T75
+T80	Route 8356 8358	PO
+R42	Route-Drug Arg1:T80 Arg2:T75
+T81	Frequency 8359 8362	BID
+R43	Frequency-Drug Arg1:T81 Arg2:T75
+T82	Drug 8363 8376	Hydromorphone
+T83	Strength 8377 8381	2 mg
+R44	Strength-Drug Arg1:T83 Arg2:T82
+T84	Form 8382 8388	Tablet
+R45	Form-Drug Arg1:T84 Arg2:T82
+T85	Dosage 8394 8397	1-2
+R46	Dosage-Drug Arg1:T85 Arg2:T82
+T86	Form 8398 8405	Tablets
+R47	Form-Drug Arg1:T86 Arg2:T82
+T87	Route 8406 8408	PO
+R48	Route-Drug Arg1:T87 Arg2:T82
+T88	Frequency 8409 8424	every 4-6 hours
+R49	Frequency-Drug Arg1:T88 Arg2:T82
+T89	Drug 8429 8441	Levofloxacin
+T90	Strength 8442 8448	500 mg
+R50	Strength-Drug Arg1:T90 Arg2:T89
+T91	Form 8449 8455	Tablet
+R51	Form-Drug Arg1:T91 Arg2:T89
+T92	Dosage 8461 8468	One (1)
+R52	Dosage-Drug Arg1:T92 Arg2:T89
+T93	Form 8469 8475	Tablet
+R53	Form-Drug Arg1:T93 Arg2:T89
+T94	Route 8476 8478	PO
+R54	Route-Drug Arg1:T94 Arg2:T89
+T95	Frequency 8479 8484	DAILY
+R55	Frequency-Drug Arg1:T95 Arg2:T89
+T96	Drug 8506 8531	Phenytoin Sodium Extended
+T97	Strength 8532 8538	100 mg
+R56	Strength-Drug Arg1:T97 Arg2:T96
+T98	Form 8539 8546	Capsule
+R57	Form-Drug Arg1:T98 Arg2:T96
+T99	Dosage 8552 8559	Two (2)
+R58	Dosage-Drug Arg1:T99 Arg2:T96
+T100	Form 8560 8567	Capsule
+R59	Form-Drug Arg1:T100 Arg2:T96
+T101	Route 8568 8570	PO
+R60	Route-Drug Arg1:T101 Arg2:T96
+T102	Frequency 8571 8574	BID
+R61	Frequency-Drug Arg1:T102 Arg2:T96
+T103	Drug 8591 8599	Benadryl
+T104	Drug 8627 8637	Clobetasol
+T105	Strength 8638 8642	0.05 
+R62	Strength-Drug Arg1:T105 Arg2:T104
+T106	Form 8645 8653	Ointment
+R63	Form-Drug Arg1:T106 Arg2:T104
+T107	Dosage 8659 8666	One (1)
+R64	Dosage-Drug Arg1:T107 Arg2:T104
+T108	Form 8667 8671	Appl
+R65	Form-Drug Arg1:T108 Arg2:T104
+T109	Route 8672 8679	Topical
+R66	Route-Drug Arg1:T109 Arg2:T104
+T111	Duration 8713 8724	for 2 weeks
+R68	Duration-Drug Arg1:T111 Arg2:T104
+T112	Drug 8755 8769	Hydrocortisone
+T113	Strength 8770 8773	2.5 
+R69	Strength-Drug Arg1:T113 Arg2:T112
+T114	Form 8776 8781	Cream
+R70	Form-Drug Arg1:T114 Arg2:T112
+T115	Dosage 8787 8794	One (1)
+R71	Dosage-Drug Arg1:T115 Arg2:T112
+T116	Form 8795 8799	Appl
+R72	Form-Drug Arg1:T116 Arg2:T112
+T117	Route 8800 8806	Rectal
+R73	Route-Drug Arg1:T117 Arg2:T112
+T119	Duration 8840 8851	for 2 weeks
+R75	Duration-Drug Arg1:T119 Arg2:T112
+T120	Drug 8919 8928	Ibuprofen
+T121	Strength 8929 8935	600 mg
+R76	Strength-Drug Arg1:T121 Arg2:T120
+T122	Form 8936 8942	Tablet
+R77	Form-Drug Arg1:T122 Arg2:T120
+T123	Dosage 8948 8955	One (1)
+R78	Dosage-Drug Arg1:T123 Arg2:T120
+T124	Form 8956 8962	Tablet
+R79	Form-Drug Arg1:T124 Arg2:T120
+T125	Route 8963 8965	PO
+R80	Route-Drug Arg1:T125 Arg2:T120
+T126	Frequency 8966 8978;8979 8995	Q6H (every 6 hours) as needed
+R81	Frequency-Drug Arg1:T126 Arg2:T120
+T127	Reason 9000 9005	fever
+R82	Reason-Drug Arg1:T127 Arg2:T120
+T128	Drug 9010 9029	Diphenhydramine HCl
+T129	Strength 9030 9035	25 mg
+R83	Strength-Drug Arg1:T129 Arg2:T128
+T130	Form 9036 9043	Capsule
+R84	Form-Drug Arg1:T130 Arg2:T128
+T131	Dosage 9049 9056	Two (2)
+R85	Dosage-Drug Arg1:T131 Arg2:T128
+T132	Form 9057 9064	Capsule
+R86	Form-Drug Arg1:T132 Arg2:T128
+T133	Route 9065 9067	PO
+R87	Route-Drug Arg1:T133 Arg2:T128
+T134	Frequency 9068 9093	every 6-8 hours as needed
+R88	Frequency-Drug Arg1:T134 Arg2:T128
+T135	Reason 9098 9105	itching
+R89	Reason-Drug Arg1:T135 Arg2:T128
+T136	Drug 9110 9123	Levetiracetam
+T137	Strength 9124 9130	500 mg
+R90	Strength-Drug Arg1:T137 Arg2:T136
+T138	Form 9131 9137	Tablet
+R91	Form-Drug Arg1:T138 Arg2:T136
+T139	Dosage 9143 9150	Two (2)
+R92	Dosage-Drug Arg1:T139 Arg2:T136
+T140	Form 9151 9157	Tablet
+R93	Form-Drug Arg1:T140 Arg2:T136
+T141	Route 9158 9160	PO
+R94	Route-Drug Arg1:T141 Arg2:T136
+T142	Frequency 9161 9164	BID
+R95	Frequency-Drug Arg1:T142 Arg2:T136
+T143	Drug 9218 9233	Hydroxyzine HCl
+T144	Strength 9234 9239	25 mg
+R96	Strength-Drug Arg1:T144 Arg2:T143
+T145	Form 9240 9246	Tablet
+R97	Form-Drug Arg1:T145 Arg2:T143
+T146	Dosage 9252 9259	One (1)
+R98	Dosage-Drug Arg1:T146 Arg2:T143
+T147	Form 9260 9266	Tablet
+R99	Form-Drug Arg1:T147 Arg2:T143
+T148	Route 9267 9269	PO
+R100	Route-Drug Arg1:T148 Arg2:T143
+T149	Frequency 9270 9273;9274 9299	Q6H (every 6 hours) as needed
+R101	Frequency-Drug Arg1:T149 Arg2:T143
+T150	Reason 9304 9312	pruritis
+R102	Reason-Drug Arg1:T150 Arg2:T143
+T151	Drug 9349 9357	Nystatin
+T152	Strength 9358 9373	100,000 unit/mL
+R103	Strength-Drug Arg1:T152 Arg2:T151
+T153	Form 9374 9384	Suspension
+R104	Form-Drug Arg1:T153 Arg2:T151
+T154	Dosage 9390 9398	Five (5)
+R105	Dosage-Drug Arg1:T154 Arg2:T151
+T155	Form 9399 9401	ML
+T156	Route 9402 9404	PO
+R106	Route-Drug Arg1:T156 Arg2:T151
+T157	Frequency 9405 9408	QID
+R107	Frequency-Drug Arg1:T157 Arg2:T151
+T158	Duration 9425 9435	for 7 days
+R108	Duration-Drug Arg1:T158 Arg2:T151
+T159	Drug 9469 9479	Prednisone
+T160	Strength 9480 9485	10 mg
+R109	Strength-Drug Arg1:T160 Arg2:T159
+T161	Form 9486 9492	Tablet
+R110	Form-Drug Arg1:T161 Arg2:T159
+T162	Dosage 9498 9506	Five (5)
+R111	Dosage-Drug Arg1:T162 Arg2:T159
+T163	Form 9507 9513	Tablet
+R112	Form-Drug Arg1:T163 Arg2:T159
+T164	Route 9514 9516	PO
+R113	Route-Drug Arg1:T164 Arg2:T159
+T165	Frequency 9517 9527	once a day
+R114	Frequency-Drug Arg1:T165 Arg2:T159
+T166	Duration 9528 9539	for 10 days
+R115	Duration-Drug Arg1:T166 Arg2:T159
+T167	Dosage 9546 9547	5
+R116	Dosage-Drug Arg1:T167 Arg2:T159
+T168	Form 9548 9552	tabs
+R117	Form-Drug Arg1:T168 Arg2:T159
+T169	Frequency 9553 9558	daily
+R118	Frequency-Drug Arg1:T169 Arg2:T159
+T170	Duration 9559 9571	for two days
+R119	Duration-Drug Arg1:T170 Arg2:T159
+T171	Dosage 9578 9579	4
+R120	Dosage-Drug Arg1:T171 Arg2:T159
+T172	Form 9580 9583	tab
+R121	Form-Drug Arg1:T172 Arg2:T159
+T173	Frequency 9584 9589	daily
+R122	Frequency-Drug Arg1:T173 Arg2:T159
+T174	Duration 9590 9602	for two days
+R123	Duration-Drug Arg1:T174 Arg2:T159
+T175	Dosage 9609 9610	3
+R124	Dosage-Drug Arg1:T175 Arg2:T159
+T176	Form 9611 9615	tabs
+R125	Form-Drug Arg1:T176 Arg2:T159
+T177	Frequency 9616 9621	daily
+R126	Frequency-Drug Arg1:T177 Arg2:T159
+T178	Duration 9622 9634	for two days
+R127	Duration-Drug Arg1:T178 Arg2:T159
+T179	Dosage 9641 9642	2
+R128	Dosage-Drug Arg1:T179 Arg2:T159
+T180	Form 9643 9647	tabs
+R129	Form-Drug Arg1:T180 Arg2:T159
+T181	Frequency 9648 9653	daily
+R130	Frequency-Drug Arg1:T181 Arg2:T159
+T182	Duration 9654 9666	for two days
+R131	Duration-Drug Arg1:T182 Arg2:T159
+T183	Dosage 9681 9682	1
+R132	Dosage-Drug Arg1:T183 Arg2:T159
+T184	Form 9683 9686	tab
+R133	Form-Drug Arg1:T184 Arg2:T159
+T185	Frequency 9687 9692	daily
+R134	Frequency-Drug Arg1:T185 Arg2:T159
+T186	Duration 9693 9705	for two days
+R135	Duration-Drug Arg1:T186 Arg2:T159
+R136	Form-Drug Arg1:T155 Arg2:T151	
+T25	Route 1765 1767	IV
+R13	Route-Drug Arg1:T25 Arg2:T23	

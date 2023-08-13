@@ -1,0 +1,348 @@
+T1	Drug 10061 10078	Albuterol Sulfate
+T2	Strength 10079 10099	0.083 % (0.83 mg/mL)
+R1	Strength-Drug Arg1:T2 Arg2:T1
+T3	Form 10100 10108	Solution
+R2	Form-Drug Arg1:T3 Arg2:T1
+T4	Dosage 10114 10121	One (1)
+R3	Dosage-Drug Arg1:T4 Arg2:T1
+T5	Form 10122 10131	nebulizer
+R4	Form-Drug Arg1:T5 Arg2:T1
+T6	Route 10142 10152	Inhalation
+R5	Route-Drug Arg1:T6 Arg2:T1
+T7	Frequency 10153 10172	every six (6) hours
+R6	Frequency-Drug Arg1:T7 Arg2:T1
+T8	Drug 10204 10223	Ipratropium Bromide
+T9	Strength 10224 10228	0.02 
+R7	Strength-Drug Arg1:T9 Arg2:T8
+T10	Form 10231 10239	Solution
+R8	Form-Drug Arg1:T10 Arg2:T8
+T11	Dosage 10245 10252	One (1)
+R9	Dosage-Drug Arg1:T11 Arg2:T8
+T12	Form 10253 10262	nebulizer
+R10	Form-Drug Arg1:T12 Arg2:T8
+T13	Route 10273 10283	Inhalation
+R11	Route-Drug Arg1:T13 Arg2:T8
+T14	Frequency 10284 10303	every six (6) hours
+R12	Frequency-Drug Arg1:T14 Arg2:T8
+T15	Drug 10777 10793	pain medications
+T16	Dosage 1849 1857	low dose
+R13	Dosage-Drug Arg1:T16 Arg2:T17
+T17	Drug 1858 1870	beta blocker
+T18	Reason 1875 1887	rate control
+R14	Reason-Drug Arg1:T18 Arg2:T17
+T19	Reason 2362 2392;2393 2398	gastric or pancreatico/biliary tumor
+R15	Reason-Drug Arg1:T19 Arg2:T20
+R16	Reason-Drug Arg1:T19 Arg2:T21
+T20	Drug 2444 2455	gemcitabine
+T21	Drug 2456 2466	irinotecan
+T22	Drug 2486 2498	chemotherapy
+T23	Drug 3140 3145	Lasix
+T24	Strength 3147 3152	40 mg
+R17	Strength-Drug Arg1:T24 Arg2:T23
+T25	Dosage 3154 3155	1
+R18	Dosage-Drug Arg1:T25 Arg2:T23
+T26	Drug 3252 3262	vancomycin
+T27	Strength 3263 3266	1 g
+R19	Strength-Drug Arg1:T27 Arg2:T26
+T28	Drug 3268 3278	ondasetron
+T29	Strength 3279 3283	2 mg
+R20	Strength-Drug Arg1:T29 Arg2:T28
+T30	Frequency 3284 3289	twice
+R21	Frequency-Drug Arg1:T30 Arg2:T28
+T32	Drug 3306 3322	morphine sulfate
+T33	Strength 3323 3327	4 mg
+R23	Strength-Drug Arg1:T33 Arg2:T32
+T34	Reason 424 449	metastatic adenocarcinoma
+R24	Reason-Drug Arg1:T34 Arg2:T38
+R25	Reason-Drug Arg1:T34 Arg2:T39
+T35	ADE 4583 4589	nodule
+R26	ADE-Drug Arg1:T35 Arg2:T36
+T36	Drug 4620 4627	Lovenox
+T37	Form 4628 4637	injection
+R27	Form-Drug Arg1:T37 Arg2:T36
+T38	Drug 479 490	gemcitabine
+T39	Drug 491 501	irinotecan
+T40	Reason 6957 6962	edema
+R28	Reason-Drug Arg1:T40 Arg2:T43
+R29	Reason-Drug Arg1:T40 Arg2:T41
+T41	Drug 7062 7068	oxygen
+T43	Drug 7091 7096	Lasix
+T44	Drug 7458 7470	chemotherapy
+T45	Drug 7495 7501	Gemzar
+T46	Drug 7506 7512	CPT-11
+T47	Reason 7517 7527;7528 7535	metastatic disease
+R31	Reason-Drug Arg1:T47 Arg2:T46
+R32	Reason-Drug Arg1:T47 Arg2:T45
+T48	ADE 7625 7633	diarrhea
+T49	Reason 7625 7633	diarrhea
+R34	Reason-Drug Arg1:T49 Arg2:T50
+T490	Drug 7649 7661	chemotherapy
+T50	Drug 7685 7692	Lomotil
+T51	Reason 7698 7701	DVT
+R35	Reason-Drug Arg1:T51 Arg2:T53
+T52	Reason 778 785;786 790	R flank pain
+R36	Reason-Drug Arg1:T52 Arg2:T62
+T53	Drug 7806 7813	lovenox
+T54	Drug 8191 8199	fentanyl
+T55	Strength 8200 8205	25mcg
+R37	Strength-Drug Arg1:T55 Arg2:T54
+T56	Form 8206 8211	patch
+R38	Form-Drug Arg1:T56 Arg2:T54
+T57	Reason 8216 8228	pain control
+R39	Reason-Drug Arg1:T57 Arg2:T54
+T58	Drug 8235 8244	lidocaine
+T59	Form 8245 8250	patch
+R40	Form-Drug Arg1:T59 Arg2:T58
+T60	Drug 8256 8264	morphine
+T61	Reason 8269 8286	breakthrough pain
+R41	Reason-Drug Arg1:T61 Arg2:T60
+R42	Reason-Drug Arg1:T61 Arg2:T58
+T62	Drug 830 838	fentanyl
+T63	Drug 8318 8328	Enoxaparin
+T64	Strength 8329 8341	60 mg/0.6 mL
+R43	Strength-Drug Arg1:T64 Arg2:T63
+T65	Form 8342 8349	Syringe
+R44	Form-Drug Arg1:T65 Arg2:T63
+T66	Dosage 8355 8362	One (1)
+R45	Dosage-Drug Arg1:T66 Arg2:T63
+T67	Form 8363 8372	injection
+R46	Form-Drug Arg1:T67 Arg2:T63
+T68	Route 8373 8385	Subcutaneous
+R47	Route-Drug Arg1:T68 Arg2:T63
+T69	Frequency 8386 8407	Q12H (every 12 hours)
+R48	Frequency-Drug Arg1:T69 Arg2:T63
+T70	Form 839 844	patch
+R49	Form-Drug Arg1:T70 Arg2:T62
+T71	Drug 8412 8421	Lidocaine
+T72	Strength 8422 8439	5 %(700 mg/patch)
+R50	Strength-Drug Arg1:T72 Arg2:T71
+T73	Form 8440 8465	Adhesive Patch, Medicated
+R51	Form-Drug Arg1:T73 Arg2:T71
+T74	Dosage 8471 8478	One (1)
+R52	Dosage-Drug Arg1:T74 Arg2:T71
+T75	Form 8479 8504	Adhesive Patch, Medicated
+R53	Form-Drug Arg1:T75 Arg2:T71
+T76	Route 8505 8512	Topical
+R54	Route-Drug Arg1:T76 Arg2:T71
+T77	Frequency 8513 8526	DAILY (Daily)
+R55	Frequency-Drug Arg1:T77 Arg2:T71
+T78	Drug 8531 8539	Fentanyl
+T79	Strength 8540 8549	25 mcg/hr
+R56	Strength-Drug Arg1:T79 Arg2:T78
+T80	Form 8550 8561	Patch 72 hr
+R57	Form-Drug Arg1:T80 Arg2:T78
+T81	Dosage 8567 8574	One (1)
+R58	Dosage-Drug Arg1:T81 Arg2:T78
+T82	Form 8575 8586	Patch 72 hr
+R59	Form-Drug Arg1:T82 Arg2:T78
+T83	Route 8587 8598	Transdermal
+R60	Route-Drug Arg1:T83 Arg2:T78
+T84	Frequency 8599 8620	Q72H (every 72 hours)
+R61	Frequency-Drug Arg1:T84 Arg2:T78
+T85	Drug 8625 8634	Ibuprofen
+T86	Strength 8635 8641	600 mg
+R62	Strength-Drug Arg1:T86 Arg2:T85
+T87	Form 8642 8648	Tablet
+R63	Form-Drug Arg1:T87 Arg2:T85
+T88	Dosage 8654 8661	One (1)
+R64	Dosage-Drug Arg1:T88 Arg2:T85
+T89	Form 8662 8668	Tablet
+R65	Form-Drug Arg1:T89 Arg2:T85
+T90	Route 8669 8671	PO
+R66	Route-Drug Arg1:T90 Arg2:T85
+T91	Frequency 8672 8684;8685 8701	Q6H (every 6 hours) as needed
+R67	Frequency-Drug Arg1:T91 Arg2:T85
+T92	Reason 8706 8710	pain
+R68	Reason-Drug Arg1:T92 Arg2:T85
+T93	Drug 8715 8730	Docusate Sodium
+T94	Strength 8731 8737	100 mg
+R69	Strength-Drug Arg1:T94 Arg2:T93
+T95	Form 8738 8745	Capsule
+R70	Form-Drug Arg1:T95 Arg2:T93
+T96	Dosage 8751 8758	One (1)
+R71	Dosage-Drug Arg1:T96 Arg2:T93
+T97	Form 8759 8766	Capsule
+R72	Form-Drug Arg1:T97 Arg2:T93
+T98	Route 8767 8769	PO
+R73	Route-Drug Arg1:T98 Arg2:T93
+T100	Drug 8795 8800	Senna
+T101	Strength 8801 8807	8.6 mg
+R75	Strength-Drug Arg1:T101 Arg2:T100
+T102	Form 8808 8814	Tablet
+R76	Form-Drug Arg1:T102 Arg2:T100
+T103	Dosage 8820 8827	One (1)
+R77	Dosage-Drug Arg1:T103 Arg2:T100
+T104	Form 8828 8834	Tablet
+R78	Form-Drug Arg1:T104 Arg2:T100
+T105	Route 8835 8837	PO
+R79	Route-Drug Arg1:T105 Arg2:T100
+T106	Frequency 8838 8849	ONCE (Once)
+R80	Frequency-Drug Arg1:T106 Arg2:T100
+T107	Frequency 8850 8855;8856 8861	for 1 doses
+R81	Frequency-Drug Arg1:T107 Arg2:T100
+T108	Drug 8866 8885	Metoprolol Tartrate
+T109	Strength 8886 8891	25 mg
+R82	Strength-Drug Arg1:T109 Arg2:T108
+T110	Form 8892 8898	Tablet
+R83	Form-Drug Arg1:T110 Arg2:T108
+T111	Dosage 8904 8911	One (1)
+R84	Dosage-Drug Arg1:T111 Arg2:T108
+T112	Form 8912 8918	Tablet
+R85	Form-Drug Arg1:T112 Arg2:T108
+T113	Route 8919 8921	PO
+R86	Route-Drug Arg1:T113 Arg2:T108
+T115	Drug 8945 8951	Zofran
+T116	Strength 8952 8956	4 mg
+R88	Strength-Drug Arg1:T116 Arg2:T115
+T117	Form 8957 8963	Tablet
+R89	Form-Drug Arg1:T117 Arg2:T115
+T118	Dosage 8969 8976	One (1)
+R90	Dosage-Drug Arg1:T118 Arg2:T115
+T119	Form 8977 8983	Tablet
+R91	Form-Drug Arg1:T119 Arg2:T115
+T120	Route 8984 8986	PO
+R92	Route-Drug Arg1:T120 Arg2:T115
+T122	Reason 9022 9028	nausea
+R94	Reason-Drug Arg1:T122 Arg2:T115
+T123	Drug 9058 9067	Lidocaine
+T124	Strength 9068 9085	5 %(700 mg/patch)
+R95	Strength-Drug Arg1:T124 Arg2:T123
+T125	Form 9086 9111	Adhesive Patch, Medicated
+R96	Form-Drug Arg1:T125 Arg2:T123
+T126	Dosage 9117 9124	One (1)
+R97	Dosage-Drug Arg1:T126 Arg2:T123
+T127	Form 9125 9150	Adhesive Patch, Medicated
+R98	Form-Drug Arg1:T127 Arg2:T123
+T128	Route 9151 9158	Topical
+R99	Route-Drug Arg1:T128 Arg2:T123
+T129	Frequency 9159 9172	DAILY (Daily)
+R100	Frequency-Drug Arg1:T129 Arg2:T123
+T130	Drug 9177 9185	Fentanyl
+T131	Strength 9186 9195	25 mcg/hr
+R101	Strength-Drug Arg1:T131 Arg2:T130
+T132	Form 9196 9207	Patch 72 hr
+R102	Form-Drug Arg1:T132 Arg2:T130
+T133	Dosage 9213 9220	One (1)
+R103	Dosage-Drug Arg1:T133 Arg2:T130
+T134	Form 9221 9232	Patch 72 hr
+R104	Form-Drug Arg1:T134 Arg2:T130
+T135	Route 9233 9244	Transdermal
+R105	Route-Drug Arg1:T135 Arg2:T130
+T136	Frequency 9245 9266	Q72H (every 72 hours)
+R106	Frequency-Drug Arg1:T136 Arg2:T130
+T137	Drug 9271 9282	Ondansetron
+T138	Strength 9283 9287	4 mg
+R107	Strength-Drug Arg1:T138 Arg2:T137
+T139	Form 9288 9310	Tablet, Rapid Dissolve
+R108	Form-Drug Arg1:T139 Arg2:T137
+T140	Dosage 9316 9323	One (1)
+R109	Dosage-Drug Arg1:T140 Arg2:T137
+T141	Form 9324 9331;9332 9346	Tablet, Rapid Dissolve
+R110	Form-Drug Arg1:T141 Arg2:T137
+T142	Route 9347 9349	PO
+R111	Route-Drug Arg1:T142 Arg2:T137
+T143	Frequency 9350 9375	every 6-8 hours as needed
+R112	Frequency-Drug Arg1:T143 Arg2:T137
+T144	Drug 9380 9395	Docusate Sodium
+T145	Strength 9396 9402	100 mg
+R113	Strength-Drug Arg1:T145 Arg2:T144
+T146	Form 9403 9410	Capsule
+R114	Form-Drug Arg1:T146 Arg2:T144
+T147	Dosage 9416 9423	One (1)
+R115	Dosage-Drug Arg1:T147 Arg2:T144
+T148	Form 9424 9431	Capsule
+R116	Form-Drug Arg1:T148 Arg2:T144
+T149	Route 9432 9434	PO
+R117	Route-Drug Arg1:T149 Arg2:T144
+T150	Frequency 9435 9441;9442 9454	BID (2 times a day)
+R118	Frequency-Drug Arg1:T150 Arg2:T144
+T151	Drug 9459 9469	Enoxaparin
+T152	Strength 9470 9482	60 mg/0.6 mL
+R119	Strength-Drug Arg1:T152 Arg2:T151
+T153	Form 9483 9490	Syringe
+R120	Form-Drug Arg1:T153 Arg2:T151
+T154	Dosage 9496 9509	Sixty (60) mg
+R121	Dosage-Drug Arg1:T154 Arg2:T151
+T155	Route 9510 9522	Subcutaneous
+R122	Route-Drug Arg1:T155 Arg2:T151
+T156	Frequency 9523 9544	Q12H (every 12 hours)
+R123	Frequency-Drug Arg1:T156 Arg2:T151
+T157	Drug 9549 9558	Lorazepam
+T158	Strength 9559 9565	0.5 mg
+R124	Strength-Drug Arg1:T158 Arg2:T157
+T159	Form 9566 9572	Tablet
+R125	Form-Drug Arg1:T159 Arg2:T157
+T160	Dosage 9578 9585	One (1)
+R126	Dosage-Drug Arg1:T160 Arg2:T157
+T161	Form 9586 9592	Tablet
+R127	Form-Drug Arg1:T161 Arg2:T157
+T162	Route 9593 9595	PO
+R128	Route-Drug Arg1:T162 Arg2:T157
+T163	Frequency 9596 9609;9610 9619	DAILY (Daily) as needed
+R129	Frequency-Drug Arg1:T163 Arg2:T157
+T164	Reason 9624 9630	Nausea
+R130	Reason-Drug Arg1:T164 Arg2:T157
+T165	Drug 9635 9646	Megace Oral
+T166	Strength 9647 9655	40 mg/mL
+R131	Strength-Drug Arg1:T166 Arg2:T165
+T167	Form 9656 9666	Suspension
+R132	Form-Drug Arg1:T167 Arg2:T165
+T168	Dosage 9672 9683	Ten (10) mL
+T169	Route 9684 9686	PO
+R133	Route-Drug Arg1:T169 Arg2:T165
+T170	Frequency 9687 9693;9694 9697	once a day
+R134	Frequency-Drug Arg1:T170 Arg2:T165
+T171	Drug 9702 9707	Senna
+T172	Strength 9708 9714	8.6 mg
+R135	Strength-Drug Arg1:T172 Arg2:T171
+T173	Form 9715 9721	Tablet
+R136	Form-Drug Arg1:T173 Arg2:T171
+T174	Dosage 9727 9734	One (1)
+R137	Dosage-Drug Arg1:T174 Arg2:T171
+T175	Form 9735 9741	Tablet
+R138	Form-Drug Arg1:T175 Arg2:T171
+T176	Drug 974 982	fentanyl
+T177	Route 9742 9744	PO
+R139	Route-Drug Arg1:T177 Arg2:T171
+T178	Frequency 9745 9759;9760 9774	BID (2 times a day) as needed
+R140	Frequency-Drug Arg1:T178 Arg2:T171
+T179	Reason 9779 9791	constipation
+R141	Reason-Drug Arg1:T179 Arg2:T171
+T180	Drug 9796 9815	Metoprolol Tartrate
+T181	Strength 9816 9821	25 mg
+R142	Strength-Drug Arg1:T181 Arg2:T180
+T182	Form 9822 9828	Tablet
+R143	Form-Drug Arg1:T182 Arg2:T180
+T183	Form 983 988	patch
+R144	Form-Drug Arg1:T183 Arg2:T176
+T184	Dosage 9834 9841	One (1)
+R145	Dosage-Drug Arg1:T184 Arg2:T180
+T185	Form 9842 9848	Tablet
+R146	Form-Drug Arg1:T185 Arg2:T180
+T186	Route 9849 9851	PO
+R147	Route-Drug Arg1:T186 Arg2:T180
+T187	Frequency 9852 9855;9856 9871	TID (3 times a day)
+R148	Frequency-Drug Arg1:T187 Arg2:T180
+T188	Drug 9877 9884	Lomotil
+T189	Strength 9885 9897	2.5-0.025 mg
+R149	Strength-Drug Arg1:T189 Arg2:T188
+T190	Form 9898 9904	Tablet
+R150	Form-Drug Arg1:T190 Arg2:T188
+T191	Dosage 9910 9917	One (1)
+R151	Dosage-Drug Arg1:T191 Arg2:T188
+T192	Form 9918 9924	Tablet
+R152	Form-Drug Arg1:T192 Arg2:T188
+T193	Route 9925 9927	PO
+R153	Route-Drug Arg1:T193 Arg2:T188
+T194	Reason 9965 9973	diarrhea
+R154	Reason-Drug Arg1:T194 Arg2:T188
+R155	Reason-Drug Arg1:T19 Arg2:T22	
+R156	Reason-Drug Arg1:T47 Arg2:T44	
+R33	ADE-Drug Arg1:T48 Arg2:T490	
+R157	Dosage-Drug Arg1:T168 Arg2:T165	
+T31	Route 7088 7090	IV
+R22	Route-Drug Arg1:T31 Arg2:T43	
+T42	Frequency 8987 9006;9008 9017	every six (6) hours as needed
+R30	Frequency-Drug Arg1:T42 Arg2:T115	
+T99	Reason 7702 7704	PE
+R74	Reason-Drug Arg1:T99 Arg2:T53	

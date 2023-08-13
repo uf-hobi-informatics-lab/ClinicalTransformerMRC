@@ -1,0 +1,345 @@
+Admission Date:  [**2124-4-27**]              Discharge Date:   [**2124-4-29**]
+
+Date of Birth:  [**2049-2-1**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Ambien / Avodart
+
+Attending:[**First Name3 (LF) 1881**]
+Chief Complaint:
+epistaxis
+
+Major Surgical or Invasive Procedure:
+nasal packing by ENT
+
+History of Present Illness:
+75 yo M with a history of mechanical AVR and MVR, afib on
+coumadin who complains of epistaxis. The patient was cleaning
+his nose this morning, and his nose started bleeding. He has
+never had issues with nose bleeds or GI bleeds before. Notably,
+the patient saw his PCP [**Last Name (NamePattern4) **] [**2124-4-18**]. Routine labs showed BUN of
+112 and Cr of 2.3. It was thought that his lasix dose of 80mg po
+bid was too much. He was told to hold the lasix and repeat his
+labs. Repeat labs from [**4-26**] showed BUN 130 and Cr of 2.1.
+.
+In the ED, Labs notable for INR 3.9, Hct 27 down from bl(32),
+but found to have ARF w K 6.2. Trop 0.05. ED course complicated
+by hypotension to SBP 50s, fluid responsive, now SBP 100s w 3L
+fluid, found to have UTI, ? urosepsis, with 18gauge IVx2. EKG:
+paced @60, no ST/Twave changes, no peaked Ts. ENT did Silver
+nitrate + affrin, found bleeding to be intermittent, requiring
+packing. Given D50, insulin, ca gluconate repeat 4.2->5.6 CXR no
+acute process. UA c/w UTI, Blood and urine culture and was
+started on zosyn. FS<70, likely [**1-12**] to poor clearance of insulin
+in setting of renal failure, continue D50 prn. 98.3 65 94/45 18
+100% on RA.
+.
+In the ICU, patient without complaints. Denies CP, SOB, cough,
+fever, chills, N/V/D. His epistaxis stopped once being packed in
+ED. Denied dysuria. Reports being fatigued since coming in. He
+c/o itching throughout body.
+.
+REVIEW OF SYSTEMS:
+(+) Per HPI
+(-) Denies fever, chills, night sweats. Denies headache, sinus
+tenderness, rhinorrhea or congestion. Denies chest pain or
+tightness, palpitations. Denies cough, shortness of breath, or
+wheezes. Denies diarrhea. No recent change in bowel or bladder
+habits. Denies rashes or skin breakdown. No numbness/tingling in
+extremities. No feelings of depression or anxiety. All other
+systems reviewed in detail with no significant findings.
+
+Past Medical History:
+# Mechanical MVR/AVR ([**2098**]) [**1-12**] rheumatic fever
+# Atrial fibrillation s/p AV node ablation, biventricular pacer
+
+([**2115**]) on anticoagulation
+# s/pw ith a history of a rectosigmoid polyp
+resection and subsequent rectal bleeding with multiple
+sigmoidoscopies c/b perforation requiring a Hartmann procedure
+[**2123-10-25**]
+# Biventricular pacer
+# Dyslipidemia
+# HTN
+# COPD
+# Asthma
+# GERD
+# Osteoarthritis
+# Bilateral total knee replacements [**1-12**] OA
+# Gout
+# Hypothyroidism [**1-12**] amiodarone
+# Chronic Kidney Disease Stage II, baseline cr 1.6
+# anemia
+# Melanoma
+# obesity
+# ETOH use
+# insomnia
+# hemorrhoids
+# h/o cellulitis
+# h/o MRSA PNA
+# osteopenia
+# # s/p Cholecystectomy
+# s/p Appendectomy
+
+Social History:
+Lives with wife.
+# Professional: Retired construction worker.
+# Tobacco: 1ppd x 15y, quit [**2083**].
+# Alcohol: Former binge alcohol abuse x30y (hard liquor), quit
+mid [**2102**]. last drank 3 mo ago- 3 drinks at that time
+# Recreational drugs: Experimental mescaline in youth.
+
+Family History:
+# Mother d 85: Asthma
+# Father d 99 [**10-21**]: PAD, HTN
+# Siblings (5B, 2S): HTN, unknown, rheumatic fever
+
+
+Physical Exam:
+VS: 96.5 84 134/44 18 100%RA
+GEN: AOx3, NAD
+[**Month/Year (2) 4459**]: PERRLA. MMM. no LAD. JVP to 8cm. neck supple.
+Cards: RRR, mechanical S1/S2. 1-2/6 holosytolic murmur best
+heard at LLSB, no gallops/rubs.
+Pulm: No dullness to percussion, CTAB no crackles or wheezes
+Abd: soft, NT, +BS. no rebound/guarding. neg HSM. neg [**Doctor Last Name 515**]
+sign. Colostomy in place in LLQ.
+Extremities: wwp,trace edema. DPs, PTs 2+.
+Skin: erythema in b/l LE, no rashes or bruising
+Neuro/Psych: CNs II-XII intact. 5/5 strength in U/L extremities.
+DTRs 2+ BL. sensation intact to LT, cerebellar fxn intact (FTN,
+HTS). gait WNL.
+
+Pertinent Results:
+1. Admission labs:
+[**2124-4-26**] 11:25AM BLOOD WBC-7.0 RBC-3.36* Hgb-9.7* Hct-28.9*
+MCV-86 MCH-28.9 MCHC-33.6 RDW-18.4* Plt Ct-188
+[**2124-4-26**] 11:25AM BLOOD Neuts-62.4 Lymphs-21.9 Monos-7.0 Eos-8.1*
+Baso-0.5
+[**2124-4-26**] 11:25AM BLOOD PT-35.6* INR(PT)-3.6*
+[**2124-4-26**] 11:25AM BLOOD UreaN-130* Creat-2.1* Na-140 K-5.6*
+Cl-110* HCO3-18* AnGap-18
+[**2124-4-27**] 07:00PM BLOOD ALT-19 AST-22 AlkPhos-102 TotBili-0.7
+[**2124-4-27**] 04:35PM BLOOD cTropnT-0.03*
+[**2124-4-27**] 09:30AM BLOOD cTropnT-0.04*
+[**2124-4-27**] 07:00PM BLOOD Calcium-8.8 Phos-3.2 Mg-1.7
+[**2124-4-26**] 11:25AM BLOOD %HbA1c-5.6 eAG-114
+.
+2. Discharge labs:
+[**2124-4-29**] 06:20AM BLOOD WBC-6.4 RBC-2.94* Hgb-8.3* Hct-25.6*
+MCV-87 MCH-28.3 MCHC-32.4 RDW-19.0* Plt Ct-160
+[**2124-4-29**] 06:20AM BLOOD PT-24.9* PTT-31.3 INR(PT)-2.4*
+[**2124-4-29**] 06:20AM BLOOD Glucose-89 UreaN-40* Creat-1.0 Na-139
+K-5.2* Cl-111* HCO3-20* AnGap-13
+.
+Imaging:
+- CXR ([**2124-4-27**]): No acute pulmonary process. Resolved pleural
+effusion.
+Otherwise, stable exam with no acute process.
+.
+- Renal ultrasound ([**2124-4-28**]): *** Preliminary read *** No
+hydronephrosis. Multiple simple renal cysts.
+.
+
+
+Brief Hospital Course:
+75 yo M with a history of mechanical AVR and MVR, afib on
+Coumadin, who presents with epistaxis also found to have
+hypotension, hyperkalemia, and ARF.
+.
+#Hypotension: The patient had hypotension to the 50s in the
+emergency department, which was transient and fluid responsive.
+The etiology was thought to be hypovolemia. Lasix was held, and
+the patient was admitted to the MICU for hemodynamic monitoring.
+He had no further hypotension.
+.
+#Epistaxis: The patient presented with epistaxis, which was
+treated with Afrin, silver nitrate, and packing in the emergency
+department.
+.
+#Acute kidney injury: Differential diagnosis included pre-renal
+and obstructive etiology. A foley catheter was placed. Lasix was
+held. Renal ultrasound showed no hydronephrosis but some benign
+cysts which should be followed by primary care doctor. Renal
+function completely recovered. He will follow-up with outpatient
+urologist after discharge.
+.
+#Hyperkalemia: The patient presented with potassium 6.1 in the
+setting of acute renal failure. He was given calcium, insulin,
+and glucose in the emergency department. In the MICU, he
+received Kayexalate. Enalapril was held. Potassium level
+normalized prior to discharge. He never developed EKG changes.
+.
+#Urinary tract infection: Treated initially with ceftriaxone and
+switched to nitrofurantoin prior to discharge based on urine
+culture sensitivities to complete a 7-day course.
+.
+# Rash/peripheral eosinophilia: Rash on both arms started prior
+to admission. Suspected to be a drug reaction and offending
+[**Doctor Last Name 360**] (Avodart) was stopped. Patient treated symptomatically.
+.
+# Atrial fibrillation: Coumadin initially held given
+supratherapeutic INR. Re-started prior to discharge and patient
+instructed to follow-up closely with [**Hospital 197**] clinic.
+.
+#BPH: Held tamsulosin given foley. Foley removed and restarted
+tamsulosin prior to discharge.
+
+Medications on Admission:
+-allopurinol 300 mg po daily
+-colchicine-probenecid 0.5-500mg po daily --> held
+-ipratropium-albuterol inh q6h PRN SOB
+-Combivent inh [**Hospital1 **] --> held
+-enalapril 20 mg po bid --> held
+-levothyroxine 88 mcg po daily
+-metoprolol succinate 50 mg po daily
+-pantoprazole 40 mg po q12h --> stopped
+-tamsulosin 0.4 mg po qhs --> held
+-tizanidine 4 mg po qhs --> held
+-warfarin 7.5 mg po daily --> held
+-ferrous sulfate 300 mg (60 mg Iron) po daily --> 325 mg pill
+- fluticasone-salmeterol 250-50 mcg/dose Disk inh [**Hospital1 **]
+-furosemide 80 mg po bid on home --> held
+-fluticasone 50 mcg nasal daily
+-Ciclopirox- 0.77 % Gel - apply to abdomen folds twice a day
+-Clobetasol - 0.05 % Cream
+-Hydroxyzine 25mg po qhs PRN
+-Nystatin- 100,000 unit/gram Powder - as directed daily
+-Omeprazole 40mg po daily
+-Trazodone 25-50mg po qhs PRN
+-Docusate 100mg po daily
+
+Discharge Medications:
+1. allopurinol 300 mg Tablet Sig: One (1) Tablet PO once a day.
+
+2. Combivent 18-103 mcg/Actuation Aerosol Sig: [**12-12**] puff
+Inhalation four times a day.
+3. ipratropium-albuterol 0.5 mg-3 mg(2.5 mg base)/3 mL Solution
+for Nebulization Sig: One (1) ampule Inhalation four times a day
+as needed for shortness of breath or wheezing: 1 ampule in
+nebulizer up to qid as needed for lung disease flare .
+4. levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig:
+One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+6. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1)
+Capsule, Ext Release 24 hr PO at bedtime.
+7. tizanidine 4 mg Tablet Sig: One (1) Tablet PO at bedtime.
+8. warfarin 7.5 mg Tablet Sig: One (1) Tablet PO 5X/WEEK ([**Doctor First Name **],
+TU, WE, TH, SA).
+9. warfarin 5 mg Tablet Sig: One (1) Tablet PO 2X/WEEK (MO,FR).
+
+10. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1)
+Tablet PO once a day.
+11. Advair Diskus 250-50 mcg/dose Disk with Device Sig: One (1)
+whiff Inhalation twice a day.
+12. fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1)
+Spray Nasal DAILY (Daily).
+13. hydroxyzine HCl 25 mg Tablet Sig: One (1) Tablet PO at
+bedtime as needed for itching.
+14. ciclopirox 0.77 % Gel Sig: One (1) application Topical twice
+a day: Apply to abdomen folds.
+15. clobetasol 0.05 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2
+times a day).
+16. docusate sodium 100 mg Tablet Sig: One (1) Capsule PO BID (2
+times a day).
+17. trazodone 50 mg Tablet Sig: 0.5-1 Tablet PO HS (at bedtime)
+as needed for insomnia.
+18. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+19. nitrofurantoin macrocrystal 100 mg Capsule Sig: One (1)
+Capsule PO four times a day for 5 days: Please take from [**4-28**] -
+[**2124-5-4**].
+Disp:*20 Capsule(s)* Refills:*0*
+20. camphor-menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+QID (4 times a day) as needed for pruritis.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Epistaxis
+Atrial fibrillation
+Acute renal failure
+Hyperkalemia
+Hypotension
+Urinary tract infection
+Skin rash
+.
+SECONDARY DIAGNOSES:
+COPD
+Benign prostatic hypertrophy
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Mr. [**Known lastname **], you were admitted to the [**Hospital1 1170**] because you were having a nosebleed. We also found that
+your kidneys were not working well and the level of potassium in
+your blood was very high. We put in a catheter to help drain the
+urine in your bladder and your kidney function improved. We did
+an ultrasound of your kidneys were showed that they were not
+swollen. You had an urinary tract infection and we gave you
+antibiotics to treat that which you should continue after your
+leave the hospital.
+.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more
+than 3 lbs.
+.
+We found some small kidney cysts on ultrasound. Please ask your
+primary care doctor to follow-up on them.
+.
+MEDICATIONS:
+ADDED:
+- Nitrofurantoin 100 mg by mouth four times a day from [**2124-4-28**] -
+[**2124-5-4**]
+- Sarna cream as needed for rash
+CHANGED: none
+HELD (please speak to your primary care doctor [**First Name (Titles) **] [**Last Name (Titles) 9533**]
+them):
+- Colchicine-probenecid 0.5-500 mg by mouth per day
+- Enalapril 20 mg by mouth twice a day
+- Furosemide 80 mg by mouth twice a day
+REMOVED:
+- pantoprazole 40 mg by mouth twice a day
+
+Followup Instructions:
+Please make an appointment and follow-up with your primary care
+doctor within the next week.
+.
+Please also make an appointment and follow-up with your
+urologist Dr. [**Last Name (STitle) 770**] within the next week.
+.
+Please make sure to go to [**Hospital 197**] clinic on [**2124-5-1**] to have
+your Coumadin level checked and dose adjusted accordingly.
+.
+Department: MEDICAL SPECIALTIES
+When: WEDNESDAY [**2124-5-3**] at 11:00 AM
+With: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 9316**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: CARDIAC SERVICES
+When: [**Hospital Ward Name **] [**2124-5-22**] at 9:00 AM
+With:  DEVICE CLINIC [**Telephone/Fax (1) 62**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: CARDIAC SERVICES
+When: [**Hospital Ward Name **] [**2124-5-22**] at 10:00 AM
+With: [**Year (4 digits) **] [**Telephone/Fax (1) 62**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1882**] MD, [**MD Number(3) 1883**]
+
+Completed by:[**2124-4-29**]

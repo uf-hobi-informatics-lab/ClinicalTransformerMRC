@@ -1,0 +1,107 @@
+T1	Drug 4363 4370	Lithium
+T2	Strength 4371 4377	300 mg
+T3	Frequency 4383 4389	b.i.d.
+T4	Route 4378 4382	p.o.
+T5	Drug 4422 4430	Protonix
+T6	Strength 4431 4436	40 mg
+T7	Route 4437 4441	p.o.
+T8	Drug 3398 3404	Haldol
+T9	Strength 3405 3409	2 mg
+T10	Drug 3335 3345	Wellbutrin
+T11	Drug 3688 3695	Haldol.
+T12	Drug 3529 3535	Haldol
+T13	Strength 3536 3540	5 mg
+T14	Frequency 3546 3552	b.i.d.
+T15	Route 3541 3545	p.o.
+T16	Drug 4394 4400	Haldol
+T17	Strength 4401 4405	5 mg
+T18	Frequency 4411 4417	b.i.d.
+T19	Route 4406 4410	p.o.
+T20	Drug 4331 4339	Dilantin
+T21	Strength 4340 4346	100 mg
+T22	Frequency 4352 4358	t.i.d.
+T23	Route 4347 4351	p.o.
+T24	Drug 2924 2931	Ativan.
+T25	Drug 739 743;744 751	Depo Provera
+T26	Drug 718 727	Ibuprofen
+T27	Drug 692 702	Wellbutrin
+T28	Frequency 707 713	b.i.d.
+T29	Drug 757 763	Ativan
+T30	Frequency 768 774	b.i.d.
+T31	Drug 3350 3356	Ativan
+T32	Drug 3479 3486	lithium
+T33	Strength 3487 3493	300 mg
+T34	Frequency 3499 3505	b.i.d.
+T35	Route 3494 3498	p.o.
+T36	Drug 4459 4466	Tylenol
+T37	Route 4471 4475	p.o.
+T38	Drug 3676 3683	lithium
+T39	Drug 817 824	Codeine
+T40	Reason 3435 3444	agitation
+T41	Reason 4497 4506	headaches
+T42	Strength 703 706	100
+T43	Strength 764 767	0.5
+T44	Drug 786 792	Promex
+T45	Frequency 799 802	q.d
+T46	Strength 793 798	40 mg
+T47	Reason 2818 2834	severe agitation
+T48	Drug 2913 2919	Haldol
+T50	Frequency 3413 3429	t.i.d. and p.r.n
+T51	Frequency 4442 4453	q. 24 hours
+T52	Strength 4467 4470	650
+T53	Frequency 4476 4496	q. four hours p.r.n.
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Frequency-Drug Arg1:T3 Arg2:T1
+R3	Route-Drug Arg1:T4 Arg2:T1
+R4	Strength-Drug Arg1:T6 Arg2:T5
+R5	Route-Drug Arg1:T7 Arg2:T5
+R6	Strength-Drug Arg1:T9 Arg2:T8
+R7	Strength-Drug Arg1:T13 Arg2:T12
+R8	Frequency-Drug Arg1:T14 Arg2:T12
+R9	Route-Drug Arg1:T15 Arg2:T12
+R10	Strength-Drug Arg1:T17 Arg2:T16
+R11	Frequency-Drug Arg1:T18 Arg2:T16
+R12	Route-Drug Arg1:T19 Arg2:T16
+R13	Strength-Drug Arg1:T21 Arg2:T20
+R14	Frequency-Drug Arg1:T22 Arg2:T20
+R15	Route-Drug Arg1:T23 Arg2:T20
+R16	Frequency-Drug Arg1:T28 Arg2:T27
+R17	Frequency-Drug Arg1:T30 Arg2:T29
+R18	Strength-Drug Arg1:T33 Arg2:T32
+R19	Frequency-Drug Arg1:T34 Arg2:T32
+R20	Route-Drug Arg1:T35 Arg2:T32
+R21	Route-Drug Arg1:T37 Arg2:T36
+R22	Frequency-Drug Arg1:T45 Arg2:T44
+R23	Strength-Drug Arg1:T46 Arg2:T44
+R24	Strength-Drug Arg1:T43 Arg2:T29
+R25	Strength-Drug Arg1:T42 Arg2:T27
+R26	Reason-Drug Arg1:T47 Arg2:T24
+R27	Reason-Drug Arg1:T47 Arg2:T48
+R28	Frequency-Drug Arg1:T50 Arg2:T8
+R30	Reason-Drug Arg1:T40 Arg2:T8
+R31	Frequency-Drug Arg1:T51 Arg2:T5
+R32	Frequency-Drug Arg1:T53 Arg2:T36
+R33	Reason-Drug Arg1:T41 Arg2:T36
+R34	Strength-Drug Arg1:T52 Arg2:T36
+T54	Reason 2839 2852	hallucinating
+T55	Reason 3631 3639	delirium
+T56	Frequency 728 734	p.r.n.
+T57	ADE 826 830	rash
+T58	Drug 3372 3380	narcotic
+T59	ADE 3166 3175	delirious
+T60	Reason 3166 3175	delirious
+T61	Drug 4030 4037	steroid
+T62	Strength 4078 4082	2 mg
+T63	Route 4083 4087	p.o.
+T64	Frequency 4088 4094	b.i.d.
+R35	Reason-Drug Arg1:T60 Arg2:T58
+R36	Frequency-Drug Arg1:T64 Arg2:T61
+R37	Route-Drug Arg1:T63 Arg2:T61
+R38	Strength-Drug Arg1:T62 Arg2:T61
+R39	Frequency-Drug Arg1:T56 Arg2:T26	
+R40	ADE-Drug Arg1:T57 Arg2:T39	
+R41	ADE-Drug Arg1:T59 Arg2:T48	
+R42	Reason-Drug Arg1:T60 Arg2:T24	
+R43	Reason-Drug Arg1:T55 Arg2:T38	
+T49	Route 3410 3412	IV
+R29	Route-Drug Arg1:T49 Arg2:T8	

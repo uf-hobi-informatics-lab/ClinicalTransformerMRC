@@ -1,0 +1,70 @@
+T1	Drug 474 484;484 492	Carbidopa/ levodopa
+T2	Form 507 513	tablet
+T3	Dosage 503 506	one
+T4	Frequency 519 525	t.i.d.
+T5	Route 514 518	p.o.
+T6	Drug 405 413	Docusate
+T7	Strength 414 420	100 mg
+T8	Frequency 426 432;433 437	b.i.d. prn.
+T9	Route 421 425	p.o.
+T10	Drug 1049 1056	Lithium
+T11	Drug 280 287	Heparin
+T12	Dosage 288 299	5,000 units
+T13	Drug 313 326	Acetaminophen
+T14	Strength 327 333	325 mg
+T15	Form 338 345	tablets
+T16	Dosage 334 337	1-2
+T17	Route 346 350	p.o.
+T18	Strength 447 453	8.6 mg
+T19	Frequency 459 465;466 470	b.i.d. prn.
+T20	Route 454 458	p.o.
+T21	Strength 543 550	100 mcg
+T22	Route 551 555	p.o.
+T23	Drug 564 574;574 593	Valsartan/ hydrochlorothiazide
+T24	Form 609 615	tablet
+T25	Dosage 605 608	one
+T26	Route 616 620	p.o.
+T27	Strength 378 384	2.5 mg
+T28	Frequency 390 396;397 401	q.i.d. prn.
+T29	Route 385 389	p.o.
+T30	Drug 367 376;376 377	Olanzapin e
+T31	Route 300 304	subq
+T32	Frequency 305 309	q.8.
+T33	Frequency 351 363	q.4-6h- prn.
+T34	Drug 441 446	Senna
+T35	Strength 493 502	25/100 mg
+T36	Drug 529 542	Levothyroxine
+T37	Frequency 556 560	q.d.
+T38	Strength 594 604	80/12.5 mg
+T39	Frequency 621 625	q.d.
+R1	Form-Drug Arg1:T2 Arg2:T1
+R2	Dosage-Drug Arg1:T3 Arg2:T1
+R3	Frequency-Drug Arg1:T4 Arg2:T1
+R4	Route-Drug Arg1:T5 Arg2:T1
+R5	Strength-Drug Arg1:T7 Arg2:T6
+R6	Frequency-Drug Arg1:T8 Arg2:T6
+R7	Route-Drug Arg1:T9 Arg2:T6
+R8	Dosage-Drug Arg1:T12 Arg2:T11
+R9	Strength-Drug Arg1:T14 Arg2:T13
+R10	Form-Drug Arg1:T15 Arg2:T13
+R11	Dosage-Drug Arg1:T16 Arg2:T13
+R12	Route-Drug Arg1:T17 Arg2:T13
+R13	Strength-Drug Arg1:T18 Arg2:T34
+R14	Frequency-Drug Arg1:T19 Arg2:T34
+R15	Route-Drug Arg1:T20 Arg2:T34
+R16	Strength-Drug Arg1:T21 Arg2:T36
+R17	Route-Drug Arg1:T22 Arg2:T36
+R18	Form-Drug Arg1:T24 Arg2:T23
+R19	Dosage-Drug Arg1:T25 Arg2:T23
+R20	Route-Drug Arg1:T26 Arg2:T23
+R21	Strength-Drug Arg1:T27 Arg2:T30
+R22	Frequency-Drug Arg1:T28 Arg2:T30
+R23	Route-Drug Arg1:T29 Arg2:T30
+R24	Frequency-Drug Arg1:T32 Arg2:T11
+R25	Route-Drug Arg1:T31 Arg2:T11
+R26	Frequency-Drug Arg1:T33 Arg2:T13
+R27	Strength-Drug Arg1:T35 Arg2:T1
+R28	Frequency-Drug Arg1:T37 Arg2:T36
+R29	Frequency-Drug Arg1:T39 Arg2:T23
+R30	Strength-Drug Arg1:T38 Arg2:T23
+T40	Drug 904 934	thyroid replacement medication

@@ -1,0 +1,69 @@
+T1	Dosage 1217 1219	3L
+R1	Dosage-Drug Arg1:T1 Arg2:T2
+T2	Drug 1220 1226	IVF NS
+T4	Drug 1254 1257	abx
+T5	Drug 1272 1280	cefepime
+T6	Strength 1281 1283	1g
+R3	Strength-Drug Arg1:T6 Arg2:T5
+T7	Drug 1285 1295	vancomycin
+T8	Strength 1296 1298	1g
+R4	Strength-Drug Arg1:T8 Arg2:T7
+T9	Drug 1304 1316	levofloxacin
+T10	Strength 1317 1322	750mg
+R5	Strength-Drug Arg1:T10 Arg2:T9
+T12	Drug 1340 1348	benadryl
+T13	ADE 1353 1383	extremity erythema and itching
+T14	Reason 1353 1383	extremity erythema and itching
+R8	Reason-Drug Arg1:T14 Arg2:T12
+T140	Drug 1416 1426	vancomycin
+T15	Drug 1475 1482	tylenol
+T16	Reason 1487 1492	fever
+R9	Reason-Drug Arg1:T16 Arg2:T15
+T17	Dosage 1623 1625	3L
+R10	Dosage-Drug Arg1:T17 Arg2:T18
+T18	Drug 1626 1632	NS IVF
+T19	Drug 165 170	Sulfa
+T20	ADE 1665 1672	sedated
+R11	ADE-Drug Arg1:T20 Arg2:T21
+T21	Drug 1686 1694	benadryl
+T22	Drug 172 195	Sulfonamide Antibiotics
+T23	Drug 1780 1783	IVF
+T24	Drug 1788 1791	abx
+T25	ADE 1832 1842	somnolence
+R12	ADE-Drug Arg1:T25 Arg2:T27
+T27	Drug 1852 1860	benadryl
+T28	Drug 199 207	Percocet
+T29	Drug 210 217	Lipitor
+T30	Drug 220 225	Zocor
+T31	Drug 228 236	Levaquin
+T32	Drug 2961 2970	tamoxifen
+T33	Reason 3010 3031	stage I breast cancer
+R14	Reason-Drug Arg1:T33 Arg2:T32
+T34	Drug 3116 3125	erlotinib
+T35	Strength 3126 3136	150 mg/day
+R15	Strength-Drug Arg1:T35 Arg2:T34
+T36	ADE 3220 3224	rash
+R16	ADE-Drug Arg1:T36 Arg2:T34
+T37	Drug 3787 3796	erlotinib
+T38	Reason 3826 3835	breast ca
+R17	Reason-Drug Arg1:T38 Arg2:T39
+T39	Drug 3870 3879	tamoxifen
+T40	Reason 8708 8739	healthcare-associated pneumonia
+R18	Reason-Drug Arg1:T40 Arg2:T41
+T41	Drug 8845 8856	antibiotics
+T43	Drug 8980 8985	fluid
+T44	Reason 8986 8999	resuscitation
+R20	Reason-Drug Arg1:T44 Arg2:T43
+T45	Drug 9036 9047	antibitoics
+T46	Reason 9169 9180	hypotensive
+R21	Reason-Drug Arg1:T46 Arg2:T47
+T47	Drug 9210 9222	vasopressors
+R7	ADE-Drug Arg1:T13 Arg2:T140	
+T3	Route 1251 1253	IV
+R2	Route-Drug Arg1:T3 Arg2:T4	
+T11	Route 1323 1325	IV
+R6	Route-Drug Arg1:T11 Arg2:T9	
+T26	Route 1849 1851	IV
+R13	Route-Drug Arg1:T26 Arg2:T27	
+T42	Route 8977 8979	IV
+R19	Route-Drug Arg1:T42 Arg2:T43	

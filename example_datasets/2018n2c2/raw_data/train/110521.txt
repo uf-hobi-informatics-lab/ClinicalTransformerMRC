@@ -1,0 +1,382 @@
+Admission Date:  [**2112-10-12**]              Discharge Date:   [**2112-10-21**]
+
+Date of Birth:  [**2032-7-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2009**]
+Chief Complaint:
+Hematemasis
+
+Major Surgical or Invasive Procedure:
+Esophagogastroduodenoscopy
+
+History of Present Illness:
+80F with past medical of history of gastric ulcer, right
+peroneal DVT in [**2111**] on indefinite anti-coagulation with
+warfarin which has been held since [**2112-6-14**] in setting of
+multiple admission to OSH for melanotic stools, PVD s/p multiple
+lower extremity revascularization, hypertension, hyperlipidemia,
+presenting with one day history of vomiting blood x 1 and
+melanotic stool x 5 who presents as a transfer from the MICU to
+[**Hospital1 139**] B wards.
+
+Briefly, she presented 2 days ago with hematemsis and melana x1
+day and was sent in by her PCP. [**Name10 (NameIs) **] the ED, she was transfused 2U
+pRBC (Hct 23 on admission, baseline 33).  She was admitted to
+the ICU. Post transfusion Hct 29, then down to 27, another 1U
+pRBC, then Hct 30. EGD showed gastric ulcers with likely recent
+bleed, but no intervention was undertaken except for biopsies
+which are still spending. GI service was consulted and
+recommended [**Hospital1 **] IV PPI. She was Briefly electively intubated for
+EGD for concerns of airway protection, then extubated without
+complication. She has not been hypotensive since admision, and
+atually was hypertensive to SBP200s due to discontinuing home BP
+meds, and got IV labetalol. She has now been restarted on home
+oral PO meds. Her stay in the ICU was unfortunately complicated
+by a fever to 101.6- repeat CXR after extubation showed a
+possible LLL infiltrate vs. effusion vs. atelectasis which was
+suspicious for VAP and she was started on cefepime Vancomycin
+today on [**10-14**]. Of note, she was scheduled for lower extremity
+PVD revascularization, and the GI and vascular surgery services
+have been coordinating her outpatient antiplatelet regimen in
+the setting of this GI bleed
+Pt is feeling well today and says she does not feel light
+headed, dizzy, or fatigued. She reports no abdominal pain right
+now. (States her presenting symptom other than hematemesis and
+melena was only fatigue, no pain).
+Review of systems:
+(+) Per HPI, unintentional weight loss (25 lb over last year),
+fatigue
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain,
+or changes in bowel habits. Denies dysuria, frequency, or
+urgency. Denies arthralgias or myalgias. Denies rashes or skin
+changes.
+
+
+Past Medical History:
+PAD with re-stenosis of renal artery stent and bypass graft,
+Hypertension, hyperlipidemia, remote h/o seizure disorder,
+carotid disease, renal artery stenosis s/p bilateral renal
+artery stenting with atrophic L kidney, non-Hodgkin's lymphoma
+s/p chemotherapy [**2096**], R peroneal DVT [**2111**] on warfarin.
+
+Past Surgical History:
+[**2097**]: Bilateral renal artery stents.
+[**2106**]: Right CFA to proximal PT artery bypass with in situ GSV
+[**2107**]: Redo right femoral to AK popliteal with 8-mm PTFE, R AK
+popliteal to PT with right cephalic vein graft
+[**2107**]: Right femoral endarterectomy with Dacron patch angioplasty
+of proximal anastomosis of the fem-AK-[**Doctor Last Name **] bypass. Revision patch
+angioplasty with vein of the distal anastomosis of the
+fem-AK-[**Doctor Last Name **] bypass into the proximal anastomosis of the
+above-the-knee popliteal to PT bypass.
+[**2109**]: Left CFA and SFA endarterectomy. Left CIA and EIA stent
+and angioplasty. Left CFA to proximal AT artery bypass with in
+situ SVG.
+[**2109**]: Redo right femoral-popliteal bypass.
+[**2110**]: Angioplasty of right renal artery stenosis within the
+previously placed stent.  Angioplasty of right CFA stenosis.
+[**2110**]: Repair of left brachial pseudoaneurysm.
+[**2110**]: Stenting of left common iliac artery.
+[**2111**]: Right iliofemoral bypass with  8 mm propaten graft.
+
+
+Social History:
+Lives in [**Location (un) **] with her husband. Supportive family.
+Independent in ADLs.  Does not smoke, drink, or use illicit
+substances.
+
+
+Family History:
+Mother and Grandfather with PVD
+
+Physical Exam:
+Admission Physical Exam
+VS: 150/37; 66; 97RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRLA
+Neck: supple, JVP elevated to jaw, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, III/VI SEM loudest
+at LUSB with radiation to bilateral carotids, rubs, gallops
+Lungs: Crackles up 1/2 of lung fields bilaterally
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+GU: Foley in place
+Ext: warm, well perfused, DP/PT pulses dopplerable, no clubbing,
+cyanosis or edema
+Neuro: CNII-XII intact, Motor grossly intact
+
+Discharge Exam
+VS: 98.8 162/50 58 18 98% RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRLA
+Neck: supple, JVP elevated above clavicle, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, III/VI SEM loudest
+at LUSB with radiation to bilateral carotids, rubs, gallops
+Lungs: CTAB
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+Ext: warm, well perfused, DP/PT pulses dopplerable, no clubbing,
+cyanosis or edema, post-operative scars noted biterally
+Neuro: CNII-XII intact, Motor grossly intact
+
+
+Pertinent Results:
+Admission labs
+
+[**2112-10-12**] 05:53PM   GLUCOSE-137* UREA N-42* CREAT-1.0 SODIUM-144
+POTASSIUM-3.6 CHLORIDE-107 TOTAL CO2-33* ANION GAP-8
+[**2112-10-12**] 07:19PM   WBC-4.2 RBC-2.63*# HGB-7.4*# HCT-23.1*#
+MCV-88 MCH-28.3 MCHC-32.2 RDW-16.2*
+[**2112-10-12**] 07:19PM   NEUTS-40* BANDS-0 LYMPHS-41 MONOS-15* EOS-4
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2112-10-12**] 07:19PM   HYPOCHROM-3+ ANISOCYT-1+ POIKILOCY-1+
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL
+OVALOCYT-OCCASIONAL TARGET-2+ BURR-OCCASIONAL
+ACANTHOCY-OCCASIONAL
+[**2112-10-12**] 05:53PM   PT-10.5 PTT-30.6 INR(PT)-1.0
+
+Discharge Labs
+[**2112-10-21**] 06:30AM BLOOD WBC-7.3# RBC-3.43* Hgb-9.7* Hct-30.2*
+MCV-88 MCH-28.2 MCHC-32.1 RDW-15.8* Plt Ct-123*
+[**2112-10-21**] 06:30AM BLOOD Glucose-101* UreaN-20 Creat-1.0 Na-140
+K-4.2 Cl-105 HCO3-29 AnGap-10
+
+Micro
+[**2112-10-13**]  Blood Culture, Routine-PENDING 	
+[**2112-10-13**]  Blood Culture, Routine-PENDING
+URINE CULTURE (Final [**2112-10-15**]):    NO GROWTH.
+HELICOBACTER PYLORI ANTIBODY TEST (Final [**2112-10-14**]): NEGATIVE BY
+EIA.
+CYTOMEGALOVIRUS EARLY ANTIGEN TEST (SHELL VIAL METHOD) (Pending)
+
+Reports
+EGD
+Impression: Varix at the mid-esophagus. Multiple Gastric ulces
+(biopsy, biopsy) Otherwise normal EGD to second part of the
+duodenum
+
+CXR PA And Lateral
+Mild-to-moderate cardiomegaly is stable.  Small bilateral
+pleural effusions
+are unchanged allowing the difference in positioning of the
+patient.
+Bibasilar opacity is likely atelectasis larger on the left.
+Pneumonia cannot be excluded.  There is no pneumothorax.  The
+aorta is tortuous.
+
+Pathology
+A.  Gastric body biopsy:
+
+    Focal mild acute and chronic inflammation and focally
+dilated glands, some with necrotic cells
+
+B.  Antrum biopsy:
+
+    Focal minimal chronic inflammation.
+
+
+Brief Hospital Course:
+Assessment and Plan:
+80F with past medical of history of gastric ulcer, right
+peroneal DVT in [**2111**] on indefinite anti-coagulation with
+warfarin which has been held since [**2112-6-14**] in setting of
+multiple admission to OSH for melanotic stools, PVD s/p multiple
+lower extremity revascularization, hypertension, hyperlipidemia,
+presenting with upper GIB confirmed on EGD during this admission
+
+
+# Upper GI bleed, gastric ulcers
+Patient presented reporting signs and symptoms of upper GIB with
+melanotic stool and hematemsis and was supported by significant
+BUN/Cr dissociation. The patient underwent EGD which showed
+multiple ulcers in the stomach with evidence of recent bleed.
+She was transfused 3 U pRBCs during the admission- two in the ED
+and one in the MICU, and put on IV PPI and sucralfate.  Patient
+was hemodynamically stable throughout with and hematocrits held
+around 30.
+
+#VAP/Hypoxia
+She developed a fever in the MICU,  and given that it was 24 hrs
+after intubtation with question of an infiltrate on CXR, she was
+started on cefepime and vancomycin which she received for 24
+hrs.  These meds were d/ced on the floor as repeat CXR did not
+show good evidence of pneumonia and she did not look clinically
+infected. She was treated empirically with Vancomycin 75 mg q 12
+and Cefepime 1 g q 12 hr.  A repeat CXR PA and Lateral was
+obtained which was not impressive for an infiltrate- the patient
+remained asymptomatic and afebrile so the abx were discontinued
+at 24 hrs.  However, on exam the patient was noted to have
+crackles about halfway up on both lung fields.  She was given a
+one time IV dose of lasix and restarted on her home regimen.
+Her oxygen requirements were optimized by the time of discharge
+and she was on her home lasix regimen.
+
+#Drug-induced Pancytopenia
+Patient has had thrombocytopenia on past labs of uncertain
+etiology.  She was noted to have downtrending WBCs to 1.6 by [**10-15**]
+and was technically still anemic.  A smear noted some occasional
+schistocytes but hemolysis labs were negative.  Hematology was
+consulted and thought the vancomycin or cefepime was causing
+marrow toxicity.  She was monitored for the next few days until
+her counts began to increase.  They went up to WBC 2.6 21%
+neutrophils (ANC still below 1000).  Per heme recs she was given
+1 dose of neupogen.  Her CBC then increased to WBC 7.1 with
+almost 70% neutrophils.  She was discharged with close follow up
+with her hematologist.Her CBC was closely monitored during her
+hospital stay.
+
+# Hypertension
+The patient's home blood pressure medications were held when
+admitted to the ICU for concern of GIB.  She actually became
+hypertensive during this time.  Upon arrival to the floor her
+home BP meds were restarted as below.  She remained stable,
+although with an episode of overnight hypertension 2 days prior
+to discharge.
+- diovan 320 mg PO qD
+- labetalol 100 mg PO TID
+- nidefipine ER 60 mg PO qD
+
+#PVD: Patient was originally scheduled to have a revision of a
+previous vascular surgery during the time frame of her
+admission.  This was obviously postponed, but the issue of her
+anticoagulation remained.  She had a prior DVT which she takes
+warfarin for but this has been held since [**Month (only) 116**] due to recurrent
+GI bleeds.  The vascular surgery team expressed they would like
+her anticoagulated for her PVD.  After consulting with both GI
+and Vascular it was decided that she could go out on plavix, and
+hold aspirin given her risk of rethrombosis in her vascular
+stents combined with the stability of the bleed.
+
+
+# Acute renal insufficiency
+Patient has baseline Cr ~ 0.7 with admission Cr 1, which came
+down to 0.9- no issues since admission
+
+CHRONIC ISSUES
+
+# Chronic back pain
+- continued tramadol prn
+
+# Hyperlipidemia
+- continued statin, ezetimibe
+
+# History of DVT
+- We held warfarin as above
+
+Transitional Issues
+-She will follow up with hematology in 3 days for repeat cbc.
+-Patient has blood cultures and urine cultures that need follow
+up
+-She should also be optimized on home BP meds for better
+hypertension control
+
+Medications on Admission:
+Preadmissions medications listed are incomplete and require
+futher investigation.  Information was obtained from webOMR.
+1. Atorvastatin 80 mg PO DAILY
+2. Ezetimibe 10 mg PO DAILY
+3. FoLIC Acid 1 mg PO DAILY
+4. Furosemide 40 mg PO DAILY
+5. Labetalol 100 mg PO TID
+6. NIFEdipine CR 60 mg PO DAILY
+7. Omeprazole 20 mg PO DAILY
+8. Potassium Chloride 20 mEq PO DAILY Duration: 24 Hours
+Hold for K >
+9. Scopolamine Patch 1 PTCH TP ONCE Duration: 1 Doses
+10. Sucralfate 1 gm PO UNDEFINED
+11. TraMADOL (Ultram) 50 mg PO UNDEFINED prn
+12. Valsartan 160 mg PO BID
+13. Warfarin 2 mg PO DAILY16
+
+
+Discharge Medications:
+1. Atorvastatin 80 mg PO DAILY
+2. FoLIC Acid 1 mg PO DAILY
+3. Labetalol 100 mg PO TID
+4. NIFEdipine CR 60 mg PO DAILY
+5. Omeprazole 20 mg PO BID
+RX *omeprazole 20 mg 1 capsule(s) by mouth twice a day Disp #*60
+Capsule Refills:*0
+6. Sucralfate 1 gm PO UNDEFINED
+7. TraMADOL (Ultram) 50 mg PO UNDEFINED prn
+8. Valsartan 160 mg PO BID
+9. Clopidogrel 75 mg PO DAILY
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30
+Tablet Refills:*0
+10. Ezetimibe 10 mg PO DAILY
+11. Furosemide 60 mg PO BID
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Upper GI bleed from gastric ulcer
+Pancytopenia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+
+
+Discharge Instructions:
+Mrs [**Known lastname 68391**],
+
+You were admitted to [**Hospital1 69**] for
+melanotic stools and hematemesis and were found to have an upper
+gastrointestinal bleed.  You were given 2 units of blood in the
+emergency department and then transferred to the ICU and given 1
+unit of blood.  The gastroenterologists took you down for an
+endoscopy which showed a recently bleeding ulcer- they took
+biopsies of it which showed inflammation- there was no other
+intervention performed.  You were briefly given antibiotics for
+pneumonia but were taken off after 24 hrs treatment.  Your WBCs
+were noted to be abnormally low and a hematology consult was
+obtained.  It was thought that either the vancomycin or cefepime
+caused your low blood counts.  We watched them for a few days
+and they struggled to increase.  You received one dose of
+neupogen, which helps stimulate the bone marrow, and were
+cleared for discharge as your WBC increased to 7.1 with almost
+60% neutrophils.
+
+The following changes have been made to your medications:
+
+It was a pleasure taking care of you while at [**Hospital1 18**]
+
+Followup Instructions:
+You have an appointment on Monday [**10-24**] at 2 pm with
+the nurse practitioner [**First Name8 (NamePattern2) **] [**Last Name (Titles) **] hematology/oncology.  Please
+make this appointment.  You also have an appointment with Dr.
+[**Last Name (STitle) 68392**] listed as below.
+
+Name: [**Last Name (LF) 54376**],[**First Name3 (LF) **] A
+Address: [**Location (un) 54379**], [**Location (un) **],[**Numeric Identifier 54380**]
+Phone: [**Telephone/Fax (1) 54377**]
+Appt:  [**Last Name (LF) 2974**], [**10-28**] at 1:45pm
+
+Name: [**Last Name (LF) **],[**Name8 (MD) **] MD
+Location: [**Hospital1 **] HEMATOLOGY/ONCOLOGY
+Address: 8 [**Doctor Last Name **] DR, [**Location (un) **],[**Numeric Identifier 68393**]
+Phone: [**Telephone/Fax (1) 60339**]
+Appt:  [**11-3**] at 12pm
+****The office is working on a sooner appt for you and will call
+you at home when one becomes available.
+
+Department: DIV. OF GASTROENTEROLOGY
+When: TUESDAY [**2112-11-8**] at 1:40 PM
+With: [**Name6 (MD) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 463**]
+Building: Ra [**Hospital Unit Name 1825**] ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) **]
+Campus: EAST     Best Parking: Main Garage
+
+
+

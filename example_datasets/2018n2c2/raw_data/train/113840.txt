@@ -1,0 +1,295 @@
+Admission Date:  [**2188-9-7**]              Discharge Date:   [**2188-9-9**]
+
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Codeine
+
+Attending:[**First Name3 (LF) 1253**]
+Chief Complaint:
+bright red blood per rectum
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+[**Age over 90 **] yo male with a pmh of a-fib on coumadin, and dCHF who began
+having crampy abdominal pain last night and BRBPR starting at
+11pm. He described the pain as diffuse, crampy abdominal pain,
+not worse in any particular area, and bright red blood mixed
+with brown stool last night. He denies any fevers, chills, CP,
+cough, dysuria, myalgias, or shortness of breath. He is a little
+tired and feels "chilled" this AM. Otherwise negative review of
+systems.
+.
+In the ED: No active bleeding was noted, his HCT dropped from
+31->24 since [**2188-9-3**]. Labs also notable for INR of 3.6. His BPs
+were initially 88 systolic, he got 1L NS, 2units FFP (2nd
+running at transfer), no red cells, and BPs responded to around
+100 systolic. EKG showed Twave flattening, he had a trop of 0.08
+(baseline 0.07). GI rec'd CTA which showed diverticulosis, no
+active extravasation, streak artifact from hip. There was late
+phase filling in the spleen which was not thought to be a site
+of active bleeding. He received vitamin K 10mg, and Protonix 40
+IV. While receiving the first unit of FFP he had itching and
+hives, for which he got 50mg of Benadryl which caused AMS, now
+resolved. Continued FFP. 18 and 16 PIV. Transfer vitals 81
+106/60 19 100% 4L. small blood around meatus.
+.
+On the floor, he was comfortable sitting up in bed, in no acute
+distress. He is answering questions appropriately with his son
+at the bedside. His only complaint is of crampy adbominal pain.
+.
+Review of systems:
+Per HPI. All else negative
+
+
+Past Medical History:
+diastolic Heart Failure
+Memory impairment
+Right femoral neck fracture s/p hemiarthroplasty [**2185-9-8**]
+AFib on coumadin
+Diverticulosis
+BPH
+basal cell carcinoma
+seborrheic keratosis
+s/p inguinal hernia repair
+s/p R cataract surgery
+s/p L 3rd/4th finger surgery - [**2176**]
+
+
+Social History:
+Lives [**Location 6409**] originally from [**Location (un) **]. He worked in a
+chocolate factory. His sons take turns staying the night with
+him. He lost his wife in [**2188-3-25**]. Occasional ETOH. Was
+drafted in WW2, and on account of his pigeon breeding hobby, he
+was asked to lead the pigeon corps.
+- Tobacco:  previous history
+- Alcohol:  occassional
+- Illicits:  denies
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: 81 106/60 19 100% 4L
+General: Alert, oriented, no acute distress, pale, very thin
+HEENT: Sclera anicteric, mildly dry MM, oropharynx clear,
+multiple fillings, all his own teeth
+Neck: supple, JVP ~8cm, no LAD
+Lungs: Clear to auscultation bilaterally with decreased breath
+sounds at right base
+CV: irregularly irregular with a normal rate, soft II/VI SEM at
+USB
+Abdomen: soft, mildly tender diffusely, thin, scaphoid,
+non-distended, bowel sounds present, no rebound tenderness or
+guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, doplerable pulses, no clubbing,
+cyanosis or edema
+
+DISCHARGE PHYSICAL EXAM:
+VS: 98.6  110/80  84  18  94%RA
+General: Very thin elderly man lying in bed in NAD
+HEENT: Sclera anicteric, mildly dry MM, oropharynx clear
+Neck: supple, JVP ~6cm
+Lungs: CTAB w no wheezes, rales or rhonchi
+CV: irregularly irregular with a normal rate, soft II/VI SEM at
+USB
+Abdomen: soft, BS+, thin, non-distended, non-tender, no rebound
+tenderness or guarding, no organomegaly
+Ext: warm, well perfused
+Rectal: dark brown/black stool, guaiac positive
+
+Pertinent Results:
+LABS:
+
+Admission Labs:
+[**2188-9-7**] 06:00AM BLOOD WBC-6.8 RBC-3.29* Hgb-7.2* Hct-24.0*
+MCV-73* MCH-21.8* MCHC-29.9* RDW-19.2* Plt Ct-201
+[**2188-9-7**] 06:00AM BLOOD PT-35.4* PTT-32.0 INR(PT)-3.6*
+[**2188-9-7**] 06:00AM BLOOD Glucose-121* UreaN-45* Creat-1.2 Na-136
+K-4.3 Cl-101 HCO3-27 AnGap-12
+
+Cardiac biomarkers:
+[**2188-9-7**] 06:00AM BLOOD cTropnT-0.08*
+
+Hct trend:
+[**2188-9-8**] 08:49   28.6*
+[**2188-9-8**] 02:53   25.6*
+[**2188-9-7**] 15:29   29.9*
+[**2188-9-7**] 06:00   24.0*
+[**2188-9-3**] 09:46   31.6*
+
+Discharge labs:
+[**2188-9-9**] 06:25AM BLOOD WBC-6.7 RBC-3.68* Hgb-9.1* Hct-27.9*
+MCV-76* MCH-24.9* MCHC-32.8 RDW-19.4* Plt Ct-135*
+[**2188-9-9**] 06:25AM BLOOD UreaN-36* Creat-1.2 Na-136 K-4.0 Cl-103
+HCO3-29 AnGap-8
+
+
+IMAGING:
+
+CTA ABD W&W/O C & RECONS Study Date of [**2188-9-7**] 7:04 AM
+IMPRESSION:
+
+1. Extensive sigmoid diverticulosis without signs of acute
+diverticulitis.  No CTA signs of active bleeding within the
+small or large bowel lumen, though limited evaluation in the
+bowel loops in the pelvis due to streak artifact from adjacent
+right hip total arthroplasty.
+
+2. Stable bilateral pleural effusions, large on the right and
+moderate on the left.
+
+3. Focal enhancement in the posterior spleen on delayed phase
+images,
+possible hemangioma or AV malformation.
+
+
+Brief Hospital Course:
+[**Age over 90 **] year old male with a pmh of a-fib and dCHF on coumadin and
+aspirin who presented with a lower GI bleed in the setting of a
+supratherapeutic INR.
+
+ACTIVE ISSUES:
+
+GI bleed: Likely due to known severe diverticulosis, exacerbated
+by supratherapeutic INR from coumadin, as well as being on
+aspirin.  Source is most likely lower given BRBPR mixed with
+stool. However, his BUN/Cr ratio was elevated, though this
+relationship has been present in historical blood draws. He was
+given FFP and 10 mg Vitamin K in the ED and subsequently sent to
+the MICU. He had a maroon bowel movement x1 in the MICU and
+received 2 units PRBCs with an appropriate increase. CTA showed
+diverticulosis with no signs of active bleeding.  His vitals and
+hematocrit remained stable, no further episodes of bloody bowel
+movements.  The patient was offered colonoscopy, however upon
+discussion with his son, he decided that he would rather not
+undergo the procedure.  Given that he was medically stable and
+his bleed was likely due to diverticulosis in the setting of
+supratherapeutic INR, this seemed a perfectly reasonable choice.
+ He was warned, however, that the CTA could not adequately rule
+out other sources of bleeding such as AVM or new malignancy that
+has evolved since last colonoscopy in [**2178**] (though this is
+unlikely).  He should follow up with his PCP as an outpatient to
+have hematocrit checked and ensure that he is no longer having
+blood in his BMs.
+
+Atrial fibrillation: Has a history of a-fib, and has been on
+coumadin since [**2185**] (CHADS2 score is 2). Mildly supratherapeutic
+INR to 3.6 in ED. In setting of LGIB, INR was reversed with
+vitamin K and FFP.  Coumadin held while inpatient, continued
+rate control w metoprolol. The patient was instructed to not
+restart the coumadin until his follow up with PCP, [**Name10 (NameIs) 3**] he will
+need to discuss with him the risks/benefits of continuing
+coumadin in the the setting of GI bleed.
+
+INACTIVE ISSUES:
+
+Diastolic CHF, chronic: Appeared euvolemic with a stable right
+sided pleural effusion. Given GI bleed, lasix, lisinopril
+(recently DC'd) and metoprolol were initially held.  Metoprolol
+restarted at half dose, lasix and lisinopril were not restarted
+on discharge.  Defer decision on restarting to PCP.
+
+TRANSFER OF CARE ISSUES:
+- GI bleed: recheck hgb/hct as outpatient, consider outpatient
+colonoscopy if patient continues to have blood w his BMs
+- Coumadin:  assess risks and benefits prior to restarting.
+Because his INR was reversed and coumadin stopped, he will need
+heparin bridging if he is to restart therapy.
+
+Medications on Admission:
+furosemide 20 mg Tablet; 0.5 tabs PO daily
+lisinopril 2.5 mg Tablet; 1 tab PO daily (on hold this week for
+hypotension)
+metoprolol succinate 25 mg Tab; 1 tab PO daily
+warfarin 1 mg tab; 1 to 2 tabs PO daily as directed by md
+
+ascorbic acid 500 mg tab; 1 tab PO daily
+aspirin 81 mg tab; 1 tab PO daily
+calcium carbonate [Tums] 3 tabs daily
+cholecalciferol (vitamin D3); 1,000 unit capsule; 1 cap PO daily
+docusate sodium 100 mg Capsule; 1 Capsule PO BID
+vitamin A-vitamin C-vit E-min; 1 Tablet PO twice a day
+
+
+Discharge Medications:
+1. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+2. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. vitamin A-vitamin C-vit E-min     Tablet Sig: One (1) Tablet
+PO once a day.
+4. Vitamin C 500 mg Tablet Sig: One (1) Tablet PO once a day.
+5. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+6. Tums 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO three times a day.
+7. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: One (1)
+Tablet PO once a day.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] VNA
+
+Discharge Diagnosis:
+Primary
+- Gastrointestinal Bleed
+- Supratherapeutic INR
+
+Secondary
+- Atrial Fibrillation
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Dear Mr. [**Last Name (Titles) 101773**],
+
+You were admitted to the [**Hospital1 18**] because of bleeding with your
+stool. You required transfusions of blood and blood products.
+You had a high INR - or coumadin level. We believe that this INR
+contributed to the bleeding but the [**Last Name **] problem was likely in
+the colon, possibly diverticulosis. We discussed the risks and
+benefits of a colonoscopy and ultimately you decided to discuss
+this with your regular doctors.
+
+Moving forward, we ask you to do the following:
+1. STOP Coumadin
+2. STOP Lisinopril
+3. REDUCE the dose of your Metoprolol to a HALF pill twice daily
+(12.5 mg)
+4. STOP Lasix (at least until your primary care appointment)
+
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+Department: [**State **]When: FRIDAY [**2188-9-12**] at 10:00 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 8428**], MD [**Telephone/Fax (1) 2205**]
+Building: [**State **] ([**Location (un) **], MA) [**Location (un) **]
+Campus: OFF CAMPUS     Best Parking: On Street Parking
+*This is a follow up appointment of your hospitalization. You
+will be reconnected with your primary care physician after this
+visit.
+
+Department: CARDIAC SERVICES
+When: MONDAY [**2188-10-6**] at 9:00 AM
+With: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] [**Telephone/Fax (1) 62**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+

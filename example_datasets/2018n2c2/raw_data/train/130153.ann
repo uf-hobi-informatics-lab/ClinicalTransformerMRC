@@ -1,0 +1,18 @@
+T1	Drug 1138 1145	Effexor
+T2	Drug 1147 1153	BuSpar
+T3	Drug 1159 1167	Seroquel
+T4	Drug 1712 1718	Haldol
+T5	Drug 1725 1732	Effexor
+T6	Drug 1762 1768	BuSpar
+T7	Drug 1779 1787	Seroquel
+T8	Drug 1945 1951	Haldol
+T9	Reason 645 652	anxious
+R1	Reason-Drug Arg1:T9 Arg2:T10
+T10	Drug 677 683	Valium
+T11	Drug 722 730	sedation
+T12	Reason 775 784;785 792	agitation anxiety
+R2	Reason-Drug Arg1:T12 Arg2:T11
+T13	ADE 806 829	depressed mental status
+R3	ADE-Drug Arg1:T13 Arg2:T14
+T14	Drug 843 851	sedation
+T15	Drug 978 984	Haldol

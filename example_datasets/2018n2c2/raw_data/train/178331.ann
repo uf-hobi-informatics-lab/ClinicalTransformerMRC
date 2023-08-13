@@ -1,0 +1,279 @@
+T1	Drug 8967 8973	Colace
+T2	Strength 8974 8980	100 mg
+T3	Form 9002 9009	Capsule
+T4	Route 9010 9012	PO
+T5	Drug 8845 8853	Atenolol
+T6	Strength 8854 8859	50 mg
+T7	Form 8880 8886	Tablet
+T8	Route 8887 8889	PO
+T9	Strength 9629 9635	100 mg
+T10	Form 9656 9662	Tablet
+T11	Route 9663 9665	PO
+T12	Drug 7824 7831	Lipitor
+T13	Drug 8595 8601	Colace
+T14	Strength 8602 8608	200 mg
+T15	Route 8609 8611	PO
+T16	Drug 7445 7452	Aspirin
+T17	Drug 1176 1184	Atropine
+T18	Form 1218 1223	units
+T19	Drug 7833 7840	Aspirin
+T20	Drug 2202 2210	Coumadin
+T21	Drug 10269 10277	Coumadin
+T22	Drug 9029 9036	Aspirin
+T23	Strength 9037 9042	81 mg
+T24	Drug 9506 9514	Prilosec
+T25	Strength 9515 9520	40 mg
+T26	Drug 9251 9270	Hydrochlorothiazide
+T27	Strength 9271 9276	25 mg
+T28	Form 9293 9299	Tablet
+T29	Dosage 9289 9292	0.5
+T30	Route 9300 9302	PO
+T31	Drug 9380 9390	Lisinopril
+T32	Strength 9391 9396	40 mg
+T33	Form 9417 9423	Tablet
+T34	Route 9424 9426	PO
+T35	Drug 8615 8622	Ecotrin
+T36	Strength 8623 8628	81 mg
+T37	Route 8629 8631	PO
+T38	Drug 6697 6705	Coumadin
+T39	Drug 7852 7858	Diovan
+T40	Strength 9155 9160	75 mg
+T41	Drug 8756 8765	Trazodone
+T42	Strength 8766 8772	200 mg
+T43	Route 8773 8775	PO
+T44	Drug 7864 7874	Lisinopril
+T45	Drug 8735 8743	Prilosec
+T46	Strength 8744 8749	40 mg
+T47	Route 8750 8752	PO
+T48	Drug 8254 8260	Haldol
+T49	Drug 7361 7369	Coumadin
+T50	Drug 709 717	Coumadin
+T51	Drug 8908 8914	Diovan
+T52	Strength 8915 8921	160 mg
+T53	Form 8942 8948	Tablet
+T54	Route 8949 8951	PO
+T55	Drug 8780 8788	Warfarin
+T56	Drug 7842 7850	Atenolol
+T57	Drug 8146 8154	Fentanyl
+T58	Drug 164 181	Erythromycin Base
+T59	Drug 7611 7618	aspirin
+T60	Drug 8635 8642	Effexor
+T61	Strength 8643 8649	150 mg
+T62	Route 8650 8652	PO
+T63	Drug 8676 8683	Lipitor
+T64	Strength 8684 8689	40 mg
+T65	Route 8690 8692	PO
+T66	Drug 9321 9328	Lipitor
+T67	Strength 9329 9334	40 mg
+T68	Form 9355 9361	Tablet
+T69	Route 9362 9364	PO
+T70	Drug 8554 8562	Atenolol
+T71	Strength 8563 8568	50 mg
+T72	Route 8569 8571	PO
+T73	Drug 3948 3955	Heparin
+T74	Drug 8430 8437	insulin
+T75	Drug 8696 8706	Lisinopril
+T76	Strength 8707 8712	40 mg
+T77	Route 8713 8715	PO
+T78	Drug 8575 8581	Diovan
+T79	Strength 8582 8588	160 mg
+T80	Route 8589 8591	PO
+T82	Reason 3970 3985	anticoagulation
+T83	Drug 184 190	Nsaids
+T84	Reason 678 697	atrial fibrillation
+T85	Reason 6674 6693	atrial fibrillation
+T86	Drug 8657 8661	HCTZ
+T87	Strength 8662 8669	12.5 mg
+T88	Route 8670 8672	PO
+T89	Frequency 8673 8675	QD
+T90	Drug 8719 8722	MVI
+T91	Dosage 8723 8724	1
+T92	Form 8725 8728	tab
+T93	Route 8729 8731	PO
+T94	Frequency 8732 8734	QD
+T95	Frequency 8776 8779	QHS
+T96	Frequency 8753 8755	QD
+T97	Frequency 8716 8718	QD
+T98	Frequency 8693 8695	QD
+T99	Frequency 8653 8656	QHS
+T100	Frequency 8632 8634	QD
+T101	Frequency 8612 8614	QD
+T102	Frequency 8592 8594	QD
+T103	Frequency 8572 8574	QD
+T104	Form 8860 8866	Tablet
+T105	Frequency 8890 8903	DAILY (Daily)
+T106	Dosage 8872 8879	One (1)
+T107	Form 8922 8928	Tablet
+T108	Dosage 8934 8941	One (1)
+T109	Frequency 8952 8962	once a day
+T110	Form 8981 8988	Capsule
+T111	Dosage 8994 9001	One (1)
+T112	Frequency 9013 9024	twice a day
+T113	Form 9043 9073	Tablet, Delayed Release (E.C.)
+T114	Dosage 9079 9086	One (1)
+T115	Form 9087 9117	Tablet, Delayed Release (E.C.)
+T116	Route 9118 9120	PO
+T117	Frequency 9121 9134	DAILY (Daily)
+T118	Drug 9139 9154	Venlafaxine HCl
+T119	Form 9161 9188	Capsule, Sust. Release 24HR
+T120	Dosage 9194 9197;9198 9201	Two (2)
+T121	Form 9202 9229	Capsule, Sust. Release 24HR
+T122	Route 9230 9232	PO
+T123	Frequency 9233 9246	DAILY (Daily)
+T124	Form 9277 9283	Tablet
+T125	Frequency 9303 9308;9309 9316	DAILY (Daily)
+T126	Form 9335 9341	Tablet
+T127	Dosage 9347 9354	One (1)
+T128	Frequency 9365 9375	once a day
+T129	Form 9397 9403	Tablet
+T130	Dosage 9409 9416	One (1)
+T131	Frequency 9427 9437	once a day
+T132	Drug 9442 9455	Multi-Vitamin
+T133	Form 9460 9466	Tablet
+T134	Dosage 9472 9479	One (1)
+T135	Form 9480 9486	Tablet
+T136	Route 9487 9489	PO
+T137	Frequency 9490 9500	once a day
+T138	Form 9521 9551	Capsule, Delayed Release(E.C.)
+T139	Dosage 9557 9564	One (1)
+T140	Form 9565 9595	Capsule, Delayed Release(E.C.)
+T141	Route 9596 9598	PO
+T142	Frequency 9599 9609	once a day
+T143	Drug 9615 9628	Trazodone HCl
+T144	Form 9636 9642	Tablet
+T145	Dosage 9648 9655	Two (2)
+T146	Frequency 9666 9668;9669 9676	at bedtime
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Form-Drug Arg1:T3 Arg2:T1
+R3	Route-Drug Arg1:T4 Arg2:T1
+R4	Strength-Drug Arg1:T6 Arg2:T5
+R5	Form-Drug Arg1:T7 Arg2:T5
+R6	Route-Drug Arg1:T8 Arg2:T5
+R7	Strength-Drug Arg1:T14 Arg2:T13
+R8	Route-Drug Arg1:T15 Arg2:T13
+R9	Strength-Drug Arg1:T23 Arg2:T22
+R10	Strength-Drug Arg1:T25 Arg2:T24
+R11	Strength-Drug Arg1:T27 Arg2:T26
+R12	Form-Drug Arg1:T28 Arg2:T26
+R13	Dosage-Drug Arg1:T29 Arg2:T26
+R14	Route-Drug Arg1:T30 Arg2:T26
+R15	Strength-Drug Arg1:T32 Arg2:T31
+R16	Form-Drug Arg1:T33 Arg2:T31
+R17	Route-Drug Arg1:T34 Arg2:T31
+R18	Strength-Drug Arg1:T36 Arg2:T35
+R19	Route-Drug Arg1:T37 Arg2:T35
+R20	Strength-Drug Arg1:T42 Arg2:T41
+R21	Route-Drug Arg1:T43 Arg2:T41
+R22	Strength-Drug Arg1:T46 Arg2:T45
+R23	Route-Drug Arg1:T47 Arg2:T45
+R24	Strength-Drug Arg1:T52 Arg2:T51
+R25	Form-Drug Arg1:T53 Arg2:T51
+R26	Route-Drug Arg1:T54 Arg2:T51
+R27	Strength-Drug Arg1:T61 Arg2:T60
+R28	Route-Drug Arg1:T62 Arg2:T60
+R29	Strength-Drug Arg1:T64 Arg2:T63
+R30	Route-Drug Arg1:T65 Arg2:T63
+R31	Strength-Drug Arg1:T67 Arg2:T66
+R32	Form-Drug Arg1:T68 Arg2:T66
+R33	Route-Drug Arg1:T69 Arg2:T66
+R34	Strength-Drug Arg1:T71 Arg2:T70
+R35	Route-Drug Arg1:T72 Arg2:T70
+R36	Strength-Drug Arg1:T76 Arg2:T75
+R37	Route-Drug Arg1:T77 Arg2:T75
+R38	Strength-Drug Arg1:T79 Arg2:T78
+R39	Route-Drug Arg1:T80 Arg2:T78
+R40	Reason-Drug Arg1:T84 Arg2:T50
+R41	Frequency-Drug Arg1:T103 Arg2:T70
+R42	Frequency-Drug Arg1:T102 Arg2:T78
+R43	Frequency-Drug Arg1:T101 Arg2:T13
+R44	Frequency-Drug Arg1:T100 Arg2:T35
+R45	Frequency-Drug Arg1:T99 Arg2:T60
+R46	Strength-Drug Arg1:T87 Arg2:T86
+R47	Route-Drug Arg1:T88 Arg2:T86
+R48	Frequency-Drug Arg1:T89 Arg2:T86
+R49	Frequency-Drug Arg1:T98 Arg2:T63
+R50	Frequency-Drug Arg1:T97 Arg2:T75
+R51	Dosage-Drug Arg1:T91 Arg2:T90
+R52	Form-Drug Arg1:T92 Arg2:T90
+R53	Route-Drug Arg1:T93 Arg2:T90
+R54	Frequency-Drug Arg1:T94 Arg2:T90
+R55	Frequency-Drug Arg1:T96 Arg2:T45
+R56	Frequency-Drug Arg1:T95 Arg2:T41
+R57	Form-Drug Arg1:T104 Arg2:T5
+R58	Dosage-Drug Arg1:T106 Arg2:T5
+R59	Frequency-Drug Arg1:T105 Arg2:T5
+R60	Form-Drug Arg1:T107 Arg2:T51
+R61	Dosage-Drug Arg1:T108 Arg2:T51
+R62	Frequency-Drug Arg1:T109 Arg2:T51
+R63	Form-Drug Arg1:T110 Arg2:T1
+R64	Dosage-Drug Arg1:T111 Arg2:T1
+R65	Frequency-Drug Arg1:T112 Arg2:T1
+R66	Form-Drug Arg1:T113 Arg2:T22
+R67	Dosage-Drug Arg1:T114 Arg2:T22
+R68	Form-Drug Arg1:T115 Arg2:T22
+R69	Route-Drug Arg1:T116 Arg2:T22
+R70	Frequency-Drug Arg1:T117 Arg2:T22
+R71	Strength-Drug Arg1:T40 Arg2:T118
+R72	Form-Drug Arg1:T119 Arg2:T118
+R73	Dosage-Drug Arg1:T120 Arg2:T118
+R74	Form-Drug Arg1:T121 Arg2:T118
+R75	Route-Drug Arg1:T122 Arg2:T118
+R76	Frequency-Drug Arg1:T123 Arg2:T118
+R77	Form-Drug Arg1:T124 Arg2:T26
+R78	Frequency-Drug Arg1:T125 Arg2:T26
+R79	Form-Drug Arg1:T126 Arg2:T66
+R80	Dosage-Drug Arg1:T127 Arg2:T66
+R81	Frequency-Drug Arg1:T128 Arg2:T66
+R82	Form-Drug Arg1:T129 Arg2:T31
+R83	Frequency-Drug Arg1:T131 Arg2:T31
+R84	Dosage-Drug Arg1:T130 Arg2:T31
+R85	Form-Drug Arg1:T133 Arg2:T132
+R86	Dosage-Drug Arg1:T134 Arg2:T132
+R87	Form-Drug Arg1:T135 Arg2:T132
+R88	Route-Drug Arg1:T136 Arg2:T132
+R89	Frequency-Drug Arg1:T137 Arg2:T132
+R90	Form-Drug Arg1:T138 Arg2:T24
+R91	Dosage-Drug Arg1:T139 Arg2:T24
+R92	Form-Drug Arg1:T140 Arg2:T24
+R93	Route-Drug Arg1:T141 Arg2:T24
+R94	Frequency-Drug Arg1:T142 Arg2:T24
+R95	Strength-Drug Arg1:T9 Arg2:T143
+R96	Frequency-Drug Arg1:T146 Arg2:T143
+R97	Form-Drug Arg1:T144 Arg2:T143
+R98	Dosage-Drug Arg1:T145 Arg2:T143
+R99	Form-Drug Arg1:T10 Arg2:T143
+R100	Route-Drug Arg1:T11 Arg2:T143
+T148	Drug 2721 2725	pack
+T153	Dosage 1187 1188	2
+T154	Drug 1190 1193	IVF
+T155	Dosage 1194 1199	bolus
+T156	Dosage 1216 1217	2
+T157	Drug 1227 1232	PRBCs
+T158	Reason 2143 2162	atrial fibrillation
+T159	Drug 7196 7199	IVF
+T160	Drug 7286 7294	pressors
+T161	Drug 7354 7359	PRBCs
+T162	Form 7345 7350	units
+T163	Dosage 7343 7344	3
+T164	Reason 7769 7772	CAD
+T165	ADE 8063 8076;8077 8083	mental status change
+T166	Reason 8271 8280	agitation
+T167	Reason 8281 8290	confusion
+T168	Reason 8378 8402	Diabetes mellitus type 2
+T169	Dosage 8438 8451	sliding scale
+R101	Dosage-Drug Arg1:T155 Arg2:T154
+R102	Dosage-Drug Arg1:T156 Arg2:T157
+R103	Dosage-Drug Arg1:T163 Arg2:T161
+R104	Form-Drug Arg1:T162 Arg2:T161
+R105	Dosage-Drug Arg1:T153 Arg2:T17	
+R106	Reason-Drug Arg1:T158 Arg2:T20	
+R107	Reason-Drug Arg1:T82 Arg2:T73	
+R108	Reason-Drug Arg1:T85 Arg2:T38	
+R109	Reason-Drug Arg1:T164 Arg2:T59	
+R110	ADE-Drug Arg1:T165 Arg2:T57	
+R111	Reason-Drug Arg1:T166 Arg2:T48	
+R112	Reason-Drug Arg1:T167 Arg2:T48	
+R113	Reason-Drug Arg1:T168 Arg2:T74	
+R114	Dosage-Drug Arg1:T169 Arg2:T74	
+T81	Reason 6661 6672	bradycardia
+R115	Reason-Drug Arg1:T81 Arg2:T38	

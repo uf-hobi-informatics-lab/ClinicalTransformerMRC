@@ -1,0 +1,118 @@
+T1	Drug 2656 2661	Lasix
+T2	Strength 2662 2667	80 mg
+T3	Form 2672 2678	tablet
+T4	Dosage 2668 2671	one
+T5	Frequency 2684 2690	b.i.d.
+T6	Route 2679 2683	p.o.
+T7	Drug 2754 2760	Epogen
+T8	Dosage 2761 2773	10,000 units
+T9	Form 2778 2787	injection
+T10	Dosage 2774 2777	one
+T11	Drug 2339 2348	Trazodone
+T12	Route 2353 2357	p.o.
+T13	Drug 2437 2446	Enalapril
+T14	Strength 2447 2451	5 mg
+T15	Form 2456 2462	tablet
+T16	Dosage 2452 2455	one
+T17	Frequency 2468 2474	b.i.d.
+T18	Route 2463 2467	p.o.
+T19	Strength 2708 2714	500 mg
+T20	Form 2721 2728	tablets
+T21	Dosage 2715 2720	three
+T22	Route 2729 2733	p.o.
+T23	Drug 2695 2706;2706 2707	Sulfadiazin e
+T24	Drug 2601 2609	Dopamine
+T25	Strength 2610 2615;2615 2625	8 mcg /kg/minute
+T26	Drug 491 499	Coumadin
+T27	Strength 2493 2498	25 mg
+T28	Route 2499 2503	p.o.
+T29	Drug 2478 2491;2491 2492	Spironolacton e
+T30	Drug 2512 2519	Insulin
+T31	Drug 2291 2298	Aspirin
+T32	Route 2302 2306	p.o.
+T33	Drug 2804 2812	Coumadin
+T34	Strength 2813 2817	4 mg
+T35	Route 2818 2822	p.o.
+T36	Drug 2315 2322	Lipitor
+T37	Route 2326 2330	p.o.
+T38	Drug 2555 2572	Calcium carbonate
+T39	Strength 2573 2579	500 mg
+T40	Frequency 2585 2591;2592 2595	q.i.d. prn
+T41	Route 2580 2584	p.o.
+T42	Drug 541 548	Heparin
+T43	Drug 2397 2407	Sertraline
+T44	Form 2415 2421	tablet
+T45	Frequency 2427 2433	b.i.d.
+T46	Route 2422 2426	p.o.
+T47	Drug 2366 2378	Pantoprazole
+T48	Frequency 2387 2393	b.i.d.
+T49	Route 2382 2386	p.o.
+T50	Drug 2239 2251	sulfadiazine
+T51	Strength 2299 2301	81
+T52	Frequency 2307 2311	q.d.
+T53	Strength 2323 2325	10
+T54	Frequency 2331 2335	q.d.
+T55	Strength 2349 2352	100
+T56	Frequency 2358 2362	h.s.
+T57	Strength 2379 2381	40
+T58	Strength 2408 2410	50
+T59	Dosage 2411 2414	one
+T60	Frequency 2504 2508	q.d.
+T61	Dosage 2520 2533	sliding scale
+T62	Route 2626 2630	drip
+T63	Frequency 2631 2650	continuous infusion
+T64	Frequency 2734 2739	q.6h.
+T65	Duration 2740 2748	x2 weeks
+T66	Frequency 2788 2798	q Saturday
+T67	Frequency 2823 2828	q.h.s
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Form-Drug Arg1:T3 Arg2:T1
+R3	Dosage-Drug Arg1:T4 Arg2:T1
+R4	Frequency-Drug Arg1:T5 Arg2:T1
+R5	Route-Drug Arg1:T6 Arg2:T1
+R6	Dosage-Drug Arg1:T8 Arg2:T7
+R7	Form-Drug Arg1:T9 Arg2:T7
+R8	Dosage-Drug Arg1:T10 Arg2:T7
+R9	Route-Drug Arg1:T12 Arg2:T11
+R10	Strength-Drug Arg1:T14 Arg2:T13
+R11	Form-Drug Arg1:T15 Arg2:T13
+R12	Dosage-Drug Arg1:T16 Arg2:T13
+R13	Frequency-Drug Arg1:T17 Arg2:T13
+R14	Route-Drug Arg1:T18 Arg2:T13
+R15	Strength-Drug Arg1:T19 Arg2:T23
+R16	Form-Drug Arg1:T20 Arg2:T23
+R17	Dosage-Drug Arg1:T21 Arg2:T23
+R18	Route-Drug Arg1:T22 Arg2:T23
+R19	Strength-Drug Arg1:T25 Arg2:T24
+R20	Strength-Drug Arg1:T27 Arg2:T29
+R21	Route-Drug Arg1:T28 Arg2:T29
+R22	Route-Drug Arg1:T32 Arg2:T31
+R23	Strength-Drug Arg1:T34 Arg2:T33
+R24	Route-Drug Arg1:T35 Arg2:T33
+R25	Route-Drug Arg1:T37 Arg2:T36
+R26	Strength-Drug Arg1:T39 Arg2:T38
+R27	Frequency-Drug Arg1:T40 Arg2:T38
+R28	Route-Drug Arg1:T41 Arg2:T38
+R29	Form-Drug Arg1:T44 Arg2:T43
+R30	Frequency-Drug Arg1:T45 Arg2:T43
+R31	Route-Drug Arg1:T46 Arg2:T43
+R32	Frequency-Drug Arg1:T48 Arg2:T47
+R33	Route-Drug Arg1:T49 Arg2:T47
+R34	Frequency-Drug Arg1:T54 Arg2:T36
+R35	Strength-Drug Arg1:T53 Arg2:T36
+R36	Frequency-Drug Arg1:T52 Arg2:T31
+R37	Strength-Drug Arg1:T51 Arg2:T31
+R38	Strength-Drug Arg1:T57 Arg2:T47
+R39	Frequency-Drug Arg1:T56 Arg2:T11
+R40	Strength-Drug Arg1:T55 Arg2:T11
+R41	Dosage-Drug Arg1:T59 Arg2:T43
+R42	Strength-Drug Arg1:T58 Arg2:T43
+R43	Frequency-Drug Arg1:T60 Arg2:T29
+R44	Dosage-Drug Arg1:T61 Arg2:T30
+R45	Frequency-Drug Arg1:T63 Arg2:T24
+R46	Route-Drug Arg1:T62 Arg2:T24
+R47	Duration-Drug Arg1:T65 Arg2:T23
+R48	Frequency-Drug Arg1:T64 Arg2:T23
+R49	Frequency-Drug Arg1:T66 Arg2:T7
+R50	Frequency-Drug Arg1:T67 Arg2:T33
+T69	Drug 2223 2231	duration

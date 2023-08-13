@@ -1,0 +1,140 @@
+T1	Drug 10084 10098	pyridostigmine
+T2	Drug 10151 10159	mestinon
+T3	Dosage 1051 1054	2 U
+R1	Dosage-Drug Arg1:T3 Arg2:T4
+T4	Drug 1055 1058	FFP
+T5	Dosage 1060 1061	5
+R2	Dosage-Drug Arg1:T5 Arg2:T7
+T6	Drug 10600 10608	morphine
+T7	Drug 1065 1074	Vitamin K
+T8	Route 1075 1077	PO
+R3	Route-Drug Arg1:T8 Arg2:T7
+T9	Drug 10819 10829	Amlodipine
+T10	Strength 10830 10836	2.5 mg
+R4	Strength-Drug Arg1:T10 Arg2:T9
+T11	Route 10837 10839	PO
+R5	Route-Drug Arg1:T11 Arg2:T9
+T12	Frequency 10840 10845	DAILY
+R6	Frequency-Drug Arg1:T12 Arg2:T9
+T13	Drug 10849 10859	FoLIC Acid
+T14	Strength 10860 10867	400 mcg
+R7	Strength-Drug Arg1:T14 Arg2:T13
+T15	Route 10868 10870	PO
+R8	Route-Drug Arg1:T15 Arg2:T13
+T16	Frequency 10871 10876	DAILY
+R9	Frequency-Drug Arg1:T16 Arg2:T13
+T17	Drug 10880 10888	Warfarin
+T18	Strength 10889 10893	2 mg
+R10	Strength-Drug Arg1:T18 Arg2:T17
+T19	Route 10894 10896	PO
+R11	Route-Drug Arg1:T19 Arg2:T17
+T20	Frequency 10897 10902	DAILY
+R12	Frequency-Drug Arg1:T20 Arg2:T17
+T21	Drug 10908 10918	ALPRAZolam
+T22	Strength 10919 10926	0.25 mg
+R13	Strength-Drug Arg1:T22 Arg2:T21
+T23	Route 10927 10929	PO
+R14	Route-Drug Arg1:T23 Arg2:T21
+T24	Frequency 10930 10933	QHS
+R15	Frequency-Drug Arg1:T24 Arg2:T21
+T25	Drug 10937 10947	Paroxetine
+T26	Strength 10948 10953	10 mg
+R16	Strength-Drug Arg1:T26 Arg2:T25
+T27	Route 10954 10956	PO
+R17	Route-Drug Arg1:T27 Arg2:T25
+T28	Frequency 10957 10962	DAILY
+R18	Frequency-Drug Arg1:T28 Arg2:T25
+T29	Drug 10966 10988	Pyridostigmine Bromide
+T30	Strength 10989 10994	30 mg
+R19	Strength-Drug Arg1:T30 Arg2:T29
+T31	Route 10995 10997	PO
+R20	Route-Drug Arg1:T31 Arg2:T29
+T32	Frequency 10998 11001	Q6H
+R21	Frequency-Drug Arg1:T32 Arg2:T29
+T33	Drug 11005 11023	Calcium 600 + D(3)
+T34	Drug 11030 11058	calcium carbonate-vitamin D3
+T35	Strength 11060 11063;11064 11066	600 mg
+R22	Strength-Drug Arg1:T35 Arg2:T33
+T36	Strength 11067 11074	1,500mg
+R23	Strength-Drug Arg1:T36 Arg2:T34
+T37	Dosage 11077 11080	400
+R24	Dosage-Drug Arg1:T37 Arg2:T33
+T38	Form 11081 11085	unit
+R25	Form-Drug Arg1:T38 Arg2:T33
+R26	Form-Drug Arg1:T38 Arg2:T34
+T39	Route 11086 11090	Oral
+R27	Route-Drug Arg1:T39 Arg2:T33
+R28	Route-Drug Arg1:T39 Arg2:T34
+T40	Frequency 11091 11093	qd
+R29	Frequency-Drug Arg1:T40 Arg2:T33
+R30	Frequency-Drug Arg1:T40 Arg2:T34
+T41	Reason 1413 1426	Afib with RVR
+R31	Reason-Drug Arg1:T41 Arg2:T46
+T42	Dosage 1490 1497	2 units
+R32	Dosage-Drug Arg1:T42 Arg2:T43
+T43	Drug 1501 1506	pRBCs
+T44	Strength 1607 1611	5 mg
+R33	Strength-Drug Arg1:T44 Arg2:T46
+T46	Drug 1615 1624	lopressor
+T47	Drug 165 176	Penicillins
+T48	Reason 1691 1696	-Afib
+R35	Reason-Drug Arg1:T48 Arg2:T49
+T49	Drug 1700 1708	coumadin
+T50	Drug 179 186	Vicodin
+T51	Drug 1880 1888	coumadin
+T52	Drug 189 194	Cipro
+T53	Drug 197 207	Polysporin
+T54	Reason 390 394	Afib
+R36	Reason-Drug Arg1:T54 Arg2:T55
+T55	Drug 398 406	coumadin
+T56	Reason 592 594	MG
+R37	Reason-Drug Arg1:T56 Arg2:T57
+T57	Drug 596 604	mestinon
+T58	Strength 605 610	30 mg
+R38	Strength-Drug Arg1:T58 Arg2:T57
+T59	Frequency 611 614	QID
+R39	Frequency-Drug Arg1:T59 Arg2:T57
+T60	Drug 7930 7938	morphine
+T61	Reason 8078 8084;8085 8097	atrial fibrillation
+R40	Reason-Drug Arg1:T61 Arg2:T62
+R41	Reason-Drug Arg1:T61 Arg2:T66
+T62	Drug 8101 8109	coumadin
+T63	Drug 8176 8184	Coumadin
+T64	Strength 8233 8237	5 mg
+R42	Strength-Drug Arg1:T64 Arg2:T66
+T66	Drug 8241 8251	metoprolol
+T67	Dosage 8253 8254	2
+R44	Dosage-Drug Arg1:T67 Arg2:T66
+T68	ADE 8334 8353	acutely bradycardic
+R45	ADE-Drug Arg1:T68 Arg2:T66
+T69	Reason 8446 8452;8453 8465	atrial fibrillation
+R46	Reason-Drug Arg1:T69 Arg2:T71
+T70	Strength 8500 8505	25 mg
+R47	Strength-Drug Arg1:T70 Arg2:T71
+T71	Drug 8506 8516	metoprolol
+T72	Frequency 8517 8520	TID
+R48	Frequency-Drug Arg1:T72 Arg2:T71
+T73	Drug 8585 8593	diltizem
+T74	Route 8594 8598	drip
+R49	Route-Drug Arg1:T74 Arg2:T73
+T75	Dosage 8901 8908	2 units
+R50	Dosage-Drug Arg1:T75 Arg2:T76
+T76	Drug 8909 8914	pRBCs
+T77	Dosage 8986 8993	2 units
+R51	Dosage-Drug Arg1:T77 Arg2:T78
+T78	Drug 8994 8997	FFP
+T79	Strength 9002 9006	5 mg
+R52	Strength-Drug Arg1:T79 Arg2:T80
+T80	Drug 9007 9016	vitamin K
+T81	Dosage 9019 9020	2
+R53	Dosage-Drug Arg1:T81 Arg2:T80
+T82	Reason 9885 9895	Myasthenia
+R54	Reason-Drug Arg1:T82 Arg2:T1
+R55	Reason-Drug Arg1:T82 Arg2:T2
+T83	Reason 9959 9969	myasthenia
+R56	Reason-Drug Arg1:T83 Arg2:T1
+R57	Reason-Drug Arg1:T83 Arg2:T2
+T45	Route 1612 1614	IV
+R34	Route-Drug Arg1:T45 Arg2:T46	
+T65	Route 8238 8240	IV
+R43	Route-Drug Arg1:T65 Arg2:T66	

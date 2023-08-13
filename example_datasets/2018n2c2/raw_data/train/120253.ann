@@ -1,0 +1,172 @@
+T1	Drug 10002 10015	Calcipotriene
+T2	Strength 10016 10021	0.005 
+R1	Strength-Drug Arg1:T2 Arg2:T1
+T3	Form 10024 10029	Cream
+R2	Form-Drug Arg1:T3 Arg2:T1
+T4	Dosage 10035 10042	One (1)
+R3	Dosage-Drug Arg1:T4 Arg2:T1
+T5	Form 10043 10047	Appl
+R4	Form-Drug Arg1:T5 Arg2:T1
+T6	Route 10048 10055	Topical
+R5	Route-Drug Arg1:T6 Arg2:T1
+T8	Drug 10093 10104	Simvastatin
+T9	Strength 10105 10110	10 mg
+R7	Strength-Drug Arg1:T9 Arg2:T8
+T10	Form 10111 10117	Tablet
+R8	Form-Drug Arg1:T10 Arg2:T8
+T11	Dosage 10123 10130	Two (2)
+R9	Dosage-Drug Arg1:T11 Arg2:T8
+T12	Form 10131 10137	Tablet
+R10	Form-Drug Arg1:T12 Arg2:T8
+T13	Route 10138 10140	PO
+R11	Route-Drug Arg1:T13 Arg2:T8
+T14	Frequency 10141 10143	HS
+R12	Frequency-Drug Arg1:T14 Arg2:T8
+T15	Drug 10161 10169	Zolpidem
+T16	Strength 10170 10174	5 mg
+R13	Strength-Drug Arg1:T16 Arg2:T15
+T17	Form 10175 10181	Tablet
+R14	Form-Drug Arg1:T17 Arg2:T15
+T18	Dosage 10187 10194	One (1)
+R15	Dosage-Drug Arg1:T18 Arg2:T15
+T19	Form 10195 10201	Tablet
+R16	Form-Drug Arg1:T19 Arg2:T15
+T20	Route 10202 10204	PO
+R17	Route-Drug Arg1:T20 Arg2:T15
+T21	Frequency 10205 10207	HS
+R18	Frequency-Drug Arg1:T21 Arg2:T15
+T22	Drug 10226 10237	Benzonatate
+T23	Strength 10238 10244	100 mg
+R19	Strength-Drug Arg1:T23 Arg2:T22
+T24	Form 10245 10252	Capsule
+R20	Form-Drug Arg1:T24 Arg2:T22
+T25	Dosage 10258 10265	One (1)
+R21	Dosage-Drug Arg1:T25 Arg2:T22
+T26	Form 10266 10273	Capsule
+R22	Form-Drug Arg1:T26 Arg2:T22
+T27	Route 10274 10276	PO
+R23	Route-Drug Arg1:T27 Arg2:T22
+T28	Frequency 10277 10282;10283 10310	every twelve (12) hours as needed
+R24	Frequency-Drug Arg1:T28 Arg2:T22
+T29	Reason 10315 10320	cough
+R25	Reason-Drug Arg1:T29 Arg2:T22
+T30	Drug 10358 10364	Diovan
+T31	Strength 10365 10370	80 mg
+R26	Strength-Drug Arg1:T31 Arg2:T30
+T32	Form 10371 10377	Tablet
+R27	Form-Drug Arg1:T32 Arg2:T30
+T33	Dosage 10383 10390	One (1)
+R28	Dosage-Drug Arg1:T33 Arg2:T30
+T34	Form 10391 10397	Tablet
+R29	Form-Drug Arg1:T34 Arg2:T30
+T35	Route 10398 10400	PO
+R30	Route-Drug Arg1:T35 Arg2:T30
+T36	Frequency 10401 10411	once a day
+R31	Frequency-Drug Arg1:T36 Arg2:T30
+T37	Drug 10416 10428	Multivitamin
+T38	Route 10430 10434	Oral
+R32	Route-Drug Arg1:T38 Arg2:T37
+T39	Drug 10438 10445	Aspirin
+T40	Strength 10446 10451	81 mg
+R33	Strength-Drug Arg1:T40 Arg2:T39
+T41	Form 10452 10475	Tablet, Delayed Release
+R34	Form-Drug Arg1:T41 Arg2:T39
+T42	Dosage 10488 10495	One (1)
+R35	Dosage-Drug Arg1:T42 Arg2:T39
+T43	Form 10496 10519	Tablet, Delayed Release
+R36	Form-Drug Arg1:T43 Arg2:T39
+T44	Route 10527 10529	PO
+R37	Route-Drug Arg1:T44 Arg2:T39
+T45	Frequency 10530 10545	every other day
+R38	Frequency-Drug Arg1:T45 Arg2:T39
+T46	Drug 12181 12187	Plavix
+T47	Reason 12229 12244	coronary stents
+R39	Reason-Drug Arg1:T47 Arg2:T46
+T48	Drug 12295 12302	aspirin
+T49	Drug 12313 12320	aspirin
+T50	Strength 12321 12325	81mg
+R40	Strength-Drug Arg1:T50 Arg2:T49
+T51	Drug 165 177	Erythromycin
+T52	Drug 185 196	Doxycycline
+T53	Drug 199 207	Betadine
+T54	Drug 210 216	Iodine
+T55	Drug 219 227	Percocet
+T56	Drug 230 235	Sulfa
+T57	Drug 493 499	Plavix
+T58	Reason 504 510	stents
+R41	Reason-Drug Arg1:T58 Arg2:T57
+T59	Drug 5888 5894	Plavix
+T60	Drug 7975 7981	plavix
+T61	Dosage 8168 8171	one
+R42	Dosage-Drug Arg1:T61 Arg2:T63
+T62	Form 8172 8176	unit
+R43	Form-Drug Arg1:T62 Arg2:T63
+T63	Drug 8180 8189	platelets
+T64	Drug 8303 8309	Plavix
+T65	Reason 8713 8736	Coronary artery disease
+R44	Reason-Drug Arg1:T65 Arg2:T66
+R45	Reason-Drug Arg1:T65 Arg2:T67
+R46	Reason-Drug Arg1:T65 Arg2:T70
+T66	Drug 8838 8844	plavix
+T67	Drug 8950 8957	Aspirin
+T68	Strength 8958 8962	81mg
+R47	Strength-Drug Arg1:T68 Arg2:T67
+T69	Frequency 8963 8978	every other day
+R48	Frequency-Drug Arg1:T69 Arg2:T67
+T70	Drug 9078 9089	simvastatin
+T71	Reason 9094 9106	Hypertension
+R49	Reason-Drug Arg1:T71 Arg2:T72
+T72	Drug 9250 9259	valsartan
+T73	Drug 9746 9752	Diovan
+T74	Strength 9753 9758	80 mg
+R50	Strength-Drug Arg1:T74 Arg2:T73
+T75	Frequency 9759 9764	Daily
+R51	Frequency-Drug Arg1:T75 Arg2:T73
+T76	Drug 9765 9771	Plavix
+T77	Strength 9772 9777	75 mg
+R52	Strength-Drug Arg1:T77 Arg2:T76
+T78	Frequency 9778 9783	Daily
+R53	Frequency-Drug Arg1:T78 Arg2:T76
+T79	Drug 9784 9791	Chantix
+T80	Strength 9792 9798	0.5 mg
+R54	Strength-Drug Arg1:T80 Arg2:T79
+T81	Drug 9799 9802	MVT
+T82	Frequency 9803 9808	daily
+R55	Frequency-Drug Arg1:T82 Arg2:T81
+T83	Drug 9809 9820	Simvastatin
+T84	Strength 9821 9826	20 mg
+R56	Strength-Drug Arg1:T84 Arg2:T83
+T85	Frequency 9827 9832	daily
+R57	Frequency-Drug Arg1:T85 Arg2:T83
+T86	Drug 9833 9840	Lunesta
+T87	Dosage 9841 9842	1
+R58	Dosage-Drug Arg1:T87 Arg2:T86
+T88	Form 9843 9846	tab
+R59	Form-Drug Arg1:T88 Arg2:T86
+T89	Frequency 9847 9850	qHs
+R60	Frequency-Drug Arg1:T89 Arg2:T86
+T90	Drug 9851 9860	Synthroid
+T91	Strength 9861 9868	200 mcg
+R61	Strength-Drug Arg1:T91 Arg2:T90
+T92	Frequency 9869 9874	daily
+R62	Frequency-Drug Arg1:T92 Arg2:T90
+T93	Drug 9875 9882	Dovonex
+T94	Strength 9883 9888	0.005
+R63	Strength-Drug Arg1:T94 Arg2:T93
+T95	Route 9890 9897	topical
+R64	Route-Drug Arg1:T95 Arg2:T93
+T96	Form 9898 9903	cream
+R65	Form-Drug Arg1:T96 Arg2:T93
+T97	Drug 9932 9945	Levothyroxine
+T98	Strength 9946 9953	100 mcg
+R66	Strength-Drug Arg1:T98 Arg2:T97
+T99	Form 9954 9960	Tablet
+R67	Form-Drug Arg1:T99 Arg2:T97
+T100	Dosage 9966 9973	Two (2)
+R68	Dosage-Drug Arg1:T100 Arg2:T97
+T101	Form 9974 9980	Tablet
+R69	Form-Drug Arg1:T101 Arg2:T97
+T102	Route 9981 9983	PO
+R70	Route-Drug Arg1:T102 Arg2:T97
+T103	Frequency 9984 9989	DAILY
+R71	Frequency-Drug Arg1:T103 Arg2:T97

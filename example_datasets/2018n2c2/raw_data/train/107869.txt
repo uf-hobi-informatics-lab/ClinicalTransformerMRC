@@ -1,0 +1,246 @@
+Admission Date:  [**2199-11-4**]              Discharge Date:   [**2199-11-9**]
+
+
+Service: MEDICINE
+
+Allergies:
+Morphine
+
+Attending:[**Doctor First Name 2080**]
+Chief Complaint:
+Biliary obstuction.
+
+Major Surgical or Invasive Procedure:
+ERCP
+IR guided biliary drain
+
+History of Present Illness:
+This is an 88 yo man transferred from OSH [**11-4**] for ERCP for
+biliary obstruction with obstructive hepatopathy. presented to
+[**Hospital 1562**] Hospital on [**11-3**] with increasing shortness of breath,
+dizziness, and jaundice. Per OSH also reported fevers, chills,
+and nausea. Had gveen given bactrim for a UTI one week prior. He
+underwent an abdomen CT which showed intrahepatic and
+extrahepatic obstruction likely secondary to metastatic cancer
+to the pancreatic head. He was started on flagyl, zosyn, and
+vanc and transferred to [**Hospital1 18**] for ERCP.
+
+While being prepped for ERCP (while under MAC) and turned prone
+he regurgitated coffee-brown material so he was electively
+intubated due to concern for his risk of aspiration. They
+proceded with ERCP, but were unable to cannulate the biliary
+tree. A dudodenal stent was placed due to external compression
+of the duodenum. He was placed on propofol for sedation and his
+SBP's dropped to the 80's in the PACU. He was started on neo
+through a PIV for pressure support.
+
+In the ICU the neo was rapidly weaned and he was extubated
+easily [**11-5**]. It was thought that his inability to extubate
+post-procedure and hypotension were due to sedation rather than
+aspiration given his rapid improvement.
+
+ROS: 10 point review of systems negative except as noted above.
+
+Past Medical History:
+1. Colon cancer with mets s/p colectomy complicated with small
+and large bowel obstruction with a colostomy. Oncologist
+identified in OSH records as Dr. [**Last Name (STitle) 25802**].
+2. Prostate enlargement s/p TURP, ? in OSH of prostatic mets
+3. Hypertension
+4. Hypercholesterolemia
+5. GERD
+6. S/p tonsillectomy
+
+Social History:
+Lives alone. Per OSH records is a nonsmoker, and no alcohol use.
+Known family is sister in [**Name (NI) 9012**].
+
+Family History:
+noncontributory
+
+Physical Exam:
+Vitals:
+Gen: well appearing, pleasant male
+HEENT: sclera icteric, PERRLA, EOMI, OP clear
+CV: +s1s2, rrr, no mrg appreciated
+Lungs: ctab
+Abd: + ostomy bag in place, + biliary drain in place, +bs, soft,
+nt, nd
+Ext: no c/c/e
+
+Pertinent Results:
+Admission labs:
+CBC:11.4 (n 89, no bands)->9.3, hct 25.1->28, plt 388
+BMP: 135, 4.2, 102, 23, 19, 1.0, 94
+alt 236->218, ast 300->268, ap 856->816, bili 11.8->11.2, lipase
+184->120
+ptt 28.4, inr 1.3
+lactate 0.8
+.
+Discharge Labs:
+[**2199-11-9**] 05:32AM BLOOD WBC-8.2 RBC-2.57* Hgb-8.3* Hct-25.8*
+MCV-101* MCH-32.3* MCHC-32.1 RDW-17.5* Plt Ct-383
+[**2199-11-9**] 05:32AM BLOOD Glucose-102 UreaN-19 Creat-0.9 Na-139
+K-3.5 Cl-106 HCO3-25 AnGap-12
+[**2199-11-9**] 05:32AM BLOOD ALT-97* AST-58* AlkPhos-662* TotBili-5.4*
+.
+UA: BLOOD-SM  NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-NEG
+BILIRUBIN-MOD UROBILNGN-NEG PH-5.5 LEUK-MOD RBC-4* WBC-13*
+BACTERIA-FEW YEAST-NONE EPI-0
+.
+Urine Cx [**11-4**]: no growth.
+Blood Cx [**11-4**]: pending.
+MRSA screen [**11-4**]: pending.
+.
+CXR port [**11-4**]: Lung volumes are quite low. With the chin down,
+the tip of the ET tube at the upper margin of the clavicles is 3
+cm above optimal placement. [**Month (only) 116**] be left hilar enlargement and
+one or more nodules in the left lung. A band of atelectasis is
+present at the base of the right lung which is otherwise clear.
+Heart is mildly enlarged. No pneumothorax. Small bilateral
+pleural effusions, left greater than right, are likely present.
+An apparent bulge in the right mediastinal contour could be a
+skin fold instead. Repeat radiographs, conventional if possible,
+recommended when feasible.
+.
+ERCP [**11-4**]: A large amount of gastric fluid was found when the
+endoscope was passed into the stomach, suggestive of outflow
+tract obstruction.
+Unable to pass the scope to the second part of the duodenum due
+to obstruction, most likely extrinsic compression from colon
+cancer metastases. A duodenal stent ( 9cm x22mm Wallflex enteral
+duodenal stent) was placed successfully under fluoroscopic
+guidance to alleviate the gastric outlet obstruction. Ref 6502.
+Lot [**Numeric Identifier 25803**](stent placement)
+.
+Fluoro [**11-6**]:
+IMPRESSION: Percutaneous transhepatic cholangiogram
+demonstrating moderate
+intra- and extra-hepatic biliary ductal dilatation with
+obstruction of the
+common bile duct at the level of the ampulla. Successful
+placement of a right transhepatic internal-external biliary
+draining catheter with the catheter connected to a bag for
+external drainage
+
+
+Brief Hospital Course:
+Assessment and Plan: 88 yo male with pmh of metastatic colon
+cancer and hypertension who is being admitted to the [**Hospital Unit Name 153**] due to
+hypotension and need for continued intubation s/p ERCP attempt
+for biliary obstruction.
+.
+# Hypotension: Patient became hypotensive after intubation on
+propofol. Likely secondary to propofol, however also in the
+differential is hypotension from sepsis. He has two potential
+sources for sepsis: biliary obstruction and recent apsiration.
+Also could have volume depletion. Since coming to the floor his
+pressures had recovered and phenylephrine weaned off. Given the
+possibility of sepsis, he was started on vancomycin, flagyl and
+cefepime, but then changed to ceftriaxone and flagyl.  The
+vancomycin was discontinued after the cultures were negative x
+48 horus.  On the day before discharge he was transitioned to PO
+levofloxacin to complete a full course through [**11-11**], cultures no
+growth to date at discharge.
+.
+# Biliary obstruction/obstructive jaundice: The patient
+underwent a CT at the OSH which showed intrahepatic and
+extrahepatic bile duct dilatation likely due to a metastasis to
+the pancreatic head from his colon cancer. He failed ERCP due to
+external compression of the duodenum limiting their ability to
+pass the scope.  A duodenal stent was placed by the ERCP team to
+help to decompress the gastric outlet obstruction.  Given the
+failed ERCP attempt, IR was consulted and performed an IR guided
+biliary drain on [**2199-11-6**].  He was transferred to the floor and
+his LFTs trended down after the stent was placed.  His drain was
+clamped on [**11-8**] and with continued improvement of his liver
+tests and symptoms.  He was discharged with a clamped biliary
+drain to follow up with interventional radiology.  If symptoms
+return, the drain can be unclamped to a bag.
+.
+# Respiratory distress: The patient presented to the ICU
+intubated since the ERCP. On the following morning he was
+successfully extubated and breathing appropriately on room air.
+.
+# Anemia, chronic disease: The patient was noted to have
+coffe-ground regurgitation during the ERCP procdure. He was
+anemic with a Hct of 26 at the OSH and 25 on admission labs
+here. Vit B12 and folate normal at the OSH. Fe low, but other Fe
+studies not sent. Haptoglobin high makes hemolysis unlikely.
+Most likely due to anemia of chronic disease and possibly due to
+oncologic treatment. Started an IV PPI due to concern for coffee
+ground regurgitant.  His hematocrits were stable and did not
+need transfusions.
+.
+# Metastatic colon cancer: Patient has multiple mets seen on OSH
+imaging. He will follow up with his outpatient surgeon after
+discharge.
+.
+# Hypertension, benign: stable
+
+Medications on Admission:
+Home medications:
+Prevacid 10 mg po daily
+Lipitor 10 mg po qhs
+
+
+Discharge Medications:
+1. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 2 days.
+Disp:*2 Tablet(s)* Refills:*0*
+2. Prevacid 30 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA of Upper [**Hospital3 **]
+
+Discharge Diagnosis:
+Metatstatic colon cancer
+Gastric outlet obstruction s/p duodenal stent placement
+Biliary obstruction s/p IR placed drain
+Prostate enlargement s/p TURP
+Hypertension, benign
+Hypercholesterolemia
+gastroesophageal reflux
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted to the hospital becuase you had an obstruction
+in the small bowel and also in your biliary tract.  You went for
+a procedure that stented open your small bowel allowing you to
+eat liquids and solids.  You then went to the have a drain
+placed in your biliary duct in order to the relieve the
+obstruction.
+
+Resume all of your home medications except Lipitor, until follow
+up with your doctors.
+
+You will need to continue the levofloxacin for 7 days until
+[**2199-11-11**].  You will need to follow up with your primary surgeon
+and your primary care doctor.  Additionally, interventional
+radiology will contact you to follow up with your drain
+management.
+
+Return to the hospital if you experience fevers/chills,
+abdominal pain, recurring jaundice, or any other concerning
+symptoms.
+
+Followup Instructions:
+As above, you will need to follow up with your primary surgeon,
+Dr. [**Last Name (STitle) 25804**] when you return home, as well as with your PCP [**Last Name (NamePattern4) **].
+[**Last Name (STitle) 25237**] as soon as possible.
+
+You will also need to follow up with the interventional
+radiology department in order to change the drain in 3 months.
+They will contact you to schedule this.
+
+
+

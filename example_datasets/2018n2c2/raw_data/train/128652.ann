@@ -1,0 +1,71 @@
+T1	Drug 2692 2704	procarbazine
+T2	Drug 3272 3278	CEFTIN
+T3	Drug 4492 4505	Pentobarbital
+T4	Drug 3212 3220	Dilantin
+T5	Drug 2675 2686	vincristine
+T6	Drug 1300 1308	Dilantin
+T7	Drug 3164 3171	Aspirin
+T8	Drug 3196 3202	Ativan
+T9	Drug 1580 1586	Ativan
+T10	Drug 4388 4396	Dilantin
+T11	Drug 3173 3181	Prevacid
+T12	Drug 1318 1331	phenobarbital
+T13	Drug 5864 5877	Pentobarbital
+T14	Drug 1705 1711	Ativan
+T15	Drug 2666 2673	Cytoxan
+T16	Drug 4205 4218	Pentobarbital
+T17	Drug 4401 4409	Depakote
+T18	Drug 3187 3194	Tylenol
+T19	Drug 1461 1469	Dilantin
+T20	Drug 1641 1649	Dilantin
+T21	Drug 1721 1729	Dilantin
+T22	Drug 2655 2664	bleomycin
+T23	Drug 1852 1858	Ativan
+T24	Drug 4021 4027	Ativan
+T25	Reason 1262 1282	generalized seizures
+T26	Drug 1483 1497	phenobarbiltal
+T27	Route 1859 1861;1862 1870	IV infusion
+T28	ADE 3289 3293	rash
+T29	Route 4006 4017	IV infusion
+T30	Drug 4166 4178	Penotarbital
+T31	ADE 4515 4541	decreased cardiac function
+T32	Drug 5275 5287	Solu- Medrol
+R1	Reason-Drug Arg1:T25 Arg2:T6
+R2	Reason-Drug Arg1:T25 Arg2:T12
+R3	Route-Drug Arg1:T27 Arg2:T23
+R4	ADE-Drug Arg1:T28 Arg2:T2
+R5	Route-Drug Arg1:T29 Arg2:T24
+R6	ADE-Drug Arg1:T31 Arg2:T3
+T34	Route 1587 1591	drip
+T35	Reason 1529 1546	clinical seizured
+T36	Route 1712 1716	drip
+T37	Drug 2637 2649	chemotherapy
+T38	ADE 2820 2836	myelosuppression
+T39	ADE 2779 2796;2797 2804	interstitial lung disease
+T40	Route 3203 3207	drip
+T41	Route 4179 4187	infusion
+T42	Route 4219 4227	infusion
+T43	Drug 4449 4457	pressors
+T44	Drug 5306 5317	antibiotics
+R10	Reason-Drug Arg1:T35 Arg2:T19	
+R11	Reason-Drug Arg1:T35 Arg2:T26	
+R12	Route-Drug Arg1:T34 Arg2:T9	
+R13	Route-Drug Arg1:T36 Arg2:T14	
+R14	Route-Drug Arg1:T40 Arg2:T8	
+R15	Route-Drug Arg1:T41 Arg2:T30	
+R16	Route-Drug Arg1:T42 Arg2:T16	
+T33	Route 5272 5274	IV
+R7	Route-Drug Arg1:T33 Arg2:T32	
+T45	ADE 2854 2871	neutropenic fever
+R19	ADE-Drug Arg1:T39 Arg2:T15	
+R20	ADE-Drug Arg1:T39 Arg2:T5	
+R21	ADE-Drug Arg1:T39 Arg2:T1	
+R24	ADE-Drug Arg1:T38 Arg2:T5	
+R25	ADE-Drug Arg1:T38 Arg2:T1	
+R28	ADE-Drug Arg1:T45 Arg2:T5	
+R29	ADE-Drug Arg1:T45 Arg2:T1	
+R8	ADE-Drug Arg1:T38 Arg2:T15	
+R9	ADE-Drug Arg1:T45 Arg2:T15	
+R17	ADE-Drug Arg1:T39 Arg2:T22	
+R18	ADE-Drug Arg1:T38 Arg2:T22	
+R22	ADE-Drug Arg1:T45 Arg2:T22	

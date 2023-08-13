@@ -1,0 +1,551 @@
+Admission Date:  [**2159-4-21**]              Discharge Date:   [**2159-5-15**]
+
+Date of Birth:  [**2083-5-13**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2071**]
+Chief Complaint:
+Fatigue for one week. Transferred to CCU with hypoxic distress
+in context of AF with RVR, developed PNA and transferred to MICU
+with stabilized AF.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+Mr. [**Known lastname 70654**] is a 75M with a history of coronary artery disease
+s/p CABG x3 ([**University/College **] Presbyterian NY, [**2145**]), PTCA x2 stents
+(DES: proximal LAD and SVG to PDA, [**2156**]) as well as
+assymptomatic PAF on coumadin who presented to [**Hospital1 18**] on [**2159-4-21**]
+with fatigue for the last 5 days. He did not endorse shortness
+of breath or chest pain, only generalized fatigue. Other ROS
+were negative and notable for the absence of fevers, chills,
+productive cough, sick contacts, recent travel or other
+complaints.
+
+In the ED, initial vitals: 97.8 65 132/78 16 97. CXR showed a
+small new right pleural effusion. EKG showed atrial fibrillation
+at a rate of 114, and ST depression II, III, AVf, V4-V6. He was
+given Aspirin and placed on Oxygen. Cardiac biomarkers were
+negative x 3. He was loaded with dofetilide for chemical
+cardioversion of his a fib and went into NSR after the first
+dose. The following morning he developed worsening dyspnea and
+was found to be hypoxic with O2 sats in the 70s on RA. He
+triggerred for hypoxia and was found to have expiratory wheezes
+and crackles at the base. Chest x-ray showed severe scoliosis
+and opacities within both lower lobes. VBG showed pH 7.42, pO2
+53, pCo2 30. He was placed on a non-rebreather with O2 sats that
+returned to 92%. The team felt that his symptoms were either CHF
+versus pneumonia, with CHF more likely because he did not have a
+white count or fever at the time. He was diuresed with 20 mg IV
+lasix x 3 and had 2 L of urine output. He remained on the
+non-rebreather throughout the afternoon despite the diuresis. He
+was given nebulizers and ordered doxycycline and augmentin for
+possible community acquired pneumonia (although he did not
+receive antibiotics). At 6:30 pm nightfloat came to evaluate the
+patient and was concerned. An ABG showed pH 7.42 pO2 66 and pCO2
+54. Vanc and cefipime were started and the CCU was called to
+evaluate the patient.
+
+The patient was found to be tachypneic and uncomfortable, using
+increase work of breathing. He was sating 92% on the
+non-rebreather. He was transferred for hypoxic respiratory
+distress. In the CCU he endorsed chills, but denied fever, chest
+pain, palpitations, nausea, cough, abdominal pain, HA, dysuria,
+myalgias, melena.
+
+Respiratory status continued to be tenuous in the CCU requiring
+face mask during the day, and BiPap overnight. Patient was not
+intubated due to concerns about ability to wean from the vent.
+He was treated empirically with broad spectrum.
+
+CCU course notable for increasing respiratory distress requiring
+BiPap for comfort. Initially used overnight only with face mask
+during the day but increasingly requiring BiPap. Was seen by his
+outpatient pulmonologist who agreed with current plan, and felt
+patient likely to be difficult to wean from the vent if
+intubated. +6L LOS (not counting insensible losses). Admission
+weight 53.1kg, currently weighs 56.1 kg(but unreliable as bed
+weight with sheets etc). Patient had intermittent A. Fib with
+RVR requiring boluses of diltiazem for rate control.
+
+
+Past Medical History:
+1. coronary artery disease
+-CABG in [**2145**]: SVG to RPDA; SVG sequentially to diagonal and OM;
+no LIMA graft
+-Cath in [**2156**] notable for occlusion of a vein graft to the right
+PDA treated with a DES and a subsequent elective native vessel
+LAD PCI
+2. PAF: rate controlled with atenolol and on warfarin
+3. Dyslipidemia
+4. Hypertension
+5. OSA on BiPAP 11cm insp and 9cm exp pressures
+6. Tuberculosis as a child, status post left upper lobe
+lobectomy
+7. BPH
+8. Severe kyphoscoliosis
+9. Chronic sinususitis
+
+Social History:
+- Married, Lives in [**Location 745**] with Wife, Three Children
+- Holocaust survivor
+- Retired child psychologist at [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Location (un) **] in NY
+
+- Tobacco history: Denies
+- ETOH: Denies
+- Illicit drugs: Denies
+
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death.
+- Father: Killed during Holocaust
+- Mother: Died in 90s, no known medical history
+- Sister: [**Name (NI) **] [**Name (NI) 3730**], 50s.
+
+
+Physical Exam:
+Gen: Pleasant. NAD. Oriented x3. Mood, affect appropriate.
+HEENT: Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+pallor or cyanosis of the oral mucosa.
+Neck: Supple with full EJ and JVP slightly above clavicle
+CV: normal S1, S2. No m/r/g.
+Chest: Sever Kyphoscoliosis. Patient appeared uncomfortable
+breathing, increased work, + accessory muscle use, + expiratory
+wheezes and decreased breath sounds on right and left bases. +
+egophony and + fremitus on right base.
+Abd: Soft, NTND. No HSM or tenderness.
+Ext: 1+ Pedal/Ankle Edema Bilaterally.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+
+Pertinent Results:
+Lab Data on Admission
+[**2159-4-21**] 08:50AM BLOOD WBC-6.3 RBC-3.91* Hgb-12.2* Hct-36.9*
+MCV-94 MCH-31.2 MCHC-33.0 RDW-15.0 Plt Ct-141*
+[**2159-4-21**] 08:50AM BLOOD Neuts-67.3 Lymphs-24.0 Monos-5.5 Eos-2.6
+Baso-0.6
+[**2159-4-21**] 08:50AM BLOOD PT-28.1* PTT-37.9* INR(PT)-2.8*
+[**2159-4-21**] 08:50AM BLOOD Glucose-120* UreaN-34* Creat-1.2 Na-142
+K-4.3 Cl-102 HCO3-33* AnGap-11
+[**2159-4-21**] 08:50AM BLOOD ALT-41* AST-36 LD(LDH)-211 CK(CPK)-70
+AlkPhos-140* TotBili-0.4
+[**2159-4-21**] 08:50AM BLOOD CK-MB-NotDone cTropnT-<0.01 proBNP-3733*
+[**2159-4-21**] 08:50AM BLOOD TSH-2.6
+
+Pertinent Labs from During the Admission
+[**2159-4-22**] 05:30AM BLOOD Calcium-8.9 Phos-3.0 Mg-1.9
+[**2159-4-23**] 03:43AM BLOOD VitB12-728 Folate-19.0
+[**2159-4-23**] 03:43AM BLOOD ASA-NEG Acetmnp-10.0 Bnzodzp-NEG
+Barbitr-NEG Tricycl-NEG
+[**2159-4-22**] 06:45PM BLOOD Lactate-1.2
+[**2159-4-23**] 04:00AM BLOOD freeCa-1.13
+
+Blood Gas, Lactate, Cardiac Enzymes
+[**2159-4-21**] 08:50AM BLOOD CK-MB-NotDone cTropnT-<0.01 proBNP-3733*
+[**2159-4-21**] 08:50AM BLOOD cTropnT-<0.01
+[**2159-4-21**] 01:07PM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2159-4-21**] 09:18PM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2159-4-22**] 07:24PM BLOOD CK-MB-3 cTropnT-<0.01
+[**2159-4-23**] 03:43AM BLOOD CK-MB-3 cTropnT-<0.01
+[**2159-4-23**] 03:15PM BLOOD CK-MB-4 cTropnT-<0.01
+[**2159-4-24**] 03:57AM BLOOD CK-MB-3 cTropnT-<0.01
+[**2159-4-27**] 05:30AM BLOOD proBNP-4224*
+[**2159-4-22**] 01:13PM BLOOD Type-[**Last Name (un) **] Temp-37.0 pO2-30* pCO2-53*
+pH-7.37 calTCO2-32* Base XS-3
+[**2159-4-22**] 06:45PM BLOOD Type-ART pO2-66* pCO2-34* pH-7.42
+calTCO2-23 Base XS--1
+[**2159-4-23**] 04:00AM BLOOD Type-[**Last Name (un) **] Temp-38.4 pO2-60* pCO2-59*
+pH-7.40 calTCO2-38* Base XS-8 Intubat-NOT INTUBA
+[**2159-4-23**] 05:19PM BLOOD Type-[**Last Name (un) **] Temp-36.3 Rates-/25 FiO2-80 O2
+Flow-12 pO2-42* pCO2-53* pH-7.40 calTCO2-34* Base XS-5 AADO2-495
+REQ O2-81 Intubat-NOT INTUBA Comment-NEBULIZER
+[**2159-4-24**] 02:14PM BLOOD Type-ART Temp-36.6 pO2-51* pCO2-42
+pH-7.48* calTCO2-32* Base XS-6 Intubat-NOT INTUBA
+[**2159-4-24**] 03:37PM BLOOD Type-ART Temp-36.6 Rates-/26 O2 Flow-12
+pO2-54* pCO2-43 pH-7.45 calTCO2-31* Base XS-4 Intubat-NOT INTUBA
+Comment-NON-REBREA
+[**2159-4-26**] 05:03PM BLOOD Type-[**Last Name (un) **] pO2-30* pCO2-57* pH-7.33*
+calTCO2-31* Base XS-1
+[**2159-4-27**] 05:33AM BLOOD Type-[**Last Name (un) **] pO2-49* pCO2-57* pH-7.31*
+calTCO2-30 Base XS-0
+[**2159-4-22**] 06:45PM BLOOD Lactate-1.2
+[**2159-4-23**] 04:00AM BLOOD Lactate-2.1*
+[**2159-4-23**] 05:19PM BLOOD Lactate-1.4
+[**2159-4-24**] 02:14PM BLOOD Lactate-1.6
+[**2159-4-26**] 05:03PM BLOOD Lactate-0.9
+
+Other Reports
+
+EKG [**2159-4-21**]
+Atrial fibrillation with premature ventricular contractions and
+uncontrolled ventricular response. Compared to tracing #2 the
+heart rate is faster.
+Rate PR QRS QT/QTc P QRS T
+114 0 104 330/424 0 16 -164
+
+CXR [**2159-4-21**]
+COMPARISON: Multiple prior chest radiographs from [**2157-1-5**],
+[**2157-3-2**], and [**2159-1-17**]. CTA chest was performed on [**2157-3-10**].
+CHEST RADIOGRAPH, PA AND LATERAL VIEWS: The patient is status
+post median sternotomy, CABG, and coronary artery stenting.
+Severe scoliosis of the thoracolumbar spine, with deformity of
+the left rib cage, again limits evaluation. Left lung volume is
+chronically small. Left pleural thickening with calcification is
+as before. On the right, there is small pleural effusion which
+is new since [**2159-1-17**]. There may be subtle ill-defined opacity
+in the right lung base. No overt pulmonary edema is seen.
+Cardiac enlargement is unchanged.
+IMPRESSIONS: Evaluation limited by spine and ribcage deformity.
+New small right pleural effusion and subtle opacity in the right
+lung base, which could represent aspiration, atelectasis, and/or
+developing consolidation.
+
+Echo [**2159-4-23**]
+  The left atrium is mildly dilated. No atrial septal defect is
+seen by 2D or color Doppler. Left ventricular wall thicknesses
+and cavity size are normal. There is mild regional left
+ventricular systolic dysfunction with infero-lateral
+hypokinesis. There is no ventricular septal defect. The right
+ventricular cavity is mildly dilated with mild global free wall
+hypokinesis. The aortic valve leaflets (3) are mildly thickened
+but aortic stenosis is not present. Trace aortic regurgitation
+is seen. The mitral valve leaflets are mildly thickened. Mild to
+moderate ([**1-13**]+) mitral regurgitation is seen. The tricuspid
+valve leaflets are mildly thickened. There is mild pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+  Compared with the report of the prior study (images
+unavailable for review) of [**2158-6-13**], no definite change.
+
+CARDIAC CATH performed on [**2156-10-4**] demonstrated:
+1. Coronary angiography in this right dominant system
+demonstrated a normal LMCA with collaterals to RPL. The LAD had
+a 90% proximal lesion with competitive flow. The LCX system had
+an occluded
+OM. The RCA was not selectively engaged.
+2. Graft angiography showed a patent SVG to diagonal and OM. The
+SVG to RPDA had a 99% proximal stenosis.
+3. Limited resting hemodynamics as detailed above revealed
+mildly
+elevated filling pressures.
+4. PCI of SVG-RPDA with 3.5 X 28 mm Cypher DES and no residual
+stenosis or complications (see PTCA comments for detail).
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Patent SVG-diagonal-OM graft.
+3. Proximal stenosis of SVG-RCA, successful PCI with Cypher
+drug-eluting stent.
+
+CARDIAC CATH performed on [**2156-10-6**] demonstrated:
+1. Successful stenting of the proximal LAD with 2.5 X 13 Cypher
+[**Name Prefix (Prefixes) **]
+[**Last Name (Prefixes) 7930**] to 3.0 with no residual stenosis.
+2. Distal LAD myocardial bridge with compression during systole
+but
+normal flow at diastole.
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Successful stenting of the proximal LAD with Cypher DES.
+
+CXR [**2159-4-22**]
+IMPRESSIONS: FINDINGS: Comparison is made to prior study from
+[**2159-4-21**]. Study is markedly limited due to patient
+positioning and the severe scoliosis. Allowing for this,
+however, there appears to be opacities within both lower lobes
+which are worrisome for consolidation or pneumonia. The
+consolidations on the right side are much more apparent than on
+the study from yesterday. Aspiration cannot be excluded.
+
+CXR [**2159-4-27**]
+FINDINGS: As compared to the previous radiograph, the volume of
+the right hemithorax has decreased. As a consequence, there is
+increased crowding of the right perihilar vessels. However,
+there is no clear evidence of pneumonia (the film strongly
+resembles the examination performed on [**2159-4-24**], 8:03
+a.m.). Unchanged marked asymmetry of the chest wall given the
+extreme scoliosis. Unchanged size of the cardiac silhouette.
+
+CT chest [**2159-4-28**]
+1. Moderate right pleural effusion with adjacent
+telectasis/consolidation.
+2. Scattered ground-glass opacities with enlarged heart. These
+findings are most likely representative of pulmonary edema.
+3. Calcified left pleural plaques consistent empyema.
+4. Prominent abdominal vessels are limited due to lack of
+intravenous
+contrast but suggestive of varices. Clinical correlation is
+recommended.
+5. Marked thoracic cage distortion due to scoliosis.
+
+Pleural fluid [**2159-4-29**]
+NEGATIVE FOR MALIGNANT CELLS.
+
+CXR [**2159-5-10**]
+As compared to the previous radiograph, the lung volumes are
+unchanged. Presence of a minimal right-sided pleural effusion
+cannot be
+excluded. Minimally increased diameters of the pulmonary vessels
+in the right upper lobe could indicate mild overhydration.
+Unchanged size of the cardiac silhouette. Unchanged aspect of
+the left lung.
+
+DISCHARGE LABS:
+[**2159-5-15**] WBC-7.7 RBC-3.72* Hgb-11.2* Hct-35.0* MCV-94 Plt Ct-335
+[**2159-5-15**] PT-29.5* PTT-37.2* INR(PT)-2.9*
+[**2159-5-15**] Glucose-94 UreaN-44* Creat-1.2 Na-142 K-4.1 Cl-96
+HCO3-38* [**2159-5-15**] Calcium-9.3 Phos-3.8 Mg-2.1
+
+Brief Hospital Course:
+Brief Hospital Course
+Professor [**Known lastname 70654**] is a 75 YOM with paroxysmal atrial
+fibrillation and coronary artery disease who presented with 5
+days of fatigue and was found to be in Atrial fibrillaton with
+RVR. Patient was admitted to the cardiology service and
+dofetilide was initiated given atrial fibrillation. On HD#1
+patient develope hypoxic respiratory distress reguiring transfer
+to the CCU where he was treated for community acquired pneumonia
+with Vancomycin, Cefepime, and Doxycycline given concern for QT
+prolongatoin. During his stay in the CCU he was intermittently
+in atrial fibrillation with RVR and would intermittently develop
+respiratory distress reguiring BiPap.  Patient was eventually
+transferred to the MICU for more intensive management of his
+pulmonary issues. There the patient completed his course of
+antibiotics and was diuresed. Slowly the patients breathing
+improved and on [**5-4**] was transfered to the general medical
+floor.
+
+Hypoxic Respiratory Distress:
+On presentation to the hospital patient was at baseline
+pulmonary status. Initial CXR with question of RLL opacity. On
+HD#1 patient developed hypoxic respiratory failure which
+[**Hospital 70655**] transfer to the CCU and broad spectrum antibiotics to
+treat RLL pneumonia visualized on CXR. Further patient became
+febrile prior to transfer. Initially patient was thought to have
+RLL infiltrate c/w pneumonia and high fever. Patient was treated
+for probable RLL pneumonia with Vancomycin, Cefepime, and
+Doxycycline completing an 8 day course. On transfer to the MICU
+the patient appeared to have superimposed pulmonary edema from
+volume resuscitation as evidenced by LOS fluid balance, interval
+weight, and clinical exam.  MICU attempted low dose lasix
+overnight [**4-27**] for diuresis and monitored respiratory status,
+with 700cc out and no worsening in creatinine.  Non-contrast CT
+showed moderate right sided pleural effusion. Based upon
+patient's respiratory distress, he underwent a 1.5L
+thoracentesis on [**4-29**] with interval improvement in respiratory
+status. Patient has limited reserve given prior pneumonectomy
+and severe kyphoscoliosis and may not tolerate small volumes of
+fluid. A Urine legionella was negative. Blood cultures negative
+(finalized). Sputum cultures contaminated. Pleural fluid
+appeared transudative and cultures NGTD. The patient was
+maintained on nebulizers as needed. The patient underwent
+aggressive diuresis with IV lasix and was negative
+approximately 6 liters for his MICU stay (though even from
+admission weight). The patient initially required BiPap around
+the clock.  He was weaned to a shovel mask and eventually to a
+nasal cannula with diuresis.  He continued on BiPap at night
+with his home settings. Based upon radiographic images, there
+was concern that patient may be aspirating.  He was evaluated by
+speech and swallow who cleared the patient for solids and thin
+liquids; pills whole with puree. After diuresis patient
+continued to improve, no longer needing BiPAP during the day.
+Patient was transferred to the general medical floor where
+diuresis was continued. The patient was maintained on nasal
+cannula 1-2L for a week, and finally weaned down to RA, satting
+mid90s on discharge. The patient was discharged on Lasix and
+Aldactone.
+
+Atrial fibrillation:
+On admission to the hospital patient was found to be in atrial
+fibrillation. With therapeutic INRs for the past two months.
+Decision was made to start dofetilide. Patient initially
+converted to sinus rhythm prior to transfer to CCU. During CCU
+stay patient was paroxysmally in atrial fibrillation which was
+intermittently controlled with diltiazem.  The patient was
+continued on dofetilide per EP recommendations, and daily EKGs
+were initially obtained to monitor for QT prolongation.  The
+patient's diltiazem was up-titrated as tolerated.  At the time
+of leaving the MICU, he was on Diltiazem Extended Release 240mg
+PO BID.  He was in sinus rhythm. On the floor, the patient was
+intermittently in afib. He was started on Metoprolol 25mg PO BID
+for better heart rate control. He was intermittently in afib and
+junction rhythm (rate 60s-80s). Dofetilide was discontinued on
+[**5-14**]. He was discharged on Dilt 240mg PO BID, Metoprolol 25mg PO
+BID.
+
+Metabolic alkalosis:
+Thought to be secondary to aggressive diuresis with lasix
+(contraction alkalosis). Correction may help respiratory status
+by preventing compensatory hypoventilation. On his last day in
+the MICU, he was started on acetazolamide 250 mg [**Hospital1 **].
+
+Junctional Bradycardia:
+Likely secondary to beta-blockers.  The patient was started on
+Metoprolol, as recommended by EP. The patient was noted to be in
+a junctional rhythm, but was not bradycardic.
+
+Coronary artery disease:
+post CABG and [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] 2.  ST depressions on EKG (stable, but
+worsened with tachycardia to 150s).  No active chest pain.
+Cardiac enzymes negative. The patient was continued on aspirin
+81 mg and his home dose Lipitor.
+
+Hypernatremia:
+The patient was intermittently hypernatremic while in the MICU,
+most recently with Na 146 on [**5-4**] free water deficit of 1.4L. He
+intermittently received D5W X 1000 cc and PO intake was
+encouraged.
+
+OSA: Continued Home BiPAP
+
+Hyperlipidemia: Continued Atorvastatin
+
+
+Medications on Admission:
+ (per DC Summary [**2159-1-18**])
+1. Atenolol 50 mg Once Daily
+2. Atorvastatin 20 mg Once Daily
+3. Fluticasone 50 mcg One Nasal Spray Daily
+4. Lorazepam 0.5 mg 1-2 Tablets PO Once Daily PRN anxiety,
+insomnia.
+5. Mirtazapine 7.5 mg PO HS
+6. Nifedipine 60 mg Once Daily
+7. Nitroglycerin 0.3 mg SL PRN Chest Pain
+8. Risedronate 35 mg once weekly
+9. Warfarin 5 mg Tablet Once Daily
+10. Aspirin 325 mg Tablet Once Daily
+11. Os-Cal 500 + D 500 mg(1,250mg) -400 unit, Twice Daily
+12. Lactobacillus Rhamnosus One Capsule PO Once a Day
+13. Bipap
+
+
+Discharge Medications:
+1. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1)
+Spray Nasal DAILY (Daily).
+3. Lactobacillus Rhamnosus (GG) 10 billion cell Capsule Sig: One
+(1) Capsule PO once a day as needed for constipation.
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+5. Mirtazapine 15 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime) as needed for Insomnia/anxiety.
+Disp:*60 Tablet(s)* Refills:*0*
+6. Diltiazem HCl 120 mg Capsule, Sustained Release Sig: Two (2)
+Capsule, Sustained Release PO BID (2 times a day).
+Disp:*120 Capsule, Sustained Release(s)* Refills:*0*
+7. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+8. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO 2X/WEEK
+([**Doctor First Name **],TU).
+9. Warfarin 5 mg Tablet Sig: One (1) Tablet PO 4X/WEEK
+(MO,WE,TH,FR,SA).
+10. Os-Cal 500 + D 500 mg(1,250mg) -400 unit Tablet Sig: One (1)
+Tablet PO twice a day.
+11. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **]
+(2 times a day) as needed for rash for 10 days.
+Disp:*1 container* Refills:*0*
+12. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+13. Aldactone 25 mg Tablet Sig: 0.5 Tablet PO once a day.
+Disp:*15 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+Primary:
+Diastolic Heart Failure
+Paroxysmal Atrial [**Hospital 9343**]
+Health care Associated Pneumonia
+Restrictive Pulmonary Disease secondary to kyphoscoliosis
+CAD
+HTN
+HLD
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. [**Known lastname 70654**],
+.
+It was a pleasure caring for you while you were hospitalized
+with fatigue and shortness of breath. During your stay your
+breathing became extremely labored [**Hospital 70656**] transfer to the
+Intensive Care Unit were you were treated with antibiotics for
+pneumonia. While in the ICU your breathing was slow to improve
+so you were also diuresed with IV diuretics (lasix). Slowly your
+breathing improved and you were transfered to regular medical
+floor. Throughout this time your heart rate was in and out of
+atrial fibrillation. Electrophysiology recommended Diltiazem and
+Metoprolol for good rate control. You were also on Dofetilide
+which was stopped since it did not keep you in a normal heart
+rhythm.
+.
+Please take all your medications as prescribed and keep all of
+your follow up appointments. Weigh yourself every morning, and
+call your physician if your weight goes up more than 3 lbs. You
+should also have lab work checked at your visit on [**2159-5-18**] to
+ensure your kidney function and electrolytes are normal.
+.
+The following changes were made to your medication regimen:
+#. CHANGE Atenolol to Metoprolol 25mg by mouth twice daily
+#. STOP Nifedipine
+#. START Diltiazem 240mg by mouth twice daily
+#. START Miconazole powder twice a day as needed for you groin
+rash
+#. Start Lasix 20mg daily on [**2159-5-17**] (Call PCP and stop if you
+feel lightheaded or dizzy)
+#. Start Aldactone 12.5mg daily on [**2159-5-17**] )Call PCP and stop if
+you feel lightheaded or dizzy)
+#. We also increased your mirtazapine to 30mg at nighttime
+#. DECREASE your aspirin to 81 mg daily
+
+Followup Instructions:
+PCP: [**Name10 (NameIs) **] have been set up to see a Nurse Practitioner, as well
+as your primary care physician in the next week:
+Provider: [**Name10 (NameIs) **] FERN, RNC
+Phone:[**Telephone/Fax (1) 250**]
+Date/Time:[**2159-5-18**] 9:00
+.
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 7212**], MD
+Phone:[**Telephone/Fax (1) 250**]
+Date/Time:[**2159-5-25**] 10:30
+.
+Cardiology: Please follow-up with Dr. [**Last Name (STitle) **]
+Date/Time: [**6-15**] at 2pm
+Phone: [**Telephone/Fax (1) 62**]
+.
+Other Appointments:
+ORTHO XRAY (SCC 2)
+Phone:[**Telephone/Fax (1) 1228**]
+Date/Time:[**2159-6-14**] 10:40
+.
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] (ortho spine)
+Phone:[**Telephone/Fax (1) 3736**]
+Date/Time:[**2159-6-14**] 11:00
+.
+PULMONARY FUNCTION LAB
+Phone:[**Telephone/Fax (1) 609**]
+Date/Time:[**2159-6-15**] 11:10
+.
+DR. [**Last Name (STitle) **]
+Phone: [**Telephone/Fax (1) 612**]
+Date/Time:[**2159-6-15**] 11:30
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD, [**MD Number(3) 2073**]
+

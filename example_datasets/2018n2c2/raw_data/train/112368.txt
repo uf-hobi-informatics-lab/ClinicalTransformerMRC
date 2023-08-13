@@ -1,0 +1,318 @@
+Admission Date:  [**2112-12-5**]              Discharge Date:   [**2112-12-12**]
+
+Date of Birth:  [**2060-11-12**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Bactrim
+
+Attending:[**First Name3 (LF) 4028**]
+Chief Complaint:
+Upper GI Bleed
+
+Major Surgical or Invasive Procedure:
+Endoscopy with cauterization
+Intubation/Extubation
+Central line placement
+
+
+History of Present Illness:
+Ms. [**Known lastname 4427**] is a 52 year old F with HIV (CD4 488 and VL <48 [**7-8**])
+who presented with 2days of hematemesis and melena. Pt called
+Dr. [**First Name (STitle) 1075**] of ID with report of feeling dizzy with black stool,
+and was referred to the ED. In the ED she initially vomited dark
+material but this progressed to bright red emesis. In the ED,
+vital signs were 98.4 125 111/51 22 100%. She was subsequently
+intubated in the ED for airway protection (not respiratory
+distress.)  EKG had shown sinus tachycardia. She was given 2
+PIVs, 1upRBCs, 3L IVF, and Protonix 40 IV x 1, then transferred
+to the MICU. Pt has a history of viral illness and
+tylenol/ibuprofen use of unknown amount. She has a history of
+prior EGD [**4-7**] that showed esophagitis.
+.
+Allergies: Bactrim (rash)
+
+
+Past Medical History:
+HIV: >10 yrs. Contracted via heterosexual activity. CD4 488, VL
+>48 as of [**7-8**].
+h/o esophagitis s/p EGD [**4-7**]
+hiatal hernia
+HTN
+Asthma
+anemia
+carpal tunnel
+Obesity
+HSV I/II
+Crack cocaine abuse
+
+
+Social History:
+lives with daughter and [**Name2 (NI) 12496**]. no smoking or drinking, has
+worked as school bus monitor ([**4-7**] OMR)
+
+
+Family History:
+noncontributory
+
+Physical Exam:
+ON ADMISSION TO MICU
+Vitals T 97.9 P 87 Bp 117/68 RR 16 O2 100% on AC 500x14 0.4
+General Obese woman intubated and sedated
+HEENT Sclera pale, conjunctiva anicteric
+Neck Larger neck, can't assess JVP
+Pulm Lungs clear bilaterally
+CV Regular S1 S2 no m/r/g
+Abd Soft obese +bowel sounds nontender
+Extrem Feet cool with palpable pulses
+Neuro Opens eyes to voice, shakes head when asked about pain
+with sedation lightened
+
+ON ADMISSION TO THE FLOOR
+VS: 97.1 114/84 90 22 95% RA
+Gen: awake, sleepy, NAD
+HEENT: oropharynx clear, no LAD, PERRL, EOMI grossly; [**Month/Year (2) **] in
+place, no erythema
+CV: RRR, no m/r/g, S1 S2
+LUNGS: CTAB anteriorly
+ABD: obese, soft, NTND, bs+
+EXT: no c/c/e, wwp, pneumoboots on
+
+
+Pertinent Results:
+***LABS ON ADMISSION***
+[**2112-12-5**] 08:15PM   HCT-31.8*
+[**2112-12-5**] 06:10PM   TYPE-ART PO2-188* PCO2-46* PH-7.34* TOTAL
+CO2-26 BASE XS--1
+[**2112-12-5**] 05:56PM   GLUCOSE-114* UREA N-33* CREAT-0.5 SODIUM-143
+POTASSIUM-4.2 CHLORIDE-113* TOTAL CO2-26 ANION GAP-8
+[**2112-12-5**] 05:56PM   estGFR-Using this
+[**2112-12-5**] 05:56PM   ALT(SGPT)-11 AST(SGOT)-15 LD(LDH)-123 ALK
+PHOS-39 TOT BILI-0.3
+[**2112-12-5**] 05:56PM   ALBUMIN-3.2* CALCIUM-7.8* PHOSPHATE-3.8
+MAGNESIUM-2.0
+[**2112-12-5**] 05:56PM   WBC-6.5 RBC-3.49* HGB-11.1* HCT-31.6* MCV-91
+MCH-31.8 MCHC-35.1* RDW-13.9
+[**2112-12-5**] 05:56PM   PLT COUNT-205
+[**2112-12-5**] 05:56PM   PT-13.5* PTT-22.5 INR(PT)-1.2*
+[**2112-12-5**] 01:29PM   TYPE-ART PO2-514* PCO2-41 PH-7.38 TOTAL
+CO2-25 BASE XS-0
+[**2112-12-5**] 01:29PM   GLUCOSE-159* K+-3.7
+[**2112-12-5**] 01:29PM   HGB-10.4* calcHCT-31
+[**2112-12-5**] 12:20PM   WBC-8.3# RBC-3.64* HGB-11.2* HCT-33.4* MCV-92
+MCH-30.7 MCHC-33.4 RDW-13.6
+[**2112-12-5**] 12:20PM   NEUTS-70.0 LYMPHS-26.8 MONOS-2.2 EOS-0.5
+BASOS-0.6
+[**2112-12-5**] 12:20PM   PLT COUNT-258
+
+***LABS DURING HOSPITAL STAY***
+
+[**2112-12-9**] 08:12PM BLOOD Hct-25.2*
+[**2112-12-9**] 03:56AM BLOOD Plt Ct-208
+[**2112-12-9**] 03:56AM BLOOD Glucose-110* UreaN-13 Creat-0.5 Na-140
+K-3.2* Cl-107 HCO3-29 AnGap-7*
+[**2112-12-9**] 03:56AM BLOOD Calcium-8.4 Phos-4.1 Mg-1.8
+Urine culture- negative
+MRSA Screen- negative
+H.Pylori- pending
+
+**IMAGING**
+EKG [**2112-12-7**]
+Sinus tachycardia. Low limb lead voltage. Since the previous
+tracing
+of [**2102-9-26**] limb lead voltage is lower.
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+106 138 82 330/410 68 49 63
+
+CXR [**2112-12-5**]
+FINDINGS: Portable upright AP chest radiograph is obtained.
+Right CP angle
+is excluded thus limiting evaluation. Evaluation is also limited
+by
+underpenetrated technique. The lungs appear clear bilaterally.
+Cardiomediastinal silhouette is stable. Osseous structures
+appear intact.
+Left AC joint hypertrophic changes are noted.
+IMPRESSION: Limited study without evidence of acute process.
+Right CP angle
+exclusion limits evaluation.
+
+CXR [**2112-12-8**]
+There are relatively low inspiratory volumes on this
+examination. Right-sided
+IJ central venous catheter remains present, with the tip
+difficult to
+visualize but probably at the cavoatrial junction. The cardiac
+and
+mediastinal silhouettes remain unchanged. Allowing for low
+inspiratory
+volume, no gross pulmonary consolidation is seen. No evidence of
+
+pneumothorax. Osseous structures remain unchanged and grossly
+unremarkable
+aside from mild degenerative changes at the right
+acromioclavicular joint.
+IMPRESSION: Low inspiratory volumes; no appreciable interval
+change or
+evidence of acute cardiopulmonary disease.
+
+
+
+
+Brief Hospital Course:
+#. GIB: Hematemesis has been consistent with an upper GI source.
+ Patient was transferred to the ICU from ED intubated for airway
+protection and underwent emergent EGD, with clot in fundus that
+was not unroofed, but no other sources of bleeding.  Patient
+then underwent placement of a Right Internal Jugular central
+line and received a total of 3 units of blood for a hematocrit
+which nadered at 26. She was initially started on a protonix
+drip which was changed to [**Hospital1 **] dosing of 40 mg after her HCT was
+stable.  She was extubated on ICU day 2 and remained somewhat
+confused and disoriented.  This was thought to be related to the
+Benzodiazepines administered for sedation.  She underwent a
+second EGD by GI, which found flat lesions and an ulcer in the
+cardia treated with epinepherine and gold probe.  She also had
+some evidence of esophagitis.  On the third ICU day, patient
+remained somewhat confused, but was otherwise hemodynamically
+stable and was transferred to the floor.
+   On the floor, crit continued to remain stable, ranging
+between 25-27.3. Pt received one additional unit pRBC on the
+floor. Pt continued to remain hemodynamically stable, and was
+resumed on her home HCTZ. Pt did not have any additional
+episodes of melena or hemetemesis. Mental status and lethargy
+cleared up and patient as alert and oriented on day of
+discharge. She was continued on a high dose PPI (40mg PO bid),
+and will be following up as outpt with her PCP. [**Name10 (NameIs) **] was removed
+prior to discharge (had been maintained on the floor as pt had
+poor peripheral access.) PT was consulted, and initially felt
+that pt would benefit from continued PT, but upon re-eval, pt
+was doing much better and will be able to go home without PT.
+H.pylori is pending and will need to be followed up as
+outpatient.
+.
+# HIV: Pt is on anti-retroviral therapy. Her last CD4 count was
+488 and VL <48 as of [**7-8**]. She was continued on her HAART during
+her stay (Lamivudine, Abacavir, Tenofovir, Ritonovir,
+Fosamprenivir.) CD4/VL was re-checked per pt request and results
+are pending, so will need to be followed up as outpt. Pt will
+need to follow-up for further HIV management with her PCP, [**Last Name (NamePattern4) **].
+[**Last Name (STitle) 11528**] (appt scheduled.)
+.
+# HTN: Pt is on HCTZ at home. This was held on admission given
+bleed. This was resumed at discharge as pt was hemodynamically
+stable (systolic BPs stable in 100-130s)with no further obvious
+signs of bleed on day of discharge.
+.
+# FEN: regular heart healthy diet. Pt was cleared by speech and
+swallow evaluation for advancing as tolerated s/p extubation,
+and pt was tolerating regular solids on day of discharge.
+.
+# PPX: Pneumoboots, PO PPI [**Hospital1 **]
+.
+# ACCESS: no PIVs (poor access), [**Hospital1 **] (pulled before discharge)
+.
+# Communication: patient
+.
+# Code: presumed full
+.
+# Dispo: discharge to home with PCP [**Last Name (NamePattern4) 702**].
+
+
+Medications on Admission:
+Epzicom
+Tenofovir
+Fosamprenavir, ritonavir
+Albuterol
+HCTZ
+omeprazole
+Oxybutynin
+Tylenol
+Sarna
+Ferrous sulfate
+Simethicone
+
+
+Discharge Medications:
+1. Fosamprenavir 700 mg Tablet Sig: Two (2) Tablet PO Q24H
+(every 24 hours).
+2. Ritonavir 100 mg Capsule Sig: Two (2) Capsule PO DAILY
+(Daily).
+3. Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+4. Epzicom 600-300 mg Tablet Sig: One (1) Tablet PO once a day.
+
+5. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 Puffs Inhalation Q4H (every 4 hours) as needed for shortness
+of breath or wheezing.
+6. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once
+a day.
+7. Omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO twice a day.
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+8. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO three times a day.
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+10. Iron 325 mg (65 mg Iron) Tablet Sig: One (1) Tablet PO once
+a day.
+Disp:*30 Tablet(s)* Refills:*2*
+11. Sarna Anti-Itch 0.5-0.5 % Lotion Sig: One (1) application
+Topical twice a day as needed for itching.
+12. Oxybutynin Chloride 5 mg Tablet Sig: One (1) Tablet PO bid
+or tid as needed for urinary frequency.
+13. Tylenol Extra Strength 500 mg Tablet Sig: 1-2 Tablets PO
+every six (6) hours as needed for pain: Please do not take more
+than 4000mg per day.
+14. Simethicone 60 mg Tablet Sig: One (1) Tablet PO once a day
+as needed for bloating.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis: Upper GI bleed; ulcer
+HIV
+Anemia from acute blood loss
+
+
+Discharge Condition:
+hemodynamically stable, anemia stable, afebrile, tolerating PO
+solids
+
+
+Discharge Instructions:
+You were admitted for uppger GI bleeding from a stomach ulcer.
+You were in the ICU, and required blood transfusions.  There was
+also concern of your airway from all of the bleeding, therefore
+you were intubated in the ICU as well.  You were extubated and
+did well.  You had an ENDOSCOPY (camera in your throat) that saw
+an ulcer, which was cauterized (medication to stop the
+bleeding).  Your blood counts remained stable.  You were started
+on OMEPRAZOLE 40 mg TWICE DAILY to help with the bleeding ulcer.
+
+
+Please take all remaining medications as prescribed. Please
+AVOID NSAIDS for pain relief (e.g. Advil, Aleve, Ibuprofen),
+given your recent ulcer. Please keep all scheduled appointments.
+
+
+If you develop any of the following concerning symptoms, please
+call your PCP or go to the ED: chest pains, shortness of breath,
+fevers, chills, lightheadedness, dizziness, or blood from your
+stools.
+
+Followup Instructions:
+Appt with Dr. [**Last Name (STitle) 8499**]: [**2111-12-15**] 10:15 AM. Please
+have him follow up on your h.pylori antibody test and CD4/Viral
+load test results.
+
+Provider: [**Last Name (NamePattern4) **]. [**First Name (STitle) **] BLOOD Phone:[**Telephone/Fax (1) 457**] Date/Time:[**2113-1-4**]
+11:00
+
+
+
+Completed by:[**2112-12-12**]

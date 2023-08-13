@@ -1,0 +1,333 @@
+Admission Date:  [**2197-8-23**]              Discharge Date:   [**2197-8-27**]
+
+Date of Birth:  [**2143-5-24**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Compazine / Methotrexate / Ceftazidime
+
+Attending:[**First Name3 (LF) 5755**]
+Chief Complaint:
+fever and hypotension
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+This is a 54yo M with Crohn's disease s/p multiple surgeries
+with resultant short gut syndrome [**12-22**] to colectomy and ileostomy
+and TPN dependency who was recently admitted to [**Hospital1 18**] for
+evaluation of low grade fevers, history of multiple line
+infections, MV endocarditis and osteomyelitis for which the pt
+is on chronic vancomycin for last 4 years, hickman for TPN, now
+present w/ fever and hypotension.
+.
+At home he became febrile (24 hr nursing care) w/ to 103.4. His
+nurse called Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] (ID)on [**8-23**] who was notified
+that he developed fever to 101 but subsequently deferveced. He
+was instructed to call back if recurrent fever. Dr. [**First Name (STitle) **] was
+called back later that his temp was 103 and she instructed him
+to go to the ED. He also had +fatigue. He had decreased activity
+and appetite. + Dyspnea w/any exertion.
+.
+He was recently admit to [**Hospital1 **] 2 weeks ([**Date range (1) 8403**]) ago for fever -
+work up for etiology neg. Durint that admission, he had no
+leukocytosis. CXR was negative for pneumonia. All blood cultures
+were negative to date, including cultures for yeast, mycolytic
+infections and for M. furfur. Urine culture was negative. TEE
+was negative for endocarditis. CT of the cspine and bone scan
+were negative for osteomyelitis. MRI showed subtle signal
+changes which may suggest chronic osteomyelitis but no prior MRI
+was available for comparision( last one was in [**2193**], when he did
+not have osteo).His Hickman was felt to be free of infection, so
+it was not pulled.
+.
+He denies any headache, neck pain, CP, chills, lightheadedness,
+headache, cough/sputum production, or change in bowel or urinary
+habits (burning, frequency, etc.). He also has noticed no
+erythema, tenderness, or swelling around his Hickman line (last
+changed [**2196-7-21**]), though he notes that his previous line
+infections have also been without external/visible changes. He
+has no sick contacts or recent travel.
+.
+In the ED, he had bld cultures sent. Vanco and zosyn was given
+(pt was already on vanco qod). ID was notified. CXR no evidence
+no focal infiltrate or change from prior CXR. BP 70s/40s. 2L NS.
+BP improved to 80-90s/40s.He did not have any signs of distress
+and was mentating within his normal range Small rim of erythema
+around Hickman, but obvious pus. Stoma was WNL.
+.
+He was transferred to the ICU for closer monitoring for
+hypotension.
+
+
+Past Medical History:
+1. Crohn's disease s/p multiple surgeries with resultant
+ileostomy and shortgut syndrome dependent on TPN with chronic
+hypocalcemia, vitamin D deficiency.
+2. Infectious: Staph epidermidis C4-C5 Osteomyelitis (on
+Chronic Vancomycin), Endocarditis with Mitral Valve Vegetation,
+Recurrent Polymicrobial Line Sepsis, Previous RLL PNA, LE
+Cellulits
+3. Respiratory - COPD (Baseline PaCO2 of 48), H/O ARDS x 2 with
+Intubations/Tracheostomy ([**2192**] and [**2193**]), Klebsiella bacteremia.
+
+4. Severe MR
+5. CKD (Baseline Cr 1.3 to 1.4)
+6. Anemia of Chronic Inflammation (on EPO)
+7. Mild Dementia
+8. Chronic Pain (Fentanyl 50 mcg Patch)
+9. Restless Leg Syndrome
+10. Steroid-Induced Osteoporosis
+11. Multiple Spinal Compression Fx
+12. Peripheral Neuropathy
+13. UGIB/Duodenal Ulcer ([**2193**])
+14. Depression
+15. Bilateral SVC Thrombi.
+
+Social History:
+Lives alone; 24[**Hospital 8018**] nursing care with multiple nurses; fully
+intact ADLs; ambulates without assistance; never married; has no
+
+children; has worked many odd jobs; he has five brothers and one
+
+sister that are very supportive.
+His brother [**Name (NI) **] [**Name (NI) **] is his health care proxy.
+[**Name (NI) **] has a 60-pack-year history of smoking.  He reports minimal
+alcohol use and previous use of marijuana but denies any IVDU.
+
+
+Family History:
+F: Crohn's disease
+M: TIA in her 70s
+GF: DM
+
+Physical Exam:
+On Admission:
+VS BP 98/65 P 60 RR 14 O2 98% RA
+Gen:NAD, tired appearing male in NAD
+HEENT:PERRL, dry MM, oral pharynx clear
+Neck:Supple, flat JVP
+CV:RRR, III/VI SEM over LLSB
+Resp:good inspiratory effort w/ occasional wheezing
+Abd:Soft, non-tender, non-distended, stoma intact
+Ext:warm, +2 distal pulses
+Neuro:A +Ox3, CN II-XII intact, motor and sensory grossly intact
+
+Pertinent Results:
+[**2197-8-23**] 07:00PM BLOOD WBC-10.0# RBC-3.92* Hgb-12.4* Hct-35.4*
+MCV-90 MCH-31.5 MCHC-34.9 RDW-15.3 Plt Ct-180
+[**2197-8-25**] 05:37AM BLOOD WBC-3.4* RBC-3.40* Hgb-10.4* Hct-30.9*
+MCV-91 MCH-30.5 MCHC-33.6 RDW-15.2 Plt Ct-162
+[**2197-8-23**] 07:00PM BLOOD Neuts-83* Bands-10* Lymphs-2* Monos-2
+Eos-3 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2197-8-25**] 05:37AM BLOOD Plt Ct-162
+[**2197-8-25**] 05:37AM BLOOD PT-12.9 PTT-33.2 INR(PT)-1.1
+[**2197-8-25**] 05:37AM BLOOD Glucose-116* UreaN-33* Creat-2.0* Na-137
+K-3.9 Cl-107 HCO3-23 AnGap-11
+[**2197-8-24**] 07:45AM BLOOD Glucose-98 UreaN-33* Creat-2.0* Na-140
+K-4.2 Cl-109* HCO3-22 AnGap-13
+[**2197-8-23**] 07:00PM BLOOD ALT-21 AST-17 AlkPhos-848* TotBili-3.1*
+[**2197-8-25**] 05:37AM BLOOD Calcium-8.6 Phos-3.2 Mg-2.4
+[**2197-8-24**] 07:45AM BLOOD calTIBC-178* Ferritn-463* TRF-137*
+[**2197-8-23**] 07:18PM BLOOD Lactate-1.3
+Retic 2.4, hapto 207, LDH 165, FENa 5.6%, bili 3.1->1.8, alk
+phos 848->763, ALT 21, AST 17, vanco 12.5
+.
+Microbiology:
+TPN fungal culture: pending
+Blood cultures: pending
+Urine culture: negative
+Fungal blood cultures: pending
+Stool c diff negative x 1
+.
+RUQ U/S:
+FINDINGS: The patient is status post cholecystectomy. There is
+no intra- or extra-hepatic biliary ductal dilatation. The common
+duct measures 6 mm in diameter, which is not significantly
+changed, allowing for differences in technique. The main portal
+vein shows appropriate hepatopetal flow. No focal liver lesions
+are identified, and the echotexture of the liver appears normal.
+IMPRESSION: No evidence of biliary obstruction.
+.
+FRONTAL CHEST: Cardiac and mediastinal contours appear stable,
+with mild cardiomegaly. No focal consolidations are identified
+within the lungs. No evidence of pleural effusion. Multiple
+right-sided rib fractures again seen. Right-sided central venous
+line with tip overlying the distal SVC. Cervical fusion hardware
+again noted.
+IMPRESSION: No evidence of acute cardiopulmonary process or
+significant change from prior study.
+
+
+Brief Hospital Course:
+Fever: Blood culture and urine cultures were sent. CXR on
+admission did not show focal infiltrate. He was started on vanco
+(increased from chronic qod to qd) and zosyn (per discussion w/
+ID). His recent hosp admission record [**7-26**] was reviewed and
+showed extensive infectious workup which was unrevealing
+(including MRI c-spine, which revealed no significant new
+changes; neg bone scan; negative blood cultures; negative TEE).
+GI and ID were concerned that his line (hickman placed in [**7-25**])
+was the source of his fever. He has never had anything cultured
+from the line and his cultures are again negative, though his
+chronic vancomycin may be suppressing the organism. ID
+recommended his home TPN be cultured (including M furfur).
+Given negative cultures, the zosyn was discontinued and his
+vancomycin was returned to [**Location **] dosing.  The patient remained
+afebrile x 24 hours and was thus discharged home with
+instructions to continue checking his temperature at least 2
+times per day.
+
+Hypotension-Pt was initially hypotensive to SBP 70s in the ED.
+He responded quickly to a number of 500cc IVF boluses over the
+initial 48 hrs. His BP meds were initially held.  He will
+follow-up with his primary care doctor for a repeat blood
+pressure check to consider restarting his lisinopril given his
+history of MR.  His norvasc and lasix are also being held.
+
+Hyperbilirubinemia/Elevated ALk Phos- His alk phos and bili were
+elevated on admission (rest of his LFTs was relatively stable).
+He did not complain of pain. RUQ u/s recommended by GI was
+unremarkable.  Labs were improving at the time of discharge
+
+Anemia-He has baseline anemia in the range of 35-37. His hct
+slowly drifted down to low 30s on admission. Hemolysis labs were
+sent but were normal.  Iron studies suggest anemia of chronic
+disease.  Folate and B12 were normal.
+
+Nutrition-Pt was initially given standard TPN as his home
+formula was not available. Dr. [**Name (NI) 79**] (pt 's own GI specialist)
+came by on [**8-25**] and gave specific instruction on the
+non-standard TPN formulation.
+
+
+Medications on Admission:
+1. Polysaccharide Iron Complex 150 mg [**Hospital1 **]
+2. Pantoprazole 40 mg q 24
+3. Ascorbic Acid 500 mg daily
+4. Calcium Carbonate 1500 mg daily
+5. Calcitriol 0.25 mcg daily
+6. Ergocalciferol (Vitamin D2) 50,000 unit q wk
+7. Lisinopril 20 mg daily
+8. Furosemide 20 mg daily
+9. Zolpidem 5 mg qhs
+10. Risperidone 0.25 mg [**Hospital1 **]
+11. Dronabinol 5 mg tid
+12. Glutamine 10 g tid
+13. Amlodipine 2.5 mg q 2pm
+14. Ursodiol 600 mg [**Hospital1 **]
+15. Acetaminophen 325 mg prn
+16. Clonazepam 0.5 mg tid prn
+17. Albuterol inhal q6 prn
+18. Lorazepam 1 mg qhs prn
+19. Opium Tincture 10 mg/mL Tincture Sig: Ten (10) Drop PO Q4-6H
+prn
+20. Vancomycin HCl 1000 mg IV Q48H
+21. Zofran *NF* 8 mg IV Q8H:PRN PRN
+22. Epoetin Alfa 10,000 unit/mL qwk
+
+
+Discharge Medications:
+1. Polysaccharide Iron Complex 150 mg Capsule Sig: One (1)
+Capsule PO BID (2 times a day).
+2. Calcium Carbonate 500 mg Tablet, Chewable Sig: Three (3)
+Tablet, Chewable PO DAILY (Daily).
+3. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+4. Risperidone 0.25 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+5. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Dronabinol 2.5 mg Capsule Sig: Two (2) Capsule PO TID (3
+times a day).
+7. Glutamine 10 g Packet Sig: One (1) Packet PO TID (3 times a
+day).
+8. Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+10. Ursodiol 300 mg Capsule Sig: Two (2) Capsule PO BID (2 times
+a day).
+11. Albuterol 90 mcg/Actuation Aerosol Sig: One (1)  Inhalation
+every 4-6 hours.
+12. Vitamin D 50,000 unit Capsule Sig: One (1) Capsule PO once a
+week.
+13. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO three times
+a day as needed for anxiety: hold for rr < 8 or oversedation.
+14. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1)
+gram Intravenous  Q48H (every 48 hours).
+15. Epogen 10,000 unit/mL Solution Sig: One (1) injection
+Injection once a week.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) **] home therapy
+
+Discharge Diagnosis:
+hypotension
+fever
+acute renal failure
+hyperbilirubinemia
+anemia of chronic disease
+history of short gut syndrome on TPN
+history of cervical osteomyelitis on chronic vancomycin
+
+
+Discharge Condition:
+good: afebrile, wbc down, creatinine back to baseline
+
+
+Discharge Instructions:
+Please call Dr. [**First Name (STitle) **] or go to the emergency room for
+temperature > 101, low blood pressure, decreased urine output,
+weight gain > 3 pounds, chest pain, back/neck pain, or other
+concerning symptoms.
+
+Please store your TPN in a separate mini-refrigerator that you
+should bleach one time per week to prevent TPN contamination.
+
+Please continue your home TPN, as previously prescribed.  No
+changes have been made.
+
+Please stop taking supplemental IVF each day.
+
+Please follow-up with your primary care doctor or his nurse
+practitioner within 1 week for a blood pressure check and labs
+including kidney function (creatinine) to consider restarting
+your lisinopril.  For now, please do not take that medication.
+Please also defer starting your amlodipine and lasix for now.
+If your weight increases > 3 pounds, please call your doctor to
+discuss restarting the lasix.
+
+Please continue getting weekly labs each Monday, which are faxed
+to Dr. [**First Name4 (NamePattern1) 450**] [**Last Name (NamePattern1) 79**].
+
+You were hospitalized for fever of concern for infection. You
+were given zosyn (antibiotics) in addition to vancomycin. Blood
+and urine cultures were drawn and your TPN was being cultured
+for possible source of infection. Infectious disease was
+consulted. Dr. [**Last Name (STitle) 79**] also came by to evaluate you. A right upper
+quadrant ultrasound showed no dilation of your bile ducts,
+despite elevated bilirubin which has since improved.  Your blood
+count is stable.
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) 1037**] [**Last Name (NamePattern4) 2335**], MD Phone:[**Telephone/Fax (1) 457**]
+Date/Time:[**2197-8-29**] 11:30
+Provider: [**Name10 (NameIs) **] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 1954**]
+Date/Time:[**2197-9-27**] 11:15. PLEASE CALL HER OFFICE ON TUESDAY
+MORNING TO SCHEDULE AN EARLIER APPOINTMENT (1-2 WEEKS)
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Phone:[**Telephone/Fax (1) 2422**] Date/Time:[**2197-10-16**]
+11:30
+
+Please call Tuesday to schedule follow-up with Dr. [**Last Name (STitle) 5717**] in [**11-21**]
+weeks. Phone: [**Telephone/Fax (1) 250**]
+
+
+

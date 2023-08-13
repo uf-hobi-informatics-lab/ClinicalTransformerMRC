@@ -1,0 +1,452 @@
+Admission Date:  [**2180-9-9**]              Discharge Date:   [**2180-10-13**]
+
+Date of Birth:  [**2148-11-12**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Nafcillin / Peanut
+
+Attending:[**First Name3 (LF) 5569**]
+Chief Complaint:
+Abdominal pain and fever
+
+Major Surgical or Invasive Procedure:
+Colonoscopy ([**2180-9-11**])
+
+
+History of Present Illness:
+31yoF with h/o IVDA, cirrhosis [**1-19**] autoimmune hepatitis c/b
+portal HTN w/ ascites, variceal bleed s/p TIPS on [**2180-7-17**], and
+hepatic encephalopathy, as well as hyperglycemia [**1-19**] TIPs and
+steroids represents with abd pain. Of note, the patient was just
+admitted Thurs->Friday for N/V/abd pain. During that admission,
+she had a CT scan which showed no cause for her pain.
+Gastroenteritis was presumed and she was discharged home after
+her symptoms improved with zofran and dilaudid.
+.
+She reports that after discharge on Friday, she felt well. Then,
+this morning ~ 5 AM, abd pain woke her from sleep. The pain was
+diffuse, sharp and intermittent. She was able to get back to
+sleep after 45 minutes. Then, when her mom woke her to check her
+fsbg ~ 10, she again noticed the abd pain. She slept most of the
+day, but did have 1 episode of nbnb emesis and felt persistently
+nauseated. She also took her temperature during the course of
+the day and it trended from 101 to 99.0. Her mother thought she
+should go to the hospital because of the pain and vomiting so
+she went to Addison-[**Doctor Last Name **].
+.
+At OSH ED, she received zofran 4 mg, dilaudid 1 mg x 3, and 1L
+NS. Her pain improved. She was transferred to [**Hospital1 18**] because she
+was concerned she needed imaging, which couldn't happen quickly
+there. At [**Hospital1 **] ED, initial VS 99.9 82 109/57 14 99% on RA. First
+set of labs was inaccurate. 2nd set of labs significant for
+baseline pancytopenia, Na 137, Cr 0.6, and INR 2.2 (bl = 1.8)
+(though INR was from first draw). LFTs were near baseline. RUQ
+U/S showed cirrhotic liver, stable splenomegaly, unchanged
+gallbladder wall edema and new to-and-fro flow in the left
+portal vein. She was given 2L NS, 0.5 mg IV dilaudid x2, and 4
+mg IV zofran. Stool guaiac was negative.
+.
+Currently, VS 97.4 126/74 87 20 100% on RA. She states that she
+feels much better now though still has [**5-26**] diffuse, sharp abd
+pain. Her nausea has resolved and she ate 2 box meals in the ED
+today. She says that she feels silly to have come to the ED
+again with most of the tests being negative and asks if she is
+expected to have abd pain/nausea/vomiting with her disease. She
+wasn't sure whether or not she should have come to the hospital
+and didn't know who to call to ask.
+.
+ROS: + low-grade fevers, abd pain, n/v, fatigue
+Denies night sweats, headache, vision changes, rhinorrhea,
+congestion, sore throat, cough, shortness of breath, chest pain,
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.
+.
+Finally, this patient has had a complicated course over the past
+3 months. Briefly, she was admitted on [**6-12**] for a GI bleed -
+grade 1 varices without bleeding seen on EGD. She represented on
+[**7-1**] again with GI bleeding - EGD showed non-bleeding varices,
+gastritis, and portal gastropathy. She was admitted again on
+[**7-12**] for a third GI bleed - this admission she had TIPS
+procedure performed. Course was complicated by high-grade MRSA
+bacteremia requiring 6 weeks of IV vancomycin (at rehab, d/t
+concern of IVDA and PICC line). She was then admitted from rehab
+on [**8-8**] for hepatic encephalopathy and again on [**8-25**] for hepatic
+encephalopathy and hyperglycemia.
+
+
+Past Medical History:
+# Autoimmune hepatitis: [**Doctor First Name **]+, AMA-, [**Last Name (un) 15412**]+
+# Cirrhosis, complicated by varices, hepatic encephalopathy, and
+ascites s/p TIPS [**2180-7-17**]
+# Hep C: Genotype 3. most recent viral load undetectable
+# high grade S aureus bacteremia on vancomycin
+# hematemesis in [**5-/2180**] and EGD with + grade I esophageal/
+duodenal varices noted
+# Rheumatoid Arthritis
+# Herpes zoster
+# Compartment syndrome in R arm s/p surgical decompression
+[**11/2178**]
+# C section in [**2175**]
+# Osteomyelitis [**2177**]
+
+Social History:
+Currently lives at home with her mother.  She is single, has 2
+children (one living with father, one with paternal grandma).
+active smoker ([**12-19**] PPD x 15yrs). denies recent EtOH, drugs. Per
+rehab records, she has a hsitory of marijuana and heroin use.
+Used to work as a CNA.
+
+
+Family History:
+Father died of overdose when the patient was only 7. Mother has
+hypothyroidism. A paternal aunt has diabetes mellitus.
+
+Physical Exam:
+EXAM ON ADMISSION:
+VS - 97.4 126/74 87 20 100% on RA
+GENERAL - well-appearing woman w/ moon facies, pleasant, NAD
+HEENT - NC/AT, PERRL, EOMI, sclerae anicteric, MMM, OP clear
+NECK - supple, no thyromegaly, no JVD, no carotid bruits
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp unlabored
+
+HEART - RRR, no MRG, nl S1-S2
+ABDOMEN - NABS, soft/ND, mildly TTP diffusely, no masses or HSM,
+no rebound/guarding
+EXTREMITIES - WWP, no c/c, 1+ PE in bil. ankles, 2+ peripheral
+pulses (radials, DPs)
+SKIN - spider angiomas on chest, multiple small excoriations on
+arms and legs -> pt states that she has pruritis and itches at
+these lesions constantly
+NEURO - no asterixis, grossly intact
+.
+EXAM ON DISCHARGE:
+Same as above, except ...
+
+Pertinent Results:
+LABS ON ADMISSION:
+
+[**2180-9-10**] 12:42AM BLOOD WBC-3.4* RBC-2.10*# Hgb-8.1*# Hct-24.1*#
+MCV-115* MCH-38.7* MCHC-33.7 RDW-16.2* Plt Ct-60*
+[**2180-9-10**] 06:42AM BLOOD WBC-2.7* RBC-1.95* Hgb-7.4* Hct-21.5*
+MCV-111* MCH-38.2* MCHC-34.5 RDW-15.9* Plt Ct-46*
+[**2180-9-10**] 09:30PM BLOOD Hgb-8.8* Hct-25.0*
+[**2180-9-10**] 12:42AM BLOOD Neuts-60.5 Lymphs-28.0 Monos-6.2 Eos-4.6*
+Baso-0.8
+[**2180-9-10**] 06:42AM BLOOD PT-19.4* PTT-39.8* INR(PT)-1.8*
+[**2180-9-10**] 12:42AM BLOOD Glucose-192* UreaN-8 Creat-0.6 Na-137
+K-3.3 Cl-107 HCO3-22 AnGap-11
+[**2180-9-10**] 12:42AM BLOOD ALT-48* AST-73* AlkPhos-155* TotBili-3.8*
+[**2180-9-10**] 06:42AM BLOOD ALT-40 AST-54* AlkPhos-142* Amylase-53
+TotBili-3.3*
+[**2180-9-10**] 06:42AM BLOOD Lipase-70*
+[**2180-9-10**] 06:42AM BLOOD Calcium-7.9* Phos-2.7 Mg-1.7
+[**2180-9-10**] 06:42AM BLOOD VitB12-1238* Folate-14.5
+[**2180-9-10**] 02:32PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG
+cocaine-NEG amphetm-NEG mthdone-NEG
+.
+MICROBIOLOGY:
+.
+DIAGNOSTICS:
+DUPLEX DOPP ABD/PEL [**2180-9-9**]
+DUPLEX DOPPLER ULTRASOUND OF THE LIVER: The liver demonstrates
+heterogeneous
+echogenicity, findings consistent with patient's known history
+of cirrhosis.
+No focal hepatic lesion is identified. The visualized portions
+of the
+pancreatic head, neck, and body are within normal limits.
+Evaluation of the
+tail is limited by overlying bowel gas. The spleen remains
+enlarged measuring
+15.7 cm. There is unchanged diffuse gallbladder wall edema,
+findings
+consistent with patient's underlying chronic liver disease.
+However, no focal
+gallstones are visualized. The common bile duct measures 5 mm
+and is not
+dilated. There is a mild amount of perihepatic and left upper
+quadrant
+ascites, which is new compared to prior ultrasound though
+similar compared to
+recent CT examination.
+
+LIVER DOPPLER: Color and pulse wave Doppler examination of the
+hepatic
+vasculature demonstrates a patent main portal vein with a peak
+systolic
+velocity of 44 cm/sec compared to 59 cm/sec on recent prior. The
+TIPS is in
+unchanged position with wall-to-wall flow throughout and typical
+respiratory
+variations. The velocity in the proximal TIPS ranges from
+167-196 cm/sec
+compared to 150-190 cm/sec on recent prior. The range of
+velocities in the
+mid TIPS ranges from 144-164 cm/sec, decreased compared to prior
+when it
+measured 177-231 cm/sec. The peak systolic velocity in the
+distal TIPS
+measures 134 cm/sec compared to 121 cm/sec on the prior. The IVC
+is patent
+with usual directional flow. The left portal vein demonstrates
+some to- and
+fro- flow which appears new compared to prior examination,
+though centrally
+flow is in the direction of the TIPS. The main hepatic artery
+demonstrates
+normal arterial Doppler waveform with a peak systolic velocity
+of 85 cm/sec.
+
+IMPRESSION:
+1. Patent TIPS with wall-to-wall flow and respiratory
+variability. Stable
+velocities in the proximal and distal TIPS with slightly
+decreased velocities
+in the mid TIPS compared to recent prior examination.
+2. Newly identified to and fro flow within the left portal vein,
+though
+centrally flow appears hepatofugal towards the TIPS stent.
+3. Stable cirrhotic-appearing liver, diffuse gallbladder wall
+edema and
+splenomegaly.
+4. Small amount of perihepatic and left upper quadrant ascites,
+which is new
+compared to prior ultrasound though similar compared to recent
+CT examination.
+.
+PERTINENT LABS ON DISCHARGE:
+
+
+Brief Hospital Course:
+31 y.o. F with h/o IDDM, IVDA, cirrhosis [**1-19**] autoimmune
+hepatitis c/b portal HTN w/ ascites, variceal bleed s/p TIPS on
+[**2180-7-17**], and hepatic encephalopathy, presented with abd pain and
+occult anemia. Hct drop from 24 to 21. PRBC transfusion was
+given.  She underwent endoscopy on [**2180-9-12**] complicated by a GI
+bleed when a previously placed coil in the duodenum became
+dislodged. The pt's Hct dropped to 16.9 and she was taken to IR
+to embolize the bleeding duodenal varix and subsequently
+transferred to the CCU.
+
+Transplant surgery was consulted and on [**2180-9-13**] she was taken to
+the OR for exploratory laparotomy, ligation of duodenal varix,
+duodenotomy, and retrieval of embolic coils. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 406**] drain was
+placed. Surgeon was Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]. Please refer to operative
+note for details.
+
+Postop course was complicated by high ascites drain output
+requiring IV fluid replacements and albumin. Diet was slowly
+advanced. Lactulose and Rifaximin were started to prevent
+encephalopathy. She had high pain med requirements for
+persistent abdominal pain. Drain fluid was sent for cell count
+and culture on [**9-22**]. Culture of fluid isolated 2 species of
+Acinetobacter Baumanii pan-sensitive except Bactrim. She was
+started on Cetriaxone. Fluid was re-sent on [**9-25**] demonstrating
+94 WBC and 21 polys. Culture was negative.
+
+On postop day 13, she was re-started on Lasix and Aldactone. On
+postop day 14, the [**Doctor Last Name 406**] drain was removed. Incision and old
+drain site remained dry. However, abdominal girth increased.
+Creatinine started to rise.
+
+On [**9-29**], a liver donor offer was available. Patient accepted
+and underwent Liver Transplant. Surgeon was Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].
+Please refer to operative note for details. She was sent to SICU
+immediately postop for management where she was extubated. LFTs
+increased as anticipated. Liver US/Duplex demonstrated patent
+arteries with resistive index in the right hepatic artery  0.7
+to 0.78,  main hepatic artery was 0.78 to 0.79, and left hepatic
+artery was 0.68. The middle, right, and left hepatic veins were
+patent with normal waveforms. The main, right anterior, right
+posterior and left portal veins are patent with normal
+waveforms. No intrahepatic or extrahepatic biliary ductal
+dilatation was seen. Repeat liver duplex was unchanged. LFTs
+trended down.
+
+Creatinine continued to rise to 3.2 then decrease. Lasix was
+given for generalized edema.
+
+Diet was advanced and tolerated. Insulin gtt was initially
+started then switched to sliding scale. She remained
+hemodynamically stable and was transferred out of the SICU.
+
+LFTs decreased. [**Last Name (un) **] was consulted and Lantus with sliding
+scale ordered.  She was assisted out of bed to ambulate. Pain
+medication was switched to po Dilaudid. Dose was increased for
+c/o abdominal pain. Lateral JP was removed on [**10-3**] and site
+sutured. This remained dry. On [**10-9**], a liver biopsy was
+performed for rising alk phos. Biopsy demonstrated bile duct
+proliferation. An ERCP was then done on [**10-11**] noting CBD
+stricture; duct was stented. Alk phos decreased after stenting.
+She tolerated the procedure fairly well. She complained of
+abdominal pain and severe headache. She was also hypertensive.
+This was treated with IV Lopressor and IV Morphine. Head CT was
+normal. Norvasc was stopped for potential etiology of headache.
+Headache and abdominal pain resolved.
+
+Immunosuppression consisted of Cellcept which was well
+tolerated, steroids were tapered per protocol. Prograf was
+initiated and doses adjusted. The plan was for Prednisone to
+continue permanently after taper for Autoimmune hepatitis. Lasix
+was continued for 2+ leg edema. Creatinine normalized.
+
+She was cleared by PT for home safety and was discharged to her
+mother's home with VNA services. She demonstrated good knowledge
+of medications and insulin management.
+
+Of note, she experienced developed diffuse itching and burning
+of the skin
+and sensation of shortness of breath after eating a peanut
+butter [**Location (un) 6002**].  She was given Benadryl for this and was
+evaluated by Dr. [**First Name (STitle) 2602**] Sheik, who felt that she could have
+acquired  passive transfer of food specific IgE antibodies with
+a organ transplant. She was instructed to avoid all peanut
+products strictly for the next month and/or until seen in
+[**Hospital 9039**] Clinic in followup. Serum specific IgE to peanuts and
+other common food allergens were sent, and she was given an
+EpiPen script on discharge.  Administration technique was
+provided. She will followup in the outpatient [**Hospital 9039**] Clinic n
+two to four weeks.  Results of blood tests were to be reviewed
+at that time.
+
+Medications on Admission:
+MEDICATIONS: (from prior discharge summary)
+# lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q2H
+(every 2 hours) as needed for see additional instructions:
+Please titrate to [**2-18**] BMs/day. [**Month (only) 116**] take 30 ml Q2 hr for BM <3. .
+
+# azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+# magnesium oxide 400 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+# sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+# spironolactone 25 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily): Please give with furosemide .
+# furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+Please give with spironolactone .
+# metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day): Please hold for systolic blood pressure <90.
+# pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+# rifaximin 550 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+# prednisone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+# insulin glargine 100 unit/mL Cartridge Sig: Thirty (30) units
+Subcutaneous qam: Please take 30 units of glargine insulin in
+the morning.
+# ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO every eight (8) hours as needed for nausea for
+5 doses.
+# clotrimazole 10 mg Troche Sig: One (1) Troche Mucous membrane
+5X/DAY (5 Times a Day).
+# fluconazole 150 mg Tablet Sig: One (1) Tablet PO EVERY 3 DAYS
+(Every 3 Days).
+# insulin lispro 100 unit/mL Solution Sig: sliding scale
+Subcutaneous per sliding scale: Please take insulin lispro as
+directed by your home sliding scale three times a day before
+meals and before bedtime.
+
+
+Discharge Medications:
+1. fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every
+24 hours).
+2. prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+follow sliding scale taper.
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. mycophenolate mofetil 500 mg Tablet Sig: Two (2) Tablet PO
+BID (2 times a day).
+5. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+6. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO twice a day.
+7. valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO once a
+day.
+8. tacrolimus 1 mg Capsule Sig: Five (5) Capsule PO Q12H (every
+12 hours).
+9. insulin lispro 100 unit/mL Solution Sig: follow sliding scale
+ Subcutaneous four times a day.
+Disp:*1 bottle* Refills:*2*
+10. tacrolimus 1 mg Capsule Sig: Three (3) Capsule PO Q12H
+(every 12 hours).
+11. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+12. pregabalin 25 mg Capsule Sig: Two (2) Capsule PO QHS (once a
+day (at bedtime)).
+Disp:*60 Capsule(s)* Refills:*2*
+13. morphine 15 mg Tablet Extended Release Sig: One (1) Tablet
+Extended Release PO Q12H (every 12 hours).
+Disp:*28 Tablet Extended Release(s)* Refills:*0*
+14. oxycodone 5 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4
+hours) as needed for pain.
+Disp:*70 Tablet(s)* Refills:*0*
+15. furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*20 Tablet(s)* Refills:*1*
+16. NPH insulin human recomb 100 unit/mL Suspension Sig: Twenty
+(20) units Subcutaneous once a day.
+Disp:*1 bottle* Refills:*2*
+17. Insulin Syringes
+Low dose U-100 syringes
+25-26 gauge [**12-19**] inch needle for [**Hospital1 **] NPH and sliding scale qid
+humalog
+supply: 1 box
+refill:2
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+vna carenetwork
+
+Discharge Diagnosis:
+Allergic reaction likely due to peanuts (passive transfer from
+donor liver)
+history of MRSA bacteremia
+cirrhosis secondary to autoimmune hepatitis status post TIPS
+Hyperglycemia secondary to medications
+HCV
+peritonitis
+HRS, ATN
+VRE UTI
+biliary stricture
+DM
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+please call the Transplant Office [**Telephone/Fax (1) 673**] if you have any
+of the following:
+fever (temperature of 101 or greater), shaking chills, nausea,
+vomiting, inability to take any of your medications, jaundice,
+increased abdominal pain, incision redness/bleeding/drainage,
+abdominal distension or decreased urine output.
+-You will need to have blood drawn every Monday and Thursday for
+lab monitoring
+-do not lift anything heavier than 10 pounds/no straining
+-no driving while taking pain medication
+-you may shower
+
+Followup Instructions:
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 9978**] MD [**Telephone/Fax (1) 2378**] ([**Last Name (un) **] Endocrinology)
+[**Location (un) 551**] [**Last Name (un) **] , [**Last Name (un) 3911**], [**Location (un) 86**], MA
+Provider: [**First Name11 (Name Pattern1) 674**] [**Last Name (NamePattern4) 675**], MD Phone:[**Telephone/Fax (1) 673**]
+Date/Time:[**2180-10-20**] 3:00
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 14254**], [**Name12 (NameIs) 1046**] Phone:[**Telephone/Fax (1) 673**]
+Date/Time:[**2180-10-27**] 1:30
+Provider: [**First Name11 (Name Pattern1) 674**] [**Last Name (NamePattern4) 675**], MD Phone:[**Telephone/Fax (1) 673**]
+Date/Time:[**2180-10-27**] 2:50
+
+
+
+Completed by:[**2180-10-16**]

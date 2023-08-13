@@ -1,0 +1,283 @@
+T1	Drug 13696 13702	haldol
+T2	Drug 12360 12370	vancomycin
+T3	Drug 11785 11791	flagyl
+T4	Drug 14667 14678	allopurinol
+T5	Drug 7501 7511	Vancomycin
+T6	Drug 15118 15128	Lisinopril
+T7	Strength 15129 15134	20 mg
+T8	Form 15155 15161	Tablet
+T9	Dosage 15147 15154	One (1)
+T10	Frequency 15165 15171;15172 15175	once a day
+T11	Route 15162 15164	PO
+T12	Drug 10511 10521	vancomycin
+T13	Drug 11793 11802	aztreonam
+T15	Drug 7955 7965	Vancomycin
+T16	Duration 8097 8107	for 8 days
+T17	Drug 9940 9948	levaquin
+T18	Drug 13335 13341	haldol
+T19	Drug 7513 7522	Aztreonam
+T20	Drug 15323 15331	Atenolol
+T21	Strength 15332 15338	100 mg
+T22	Form 15359 15365	Tablet
+T23	Dosage 15351 15358	Two (2)
+T24	Drug 14391 14398	heparin
+T25	Frequency 14402 14405	tid
+T26	Drug 7155 7161	flagyl
+T27	Drug 9953 9959	flagyl
+T28	Drug 10659 10669	Vancomycin
+T30	Drug 7528 7534	Flagyl
+T31	Drug 8359 8369	prednisone
+T32	Drug 15212 15231	Hydrochlorothiazide
+T33	Strength 15232 15239	12.5 mg
+T34	Form 15261 15268	Capsule
+T35	Dosage 15253 15260	One (1)
+T36	Route 15269 15271	PO
+T37	Drug 15022 15033	Allopurinol
+T38	Strength 15034 15040	300 mg
+T39	Form 15092 15098	Tablet
+T41	Frequency 15071 15077;15078 15081	once a day
+T42	Route 15068 15070	PO
+T43	Drug 7216 7222	flagyl
+T44	Drug 10580 10590	vancomycin
+T45	Duration 10591 10601	for 8 days
+T46	Drug 14655 14665	lisinopril
+T47	Reason 7166 7174	?LLL PNA
+T48	Reason 14806 14825	shortness of breath
+T49	Reason 14829 14837	wheezing
+T50	Reason 14961 14980	shortness of breath
+T51	Reason 14984 14992	wheezing
+T52	Drug 7150 7154	levo
+T53	Drug 7211 7215	levo
+T54	Drug 8091 8096	Vanco
+T55	Drug 8578 8584	NSAIDs
+T56	Reason 10448 10456;10457 10469	Hospital acquired PNA
+T57	Drug 11228 11232	ACEI
+T59	Drug 12227 12232	vamco
+T60	Reason 12081 12095	Line infection
+T61	Route 14399 14401	sq
+T62	Drug 14639 14643	hctz
+T63	Drug 14645 14653	atenelol
+T64	Drug 14711 14720	Albuterol
+T65	Strength 14721 14737	90 mcg/Actuation
+T66	Form 14738 14745	Aerosol
+T67	Dosage 14751 14758	Two (2)
+T68	Form 14759 14764	puffs
+T69	Route 14765 14775	Inhalation
+T70	Frequency 14776 14801	every 4-6 hours as needed
+T71	Drug 14867 14875	Atrovent
+T72	Strength 14876 14892	18 mcg/Actuation
+T73	Form 14893 14900	Aerosol
+T74	Dosage 14906 14913	Two (2)
+T75	Form 14914 14919	puffs
+T76	Route 14920 14930	Inhalation
+T77	Frequency 14931 14956	every 4-6 hours as needed
+T78	Form 15135 15141	Tablet
+T79	Form 15240 15247	Capsule
+T80	Frequency 15272 15285	DAILY (Daily)
+T81	Form 15339 15345	Tablet
+T82	Route 15366 15368	PO
+T83	Frequency 15369 15382	DAILY (Daily)
+R1	Strength-Drug Arg1:T7 Arg2:T6
+R2	Form-Drug Arg1:T8 Arg2:T6
+R3	Dosage-Drug Arg1:T9 Arg2:T6
+R4	Frequency-Drug Arg1:T10 Arg2:T6
+R5	Route-Drug Arg1:T11 Arg2:T6
+R6	Strength-Drug Arg1:T21 Arg2:T20
+R7	Form-Drug Arg1:T22 Arg2:T20
+R8	Dosage-Drug Arg1:T23 Arg2:T20
+R9	Frequency-Drug Arg1:T25 Arg2:T24
+R11	Strength-Drug Arg1:T33 Arg2:T32
+R12	Form-Drug Arg1:T34 Arg2:T32
+R13	Dosage-Drug Arg1:T35 Arg2:T32
+R14	Route-Drug Arg1:T36 Arg2:T32
+R15	Strength-Drug Arg1:T38 Arg2:T37
+R16	Form-Drug Arg1:T39 Arg2:T37
+R18	Frequency-Drug Arg1:T41 Arg2:T37
+R19	Route-Drug Arg1:T42 Arg2:T37
+R20	Duration-Drug Arg1:T45 Arg2:T44
+R21	Reason-Drug Arg1:T47 Arg2:T52
+R22	Reason-Drug Arg1:T47 Arg2:T26
+R23	Duration-Drug Arg1:T16 Arg2:T54
+R24	Reason-Drug Arg1:T56 Arg2:T12
+R25	Reason-Drug Arg1:T60 Arg2:T59
+R28	Route-Drug Arg1:T61 Arg2:T24
+R29	Reason-Drug Arg1:T49 Arg2:T64
+R30	Reason-Drug Arg1:T48 Arg2:T64
+R31	Frequency-Drug Arg1:T70 Arg2:T64
+R32	Route-Drug Arg1:T69 Arg2:T64
+R33	Form-Drug Arg1:T68 Arg2:T64
+R34	Dosage-Drug Arg1:T67 Arg2:T64
+R35	Form-Drug Arg1:T66 Arg2:T64
+R36	Strength-Drug Arg1:T65 Arg2:T64
+R37	Reason-Drug Arg1:T51 Arg2:T71
+R38	Reason-Drug Arg1:T50 Arg2:T71
+R39	Route-Drug Arg1:T76 Arg2:T71
+R40	Frequency-Drug Arg1:T77 Arg2:T71
+R41	Form-Drug Arg1:T75 Arg2:T71
+R42	Dosage-Drug Arg1:T74 Arg2:T71
+R43	Form-Drug Arg1:T73 Arg2:T71
+R44	Strength-Drug Arg1:T72 Arg2:T71
+R45	Form-Drug Arg1:T78 Arg2:T6
+R46	Frequency-Drug Arg1:T80 Arg2:T32
+R47	Form-Drug Arg1:T79 Arg2:T32
+R48	Frequency-Drug Arg1:T83 Arg2:T20
+R49	Route-Drug Arg1:T82 Arg2:T20
+R50	Form-Drug Arg1:T81 Arg2:T20
+T84	Form 15186 15192	Tablet
+T87	Form 15393 15399	Tablet
+T90	Form 15296 15303	Capsule
+T96	ADE 8537 8540	ARF
+T97	Reason 7986 8000	line infection
+T98	ADE 7332 7353	drug hypersensitivity
+T101	Dosage 15053 15060	One (1)
+T102	Form 15041 15047	Tablet
+T103	Form 15061 15067	Tablet
+T104	Drug 515 519	IL-2
+T105	Reason 524 534;535 543	metastatic melanoma
+T106	Drug 611 615	IL-2
+T107	Route 616 625	infusions
+T108	Frequency 607 610	TID
+T109	ADE 637 651;652 656	decline in his plts
+T110	ADE 685 714;715 729	11# weight gain attributed to capillary leak
+T111	Frequency 1001 1006	daily
+T112	Drug 1007 1014	indocin
+T113	Drug 1024 1028	IL-2
+T114	Drug 1506 1509	FFP
+T115	Reason 1344 1356	abt bleeding
+T116	Drug 1511 1515	plts
+T117	Drug 6099 6111	IL-2 therapy
+T118	ADE 6140 6148	diarrhea
+T119	ADE 6176 6182	nausea
+T120	ADE 6187 6195	vomiting
+T121	Drug 6579 6582	FFP
+T122	Drug 6584 6588	plts
+T123	Reason 6597 6602;6603 6624	guiac positive brown stools
+T124	Drug 6931 6934	PPI
+T125	ADE 7070 7093	capillary leak syndrome
+T126	ADE 7027 7042	pulmonary edema
+T127	Dosage 7099 7101	HD
+T128	Drug 7102 7106	IL-2
+T129	Drug 7476 7494	broad spectrum abx
+T130	Drug 7632 7640	steroids
+T131	ADE 8118 8131	LFT elevation
+T132	Drug 8150 8154	IL-2
+T133	Drug 9275 9279	IL-2
+T134	Reason 9251 9270	metastatic melanoma
+T135	ADE 9328 9334	fevers
+T136	ADE 9336 9348	resp failure
+T137	ADE 9360 9386	non-cardiogenic pulm edema
+T138	Drug 9528 9539	antibiotics
+T139	Drug 9772 9776	Il-2
+T140	ADE 9743 9766	capillary leak syndrome
+T141	Reason 9893 9896	PNA
+T142	Drug 10173 10176	abx
+T143	Drug 10346 10350	IL'2
+T144	Reason 10333 10341	melanoma
+T145	Drug 10415 10434	empiric sntibiotics
+T146	Reason 10474 10488	line infection
+T147	Drug 10705 10709	nebs
+T148	Frequency 10710 10723	prn if needed
+T149	Drug 11004 11012	contrast
+T150	ADE 11021 11032	nephropathy
+T151	Drug 11440 11448	steroids
+T152	Drug 11504 11523	empiric antibiotics
+T153	Reason 11292 11297	Fever
+T154	Drug 11760 11771	empiric a/b
+T155	Drug 11807 11812	vanco
+T156	Drug 12008 12018	Free water
+T157	Dosage 12019 12026	boluses
+T158	Drug 12031 12034	D5w
+T159	Reason 11940 11953	Hypernatremia
+T160	Reason 12438 12457	Metastatic Melanoma
+T161	Drug 12460 12464	Il-2
+T162	Drug 12915 12918	PPI
+T163	Reason 12771 12779	GI Bleed
+T164	Drug 13038 13042	IL-2
+T165	Drug 13065 13069	IL-2
+T166	ADE 12983 12996	Elevated LFTs
+T167	Reason 13124 13133	Confusion
+T168	Reason 14366 14371	Proph
+T169	Drug 14373 14376	PPI
+T170	Drug 14680 14683	MVI
+T171	Dosage 15576 15585	High dose
+T172	Drug 15586 15590	IL-2
+T173	Reason 15544 15563	Metastatic melanoma
+T174	ADE 15603 15626	Capillary Leak Syndrome
+T175	Dosage 15640 15649	High dose
+T176	Drug 15650 15654	IL-2
+T177	ADE 15711 15740	Elevated liver function tests
+T178	Dosage 15754 15763	high dose
+T179	Drug 15764 15768	IL-2
+R51	Reason-Drug Arg1:T105 Arg2:T104
+R52	Frequency-Drug Arg1:T108 Arg2:T106
+R53	Route-Drug Arg1:T107 Arg2:T106
+R54	ADE-Drug Arg1:T109 Arg2:T106
+R55	ADE-Drug Arg1:T110 Arg2:T106
+R56	Frequency-Drug Arg1:T111 Arg2:T112
+R57	Reason-Drug Arg1:T115 Arg2:T116
+R58	Reason-Drug Arg1:T115 Arg2:T114
+R59	ADE-Drug Arg1:T120 Arg2:T117
+R60	ADE-Drug Arg1:T119 Arg2:T117
+R61	ADE-Drug Arg1:T118 Arg2:T117
+R62	Reason-Drug Arg1:T123 Arg2:T121
+R63	Reason-Drug Arg1:T123 Arg2:T122
+R64	ADE-Drug Arg1:T126 Arg2:T128
+R65	ADE-Drug Arg1:T125 Arg2:T128
+R66	Dosage-Drug Arg1:T127 Arg2:T128
+R67	ADE-Drug Arg1:T131 Arg2:T132
+R68	Reason-Drug Arg1:T134 Arg2:T133
+R69	ADE-Drug Arg1:T137 Arg2:T133
+R70	ADE-Drug Arg1:T136 Arg2:T133
+R71	ADE-Drug Arg1:T135 Arg2:T133
+R72	ADE-Drug Arg1:T140 Arg2:T139
+R73	Reason-Drug Arg1:T144 Arg2:T143
+R74	Reason-Drug Arg1:T146 Arg2:T145
+R75	Frequency-Drug Arg1:T148 Arg2:T147
+R76	ADE-Drug Arg1:T150 Arg2:T149
+R77	Reason-Drug Arg1:T153 Arg2:T151
+R78	Reason-Drug Arg1:T153 Arg2:T152
+R79	Reason-Drug Arg1:T159 Arg2:T158
+R80	Reason-Drug Arg1:T159 Arg2:T156
+R81	Dosage-Drug Arg1:T157 Arg2:T156
+R82	Reason-Drug Arg1:T160 Arg2:T161
+R83	Reason-Drug Arg1:T163 Arg2:T162
+R84	ADE-Drug Arg1:T166 Arg2:T164
+R85	ADE-Drug Arg1:T166 Arg2:T165
+R86	Reason-Drug Arg1:T168 Arg2:T169
+R87	Reason-Drug Arg1:T173 Arg2:T172
+R88	Dosage-Drug Arg1:T171 Arg2:T172
+R89	ADE-Drug Arg1:T174 Arg2:T176
+R90	Dosage-Drug Arg1:T175 Arg2:T176
+R91	Dosage-Drug Arg1:T178 Arg2:T179
+R92	ADE-Drug Arg1:T177 Arg2:T179
+T180	Drug 6082 6089	indocin
+T181	Frequency 6076 6081	daily
+R94	Frequency-Drug Arg1:T181 Arg2:T180	
+T94	ADE 7311 7315	rash
+R95	ADE-Drug Arg1:T94 Arg2:T43	
+R96	ADE-Drug Arg1:T94 Arg2:T53	
+R97	ADE-Drug Arg1:T98 Arg2:T43	
+R98	ADE-Drug Arg1:T98 Arg2:T53	
+R99	Reason-Drug Arg1:T97 Arg2:T15	
+R100	ADE-Drug Arg1:T96 Arg2:T55	
+T182	Drug 8597 8605	contrast
+R101	ADE-Drug Arg1:T96 Arg2:T182	
+R102	Reason-Drug Arg1:T141 Arg2:T17	
+R103	Reason-Drug Arg1:T141 Arg2:T27	
+R104	Reason-Drug Arg1:T146 Arg2:T12	
+R105	Reason-Drug Arg1:T56 Arg2:T145	
+R106	Reason-Drug Arg1:T167 Arg2:T18	
+R107	Form-Drug Arg1:T102 Arg2:T37	
+R108	Dosage-Drug Arg1:T101 Arg2:T37	
+R109	Form-Drug Arg1:T103 Arg2:T37	
+R17	Form-Drug Arg1:T84 Arg2:T6	
+R110	Form-Drug Arg1:T90 Arg2:T32	
+R111	Form-Drug Arg1:T87 Arg2:T20	
+T14	Route 10670 10672	IV
+R10	Route-Drug Arg1:T14 Arg2:T28	
+T29	Route 12224 12226	IV
+R26	Route-Drug Arg1:T29 Arg2:T59	
+T40	Route 12357 12359	IV
+R27	Route-Drug Arg1:T40 Arg2:T2	
+T58	Reason 13134 13147	ICU psychosis
+R93	Reason-Drug Arg1:T58 Arg2:T18	

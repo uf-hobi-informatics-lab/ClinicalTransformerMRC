@@ -1,0 +1,259 @@
+T1	Drug 1025 1031	Valium
+T2	Strength 1032 1035	5mg
+R1	Strength-Drug Arg1:T2 Arg2:T1
+T3	Drug 1037 1043	Ativan
+T4	Strength 1044 1047	2mg
+R2	Strength-Drug Arg1:T4 Arg2:T3
+T5	Drug 1055 1063	nicotine
+T6	Form 1064 1069	patch
+R3	Form-Drug Arg1:T6 Arg2:T5
+T7	Strength 1458 1461	2mg
+R4	Strength-Drug Arg1:T7 Arg2:T9
+T9	Drug 1465 1471	Ativan
+T10	Drug 165 171	Haldol
+T11	Reason 506 510;511 521	EtOH withdrawal
+R6	Reason-Drug Arg1:T11 Arg2:T12
+T12	Drug 527 534	Librium
+T13	Dosage 5547 5548	1
+R7	Dosage-Drug Arg1:T13 Arg2:T15
+T14	Strength 5550 5553	5mg
+R8	Strength-Drug Arg1:T14 Arg2:T15
+T15	Drug 5554 5561	zyprexa
+T16	Strength 5566 5569	2mg
+R9	Strength-Drug Arg1:T16 Arg2:T17
+T17	Drug 5570 5576	ativan
+T19	Reason 5584 5593	agitation
+R11	Reason-Drug Arg1:T19 Arg2:T17
+T20	Drug 6108 6113	Benzo
+T21	ADE 6114 6126	intoxication
+R12	ADE-Drug Arg1:T21 Arg2:T20
+T22	Strength 6159 6164	450mg
+R13	Strength-Drug Arg1:T22 Arg2:T23
+T23	Drug 6165 6172	librium
+T24	Duration 6173 6184	over 4 days
+R14	Duration-Drug Arg1:T24 Arg2:T23
+T25	Drug 6279 6284	benzo
+T26	ADE 6285 6297	intoxication
+R15	ADE-Drug Arg1:T26 Arg2:T25
+T27	Drug 6409 6415	benzos
+T29	Drug 6443 6449	fluids
+T30	Drug 6470 6478	vitamins
+T31	Drug 6480 6483	MVI
+T32	Drug 6485 6491	folate
+T33	Drug 6493 6501	thiamine
+T34	Drug 6503 6509	B vits
+T35	Drug 6750 6756	benzos
+T36	Drug 6935 6941	haldol
+T37	Drug 7076 7084	vistaril
+T38	Drug 7086 7093	lexapro
+T39	Drug 7095 7102	inderal
+T40	Drug 7107 7114	topamax
+T41	Drug 7416 7422	Ativan
+T42	Strength 7423 7426	1mg
+R17	Strength-Drug Arg1:T42 Arg2:T41
+T43	Route 7427 7429	PO
+R18	Route-Drug Arg1:T43 Arg2:T41
+T44	Frequency 7430 7433	BID
+R19	Frequency-Drug Arg1:T44 Arg2:T41
+T45	Reason 7438 7447	agitation
+R20	Reason-Drug Arg1:T45 Arg2:T41
+T46	Drug 7448 7458	Folic acid
+T47	Strength 7459 7462	1mg
+R21	Strength-Drug Arg1:T47 Arg2:T46
+T48	Route 7463 7465	PO
+R22	Route-Drug Arg1:T48 Arg2:T46
+T49	Frequency 7466 7471	daily
+R23	Frequency-Drug Arg1:T49 Arg2:T46
+T50	Drug 7472 7479	Inderal
+T51	Strength 7480 7484	20mg
+R24	Strength-Drug Arg1:T51 Arg2:T50
+T52	Route 7485 7487	PO
+R25	Route-Drug Arg1:T52 Arg2:T50
+T53	Frequency 7488 7491	BID
+R26	Frequency-Drug Arg1:T53 Arg2:T50
+T54	Drug 7492 7499	Lexapro
+T55	Strength 7500 7504	20mg
+R27	Strength-Drug Arg1:T55 Arg2:T54
+T56	Route 7505 7507	PO
+R28	Route-Drug Arg1:T56 Arg2:T54
+T57	Frequency 7508 7513	daily
+R29	Frequency-Drug Arg1:T57 Arg2:T54
+T58	Drug 7514 7521	Librium
+T59	Dosage 7522 7527	taper
+R30	Dosage-Drug Arg1:T59 Arg2:T58
+T60	Drug 7550 7565	Magnesium oxide
+T61	Strength 7566 7571	400mg
+R31	Strength-Drug Arg1:T61 Arg2:T60
+T62	Route 7572 7574	PO
+R32	Route-Drug Arg1:T62 Arg2:T60
+T63	Frequency 7575 7578	BID
+R33	Frequency-Drug Arg1:T63 Arg2:T60
+T64	Drug 7579 7591	Multivitamin
+T65	Dosage 7592 7593	1
+R34	Dosage-Drug Arg1:T65 Arg2:T64
+T66	Form 7594 7597	tab
+R35	Form-Drug Arg1:T66 Arg2:T64
+T67	Route 7598 7600	PO
+R36	Route-Drug Arg1:T67 Arg2:T64
+T68	Frequency 7601 7606	daily
+R37	Frequency-Drug Arg1:T68 Arg2:T64
+T69	Drug 7607 7625	Potassium chloride
+T70	Strength 7626 7631	20mEq
+R38	Strength-Drug Arg1:T70 Arg2:T69
+T71	Route 7632 7634	PO
+R39	Route-Drug Arg1:T71 Arg2:T69
+T72	Frequency 7635 7638	BID
+R40	Frequency-Drug Arg1:T72 Arg2:T69
+T73	Drug 7639 7647	Thiamine
+T74	Strength 7648 7653	100mg
+R41	Strength-Drug Arg1:T74 Arg2:T73
+T75	Route 7654 7656	PO
+R42	Route-Drug Arg1:T75 Arg2:T73
+T76	Frequency 7657 7662	daily
+R43	Frequency-Drug Arg1:T76 Arg2:T73
+T77	Drug 7663 7670	Topamax
+T78	Strength 7671 7676	150mg
+R44	Strength-Drug Arg1:T78 Arg2:T77
+T79	Route 7677 7679	PO
+R45	Route-Drug Arg1:T79 Arg2:T77
+T80	Frequency 7680 7683	qhs
+R46	Frequency-Drug Arg1:T80 Arg2:T77
+T81	Drug 7684 7692	Vistaril
+T82	Strength 7693 7697	50mg
+R47	Strength-Drug Arg1:T82 Arg2:T81
+T83	Route 7698 7700	Po
+R48	Route-Drug Arg1:T83 Arg2:T81
+T84	Frequency 7701 7704	TID
+R49	Frequency-Drug Arg1:T84 Arg2:T81
+T85	Drug 7705 7722	Vitamin B Complex
+T86	Dosage 7723 7724	1
+R50	Dosage-Drug Arg1:T86 Arg2:T85
+T87	Form 7725 7728	tab
+R51	Form-Drug Arg1:T87 Arg2:T85
+T88	Route 7729 7731	PO
+R52	Route-Drug Arg1:T88 Arg2:T85
+T89	Frequency 7732 7737	daily
+R53	Frequency-Drug Arg1:T89 Arg2:T85
+T90	Drug 7766 7776	Folic Acid
+T91	Strength 7777 7781	1 mg
+R54	Strength-Drug Arg1:T91 Arg2:T90
+T92	Form 7782 7788	Tablet
+R55	Form-Drug Arg1:T92 Arg2:T90
+T93	Dosage 7794 7797;7798 7801	One (1)
+R56	Dosage-Drug Arg1:T93 Arg2:T90
+T94	Form 7802 7808	Tablet
+R57	Form-Drug Arg1:T94 Arg2:T90
+T95	Route 7809 7811	PO
+R58	Route-Drug Arg1:T95 Arg2:T90
+T96	Frequency 7812 7817;7818 7825	DAILY (Daily)
+R59	Frequency-Drug Arg1:T96 Arg2:T90
+T97	Drug 7862 7886	B-Complex with Vitamin C
+T98	Form 7891 7897	Tablet
+R60	Form-Drug Arg1:T98 Arg2:T97
+T99	Dosage 7903 7910	One (1)
+R61	Dosage-Drug Arg1:T99 Arg2:T97
+T100	Form 7911 7914	Cap
+R62	Form-Drug Arg1:T100 Arg2:T97
+T101	Route 7915 7917	PO
+R63	Route-Drug Arg1:T101 Arg2:T97
+T102	Frequency 7918 7923	DAILY
+R64	Frequency-Drug Arg1:T102 Arg2:T97
+T103	Drug 7966 7978	Multivitamin
+T104	Form 7983 7989	Tablet
+R65	Form-Drug Arg1:T104 Arg2:T103
+T105	Dosage 7995 7998;7999 8002	One (1)
+R66	Dosage-Drug Arg1:T105 Arg2:T103
+T106	Form 8003 8009	Tablet
+R67	Form-Drug Arg1:T106 Arg2:T103
+T107	Route 8010 8012	PO
+R68	Route-Drug Arg1:T107 Arg2:T103
+T108	Frequency 8013 8018;8019 8026	DAILY (Daily)
+R69	Frequency-Drug Arg1:T108 Arg2:T103
+T109	Drug 8063 8075	Thiamine HCl
+T110	Strength 8076 8082	100 mg
+R70	Strength-Drug Arg1:T110 Arg2:T109
+T111	Form 8083 8089	Tablet
+R71	Form-Drug Arg1:T111 Arg2:T109
+T112	Dosage 8095 8098;8099 8102	One (1)
+R72	Dosage-Drug Arg1:T112 Arg2:T109
+T113	Form 8103 8109	Tablet
+R73	Form-Drug Arg1:T113 Arg2:T109
+T114	Route 8110 8112	PO
+R74	Route-Drug Arg1:T114 Arg2:T109
+T115	Frequency 8113 8118	DAILY
+R75	Frequency-Drug Arg1:T115 Arg2:T109
+T116	Drug 8256 8263	librium
+T117	ADE 8264 8276	intoxication
+R76	ADE-Drug Arg1:T117 Arg2:T116
+T118	ADE 8457 8486	changes in your mental status
+R77	ADE-Drug Arg1:T118 Arg2:T121
+T119	Drug 851 857	benzos
+T120	ADE 8589 8601	intoxication
+R78	ADE-Drug Arg1:T120 Arg2:T121
+T121	Drug 8607 8614	librium
+T122	Drug 9201 9209	vitamins
+T124	Drug 9217 9223	fluids
+T125	Drug 9304 9312	thiamine
+T126	Strength 9313 9318	100mg
+R80	Strength-Drug Arg1:T126 Arg2:T125
+T127	Frequency 9319 9324	daily
+R81	Frequency-Drug Arg1:T127 Arg2:T125
+T128	Drug 9326 9338	multivitamin
+T129	Frequency 9339 9344	daily
+R82	Frequency-Drug Arg1:T129 Arg2:T128
+T130	Drug 9346 9363	vitamin B complex
+T131	Dosage 9364 9365	1
+R83	Dosage-Drug Arg1:T131 Arg2:T130
+T132	Form 9366 9369	tab
+R84	Form-Drug Arg1:T132 Arg2:T130
+T133	Frequency 9370 9375	daily
+R85	Frequency-Drug Arg1:T133 Arg2:T130
+T134	Drug 9377 9387	folic acid
+T135	Strength 9388 9391	1mg
+R86	Strength-Drug Arg1:T135 Arg2:T134
+T136	Frequency 9392 9397	daily
+R87	Frequency-Drug Arg1:T136 Arg2:T134
+T137	Drug 9493 9500	Topamax
+T138	Strength 9501 9506	150mg
+R88	Strength-Drug Arg1:T138 Arg2:T137
+T139	Route 9507 9509	PO
+R89	Route-Drug Arg1:T139 Arg2:T137
+T140	Frequency 9510 9513	qhs
+R90	Frequency-Drug Arg1:T140 Arg2:T137
+T141	Drug 9515 9523	Vistaril
+T142	Strength 9524 9528	50mg
+R91	Strength-Drug Arg1:T142 Arg2:T141
+T143	Route 9529 9531	Po
+R92	Route-Drug Arg1:T143 Arg2:T141
+T144	Frequency 9532 9535	TID
+R93	Frequency-Drug Arg1:T144 Arg2:T141
+T145	Drug 9537 9544	Inderal
+T146	Strength 9545 9549	20mg
+R94	Strength-Drug Arg1:T146 Arg2:T145
+T147	Route 9550 9552	PO
+R95	Route-Drug Arg1:T147 Arg2:T145
+T148	Frequency 9553 9556	BID
+R96	Frequency-Drug Arg1:T148 Arg2:T145
+T149	Drug 9558 9565	Lexapro
+T150	Strength 9566 9570	20mg
+R97	Strength-Drug Arg1:T150 Arg2:T149
+T151	Route 9571 9573	PO
+R98	Route-Drug Arg1:T151 Arg2:T149
+T152	Frequency 9574 9579	daily
+R99	Frequency-Drug Arg1:T152 Arg2:T149
+T153	Form 7836 7845	Tablet(s)
+R100	Form-Drug Arg1:T153 Arg2:T90	
+T154	Form 7942 7949	tablets
+R101	Form-Drug Arg1:T154 Arg2:T97	
+T155	Form 8037 8046	Tablet(s)
+R102	Form-Drug Arg1:T155 Arg2:T103	
+T156	Form 8137 8146	Tablet(s)
+R103	Form-Drug Arg1:T156 Arg2:T109	
+T8	Route 1462 1464	IV
+R5	Route-Drug Arg1:T8 Arg2:T9	
+T18	Route 5577 5579	IV
+R10	Route-Drug Arg1:T18 Arg2:T17	
+T28	Route 6440 6442	IV
+R16	Route-Drug Arg1:T28 Arg2:T29	
+T123	Route 9214 9216	IV
+R79	Route-Drug Arg1:T123 Arg2:T124	

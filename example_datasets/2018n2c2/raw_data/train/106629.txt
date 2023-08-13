@@ -1,0 +1,203 @@
+Admission Date:  [**2100-8-11**]              Discharge Date:   [**2100-8-16**]
+
+Date of Birth:  [**2065-10-13**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2641**]
+Chief Complaint:
+Drug ingestion, altered MS
+
+
+Major Surgical or Invasive Procedure:
+Intubation for Airway protection
+
+History of Present Illness:
+34 yo male with a history of narcotic abuse who was attempting
+to detox himself at home who presented to OSH ED with altered
+MS.  Following history from patient's parents:  He had been on
+OxyContin  80-100 mg tid for ~1 year. On Monday (2d pta) he
+began an outpatient detox program (Primary Care Associates
+[**Telephone/Fax (1) **]).  Medications listed below, he was given a 1d
+prescription and the medications were administered by his
+mother.  On the 1st night he was restless and did not sleep
+well, therefore on Tuesday his regimen was changed to an
+increased dose of doxepin, librium, and neurontin and ambien and
+baclofen were added.  Last night, he was well at 10pm, then his
+parents were awoken by the alarm system and found [**Known firstname 17766**] in the
+garage - he was agitated and delerius.  They called the
+treatment program who recommended they take him to the ED.  At
+[**Hospital1 46**], he was agitated, HR 120-130s, SBP 130-150s.  He was
+given ativan, fentanyl, haldol, versed and was eventually
+intubated and paralyzed (given etomidate, succinylcholine).
+Also given banana bag and ancef (unclear etiology).  Of note,
+parents are reasonably sure that he did not take any medications
+other than those prescribed by the detox program - in the house
+they have Tylenol, Lipitor, Detrol.
+
+
+Past Medical History:
+Heart Murmur
+Dysphagia (?)
+
+Social History:
+lives alone, works as [**Doctor Last Name 19914**]
+OxyContin as above, social Etoh, no tobacco; parents think he
+may have done cocaine in the past
+
+Family History:
+F- colon ca; M - healthy
+-no h/o premature cad
+
+Physical Exam:
+On admission:
+PE: 98.4, 108, 122/67, 16, 99%; on AC 750/12/5/40%
+Gen: Intubated and sedated
+HEENT: pupils 2->1 b/l, anictric
+Neck: supple; dry axilla
+CV: tachycardic, regular; no murmur appreciated
+Lungs: cta b/l
+Abd: +bs, soft, ntnd
+Ext: warm, well-perfused, no rash
+Neuro: arousable, moving all extremities
+
+
+Pertinent Results:
+[**2100-8-11**] 09:53AM   GLUCOSE-109* UREA N-10 CREAT-0.9 SODIUM-143
+POTASSIUM-3.5 CHLORIDE-107 TOTAL CO2-25 ANION GAP-15
+[**2100-8-11**] 09:53AM   CALCIUM-9.5 PHOSPHATE-4.7* MAGNESIUM-2.4
+[**2100-8-11**] 09:53AM   WBC-17.1* RBC-4.85 HGB-14.2 HCT-41.2 MCV-85
+MCH-29.3 MCHC-34.5 RDW-13.4
+[**2100-8-11**] 09:53AM   PLT COUNT-309
+[**2100-8-11**] 09:43AM   TYPE-ART PO2-167* PCO2-43 PH-7.38 TOTAL
+CO2-26 BASE XS-0
+
+OSH:
+LFT: WNL
+TCA level: 92.3 (upper limit 50)
+Tox screen: negative for opioids, BZD, cocaine, salicylates,
+amphetamines
+
+ECG:
+OSH: nsr, nl axis, qrs 92, QTc 450; R in avr 2mm
+[**Hospital1 18**]: nsr, nl axis, QRS 100, QTc 430, R in avr 1mm
+
+Brief Hospital Course:
+The pt came intubated and sedated with propofol into the ICU.
+The pt was not responsive and did not follow commands. He moved
+all four extremities and did not seem in any acute distress. The
+pt was switched from AC to CPAP with mmHg of PS before he
+extubated himself about one hour into his stay in the ICU. He
+was able to maintain good saturations and did not have any
+respiratory distress. The propofol was stopped and the pt was
+put on lorazepam for sedation. He was able to follow commands
+and was orientated to time and person. He did not answer any
+questions about the medications he took, but denied taking any
+additional drugs apart from the ones that were prescribed for
+detoxication.  The pt was kept on supportive care to allow time
+for the metabolism of the drug OD.
+
+Later in his admission the patient became agitated and
+disoriented.  It was unclear as to whether this was stil related
+to his initial drug intoxication or if he was undergoing
+possible withdrawal.  It was also possible that the patient was
+oversedated from the large quantities of ativan he had received
+since admission.
+The dose of Ativan was reduced and Haldol was added to the
+regimen.
+
+On day three of the hospital course the patient became oriented
+X3 and was now following commands appropriately.
+.....
+After [**Hospital Unit Name 153**] course.
+.
+A/P: 34 yom with h/o opoid abuse admitted with change in MS with
+likely opoid withdrawl and anticholinergic toxicity.
+.
+1)  Anticholinergic toxicity/opoid withdrawl - Resolved signs of
+anticholinergic toxicity.  Initially had diahrrea and anxiety in
+the [**Hospital Unit Name 153**] likely secondary to opoid withdrawl.  On the floor the
+symptoms improved during the course.  Psych consult was
+requested which recommended using clonidine 0.1mg [**Hospital1 **], ativan
+1mg prn and tappered off.  Pt improved and chose to continue in
+a outpt detox program after discharge.
+.
+2. Substance abuse
+- Seen by addiction team in  the ICU, Patient will need to
+coopearate with outpatient detox and substance abuse facility.
+.
+3. Leucocytosis - 14.6, patient afebrile and no symptoms of
+caugh so less likely to be PNA.  Does have urinary symptoms so
+?UTI.  However urine culture was negative and patient remained
+afebrile.  leucocytosis improved.
+.
+4.  Acidosis - Bicarb 21.  likely from diahrrea.  Resolved.
+
+
+Medications on Admission:
+Meds:
+-was not any medications prior to Detox
+.
+hydroxyzine qid
+neurontin 400mg qid
+flexeril 5mg tid
+clonidine patch and 0.1mg tid
+chlordiazepoxide 20mg tid (?increased from 10mg qid)
+baclofen tid - added [**8-10**]
+nabumetone 500mg tid
+bentyl 20mg tid
+doxepin 50 mg qhs
+ambien 10mg qhs
+.
+
+Discharge Medications:
+1. Quetiapine Fumarate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day) as needed for anxiety,agitation.
+Disp:*14 Tablet(s)* Refills:*0*
+2. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO QD () for 1
+days.
+Disp:*1 Tablet(s)* Refills:*0*
+3. Clonidine 0.1 mg Tablet Sig: One (1) Tablet PO taper as
+directed as needed for nausea,vomiting,diahrrea,craving: Take
+one dose tonight ([**8-16**]) for a total of three times a day.
+Take twice a day on [**8-17**]. Then, take once a day on [**8-18**]. Then,
+discontinue the medication.
+Disp:*4 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Narcotic withdrawal
+Anticholinergic toxicity
+Mental status change
+Intubation for respiratory protection
+
+
+Discharge Condition:
+Stable, without evidence of withdrawal
+
+
+Discharge Instructions:
+If you develop symptoms of narcotic withdrawal such as
+aggitation, nausea, vomiting, diarrhea, runny nose; or if you
+develop any symptoms of benzo withdrawal such as confusion,
+tremulousness, rapid breathing call your doctor or return to the
+emergency room immediately.
+
+Please be sure to follow up with the outpatient narcotics
+withdrawal program at [**Hospital 882**] Hospital
+
+
+Followup Instructions:
+Follow up with your primary care doctor within 2 weeks of
+discharge. Please have them follow up on your elevated calcium
+level and abnormal liver function tests.
+
+
+
+Completed by:[**2100-8-21**]

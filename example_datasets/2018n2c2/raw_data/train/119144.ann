@@ -1,0 +1,219 @@
+T1	Drug 642 650	glucagon
+T2	Drug 6660 6665	Zosyn
+T3	Drug 10110 10114	iron
+T4	Drug 8203 8207;8208 8215	iron sulfate
+T5	Strength 8216 8222	325 mg
+T6	Route 8223 8225	po
+T7	Drug 1165 1174	Lorazepam
+T8	Strength 1175 1178;1178 1181	2mg /mL
+T9	Drug 9027 9042	ferrous sulfate
+T10	Strength 9043 9050	300  mg
+T11	Drug 10004 10016	DESMOPRESSIN
+T12	Strength 6560 6565	20 mg
+T13	Drug 6549 6558;6558 6559	prednison e
+T14	Drug 10263 10275	Desmopressin
+T15	Strength 10276 10282	0.1 mg
+T16	Route 10283 10291	by mouth
+T17	Drug 8355 8362	insulin
+T18	Drug 8749 8753;8754 8761	iron sulfate
+T19	Strength 9155 9160	20 mg
+T20	Form 9181 9187	Tablet
+T21	Route 9188 9190	PO
+T22	Drug 9144 9153;9153 9154	prednison e
+T23	Drug 10435 10445	PREDNISONE
+T24	Strength 10449 10454	20 mg
+T25	Route 10455 10463	by mouth
+T26	Drug 8790 8799	synthroid
+T27	Strength 8800 8805	75mcg
+T28	Drug 1490 1497;1498 1507	calcium gluconate
+T29	Drug 8925 8937	desmopressin
+T30	Strength 8938 8944	0.1 mg
+T31	Form 8965 8971	Tablet
+T32	Route 8972 8974	PO
+T33	Drug 9058 9062	iron
+T34	Form 9064 9070	Tablet
+T35	Drug 6502 6516	hydrocortisone
+T37	Drug 8807 8817	prednisone
+T38	Strength 8818 8821	5mg
+T39	Drug 1513 1519	Ativan
+T40	Strength 1520 1523	1mg
+T41	Drug 7143 7148	DDAVP
+T42	Drug 6126 6136	prednisone
+T43	Drug 627 635	thiamine
+T44	Drug 10364 10368	IRON
+T45	Strength 10369 10375	325 mg
+T46	Frequency 10385 10391;10392 10395	once a day
+T47	Route 10376 10384	by mouth
+T48	Drug 1150 1163	Dexamethasone
+T49	Strength 621 626	100mg
+T50	Dosage 637 641	1amp
+T51	Drug 657 665	dextrose
+T52	Dosage 652 656	1amp
+T53	Drug 964 977	levothyroxine
+T55	Drug 1018 1021	Dex
+T56	Drug 1137 1142	zosyn
+T57	Drug 1143 1148	vanco
+T58	Drug 1183 1191	Dextrose
+T59	Drug 1196 1198	D5
+T60	Drug 1441 1445	levo
+T61	Reason 1450 1456	SBP 83
+T62	Strength 1458 1461	2mg
+T63	Drug 1462 1465	Mag
+T64	Dosage 1470 1472	4L
+T65	Drug 1473 1477	IVFs
+T66	Reason 1531 1538	nausea/
+T67	Drug 6141 6154	levothyroxine
+T68	Route 6566 6568	po
+T69	Drug 6649 6659	Vancomcyin
+T70	Reason 6679 6698	bacterial infection
+T71	Drug 7033 7038	DDAVP
+T72	Strength 7133 7139	0.1 mg
+T73	Frequency 7149 7159	at bedtime
+T74	Drug 7288 7301	levothyroxine
+T75	Reason 7210 7229	Panhypoptituitarism
+T76	Strength 7302 7308	75 mcg
+T77	Route 7309 7311	po
+T78	Frequency 7312 7318	qdaily
+T79	Drug 7379 7399	estrogen replacement
+T80	Reason 7432 7439;7440 7452	prevent osteoporosis
+T81	Reason 8057 8063	Anemia
+T82	Dosage 8157 8165	one unit
+T83	Drug 8169 8173	PRBC
+T84	Frequency 8226 8232	qdaily
+T85	Drug 8314 8322	steroids
+T86	ADE 8275 8288	Hyperglycemia
+T87	Reason 8275 8288	Hyperglycemia
+T88	Dosage 8341 8354	sliding scale
+T89	Drug 8405 8413	steroids
+T90	Dosage 8399 8404	Taper
+T91	Drug 8472 8492	estrogen replacement
+T92	Reason 8501 8508;8509 8521	prevent osteoporosis
+T93	Frequency 8822 8827	daily
+T94	Drug 8856 8869	levothyroxine
+T95	Strength 8870 8876	75 mcg
+T96	Form 8877 8883	Tablet
+T97	Dosage 8889 8896	One (1)
+T98	Form 8897 8903	Tablet
+T99	Route 8904 8906	PO
+T100	Frequency 8907 8912;8913 8920	DAILY (Daily)
+T101	Form 8945 8951	Tablet
+T102	Dosage 8957 8964	One (1)
+T103	Frequency 8975 8981;8982 8990	HS (at bedtime)
+T104	Strength 9052 9057	60 mg
+T105	Dosage 9076 9083	One (1)
+T106	Form 9084 9090	Tablet
+T107	Route 9091 9093	PO
+T108	Frequency 9094 9107	DAILY (Daily)
+T109	Form 9161 9167	Tablet
+T110	Dosage 9173 9180	One (1)
+T111	Frequency 9191 9204	DAILY (Daily)
+T112	Dosage 9800 9811	stress dose
+T113	Drug 9812 9820	steroids
+T114	Reason 10020 10068;10069 10082	replete this hormone which helped normalize your sodium levels
+T115	Reason 10141 10145;10146 10155	iron deficient
+T116	Frequency 10292 10303	every night
+T117	Reason 10399 10419;10420 10425	help with your blood count
+T118	Frequency 10464 10473	every day
+R1	Strength-Drug Arg1:T5 Arg2:T4
+R2	Route-Drug Arg1:T6 Arg2:T4
+R3	Strength-Drug Arg1:T8 Arg2:T7
+R4	Strength-Drug Arg1:T10 Arg2:T9
+R5	Strength-Drug Arg1:T12 Arg2:T13
+R6	Strength-Drug Arg1:T15 Arg2:T14
+R7	Route-Drug Arg1:T16 Arg2:T14
+R8	Strength-Drug Arg1:T19 Arg2:T22
+R9	Form-Drug Arg1:T20 Arg2:T22
+R10	Route-Drug Arg1:T21 Arg2:T22
+R11	Strength-Drug Arg1:T24 Arg2:T23
+R12	Route-Drug Arg1:T25 Arg2:T23
+R13	Strength-Drug Arg1:T27 Arg2:T26
+R14	Strength-Drug Arg1:T30 Arg2:T29
+R15	Form-Drug Arg1:T31 Arg2:T29
+R16	Route-Drug Arg1:T32 Arg2:T29
+R18	Strength-Drug Arg1:T38 Arg2:T37
+R19	Strength-Drug Arg1:T40 Arg2:T39
+R20	Strength-Drug Arg1:T45 Arg2:T44
+R21	Frequency-Drug Arg1:T46 Arg2:T44
+R22	Route-Drug Arg1:T47 Arg2:T44
+R23	Dosage-Drug Arg1:T52 Arg2:T51
+R24	Dosage-Drug Arg1:T50 Arg2:T1
+R25	Strength-Drug Arg1:T49 Arg2:T43
+R27	Reason-Drug Arg1:T61 Arg2:T60
+R28	Strength-Drug Arg1:T62 Arg2:T63
+R29	Dosage-Drug Arg1:T64 Arg2:T65
+R30	Reason-Drug Arg1:T66 Arg2:T39
+R31	Route-Drug Arg1:T68 Arg2:T13
+R32	Reason-Drug Arg1:T70 Arg2:T69
+R33	Reason-Drug Arg1:T70 Arg2:T2
+R34	Strength-Drug Arg1:T72 Arg2:T41
+R35	Frequency-Drug Arg1:T73 Arg2:T41
+R36	Frequency-Drug Arg1:T78 Arg2:T74
+R37	Strength-Drug Arg1:T76 Arg2:T74
+R38	Route-Drug Arg1:T77 Arg2:T74
+R39	Reason-Drug Arg1:T75 Arg2:T74
+R40	Reason-Drug Arg1:T80 Arg2:T79
+R41	Dosage-Drug Arg1:T82 Arg2:T83
+R42	Reason-Drug Arg1:T81 Arg2:T83
+R43	Reason-Drug Arg1:T81 Arg2:T4
+R44	Frequency-Drug Arg1:T84 Arg2:T4
+R45	ADE-Drug Arg1:T87 Arg2:T85
+R46	Reason-Drug Arg1:T87 Arg2:T17
+R47	Dosage-Drug Arg1:T88 Arg2:T17
+R48	Dosage-Drug Arg1:T90 Arg2:T89
+R49	Reason-Drug Arg1:T92 Arg2:T91
+R50	Frequency-Drug Arg1:T93 Arg2:T37
+R51	Strength-Drug Arg1:T95 Arg2:T94
+R52	Frequency-Drug Arg1:T100 Arg2:T94
+R53	Form-Drug Arg1:T96 Arg2:T94
+R54	Dosage-Drug Arg1:T97 Arg2:T94
+R55	Form-Drug Arg1:T98 Arg2:T94
+R56	Route-Drug Arg1:T99 Arg2:T94
+R57	Form-Drug Arg1:T101 Arg2:T29
+R58	Dosage-Drug Arg1:T102 Arg2:T29
+R59	Frequency-Drug Arg1:T103 Arg2:T29
+R60	Strength-Drug Arg1:T104 Arg2:T33
+R61	Dosage-Drug Arg1:T105 Arg2:T9
+R62	Form-Drug Arg1:T106 Arg2:T9
+R63	Form-Drug Arg1:T34 Arg2:T9
+R64	Route-Drug Arg1:T107 Arg2:T9
+R65	Frequency-Drug Arg1:T108 Arg2:T9
+R66	Form-Drug Arg1:T109 Arg2:T22
+R67	Dosage-Drug Arg1:T110 Arg2:T22
+R68	Frequency-Drug Arg1:T111 Arg2:T22
+R69	Dosage-Drug Arg1:T112 Arg2:T113
+R70	Reason-Drug Arg1:T114 Arg2:T11
+R71	Reason-Drug Arg1:T115 Arg2:T3
+R72	Frequency-Drug Arg1:T116 Arg2:T14
+R73	Reason-Drug Arg1:T117 Arg2:T44
+R74	Frequency-Drug Arg1:T118 Arg2:T23
+T119	Reason 550 573	unresponsive, lethargic
+T121	Dosage 1525 1526	2
+T122	Duration 6118 6125	chronic
+T123	Reason 6079 6097	panhypopituitarism
+T125	Frequency 6569 6575	qdaily
+T127	Drug 7320 7334	Glucocorticoid
+T128	Reason 9720 9734	adrenal crisis
+T130	Reason 6438 6443;6444 6477	viral upper respiratory tract infection
+T131	Strength 978 981	75%
+T133	Drug 2324 2336	glucocortoid
+T134	Drug 2753 2755	O2
+T135	Dosage 2768 2770	2L
+T136	Drug 5212 5220	contrast
+T139	Reason 10307 10321;10322 10357	help with your sodium level and urinate less water
+R75	Dosage-Drug Arg1:T135 Arg2:T134
+R76	Reason-Drug Arg1:T119 Arg2:T1	
+R77	Strength-Drug Arg1:T131 Arg2:T53	
+R78	Dosage-Drug Arg1:T121 Arg2:T39	
+R79	Reason-Drug Arg1:T123 Arg2:T42	
+R80	Reason-Drug Arg1:T123 Arg2:T67	
+R81	Reason-Drug Arg1:T130 Arg2:T35	
+R82	Reason-Drug Arg1:T130 Arg2:T35	
+R83	Frequency-Drug Arg1:T125 Arg2:T13	
+R84	Reason-Drug Arg1:T128 Arg2:T113	
+R85	Reason-Drug Arg1:T139 Arg2:T14	
+T36	Route 982 984	IV
+R17	Route-Drug Arg1:T36 Arg2:T53	
+T54	Route 6499 6501	IV
+R26	Route-Drug Arg1:T54 Arg2:T35	
+T120	Reason 1538 1546	vomiting
+R86	Reason-Drug Arg1:T120 Arg2:T39	

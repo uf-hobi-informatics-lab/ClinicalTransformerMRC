@@ -1,0 +1,49 @@
+T1	Drug 550 557	Aspirin
+T2	Strength 558 572	325 milligrams
+R1	Strength-Drug Arg1:T2 Arg2:T1
+T3	Route 573 575	po
+R2	Route-Drug Arg1:T3 Arg2:T1
+T4	Frequency 576 581	q day
+R3	Frequency-Drug Arg1:T4 Arg2:T1
+T5	Drug 587 593	Colace
+T6	Strength 594 608	100 milligrams
+R4	Strength-Drug Arg1:T6 Arg2:T5
+T7	Route 609 611	po
+R5	Route-Drug Arg1:T7 Arg2:T5
+T8	Frequency 612 617	q day
+R6	Frequency-Drug Arg1:T8 Arg2:T5
+T9	Drug 623 630	Lipitor
+T10	Strength 631 644	10 milligrams
+R7	Strength-Drug Arg1:T10 Arg2:T9
+T11	Route 645 647	po
+R8	Route-Drug Arg1:T11 Arg2:T9
+T12	Frequency 648 652	q HS
+R9	Frequency-Drug Arg1:T12 Arg2:T9
+T13	Drug 658 664	Zyrtec
+T14	Strength 665 678	10 milligrams
+R10	Strength-Drug Arg1:T14 Arg2:T13
+T15	Route 679 681	po
+R11	Route-Drug Arg1:T15 Arg2:T13
+T16	Frequency 682 686	q HS
+R12	Frequency-Drug Arg1:T16 Arg2:T13
+T17	Drug 692 701	Lopressor
+T18	Strength 702 715	50 milligrams
+R13	Strength-Drug Arg1:T18 Arg2:T17
+T19	Route 716 718	po
+R14	Route-Drug Arg1:T19 Arg2:T17
+T20	Frequency 719 722	bid
+R15	Frequency-Drug Arg1:T20 Arg2:T17
+T21	Drug 728 733	Lasix
+T22	Strength 734 747	10 milligrams
+R16	Strength-Drug Arg1:T22 Arg2:T21
+T23	Route 748 750	po
+R17	Route-Drug Arg1:T23 Arg2:T21
+T24	Frequency 751 754	bid
+R18	Frequency-Drug Arg1:T24 Arg2:T21
+T25	Drug 760 778	Potassium Chloride
+T26	Strength 779 792	20 milligrams
+R19	Strength-Drug Arg1:T26 Arg2:T25
+T27	Route 793 795	po
+R20	Route-Drug Arg1:T27 Arg2:T25
+T28	Frequency 796 799	bid
+R21	Frequency-Drug Arg1:T28 Arg2:T25

@@ -1,0 +1,116 @@
+T1	Drug 10496 10504	DILANTIN
+T2	Strength 10820 10826	250 mg
+T3	Duration 10881 10891	for 3 days
+T4	Route 10856 10858	PO
+T5	Drug 10807 10818;10818 10819	Levofloxaci n
+T6	Strength 10595 10600	30 mg
+T7	Duration 10653 10664	for 12 days
+T8	Route 10630 10632	PO
+T9	Drug 10584 10593;10593 10594	Nimodipin e
+T10	Drug 11155 11167	AZITHROMYCIN
+T11	Drug 8213 8221	dilantin
+T12	Drug 11288 11296	DILANTIN
+T13	Drug 169 181	Azithromycin
+T14	Drug 9755 9763	Levaquin
+T15	Drug 8226 8236	nimodipine
+T16	Drug 11172 11180	ROCEPHIN
+T17	Drug 4136 4144	dilantin
+T18	Drug 11561 11568	Tylenol
+T19	Drug 9834 9840	lantus
+T20	Drug 10030 10040;10040 10059	Butalbital -Acetaminophen-Caff
+T21	Drug 10229 10238	Phenytoin
+T22	Strength 10239 10244	50 mg
+T23	Frequency 10296 10299;10300 10315	TID (3 times a day)
+T24	Route 10293 10295	PO
+T25	Drug 9143 9148	Lasix
+T26	Frequency 10107 10110;10111 10136	Q6H (every 6 hours) as needed
+T27	Route 10104 10106	PO
+T28	Drug 9918 9926;9927 9933	Docusate Sodium
+T29	Strength 9934 9940	100 mg
+T30	Route 9970 9972	PO
+T32	Reason 10141 10149	headache
+T33	Reason 11301 11316	SEIZURE CONTROL
+T34	Drug 184 192	Rocephin
+T35	Drug 4155 4164	nimodpine
+T36	Route 9149 9152	gtt
+T37	Reason 9169 9183	ARDS treatment
+T38	Reason 9795 9804	pneumonia
+T39	Drug 9842 9850	novuloge
+T40	Form 9941 9948	Capsule
+T41	Dosage 9954 9961	One (1)
+T42	Form 9962 9969	Capsule
+T43	Frequency 9973 9979;9980 9992	BID (2 times a day)
+T44	Strength 10060 10072	50-325-40 mg
+T45	Form 10073 10079	Tablet
+T46	Form 10096 10103	Tablets
+T47	Form 10245 10261	Tablet, Chewable
+T48	Dosage 10267 10275	Four (4)
+T49	Form 10276 10283;10284 10292	Tablet, Chewable
+T50	Form 10601 10608	Capsule
+T51	Form 10622 10629	Capsule
+T52	Dosage 10614 10621	Two (2)
+T53	Frequency 10633 10645;10646 10652	Q4H (every 4 hours)
+T54	Form 10827 10833	Tablet
+T55	Dosage 10839 10848	Three (3)
+T56	Form 10849 10855	Tablet
+T57	Frequency 10859 10863;10864 10880	Q24H (every 24 hours)
+R1	Strength-Drug Arg1:T2 Arg2:T5
+R2	Duration-Drug Arg1:T3 Arg2:T5
+R3	Route-Drug Arg1:T4 Arg2:T5
+R4	Strength-Drug Arg1:T6 Arg2:T9
+R5	Duration-Drug Arg1:T7 Arg2:T9
+R6	Route-Drug Arg1:T8 Arg2:T9
+R7	Strength-Drug Arg1:T22 Arg2:T21
+R8	Frequency-Drug Arg1:T23 Arg2:T21
+R9	Route-Drug Arg1:T24 Arg2:T21
+R10	Strength-Drug Arg1:T29 Arg2:T28
+R11	Route-Drug Arg1:T30 Arg2:T28
+R12	Reason-Drug Arg1:T37 Arg2:T25
+R13	Route-Drug Arg1:T36 Arg2:T25
+R14	Reason-Drug Arg1:T38 Arg2:T14
+R15	Frequency-Drug Arg1:T43 Arg2:T28
+R16	Form-Drug Arg1:T42 Arg2:T28
+R17	Dosage-Drug Arg1:T41 Arg2:T28
+R18	Form-Drug Arg1:T40 Arg2:T28
+R19	Reason-Drug Arg1:T32 Arg2:T20
+R20	Frequency-Drug Arg1:T26 Arg2:T20
+R21	Route-Drug Arg1:T27 Arg2:T20
+R22	Form-Drug Arg1:T45 Arg2:T20
+R23	Form-Drug Arg1:T46 Arg2:T20
+R24	Strength-Drug Arg1:T44 Arg2:T20
+R25	Dosage-Drug Arg1:T48 Arg2:T21
+R26	Form-Drug Arg1:T47 Arg2:T21
+R27	Frequency-Drug Arg1:T53 Arg2:T9
+R28	Form-Drug Arg1:T51 Arg2:T9
+R29	Dosage-Drug Arg1:T52 Arg2:T9
+R30	Form-Drug Arg1:T50 Arg2:T9
+R31	Frequency-Drug Arg1:T57 Arg2:T5
+R32	Form-Drug Arg1:T56 Arg2:T5
+R33	Dosage-Drug Arg1:T55 Arg2:T5
+R34	Form-Drug Arg1:T54 Arg2:T5
+R35	Reason-Drug Arg1:T33 Arg2:T12
+T58	Route 5101 5112	intravenous
+T59	Drug 1833 1841	CONTRAST
+T61	Drug 3947 3956	MAGNEVIST
+T62	Drug 3937 3945	Contrast
+T63	Dosage 3962 3964	20
+T64	Drug 4330 4338	CONTRAST
+T66	Drug 5064 5074	gadolinium
+T67	Route 5052 5063	intravenous
+T68	Drug 5113 5123	gadolinium
+T69	Drug 8572 8583	antibiotics
+T70	Drug 11583 11599	pain medications
+T73	Reason 10356 10371	PREVENT SEIZURE
+T74	Reason 11608 11627	post procedure pain
+R37	Dosage-Drug Arg1:T63 Arg2:T61
+R38	Dosage-Drug Arg1:T63 Arg2:T62
+R40	Route-Drug Arg1:T67 Arg2:T66
+R41	Route-Drug Arg1:T58 Arg2:T68
+R42	Form-Drug Arg1:T49 Arg2:T21	
+R43	Reason-Drug Arg1:T73 Arg2:T21	
+R44	Reason-Drug Arg1:T74 Arg2:T70	
+R45	Reason-Drug Arg1:T74 Arg2:T18	
+T31	Route 1830 1832	IV
+R36	Route-Drug Arg1:T31 Arg2:T59	
+T60	Route 4327 4329	IV
+R39	Route-Drug Arg1:T60 Arg2:T64	

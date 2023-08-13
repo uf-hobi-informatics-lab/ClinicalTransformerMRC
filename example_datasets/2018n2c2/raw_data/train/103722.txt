@@ -1,0 +1,417 @@
+Admission Date:  [**2181-9-8**]              Discharge Date:   [**2181-9-26**]
+
+Date of Birth:  [**2119-11-6**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 330**]
+Chief Complaint:
+productive cough, shortness of breath
+
+Major Surgical or Invasive Procedure:
+Placement of PICC line
+
+
+History of Present Illness:
+61 y/o male with history of right lung Non Small Cell Cancer,
+s/p right upper lobe lobectomy, severe COPD, and a history of
+MRSA and psuedomanous PNA who presents from ED to ICU with
+hypoxia and possible PNA. He recently had a 3 week
+hospitalization for COPD exacerbation and treated for a
+pneumonia with Bactrim (for MRSA) and levaquin (for
+pseudomonas). He was discharged on [**8-6**] but continued to feel
+SOB and was readmitted several days later where he grew out
+pseudomonas Resistant to ciprofloxacin. Workup also included a
+CXR which showed a question of interstitial process and CTA was
+negative for PE but did reveal bilateral patchy infiltrates in
+middle and lower lobes bilaterally c/w pneumonia. Pt was treated
+with vancomycin and ceftaz during this hospital course, and was
+discharged on prednisone taper.
+.
+He was doing well at home until 1 week PTA when he reports onset
+of fevers to 101, weakness, SOB, pleuritic CP, cough. Denies any
+arm or jaw pain, diaphoresis, nausea, palpitations. ROS + for
+photophobia, dizziness with some balance loss, but no loss of
+consciousness over this time period as well.
+Pt therefore presented to [**Hospital **] hospital. He remained clinically
+stable throughout his course at MVH - afebrile, BP
+110s-130s/60s-70s, HR 60s-80s, RR 18-24 and sats of 93% on 3L ->
+93% on 2L. His pulmonologist (Dr. [**Last Name (STitle) 14069**] was contact[**Name (NI) **] and
+recommended transfer to [**Hospital1 18**] for possible bronchoscopy to
+figure out why he is having recurrent COPD flares.
+On arrival here, he states that his breathing feels comfortable.
+
+
+Past Medical History:
+1. Non-small cell lung cancer, s/p R upper lobectomy, partial R
+fifth rib resection c/b chronic pain. No chemo or radiation.
+2. COPD w/ severely reduced DLCO, FEV1, and FEV1/FVC ratio
+3. h/o MRSA and pseudomonas PNA
+4  UC - s/p multiple surgeries, most recently in late 80s. S/P
+total colectomy and ileostomy
+5. Steroid induced hyperglycemia
+6. PFO
+7. h/o cardiomegaly
+8. h/o depression
+
+
+Social History:
+Married, 2 daughters, lives on the [**Name (NI) **].  Not current
+smoker, quit in [**2177**] w/ dx of lung cancer, 40 pack-yr history.
+Occasional EtOH use. Worked as a paiting contractor, retired
+after lung cancer surgery.
+
+
+Family History:
+F died of lung cancer; M died of Alzheimer's. Has 3 sisters, all
+older than him, healthy
+
+
+Physical Exam:
+Vitals - T 95.9, HR 95, BP 107/58, RR 20, O2 97% on high flow
+face mask
+General - awake alert, sitting up in bed, mask on, NAD
+HEENT - PERRL, EOMI, dry MM
+CVS - slightly tachycardic, no noted m/r/g
+Lungs - diffuse insp and exp wheezes, scattered coarse rhonci at
+bases, bronchial breath sounds on right middle airfield
+Abd - tense, non-tender, ileostomy in place
+Ext - no LE edema b/l
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2181-9-8**] 10:15PM BLOOD WBC-9.3 RBC-3.40* Hgb-10.0* Hct-28.8*
+MCV-85 MCH-29.4 MCHC-34.6 RDW-15.4 Plt Ct-280#
+[**2181-9-8**] 10:15PM BLOOD Neuts-80* Bands-10* Lymphs-3* Monos-6
+Eos-0 Baso-0 Atyps-0 Metas-1* Myelos-0 NRBC-1*
+[**2181-9-8**] 10:15PM BLOOD PT-16.1* PTT-31.4 INR(PT)-1.5*
+[**2181-9-8**] 10:15PM BLOOD Glucose-262* UreaN-65* Creat-2.8*#
+Na-129* K-4.1 Cl-87* HCO3-24 AnGap-22*
+[**2181-9-9**] 05:39AM BLOOD ALT-122* AST-155* LD(LDH)-347*
+AlkPhos-118* Amylase-64 TotBili-0.5
+[**2181-9-10**] 05:10AM BLOOD ALT-79* AST-52* LD(LDH)-311* AlkPhos-115
+TotBili-0.4
+[**2181-9-13**] 04:14AM BLOOD ALT-14 AST-1 LD(LDH)-255* AlkPhos-108
+TotBili-0.3
+[**2181-9-9**] 05:39AM BLOOD Lipase-12
+[**2181-9-10**] 05:10AM BLOOD Lipase-13
+[**2181-9-9**] 05:39AM BLOOD Albumin-2.5* Calcium-7.7* Phos-6.6*#
+Mg-2.1
+[**2181-9-13**] 04:14AM BLOOD calTIBC-160* Ferritn-1317* TRF-123*
+[**2181-9-9**] 08:26AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE IgM
+HBc-NEGATIVE IgM HAV-NEGATIVE
+[**2181-9-9**] 08:26AM BLOOD HCV Ab-NEGATIVE
+[**2181-9-9**] 01:59AM BLOOD Type-ART pO2-110* pCO2-40 pH-7.38
+calTCO2-25 Base XS-0 Intubat-NOT INTUBA
+[**2181-9-8**] 10:31PM BLOOD Lactate-2.4*
+Pertinent Labs/Studies:
+.
+CHEST (PORTABLE AP)  [**2181-9-8**] 10:10 PM
+IMPRESSION:
+1. New right middle lung opacification most consistent with
+newly developing pneumonia given acuity of onset (1 month).
+2. Underlying chronic obstructive pulmonary disease, status post
+right thoracotomy.
+.
+[**2181-9-24**]: Portable CXR -
+IMPRESSION:
+Minimal worsening of right pneumonia, superimposed upon severe
+emphysema.  It is difficult to exclude a component of
+necrotizing infection.
+Persistent air collection at right apex, likely due to a
+postoperative
+pneumothorax, unchanged since recent radiograph, but worse when
+compared to older studies from [**2181-7-20**].
+.
+[**2181-9-11**]: Echocardiogram
+Conclusions:
+1. The left ventricular cavity size is normal. Overall left
+ventricular
+systolic function cannot be reliably assessed.
+2. The mitral valve leaflets are mildly thickened. The mitral
+valve is not well seen.
+3. There is no obvious vegetations seen, but the cardiac valves
+are not well seen.
+.
+.
+MICROBIOLOGY:
+[**2181-9-9**] SPUTUM  Source: Expectorated.
+GRAM STAIN (Final [**2181-9-9**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      1+    (<1 per 1000X FIELD):   BUDDING YEAST.
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE DIPLOCOCCI.
+
+   RESPIRATORY CULTURE (Final [**2181-9-13**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      STAPH AUREUS COAG +    MODERATE GROWTH.
+      PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH.
+      YEAST.    SPARSE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |
+CEFEPIME--------------                2 S
+CEFTAZIDIME-----------                4 S
+CIPROFLOXACIN---------              =>4 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S     =>16 R
+IMIPENEM--------------                8 I
+LEVOFLOXACIN----------   =>8 R
+MEROPENEM-------------                8 I
+OXACILLIN-------------   =>4 R
+PENICILLIN------------ =>0.5 R
+PIPERACILLIN----------                8 S
+PIPERACILLIN/TAZO-----                8 S
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TOBRAMYCIN------------             =>16 R
+VANCOMYCIN------------   <=1 S
+.
+Blood cultures:
+[**2181-9-8**] to [**2181-9-15**]: No growth
+.
+Urine:
+[**2181-9-9**]: No growth
+[**2181-9-20**]: No growth
+.
+Stool:
+[**2181-9-24**]: C. Diff - negative
+Discharge Labs:
+.
+[**2181-9-26**] 05:25AM BLOOD WBC-8.2 RBC-3.03* Hgb-9.5* Hct-25.7*
+MCV-85 MCH-31.4 MCHC-37.1* RDW-16.6* Plt Ct-179
+[**2181-9-26**] 05:25AM BLOOD Glucose-118* UreaN-22* Creat-0.7 Na-134
+K-3.6 Cl-95* HCO3-30 AnGap-13
+[**2181-9-26**] 05:25AM BLOOD Calcium-8.3* Phos-3.2 Mg-1.6
+
+Brief Hospital Course:
+61 y/o M w/ h/o NSCLC s/p RUL lobectomy, severe COPD, recurrent
+pna over past couple months, with righ sided PNA
+(MRSA/Pseudomonas) and severe hypoxia requiring significant O2
+suppplementation.
+.
+1. PNA with Severe Hypoxia: Had right multilobar PNA with
+MRSA/Pseudomonas growing from sputum, with WBC count of 9,000
+and bandemia as high as 22%, elevated anion gap, and elevated
+lactate to 2.4. Also has poor underlying lung function from COPD
+(FEV 1.2L in [**2181-7-20**]) and h/o right upper lobe lobectomy.
+Patient was initially treated with high flow face mask of 15 L
+at 40% with additional NC with saturations varying from 88 to
+98%, but with continued frequent coughing which causes
+desaturations. The patient has since decreased his oxygen
+requirement to Venti amsk at 12 lpm with O2 sats rangin 89 to
+97%. The patient continues to cough and is draining sputum well
+with transition from dark brown thick sputum to thinner
+grey/clear sputum. The patient had one episode small volume
+blood tinged sputum on [**2181-9-24**] attributed to inflammation from
+underlying PNA. The patient is currently being treated with
+Linezolid for a planned 21 day course for MRSA as well as
+Ceftazidime, again for a planned 21 day course for Pseudomonas.
+Amikacin was added for syndergy and to avoid resistance with a
+planned 14 day course (ending dates specified on discharge
+meds). The patient will be discharged with need for  continued
+O2 suppplementation to keep sats >90% and <94% with O2 weaning
+as possible. The patient will continue to require ongoing Chest
+PT and physical therapy as well.
+.
+2. COPD: Has h/o COPD on montelukast, spiriva, advair, flovent,
+prednisone 10mg at home with PFT's showing FEV of 1.2 L (42%
+predicted), FEV1/FVC ratio of 42 (59% predicted), 6 L TLC, and
+elevated Residual Volume (193% predicited). He was given Advair,
+Monteleukast, Prednisone 60 mg DAily tapered down to 30 mg Daily
+as well as Atrovent nebulizers. The patient is followed by Dr.
+[**Last Name (STitle) 14069**], his outpatient pulmonolgist with whom he should continue
+to be followed after discharge.
+.
+3. Anxiety: Patient was experiencing a significant amount fo
+anxiety during this admission, likely at least partly
+attributable to his air hunger. The patient was maintained on
+Clonopin with hold parameters with Ativan rescues as needed.
+.
+4. Acute renal failure: Patient presented with ARF with Cr to
+2.8 which resolved rapidly with fluids down to baseline of 0.7.
+.
+5. Chest Pain: Had right sided chest pain, which is diffuse and
+pleuritic, likely due to PNA. Treated with MSSR 45 mg [**Hospital1 **] and IV
+morphine for breakthrough pain.
+.
+6. Abdominal pain: Patient has been experiencing ongoing
+abdominal pain for a few days. A KUB showed a non-obstructive
+bowel gas patterns and the patient's ostomy continues to drain
+well. The patient has good appetite without Nausea/vomiting. C.
+Diff was negative x 1. The patient did have an elevated
+amylase/lipase, now trending down. Pain did not radiate to back
+and again patient was tolerating PO well without any
+exacerbation of pain. The patient's symptoms are exacerbated
+with coughing and are likely secondary to musculoskeletal strain
+from frequent coughing. Treating pain as above with MS SR 45 [**Hospital1 **]
+with rescue doses.
+.
+6. Transaminitis: Presented with elevated liver enxymes which
+trended down to normal. Hepatitis panel negative for Hep B or C.
+
+.
+7. H/o LLL nodule and several other areas of focal scarring:
+should be followed with serial CT scans in the future by
+outpatient providers.
+.
+8. H/o right upper lobe lung ca: Not active currently. Sputum
+for cytology was negative for malignant cells. No history of
+chemo or radiation.
+.
+9. H/o thrush: Likely related to inhaled staeroids. Continued
+his outpt nystatin.
+.
+10. Steroid Induced Hyperglycemia: Treated with 70/30 insulin
+[**Hospital1 **] at AM dose of 40 and PM dose of 22.
+.
+11. Anemia: Labs consistant with Anemia of chronic disease. Also
+was guaiac positive. Needs to be followed in the future. He is
+s/p colectomy for Ulcerative colitis.
+.
+12. Ulcerative colitis: S/P colectomy and ileostomy. Not on any
+medications for UC.
+.
+Code: Full
+.
+Communication: wife [**Name (NI) **] (h) [**Telephone/Fax (1) 56560**] (c) [**Telephone/Fax (1) 56561**],
+daughter [**Name (NI) **] [**Name (NI) 56562**] ([**Telephone/Fax (1) 56563**]
+
+Medications on Admission:
+Montelukast 10 mg PO DAILY
+Tiotropium Bromide 18 mcg DAILY
+Flovent 110 2 puffs [**Hospital1 **]
+Prednisone 10mg daily
+mucinex 600mg tid
+Multivitamin PO DAILY
+Fluticasone-Salmeterol 250-50 mcg [**Hospital1 **]
+Benzonatate 100 mg PO TID
+Senna 8.6 mg PO BID PRN
+Docusate Sodium 100 mg PO BID PRN
+Nexium 40 mg twice a day.
+Morphine 30 mg Tablet Sustained Release PO Q12H
+morphine 15mg IR PO q8hr PRN
+Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+
+
+Discharge Medications:
+1. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+2. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+3. Nystatin 100,000 unit/mL Suspension Sig: 100,000 MLs PO QID
+(4 times a day).
+4. Codeine-Guaifenesin 10-100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H
+(every 6 hours) as needed.
+5. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**11-20**] Sprays Nasal
+TID (3 times a day).
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to
+6 hours) as needed for anxiety.
+8. Acetylcysteine 20 % (200 mg/mL) Solution Sig: One (1) ML
+Miscell.  Q4-6H (every 4 to 6 hours) as needed.
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+10. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed.
+12. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units Injection TID (3 times a day): Continue until patient is
+regularly ambulatory, than may D/C.
+13. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+14. Ipratropium Bromide 0.02 % Solution Sig: One (1) inhalation
+Inhalation Q4H (every 4 hours) as needed.
+15. Clonazepam 0.25 mg Tablet, Rapid Dissolve Sig: One (1)
+Tablet, Rapid Dissolve PO three times a day: Hold for RR < 16.
+16. Guaifenesin 600 mg Tablet Sustained Release Sig: Two (2)
+Tablet Sustained Release PO BID (2 times a day).
+17. Morphine 15 mg Tablet Sustained Release Sig: Three (3)
+Tablet Sustained Release PO Q12H (every 12 hours).
+18. Linezolid 600 mg/300 mL Parenteral Solution Sig: Six Hundred
+(600) mg Intravenous  Q12H (every 12 hours) for 5 days: First
+dose: [**2181-9-10**]
+Continue for total of 21 day course
+Last dose: [**2181-9-30**].
+19. Ceftazidime-Dextrose (Iso-osm) 2 g/50 mL Piggyback Sig: Two
+(2) grams Intravenous  Q8H (every 8 hours) for 7 days: First
+dose: [**2181-9-12**]
+Continue for total of 21 day course
+Last dose: [**2181-10-2**].
+20. Amikacin 250 mg/mL Solution Sig: One (1) gram Injection Q24H
+(every 24 hours) for 3 days: First dose: [**2181-9-15**]
+Continue for total 14 day course
+last dose: [**2181-9-28**].
+21. Dolasetron 12.5 mg/0.625 mL Solution Sig: 12.5 mg
+Intravenous  Q8H (every 8 hours) as needed for nausea /vomiting.
+
+22. Morphine 2 mg/mL Syringe Sig: Two (2) mg Injection Q4H
+(every 4 hours) as needed for breakthrough pain.
+23. Prednisone 10 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily): Continue for 1 week. Wean as possible over following 2
+to 3 weeks to 10mg daily as possible.
+24. Insulin NPH-Regular Human Rec 100 unit/mL (70-30) Suspension
+Sig: see instructions units Subcutaneous once a day: Please
+provide 40 units qam
+22 units qhs.
+25. Insulin Lispro (Human) 100 unit/mL Solution Sig: One (1)
+unit Subcutaneous four times a day: Please provide Humalog
+sliding scale with meals and at bedtime per provided sliding
+scale in addition to standing Insulin 70/30 .
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 105**] Northeast - [**Location (un) 701**]
+
+Discharge Diagnosis:
+Primary:
+MRSA/Pseudomonas Pneumonia
+COPD exacerbation
+Abdominal Pain
+Steroid induced hyperglycemia
+Anxiety
+.
+Secondary:
+History of Non small cell Lung Ca s/p pneumonectomy
+Ulcerative Colitis
+Anemia
+
+
+Discharge Condition:
+Fair. Patient with ongoing O2 requirement above baseline.
+Symptomatically improved, hemodynamically stable.
+
+
+Discharge Instructions:
+1. Please take all medications as prescribed
+.
+2. please keep all outpatient appointments
+.
+3. Please return to the hospital for symptoms fevers/chills,
+worsening respiratory status, shortness of breath, chest pain,
+or any other concerning symptoms
+
+Followup Instructions:
+1. Please follow up with your PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] on discharge. Please
+call his office at [**Telephone/Fax (1) 36558**] to make an appointment
+.
+2. Please follow up with your Pulmonologist within one week of
+discharge from your rehab facility. Please call his office to
+schedule an appointment.
+
+
+

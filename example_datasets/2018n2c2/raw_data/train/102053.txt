@@ -1,0 +1,34 @@
+Name:  [**Known lastname 6963**], [**Known firstname **]                         Unit No:  [**Numeric Identifier 6964**]
+
+Admission Date:  [**2146-1-4**]     Discharge Date: [**2146-1-16**]
+
+Date of Birth:   [**2076-12-7**]     Sex:  M
+
+Service:
+
+DISCHARGE SUMMARY ADDENDUM: Over the ensuing days the patient
+continued to do well. He was afebrile, white count had
+diminished. The patient was discharged home in stable
+condition to follow up with Dr. [**Last Name (STitle) 71**] within two weeks of
+discharge or as needed.
+
+DISCHARGE MEDICATIONS:
+1.  Aspirin 325 milligrams po q day.
+2.  Colace 100 milligrams po q day.
+3.  Lipitor 10 milligrams po q HS.
+4.  Zyrtec 10 milligrams po q HS.
+5.  Lopressor 50 milligrams po bid.
+6.  Lasix 10 milligrams po bid.
+7.  Potassium Chloride 20 milligrams po bid.
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number(1) 2728**]
+
+Dictated By:[**Last Name (NamePattern1) 5280**]
+
+MEDQUIST36
+
+D:  [**2146-1-16**]  08:34
+T:  [**2146-1-17**]  11:45
+JOB#:  [**Job Number 6965**]

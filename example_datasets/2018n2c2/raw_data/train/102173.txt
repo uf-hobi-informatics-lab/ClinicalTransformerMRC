@@ -1,0 +1,206 @@
+Admission Date:  [**2176-7-5**]              Discharge Date:   [**2176-7-7**]
+
+
+Service: SURGERY
+
+Allergies:
+Amoxicillin / Penicillins / Coumadin / Oxycodone / Megestrol
+Acetate / Remeron / Ritalin
+
+Attending:[**First Name3 (LF) 301**]
+Chief Complaint:
+Free air on CXR
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Pt is a 87 y/o male with extensive past medical history who
+was recently discharged after admission for possible
+meningitis/altered mental status. During that admission the
+patient was found to be a significant aspiration risk and a
+G-tube was placed by interventional radiology. He was discharged
+to [**Hospital **] rehab in good condition off all antibiotics on [**7-4**].
+He
+presents today after a routine CXR was performed at [**Hospital **] rehab
+which demonstrated free intra-abdominal air beneath the right
+hemidiaphragm. The patient was subsequently transfered to [**Hospital1 18**]
+for evaluation. At the time of presentation he was in no acute
+distress, without complaints of pain, nausea/vomiting,
+fever/chills.  He had a suprapubic catheter which was
+functioning
+appropriately as well as a flexi-seal rectal tube which was
+collecting appropriate volumes of stool.
+
+
+Past Medical History:
+-DM II, on insulin
+-prostate CA s/p XRT [**2156**]
+-chronic urinary incontinence, s/p TURP [**10-6**]
+-history of UTIs, including prior MRSA, klebsiella, proteus,
+pseuduomonas
+-s/p bladder rupture and repair x2, [**2-8**], [**6-8**]
+-atrial fibrillation, not anticoagulated due to h/o bleeding
+-hyperthyroidism
+-depression
+-hypertension
+-moderate aortic stenosis on TTE [**5-/2176**]
+-peripheral vascular disease
+-h/o CVA [**2172**]
+-severe chronic axonal neuropathy, radiculopathy and plexopathy
+(due to XRT) per Dr. [**Last Name (STitle) **], with right foot drop for many
+years
+-L3 compression fracture
+-cataract s/p bilateral laser surgery, also with "macular edema"
+
+s/p dexamethasone injection
+-hard of hearing
+-left thyroid nodule, benign
+
+
+Social History:
+Smoked 2 ppd tobacco x24 years. Quit in [**2137**]. Denies EtOH.
+Former WWII vet. Former Fire Fighter. Wife is HCP. Daughter is
+RN, son is engineer.
+
+
+Family History:
+No illnesses, strokes, DM or early heart attacks run in the
+family.
+
+Physical Exam:
+On Admission
+GEN: NAD
+HEENT: AT/NC, EOMI, neck supple, trachea midline
+CV: Irregular, no m/g/r
+RESP: CTAB
+ABD: soft, non-tender, non-distended, no rebound, no guarding,
+no
+external evidence of injury, no gross masses, midline
+infra-umbilical incision well healed. L midline; G-tube secured,
+no surrounding erythema or discharge. Suprapubic catheter,
+secured, no discharge/erythema. Rectal tube in place
+EXT: no C/C/E
+TLD: R PICC
+
+
+Pertinent Results:
+[**2176-7-4**] 05:55AM BLOOD WBC-5.8 RBC-2.50* Hgb-7.5* Hct-23.8*
+MCV-95 MCH-29.8 MCHC-31.3 RDW-17.1* Plt Ct-396
+[**2176-7-4**] 05:55AM BLOOD Plt Ct-396
+[**2176-7-4**] 05:55AM BLOOD Glucose-116* UreaN-31* Creat-1.7* Na-147*
+K-4.3 Cl-118* HCO3-23 AnGap-10
+[**2176-7-4**] 05:55AM BLOOD Calcium-8.0* Phos-2.5* Mg-2.2
+
+Radiology Report CHEST (PA & LAT) Study Date of [**2176-7-5**] 2:22 PM
+
+FINDINGS: Comparison made to 5/28/200, and to fluoroscopy from
+GJ tube
+placement [**2176-7-3**].
+Free intraperitoneal air under both hemidiaphragms is not
+unexpected following recent G-tube placement. Cardiomediastinal
+contours are unchanged. The lungs are grossly clear and well
+expanded. Right PICC terminates in the mid SVC. There is no
+pleural effusion or pneumothorax.
+
+Radiology Report CHEST (PA & LAT) Study Date of [**2176-7-6**] 2:22 PM
+ FINDINGS: There is a moderate amount of free air seen under the
+right
+hemidiaphragm extending across the midline. The amount on the
+right is
+similar compared to prior. The amount on the left is slightly
+less. _____
+tube is again seen over the left upper quadrant. There is patchy
+atelectasis in the left lower lung. The right subclavian PICC
+line is unchanged.
+
+
+Brief Hospital Course:
+Pt admitted to observation due to free air seen on CXR s/p PEG
+placement. Abdominal exam benign during hospital course. Free
+air stable on serial CXR. Tube feeds via g-tube resumed and
+advanced and tolerated well. Pt discharged back to rehab
+facility [**2172-7-5**].
+
+Medications on Admission:
+1. Phenytoin 125 mg/5 mL Suspension Sig: One (1)  PO TID (3
+times a day).
+2. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+3. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+4. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **]
+(2 times a day) as needed for rash.
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+6. Docusate Sodium 50 mg/5 mL Liquid Sig: Ten (10) mL PO BID (2
+times a day).
+7. Insulin Glargine 100 unit/mL Cartridge Sig: Six (6) Units
+Subcutaneous at bedtime.
+8. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) mL
+Injection TID (3 times a day).
+9. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Medications:
+1. Phenytoin 125 mg/5 mL Suspension Sig: One [**Age over 90 **]y Five
+(125) mg PO TID (3 times a day).
+2. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+3. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+4. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2
+times a day) as needed for fungus.
+5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+6. Colace 50 mg/5 mL Liquid Sig: One Hundred (100) mg PO twice a
+day as needed for constipation.
+7. Lantus 100 unit/mL Solution Sig: Six (6) Units Subcutaneous
+at bedtime.
+8. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+9. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units SC Injection TID (3 times a day).
+10. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML
+Intravenous PRN (as needed) as needed for line flush.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 459**] for the Aged - LTC
+
+Discharge Diagnosis:
+Free air on CXR s/p G-tube placement
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Please call your surgeon if you develop chest pain, shortness of
+breath, fever greater than 101.5, severe abdominal pain or
+distention, persistent nausea or vomiting, inability to eat or
+drink, or any other symptoms which are concerning to you.
+
+Activity: No heavy lifting of items [**11-14**] pounds until the
+follow up appointment with your doctor.
+
+Medications: Resume your home medications. You should take a
+stool softener, Colace 100 mg twice daily as needed for
+constipation. Pain medication may make you drowsy. No driving
+while taking pain medicine.
+
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 7025**], MD Phone:[**Telephone/Fax (1) 5285**]
+Date/Time:[**2176-8-8**] 10:00
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 435**]
+Date/Time:[**2176-8-9**] 11:00
+Please call the office of Dr.[**Last Name (STitle) **] at ([**Telephone/Fax (1) 9000**] to schedule
+a follow-up appointment.
+
+
+

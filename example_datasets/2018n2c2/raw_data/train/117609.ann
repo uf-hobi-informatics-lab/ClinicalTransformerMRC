@@ -1,0 +1,114 @@
+T1	Drug 13057 13064	Demerol
+T2	Strength 13065 13069	75mg
+T3	Frequency 13073 13074;13075 13078	q 4hr
+T4	Drug 12931 12941	Tamsulosin
+T5	Strength 12942 12946	.4mg
+T6	Route 12947 12949	PO
+T7	Drug 10953 10959	flagyl
+T8	Drug 11661 11671	amiodarone
+T9	Drug 3727 3737	amiodarone
+T10	Drug 12245 12252	insulin
+T11	Drug 12695 12705	Amiodarone
+T12	Strength 12706 12711	400mg
+T13	Drug 12824 12834	Octreotide
+T14	Strength 12835 12841	100mcg
+T16	Drug 11356 11366	amiodarone
+T17	Drug 13149 13154	Lasix
+T18	Drug 13024 13031	Demerol
+T19	Strength 13032 13036	50mg
+T20	Frequency 13040 13043;13044 13047	q4h prn
+T21	Drug 1635 1640	Zosyn
+T22	Drug 11043 11049	flagyl
+T23	Duration 11050 11061	for 2 weeks
+T24	Drug 2020 2029	diltiazem
+T25	Drug 13158 13168	Tamsulosin
+T26	Drug 12326 12333	insulin
+T27	Drug 2088 2098	amiodarone
+T28	Drug 12882 12887	Zosyn
+T30	Drug 1589 1595	Unasyn
+T31	Drug 12853 12865	Pantoprazole
+T32	Strength 12866 12870	40mg
+T33	Route 12871 12873	PO
+T34	Drug 12987 12997	Bacitracin
+T35	Form 12998 13006	ointment
+T36	Drug 12732 12745	Nitroglycerin
+T37	Form 12746 12754	ointment
+T38	Frequency 12758 12761	QID
+T39	Drug 11317 11326	diltiazem
+T40	Reason 1926 1945	Atrial Fibrillation
+T41	Reason 13048 13052	pain
+T42	Dosage 1910 1916	1 unit
+T43	Drug 1917 1922	pRBCs
+T44	Reason 1889 1895	anemia
+T45	Reason 3657 3667	Rapid Afib
+T46	Reason 11220 11239	Atrial Fibrillation
+T47	Reason 12213 12226	Hyperglycemia
+T48	Frequency 12845 12849	q8hr
+T49	Frequency 12874 12878	q 24
+T50	Strength 12888 12893	3.375
+T51	Frequency 12897 12901	q6hr
+T52	Frequency 12950 12955	daily
+T53	Drug 12959 12970	Neutra-Phos
+T54	Dosage 12971 12976	2pack
+T55	Route 12977 12979	PO
+T56	Frequency 12980 12983	BID
+T57	Route 13007 13010	TOP
+T58	Frequency 13011 13020	daily prn
+T59	Route 13070 13072	IM
+T60	Route 13037 13039	IM
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Frequency-Drug Arg1:T3 Arg2:T1
+R3	Strength-Drug Arg1:T5 Arg2:T4
+R4	Route-Drug Arg1:T6 Arg2:T4
+R5	Strength-Drug Arg1:T12 Arg2:T11
+R6	Strength-Drug Arg1:T14 Arg2:T13
+R8	Strength-Drug Arg1:T19 Arg2:T18
+R9	Frequency-Drug Arg1:T20 Arg2:T18
+R10	Duration-Drug Arg1:T23 Arg2:T22
+R12	Strength-Drug Arg1:T32 Arg2:T31
+R13	Route-Drug Arg1:T33 Arg2:T31
+R14	Form-Drug Arg1:T35 Arg2:T34
+R15	Form-Drug Arg1:T37 Arg2:T36
+R16	Frequency-Drug Arg1:T38 Arg2:T36
+R17	Reason-Drug Arg1:T44 Arg2:T43
+R18	Dosage-Drug Arg1:T42 Arg2:T43
+R19	Reason-Drug Arg1:T40 Arg2:T27
+R20	Reason-Drug Arg1:T40 Arg2:T24
+R21	Reason-Drug Arg1:T45 Arg2:T9
+R22	Reason-Drug Arg1:T46 Arg2:T16
+R23	Reason-Drug Arg1:T46 Arg2:T39
+R24	Reason-Drug Arg1:T47 Arg2:T26
+R25	Reason-Drug Arg1:T47 Arg2:T10
+R26	Frequency-Drug Arg1:T48 Arg2:T13
+R27	Route-Drug Arg1:T59 Arg2:T1
+R28	Reason-Drug Arg1:T41 Arg2:T18
+R29	Route-Drug Arg1:T60 Arg2:T18
+R30	Frequency-Drug Arg1:T58 Arg2:T34
+R31	Route-Drug Arg1:T57 Arg2:T34
+R32	Frequency-Drug Arg1:T56 Arg2:T53
+R33	Route-Drug Arg1:T55 Arg2:T53
+R34	Dosage-Drug Arg1:T54 Arg2:T53
+R35	Frequency-Drug Arg1:T52 Arg2:T4
+R36	Strength-Drug Arg1:T50 Arg2:T28
+R37	Frequency-Drug Arg1:T51 Arg2:T28
+R38	Frequency-Drug Arg1:T49 Arg2:T31
+T62	Drug 1809 1812	TPN
+T63	Reason 10921 10928	C. diff
+T64	Reason 10866 10874	diarrhea
+T66	Drug 13083 13091	Zoldipem
+T67	Drug 13109 13112	TPN
+T68	Strength 13092 13096	10mg
+T69	Frequency 13097 13104	qhs prn
+T70	Drug 11751 11761	creatinine
+T71	Reason 1574 1585	empirically
+T72	Reason 10776 10807	Clostridium difficile infection
+R39	Strength-Drug Arg1:T68 Arg2:T66
+R40	Frequency-Drug Arg1:T69 Arg2:T66
+R41	Reason-Drug Arg1:T71 Arg2:T30	
+R42	Reason-Drug Arg1:T72 Arg2:T7	
+R43	Reason-Drug Arg1:T64 Arg2:T7	
+R44	Reason-Drug Arg1:T63 Arg2:T7	
+T15	Route 12842 12844	IV
+R7	Route-Drug Arg1:T15 Arg2:T13	
+T29	Route 12894 12896	IV
+R11	Route-Drug Arg1:T29 Arg2:T28	

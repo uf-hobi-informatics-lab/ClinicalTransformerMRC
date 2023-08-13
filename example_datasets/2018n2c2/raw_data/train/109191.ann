@@ -1,0 +1,126 @@
+T1	Drug 1398 1408	Lisinopril
+T2	Strength 1409 1414	20 mg
+R1	Strength-Drug Arg1:T2 Arg2:T1
+T3	Frequency 1415 1420	daily
+R2	Frequency-Drug Arg1:T3 Arg2:T1
+T4	Drug 1431 1437	Flomax
+T5	Strength 1438 1444	0.4 mg
+R3	Strength-Drug Arg1:T5 Arg2:T4
+T6	Frequency 1445 1450	daily
+R4	Frequency-Drug Arg1:T6 Arg2:T4
+T7	Drug 1452 1459	Proscar
+T8	Strength 1460 1464	5 mg
+R5	Strength-Drug Arg1:T8 Arg2:T7
+T9	Frequency 1465 1470	daily
+R6	Frequency-Drug Arg1:T9 Arg2:T7
+T10	Drug 1472 1480	Naprosyn
+T11	Strength 1481 1484	500
+R7	Strength-Drug Arg1:T11 Arg2:T10
+T12	Frequency 1485 1499	daily to b.i.d
+R8	Frequency-Drug Arg1:T12 Arg2:T10
+T13	Reason 217 236	metastatic melanoma
+R9	Reason-Drug Arg1:T13 Arg2:T15
+T14	Dosage 272 281	high-dose
+R10	Dosage-Drug Arg1:T14 Arg2:T15
+T15	Drug 282 294	IL-2 therapy
+T16	Drug 3004 3018	interleukin-II
+T17	Strength 3019 3026;3027 3059	600,000 international units per kilogram
+R11	Strength-Drug Arg1:T17 Arg2:T16
+T18	Dosage 3070 3086	64 million units
+R12	Dosage-Drug Arg1:T18 Arg2:T16
+T20	Frequency 3090 3094	q.8h
+R14	Frequency-Drug Arg1:T20 Arg2:T16
+T21	Duration 3096 3099	x14
+R15	Duration-Drug Arg1:T21 Arg2:T16
+T22	ADE 3197 3210	neurotoxicity
+R16	ADE-Drug Arg1:T22 Arg2:T16
+T23	ADE 3250 3259	tachypnea
+R17	ADE-Drug Arg1:T23 Arg2:T16
+T24	ADE 3261 3268	stridor
+R18	ADE-Drug Arg1:T24 Arg2:T16
+T25	ADE 3273 3293	respiratory distress
+R19	ADE-Drug Arg1:T25 Arg2:T16
+T26	Reason 3548 3559	hypotensive
+R20	Reason-Drug Arg1:T26 Arg2:T27
+R21	Reason-Drug Arg1:T26 Arg2:T28
+T27	Drug 3585 3598	phenylephrine
+T28	Drug 3603 3611	Levophed
+T29	Drug 3704 3715	bicarbonate
+T30	Reason 3937 3967	Clostridium difficile diarrhea
+R22	Reason-Drug Arg1:T30 Arg2:T31
+T31	Drug 3981 3987	Flagyl
+T32	Drug 4095 4099	IL-2
+T33	ADE 4117 4128	mild chills
+R23	ADE-Drug Arg1:T33 Arg2:T32
+T34	ADE 4148 4170	erythematous skin rash
+R24	ADE-Drug Arg1:T34 Arg2:T32
+T35	ADE 4172 4178	nausea
+R25	ADE-Drug Arg1:T35 Arg2:T32
+T360	Reason 4172 4178	nausea
+R26	Reason-Drug Arg1:T360 Arg2:T36
+T36	Drug 4194 4203	lorazepam
+T37	ADE 4205 4213	diarrhea
+R27	ADE-Drug Arg1:T37 Arg2:T32
+T380	Reason 4205 4213	diarrhea
+R28	Reason-Drug Arg1:T380 Arg2:T38
+T38	Drug 4229 4236	Lomotil
+T39	ADE 4242 4249	fatigue
+R30	ADE-Drug Arg1:T39 Arg2:T32
+T40	Reason 5136 5155	Metastatic melanoma
+R31	Reason-Drug Arg1:T40 Arg2:T42
+T41	Dosage 5185 5194	high-dose
+R32	Dosage-Drug Arg1:T41 Arg2:T42
+T42	Drug 5195 5199	IL-2
+T43	ADE 5215 5234	respiratory failure
+R33	ADE-Drug Arg1:T43 Arg2:T42
+T44	ADE 5239 5258	acute renal failure
+R34	ADE-Drug Arg1:T44 Arg2:T42
+T45	Drug 5285 5294	Lorazepam
+T46	Strength 5295 5299	1 mg
+R35	Strength-Drug Arg1:T46 Arg2:T45
+T47	Frequency 5300 5313	q.4-6h. p.r.n
+R36	Frequency-Drug Arg1:T47 Arg2:T45
+T48	Reason 5315 5321	nausea
+R37	Reason-Drug Arg1:T48 Arg2:T45
+T49	Drug 5332 5341	Compazine
+T50	Strength 5342 5347	10 mg
+R38	Strength-Drug Arg1:T50 Arg2:T49
+T51	Frequency 5348 5359	q.6h. p.r.n
+R39	Frequency-Drug Arg1:T51 Arg2:T49
+T52	Reason 5368 5376	vomiting
+T53	Drug 5378 5385	Proscar
+T54	Strength 5386 5390	5 mg
+R41	Strength-Drug Arg1:T54 Arg2:T53
+T55	Frequency 5391 5396	daily
+R42	Frequency-Drug Arg1:T55 Arg2:T53
+T56	Drug 5398 5404	Flagyl
+T57	Strength 5405 5411	500 mg
+R43	Strength-Drug Arg1:T57 Arg2:T56
+T58	Route 5412 5415	p.o
+R44	Route-Drug Arg1:T58 Arg2:T56
+T59	Frequency 5417 5422	t.i.d
+R45	Frequency-Drug Arg1:T59 Arg2:T56
+T60	Drug 5424 5433	oxycodone
+T61	Strength 5434 5444	5 to 10 mg
+R46	Strength-Drug Arg1:T61 Arg2:T60
+T62	Frequency 5445 5456	q.4h. p.r.n
+R47	Frequency-Drug Arg1:T62 Arg2:T60
+T63	Reason 5458 5462	pain
+R48	Reason-Drug Arg1:T63 Arg2:T60
+T64	Drug 5464 5470	Zantac
+T65	Strength 5471 5477	150 mg
+R49	Strength-Drug Arg1:T65 Arg2:T64
+T66	Route 5478 5481	p.o
+R50	Route-Drug Arg1:T66 Arg2:T64
+T67	Frequency 5483 5488	t.i.d
+R51	Frequency-Drug Arg1:T67 Arg2:T64
+T68	Dosage 957 966	high-dose
+R52	Dosage-Drug Arg1:T68 Arg2:T69
+T69	Drug 967 971	IL-2
+T19	Route 3087 3089	IV
+R13	Route-Drug Arg1:T19 Arg2:T16	
+T70	Reason 5322 5330	vomiting
+R29	Reason-Drug Arg1:T70 Arg2:T45	
+T71	Reason 5361 5367	nausea
+R40	Reason-Drug Arg1:T71 Arg2:T49	
+R53	Reason-Drug Arg1:T52 Arg2:T49	

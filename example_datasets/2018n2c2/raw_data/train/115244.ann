@@ -1,0 +1,74 @@
+T1	Drug 4992 4998	Ultram
+T2	Drug 5067 5073	Ultram
+T3	Drug 1156 1165	Neurontin
+T4	Strength 465 471	400 mg
+T5	Duration 485 512	for approximately one month
+T6	Drug 455 463;463 464	ibuprofe n
+T7	Drug 5095 5104	ibuprofen
+T8	Drug 5320 5326	Ultram
+T9	Drug 5737 5745	Tramadol
+T10	Strength 5746 5751	50 mg
+T11	Route 5752 5756	p.o.
+T12	Drug 5707 5715	Protonix
+T13	Strength 5716 5721	40 mg
+T14	Frequency 5727 5733	b.i.d.
+T15	Route 5722 5726	p.o.
+T16	Drug 5329 5336	Tylenol
+T17	Drug 1234 1243	Ibuprofen
+T18	Strength 1244 1250	400 mg
+T19	Drug 5780 5786	Prozac
+T20	Strength 5787 5792	20 mg
+T21	Route 5793 5797	p.o.
+T22	Drug 1302 1309	Flonase
+T23	Drug 4087 4095	Protonix
+T24	Frequency 4096 4102	b.i.d.
+T25	Drug 1275 1281	Prozac
+T26	Strength 1282 1287	20 mg
+T27	Route 1288 1292	p.o.
+T29	Frequency 472 484	q. 4-6 hours
+T30	ADE 1206 1214	sedative
+T31	Frequency 1251 1270	q. 4-6 hours p.r.n.
+T32	Frequency 1293 1301	q.d.  4.
+T33	Drug 1315 1325	Omega oils
+T34	Drug 1340 1345	Sulfa
+T35	Duration 4103 4115;4116 4125	for at least two weeks
+T36	Reason 4039 4054;4055 4075	decrease future risks of GI bleeding
+T37	Drug 4217 4227	Omega oils
+T38	Reason 4936 4940	Pain
+T39	Frequency 5798 5802	q.d.
+R1	Strength-Drug Arg1:T4 Arg2:T6
+R2	Duration-Drug Arg1:T5 Arg2:T6
+R3	Strength-Drug Arg1:T10 Arg2:T9
+R4	Route-Drug Arg1:T11 Arg2:T9
+R5	Strength-Drug Arg1:T13 Arg2:T12
+R6	Frequency-Drug Arg1:T14 Arg2:T12
+R7	Route-Drug Arg1:T15 Arg2:T12
+R8	Strength-Drug Arg1:T18 Arg2:T17
+R9	Strength-Drug Arg1:T20 Arg2:T19
+R10	Route-Drug Arg1:T21 Arg2:T19
+R11	Frequency-Drug Arg1:T24 Arg2:T23
+R12	Strength-Drug Arg1:T26 Arg2:T25
+R13	Route-Drug Arg1:T27 Arg2:T25
+R14	Frequency-Drug Arg1:T29 Arg2:T6
+R15	ADE-Drug Arg1:T30 Arg2:T3
+R16	Frequency-Drug Arg1:T31 Arg2:T17
+R17	Frequency-Drug Arg1:T32 Arg2:T25
+R18	Duration-Drug Arg1:T35 Arg2:T23
+R19	Reason-Drug Arg1:T36 Arg2:T23
+R20	Reason-Drug Arg1:T38 Arg2:T1
+R21	Frequency-Drug Arg1:T39 Arg2:T19
+T41	Reason 3574 3587	resuscitation
+T42	Drug 3547 3569	packed red blood cells
+T43	Dosage 3534 3543	six units
+T44	Drug 4175 4212	non-steroidal anti-inflammatory drugs
+T45	Drug 5455 5477	packed red blood cells
+T46	Dosage 5442 5451	six units
+T48	Frequency 4145 4149	q.d.
+T49	Reason 5004 5013	Back pain
+T50	Frequency 5757 5775	q. 4-6 hours p.r.n
+R22	Dosage-Drug Arg1:T43 Arg2:T42
+R23	Reason-Drug Arg1:T41 Arg2:T42
+R24	Dosage-Drug Arg1:T46 Arg2:T45
+R25	Frequency-Drug Arg1:T48 Arg2:T23	
+R26	Reason-Drug Arg1:T49 Arg2:T2	
+R27	Frequency-Drug Arg1:T50 Arg2:T9	

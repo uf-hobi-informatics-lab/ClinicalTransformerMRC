@@ -1,0 +1,185 @@
+T1	Drug 4866 4876	Famotidine
+T2	Strength 4877 4882	20 mg
+T3	Form 4903 4909	Tablet
+T4	Route 4910 4912	PO
+T5	Drug 4487 4501	Spironolactone
+T6	Strength 4502 4507	50 mg
+T7	Drug 4937 4947;4948 4956	Metoprolol Tartrate
+T8	Strength 4957 4962	25 mg
+T9	Route 4990 4992	PO
+T10	Drug 3658 3665	Prograf
+T11	Drug 5132 5146	Valganciclovir
+T12	Strength 5147 5153	450 mg
+T13	Form 5174 5180	Tablet
+T14	Route 5181 5183	PO
+T15	Drug 4590 4597;4598 4600	Tylenol PM
+T16	Drug 4633 4644	Fluconazole
+T17	Strength 4645 4651	200 mg
+T18	Form 4672 4678	Tablet
+T19	Route 4679 4681	PO
+T20	Drug 4443 4453	Furosemide
+T21	Strength 4454 4459	20 mg
+T22	Drug 5202 5212;5212 5225	Oxycodone- Acetaminophen
+T23	Frequency 5262 5265;5266 5291	Q4H (every 4 hours) as needed
+T24	Route 5259 5261	PO
+T25	Drug 3998 4005	bactrim
+T26	Drug 4708 4718	Prednisone
+T27	Strength 4719 4724	20 mg
+T28	Form 4745 4751	Tablet
+T29	Route 4752 4754	PO
+T30	Drug 3942 3951	thorazine
+T31	Drug 3750 3757	Prograf
+T32	Drug 3428 3435	insulin
+T33	Drug 4075 4086	Pentamidine
+T34	Drug 3629 3637	Cellcept
+T35	Drug 4143 4154	Pamidronate
+T36	Drug 4466 4477	Propranolol
+T37	Strength 4478 4483	10 mg
+T38	Drug 4787 4795;4796 4802	Docusate Sodium
+T39	Strength 4803 4809	100 mg
+T40	Form 4831 4838	Capsule
+T41	Route 4839 4841	PO
+T42	Drug 5049 5062;5063 5070	Mycophenolate Mofetil
+T43	Strength 5071 5077	500 mg
+T44	Form 5098 5104	Tablet
+T45	Frequency 5108 5111;5112 5127	BID (2 times a day)
+T46	Route 5105 5107	PO
+T47	Drug 4415 4427	Clotrimazole
+T48	Strength 4428 4433	10 mg
+T49	Reason 5296 5300	Pain
+T50	Drug 165 185	Sulfa (Sulfonamides)
+T51	Reason 534 537	HCV
+T52	Drug 633 643;644 655	interferon monotherapy
+T53	Drug 657 665	Rebetron
+T54	Drug 671 681	Peg-Intron
+T55	Drug 686 695	ribavirin
+T56	Drug 875 892	antiHCV therapies
+T57	Dosage 3436 3449	sliding scale
+T58	ADE 3454 3467	hyperglycemia
+T59	Reason 3454 3467	hyperglycemia
+T60	Drug 3593 3601	Steroids
+T61	Drug 3481 3489	steroids
+T62	Dosage 3607 3614	tapered
+T63	Strength 3775 3778	9mg
+T64	Reason 3846 3867	intractable hiccoughs
+T65	ADE 3989 3996	allergy
+T66	Drug 3983 3988	sulfa
+T67	Route 4087 4097	inhalation
+T68	Reason 4184 4194	osteopenia
+T69	Frequency 4434 4442	5x daily
+T70	Frequency 4460 4465	daily
+T71	Frequency 4484 4486	QD
+T72	Frequency 4508 4513	daily
+T73	Frequency 4601 4604	PRN
+T74	Dosage 4664 4671	Two (2)
+T75	Frequency 4682 4693;4694 4703	Q24H (every 24 hours)
+T76	Form 4652 4658	Tablet
+T77	Form 4725 4731	Tablet
+T78	Dosage 4737 4744	One (1)
+T79	Dosage 4777 4782	taper
+T80	Frequency 4755 4768	DAILY (Daily)
+T81	Form 4810 4817	Capsule
+T82	Dosage 4823 4830	One (1)
+T83	Frequency 4842 4848;4849 4861	BID (2 times a day)
+T84	Form 4883 4889	Tablet
+T85	Dosage 4895 4902	One (1)
+T86	Frequency 4913 4927;4928 4932	BID (2 times a day)
+T87	Dosage 4975 4982	One (1)
+T88	Form 4983 4989	Tablet
+T89	Form 4963 4969	Tablet
+T90	Frequency 4993 4996;4997 5012	TID (3 times a day)
+T91	Dosage 5247 5250	1-2
+T92	Strength 5226 5234	5-325 mg
+T93	Form 5235 5241	Tablet
+T94	Form 5251 5258	Tablets
+T95	Dosage 5090 5097	Two (2)
+T96	Form 5078 5084	Tablet
+T97	Form 5154 5160	Tablet
+T98	Dosage 5166 5173	Two (2)
+T99	Frequency 5184 5189;5190 5197	DAILY (Daily)
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Form-Drug Arg1:T3 Arg2:T1
+R3	Route-Drug Arg1:T4 Arg2:T1
+R4	Strength-Drug Arg1:T6 Arg2:T5
+R5	Strength-Drug Arg1:T8 Arg2:T7
+R6	Route-Drug Arg1:T9 Arg2:T7
+R7	Strength-Drug Arg1:T12 Arg2:T11
+R8	Form-Drug Arg1:T13 Arg2:T11
+R9	Route-Drug Arg1:T14 Arg2:T11
+R10	Strength-Drug Arg1:T17 Arg2:T16
+R11	Form-Drug Arg1:T18 Arg2:T16
+R12	Route-Drug Arg1:T19 Arg2:T16
+R13	Strength-Drug Arg1:T21 Arg2:T20
+R14	Frequency-Drug Arg1:T23 Arg2:T22
+R15	Route-Drug Arg1:T24 Arg2:T22
+R16	Strength-Drug Arg1:T27 Arg2:T26
+R17	Form-Drug Arg1:T28 Arg2:T26
+R18	Route-Drug Arg1:T29 Arg2:T26
+R19	Strength-Drug Arg1:T37 Arg2:T36
+R20	Strength-Drug Arg1:T39 Arg2:T38
+R21	Form-Drug Arg1:T40 Arg2:T38
+R22	Route-Drug Arg1:T41 Arg2:T38
+R23	Strength-Drug Arg1:T43 Arg2:T42
+R24	Form-Drug Arg1:T44 Arg2:T42
+R25	Frequency-Drug Arg1:T45 Arg2:T42
+R26	Route-Drug Arg1:T46 Arg2:T42
+R27	Strength-Drug Arg1:T48 Arg2:T47
+R28	Reason-Drug Arg1:T51 Arg2:T52
+R29	Reason-Drug Arg1:T51 Arg2:T53
+R30	Reason-Drug Arg1:T51 Arg2:T54
+R31	Reason-Drug Arg1:T51 Arg2:T55
+R32	Reason-Drug Arg1:T59 Arg2:T32
+R33	Dosage-Drug Arg1:T57 Arg2:T32
+R34	ADE-Drug Arg1:T59 Arg2:T61
+R35	Dosage-Drug Arg1:T62 Arg2:T60
+R36	Strength-Drug Arg1:T63 Arg2:T31
+R37	Reason-Drug Arg1:T64 Arg2:T30
+R38	ADE-Drug Arg1:T65 Arg2:T66
+R39	Route-Drug Arg1:T67 Arg2:T33
+R40	Reason-Drug Arg1:T68 Arg2:T35
+R41	Frequency-Drug Arg1:T69 Arg2:T47
+R42	Frequency-Drug Arg1:T70 Arg2:T20
+R43	Frequency-Drug Arg1:T71 Arg2:T36
+R44	Frequency-Drug Arg1:T72 Arg2:T5
+R45	Frequency-Drug Arg1:T73 Arg2:T15
+R46	Form-Drug Arg1:T76 Arg2:T16
+R47	Dosage-Drug Arg1:T74 Arg2:T16
+R48	Frequency-Drug Arg1:T75 Arg2:T16
+R49	Form-Drug Arg1:T77 Arg2:T26
+R50	Dosage-Drug Arg1:T78 Arg2:T26
+R51	Frequency-Drug Arg1:T80 Arg2:T26
+R52	Dosage-Drug Arg1:T79 Arg2:T26
+R53	Form-Drug Arg1:T81 Arg2:T38
+R54	Dosage-Drug Arg1:T82 Arg2:T38
+R55	Frequency-Drug Arg1:T83 Arg2:T38
+R56	Form-Drug Arg1:T84 Arg2:T1
+R57	Dosage-Drug Arg1:T85 Arg2:T1
+R58	Frequency-Drug Arg1:T86 Arg2:T1
+R59	Form-Drug Arg1:T89 Arg2:T7
+R60	Dosage-Drug Arg1:T87 Arg2:T7
+R61	Form-Drug Arg1:T88 Arg2:T7
+R62	Frequency-Drug Arg1:T90 Arg2:T7
+R63	Reason-Drug Arg1:T49 Arg2:T22
+R64	Strength-Drug Arg1:T92 Arg2:T22
+R65	Form-Drug Arg1:T93 Arg2:T22
+R66	Dosage-Drug Arg1:T91 Arg2:T22
+R67	Form-Drug Arg1:T94 Arg2:T22
+R68	Form-Drug Arg1:T97 Arg2:T11
+R69	Dosage-Drug Arg1:T98 Arg2:T11
+R70	Frequency-Drug Arg1:T99 Arg2:T11
+R71	Form-Drug Arg1:T96 Arg2:T42
+T101	Reason 935 938	HCV
+T102	Duration 910 919	18 months
+T105	Form 5023 5029	Tablet
+T106	Form 5311 5317	Tablet
+T107	Drug 511 516	blood
+T108	Route 517 528	transfusion
+T109	ADE 474 477	HCV
+T110	Drug 596 622	interferon-based therapies
+T111	Dosage 3929 3938	low doses
+R72	ADE-Drug Arg1:T109 Arg2:T107
+R73	Route-Drug Arg1:T108 Arg2:T107
+R74	Duration-Drug Arg1:T102 Arg2:T56	
+R75	Reason-Drug Arg1:T101 Arg2:T56	
+R76	Dosage-Drug Arg1:T111 Arg2:T30	
+R77	Dosage-Drug Arg1:T95 Arg2:T42	

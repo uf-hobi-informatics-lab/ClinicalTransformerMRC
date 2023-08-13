@@ -1,0 +1,208 @@
+Admission Date:  [**2173-7-26**]              Discharge Date:   [**2173-8-5**]
+
+Date of Birth:  [**2103-8-12**]             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+Lisinopril / Atorvastatin
+
+Attending:[**First Name3 (LF) 5868**]
+Chief Complaint:
+large left temporo-parietal bleed
+
+Major Surgical or Invasive Procedure:
+tracheostomy
+peg tube placement
+
+
+History of Present Illness:
+The patient a 69 year old woman with a history of hypertension,
+diabetes, and dementia now presenting on transfer from [**Hospital3 **]Hospital with a large left temporo-parietal bleed.  The
+details of her history are sparse and are taken primarily from
+her OSH chart.  She presented originally on [**7-22**] complaining of
+worsened shortness of breath and generalized weakness.  A
+tentative diagnosis of pulmonary embolus was made and she was
+treated with lovenox.  She was also noted to be febrile and to
+have slurred speech on admission.
+
+Today, the medical staff noticed that the patient was not moving
+her right side and was "relatively unresponsive."  A head CT was
+then performed which showed a large bleed as described above.
+Arrangements were made to transfer her to [**Hospital1 18**] for ICU level
+care.
+
+Review of Systems:
+-unobtainable
+
+
+Past Medical History:
+-diabetes
+-hypertension
+-depression
+-asthma
+-peripheral neuropathy
+-dementia
+
+
+Social History:
+-resident of [**Hospital6 25759**] Home
+-no recent history of smoking or alcohol use
+
+
+Family History:
+-unobtainable
+
+
+Physical Exam:
+Vitals:  99.6  88  150/70  28  97% on 2L
+General: Well nourished, in no acute distress
+Neck: supple
+Lungs:  poor air movement throughout all lung fields
+CV: regular rate and rhythm
+Abdomen:  non-tender, non-distended, bowel sounds present
+Ext: warm, no edema
+
+Neurologic Examination:
+left gaze preference; minimal response to voice, will look
+toward
+the left side if yell at her; grimmaces to sternal rub; pupils 1
+mm and minimally reactive to light; corneal reflex decreased on
+right side; mild right facial droop; weak gag reflex;
+spontaneous
+movement on left, none on right; withdraws to pain on left,
+minimal response on right; toe upgoing on right; reflexes
+decreased throughout;
+
+
+Pertinent Results:
+[**2173-7-26**] 06:00PM   PT-12.0 PTT-31.9 INR(PT)-1.0
+[**2173-7-26**] 06:00PM   PLT COUNT-193
+[**2173-7-26**] 06:00PM   WBC-12.6* RBC-3.39* HGB-10.0* HCT-30.5*
+MCV-90 MCH-29.6 MCHC-32.9 RDW-13.1
+[**2173-7-26**] 06:00PM   CALCIUM-9.0 PHOSPHATE-3.8 MAGNESIUM-1.7
+[**2173-7-26**] 06:00PM   GLUCOSE-235* UREA N-32* CREAT-1.4* SODIUM-140
+POTASSIUM-4.3 CHLORIDE-100 TOTAL CO2-30* ANION GAP-14
+[**2173-7-26**] 06:29PM   freeCa-1.18
+[**2173-7-26**] 06:29PM   LACTATE-1.4
+[**2173-7-26**] 06:29PM   TYPE-ART TEMP-38.1 PO2-94 PCO2-74* PH-7.28*
+TOTAL CO2-36* BASE XS-4 INTUBATED-NOT INTUBA
+[**2173-7-26**] 08:11PM   O2 SAT-99
+[**2173-7-26**] 08:11PM   GLUCOSE-197*
+[**2173-7-26**] 08:11PM   TYPE-ART PO2-405* PCO2-47* PH-7.36 TOTAL
+CO2-28 BASE XS-0 INTUBATED-INTUBATED
+.
+.
+Head CT [**2173-7-26**]:
+There is a large intraparenchymal hemorrhage in the left
+frontoparietal region with extension into the ventricular
+system. There is a moderate amount of edema surrounding this
+hemorrhage and there is mass effect and approximately 1.4 cm of
+midline shift to the right. There is subfalcine herniation.
+Blood is seen in the left lateral ventricle as well as the
+occipital [**Doctor Last Name 534**] of the right lateral ventricle. The sulci and
+gyri of the entire left cerebral hemisphere are effaced. The
+[**Doctor Last Name 352**]-white matter differentiation within the right hemisphere is
+preserved. The surrounding osseous and soft tissue structures
+are unremarkable. The visualized paranasal sinuses show
+opacification of the right sphenoid sinus.
+
+IMPRESSION: Large left frontoparietal intraparenchymal
+hemorrhage with extension into the ventricular system, mass
+effect, midline shift, and uncal herniation. If prior
+examinations exist, they would be helpful for comparison to
+detail interval changes.
+
+Brief Hospital Course:
+The patient was admitted for management of her large
+intraparenchymal bleed.  The etiology was thought to be most
+likely from amyloid angiopathy.  The neurosurgery team consulted
+and the patient and discussed options with the family and it was
+decided that surgery (draining the lesion) would not likely
+benefit the patient.  She was loaded with dilantin.  Her exam
+remained stable.  The family made the patient DNR but not DNI.
+A family meeting was held and the family decided in favor of
+placing a tracheostomy tube and a PEG tube.  These procedures
+were done without complication.  The patient was initially
+placed on dilantin for seizure prophylaxis due to her ICH.  She
+had no events and the dilantin was eventually d/c'd.  The
+patient remained hemodynamically stable.  She has a goal SBP of
+110-150.  The patient did appear to have a slight rash on her
+truck upon d/c that was attributed to her dilantin that was
+recently d/c'd.  On [**7-31**] she spiked a fever to 103 she remianed
+febrile for ~ 5 days.  Eventually she had a sputum culture + for
+staph aureus.  The patient was started on levofloxacin for a 10
+day course.  At the time of d/c she was afebrile.  She was
+accepted for placement at [**Hospital3 7**].
+
+Medications on Admission:
+-actonel
+-aricept
+-asa 81
+-cymbalta
+-protonix
+-advair
+-cardia xt
+-risperidal
+-calcium
+-metoprolol
+-neurontin 300 qhs
+-glucagon prn hypoglycemia
+-dulcolax
+-lantus 16 units qam
+-humalog sliding scale
+
+
+Discharge Medications:
+1. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day) as needed.
+2. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One
+(1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+3. Levofloxacin in D5W 250 mg/50 mL Piggyback Sig: One (1)
+Intravenous  Q24H (every 24 hours) for 7 days.
+4. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection tid.
+5. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q4-6H (every 4 to 6 hours) as needed for wheeze.
+6. Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation Q4-6H (every 4 to 6 hours) as needed for wheeze.
+
+7. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3
+times a day).
+8. Furosemide 80 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+9. Insulin
+Please follow submitted insulin sliding scale
+
+Glargine 12 units q am
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 7**] & Rehab Center - [**Hospital1 8**]
+
+Discharge Diagnosis:
+ICH
+
+
+Discharge Condition:
+fair
+
+Discharge Instructions:
+Please have patient see a physician or return to [**Hospital1 18**] if she
+experieces changes in consciousness, increased weakness,
+seizures, worsened facial droop, fever.
+
+Patient should have a repeat CT scan in 1 week to evaulate
+evolution of brain hemorrhage
+
+Followup Instructions:
+Please follow up with primary care physician [**Last Name (NamePattern4) **] [**1-31**] weeks.
+
+Please make an appointment to see [**Hospital1 18**] stroke service as an
+outpatient within 1 month
+
+
+

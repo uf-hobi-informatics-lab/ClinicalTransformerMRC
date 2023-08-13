@@ -1,0 +1,201 @@
+T1	Drug 163 174	Ceftriaxone
+T2	Drug 177 187	Vancomycin
+T3	Drug 2452 2459	Prograf
+T4	Drug 2534 2547	normal saline
+T5	Drug 3341 3355	Ergocalciferol
+T6	Strength 3369 3376	50,000U
+R1	Strength-Drug Arg1:T6 Arg2:T5
+T7	Frequency 3377 3384	1X/WEEK
+R2	Frequency-Drug Arg1:T7 Arg2:T5
+T8	Drug 3391 3398	valcyte
+T9	Strength 3399 3402	450
+R3	Strength-Drug Arg1:T9 Arg2:T8
+T10	Drug 3405 3428	Triamcinolone Acetonide
+T11	Strength 3429 3432	0.1 
+R4	Strength-Drug Arg1:T11 Arg2:T10
+T12	Form 3435 3440	Cream
+R5	Form-Drug Arg1:T12 Arg2:T10
+T13	Frequency 3441 3444	QID
+R6	Frequency-Drug Arg1:T13 Arg2:T10
+T14	Drug 3446 3456	Tacrolimus
+T15	Strength 3457 3458	2
+R7	Strength-Drug Arg1:T15 Arg2:T14
+T16	Drug 3461 3468	Bactrim
+T18	Drug 3474 3484	Prednisone
+T19	Strength 3485 3487	20
+R9	Strength-Drug Arg1:T19 Arg2:T18
+T20	Drug 3503 3513	Omeprazole
+T21	Strength 3514 3516	40
+R10	Strength-Drug Arg1:T21 Arg2:T20
+T22	Drug 3519 3527	Cellcept
+T23	Drug 3550 3558	Morphine
+T24	Strength 3559 3561	15
+R11	Strength-Drug Arg1:T24 Arg2:T23
+T25	Frequency 3562 3564	q4
+R12	Frequency-Drug Arg1:T25 Arg2:T23
+T26	Duration 3565 3568	PRN
+R13	Duration-Drug Arg1:T26 Arg2:T23
+T27	Drug 3570 3581	Fluconazole
+T28	Strength 3582 3585	400
+R14	Strength-Drug Arg1:T28 Arg2:T27
+T29	Drug 3588 3594	Colace
+T30	Strength 3595 3598	100
+R15	Strength-Drug Arg1:T30 Arg2:T29
+T31	Drug 3601 3604	NPH
+T32	Strength 3605 3606	6
+R16	Strength-Drug Arg1:T32 Arg2:T31
+T33	Drug 3609 3615	Lispro
+T35	Drug 3909 3919	Prednisone
+T36	Strength 3920 3924	5 mg
+R18	Strength-Drug Arg1:T36 Arg2:T35
+T37	Form 3925 3931	Tablet
+R19	Form-Drug Arg1:T37 Arg2:T35
+T38	Dosage 3937 3940	3.5
+R20	Dosage-Drug Arg1:T38 Arg2:T35
+T39	Form 3941 3948	Tablets
+R21	Form-Drug Arg1:T39 Arg2:T35
+T40	Route 3949 3951	PO
+R22	Route-Drug Arg1:T40 Arg2:T35
+T41	Frequency 3952 3957	DAILY
+R23	Frequency-Drug Arg1:T41 Arg2:T35
+T42	Drug 3970 3984	Valganciclovir
+T43	Strength 3985 3991	450 mg
+R24	Strength-Drug Arg1:T43 Arg2:T42
+T44	Form 3992 3998	Tablet
+R25	Form-Drug Arg1:T44 Arg2:T42
+T45	Dosage 4004 4011	One (1)
+R26	Dosage-Drug Arg1:T45 Arg2:T42
+T46	Form 4012 4018	Tablet
+R27	Form-Drug Arg1:T46 Arg2:T42
+T47	Route 4019 4021	PO
+R28	Route-Drug Arg1:T47 Arg2:T42
+T48	Frequency 4022 4027	DAILY
+R29	Frequency-Drug Arg1:T48 Arg2:T42
+T49	Drug 4040 4069	Trimethoprim-Sulfamethoxazole
+T50	Strength 4070 4079	80-400 mg
+R30	Strength-Drug Arg1:T50 Arg2:T49
+T51	Form 4080 4086	Tablet
+R31	Form-Drug Arg1:T51 Arg2:T49
+T52	Dosage 4092 4099	One (1)
+R32	Dosage-Drug Arg1:T52 Arg2:T49
+T53	Form 4100 4106	Tablet
+R33	Form-Drug Arg1:T53 Arg2:T49
+T54	Route 4107 4109	PO
+R34	Route-Drug Arg1:T54 Arg2:T49
+T55	Frequency 4110 4115	DAILY
+R35	Frequency-Drug Arg1:T55 Arg2:T49
+T56	Drug 4128 4139	Fluconazole
+T57	Strength 4140 4146	200 mg
+R36	Strength-Drug Arg1:T57 Arg2:T56
+T58	Form 4147 4153	Tablet
+R37	Form-Drug Arg1:T58 Arg2:T56
+T59	Dosage 4159 4166	Two (2)
+R38	Dosage-Drug Arg1:T59 Arg2:T56
+T60	Form 4167 4173	Tablet
+R39	Form-Drug Arg1:T60 Arg2:T56
+T61	Route 4174 4176	PO
+R40	Route-Drug Arg1:T61 Arg2:T56
+T62	Frequency 4177 4181	Q24H
+R41	Frequency-Drug Arg1:T62 Arg2:T56
+T63	Drug 4203 4213	Omeprazole
+T64	Strength 4214 4219	20 mg
+R42	Strength-Drug Arg1:T64 Arg2:T63
+T65	Form 4220 4250	Capsule, Delayed Release(E.C.)
+R43	Form-Drug Arg1:T65 Arg2:T63
+T66	Dosage 4256 4263	Two (2)
+R44	Dosage-Drug Arg1:T66 Arg2:T63
+T67	Form 4264 4294	Capsule, Delayed Release(E.C.)
+R45	Form-Drug Arg1:T67 Arg2:T63
+T68	Route 4295 4297	PO
+R46	Route-Drug Arg1:T68 Arg2:T63
+T69	Frequency 4298 4303	DAILY
+R47	Frequency-Drug Arg1:T69 Arg2:T63
+T70	Drug 4316 4331	Docusate Sodium
+T71	Strength 4332 4338	100 mg
+R48	Strength-Drug Arg1:T71 Arg2:T70
+T72	Form 4339 4346	Capsule
+R49	Form-Drug Arg1:T72 Arg2:T70
+T73	Dosage 4352 4359	One (1)
+R50	Dosage-Drug Arg1:T73 Arg2:T70
+T74	Form 4360 4367	Capsule
+R51	Form-Drug Arg1:T74 Arg2:T70
+T75	Route 4368 4370	PO
+R52	Route-Drug Arg1:T75 Arg2:T70
+T76	Frequency 4371 4374	BID
+R53	Frequency-Drug Arg1:T76 Arg2:T70
+T77	Drug 4395 4409	Ergocalciferol
+T78	Strength 4423 4434	50,000 unit
+R54	Strength-Drug Arg1:T78 Arg2:T77
+T79	Form 4435 4442	Capsule
+R55	Form-Drug Arg1:T79 Arg2:T77
+T80	Dosage 4448 4455	One (1)
+R56	Dosage-Drug Arg1:T80 Arg2:T77
+T81	Form 4456 4463	Capsule
+R57	Form-Drug Arg1:T81 Arg2:T77
+T82	Route 4464 4466	PO
+R58	Route-Drug Arg1:T82 Arg2:T77
+T83	Frequency 4467 4474	1X/WEEK
+R59	Frequency-Drug Arg1:T83 Arg2:T77
+T84	Drug 4484 4508	Insulin NPH Human Recomb
+T85	Strength 4509 4520	100 unit/mL
+R60	Strength-Drug Arg1:T85 Arg2:T84
+T86	Form 4521 4531	Suspension
+R61	Form-Drug Arg1:T86 Arg2:T84
+T87	Dosage 4537 4544	Six (6)
+R62	Dosage-Drug Arg1:T87 Arg2:T84
+T88	Form 4545 4550	units
+R63	Form-Drug Arg1:T88 Arg2:T84
+T89	Route 4551 4563	Subcutaneous
+R64	Route-Drug Arg1:T89 Arg2:T84
+T90	Frequency 4564 4574	once a day
+R65	Frequency-Drug Arg1:T90 Arg2:T84
+T91	Drug 4579 4593	Insulin Lispro
+T92	Strength 4594 4605	100 unit/mL
+R66	Strength-Drug Arg1:T92 Arg2:T91
+T93	Form 4606 4614	Solution
+R67	Form-Drug Arg1:T93 Arg2:T91
+T94	Dosage 4624 4637	sliding scale
+R68	Dosage-Drug Arg1:T94 Arg2:T91
+T95	Route 4638 4650	Subcutaneous
+R69	Route-Drug Arg1:T95 Arg2:T91
+T96	Frequency 4651 4667	four times a day
+R70	Frequency-Drug Arg1:T96 Arg2:T91
+T97	Drug 4692 4713	Mycophenolate Mofetil
+T98	Strength 4714 4720	500 mg
+R71	Strength-Drug Arg1:T98 Arg2:T97
+T99	Form 4721 4727	Tablet
+R72	Form-Drug Arg1:T99 Arg2:T97
+T100	Dosage 4733 4740	One (1)
+R73	Dosage-Drug Arg1:T100 Arg2:T97
+T101	Form 4741 4747	Tablet
+R74	Form-Drug Arg1:T101 Arg2:T97
+T102	Route 4748 4750	PO
+R75	Route-Drug Arg1:T102 Arg2:T97
+T103	Frequency 4751 4754	QID
+R76	Frequency-Drug Arg1:T103 Arg2:T97
+T104	Drug 4776 4793	Calcium Carbonate
+T105	Strength 4794 4800	500 mg
+R77	Strength-Drug Arg1:T105 Arg2:T104
+T106	Form 4801 4817	Tablet, Chewable
+R78	Form-Drug Arg1:T106 Arg2:T104
+T107	Dosage 4823 4830	One (1)
+R79	Dosage-Drug Arg1:T107 Arg2:T104
+T108	Form 4831 4847	Tablet, Chewable
+R80	Form-Drug Arg1:T108 Arg2:T104
+T109	Route 4848 4850	PO
+R81	Route-Drug Arg1:T109 Arg2:T104
+T110	Frequency 4851 4854	BID
+R82	Frequency-Drug Arg1:T110 Arg2:T104
+T111	Drug 4876 4886	Tacrolimus
+T112	Strength 4887 4891	1 mg
+R83	Strength-Drug Arg1:T112 Arg2:T111
+T113	Form 4892 4899	Capsule
+R84	Form-Drug Arg1:T113 Arg2:T111
+T114	Dosage 4905 4912	Two (2)
+R85	Dosage-Drug Arg1:T114 Arg2:T111
+T115	Form 4913 4920	Capsule
+R86	Form-Drug Arg1:T115 Arg2:T111
+T116	Route 4921 4923	PO
+R87	Route-Drug Arg1:T116 Arg2:T111
+T117	Frequency 4924 4935	twice a day
+R88	Frequency-Drug Arg1:T117 Arg2:T111

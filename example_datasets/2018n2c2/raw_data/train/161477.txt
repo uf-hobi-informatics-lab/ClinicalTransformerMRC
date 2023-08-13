@@ -1,0 +1,676 @@
+Admission Date:  [**2178-6-9**]              Discharge Date:   [**2178-6-16**]
+
+Date of Birth:  [**2126-3-22**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Aspirin / Sulfa (Sulfonamide Antibiotics) / Quinine
+
+Attending:[**First Name3 (LF) 633**]
+Chief Complaint:
+Abdominal Pain, Altered Mental Status
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+This is a 52 year old man with schizophrenia, HTN, and G6PD
+deficiency presenting with 2-3 days of increasing intermittent
+abdominal pain. Reportedly was having diarrhea at Group Home,
+though pt states he has not had bowel movement in 4 days, no
+hematochezia. He states that abdominal pain comes on suddenly,
+[**9-16**] and sharp in quality, when he drinks fluids, lasts for a
+few seconds and self-resolves. Has not been able to eat in the
+last 2-3 days due to decreased appetite. No fevers, chills,
+nausea, vomiting or diarrhea. Lives at group home.
+.
+In the ED, initial vs were: 97.8 73 114/69 16 95% on ?RA. Vitals
+stable at triage but became increasingly unresponsive,
+responding to painful stimuli. Pupils 2mm, minimally reactive.
+Patient was given 0.4 narcan, and appeared to transiently be a
+little more alert, though he appeared to sometimes respond to
+sternal rub even without narcan for 30-60 seconds. He received a
+total of 2mg narcan in the ED. FAST ultrasound showed small
+ascites, pericardial effusion, but no signs of tamponade. CT
+abdomen showed moderate ascites, pericardial effusion, diffuse
+bowel wall edema. Guaiac negative. EKG similar to prior. Also
+received potassium repletion in ED for K of 2.8. Serum tox
+negative. Vitals on floor prior to transfer are as follows: T 98
+HR 64 BP 139/80 RR 16 O2sat 100%2L NC.
+.
+On the floor, patient is alert and oriented, responsive to
+questioning. He feels hungry and would like to try eating food.
+He denies current abdominal pain.
+.
+Review of sytems:
+(+) Per HPI. He has lost 30 lbs unintentionally in the last [**4-10**]
+months due to decreased appetite. He does report that he is
+urinating frequently because he is drinking lots of fluid.
+Denies dysuria or nocturia.
+(-) Denies fever, chills, night sweats. Denies headache, sinus
+tenderness, rhinorrhea or congestion. Denied cough, shortness of
+breath. Denied chest pain or tightness, palpitations. Denied
+nausea, vomiting, diarrhea.
+.
+
+
+Past Medical History:
+-schizophrenia
+-HTN
+-hx DM2 but HbA1c controlled for several years without
+medications (most recently 5.6%)
+-G6PD
+-hypokalemia
+-low back pain
+-obesity
+-right knee pain
+-hx of +ppd (treated)
+
+
+
+Social History:
+Patient originally from [**First Name8 (NamePattern2) 466**] [**Country 467**], [**Country 480**]. Moved here 30 yrs
+ago. Currently lives in Group Home. Works as cab driver for
+30yrs. Educated through 8 years of elementary and middle school
+in [**Country 480**]. Did one year of training in electronics here but
+could not find a job, so continued as a cab driver. He is not
+married, has no kids. Has 2 brothers and 2 sisters in [**Name (NI) 480**],
+not well in touch with his family back home.
+States that he is given meds at Group Home three days/week
+(Wed/Thurs/Fri), and he takes meds himself the other four days
+of the week.
+Tobacco: Smoked x 30yrs, quit 2wks ago
+Marijuana: Smoked x 20yrs, states he quit 10yrs ago b/c too
+expensive. (per OMR, he has smoked marijuana prior to ED visits
+in [**2173**])
+ETOH: reportedly none
+Illicits: no IV drug use or cocaine use
+
+
+Family History:
+No known family history of kidney, liver, cardiac disorders, but
+patient not well in touch with family.
+
+Physical Exam:
+Physical Exam:
+Vitals: T: 97.8 BP: 140/82 P: 72 R: 21 O2: 92%RA
+General: Alert, oriented x3, no acute distress, decreased
+attention-- unable to list months of year backwards (able to
+state [**Month (only) **] through [**Month (only) 359**])
+HEENT: Sclera mildly icteric, mildly dry mucus membranes,
+oropharynx clear; lower lip appears large (but pt states this is
+his normal)
+Neck: supple, JVP not elevated
+Lungs: Does not give good inspiratory effort, but soft rhonchi
+at bilateral bases
+CV: Regular rate and rhythm, normal S1 + S2, early systolic
+murmur [**3-15**] loudest at LUSB
+Abdomen: moderately distended, non-tender, hypoactive bowel
+sounds, no rebound tenderness or guarding
+Ext: warm, well perfused, trace pulses, 1+ peripheral leg edema
+
+
+
+Pertinent Results:
+CXR - [**2178-6-9**]
+IMPRESSION: Low lung volumes, with bronchovascular crowding and
+possible superimposed mild edema. No focal consolidation noted.
+
+.
+CT -abdomen [**2178-6-9**]
+1. Diffuse small bowel wall edema. No pneumatosis. DDx includes
+reactive due to ascites/hypoproteinemia; mesenteric ischemia,
+although no atherosclerotic disease; angioedema due to ACE-I
+2. Normal size of AAA
+3. Cardiomegaly with large pericardial effusion
+4. Moderate-large ascites, new from [**2178-10-3**].
+5. Nodular patchy opacities at lung bases, right > left, in
+bronchovascular distribution suggest aspiration
+6. Vicarious excretion of contrast via gallbladder and oral
+contrast in the large bowel suggest recent prior imaging, not at
+our institution.
+.
+CT HEAD [**2178-6-9**]
+1. No acute intracranial process
+2. Hypoattenuation in the bilateral periventricular white matter
+may be sequelae of chronic microvascular ischemic disease but
+has progressed from [**2173**] and is greater than expected in this
+age group.
+.
+EKG: [**2178-6-9**]
+NSR, rate 69, LVH, borderline LAD, inverted T waves in V-V4,
+biphasic T waves in V5. (changed from prior)
+.
+TTE [**2178-6-10**]
+The left atrium is mildly dilated. No atrial septal defect is
+seen by 2D or color Doppler. There is moderate symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. Regional left ventricular wall motion is normal. Tissue
+Doppler imaging suggests an increased left ventricular filling
+pressure (PCWP>18mmHg). There is no ventricular septal defect.
+The right ventricular free wall is hypertrophied. Right
+ventricular chamber size is normal. with borderline normal free
+wall function. The aortic arch is mildly dilated. The aortic
+valve leaflets (3) are mildly thickened but aortic stenosis is
+not present. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. Mild (1+) mitral regurgitation is seen. There is mild
+pulmonary artery systolic hypertension. There is a very small
+pericardial effusion. There are no echocardiographic signs of
+tamponade.
+.
+Compared with the report of the prior study (images unavailable
+for review) of [**2167-1-7**], the degree of LVH is now moderate.
+There is now a very small pericardial effusion (without
+tamponade).
+.
+CXR [**2178-6-11**]: Severe cardiomegaly is stable. There are low lung
+volumes. Pulmonary edema is mild-to-moderate, has worsened.
+Bilateral pleural effusions are small and new or newly apparent.
+
+.
+RUQ US [**2178-6-11**]: IMPRESSION: Initial four quadrant ultrasound did
+not demonstrate enough free fluid for paracentesis. This
+suggests that prior ascites may have shifted. Note is also made
+of sludge in the gallbladder with nonobstructive non-shadowing
+small stones. Previously visualized focal lesion at the liver
+dome is not visualized as no focal hepatic lesions are
+identified.
+.
+MICRO:[**2178-6-14**] STOOL FECAL CULTURE-PENDING;
+CAMPYLOBACTER CULTURE-FINAL; OVA + PARASITES-FINAL;
+Cryptosporidium/Giardia (DFA)-FINAL; ACID FAST CULTURE-PENDING;
+CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-FINAL INPATIENT
+[**2178-6-11**] IMMUNOLOGY HBV Viral Load-FINAL INPATIENT
+[**2178-6-11**] BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2178-6-11**] BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2178-6-10**] BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2178-6-9**] MRSA SCREEN MRSA SCREEN-FINAL INPATIENT
+[**2178-6-9**] URINE URINE CULTURE-FINAL INPATIENT
+[**2178-6-9**] BLOOD CULTURE Blood Culture, Routine-FINAL
+{STAPHYLOCOCCUS, COAGULASE NEGATIVE}; Aerobic Bottle Gram
+Stain-FINAL
+
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2178-6-16**] 06:50    5.6 3.25* 9.4* 30.1* 93 28.9 31.1 15.2 171
+[**2178-6-15**] 06:25    4.1 3.33* 9.5* 30.9* 93 28.5 30.7* 15.3 142*
+
+[**2178-6-14**] 06:13    4.1 3.39* 9.8* 31.1* 92 28.8 31.4 15.3 127*
+[**2178-6-13**] 07:11    3.4* 3.38* 9.8* 31.1* 92 29.0 31.4 15.4 112*
+
+[**2178-6-12**] 06:50    4.4 3.49* 10.0* 32.4* 93 28.7 30.9* 15.4
+104*
+[**2178-6-11**] 06:40    4.0 3.34* 9.7* 30.7* 92 29.1 31.5 15.4 77*
+[**2178-6-10**] 12:06    5.7 3.48* 10.2* 31.2* 90 29.2 32.5 16.1* 81*
+
+[**2178-6-10**] 04:34    4.9 3.23* 9.3* 29.4* 91 28.9 31.8 15.4 68*
+Source: Line-peripheral
+[**2178-6-9**] 21:40    5.9 3.89* 11.2* 34.6* 89 28.7 32.2 16.0* 78*
+
+[**2178-6-9**] 13:30    6.1 3.98* 11.7* 34.5* 87 29.4 33.9 15.7*
+75*1
+
+VERIFIED BY SMEAR
+
+
+  DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas
+[**2178-6-9**] 21:40    77.8*   14.6* 6.5 0.8 0.4
+[**2178-6-9**] 13:30    81.5*   12.6* 5.6 0.1 0.2
+RED CELL MORPHOLOGY Hypochr Anisocy Poiklo Macrocy Microcy
+Polychr Target Schisto Burr Tear Dr
+[**2178-6-9**] 13:30    OCCASIONAL 1+ 1+ NORMAL OCCASIONAL 1+
+OCCASIONAL OCCASIONAL 1+ 1+
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Smr Plt Ct
+INR(PT)
+[**2178-6-16**] 06:50          171
+[**2178-6-15**] 06:25          142*
+[**2178-6-14**] 06:13          127*
+[**2178-6-13**] 07:11          112*
+[**2178-6-12**] 06:50          104*
+[**2178-6-11**] 06:40          77*
+[**2178-6-10**] 12:06          81*
+[**2178-6-10**] 04:34          68*
+Source: Line-peripheral
+[**2178-6-10**] 04:34    15.1*       1.3*
+Source: Line-peripheral
+[**2178-6-9**] 21:40          78*
+[**2178-6-9**] 13:30        VERY LOW 75*1
+[**2178-6-9**] 13:30    14.0* 24.8     1.2*
+
+VERIFIED BY SMEAR
+
+
+MISCELLANEOUS HEMATOLOGY ESR
+[**2178-6-10**] 12:06    13
+  LAB USE ONLY
+[**2178-6-16**] 06:50
+
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2178-6-16**] 06:50    114*1 32* 1.6* 141 3.2* 101 34* 9
+[**2178-6-15**] 06:25    152*1 30* 1.6* 144 3.4 102 33* 12
+[**2178-6-14**] 06:13    851 25* 1.5* 145 3.1* 103 34* 11
+[**2178-6-13**] 07:11    111*1 29* 1.6* 143 2.9*2 102 33* 11
+[**2178-6-12**] 06:50    781 28* 1.6* 146* 3.3 105 33* 11
+[**2178-6-11**] 06:40    951 30* 1.7* 144 3.0* 102 35* 10
+[**2178-6-10**] 16:47    110*1 36* 1.7* 146* 3.3 109* 33* 7*
+CONSENT RECEIVED
+[**2178-6-10**] 04:34    111*1 44* 2.0* 145 3.3 107 33* 8
+Source: Line-peripheral
+[**2178-6-9**] 21:40    911 45* 2.2* 145 3.1* 102 34* 12
+[**2178-6-9**] 13:30    115*1 51* 2.4* 141 2.8*3 99 34* 11
+
+IF FASTING, 70-100 NORMAL, >125 PROVISIONAL DIABETES
+VERIFIED BY REPLICATE ANALYSIS
+NOTIFIED [**Doctor Last Name **] @8:45AM ON [**2178-6-13**]
+VERIFIED BY REPLICATE ANALYSIS
+NOTIFIED T.NIXON 14:23 [**2178-6-9**]
+
+ESTIMATED GFR (MDRD CALCULATION) estGFR
+[**2178-6-9**] 13:30    Using this1
+
+Using this patient's age, gender, and serum creatinine value of
+2.4,
+Estimated GFR = 29 if non African-American (mL/min/1.73 m2)
+Estimated GFR = 35 if African-American (mL/min/1.73 m2)
+For comparison, mean GFR for age group 50-59 is 93 (mL/min/1.73
+m2)
+GFR<60 = Chronic Kidney Disease, GFR<15 = Kidney Failure
+
+  ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase
+TotBili DirBili IndBili
+[**2178-6-10**] 04:34        334*       1.1
+Source: Line-peripheral
+[**2178-6-9**] 13:30    27 27 481* 741 45   2.5* 1.1* 1.4
+
+NEW REFERENCE INTERVAL AS OF [**2177-2-10**];UPPER LIMIT (97.5TH %ILE)
+VARIES WITH ANCESTRY AND GENDER (MALE/FEMALE);WHITES 322/201
+BLACKS 801/414 ASIANS 641/313
+
+OTHER ENZYMES & BILIRUBINS Lipase
+[**2178-6-9**] 13:30    19
+  CPK ISOENZYMES CK-MB cTropnT proBNP
+[**2178-6-10**] 04:34      0.06*1
+Source: Line-peripheral
+[**2178-6-9**] 21:40      0.06*1
+[**2178-6-9**] 13:30      0.06*1
+LIGHT GREEN
+[**2178-6-9**] 13:30    3   2498*2
+
+CTROPNT > 0.10 NG/ML SUGGESTS ACUTE MI
+REFERENCE VALUES VARY WITH AGE, SEX, AND RENAL FUNCTION;AT 35%
+PREVALENCE, NTPROBNP VALUES; < 450 HAVE 99% NEG PRED VALUE;
+>1000 HAVE 78% POS PRED VALUE;SEE ONLINE LAB MANUAL FOR MORE
+DETAILED INFORMATION
+
+  CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+Cholest
+[**2178-6-16**] 06:50          8.6 2.6* 1.8
+[**2178-6-15**] 06:25            2.0* 1.5*
+[**2178-6-14**] 06:13            2.5* 1.6
+[**2178-6-13**] 07:11          8.2* 2.6* 1.7
+[**2178-6-12**] 06:50          7.7* 2.6* 1.8   53
+[**2178-6-11**] 06:40                  38*
+[**2178-6-10**] 16:47    4.3*     7.2* 2.2* 1.9     139
+CONSENT RECEIVED
+[**2178-6-10**] 04:34          7.2* 3.8 1.9
+Source: Line-peripheral
+[**2178-6-9**] 21:40          7.5* 4.6* 1.9
+[**2178-6-9**] 13:30    4.7* 2.8* 1.9* 7.7* 5.0*
+  HEMATOLOGIC VitB12 Folate Hapto Ferritn
+[**2178-6-11**] 06:40    463 5.7   380
+[**2178-6-9**] 13:30        39
+LIPID/CHOLESTEROL Cholest Triglyc HDL CHOL/HD LDLcalc
+[**2178-6-10**] 16:47    139 851 33 4.2 89
+CONSENT RECEIVED
+
+LDL(CALC) INVALID IF TRIG>400 OR NON-FASTING SAMPLE
+
+  OTHER CHEMISTRY Ammonia
+[**2178-6-13**] 07:11    52
+PITUITARY TSH
+[**2178-6-9**] 13:30    1.1
+OTHER ENDOCRINE Cortsol
+[**2178-6-10**] 04:34    10.31
+Source: Line-peripheral
+
+NORMAL DIURNAL PATTERN: 7-10AM 6.2-19.4 / 4-8PM 2.3-11.9
+
+HEPATITIS HBsAg HBsAb HBcAb HAV Ab
+[**2178-6-9**] 13:30    NEGATIVE NEGATIVE POSITIVE POSITIVE
+IMMUNOLOGY [**Doctor First Name **]
+[**2178-6-10**] 12:06    NEGATIVE
+PROTEIN AND IMMUNOELECTROPHORESIS PEP
+[**2178-6-10**] 16:47    NO SPECIFI1
+CONSENT RECEIVED
+NO SPECIFIC ABNORMALITIES SEEN; INTERPRETED BY [**Name6 (MD) 761**] [**Name8 (MD) 762**],
+MD, PHD
+HIV SEROLOGY HIV Ab
+[**2178-6-10**] 16:47    NEGATIVE
+CONSENT RECEIVED
+ANTIBIOTICS Vanco
+[**2178-6-12**] 06:45    14.8
+Vancomycin @ Trough
+NEUROPSYCHIATRIC Valproa
+[**2178-6-9**] 13:30    9*
+TOXICOLOGY, SERUM AND OTHER DRUGS ASA Ethanol Acetmnp Bnzodzp
+Barbitr Tricycl
+[**2178-6-9**] 13:30    NEG NEG1 NEG NEG NEG NEG2
+NEG
+80 (THESE UNITS) = 0.08 (% BY WEIGHT)
+POSITIVE TRICYCLIC RESULTS REPRESENT POTENTIALLY TOXIC
+LEVELS;THERAPEUTIC TRICYCLIC LEVELS WILL TYPICALLY HAVE NEGATIVE
+RESULTS
+GASTROINTESTINAL tTG-IgA
+[**2178-6-11**] 06:40    21
+NEGATIVE <20, BORDERLINE 20-30, POSITIVE >30
+METHOD IS INOVA (IGA ANTI-HUMAN TTG)
+IN IGA DEFICIENCY, [**Month (only) **] BE FALSELY NEGATIVE
+  LAB USE ONLY Prblm HoldBLu
+[**2178-6-10**] 16:08    SPEC REDRA1
+NO RED TOP RECEIVED FOR HIV
+[**2178-6-10**] 13:47      HOLD2
+SPEC REDRAWN @ 1732 ON [**6-10**] - SEE CHM S# 512K YJG
+HOLD
+dISCARD GREATER THAN 24 HRS OLD
+HEPATITIS C SEROLOGY HCV Ab
+[**2178-6-9**] 13:30    NEGATIVE
+Blood Gas
+WHOLE BLOOD, MISCELLANEOUS CHEMISTRY Lactate
+[**2178-6-9**] 13:34    1.6
+Miscellaneous
+  ALDOSTERONE QUANTIFERON-TB GOLD RENIN
+[**2178-6-11**] 06:40    PND
+[**2178-6-11**] 06:40        Test
+[**2178-6-11**] 06:40      PND
+
+
+
+Brief Hospital Course:
+30 yo male with HTN, hypokalemia, CKDIII, h/o untreated positive
+PPD presents with few days abdominal pain that has now resolved
+with 2-3 months weight loss, bilateral leg edema, anorexia found
+to have anemia, thrombocytopenia, acute renal failure,
+hypoalbuminemia, symmetric diffuse lymphadenopathy and volume
+overload with exam suggestive of acute diastolic heart failure.
+Concerned for neoplastic and, chronic inflammatory, or
+infectious processes.
+.
+# Acute diastolic heart failure: He was noted to be in acute
+diastolic heart failure on transfer from the ICU. He was given
+lasix 40 mg iv x 1, and continued on a 20 mg iv daily regimen,
+then was transitioned to 40mg PO daily. Daily weights and I/O's
+were followed. His blood pressure was controlled as below; in
+particular, he was started on beta blocker, resumed on an ACEI
+(which he apparently did not fill at his pharmacy), and started
+on spironolactone as well. His O2 requirement was weaned off.
+.
+# Hypoalbuminemia: possibly renal or primary GI. Nothing on
+history to suggest primary GI protein losing enteropathy though
+this should be considered (i.e. celiac sprue, lymphoma, IBD,
+amyloid etc.) especially in light of improving renal function
+which argues against primary renal protein loss, low albumin,
+absence of known liver disease and weight loss. SPEP/UPEP
+negative. Anti-TTG IgA negative. Pt should discuss need for
+colonoscopy with his PCP given anemia, weight loss and age.
+.
+# Gram positive bacteremia, unclear source: He was initially
+started on vanc, but this was d/c'd when this culture latered
+speciated with coagulase negative staph. No subsequent cultures
+had growth.
+.
+#non-specific enteritis-seen on CT scan. This likely explains
+reports of abdominal pain and diarrhea recently. Pt's abdominal
+pain resolved. He did not have diarrhea and stool studies were
+negative. Symptoms resolved and pt was tolerating a regular
+diet.
+.
+# Weight Loss - 25-30lb. Large DDx. Concerning for primary
+neoplastic vs. GI-infectious vs. GI/systemic infectious. See
+above. Nothing on history/exam to suggest primary rheumatologic
+disorder, ESR 13, [**Doctor First Name **] negative. He was scheduled for a lymph
+node biopsy (his R inguinal lymph node seemed the largest),
+excisional by surgery. However, he refused this. Contact[**Name (NI) **] legal
+guardian [**Name (NI) **] [**Last Name (NamePattern1) **] as well as PCP regarding this issue. Pt
+initially stated he did not have enlarged lymph nodes. However,
+later on he stated that he knew the reason to biopsy the lymph
+nodes was to look for "cancer" and then stated that he would
+never have a biospy. Discussed this with patient's PCP and legal
+guardian who did not want to force (by physical or chemical
+restraint) the patient to undergo a procedure against his will.
+Discussed possibility of biopsy with the patient multiple times
+and he did decline, but agrees to follow up with his PCP for
+further evaluation.
+.
+# Acute Renal Failure w/ proteinuria: Lack of schistocytes on
+initial smear argued against TTP etiology. Likely pre-renal,
+perhaps due to poor po intake. unclear if he was hypotensive in
+the ED. FENa suggested prerenal etiology. Creatinine improved to
+baseline. He should have chemistries/electrolytes followed after
+discharge. Creatinine on discharge 1.6.
+.
+# Altered mental status, from opiates received in the ED now
+resolved. He was initially admitted to the ICU given his
+unresponsiveness after opiates. This resolved after being given
+narcan and never reoccurred.
+.
+# Anemia - His B12, folate, and iron were normal. Smear was
+checked in ICU and only rare schistocytes were seen. HIV Ab was
+negative. His hematocrit was stable on monitoring and was 30.1
+on day of discharge without evidence of bleeding. This is likely
+due CKD. However, given recent abdominal pain and anemia pt
+should undergo a colonoscopy.
+.
+# Thrombocytopenia - He was found to have thrombocytopenia,
+thought to be subacute, given that he had 130K one month ago.
+His platelets were monitored and normalized. Splenomegaly not
+noted on imaging. HIV negative. Could have been due to
+medications or acute illness.
+.
+# Ascites - new finding. Had not been tapped b/c ICU felt not
+tappable. No known chronic liver disease or cirrhosis.
+Considered lymphoma, occult cirrhosis, TB peritonitis on
+differential given +PPD, abdominal pain, weight loss. TB
+enteritis normal affects IC valve area which he does not
+radiographically/clinically have. RUQ US was without significant
+ascites, not enough to tap; no cirrhosis noted. This could be
+due to heart failure, but is likely due to low albumin.
+Quantiferon gold PENDING at time of discharge.
+.
+# Hypertension - He was continued on his home regimen, although
+it was found that he wasn't filling these prescriptions as an
+outpt. Given proteinuria, he was (re-)started on an ACE-I. He
+was also started on spironolactone given his heart failure and
+hypertension (after drawing renin and aldosterone). He was
+started on beta blocker given dCHF.
+- With chronic hypokalemia, sent renin / aldosterone levels
+since these have never been sent, to rule out
+hyperaldonsteronism. These are still PENDING at time of
+discharge.
+.
+# Hypokalemia- see above, concern for hyperaldo. Repleted dialy.
+Pt started on spironolactone and still required supplementation
+of potassium. Suggested to decrease home potassium regimen by
+[**2-8**] given CKD and use of spironolactone. Pt should have his
+potassium checked regularly.
+.
+# Lymphadenopathy - bilateral inguinal and axillary. He denied
+fevers and chills, but noted weight loss, hypoalbuminemia, ahnd
+elevated LDH,  suggested biopsy to r/o TB, lymphoma (with flow
+cytommetry), etc.  Surgery prepared for excisional biopsy of LN,
+but pt refused. Pt refused on multiple occasions. See above. PCP
+and legal guardian did not want to for pt to undergo procedures
+and testing that he did not want. Pt was aware that biopsy was
+suggested to r/o cancer.
+.
+# Positive PPD (untreated) - CXR was performed without note of
+tuberculous disease INH is contraindicated in G6PD deficiency.
+.
+# Pericardial Effusion - likely secondary to hypoalbuminemia.
+Mild per ECHO (not large as reported on CT), no signs of
+tamponade. Other DDx = TB (though usually much larger), other
+Rheum disorders (unlikely by hx/exam). This was likely due to
+hypoalbumenemia.
+.
+# Long QT: Present also on EKG [**2178-5-8**]. His potassium was
+repleted. QTC remained ~440 with haldol dosing. Serial EKG were
+performed. Pt's haldol dose was decreased to 5mg from 10mg due
+to this. EKG's should be monitored in outpatient setting.
+.
+# Lacunar infarct, clincally quiescent: Seen on head CT, and new
+
+since [**2173**]. Would recommend outpatient workup for PFO, etc.
+.
+# Psych: schizophrenia, formerly pleasant did become
+inexplicably agitated about prospect of getting LN biopsy. Pt
+found to lack capacity by psychiatry and found to have a legal
+guardian-[**Name (NI) **] [**Name (NI) **]. Pt's guardian was updated on pt's
+clinical course and as above did not want to pursue restraints
+(physical/chemical) in order to enforce biopsy. Pt was taken off
+his depakote during admission given altered mental status and
+this should be resumed upon discharge. Pt's haldol was decreased
+to 5mg from 10mg given above. Pt remained pleasant throughout
+the remainder of the hospitalization.
+.
+Transitional items for follow up
+1.EKG monitoring for QTC
+2.follow renal function and electrolytes given recent
+ARF/hypokalemia
+3.f/u labs still pending at time of discharge quantiferon gold,
+renin/aldosterone, histoplasma antigen
+4.consider colonoscopy
+5.consider lymph node biopsy
+6.lasix dose titration prn
+.
+DVT PPx: Heparin SC
+.
+Lines: PIV
+.
+CODE: FULL
+
+
+Medications on Admission:
+-Clonidine 0.3 mg Tab 1 Tablet(s) by mouth twice a day
+-captopril 12.5 mg Tab 1 Tablet(s) by mouth twice a day
+-Atenolol 50 mg Tab 1 Tablet(s) by mouth daily
+-Hydralazine 25 mg Tab 1 Tablet(s) by mouth four times a day
+-Zocor 10 mg Tab 1 Tablet(s) by mouth once a day
+-potassium Chloride SR 20 mEq Tab, Particles/Crystals
+2 Tab(s) by mouth once a day
+-procardia XL 60 mg 24 hr Tab 1 Tablet(s) by mouth once a day.
+D/C 90 mg dose
+-labetalol 200 mg Tab 1 (One) Tablet(s) by mouth twice a day
+- Depakote 500 mg [**Hospital1 **]
+
+
+Discharge Medications:
+1. simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+2. captopril 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*0*
+3. hydralazine 25 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours).
+Disp:*120 Tablet(s)* Refills:*0*
+4. nifedipine 60 mg Tablet Extended Rel 24 hr Sig: One (1)
+Tablet Extended Rel 24 hr PO once a day.
+Disp:*30 Tablet Extended Rel 24 hr(s)* Refills:*0*
+5. labetalol 200 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*0*
+6. clonidine 0.3 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*0*
+7. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO once a day.
+Disp:*30 Tablet, ER Particles/Crystals(s)* Refills:*0*
+8. Depakote 500 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO twice a day.
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+9. haloperidol 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+10. spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+11. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Altered mental status
+Opiate overdose
+hypertension
+CKD
+weight loss
+hypoalbuminemia
+acute renal failure
+abdominal pain
+anemia
+thrombocytopenia
+acute diastolic heart failure
+ascites
+hypokalemia
+latent TB?
+
+
+Discharge Condition:
+mental status: alert and oriented
+level of consciousness: clear and coherent
+activity status: ambulatory - independent
+
+
+Discharge Instructions:
+You were admitted with reports symptoms of abdominal pain, leg
+swelling, decreased appetite and weight loss. Also, you were
+initially admitted to the ICU with unresponsiveness due to pain
+medications; you have recovered from this. You have undergone an
+extensive evaluation and were given medications to help with
+better blood pressure control. You have some swollen lymph notes
+and a biopsy was recommended, but you declined this procedure.
+Your appetite improved. You will continue to follow up with your
+PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) 5717**] for continued care and to follow up with the
+results of the pending tests. Please discuss whether you need a
+colonoscopy with your PCP.
+.
+Medication changes:
+1. Blood pressure medications changes-start metoprolol and
+spironolactone. STOP atenolol
+2.start lasix-for leg swelling
+3.decrease haldol from 10mg to 5mg daily
+4.your potassium supplementation was decreased by half. Please
+only take 20mg daily.
+.
+Please take your medications as prescribed and keep your
+appointments below.
+
+Followup Instructions:
+Department: [**Hospital3 249**]
+When: THURSDAY [**2178-8-6**] at 11:00 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 10477**], MD [**Telephone/Fax (1) 250**]
+Building: [**Hospital6 29**] [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: [**Hospital3 249**]
+When: TUESDAY [**2178-6-23**] at 9:50 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 10477**], MD [**Telephone/Fax (1) 250**]
+Building: [**Hospital6 29**] [**Location (un) **]
+Campus: EAST Best Parking: [**Hospital Ward Name 23**] Garage
+.
+Department: [**Hospital3 249**]
+When: FRIDAY [**2178-6-26**] at 11:00 AM
+With: [**Name6 (MD) 10160**] [**Name8 (MD) 10161**], NP [**Telephone/Fax (1) 250**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+

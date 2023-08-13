@@ -1,0 +1,293 @@
+T1	Drug 10814 10829	pain medication
+T2	Drug 4946 4954	Fentanyl
+T3	Drug 4957 4965	Dilaudid
+T5	Reason 4999 5011	pain control
+R3	Reason-Drug Arg1:T5 Arg2:T2
+R4	Reason-Drug Arg1:T5 Arg2:T3
+T6	Route 5074 5078	oral
+R5	Route-Drug Arg1:T6 Arg2:T7
+R6	Route-Drug Arg1:T6 Arg2:T3
+R7	Route-Drug Arg1:T6 Arg2:T2
+T7	Drug 5079 5095	pain medications
+T8	Drug 5173 5184	hydralazine
+T10	Route 5227 5229	PO
+R9	Route-Drug Arg1:T10 Arg2:T11
+R10	Route-Drug Arg1:T10 Arg2:T12
+T11	Drug 5230 5237	Norvasc
+T12	Drug 5242 5251	Lopressor
+T14	Drug 5493 5499	fluids
+T15	Reason 5899 5914	fluid oveloaded
+R12	Reason-Drug Arg1:T15 Arg2:T16
+T16	Drug 5957 5962	Lasix
+T18	ADE 6397 6410	hyperglycemia
+T19	Drug 6420 6428	steroids
+T20	Drug 6446 6453	insulin
+T21	Route 6454 6458	drip
+R17	Route-Drug Arg1:T21 Arg2:T20
+T22	Duration 6459 6475	for several days
+R18	Duration-Drug Arg1:T22 Arg2:T20
+T23	Drug 6502 6510	Glargine
+T24	Drug 6517 6524	Humalog
+T25	Dosage 6525 6538	sliding scale
+R19	Dosage-Drug Arg1:T25 Arg2:T24
+R20	Dosage-Drug Arg1:T25 Arg2:T23
+T26	Drug 6659 6666	insulin
+T27	Drug 6716 6723	insulin
+T28	Drug 6791 6798	Bactrim
+T29	Drug 6800 6807	Valcyte
+T30	Drug 6813 6824	Fluconazole
+T31	Reason 6829 6832	PCP
+R21	Reason-Drug Arg1:T31 Arg2:T30
+R22	Reason-Drug Arg1:T31 Arg2:T28
+R23	Reason-Drug Arg1:T31 Arg2:T29
+R24	Reason-Drug Arg1:T31 Arg2:T30
+T32	Reason 7048 7075	induction immunosuppression
+R25	Reason-Drug Arg1:T32 Arg2:T34
+R26	Reason-Drug Arg1:T32 Arg2:T33
+R27	Reason-Drug Arg1:T32 Arg2:T35
+T33	Drug 7077 7087	solumedrol
+T34	Drug 7092 7100	cellcept
+T35	Drug 7111 7121	solumedrol
+T36	Drug 7155 7165	prednisone
+T37	Strength 7166 7170	20mg
+R28	Strength-Drug Arg1:T37 Arg2:T36
+T38	Frequency 7171 7176	daily
+R29	Frequency-Drug Arg1:T38 Arg2:T36
+T39	Drug 7178 7186	Cellcept
+T40	Strength 7187 7193	1 gram
+R30	Strength-Drug Arg1:T40 Arg2:T39
+T41	Drug 7231 7238	Prograf
+T42	Reason 7313 7324	Prophylaxis
+R31	Reason-Drug Arg1:T42 Arg2:T44
+T43	Route 7347 7359	subcutaneous
+R32	Route-Drug Arg1:T43 Arg2:T44
+T44	Drug 7360 7367	heparin
+T45	Drug 7710 7717	insulin
+T46	Drug 7760 7772	Pantoprazole
+T47	Strength 7773 7777	40mg
+R33	Strength-Drug Arg1:T47 Arg2:T46
+T48	Frequency 7778 7783	Daily
+R34	Frequency-Drug Arg1:T48 Arg2:T46
+T49	Drug 7785 7792	Nadolol
+T50	Strength 7793 7797	20mg
+R35	Strength-Drug Arg1:T50 Arg2:T49
+T51	Frequency 7798 7803	Daily
+R36	Frequency-Drug Arg1:T51 Arg2:T49
+T52	Drug 7805 7810	Lasix
+T53	Strength 7811 7815	80mg
+R37	Strength-Drug Arg1:T53 Arg2:T52
+T54	Frequency 7816 7821	Daily
+R38	Frequency-Drug Arg1:T54 Arg2:T52
+T55	Drug 7823 7837	Spironolactone
+T56	Strength 7838 7843	200mg
+R39	Strength-Drug Arg1:T56 Arg2:T55
+T57	Frequency 7844 7849	daily
+R40	Frequency-Drug Arg1:T57 Arg2:T55
+T58	Drug 7851 7854	MVI
+T59	Drug 7856 7864	Fish oil
+T60	Drug 7893 7904	fluconazole
+T61	Strength 7905 7911	200 mg
+R41	Strength-Drug Arg1:T61 Arg2:T60
+T62	Form 7912 7918	Tablet
+R42	Form-Drug Arg1:T62 Arg2:T60
+T63	Dosage 7924 7931	Two (2)
+R43	Dosage-Drug Arg1:T63 Arg2:T60
+T64	Form 7932 7938	Tablet
+R44	Form-Drug Arg1:T64 Arg2:T60
+T65	Route 7939 7941	PO
+R45	Route-Drug Arg1:T65 Arg2:T60
+T66	Frequency 7942 7953;7954 7963	Q24H (every 24 hours)
+R46	Frequency-Drug Arg1:T66 Arg2:T60
+T67	Drug 7968 7978	prednisone
+T68	Strength 7979 7983	5 mg
+R47	Strength-Drug Arg1:T68 Arg2:T67
+T69	Form 7984 7990	Tablet
+R48	Form-Drug Arg1:T69 Arg2:T67
+T70	Dosage 7996 8004	Four (4)
+R49	Dosage-Drug Arg1:T70 Arg2:T67
+T71	Form 8005 8011	Tablet
+R50	Form-Drug Arg1:T71 Arg2:T67
+T72	Route 8012 8014	PO
+R51	Route-Drug Arg1:T72 Arg2:T67
+T73	Frequency 8015 8028	DAILY (Daily)
+R52	Frequency-Drug Arg1:T73 Arg2:T67
+T74	Drug 8034 8049	docusate sodium
+T75	Strength 8050 8056	100 mg
+R53	Strength-Drug Arg1:T75 Arg2:T74
+T76	Form 8057 8064	Capsule
+R54	Form-Drug Arg1:T76 Arg2:T74
+T77	Dosage 8070 8077	One (1)
+R55	Dosage-Drug Arg1:T77 Arg2:T74
+T78	Form 8078 8085	Capsule
+R56	Form-Drug Arg1:T78 Arg2:T74
+T79	Route 8086 8088	PO
+R57	Route-Drug Arg1:T79 Arg2:T74
+T80	Frequency 8089 8095;8096 8108	BID (2 times a day)
+R58	Frequency-Drug Arg1:T80 Arg2:T74
+T81	Drug 8113 8142	sulfamethoxazole-trimethoprim
+T82	Strength 8143 8152	400-80 mg
+R59	Strength-Drug Arg1:T82 Arg2:T81
+T83	Form 8153 8159	Tablet
+R60	Form-Drug Arg1:T83 Arg2:T81
+T84	Dosage 8165 8172	One (1)
+R61	Dosage-Drug Arg1:T84 Arg2:T81
+T85	Form 8173 8179	Tablet
+R62	Form-Drug Arg1:T85 Arg2:T81
+T86	Route 8180 8182	PO
+R63	Route-Drug Arg1:T86 Arg2:T81
+T87	Frequency 8183 8196	DAILY (Daily)
+R64	Frequency-Drug Arg1:T87 Arg2:T81
+T88	Drug 8201 8222	mycophenolate mofetil
+T89	Strength 8223 8229	500 mg
+R65	Strength-Drug Arg1:T89 Arg2:T88
+T90	Form 8230 8236	Tablet
+R66	Form-Drug Arg1:T90 Arg2:T88
+T91	Dosage 8242 8249	Two (2)
+R67	Dosage-Drug Arg1:T91 Arg2:T88
+T92	Form 8250 8256	Tablet
+R68	Form-Drug Arg1:T92 Arg2:T88
+T93	Route 8257 8259	PO
+R69	Route-Drug Arg1:T93 Arg2:T88
+T94	Frequency 8260 8279	BID (2 times a day)
+R70	Frequency-Drug Arg1:T94 Arg2:T88
+T95	Drug 8284 8296	pantoprazole
+T96	Strength 8297 8302	40 mg
+R71	Strength-Drug Arg1:T96 Arg2:T95
+T97	Form 8303 8333	Tablet, Delayed Release (E.C.)
+R72	Form-Drug Arg1:T97 Arg2:T95
+T98	Dosage 8339 8342;8343 8346	One (1)
+R73	Dosage-Drug Arg1:T98 Arg2:T95
+T99	Form 8347 8377	Tablet, Delayed Release (E.C.)
+R74	Form-Drug Arg1:T99 Arg2:T95
+T100	Route 8378 8380	PO
+R75	Route-Drug Arg1:T100 Arg2:T95
+T101	Frequency 8381 8394	DAILY (Daily)
+R76	Frequency-Drug Arg1:T101 Arg2:T95
+T102	Drug 8399 8409	amlodipine
+T103	Strength 8410 8414	5 mg
+R77	Strength-Drug Arg1:T103 Arg2:T102
+T104	Form 8415 8421	Tablet
+R78	Form-Drug Arg1:T104 Arg2:T102
+T105	Dosage 8427 8434	Two (2)
+R79	Dosage-Drug Arg1:T105 Arg2:T102
+T106	Form 8435 8441	Tablet
+R80	Form-Drug Arg1:T106 Arg2:T102
+T107	Route 8442 8444	PO
+R81	Route-Drug Arg1:T107 Arg2:T102
+T108	Frequency 8445 8458	DAILY (Daily)
+R82	Frequency-Drug Arg1:T108 Arg2:T102
+T109	Drug 8495 8514	metoprolol tartrate
+T110	Strength 8515 8520	50 mg
+R83	Strength-Drug Arg1:T110 Arg2:T109
+T111	Form 8521 8527	Tablet
+R84	Form-Drug Arg1:T111 Arg2:T109
+T112	Dosage 8533 8536	1.5
+R85	Dosage-Drug Arg1:T112 Arg2:T109
+T113	Form 8537 8544	Tablets
+R86	Form-Drug Arg1:T113 Arg2:T109
+T114	Route 8545 8547	PO
+R87	Route-Drug Arg1:T114 Arg2:T109
+T115	Frequency 8548 8554;8555 8567	BID (2 times a day)
+R88	Frequency-Drug Arg1:T115 Arg2:T109
+T116	Drug 8604 8614	tacrolimus
+T117	Route 8616 8620	Oral
+R89	Route-Drug Arg1:T117 Arg2:T116
+T118	Drug 8625 8639	valganciclovir
+T119	Strength 8640 8646	450 mg
+R90	Strength-Drug Arg1:T119 Arg2:T118
+T120	Form 8647 8653	Tablet
+R91	Form-Drug Arg1:T120 Arg2:T118
+T121	Dosage 8659 8666	Two (2)
+R92	Dosage-Drug Arg1:T121 Arg2:T118
+T122	Form 8667 8673	Tablet
+R93	Form-Drug Arg1:T122 Arg2:T118
+T123	Route 8674 8676	PO
+R94	Route-Drug Arg1:T123 Arg2:T118
+T124	Frequency 8677 8682;8683 8690	DAILY (Daily)
+R95	Frequency-Drug Arg1:T124 Arg2:T118
+T125	Drug 8696 8705	oxycodone
+T126	Strength 8706 8710	5 mg
+R96	Strength-Drug Arg1:T126 Arg2:T125
+T127	Form 8711 8717	Tablet
+R97	Form-Drug Arg1:T127 Arg2:T125
+T128	Dosage 8723 8726	1-2
+R98	Dosage-Drug Arg1:T128 Arg2:T125
+T129	Form 8727 8734	Tablets
+R99	Form-Drug Arg1:T129 Arg2:T125
+T130	Route 8735 8737	PO
+R100	Route-Drug Arg1:T130 Arg2:T125
+T131	Frequency 8738 8750;8751 8767	Q4H (every 4 hours) as needed
+R101	Frequency-Drug Arg1:T131 Arg2:T125
+T132	Reason 8772 8776	pain
+R102	Reason-Drug Arg1:T132 Arg2:T125
+T133	Drug 8814 8830	insulin glargine
+T134	Strength 8831 8842	100 unit/mL
+R103	Strength-Drug Arg1:T134 Arg2:T133
+T135	Form 8843 8851	Solution
+R104	Form-Drug Arg1:T135 Arg2:T133
+T136	Dosage 8857 8873;8874 8879	Twenty Nine (29) units
+R105	Dosage-Drug Arg1:T136 Arg2:T133
+T137	Route 8880 8892	Subcutaneous
+R106	Route-Drug Arg1:T137 Arg2:T133
+T138	Frequency 8893 8903	once a day
+R107	Frequency-Drug Arg1:T138 Arg2:T133
+T139	Drug 8937 8951	insulin lispro
+T140	Strength 8952 8963	100 unit/mL
+R108	Strength-Drug Arg1:T140 Arg2:T139
+T141	Form 8964 8972	Solution
+R109	Form-Drug Arg1:T141 Arg2:T139
+T142	Dosage 8985 8992;8993 8998	sliding scale
+R110	Dosage-Drug Arg1:T142 Arg2:T139
+T143	Route 9005 9017	Subcutaneous
+R111	Route-Drug Arg1:T143 Arg2:T139
+T144	Frequency 9018 9034	four times a day
+R112	Frequency-Drug Arg1:T144 Arg2:T139
+T145	Drug 9068 9078	tacrolimus
+T146	Route 9080 9084	Oral
+R113	Route-Drug Arg1:T146 Arg2:T145
+T147	Drug 9089 9103	insulin lispro
+T148	Strength 9104 9115	100 unit/mL
+R114	Strength-Drug Arg1:T148 Arg2:T147
+T149	Form 9116 9124	Solution
+R115	Form-Drug Arg1:T149 Arg2:T147
+T150	Dosage 9137 9144;9145 9150	sliding scale
+R116	Dosage-Drug Arg1:T150 Arg2:T147
+T151	Route 9158 9170	Subcutaneous
+R117	Route-Drug Arg1:T151 Arg2:T147
+T152	Frequency 9171 9187	four times a day
+R118	Frequency-Drug Arg1:T152 Arg2:T147
+T153	Drug 9540 9568	insulin syringe-needle U-100
+T154	Strength 9569 9573	1 mL
+R119	Strength-Drug Arg1:T154 Arg2:T153
+T155	Form 9591 9598	Syringe
+R120	Form-Drug Arg1:T155 Arg2:T153
+T156	Dosage 9604 9607;9608 9611	One (1)
+R121	Dosage-Drug Arg1:T156 Arg2:T153
+T157	Frequency 9627 9643	four times a day
+R122	Frequency-Drug Arg1:T157 Arg2:T153
+T158	Drug 9693 9702	Augmentin
+T159	Strength 9703 9713	875-125 mg
+R123	Strength-Drug Arg1:T159 Arg2:T158
+T160	Form 9714 9720	Tablet
+R124	Form-Drug Arg1:T160 Arg2:T158
+T161	Dosage 9726 9733	One (1)
+R125	Dosage-Drug Arg1:T161 Arg2:T158
+T162	Form 9734 9740	Tablet
+R126	Form-Drug Arg1:T162 Arg2:T158
+T163	Route 9741 9743	PO
+R127	Route-Drug Arg1:T163 Arg2:T158
+T164	Frequency 9744 9751;9752 9755	twice a day
+R128	Frequency-Drug Arg1:T164 Arg2:T158
+T165	Duration 9756 9767	for 7 doses
+R129	Duration-Drug Arg1:T165 Arg2:T158
+T166	Drug 9875 9885	Tacrolimus
+R14	ADE-Drug Arg1:T18 Arg2:T19	
+T4	Route 4966 4968	IV
+R1	Route-Drug Arg1:T4 Arg2:T3	
+R2	Route-Drug Arg1:T4 Arg2:T2	
+T9	Route 5185 5187	IV
+R8	Route-Drug Arg1:T9 Arg2:T8	
+T13	Route 5490 5492	IV
+R11	Route-Drug Arg1:T13 Arg2:T14	
+T17	Route 5963 5965	IV
+R13	Route-Drug Arg1:T17 Arg2:T16	

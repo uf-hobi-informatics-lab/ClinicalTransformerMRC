@@ -1,0 +1,93 @@
+T1	Drug 112 120	Morphine
+T2	Drug 1203 1211	propofol
+T3	Reason 1216 1224	sedation
+R1	Reason-Drug Arg1:T3 Arg2:T2
+T4	Drug 1290 1293	neo
+T5	Route 1304 1307	PIV
+R2	Route-Drug Arg1:T5 Arg2:T4
+T6	Reason 1312 1328	pressure support
+R3	Reason-Drug Arg1:T6 Arg2:T4
+T7	ADE 1474 1485	hypotension
+R4	ADE-Drug Arg1:T7 Arg2:T2
+T9	ADE 4942 4953	hypotensive
+R6	ADE-Drug Arg1:T9 Arg2:T10
+T10	Drug 4974 4982	propofol
+T11	Drug 5004 5012	propofol
+T12	Drug 5251 5264	phenylephrine
+T13	Reason 5302 5308	sepsis
+R7	Reason-Drug Arg1:T13 Arg2:T14
+R8	Reason-Drug Arg1:T13 Arg2:T15
+R9	Reason-Drug Arg1:T13 Arg2:T16
+R10	Reason-Drug Arg1:T13 Arg2:T17
+R11	Reason-Drug Arg1:T13 Arg2:T18
+T14	Drug 5328 5338	vancomycin
+T15	Drug 5340 5346	flagyl
+T16	Drug 5351 5359	cefepime
+T17	Drug 5381 5392	ceftriaxone
+T18	Drug 5397 5403	flagyl
+T19	Drug 5410 5420	vancomycin
+T20	Route 5535 5537	PO
+R12	Route-Drug Arg1:T20 Arg2:T21
+T21	Drug 5538 5550	levofloxacin
+T22	Drug 595 602	bactrim
+T23	Reason 609 612	UTI
+R13	Reason-Drug Arg1:T23 Arg2:T22
+T24	Reason 686 748;749 771	extrahepatic obstruction likely secondary to metastatic cancer to the pancreatic head
+R14	Reason-Drug Arg1:T24 Arg2:T52
+R15	Reason-Drug Arg1:T24 Arg2:T53
+R16	Reason-Drug Arg1:T24 Arg2:T54
+T26	Drug 7095 7098	PPI
+T27	Reason 7118 7124;7125 7143	coffee ground regurgitant
+R18	Reason-Drug Arg1:T27 Arg2:T26
+T28	Drug 7422 7430	Prevacid
+T29	Strength 7431 7436	10 mg
+R19	Strength-Drug Arg1:T29 Arg2:T28
+T30	Route 7437 7439	po
+R20	Route-Drug Arg1:T30 Arg2:T28
+T31	Frequency 7440 7445	daily
+R21	Frequency-Drug Arg1:T31 Arg2:T28
+T32	Drug 7446 7453	Lipitor
+T33	Strength 7454 7459	10 mg
+R22	Strength-Drug Arg1:T33 Arg2:T32
+T34	Route 7460 7462	po
+R23	Route-Drug Arg1:T34 Arg2:T32
+T35	Frequency 7463 7466	qhs
+R24	Frequency-Drug Arg1:T35 Arg2:T32
+T36	Drug 7495 7507	Levofloxacin
+T37	Strength 7508 7514	500 mg
+R25	Strength-Drug Arg1:T37 Arg2:T36
+T38	Form 7515 7521	Tablet
+R26	Form-Drug Arg1:T38 Arg2:T36
+T39	Dosage 7527 7534	One (1)
+R27	Dosage-Drug Arg1:T39 Arg2:T36
+T41	Form 7535 7541	Tablet
+R29	Form-Drug Arg1:T41 Arg2:T36
+T42	Route 7542 7544	PO
+R30	Route-Drug Arg1:T42 Arg2:T36
+T43	Frequency 7545 7549	Q24H
+R31	Frequency-Drug Arg1:T43 Arg2:T36
+T44	Duration 7567 7577	for 2 days
+R32	Duration-Drug Arg1:T44 Arg2:T36
+T45	Drug 7613 7621	Prevacid
+T46	Strength 7622 7627	30 mg
+R33	Strength-Drug Arg1:T46 Arg2:T45
+T47	Form 7628 7658	Capsule, Delayed Release(E.C.)
+R34	Form-Drug Arg1:T47 Arg2:T45
+T48	Dosage 7664 7671	One (1)
+R35	Dosage-Drug Arg1:T48 Arg2:T45
+T49	Form 7672 7702	Capsule, Delayed Release(E.C.)
+R36	Form-Drug Arg1:T49 Arg2:T45
+T50	Route 7703 7705	PO
+R37	Route-Drug Arg1:T50 Arg2:T45
+T51	Frequency 7706 7716	once a day
+R38	Frequency-Drug Arg1:T51 Arg2:T45
+T52	Drug 791 797	flagyl
+T53	Drug 799 804	zosyn
+T54	Drug 810 814	vanc
+T55	Drug 8462 8469	Lipitor
+T56	Drug 8537 8549	levofloxacin
+T57	Duration 8550 8560	for 7 days
+R39	Duration-Drug Arg1:T57 Arg2:T56
+R5	ADE-Drug Arg1:T7 Arg2:T2	
+T8	Route 7092 7094	IV
+R17	Route-Drug Arg1:T8 Arg2:T26	

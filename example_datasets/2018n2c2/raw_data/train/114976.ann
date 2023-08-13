@@ -1,0 +1,94 @@
+T1	Drug 834 844	Penicillin
+T2	Drug 1094 1102	Dulcolax
+T3	Drug 1350 1359	Albuterol
+T4	Strength 1337 1343	325 mg
+T5	Drug 1329 1336	aspirin
+T6	Drug 2186 2193	Flovent
+T7	Drug 2484 2489	Lasix
+T8	Drug 1292 1297	Xanax
+T9	Drug 1382 1389;1390 1397	regular insulin
+T10	Drug 849 855	Haldol
+T11	Drug 1108 1117	Thorazine
+T12	Drug 2158 2167	Combivent
+T13	Drug 1174 1180	Colace
+T14	Frequency 1185 1190	b.i.d
+T15	Drug 1076 1082	Elavil
+T16	Drug 1231 1236	Lasix
+T17	Drug 1130 1136	Zantac
+T18	Drug 1246 1255	glyburide
+T19	Dosage 1268 1269;1270 1276	2 liters
+T20	Frequency 1260 1266	b.i.d.
+T21	Strength 1083 1085	50
+T22	Frequency 1086 1092	q.h.s.
+T23	Frequency 1103 1106	prn
+T24	Drug 1149 1158	Combivent
+T25	Strength 1118 1121	100
+T26	Frequency 1122 1128	q.h.s.
+T27	Strength 1137 1140	150
+T28	Frequency 1141 1147	q.h.s.
+T29	Dosage 1159 1162	two
+T30	Form 1163 1168	puffs
+T31	Frequency 1169 1172	prn
+T32	Strength 1181 1184	100
+T33	Strength 1237 1239	80
+T34	Frequency 1240 1244	q.d.
+T35	Strength 1256 1259	100
+T36	Drug 1280 1282	O2
+T37	Strength 1298 1301	.25
+T38	Frequency 1302 1312	q.h.s. prn
+T39	Form 1314 1328	enteric coated
+T40	Frequency 1344 1348	q.d.
+T41	Form 1360 1370	nebulizers
+T42	Frequency 1371 1377	q.i.d.
+T43	Dosage 1398 1411	sliding scale
+T44	Form 2168 2175	inhaler
+T45	Form 2194 2201	inhaler
+R1	Strength-Drug Arg1:T4 Arg2:T5
+R2	Frequency-Drug Arg1:T14 Arg2:T13
+R3	Dosage-Drug Arg1:T19 Arg2:T36
+R4	Frequency-Drug Arg1:T20 Arg2:T18
+R5	Dosage-Drug Arg1:T43 Arg2:T9
+R6	Frequency-Drug Arg1:T42 Arg2:T3
+R7	Form-Drug Arg1:T41 Arg2:T3
+R8	Frequency-Drug Arg1:T40 Arg2:T5
+R9	Form-Drug Arg1:T39 Arg2:T5
+R10	Frequency-Drug Arg1:T38 Arg2:T8
+R11	Strength-Drug Arg1:T37 Arg2:T8
+R12	Strength-Drug Arg1:T35 Arg2:T18
+R13	Frequency-Drug Arg1:T34 Arg2:T16
+R14	Strength-Drug Arg1:T33 Arg2:T16
+R15	Strength-Drug Arg1:T32 Arg2:T13
+R16	Frequency-Drug Arg1:T31 Arg2:T24
+R17	Form-Drug Arg1:T30 Arg2:T24
+R18	Dosage-Drug Arg1:T29 Arg2:T24
+R19	Frequency-Drug Arg1:T28 Arg2:T17
+R20	Strength-Drug Arg1:T27 Arg2:T17
+R21	Frequency-Drug Arg1:T26 Arg2:T11
+R22	Strength-Drug Arg1:T25 Arg2:T11
+R23	Frequency-Drug Arg1:T23 Arg2:T2
+R24	Frequency-Drug Arg1:T22 Arg2:T15
+R25	Strength-Drug Arg1:T21 Arg2:T15
+R26	Form-Drug Arg1:T45 Arg2:T6
+R27	Form-Drug Arg1:T44 Arg2:T12
+T46	Drug 1215 1218	Dur
+T47	Strength 1219 1222	200
+T48	Frequency 1223 1229	b.i.d.
+T49	Drug 2242 2250	steroids
+T50	Reason 2257 2286;2287 2300	chronic obstructive pulmonary disease flare
+T51	Drug 2334 2342	steroids
+T52	Drug 2422 2433	antibiotics
+T53	Reason 2382 2391	pneumonia
+T54	Drug 2494 2523;2524 2543	chronic obstructive pulmonary disease medications
+T55	Drug 3224 3231	Flovent
+T56	Dosage 3232 3235	two
+T57	Form 3236 3241	puffs
+T58	Frequency 3242 3247	b.i.d
+T59	Frequency 2470 2475	daily
+R28	Strength-Drug Arg1:T47 Arg2:T46
+R29	Frequency-Drug Arg1:T48 Arg2:T46
+R30	Reason-Drug Arg1:T50 Arg2:T49
+R31	Reason-Drug Arg1:T53 Arg2:T52
+R32	Dosage-Drug Arg1:T56 Arg2:T55
+R33	Form-Drug Arg1:T57 Arg2:T55
+R34	Frequency-Drug Arg1:T58 Arg2:T55
+R35	Frequency-Drug Arg1:T59 Arg2:T7	

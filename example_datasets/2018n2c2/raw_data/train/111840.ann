@@ -1,0 +1,351 @@
+T1	Drug 9601 9613	azithromycin
+T2	Drug 1667 1678;1679 1691	azacitidine chemotherapy
+T3	Drug 9863 9874	azacitidine
+T4	Dosage 9889 9896	5 units
+T5	Drug 13292 13305	Acetaminophen
+T6	Strength 13306 13312	325 mg
+T7	Form 13329 13336	Tablets
+T8	Dosage 13325 13328	1-2
+T9	Route 13337 13339	PO
+T10	Drug 12226 12240;12241 12265	ERGOCALCIFEROL (VITAMIN D2) [VITAMIN D]
+T11	Strength 12167 12172	81 mg
+T12	Form 12196 12202;12202 12205	Tablet (s)
+T13	Dosage 12192 12195	one
+T14	Route 12206 12214	by mouth
+T15	Strength 15514 15520;15520 15525	100 mg /5 mL
+T16	Form 15526 15531	Syrup
+T17	Dosage 15537 15545	5-10 MLs
+T18	Route 15546 15548	PO
+T19	Drug 15502 15512;15512 15513	Guaifenesi n
+T20	Drug 11543 11552	meropenem
+T21	Drug 9157 9166	albuterol
+T22	Drug 9760 9769	meropenem
+T23	Drug 15266 15275	MEROPENEM
+T24	Route 15280 15291	intravenous
+T25	Drug 166 173	Codeine
+T26	Drug 11432 11440	neupogen
+T27	Drug 15667 15680	Acetaminophen
+T28	Route 15692 15700	by mouth
+T29	Drug 12725 12741;12742 12749	Prochlorperazine Maleate
+T30	Strength 12750 12755	10 mg
+T31	Form 12776 12782	Tablet
+T32	Route 12783 12785	PO
+T33	Drug 11707 11718	azacitidine
+T34	Drug 12092 12108;12125 12126	ASPIRIN [ASPIRIN ]
+T35	Drug 12832 12843	Guaifenesin
+T36	Strength 12844 12850;12850 12855	100 mg /5 mL
+T37	Form 12856 12861	Syrup
+T38	Dosage 12867 12875	5-10 MLs
+T39	Route 12876 12878	PO
+T40	Drug 11639 11646	heparin
+T42	Strength 13417 13427	1,000 unit
+T43	Form 13428 13434	Tablet
+T44	Drug 12643 12650	Aspirin
+T45	Strength 12651 12656	81 mg
+T46	Form 12687 12693;12693 12703	Tablet , Chewable
+T47	Drug 13018 13027	Meropenem
+T48	Strength 13028 13034	500 mg
+T49	Route 13064 13075	Intravenous
+T50	Drug 1499 1506	Procrit
+T51	Dosage 1507 1519	40,000 units
+T52	Drug 12000 12020	ZOLMITRIPTAN [ZOMIG]
+T53	Frequency 11965 11988	every 6 hours as needed
+T54	Drug 9576 9585	meropenem
+T55	Drug 11836 11843	heparin
+T56	Drug 8556 8567	azacitidine
+T57	Strength 15609 15615	100 mg
+T58	Form 15629 15636	Capsule
+T59	Dosage 15625 15628	One
+T60	Route 15637 15645	by mouth
+T61	Drug 15597 15607;15607 15608	Benzonatat e
+T62	Drug 9456 9466	vancomycin
+T63	Drug 13554 13563	Vitamin E
+T64	Strength 13564 13572	400 unit
+T65	Form 13594 13601	Capsule
+T66	Route 13602 13604	PO
+T67	Drug 9587 9599	voriconazole
+T68	Drug 12532 12541	VITAMIN E
+T69	Drug 503 514	Azacitidine
+T70	Drug 12923 12934	Benzonatate
+T71	Strength 12935 12941	100 mg
+T72	Form 12963 12970	Capsule
+T73	Route 12971 12973	PO
+T74	Drug 11902 11926	PROCHLORPERAZINE MALEATE
+T75	Strength 11929 11934	10 mg
+T76	Form 11946 11952;11952 11955	Tablet (s)
+T77	Dosage 11944 11945	1
+T78	Route 11956 11964	by mouth
+T79	Drug 9471 9479	cefepime
+T83	Reason 12820 12826	nAUSEA
+T84	Reason 12913 12918	cough
+T85	Reason 13008 13013	cough
+T86	Reason 13378 13383	FEVER
+T87	Reason 15583 15588	cough
+T88	Reason 15733 15738	fever
+T89	Dosage 729 731	3U
+T90	Drug 732 736	PRBC
+T91	Dosage 1567 1579	60,000 units
+T92	Frequency 1520 1526	weekly
+T93	Frequency 1580 1586	weekly
+T94	Form 9167 9176	nebulizer
+T95	Reason 9410 9414;9415 9435	Left lower lobe pneumonia
+T96	Drug 9619 9629	vancomcyin
+T97	Reason 9648 9664	recurrent fevers
+T98	Drug 9900 9904	pRBC
+T99	Route 11647 11649	SQ
+T100	Route 11833 11835	SC
+T101	Form 11935 11941	Tablet
+T102	Form 12173 12189	Tablet, Chewable
+T103	Frequency 12215 12221;12222 12225	once a day
+T104	Strength 12301 12311	1,000 unit
+T105	Form 12312 12318	Tablet
+T106	Dosage 12321 12322	1
+T107	Form 12323 12332	Tablet(s)
+T108	Route 12333 12341	by mouth
+T109	Frequency 12342 12352	once a day
+T110	Drug 12354 12366	MULTIVITAMIN
+T111	Form 12402 12409	Capsule
+T112	Dosage 12412 12413	1
+T113	Form 12413 12416	cap
+T114	Form 12417 12427	Capsule(s)
+T115	Route 12428 12436	by mouth
+T116	Frequency 12437 12447	once daily
+T117	Drug 12448 12467;12468 12478	OMEGA-3 FATTY ACIDS [FISH OIL]
+T118	Form 12657 12673	Tablet, Chewable
+T119	Dosage 12679 12686	One (1)
+T120	Route 12704 12706	PO
+T121	Frequency 12707 12720	DAILY (Daily)
+T122	Form 12756 12762	Tablet
+T123	Dosage 12768 12775	One (1)
+T124	Frequency 12786 12815	Q6H (every 6 hours) as needed
+T125	Frequency 12879 12891;12892 12908	Q6H (every 6 hours) as needed
+T126	Form 12942 12949	Capsule
+T127	Dosage 12955 12962	One (1)
+T128	Frequency 12974 12980;12981 13003	TID (3 times a day) as needed
+T129	Form 13035 13045	Recon Soln
+T130	Dosage 13051 13063	One (1) dose
+T131	Frequency 13076 13095	every six (6) hours
+T132	Duration 13096 13106	for 6 days
+T133	Drug 13141 13158	Albuterol Sulfate
+T134	Strength 13159 13181	2.5 mg /3 mL (0.083 %)
+T135	Form 13182 13194;13195 13207	Solution for Nebulization
+T136	Dosage 13213 13220	One (1)
+T137	Route 13221 13241	Treatment Inhalation
+T138	Frequency 13242 13256;13257 13272	every four (4) hours as needed
+T139	Reason 13277 13280	sob
+T140	Form 13313 13319	Tablet
+T141	Frequency 13340 13352;13353 13377	Q8H (every 8 hours) as needed for PRN
+T142	Dosage 13440 13447	One (1)
+T143	Form 13448 13454	Tablet
+T144	Route 13455 13457	PO
+T145	Frequency 13458 13468	once a day
+T146	Drug 13473 13489	Omega-3 Fish Oil
+T147	Strength 13490 13505	1,000-5 mg-unit
+T148	Form 13506 13513	Capsule
+T149	Dosage 13519 13526	One (1)
+T150	Form 13527 13534	Capsule
+T151	Route 13535 13537	PO
+T152	Frequency 13538 13548	once a day
+T153	Form 13573 13580	Capsule
+T154	Dosage 13586 13593	One (1)
+T155	Frequency 13605 13611;13612 13615	once a day
+T156	Frequency 15549 15559;15560 15578	Q6H (every 6 hours) as needed
+T157	Form 15616 15623	Capsule
+T158	Frequency 15646 15653;15654 15659	3 times a day
+T159	Strength 15681 15691	325-650 mg
+T160	Frequency 15701 15721;15722 15728	every eight hours as needed
+T161	Drug 15780 15789	Albuterol
+T162	Strength 15790 15796	0.083%
+T163	Form 15797 15806	Nebulizer
+T164	Route 15813 15820	inhaled
+T165	Frequency 15821 15831;15832 15848	every four hours, as needed
+T166	Reason 15853 15872	shortness of breath
+R1	Strength-Drug Arg1:T6 Arg2:T5
+R2	Form-Drug Arg1:T7 Arg2:T5
+R3	Dosage-Drug Arg1:T8 Arg2:T5
+R4	Route-Drug Arg1:T9 Arg2:T5
+R5	Strength-Drug Arg1:T11 Arg2:T34
+R6	Form-Drug Arg1:T12 Arg2:T34
+R7	Dosage-Drug Arg1:T13 Arg2:T34
+R8	Route-Drug Arg1:T14 Arg2:T34
+R9	Strength-Drug Arg1:T15 Arg2:T19
+R10	Form-Drug Arg1:T16 Arg2:T19
+R11	Dosage-Drug Arg1:T17 Arg2:T19
+R12	Route-Drug Arg1:T18 Arg2:T19
+R13	Route-Drug Arg1:T24 Arg2:T23
+R14	Route-Drug Arg1:T28 Arg2:T27
+R15	Strength-Drug Arg1:T30 Arg2:T29
+R16	Form-Drug Arg1:T31 Arg2:T29
+R17	Route-Drug Arg1:T32 Arg2:T29
+R18	Strength-Drug Arg1:T36 Arg2:T35
+R19	Form-Drug Arg1:T37 Arg2:T35
+R20	Dosage-Drug Arg1:T38 Arg2:T35
+R21	Route-Drug Arg1:T39 Arg2:T35
+R24	Strength-Drug Arg1:T45 Arg2:T44
+R25	Form-Drug Arg1:T46 Arg2:T44
+R26	Strength-Drug Arg1:T48 Arg2:T47
+R27	Route-Drug Arg1:T49 Arg2:T47
+R28	Dosage-Drug Arg1:T51 Arg2:T50
+R29	Frequency-Drug Arg1:T53 Arg2:T74
+R30	Strength-Drug Arg1:T57 Arg2:T61
+R31	Form-Drug Arg1:T58 Arg2:T61
+R32	Dosage-Drug Arg1:T59 Arg2:T61
+R33	Route-Drug Arg1:T60 Arg2:T61
+R34	Strength-Drug Arg1:T64 Arg2:T63
+R35	Form-Drug Arg1:T65 Arg2:T63
+R36	Route-Drug Arg1:T66 Arg2:T63
+R37	Strength-Drug Arg1:T71 Arg2:T70
+R38	Form-Drug Arg1:T72 Arg2:T70
+R39	Route-Drug Arg1:T73 Arg2:T70
+R40	Strength-Drug Arg1:T75 Arg2:T74
+R41	Form-Drug Arg1:T76 Arg2:T74
+R42	Dosage-Drug Arg1:T77 Arg2:T74
+R43	Route-Drug Arg1:T78 Arg2:T74
+R44	Dosage-Drug Arg1:T89 Arg2:T90
+R45	Frequency-Drug Arg1:T92 Arg2:T50
+R46	Frequency-Drug Arg1:T93 Arg2:T50
+R47	Dosage-Drug Arg1:T91 Arg2:T50
+R48	Form-Drug Arg1:T94 Arg2:T21
+R49	Reason-Drug Arg1:T95 Arg2:T62
+R50	Reason-Drug Arg1:T95 Arg2:T79
+R51	Reason-Drug Arg1:T97 Arg2:T54
+R52	Reason-Drug Arg1:T97 Arg2:T67
+R53	Reason-Drug Arg1:T97 Arg2:T1
+R54	Reason-Drug Arg1:T97 Arg2:T96
+R55	Dosage-Drug Arg1:T4 Arg2:T98
+R56	Route-Drug Arg1:T99 Arg2:T40
+R57	Route-Drug Arg1:T100 Arg2:T55
+R58	Form-Drug Arg1:T101 Arg2:T74
+R59	Form-Drug Arg1:T102 Arg2:T34
+R60	Frequency-Drug Arg1:T103 Arg2:T34
+R61	Frequency-Drug Arg1:T109 Arg2:T10
+R62	Route-Drug Arg1:T108 Arg2:T10
+R63	Form-Drug Arg1:T107 Arg2:T10
+R64	Dosage-Drug Arg1:T106 Arg2:T10
+R65	Form-Drug Arg1:T105 Arg2:T10
+R66	Strength-Drug Arg1:T104 Arg2:T10
+R67	Frequency-Drug Arg1:T116 Arg2:T110
+R68	Form-Drug Arg1:T114 Arg2:T110
+R69	Route-Drug Arg1:T115 Arg2:T110
+R70	Form-Drug Arg1:T113 Arg2:T110
+R71	Dosage-Drug Arg1:T112 Arg2:T110
+R72	Form-Drug Arg1:T111 Arg2:T110
+R73	Frequency-Drug Arg1:T121 Arg2:T44
+R74	Route-Drug Arg1:T120 Arg2:T44
+R75	Dosage-Drug Arg1:T119 Arg2:T44
+R76	Form-Drug Arg1:T118 Arg2:T44
+R77	Reason-Drug Arg1:T83 Arg2:T29
+R78	Frequency-Drug Arg1:T124 Arg2:T29
+R79	Dosage-Drug Arg1:T123 Arg2:T29
+R80	Form-Drug Arg1:T122 Arg2:T29
+R81	Reason-Drug Arg1:T84 Arg2:T35
+R82	Frequency-Drug Arg1:T125 Arg2:T35
+R83	Reason-Drug Arg1:T85 Arg2:T70
+R84	Frequency-Drug Arg1:T128 Arg2:T70
+R85	Dosage-Drug Arg1:T127 Arg2:T70
+R86	Form-Drug Arg1:T126 Arg2:T70
+R87	Duration-Drug Arg1:T132 Arg2:T47
+R88	Dosage-Drug Arg1:T130 Arg2:T47
+R89	Frequency-Drug Arg1:T131 Arg2:T47
+R90	Form-Drug Arg1:T129 Arg2:T47
+R91	Frequency-Drug Arg1:T138 Arg2:T133
+R92	Reason-Drug Arg1:T139 Arg2:T133
+R93	Route-Drug Arg1:T137 Arg2:T133
+R94	Dosage-Drug Arg1:T136 Arg2:T133
+R95	Form-Drug Arg1:T135 Arg2:T133
+R96	Strength-Drug Arg1:T134 Arg2:T133
+R97	Reason-Drug Arg1:T86 Arg2:T5
+R98	Frequency-Drug Arg1:T141 Arg2:T5
+R99	Form-Drug Arg1:T140 Arg2:T5
+R104	Frequency-Drug Arg1:T152 Arg2:T146
+R105	Route-Drug Arg1:T151 Arg2:T146
+R106	Form-Drug Arg1:T150 Arg2:T146
+R107	Dosage-Drug Arg1:T149 Arg2:T146
+R108	Form-Drug Arg1:T148 Arg2:T146
+R109	Strength-Drug Arg1:T147 Arg2:T146
+R110	Frequency-Drug Arg1:T155 Arg2:T63
+R111	Dosage-Drug Arg1:T154 Arg2:T63
+R112	Form-Drug Arg1:T153 Arg2:T63
+R113	Reason-Drug Arg1:T87 Arg2:T19
+R114	Frequency-Drug Arg1:T156 Arg2:T19
+R115	Frequency-Drug Arg1:T158 Arg2:T61
+R116	Form-Drug Arg1:T157 Arg2:T61
+R117	Reason-Drug Arg1:T88 Arg2:T27
+R118	Frequency-Drug Arg1:T160 Arg2:T27
+R119	Strength-Drug Arg1:T159 Arg2:T27
+R120	Reason-Drug Arg1:T166 Arg2:T161
+R121	Frequency-Drug Arg1:T165 Arg2:T161
+R122	Route-Drug Arg1:T164 Arg2:T161
+R123	Form-Drug Arg1:T163 Arg2:T161
+R124	Strength-Drug Arg1:T162 Arg2:T161
+T168	Duration 9910 9913;9914 9926	the first 2 days
+T169	Reason 11993 11999	nausea
+T170	Reason 11858 11861;11862 11873	DVT prophylaxis
+T171	Reason 9789 9792	MDS
+T173	ADE 1809 1820	neutropenia
+T174	Dosage 1665 1666	1
+T175	Drug 12607 12614	Codeine
+T177	Reason 14377 14386	pneumonia
+T178	Drug 391 415	azacytodine chemotherapy
+T180	ADE 8591 8602	neutropenia
+T182	ADE 8621 8629	diarrhea
+T184	Dosage 8787 8790	5 U
+T185	Drug 8790 8794	PRBC
+T186	Reason 9201 9213	bronchospasm
+T187	Reason 9822 9842	sideroblastic anemia
+T188	Dosage 10192 10193;10194 10198	a unit
+T189	Drug 10202 10206	pRBC
+T190	Drug 11301 11313	chemotherapy
+T191	ADE 11238 11255	Neutropenic Fever
+T192	ADE 11261 11272	neutropenia
+T193	Reason 11387 11398	neutropenia
+T194	Duration 11570 11582	for six days
+T198	Drug 14400 14411	antibiotics
+T199	Drug 14431 14436	blood
+T200	Form 14437 14449	transfusions
+T201	Reason 14856 14865	pnuemonia
+T202	Drug 14883 14894	antibiotics
+T203	Drug 15292 15302	antibiotic
+T204	Duration 15426 15433;15434 15438	for six days
+R125	Dosage-Drug Arg1:T184 Arg2:T185
+R126	Dosage-Drug Arg1:T188 Arg2:T189
+R127	ADE-Drug Arg1:T192 Arg2:T190
+R128	ADE-Drug Arg1:T191 Arg2:T190
+R129	Reason-Drug Arg1:T177 Arg2:T198
+R130	Form-Drug Arg1:T200 Arg2:T199
+R131	Reason-Drug Arg1:T201 Arg2:T202
+R132	Dosage-Drug Arg1:T174 Arg2:T2	
+R133	ADE-Drug Arg1:T173 Arg2:T2	
+R134	ADE-Drug Arg1:T180 Arg2:T56	
+R135	ADE-Drug Arg1:T182 Arg2:T56	
+R137	Reason-Drug Arg1:T186 Arg2:T21	
+R138	Reason-Drug Arg1:T187 Arg2:T3	
+T80	Reason 8604 8619	profound anemia
+R136	Reason-Drug Arg1:T80 Arg2:T185	
+R139	Reason-Drug Arg1:T171 Arg2:T98	
+R140	Duration-Drug Arg1:T168 Arg2:T98	
+R141	Reason-Drug Arg1:T187 Arg2:T98	
+R142	Reason-Drug Arg1:T193 Arg2:T26	
+R143	Duration-Drug Arg1:T194 Arg2:T20	
+R145	Reason-Drug Arg1:T170 Arg2:T55	
+R144	Reason-Drug Arg1:T169 Arg2:T74	
+R146	Route-Drug Arg1:T24 Arg2:T203	
+R147	Duration-Drug Arg1:T204 Arg2:T23	
+T82	Drug 13388 13416	Cholecalciferol (Vitamin D3)
+R154	Strength-Drug Arg1:T42 Arg2:T82	
+R155	Form-Drug Arg1:T43 Arg2:T82	
+R156	Dosage-Drug Arg1:T142 Arg2:T82	
+R157	Form-Drug Arg1:T143 Arg2:T82	
+R158	Route-Drug Arg1:T144 Arg2:T82	
+R159	Frequency-Drug Arg1:T145 Arg2:T82	
+T41	Reason 9669 9681	night sweats
+R22	Reason-Drug Arg1:T41 Arg2:T96	
+R23	Reason-Drug Arg1:T41 Arg2:T1	
+R100	Reason-Drug Arg1:T41 Arg2:T67	
+R101	Reason-Drug Arg1:T41 Arg2:T54	
+T81	Reason 9793 9799	Anemia
+R102	Reason-Drug Arg1:T81 Arg2:T3	
+T167	Reason 13281 13287	wheeze
+R103	Reason-Drug Arg1:T167 Arg2:T133	
+T172	Reason 15876 15882	wheeze
+R148	Reason-Drug Arg1:T172 Arg2:T161	

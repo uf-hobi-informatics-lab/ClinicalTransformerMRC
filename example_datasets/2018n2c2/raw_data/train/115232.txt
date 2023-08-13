@@ -1,0 +1,645 @@
+Admission Date:  [**2106-2-10**]              Discharge Date:   [**2106-2-23**]
+
+Date of Birth:  [**2044-3-28**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Demerol / Ativan
+
+Attending:[**First Name3 (LF) 1234**]
+Chief Complaint:
+Severe ischemia of lower extremities/ s/p R. ilio-femoral and
+femoral-femoral bypass graft.
+
+Major Surgical or Invasive Procedure:
+Thrombectomy of right iliofemoral graft, femoral-femoral graft,
+patch angioplasty of right femoral artery and left femoral
+artery with saphenous vein.
+
+
+History of Present Illness:
+The patient is a 60M with history of right sided stage III
+laryngeal cancer diagnosed in [**2099**] and treated with chemotherapy
+(adjuvant taxol and cisplatin followed by taxol, cisplatin and
+etoposide for three total cycles) and radiation (62g to right
+neck and vocal cords). He was last admitted to [**Hospital1 18**] [**2105-6-29**]
+with disabling claudication and rest pain in his bilateral lower
+extremities. For this, right common iliac artery to common
+femoral artery bypass and femoral-femoral cross-over graft were
+performed.
+
+Past Medical History:
+Hyperlipidemia
+laryngeal CA
+basal cell ca
+peptic ulcer dz
+hx. of esophageal stricture
+ETOH abuse
+Known aortic dissection
+Iliac stent with fem - fem graft
+
+Social History:
+Pos alcohol
+pos smoker
+
+
+Family History:
+non contributary
+
+Physical Exam:
+PE:
+
+AFVSS
+
+NEURO:
+
+PERRL / EOMI
+
+MAE equally
+
+Answers simple commands
+
+Neg pronator drift
+
+Sensation intact to ST
+
+2 plus DTR
+
+Neg Babinski
+
+HEENT:
+
+NCAT
+
+Neg lesions nares, oral pharnyx, auditory
+
+Supple / FAROM
+
+neg lyphandopathy, supra clavicular nodes
+
+LUNGS: CTA b/l
+
+CARDIAC: RRR without murmers
+
+ABDOMEN: Soft, NTTP, ND, pos BS, neg CVA tenderness
+
+EXT:
+
+Groins dressed so femoral nodes not assessed
+
+Fem pulses present b/l
+
+Bil LE warm; + pulses by doppler
+
+
+
+
+Pertinent Results:
+CHEST (PORTABLE AP)  [**2106-2-15**] 9:06 AM
+
+CHEST: AP portable semi-upright view. The nasogastric tube and
+the left internal jugular central venous catheter remain in good
+positions. There is interval worsening of bilateral perihilar
+and basilar opacities, consistent with increasing congestive
+heart failure. There are persistent opacities in the right and
+left upper lobe, consistent with pneumonia or aspiration.
+Multiple surgical clips are again seen in the upper mid abdomen
+and just above the gastroesophageal junction.
+
+IMPRESSION:
+1. Worsening congestive heart failure.
+2. Unchanged right and left upper lobe pneumonia versus
+aspiration.
+
+CT CHEST W/CONTRAST  [**2106-2-15**] 4:20 PM
+
+CHEST CT WITH INTRAVENOUS CONTRAST: Emphysema is again noted,
+with multiple bullae in the middle and upper lobes. There are
+confluent ground-glass opacities as well as interlobular septal
+thickening in both upper lobes, right middle lobe, lingula, and
+the superior and anterior portions of the lower lobes. The
+opacities are most dense in the upper lobes. Small peripheral
+centrilobular ground-glass opacities are present throughout both
+lower lobes, similar in appearance to [**2104-7-16**]. While the
+centrilobular and confluent ground glass opacities are
+consistent with aspiration or pneumonia, presence of
+interstitial septal thickening also suggest pulmonary edema.
+While there is some nodularity within the opacities, nodular
+opacities that were seen in the left upper and right lower lobes
+on [**2105-7-16**] are no longer present. There is no evidence of an
+abscess.
+
+The trachea, right and left main stem bronchi are mildly
+dilated. Mild-to- moderate bronchiectasis is noted in the upper
+lobes, right middle lobe and lingula. Dependent secretions are
+noted in the trachea.
+
+There are numerous enlarged mediastinal lymph nodes, increased
+in number and size compared to [**2104-7-16**]. The largest right
+superior mediastinal node measures 12 mm in short axis diameter.
+The largest upper right paratracheal node measures 11 mm. The
+largest lower right paratracheal node measures 9 mm. The largest
+right para-aortic node measures 12 mm. The largest subcarinal
+node measures 15 mm. The largest right para-esophageal node
+measures 13 mm. Numerous subcentimeter nodes are present in both
+hila.
+
+There are small bilateral pleural effusions. There is no
+pericardial effusion. Scattered atherosclerotic calcifications
+are present in the thoracic aorta. Mural thrombus is noted in
+the proximal abdominal aorta.
+
+There is an unchanged ill-defined hypodensity in the right lobe
+of the thyroid gland, measuring approximately 2 x 1 cm.
+
+There is an approximately 4 cm hypodense lesion in the lower
+pole of the spleen, unchanged compared to the [**2106-2-13**] abdominal
+CT, which may represent a splenic infarction. Scattered
+calcified granulomas are again noted in the liver. Stones are
+again seen in the gallbladder. Surgical clips are again noted in
+the porta hepatis and in the region of the gastroesophageal
+junction. The imaged portions of the pancreas, adrenal glands,
+and kidneys appear unremarkable. The imaged bones appear
+unremarkable.
+
+IMPRESSION:
+
+1. Diffuse bilateral pulmonary opacities, confluent in the upper
+and middle lobes, consistent with aspiration or pneumonia.
+Recurrent interlobular septal thickening is consistent with
+superimposed pulmonary edema. Given foci of nodularity,
+follow-up is recommended after treatment. No evidence of an
+abscess.
+
+2. Small bilateral pleural effusions.
+3. Mild central tracheal dilatation. Diffuse mild-to-moderate
+bronchiectasis in the upper and middle lobes.
+4. Increased number and size of mediastinal and bilateral hilar
+lymph nodes, which may be reactive. However, metastatic disease
+cannot be excluded, and follow-up after treatment is
+recommended.
+5. Hypodense splenic lesion, unchanged since [**2106-2-13**], compatible
+with an infarct.
+6. Cholelithiasis.
+7. Unchanged hypodense lesion in the right lobe of the thyroid.
+
+[**2106-2-13**]  11:08:22 PM
+
+EKG
+
+Sinus tachycardia. Right bundle-branch block. Compared to
+tracing #1, no
+diagnostic change.
+
+[**2106-2-13**] 3:20 PM
+
+CTA ABD W&W/O C & RECONS; CT ABDOMEN W/CONTRAST
+
+CT ABDOMEN WITHOUT AND WITH IV CONTRAST:
+Hazy nodular opacities about the airways within the lower lungs
+have increased since the prior study consistent with small
+airways disease. There is mild hazy opacity within the lung
+bases which could represent normal lung at expiration, however
+mild ground glass airspace disease cannot be excluded.
+
+There is a hepatic granuloma within the dome of the liver. No
+concerning hepatic lesions. There are multiple small gallstones
+dependently within the gallbladder. No gallbladder wall
+thickening. No biliary ductal dilatation or choledocholithiasis
+evident. There is a choledochojejunostomy, which is normal in
+appearance.
+
+Within the inferior aspect of the spleen, there is a large
+hypodense lesion, without enhancement measuring 4.4 x 4.3 x 3.9
+cm that has significantly increased since the [**5-7**] study. There
+is an adjacent smaller similar- appearing lesion lateral to this
+larger lesion. These are nonspecific but considerations would
+include a splenic infarct. There is no stranding around these
+lesions, however infection of the lesions cannot be excluded.
+Small splenic hemangioma is also again noted unchanged.
+
+The pancreas is normal in appearance. The patient has undergone
+gastric bypass with a gastrojejunostomy. Adrenal glands are
+normal in appearance. No bowel wall thickening. No evidence of
+bowel wall thickening or bowel obstruction. The appendix
+contains contrast within it and gas, possibly from prior CT
+scan. No evidence for appendicitis. Small amount of fluid within
+the right lower quadrant is nonspecific.
+
+The kidneys show heterogeneous hypoenhancement symmetrically in
+a patchy geographic pattern in some locations. These areas have
+heterogeneous enhancement still on nephrographic phase. There is
+no persistent staining on the delayed images, nor is there
+contrast within the kidneys on the pre- contrast CT remaining
+from [**2106-2-11**] angiogram. These findings are nonspecific but
+considerations would include embolic phenomenon such as
+cholesterol or other emboli. Of note, there is a large calcified
+plaque within the right renal artery just beyond its origin with
+at least moderate narrowing of the right renal artery. There is
+also moderate narrowing of the left renal artery at its origin.
+There are multiple cysts within the kidneys bilaterally. There
+are multiple hypoattenuating lesions which are too small to
+characterize but likely cysts.
+
+No lymphadenopathy or ascites.
+
+CT PELVIS WITHOUT AND WITH IV CONTRAST:
+The urinary bladder has a Foley catheter within it and is
+incompletely distended. No definite urinary bladder abnormality.
+There is a small amount of free fluid within the pelvis. Bowel
+within the pelvis is within normal limits. There is a rectal
+tube with balloon inflated within the rectum. Subsequent
+administration of rectal contrast shows no leakage of contrast
+and no other abnormality. No lymphadenopathy.
+
+CT ARTERIOGRAM WITH IV CONTRAST:
+There is diffuse atherosclerotic plaque within the aorta with a
+large amount of plaque within the infrarenal aorta. There is an
+ulcerated plaque within the infrarenal aorta with a small neck.
+This does not extend beyond the normal contour of the aorta. The
+left common iliac artery is occluded, as before. There is
+reconstitution of the left external iliac artery from retrograde
+flow and there is minimal flow within the left internal iliac
+artery. The right common iliac artery is patent at its origin
+and then there is a bypass graft from the right common iliac
+artery to the right common femoral artery. Native right common
+iliac artery distally and the external iliac artery is occluded
+with an old stent in place. The iliac-femoral graft is widely
+patent. Just distal to its insertion within the right common
+femoral artery, there is a right to left femoral-femoral bypass
+graft which is widely patent. This is just superior to an
+excluded partially thrombosed old femoral- femoral bypass graft
+which contains gas within it, likely from recent surgery.
+Bilateral superficial femoral arteries are patent proximally
+though diminutive. There are small fluid collections about
+bilateral common femoral arteries near the graft
+origin/insertions, both of which contain small amounts of gas,
+likely related to recent surgery. Just distal to the insertion
+site of the femoral-femoral bypass graft on the left is a round
+fluid collection that on pre-contrast images is heterogeneous in
+density and post-contrast images shows a small amount of
+contrast outside the lumen of the adjacent arteries with
+progressive increased density dependently within the collection
+seen, making this highly suspicious for a pseudoaneurysm. This
+is best demonstrated on series 2, 3, and 4, images 90-94 and
+series 6 B, images 186-189. The arteries distal to the graft
+sites are patent within the visualized portions.
+
+SMA, [**Female First Name (un) 899**], and celiac artery are all patent and without evidence
+of proximal stenoses. As mentioned above, the right renal artery
+has a large calcified plaque just beyond its origin with at
+least moderate stenosis. The left renal artery has moderate
+stenosis at its origin.
+
+BONE WINDOWS: There is multilevel lumbar disc degeneration. No
+suspicious bone lesions.
+
+IMPRESSION:
+1. Aortic atherosclerosis with ulcerated plaque in the
+infrarenal aorta. Occluded left common iliac artery with
+external iliac artery reconstitution from retrograde flow from
+fem-fem bypass graft. Patent right common iliac- femoral bypass
+graft and right to left femoral-femoral bypass graft with patent
+superficial femoral artery distal to the bypass grafts in the
+visualized portions.
+
+2. Just distal to the left insertion of the fem-fem bypass graft
+with findings are highly suspicious for a pseudoaneurysm.
+[**Female First Name (un) **] ultrasound of this area is recommended to further
+evaluate.
+
+3. Gas and fluid about the bilateral femoral [**Female First Name (un) 1106**] operative
+sites and gas within the old thrombosed fem-fem bypass graft
+likely related to surgery.
+
+4. Increased size of hypodense splenic lesions that could
+represent infarcts. No secondary signs of infection, however
+this cannot be excluded.
+
+5. Patent SMA and [**Female First Name (un) 899**] without evidence of bowel abnormality.
+
+6. Bilateral patchy heterogeneous perfusion abnormalities within
+the kidneys suggesting recent bilateral renal insult, possibly
+from embolic phenomenon such as cholesterol emboli. There is
+also bilateral renal artery stenosis, slightly worse on the
+right than the left, at least a moderate degree.
+
+7. Bilateral pulmonary small airways disease, worse in the bases
+than in [**2105-5-3**]. If clinically indicated, high resolution chest
+CT could be performed.
+
+[**2106-2-23**] 04:30AM
+
+COMPLETE BLOOD COUNT
+
+White Blood Cells 8.3
+
+Red Blood Cells 3.76*
+
+Hemoglobin 11.2* g/dL
+
+MCV 89
+
+MCH 29.9
+
+MCHC 33.7
+
+RDW 16.4*
+
+Platelet Count 298 K/uL 150 - 440
+
+[**2106-2-23**] 12:01PM
+
+PT 15.8*
+
+PTT 34.2
+
+INR(PT) 1.4*
+
+[**2106-2-20**] 06:00AM
+
+RENAL & GLUCOSE
+
+Glucose 86 mg/dL
+
+Urea Nitrogen 14 mg/dL
+
+Creatinine 0.7 mg/dL
+
+Sodium 137 mEq/L
+
+Potassium 3.9 mEq/L
+
+Chloride 104 mEq/L
+
+Bicarbonate 24 mEq/L
+
+Anion Gap 13
+
+CHEMISTRY
+Calcium, Total 7.8*
+
+Phosphate 2.5*
+
+Magnesium 2.1
+
+GENERAL URINE INFORMATION
+
+Urine Color Amber
+
+Urine Appearance Cloudy
+
+Specific Gravity 1.049*  1.001 - 1.035
+
+DIPSTICK URINALYSIS
+
+Blood LG
+
+Nitrite NEG
+
+Protein 30 mg/dL
+
+Glucose NEG mg/dL
+
+Ketone NEG mg/dL
+
+Bilirubin NEG EU/dL
+
+Urobilinogen NEG mg/
+
+pH 6.5
+
+Leukocytes NEG
+
+MICROSCOPIC URINE EXAMINATION
+
+RBC >50
+
+WBC 1 #
+
+Bacteria MOD
+
+Yeast NONE
+
+Epithelial Cells 0 #/hpf
+
+Transitional Epithelial Cells 1 #/hpf
+
+Granular Casts 0-2 #/lpf 0 - 0
+
+Amorphous Crystals FEW
+
+[**2106-2-15**]
+
+SWAB
+
+No VRE isolated.
+
+
+
+
+
+
+
+Brief Hospital Course:
+Patient was admitted and started on anti-coagulation secondary
+to LE graft coagulopathy.  Patient was started on a heparin gtt
+with goal of 60-80.  Patients Coumadin was initially held.
+Patient had groin exploration/angiogram.  Patient was given an
+epidural.  Patient tolerated procedure and in PACU area it was
+noticed that Hct levels had come down.  Patient was transfused 2
+units.  Patient's anticoags were held while he got his
+transfusion and then was re-started.  Heme was consulted for
+this and suggested HIT.  Patient most-likely was sub-therapeutic
+on lovenox.  Typical dosing for Lovenox is 1mg/kg [**Hospital1 **] and he was
+only on 30mg/day.  Patient was admitted to SICU.   Patient was
+continued on broad spctrum
+antibiotics(Vanco/Clinda/Ceftaz/Flagyl).  Patient's groin
+dressings were continually monitored during this time while in
+the unit where it was noticed to be draining.  Patient was
+screened for HIT and started on Argatroban.  Patients Argatroban
+was started/stopped [**Hospital 58097**] hospital stay.  Patients
+epidural and NG-tube were DC's post-op day 4 and Clinda was DC'd
+as per IS requests.  Patient transferred to VICU and Argatroban
+and Coumadin were re-started.  Through-out the patients entire
+hospital stay the goal was to acquire a therapeutic state
+between (2.0-3.0)  Patient was started on Lovenox sq on final
+hospital day and it was explained to patient that when he get's
+discharged from hospital he won't be able to check his lovenox
+levels.  It was suggested to patient that he stay in the
+hospital until his PT becomes therapeutic but the patient
+requested he leave and go home on Lovenox sub-q.  Patient was
+instructed to f/u w/ PCP(Dr. [**Last Name (STitle) 5456**] qod for coag checks.
+Patient wwas also Dc'd on Coumadin 3mg hs, ASA 81mg qd.  Patient
+was also given Abx- (Levo/Flagyl).
+
+Medications on Admission:
+Coumadin,
+asa,
+percocet
+
+Discharge Medications:
+1. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Disp:*60 Disk with Device(s)* Refills:*2*
+2. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+3. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+Disp:*4 inhalers* Refills:*2*
+4. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+Disp:*4 inhalers* Refills:*2*
+5. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 5-10 MLs
+PO Q4-6H (every 4 to 6 hours) as needed.
+Disp:*100 ML(s)* Refills:*0*
+6. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+7. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2
+times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+8. Lovenox 60 mg/0.6 mL Syringe Sig: One (1)  Subcutaneous twice
+a day for 4 days.
+Disp:*8 Lovenox (Subcutaneous) 60 mg/0.6 mL Syringe* Refills:*1*
+9. Coumadin 3 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*6*
+10. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+12. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 3 weeks.
+Disp:*63 Tablet(s)* Refills:*0*
+13. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a day
+for 14 days.
+Disp:*14 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+South Eastern [**State 350**] VNA
+
+Discharge Diagnosis:
+Thrombosed femoral-femoral graft and iliofemoral graft with
+bilateral extremity ischemia.
+
+Hypercoagulable state.
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Please restart your home medications.  You may shower regularly,
+but no tub baths.  Pat your incisions dry.  If there continues
+to be drainage from your incision, place dry gauze over it.
+Call a physician or go to the emergency room if you experience
+fever >101.4F, pain unrelieved by medication, or foul-smelling
+drainage coming from your incision.
+
+Discharge Instructions:
+
+You are to be discharged on coumadin. You must have your INR
+followed. This measures the level of coumadin in the blood. This
+
+level must be between [**2-5**]. Your PCP [**Name9 (PRE) **] been [**Name (NI) 653**]. [**Name2 (NI) **] will
+follow your INR.
+
+You are also on Lovenox this is again a blood thinner, You must
+give yourself shots twice a day. You are to take Lovenox untill
+the Coumadin (INR ) is between [**2-5**]. When your coumadin level is
+appropriate. You may stop the Lovenox.
+
+WOUND CARE:
+
+PLEASE CALL US IMMEDIATELY FOR ANY OF THE FOLLOWING PROBLEMS:
+
+Redness in or drainage from your wound(s).
+
+New pain, numbness or discoloration of your lower or upper
+extremities (notably on the side of the incision).
+
+Watch for signs and symptoms of infection. These are: a fever
+greater than 101 degrees, chills, increased redness, or pus
+draining from the incision site. If you experience any of these
+or bleeding at the incision site, CALL THE DOCTOR.
+
+
+
+OTHER INFORMATION:
+
+You may shower immediately upon coming home. No bathing. A
+dressing may cover you??????re wound / incision site and this should
+be left in place for three (3) days. Remove it after this time
+and wash your incision(s) gently with soap and water. You will
+have sutures, which are usually removed in 4 weeks. This will be
+done by the Surgeon on your follow-up appointment.
+
+Sutures / Staples may be removed before discharge. If they are
+not, an appointment will be made for you to return for
+removal.).
+
+When the sutures / staples are removed the doctor may or may not
+place pieces of tape called steri-strips over the incision.
+These will stay on about a week and you may shower with them on.
+If these do not fall off after 10 days, you may peel them off
+with warm water and soap in the shower.
+
+Avoid taking a tub bath, swimming, or soaking in a hot tub for
+two weeks after surgery.
+
+You may shower immediately upon coming home. No bathing. A
+dressing may cover you??????re wound / incision site and this should
+be left in place for three (3) days. Remove it after this time
+and wash your incision(s) gently with soap and water. You may
+have staples and or sutures, which are usually removed in 4
+weeks. This will be done by the Surgeon on your follow-up
+appointment.
+
+Limit strenuous activity  and or heavy lifting until the wound
+is well healed. Activity may prevent the wound from healing.
+
+Do not drive a car unless cleared by your Surgeon.
+
+Try to keep your affected limb elevated when not in use, This
+decreases swelling to the affected wound and helps in the
+healing process.
+
+You may have an ace wrap around the affected limb with the
+wound. This helps prevent swelling to the area. You may take
+this off at night. But when you are doing activity the ace wrap
+should be worn.
+
+ANTIBIOTICS:
+
+You may have a prescription for antibiotics. Take as directed.
+Be sure you take the full course even if the wound looks well
+healed. Failure to do so may lead to infection.
+
+
+Followup Instructions:
+Call Dr.[**Name (NI) 1720**] clinic at [**Telephone/Fax (1) 1241**] to schedule a follow-up
+appointment in [**2-5**] weeks.
+
+Provider: [**Name10 (NameIs) **] [**Name11 (NameIs) 3627**] [**Name12 (NameIs) 3628**] [**Name12 (NameIs) **] [**Name12 (NameIs) 3628**] (NHB)
+Date/Time:[**2106-4-15**] 10:00
+
+Provider: [**Name10 (NameIs) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] SURGERY (NHB)
+Date/Time:[**2106-4-15**] 10:30
+
+Test for consideration post-discharge: Activated Protein C
+
+Follow - up with Dr [**Last Name (STitle) 5456**] for your INR. VNA will moniter your
+INR. Dr [**Last Name (STitle) 5456**] will adjust your coumadin accordingly. VNA will
+fax the results to Dr [**Last Name (STitle) 5456**] office at [**Telephone/Fax (1) 32161**].
+
+
+
+Completed by:[**2106-2-23**]

@@ -1,0 +1,288 @@
+Admission Date:  [**2188-10-21**]              Discharge Date:   [**2188-11-3**]
+
+Date of Birth:  [**2112-12-21**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Fish Product Derivatives
+
+Attending:[**First Name3 (LF) 759**]
+Chief Complaint:
+GI bleed
+
+Major Surgical or Invasive Procedure:
+Colonoscopy
+EGD
+
+
+History of Present Illness:
+History of Present Illness: 75 year old woman on Coumadin and
+Plavix, s/p mechanical MVR, h/o GI bleed (ten years ago), now
+presenting with black tarry stools overnight, with 2 additional
+episodes of melena this morning. Pt was seen in urgent care at
+PCP's office today and was guaiac positive. In PCP office she
+noted three black tarry stools. During this time, she has no
+nausea, vomiting, no epigastric pain, no lightheadedness, and no
+chest pain. She has not taken any  over-the-counter medications.
+She usually takes MiraLax has a bowel movement every few days,
+and she has had three bowel movements in less than 24 hours. The
+patient has a history of peptic ulcer disease diagnosed in the
+mid 90s. She has been maintained on ranitidine 150 mg b.i.d. for
+many years.
+.
+In the ED, initial vs were: T99, P 81, 127/66, RR 16, 100%RA.
+Patient was given protonix 40 IV x1, and was seen by GI. GI
+recommended NG lavage, which showed brown effluent, no coffee
+grounds. Following NGT placement the pt developed brisk
+epistaxis, now has packing in place. Repeat hct stable at 40.
+Major source of bleeding is now iatrogenic nosebleed. Vitals on
+transfer were: 96.4 HR 97 127/63 19 100%RA.
+
+
+Past Medical History:
+CAD: s/p 1 vessel CABG [**2177**]
+Valvular dz: s/p mechanical MV replacement [**2177**]
+H/o supraventricular tachycardia
+TIA's (on plavix)
+hypertension
+hypercholesterolemia
+osteoporosis
+migraine headaches  with aura
+carotid disease
+cataracts
+s/p hysterectomy [**6-20**]
+constipation
+History of a significant gastrointestinal bleed secondary
+to gastric ulcerations.
+
+
+Social History:
+She does not currently smoke cigarettes, does have a <3 pack
+year history, quit in [**2154**]. She is [**Name Initial (MD) **] retired RN, widowed. She
+does have a significant other who is being very supportive with
+her at this time. She rarely drinks alcohol.
+
+
+Family History:
+Positive for strokes in grandmother and mother.
+
+Physical Exam:
+Admission vitals: T:98.2 P:91 R: BP:112/87 SaO2:100 @ RA
+Pt [**Name (NI) **]3
+HEENT: PREEL, oral moist
+Neck: no JVD, supple, no LN
+Chest: B/L Bs clear, no wheezing
+CVS: S1/S2 regular, thre was click in her apical area, no murmur
+
+Abd: soft, no tender, Bs present
+Ext: no pitting edema
+Rectum: there is no skin tag, there is black stool in her
+rectum, Guaiac test positive
+.
+Discharge vitals: T: P: RR: BP: O2Sat:
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, no nasal
+bleeding, no conunctival pallor
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, + mechanical murmur
+at apex
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Skin: no rashes
+Neuro: CN2-12 intact, strength intact [**6-17**] U&LE, sensation
+intact, DTRs 2+ patellar, gait deferred
+
+
+Pertinent Results:
+EGD [**2188-10-22**]: Impression: Normal mucosa in the esophagus
+Mild erosion in the antrum compatible with gastritis
+Erythema in the stomach body compatible with NG tube-induced
+trauma
+Normal mucosa in the duodenum
+During this procedure, we did not find activate bleeding.
+Small hiatal hernia
+Otherwise normal EGD to third part of the duodenum
+Recommendations: Because we did not identify the etiology of her
+G.I. bleeding during this procedure, she might need colonoscopy
+to rule out right colonic bleeding. We will discuss with Dr.
+[**Last Name (STitle) 2987**] this afternoon to recommend either regular colonoscopy or
+virtual colonoscopy.
+
+Colonoscopy [**2188-10-23**]: Angioectasia in the cecum (thermal
+therapy)
+Diverticulosis of the sigmoid colon
+Otherwise normal colonoscopy to cecum
+Recommendations: In patient care
+Capsule endoscopy. Serial hematocrits
+
+Brief Hospital Course:
+Assessment and Plan: 75 year old woman on Coumadin and Plavix,
+s/p mechanical MVR, h/o GI bleed (ten years ago), now presenting
+with GI bleeding in the setting of a supratherapeutic INR, c/b
+nasal bleeding following NGT placement.
+.
+# GI Bleed: The pt had three melenotic stools over 24 hrs, but
+has stable hct on labs and is otherwise asymptomatic (without
+fatigue, shortness of breath with exertion, chest pain, or
+orthostasis). NG lavage was negative for any coffee ground
+material or bloody contents. EGD did not reveal any source of
+bleed. The patient also underwent colonoscopy, revealing a
+bleeding AVM, which was coagulated using thermal therapy. She
+will need a capsule endoscopy as an out-patient in order to
+assess for additional, non-visualized AVM in the small bowel.
+She was monitored with serial hematocrits, which trended
+downward precipitating transfusion with 1 unit of blood. Her
+anti-coagulation with Plavix and Coumadin was held for her
+procedures. After, she was re-started on coumadin with a heparin
+bridge to therapeutic INR, and her plavix was restarted after
+being held for 7 days.  Her hematocrit was stable at discharge.
+She was discharged once INR was therapeutic.
+.
+# Nasal trauma: Following NGT placement, pt developed bleeding
+from nose that was quite profuse. Packing was placed by ENT
+which was dislodged overnight. We suspect that a minor
+lac/contusion from NG tube in the setting of elevated INR
+precipitated this event. She experienced no further epistaxis
+during this admission.
+.
+# Mechanical MV replacement: Goal INR is 2.5-3.5. The patient is
+on a higher dose of Coumadin (5.5mg) to maintain this INR. Per
+discussion with cardiology, her anti-coagulation was not
+reversed. All anticoagulation was held pending her EGD, and she
+was started on a heparin drip afterwards. After her colonoscopy,
+she was restarted on Coumadin and a heparin drip was used to
+bridge the patient until her INR was therapeutic. At discharge,
+her INR was 2.6.
+.
+# CAD s/p 1 vessel CABG [**2177**]: The patient's beta blocker was
+initially held so as not to mask hypovolemia. It was re-started
+after the patient's procedures with normal heart rate and
+excellent blood pressure control.
+.
+# TIA's (on plavix): Plavix was restarted after being held for a
+total of 7 days after her colonoscopy.
+
+Medications on Admission:
+Lipitor 80
+Plavix 75
+Maxalt ML T 10 prn migraine
+Amoxicillin prn dental
+Atenolol 12.5
+Alendronate 70
+EpiPen prn fish
+Ambien 10 qhs
+Coumadin 5.5 everyday except Sat, on Sat pt takes 4mg
+Skelaxin 800 qhs
+Zantac 150mg [**Hospital1 **]
+meds at hospital:
+Maxalt-MLT *NF* 10 mg Oral daily prn migraine
+Oxymetazoline 1 SPRY NU [**Hospital1 **]
+Lorazepam 0.25 mg IV ONCE MR1
+Pantoprazole 8 mg/hr IV INFUSION
+
+
+Discharge Medications:
+1. Rizatriptan 10 mg Tablet Sig: One (1) Tablet PO daily prn ()
+as needed for migraine.
+2. Atorvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+3. Zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+
+4. Warfarin 5 mg Tablet Sig: 5.5 mg every day but Saturday, 4mg
+on Saturday. Tablets PO Once Daily at 4 PM: 5.5mg every day but
+Saturday. On saturday take 4mg. .
+5. Plavix 75 mg Tablet Sig: One (1) Tablet PO once a day.
+6. Atenolol 25 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+7. Alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week.
+
+8. EpiPen 0.3 mg/0.3 mL Pen Injector Sig: One (1)  Intramuscular
+once a day as needed for anaphylaxis.
+9. Skelaxin 800 mg Tablet Sig: One (1) Tablet PO at bedtime.
+10. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. Ranitidine HCl 150 mg Capsule Sig: One (1) Capsule PO twice
+a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary diagnosis:
+1) Gastrointestinal bleeding
+2) Arteriovenous malformation of cecum
+
+Secondary diagnosis:
+1. Coronary Artery Disease status post 1 vessel Coronary Artery
+Bypass Graft [**2177**]
+2. Valvular disease: status post mechanical Mechanical valve
+replacement [**2177**] (on coumadin)
+3. History of supraventricular tachycardia
+4. Transient ischemic attacks (on plavix)
+5. hypertension
+
+
+Discharge Condition:
+Stable, BP --, HR --, no recurrence of GI bleeding after
+colonoscopy with thermal therapy, HCT stable at --.
+
+
+Discharge Instructions:
+You were admitted to the hospital for GI bleeding. You had an
+EGD, which showed gastritis in your stomach.  You also had a
+colonoscopy, which showed an AVM (arteriovenous malformation) in
+the cecum which was coagulated with thermal therapy to stop the
+bleeding. It also showed diverticulosis of the sigmoid colon.
+You will need to get a capsule endoscopy as an outpatient. This
+will be coordinated by gastroenterology.
+
+* We restarted your Coumadin before discharge. Your INR was
+between 2.5 and 3.5 at discharge. You will need to have a follow
+up INR check with your regular doctor next week. You should take
+your Coumadin as per your prior regimen (5.5mg every day but
+Saturday, on Saturday take 4mg).
+
+Please call your doctor or return to the ED if you experience
+any:
+Recurrence of bleeding
+Fainting or lightheadedness
+Abdominal or Pelvic Pain
+Pain with urination
+Fever or Chills
+Chest pain or shortness of breath, especially with exertion
+
+Followup Instructions:
+You need to follow up with gastroenterology for a capsule
+endoscopy as an outpatient and you also need to have an INR
+check next week.
+
+You need to schedule the following appointments:
+Appointment #1
+MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2450**]
+Specialty: Internal Medicine
+Location: [**Hospital1 18**] [**Hospital Ward Name 516**], [**Hospital Ward Name 23**] Bldg. [**Location (un) 895**]
+Phone number: [**Telephone/Fax (1) 250**]
+
+Appointment #2
+MD: Dr. [**First Name8 (NamePattern2) 4457**] [**Last Name (NamePattern1) 3100**]
+Specialty: Gastroenterology
+Location: [**Last Name (NamePattern1) 439**]. [**Hospital Ward Name **] Bldg. [**Location (un) 858**]
+Phone number: [**Telephone/Fax (1) 463**]
+
+Please make appointments to follow up in the above two clinics
+upon discharge from the hospital.  You also need to have your
+INR checked on wednesday, and follow up with the [**Company 191**]
+anticoagulation service as you have in the past.
+.
+Future appts you have scheduled:
+1.  [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2188-11-27**]
+9:40
+2.  [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 8145**], M.D. Date/Time:[**2188-12-31**] 10:10
+
+
+

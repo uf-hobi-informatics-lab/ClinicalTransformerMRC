@@ -1,0 +1,315 @@
+Admission Date:  [**2165-6-3**]              Discharge Date:   [**2165-6-24**]
+
+Date of Birth:  [**2098-4-23**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Ampicillin / peanuts
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+MUD AlloHSCT
+
+Major Surgical or Invasive Procedure:
+- MUD AlloHSCT
+- VP shunt tap
+- Bronchoscopy
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 67-year-old man with trasnufsion dependent
+myelodysplastic disorder, normal pressure hydrocephalus, DM,
+CAD, HTN who is electively admitted for Allo SCT.
+.
+He was last seen in clinic [**5-30**] w Dr. [**Last Name (STitle) 410**] for preadmission
+testing prior to planned admission today for a non-myeloablative
+matched unrelated donor transplant for his MDS that is
+associated with pancytopenia and transfusion dependence of both
+red cells and platelets. Last transfusion [**5-28**]. Due to multiple
+transfusions, he has develoepd Fe overload, and has been on
+chelation therapy with deferasirox. He is admitted for protocol
+driven reduced intensity MUD allo. The conditioning is to
+inlcude clofarabine, total nodal radiation and ATG. The donor
+match is 9/10 per Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] progress note.
+.
+Per Dr.[**Name (NI) 3588**] clinic evaluation on [**5-23**] this pt has an
+absolute neutropenia. [**10/2164**] he was admitted to the ICU with
+CAP/neutropenic fevers based upon chest imaging findings and
+ROS. He was treated with vancomycin, cefepime and ciprofloxacin,
+no pathogen was isolated. During that hospitalization, he was
+diagnosed with HSV 1 outbreak on his neck (no lesions in his
+mouth or periorally), and was also diagnosed with insulin
+dependent DM-2.
+.
+On the floor, he complains of ongoing seasonal allergies with
+dry dcough and watery eyes. Cough is non-productive. He has not
+noted any fevers at home. Denies dyspnea on exertion, shortness
+of breath, PND, or orthopnea. He has no sore throat or ear pain.
+He has had one episode of diarrhea in the last day which is
+typical following Exgade.
+
+Past Medical History:
+Past Medical History:
+-CAD, s/p ant MI [**2139**], with hx LCX, LAD and RCA stenosis seen on
+cardiac CT 2/[**2164**]. Never had stents or angioplasty.
+- [**4-/2165**] EF 55%; cardiology cleared for transplant
+-Angina - once weekly depending on anemia and stress levels
+normally lasting 10-15 mins and resolves with nitro. Describes
+as a squeezing central/left chest pain with no radiation usually
+but can rarely will rarely feel in these locations. No
+nausea/vomiting or sweating.
+-NPH: s/p VP shunt placement [**11/2164**] w resolution of sx
+-PVD
+-Diabetes Mellitus
+-BPH on flomax
+-OSA on CPAP with morbid obesity
+-History of possible TIA [**2162**] ? CVA - had resolution of eye
+position -abnormalities over a few days
+-Hypertension
+-Hypercholesterolemia
+-Asthma, cold-induced, not using inhalers at home
+-s/p ruptured appendix 20yrs ago
+-s/p right carotid endarterectomy several years ago
+-HSV-1 [**10/2165**]
+.
+Hematologic Hx
+Longstanding history of myelodysplastic disorder associated with
+severe pancytopenia, now red cell and platelet transfusion
+requiring. Initially diagnosed [**2160-1-30**] when his primary
+care physician, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], obtained a complete blood
+countas a part of routine maintenance physical examination. At
+that time he had anemia, a low platelet count, and a borderline
+low white blood count. He was treated briefly with azacitidine
+(Vidaza) with 4 cycles in [**State 108**] but his disease did not
+stabilize. He has been getting PRBC's and platelet tranfusions,
+as well as iron chelation with deferasirox (Exjade).
+
+Social History:
+Lives with wife in house with 13 stairs
+Able to walk to the car and can walk [**12-30**] block limited withlow
+back pain.
+He previously worked as a computer programmer and retired.
+Ex-smoker quit 20 years ago previously 3 packs per day for 25
+years.
+Alcohol -he has not had any ETOH in 2 weeks, typically drinks 2
+drinks per week. He does not use illicit drugs
+No recent foreign travel
+Pets - 1 dog and 2 cats
+
+Family History:
+Father died of melanoma
+Mother died of coronary artery disease, and hypercholesterolemia
+also had a AAA repair
+Sister who had coronary artery disease and underwent a 4-vessel
+CABG.
+Daughter is alive and healthy.
+
+Physical Exam:
+Vitals: T98.5 BP110/58 P:60 RR:18 Sa02 99RA
+General: caucasian male appering comfortable and in NAD
+HEENT: Right sided VP shunt in place. Sclera anicteric, MMM, two
+small areas of petichae on left buccal mucosa
+Neck: Well healed right CEA scar. Supple, no LAD.
+Lungs: CTABL, no wheezes, no rales or ronchi
+CV: Regular rhythm, normal S1 + S2, no MRG
+Abdomen: Midline abdominal scar well healed. bowel sounds
+normoactive no guarding, no rebound
+Ext: L>R lower extremity edema to mid calf.
+CN exam - II-XII normal, normal cerebellar function with FTS and
+HTS intact.
+
+Pertinent Results:
+ADMISSION LABS
+===============
+[**2165-6-3**] 09:05AM BLOOD WBC-1.3* RBC-2.90* Hgb-8.9* Hct-23.9*
+MCV-82 MCH-30.6 MCHC-37.3* RDW-13.1 Plt Ct-24*#
+[**2165-6-3**] 09:05AM BLOOD Neuts-15* Bands-0 Lymphs-75* Monos-7
+Eos-0 Baso-0 Atyps-3* Metas-0 Myelos-0
+[**2165-6-3**] 09:05AM BLOOD PT-12.0 PTT-25.4 INR(PT)-1.0
+[**2165-6-3**] 09:05AM BLOOD UreaN-23* Creat-1.1 Na-139 K-4.6 Cl-103
+HCO3-27 AnGap-14
+[**2165-6-3**] 09:05AM BLOOD ALT-23 AST-18 LD(LDH)-131 AlkPhos-86
+TotBili-0.8 DirBili-0.2 IndBili-0.6
+[**2165-6-3**] 09:05AM BLOOD TotProt-7.2 Albumin-4.8 Globuln-2.4
+Calcium-10.3 Phos-3.8 Mg-2.2 UricAcd-4.7
+
+MICRO
+=====
+- Multiple blood cultures (including mycolytic) and BAL cultures
+pending at the time of death.
+
+IMAGES
+======
+Head CT [**2165-6-13**]
+NON-CONTRAST HEAD CT: There is no intracranial hemorrhage,
+parenchymal edema, or mass effect. A right frontal approach
+ventriculoperitoneal shunt catheter is again identified, in
+unchanged position, with tip traversing the septum pellucidum
+and terminating in the left lateral ventricle. The ventricles
+are again symmetrically prominent, not changed in size from
+prior studies. There is no shift of midline structures, and
+there is no effacement of the basal cisterns. There is no CT
+evidence of territorial infarct. Osseous structures remain
+unremarkable, and the visualized paranasal sinuses and mastoids
+are clear. Cavernous carotid calcifications are noted.
+.
+Renal Ultrasound [**2165-6-13**]
+No hydronephrosis or other findings to explain acute renal
+failure.
+.
+CT chest [**2165-6-16**]
+1. Multifocal pneumonia which may be bacterial or fungal, with
+vasculitis a less likely consideration.
+2. Left adrenal nodule, stable compared with 10/10.
+3. Right renal stone, uncomplicated.
+4. Diverticulosis.
+.
+Abdominal ultrasound [**2165-6-18**]
+1. Normal abdominal ultrasound without gallbladder or biliary
+pathology.
+2. Echogenic focus in the interpolar region of right kidney
+likely represents milk of calcium though a nonobstructing renal
+calculi is a possibility.
+.
+MRI head w/o contrast [**2165-6-18**]
+1. High signal on FLAIR images within the cerebral sulci may be
+secondary to recent lumbar puncture, although infectious
+leptomeningitis cannot be excluded by imaging. High signal on
+FLAIR images within the dura may be related to the recent lumbar
+puncture or the VPS, but infectious pachymeningitis cannot be
+excluded by imaging. Correlation with CSF analyses is
+recommended.
+2. No evidence for cerebritis or PRES.
+3. Stable moderate ventriculomegaly. Stable VPS tip position.
+4. Bilateral small superior parietal subdural collections, right
+greater than left, similar to [**2165-6-13**] but new since [**2164-12-25**].
+They may represent hygromas secondary to the VPS. However,
+chronic subdural hematomas cannot be excluded.
+.
+CT Torso [**2165-6-22**]
+IMPRESSION: 1. Coalescent consolidation of previous multifocal
+nodular opacities within the lungs. Innumerable bilateral
+submillimeter nodules with ground-glass attenuation distributed
+throughout both lungs with relative sparing of the periphery.
+Overall findings are concerning for semi-invasive pulmonary
+aspergillosis. No cavitation noted within these coalescent areas
+of consolidation. Findings in the chest have progressed
+significantly since prior imaging. 2. Indeterminate left adrenal
+gland lesion. Further characterization with MR recommended. 3.
+Non-obstructing 4-mm right renal calculus. No intra-abdominal
+collection identified.
+
+Echo [**2165-6-23**]
+Due to suboptimal technical quality, a focal wall motion
+abnormality cannot be fully excluded. Overall left ventricular
+systolic function is severely depressed (LVEF= 20-25 %). The
+right ventricular cavity is moderately dilated with global free
+wall hypokinesis. Mild (1+) mitral regurgitation is seen. There
+is a very small pericardial effusion. There is an anterior space
+which most likely represents a prominent fat pad. Compared to
+the findings of the prior study of [**2165-5-16**], left and right
+ventricular systolic function have deteriorated significantly.
+
+Brief Hospital Course:
+66 year old M with transfusion dependent MDS, D+7 s/p allo SCT,
+normal pressure hydrocephalus, CAD, HTN and diabetes, who was
+initially electively admitted for allo SCT with clofarabine,
+total nodal radiation and anti-thymoglobulin. His course was
+complicated by febrile neutropenia and renal failure.
+
+His creatinine was 1.1 on admission and rose to > 5 following
+administration of clofarabine per SCT protocol. He developed
+metabolic acidosis and worsening confusion over the course of
+several days leading up to his transplant. On SCT day +1, he was
+febrile and started on vancomycin and cefepime. On SCT day +3,
+he was transferred to ICU for worsening mental status, increased
+respiratory distress, and renal failure. He remained febrile and
+was seen by the ID consult team and transitioned to meropenem +
+levofloxacin + voriconazole. He was intubated electively for
+multiple procedures including MRI, VP shunt tap (by
+neurosurgery), and bronchoscopy and extubated the following day.
+He was started on ambisome in place of voriconazole for positive
+galactomannan on BAL (presumed aspergillosis pneumonia). He was
+seen by the neprhology team and started on HD for presumed
+clofarabine toxicity. Mental status improved and he was called
+out to the BMT service.
+
+However, two days later he was at dialysis when he developed an
+episode of altered mental status associated with tachycardia,
+hypertension and hypoxia to 88% on 2L NC. His respiratory status
+continued to decline and he was reintubated and transferred to
+the ICU. In addition, he became hypotensive requiring pressors
+for a few hours; pressors were eventually weaned off, although
+he then developed shock liver and probable DIC requiring
+multiple transfusions. Due to electrolyte derangements CVVH was
+started as well.  His abx were broadened to double cover
+aspergillus (posaconazole+ambisome), vanc was changed to dapto
+for VRE coverage, bactrim was added for PCP [**Name Initial (PRE) 21150**].
+
+At approximately 3:12 AM on [**2165-6-24**], housestaff were called to
+evaluate the patient after his nurse noticed his A-line pressure
+[**Location (un) 1131**] dropped abruptly to SBP in the 10s-20s. On evaluation,
+he was unresponsive and did not have palpable pulses. At that
+time, back board was placed beneath patient and CPR was
+initiated. Pulseless electrical activity was noted on the
+monitor at interval 2-minute pulse checks (no shockable rhythm).
+He received epinephrine 1 mg IV x 2 doses at five minutes apart.
+ Housestaff notified the patient's wife, who requested that the
+resuscitation be stopped. At this time, CPR was stopped and he
+did not receive further vasopressors.  He did not regain a
+pulse. The monitor continued to show pulseless electrical
+activity for several minutes with slowing heart rate until
+asystole. At that time, the patient was examined and was noted
+to have no audible breath or heart sounds. His pupils were fixed
+and dilated to ~5mm. There were not signs of life evident. The
+time of death was noted to be 3:23 AM.  Attending physician [**Last Name (NamePattern4) **].
+[**First Name (STitle) **] was notified of the above events. The patient's wife was
+then contact[**Name (NI) **] regarding an autopsy and agreed to autopsy.
+
+# Access: portacath, subclavian CVL
+# Communication: Patient, Wife [**Name (NI) **] [**Name (NI) **] [**Telephone/Fax (1) 30638**] and
+daughter [**Name (NI) **]
+# [**Name2 (NI) 7092**]: FULL CODE
+
+Medications on Admission:
+BISOPROLOL FUMARATE - 10 mg Tablet [**Hospital1 **]
+ESOMEPRAZOLE MAGNESIUM [NEXIUM] - 40 mg Capsule daily
+FOLIC ACID - 1 mg Tablet - 1 Tablet(s) by mouth once a day
+INSULIN GLARGINE [LANTUS] - 100 unit/mL Solution - 28 units
+Solution(s) at bedtime
+INSULIN LISPRO [HUMALOG] - 100 unit/mL Sliding scale
+ISOSORBIDE DINITRATE - 40mg TID
+LISINOPRIL - 20 mg Tablet
+NITROGLYCERIN - 0.4 mg Tablet, Sublingual PRN chest pain
+OXYBUTYNIN CHLORIDE 5 mg Tablet - 1 Tablet(s) by mouth HS (at
+bedtime)
+PRAVASTATIN - 40 mg Tablet QPM
+TAMSULOSIN [FLOMAX] - 0.4 mg daily.
+Medications - OTC
+CHOLECALCIFEROL (VITAMIN D3) [VITAMIN D-3] 400 unit Tablet Daily
+CYANOCOBALAMIN (VITAMIN B-12) 1,000 mcg Tablet daily
+MULTIVITAMIN - 1 Tablet
+PYRIDOXINE - 100 mg daily
+Zyrtec 1 tab daily
+
+Discharge Medications:
+Expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Expired
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+
+Completed by:[**2165-6-25**]

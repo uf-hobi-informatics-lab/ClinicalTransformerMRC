@@ -1,0 +1,211 @@
+T1	Drug 111 122	Penicillins
+T2	Drug 125 137	Sulfonamides
+T3	Drug 1292 1298	zofran
+T4	Dosage 1303 1304	1
+R1	Dosage-Drug Arg1:T4 Arg2:T6
+T5	Form 1305 1306	L
+R2	Form-Drug Arg1:T5 Arg2:T6
+T6	Drug 1307 1309	NS
+T7	Drug 140 152	Erythromycin
+T8	Drug 160 169	Cortisone
+T9	Drug 172 185	Metronidazole
+T10	Drug 188 201	Ciprofloxacin
+T11	Drug 204 211	Ivp Dye
+T12	Drug 213 219	Iodine
+T13	Drug 233 242	Protamine
+T14	Drug 261 269	Morphine
+T15	Drug 272 282	Vancomycin
+T16	Drug 285 291	Flagyl
+T17	Reason 4186 4193	Malaise
+T19	Drug 4304 4313	Navelbine
+T20	Reason 4493 4505	Hyponatremia
+R3	Reason-Drug Arg1:T20 Arg2:T23
+R4	Reason-Drug Arg1:T20 Arg2:T25
+T21	Dosage 4620 4621	1
+R5	Dosage-Drug Arg1:T21 Arg2:T23
+T22	Form 4621 4622	L
+R6	Form-Drug Arg1:T22 Arg2:T23
+T23	Drug 4626 4628	NS
+T24	Form 4682 4687	liter
+R7	Form-Drug Arg1:T24 Arg2:T25
+T25	Drug 4691 4693	NS
+T26	Reason 5400 5414	Abdominal Pain
+R8	Reason-Drug Arg1:T26 Arg2:T27
+R9	Reason-Drug Arg1:T26 Arg2:T30
+T27	Drug 5742 5745	ppi
+T29	Route 5762 5764	po
+R11	Route-Drug Arg1:T29 Arg2:T30
+T30	Drug 5765 5777	anti-emetics
+T31	Reason 6277 6288	Hypothyroid
+R12	Reason-Drug Arg1:T31 Arg2:T33
+T32	Reason 6373 6384	hypothyroid
+R13	Reason-Drug Arg1:T32 Arg2:T33
+T33	Drug 6436 6449	levothyroxine
+T34	Reason 6452 6459	lung CA
+R14	Reason-Drug Arg1:T34 Arg2:T35
+R15	Reason-Drug Arg1:T34 Arg2:T36
+T35	Drug 6490 6499	navelbine
+T36	Drug 6500 6503	XRT
+T37	Reason 6506 6509	DM2
+R16	Reason-Drug Arg1:T37 Arg2:T38
+R17	Reason-Drug Arg1:T37 Arg2:T39
+T38	Drug 6530 6536	amaryl
+T39	Drug 6552 6555	ISS
+T40	Drug 6586 6592	amaryl
+T41	Strength 6593 6597	2 mg
+R18	Strength-Drug Arg1:T41 Arg2:T40
+T42	Frequency 6598 6603	daily
+R19	Frequency-Drug Arg1:T42 Arg2:T40
+T43	Drug 6604 6616	lansoprazole
+T44	Strength 6617 6622	30 mg
+R20	Strength-Drug Arg1:T44 Arg2:T43
+T45	Frequency 6623 6628	daily
+R21	Frequency-Drug Arg1:T45 Arg2:T43
+T46	Drug 6629 6638	synthroid
+T47	Strength 6639 6645	50 mcg
+R22	Strength-Drug Arg1:T47 Arg2:T46
+T48	Frequency 6646 6651	daily
+R23	Frequency-Drug Arg1:T48 Arg2:T46
+T49	Drug 6652 6661	valsartan
+T50	Strength 6662 6667	40 mg
+R24	Strength-Drug Arg1:T50 Arg2:T49
+T51	Frequency 6668 6673	daily
+R25	Frequency-Drug Arg1:T51 Arg2:T49
+T52	Drug 6674 6677	asa
+T53	Strength 6678 6683	81 mg
+R26	Strength-Drug Arg1:T53 Arg2:T52
+T54	Frequency 6684 6689	daily
+R27	Frequency-Drug Arg1:T54 Arg2:T52
+T55	Drug 6717 6730	Levothyroxine
+T56	Strength 6731 6737	50 mcg
+R28	Strength-Drug Arg1:T56 Arg2:T55
+T57	Form 6738 6744	Tablet
+R29	Form-Drug Arg1:T57 Arg2:T55
+T58	Dosage 6750 6757	One (1)
+R30	Dosage-Drug Arg1:T58 Arg2:T55
+T59	Form 6758 6764	Tablet
+R31	Form-Drug Arg1:T59 Arg2:T55
+T60	Route 6765 6767	PO
+R32	Route-Drug Arg1:T60 Arg2:T55
+T61	Frequency 6768 6773	DAILY
+R33	Frequency-Drug Arg1:T61 Arg2:T55
+T62	Drug 6786 6793	Aspirin
+T63	Strength 6794 6799	81 mg
+R34	Strength-Drug Arg1:T63 Arg2:T62
+T64	Form 6800 6816	Tablet, Chewable
+R35	Form-Drug Arg1:T64 Arg2:T62
+T65	Dosage 6822 6829	One (1)
+R36	Dosage-Drug Arg1:T65 Arg2:T62
+T66	Form 6830 6846	Tablet, Chewable
+R37	Form-Drug Arg1:T66 Arg2:T62
+T67	Route 6847 6849	PO
+R38	Route-Drug Arg1:T67 Arg2:T62
+T68	Frequency 6850 6855	DAILY
+R39	Frequency-Drug Arg1:T68 Arg2:T62
+T69	Drug 6868 6879	Glimepiride
+T70	Strength 6880 6884	2 mg
+R40	Strength-Drug Arg1:T70 Arg2:T69
+T71	Form 6885 6891	Tablet
+R41	Form-Drug Arg1:T71 Arg2:T69
+T72	Dosage 6897 6904	One (1)
+R42	Dosage-Drug Arg1:T72 Arg2:T69
+T73	Form 6905 6911	Tablet
+R43	Form-Drug Arg1:T73 Arg2:T69
+T74	Route 6912 6914	PO
+R44	Route-Drug Arg1:T74 Arg2:T69
+T75	Frequency 6915 6920	daily
+R45	Frequency-Drug Arg1:T75 Arg2:T69
+T76	Drug 6928 6937	Valsartan
+T77	Strength 6938 6943	40 mg
+R46	Strength-Drug Arg1:T77 Arg2:T76
+T78	Form 6944 6950	Tablet
+R47	Form-Drug Arg1:T78 Arg2:T76
+T79	Dosage 6956 6963	One (1)
+R48	Dosage-Drug Arg1:T79 Arg2:T76
+T80	Form 6964 6970	Tablet
+R49	Form-Drug Arg1:T80 Arg2:T76
+T81	Route 6971 6973	PO
+R50	Route-Drug Arg1:T81 Arg2:T76
+T82	Frequency 6974 6984	once a day
+R51	Frequency-Drug Arg1:T82 Arg2:T76
+T83	Drug 6989 7001	Lansoprazole
+T84	Strength 7002 7007	30 mg
+R52	Strength-Drug Arg1:T84 Arg2:T83
+T85	Form 7008 7038	Capsule, Delayed Release(E.C.)
+R53	Form-Drug Arg1:T85 Arg2:T83
+T86	Dosage 7044 7047;7048 7051	One (1)
+R54	Dosage-Drug Arg1:T86 Arg2:T83
+T87	Form 7052 7082	Capsule, Delayed Release(E.C.)
+R55	Form-Drug Arg1:T87 Arg2:T83
+T88	Route 7083 7085	PO
+R56	Route-Drug Arg1:T88 Arg2:T83
+T89	Frequency 7086 7096	once a day
+R57	Frequency-Drug Arg1:T89 Arg2:T83
+T90	Drug 7101 7111	Gabapentin
+T91	Strength 7112 7118	100 mg
+R58	Strength-Drug Arg1:T91 Arg2:T90
+T92	Form 7119 7126	Capsule
+R59	Form-Drug Arg1:T92 Arg2:T90
+T93	Dosage 7132 7139	One (1)
+R60	Dosage-Drug Arg1:T93 Arg2:T90
+T94	Form 7140 7147	Capsule
+R61	Form-Drug Arg1:T94 Arg2:T90
+T95	Route 7148 7150	PO
+R62	Route-Drug Arg1:T95 Arg2:T90
+T96	Frequency 7151 7154	TID
+R63	Frequency-Drug Arg1:T96 Arg2:T90
+T97	Reason 7185 7195	nerve pain
+R64	Reason-Drug Arg1:T97 Arg2:T90
+T98	Drug 7233 7239	Colace
+T99	Strength 7240 7246	100 mg
+R65	Strength-Drug Arg1:T99 Arg2:T98
+T100	Form 7247 7254	Capsule
+R66	Form-Drug Arg1:T100 Arg2:T98
+T101	Dosage 7260 7267	One (1)
+R67	Dosage-Drug Arg1:T101 Arg2:T98
+T102	Form 7268 7275	Capsule
+R68	Form-Drug Arg1:T102 Arg2:T98
+T103	Route 7276 7278	PO
+R69	Route-Drug Arg1:T103 Arg2:T98
+T104	Frequency 7279 7290	twice a day
+R70	Frequency-Drug Arg1:T104 Arg2:T98
+T105	Reason 7295 7315	prevent constipation
+R71	Reason-Drug Arg1:T105 Arg2:T98
+T106	Drug 7353 7358	Senna
+T107	Strength 7359 7365	8.6 mg
+R72	Strength-Drug Arg1:T107 Arg2:T106
+T108	Form 7366 7373	Capsule
+R73	Form-Drug Arg1:T108 Arg2:T106
+T109	Dosage 7379 7386	One (1)
+R74	Dosage-Drug Arg1:T109 Arg2:T106
+T110	Form 7387 7394	Capsule
+R75	Form-Drug Arg1:T110 Arg2:T106
+T111	Route 7395 7397	PO
+R76	Route-Drug Arg1:T111 Arg2:T106
+T112	Frequency 7398 7412;7413 7419	twice a day as needed
+R77	Frequency-Drug Arg1:T112 Arg2:T106
+T113	Reason 7424 7436	constipation
+R78	Reason-Drug Arg1:T113 Arg2:T106
+T114	Reason 7456 7476	relieve constipation
+R79	Reason-Drug Arg1:T114 Arg2:T106
+T115	Reason 8370 8381	hypothyroid
+R80	Reason-Drug Arg1:T115 Arg2:T116
+T116	Drug 8425 8441	thyroid medicine
+T117	Drug 8481 8499	thyroid medication
+T118	Dosage 8634 8637	two
+R81	Dosage-Drug Arg1:T118 Arg2:T120
+T119	Form 8638 8643	units
+R82	Form-Drug Arg1:T119 Arg2:T120
+T120	Drug 8647 8652	blood
+T121	Reason 8902 8919;8920 8927	degenerative disc disease
+R83	Reason-Drug Arg1:T121 Arg2:T122
+R84	Reason-Drug Arg1:T121 Arg2:T122
+T122	Drug 8968 8978;8979 8990	gabapentin (Neurontin)
+T123	Strength 8991 8996	100mg
+R85	Strength-Drug Arg1:T123 Arg2:T122
+T124	Frequency 8997 9014	three times a day
+R86	Frequency-Drug Arg1:T124 Arg2:T122
+T125	Drug 9184 9196	chemotherapy
+T126	Drug 947 959	chemotherapy
+T18	Route 5755 5757	IV
+R10	Route-Drug Arg1:T18 Arg2:T30	

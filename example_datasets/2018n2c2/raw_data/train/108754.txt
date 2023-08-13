@@ -1,0 +1,310 @@
+Admission Date:  [**2158-4-27**]              Discharge Date:   [**2158-5-8**]
+
+Date of Birth:  [**2085-8-9**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+[**2158-5-3**] - Urgent off-pump coronary artery bypass graft x4, left
+internal mammary artery to left anterior descending artery and
+saphenous vein grafts to diagonal, obtuse marginal and posterior
+descending arteries.
+
+
+History of Present Illness:
+Mr. [**Known lastname 26644**] is [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 664**] 72 yo with known coronary disease,
+s/p MI'[**41**] s/p PCI/stent, s/p PCI [**2155**] now with increasing
+episodes of chest tightness and
+shortness of breath with exertion with minimal walking or
+bending over.  He denies any history of chest pain.  A stress
+test in [**Month (only) 404**] revealed moderate ischemia in the inferior
+posterior region with normal LV size and an EF of 52% with
+inferior hypokinesis.  He had a cardiac cath which showed EF
+60%, 45%LM, 99% subtotal mid -distal RCA lesion with L-R
+collaterals, 85%mLAD, diffuse 50-60%mLCx.  He was transfered for
+CABG.
+
+
+Past Medical History:
+coronary artery disease
+s/p MI '[**41**]
+s/p PTCA/stent '[**41**]
+s/p PCI [**2155**]
+hypertension
+diabetes
+chronic kidney disease
+hyperlipidemia
+anemia
+benign prostatic hypertrophy
+colon polyps
+peptic ulcer disease-s/p bleed requiring 2uPRBC
+spinal stenosis
+COPB/chronic bronchitis/possible asbestosis
+
+
+Social History:
+Lives with: wife
+Cigarettes: Smoked no [] yes [x] last cigarette [**2138**]
+Hx:1-2ppd/many years
+ETOH: [**2-21**] drinks/week [x]
+Illicit drug use-no
+
+Family History:
+None noted
+
+Physical Exam:
+Pulse:79 Resp:14  O2 sat:98% on RA
+B/P  Right: 158/99
+Height:5'9"     Weight:243 lbs
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs fine rhonchi L base, otherwise clear
+Heart: RRR [x]  Irregular []  Murmur-none [] grade ______
+Abdomen: Soft [x] obese, non-distended [x] non-tender [x]  +BS
+[x]
+Extremities: Warm [x], well-perfused [x]  Edema [] __
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 2+  Left:2+
+DP           Right: 2+  Left:2+
+PT           [**Name (NI) 167**]:2+   Left:2+
+Radial       Right:2+   Left:2+
+
+Carotid Bruit        Right:none    Left:none
+
+
+Pertinent Results:
+[**2158-4-28**] Carotid Ultrasouond
+Impression: Right ICA less than 40% stenosis. Left ICA less than
+40% stenosis.
+
+[**2158-5-3**] ECHO
+Left ventricular wall thickness, cavity size, and global
+systolic function are normal (LVEF>55%). Overall left
+ventricular systolic function is normal (LVEF>55%). Right
+ventricular chamber size and free wall motion are normal. Right
+ventricular chamber size is normal. There are complex (>4mm)
+atheroma in the ascending aorta. There are complex (>4mm)
+atheroma in the aortic arch. There are complex (>4mm) atheroma
+in the descending thoracic aorta. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion and no
+aortic stenosis. Mild (1+) aortic regurgitation is seen. The
+mitral valve leaflets are structurally normal. Moderate (2+)
+mitral regurgitation is seen when BP>150, mild when BP @ 11O
+systolic
+Post OPCABGX4
+Patient is on a neosynephrine drip at 0.6 mcg/kg/min
+LV Function is preserved at 55%
+No RWMA,the valvular exam is similar to prebypass with no change
+Aorta is intact with no visible dissection flaps
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2158-5-7**] 8:44
+AM
+Final Report
+Compared with [**2158-5-5**] at 11:41 a.m., the bilateral chest tubes
+have been
+pulled. There are low inspiratory volumes. No pneumothorax is
+detected.
+Patchy opacity at the left base again noted, slightly improved.
+Blunting of the right greater than left costophrenic angles is
+also grossly unchanged.  Upper zone redistribution, without CHF.
+Sternotomy wires and
+cardiomediastinal prominence again noted, unchanged.
+IMPRESSION: Interval removal of chest tubes. No pneumothorax is
+detected.
+Small R>L effusions are grossly unchanged.
+Pre-op Labs:
+[**2158-4-27**] 09:40PM   PT-11.8 PTT-29.2 INR(PT)-1.1
+[**2158-4-27**] 09:40PM   PLT COUNT-217
+[**2158-4-27**] 09:40PM   WBC-5.5 RBC-3.73* HGB-11.3* HCT-34.1* MCV-91
+MCH-30.4 MCHC-33.2 RDW-13.1
+[**2158-4-27**] 09:40PM   ALBUMIN-4.3 CALCIUM-9.1 PHOSPHATE-3.0
+MAGNESIUM-2.2
+[**2158-4-27**] 09:40PM   LIPASE-47 %HbA1c-5.6 eAG-114
+[**2158-4-27**] 09:40PM   ALT(SGPT)-38 AST(SGOT)-32 ALK PHOS-24*
+AMYLASE-75 TOT BILI-0.2
+[**2158-4-27**] 09:40PM   GLUCOSE-101* UREA N-24* CREAT-1.6* SODIUM-137
+POTASSIUM-4.3 CHLORIDE-103 TOTAL CO2-25 ANION GAP-13
+Discharge labs:
+[**2158-5-8**] 03:45AM BLOOD WBC-5.7 RBC-3.08* Hgb-9.3* Hct-28.2*
+MCV-92 MCH-30.2 MCHC-33.0 RDW-13.6 Plt Ct-237
+[**2158-5-8**] 03:45AM BLOOD Plt Ct-237
+[**2158-5-8**] 03:45AM BLOOD Glucose-109* UreaN-31* Creat-1.6* Na-134
+K-4.0 Cl-96 HCO3-27 AnGap-15
+
+Brief Hospital Course:
+Mr. [**Known lastname 26644**] was admitted to the [**Hospital1 18**] on [**2158-4-27**] for
+surgical management of his coronary artery disease. He was
+worked-up in the usual preoperative manner including a carotid
+duplex ultrasound which showed less then a 40% stenosis
+bilaterally. Plavix was allowed to washout of his system. On
+[**2158-5-3**], Mr. [**Known lastname 26644**] was taken to the operating room where
+he underwent off pump coronary artery bypass grafting. Please
+see operative note for details.
+In summary he had:
+1. Urgent off-pump coronary artery bypass graft x4, left
+internal mammary artery to left anterior descending artery and
+saphenous vein grafts to diagonal, obtuse    marginal and
+posterior descending arteries.
+2. Endoscopic harvesting of the long saphenous vein.
+Postoperatively he was taken to the intensive care unit for
+monitoring. He woke neurologically intact and was extubated.
+Amiodarone was started for rapid atrial fibrillation. He
+required close monitoring of his pulmonary status. After
+aggressive diuresis and weaning from pressor support he was
+transferred on postoperative day four to the step down unit for
+further recovery. The remainder of his hospital stay was
+uneventful, he worked with physical therapy and nursing to
+increase his  strength and mobility. On POD5 he was discharged
+home with visiting nurses and home physical therapy.
+
+Medications on Admission:
+advair diskus 100-50 1 puff twice daily
+omega 3 and omega6 fish oil 600mg twice daily
+loratadine 10mg daily
+prilosec 20mg every other day
+rhinocort aqua 2 sprays both nostrils as needed
+niacin 1000mg twice daily
+lisinopril 20mg twice daily
+plavix 75 mg daily
+metformin 500mg twice daily-stopped [**4-20**] d/t elevated creat
+zetia 10mg daily
+metoprolol tartrate 75 mg twice daily
+pravachol 20mg daily
+fenofibrate micronized 200mg daily
+
+
+Discharge Medications:
+1. Keflex 500 mg Capsule Sig: One (1) Capsule PO twice a day for
+10 days.
+Disp:*20 Capsule(s)* Refills:*0*
+2. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*1*
+4. pravastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*1*
+5. fenofibrate micronized 145 mg Tablet Sig: One (1) Tablet PO
+once a day.
+Disp:*30 Tablet(s)* Refills:*1*
+6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*1*
+7. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 1 months.
+Disp:*30 Tablet(s)* Refills:*0*
+8. isosorbide mononitrate 30 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily) for
+3 months.
+Disp:*30 Tablet Extended Release 24 hr(s)* Refills:*2*
+9. ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+10. amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day): 400mg [**Hospital1 **] x5days then 400mg QD x1 wk then 200mg QD.
+Disp:*60 Tablet(s)* Refills:*1*
+11. metoprolol tartrate 25 mg Tablet Sig: Three (3) Tablet PO
+TID (3 times a day).
+Disp:*270 Tablet(s)* Refills:*1*
+12. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain/temp.
+13. metformin 500 mg Tablet Sig: 0.5 Tablet PO BID (2 times a
+day).
+Disp:*30 Tablet(s)* Refills:*1*
+14. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+15. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day
+for 10 days.
+Disp:*10 Tablet(s)* Refills:*0*
+16. potassium chloride 10 mEq Tablet Extended Release Sig: Two
+(2) Tablet Extended Release PO Q12H (every 12 hours) for 10
+days.
+Disp:*40 Tablet Extended Release(s)* Refills:*0*
+17. fluticasone-salmeterol 100-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+18. Atrovent HFA 17 mcg/actuation HFA Aerosol Inhaler Sig: Two
+(2) puffs Inhalation twice a day.
+Disp:*1 inhaler* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 7665**] Homecare Services
+
+Discharge Diagnosis:
+coronary artery disease
+s/p MI '[**41**]
+s/p PTCA/stent '[**41**]
+s/p PCI [**2155**]
+hypertension
+diabetes
+chronic kidney disease
+hyperlipidemia
+anemia
+benign prostatic hypertrophy
+colon polyps
+peptic ulcer disease-s/p bleed requiring 2uPRBC
+spinal stenosis
+COPB/chronic bronchitis/possible asbestosis
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with Dilaudid
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Left - healing well, no erythema or drainage.
+Edema 2+ bilat
+
+
+Discharge Instructions:
+1) Please shower daily including washing incisions gently with
+mild soap, no baths or swimming until cleared by surgeon. Look
+at your incisions daily for redness or drainage.
+2) Please NO lotions, cream, powder, or ointments to incisions.
+3) Each morning you should weigh yourself and then in the
+evening take your temperature, these should be written down on
+the chart provided.
+4) No driving for one month or while taking narcotics. Driving
+will be discussed at follow up appointment with surgeon.
+5) No lifting more than 10 pounds for 10 weeks
+6) Please call with any questions or concerns [**Telephone/Fax (1) 170**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments:
+WOUND CARE Clinic: Phone:[**Telephone/Fax (1) 170**] Date/Time:[**2158-5-16**] 10:15
+Surgeon: Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **], MD Phone:[**Telephone/Fax (1) 170**]
+Date/Time:[**2158-6-6**] 1:00
+Cardiologist: [**Doctor Last Name 5017**] [**2158-5-29**] at 3:45p
+
+Please call to schedule appointments with your
+Primary Care Dr. [**Last Name (STitle) 39676**],RULA [**Telephone/Fax (1) 39677**] in [**4-20**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call
+person during off hours**
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]
+
+Completed by:[**2158-5-8**]

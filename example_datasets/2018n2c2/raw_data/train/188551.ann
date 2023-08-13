@@ -1,0 +1,167 @@
+T1	Drug 165 175	Lisinopril
+T2	Drug 178 190	Atorvastatin
+T3	Drug 4353 4361	dilantin
+T4	Drug 4628 4636	dilantin
+T5	Reason 4641 4660	seizure prophylaxis
+R1	Reason-Drug Arg1:T5 Arg2:T4
+T6	Drug 4704 4712	dilantin
+T7	ADE 4854 4858	rash
+R2	ADE-Drug Arg1:T7 Arg2:T8
+T8	Drug 4908 4916	dilantin
+T10	Drug 5103 5115	levofloxacin
+T11	Duration 5122 5124;5125 5128	10 day
+R3	Duration-Drug Arg1:T11 Arg2:T10
+T12	Drug 5257 5264	actonel
+T13	Drug 5266 5273	aricept
+T14	Drug 5275 5278	asa
+T15	Strength 5279 5281	81
+R4	Strength-Drug Arg1:T15 Arg2:T14
+T16	Drug 5283 5291	cymbalta
+T17	Drug 5293 5301	protonix
+T18	Drug 5303 5309	advair
+T19	Drug 5311 5320	cardia xt
+T20	Drug 5322 5332	risperidal
+T21	Drug 5334 5341	calcium
+T22	Drug 5343 5353	metoprolol
+T23	Drug 5355 5364	neurontin
+T24	Strength 5365 5368	300
+R5	Strength-Drug Arg1:T24 Arg2:T23
+T25	Frequency 5369 5372	qhs
+R6	Frequency-Drug Arg1:T25 Arg2:T23
+T26	Drug 5374 5382	glucagon
+T27	Frequency 5383 5386	prn
+R7	Frequency-Drug Arg1:T27 Arg2:T26
+T28	Reason 5387 5399	hypoglycemia
+R8	Reason-Drug Arg1:T28 Arg2:T26
+T29	Drug 5401 5409	dulcolax
+T30	Drug 5411 5417	lantus
+T31	Strength 5418 5426	16 units
+R9	Strength-Drug Arg1:T31 Arg2:T30
+T32	Frequency 5427 5430	qam
+R10	Frequency-Drug Arg1:T32 Arg2:T30
+T33	Drug 5432 5439	humalog
+T34	Dosage 5440 5453	sliding scale
+R11	Dosage-Drug Arg1:T34 Arg2:T33
+T35	Drug 5482 5490	Nystatin
+T36	Strength 5491 5506	100,000 unit/mL
+R12	Strength-Drug Arg1:T36 Arg2:T35
+T37	Form 5507 5517	Suspension
+R13	Form-Drug Arg1:T37 Arg2:T35
+T38	Dosage 5523 5531	Five (5)
+R14	Dosage-Drug Arg1:T38 Arg2:T35
+T39	Form 5532 5534	ML
+R15	Form-Drug Arg1:T39 Arg2:T35
+T40	Route 5535 5537	PO
+R16	Route-Drug Arg1:T40 Arg2:T35
+T41	Frequency 5538 5541;5542 5567	QID (4 times a day) as needed
+R17	Frequency-Drug Arg1:T41 Arg2:T35
+T42	Drug 5572 5584	Lansoprazole
+T43	Strength 5585 5590	30 mg
+R18	Strength-Drug Arg1:T43 Arg2:T42
+T44	Form 5591 5621	Capsule, Delayed Release(E.C.)
+R19	Form-Drug Arg1:T44 Arg2:T42
+T45	Dosage 5627 5630;5631 5634	One (1)
+R20	Dosage-Drug Arg1:T45 Arg2:T42
+T46	Form 5635 5665	Capsule, Delayed Release(E.C.)
+R21	Form-Drug Arg1:T46 Arg2:T42
+T47	Route 5666 5668	PO
+R22	Route-Drug Arg1:T47 Arg2:T42
+T48	Frequency 5669 5674	DAILY
+R23	Frequency-Drug Arg1:T48 Arg2:T42
+T49	Drug 5687 5706	Levofloxacin in D5W
+T50	Strength 5707 5719	250 mg/50 mL
+R24	Strength-Drug Arg1:T50 Arg2:T49
+T51	Form 5720 5729	Piggyback
+R25	Form-Drug Arg1:T51 Arg2:T49
+T52	Dosage 5735 5742	One (1)
+R26	Dosage-Drug Arg1:T52 Arg2:T49
+T53	Route 5743 5754	Intravenous
+R27	Route-Drug Arg1:T53 Arg2:T49
+T54	Frequency 5756 5760;5762 5776	Q24H (every 24 hours
+R28	Frequency-Drug Arg1:T54 Arg2:T49
+T55	Duration 5778 5788	for 7 days
+R29	Duration-Drug Arg1:T55 Arg2:T49
+T56	Drug 5793 5817	Heparin Sodium (Porcine)
+T57	Strength 5818 5831	5,000 unit/mL
+R30	Strength-Drug Arg1:T57 Arg2:T56
+T58	Form 5832 5840	Solution
+R31	Form-Drug Arg1:T58 Arg2:T56
+T59	Dosage 5846 5853	One (1)
+R32	Dosage-Drug Arg1:T59 Arg2:T56
+T60	Route 5854 5863	Injection
+R33	Route-Drug Arg1:T60 Arg2:T56
+T61	Frequency 5864 5867	tid
+R34	Frequency-Drug Arg1:T61 Arg2:T56
+T62	Drug 5872 5881	Albuterol
+T63	Strength 5882 5898	90 mcg/Actuation
+R35	Strength-Drug Arg1:T63 Arg2:T62
+T64	Form 5899 5906	Aerosol
+R36	Form-Drug Arg1:T64 Arg2:T62
+T65	Dosage 5912 5915	1-2
+R37	Dosage-Drug Arg1:T65 Arg2:T62
+T66	Form 5916 5921	Puffs
+R38	Form-Drug Arg1:T66 Arg2:T62
+T67	Route 5922 5932	Inhalation
+R39	Route-Drug Arg1:T67 Arg2:T62
+T68	Frequency 5933 5938;5940 5969	Q4-6H (every 4 to 6 hours) as needed
+R40	Frequency-Drug Arg1:T68 Arg2:T62
+T69	Reason 5974 5980	wheeze
+R41	Reason-Drug Arg1:T69 Arg2:T62
+T70	Drug 5985 6004	Ipratropium Bromide
+T71	Strength 6005 6021	18 mcg/Actuation
+R42	Strength-Drug Arg1:T71 Arg2:T70
+T72	Form 6022 6029	Aerosol
+R43	Form-Drug Arg1:T72 Arg2:T70
+T73	Dosage 6035 6042	Two (2)
+R44	Dosage-Drug Arg1:T73 Arg2:T70
+T74	Form 6043 6047	Puff
+R45	Form-Drug Arg1:T74 Arg2:T70
+T75	Route 6048 6058	Inhalation
+R46	Route-Drug Arg1:T75 Arg2:T70
+T76	Frequency 6059 6095	Q4-6H (every 4 to 6 hours) as needed
+R47	Frequency-Drug Arg1:T76 Arg2:T70
+T77	Reason 6100 6106	wheeze
+R48	Reason-Drug Arg1:T77 Arg2:T70
+T78	Drug 6112 6131	Metoprolol Tartrate
+T79	Strength 6132 6137	25 mg
+R49	Strength-Drug Arg1:T79 Arg2:T78
+T80	Form 6138 6144	Tablet
+R50	Form-Drug Arg1:T80 Arg2:T78
+T81	Dosage 6150 6153	1.5
+R51	Dosage-Drug Arg1:T81 Arg2:T78
+T82	Form 6154 6161	Tablets
+R52	Form-Drug Arg1:T82 Arg2:T78
+T83	Route 6162 6164	PO
+R53	Route-Drug Arg1:T83 Arg2:T78
+T84	Frequency 6165 6168	TID
+R54	Frequency-Drug Arg1:T84 Arg2:T78
+T85	Drug 6189 6199	Furosemide
+T86	Strength 6200 6205	80 mg
+R55	Strength-Drug Arg1:T86 Arg2:T85
+T87	Form 6206 6212	Tablet
+R56	Form-Drug Arg1:T87 Arg2:T85
+T88	Dosage 6218 6225	One (1)
+R57	Dosage-Drug Arg1:T88 Arg2:T85
+T89	Form 6226 6232	Tablet
+R58	Form-Drug Arg1:T89 Arg2:T85
+T90	Route 6233 6235	PO
+R59	Route-Drug Arg1:T90 Arg2:T85
+T91	Frequency 6236 6239	BID
+R60	Frequency-Drug Arg1:T91 Arg2:T85
+T92	Drug 6260 6267	Insulin
+T93	Drug 6292 6299	insulin
+T94	Dosage 6300 6313	sliding scale
+R61	Dosage-Drug Arg1:T94 Arg2:T93
+R62	Dosage-Drug Arg1:T94 Arg2:T92
+T95	Drug 6315 6323	Glargine
+T96	Dosage 6324 6332	12 units
+R63	Dosage-Drug Arg1:T96 Arg2:T95
+T97	Frequency 6333 6337	q am
+R64	Frequency-Drug Arg1:T97 Arg2:T95
+T98	Reason 787 804	pulmonary embolus
+R65	Reason-Drug Arg1:T98 Arg2:T99
+T99	Drug 839 846	lovenox
+T9	Frequency 5756 5777	Q24H (every 24 hours)
+R66	Frequency-Drug Arg1:T9 Arg2:T49	
+T100	Frequency 5933 5969	Q4-6H (every 4 to 6 hours) as needed
+R67	Frequency-Drug Arg1:T100 Arg2:T62	

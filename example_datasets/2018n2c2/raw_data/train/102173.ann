@@ -1,0 +1,262 @@
+T1	Drug 109 120	Amoxicillin
+T2	Drug 123 134	Penicillins
+T3	Reason 1244 1249	DM II
+R1	Reason-Drug Arg1:T3 Arg2:T4
+T4	Drug 1254 1261	insulin
+T5	Drug 137 145	Coumadin
+T6	Drug 148 157	Oxycodone
+T7	Drug 160 169	Megestrol
+T8	Drug 170 177	Acetate
+T9	Drug 180 187	Remeron
+T10	Drug 190 197	Ritalin
+T11	Drug 1919 1932	dexamethasone
+T12	Route 1933 1942	injection
+R2	Route-Drug Arg1:T12 Arg2:T11
+T13	Drug 4225 4234	Phenytoin
+T14	Strength 4235 4246	125 mg/5 mL
+R3	Strength-Drug Arg1:T14 Arg2:T13
+T15	Form 4247 4257	Suspension
+R4	Form-Drug Arg1:T15 Arg2:T13
+T16	Dosage 4263 4266;4267 4270	One (1)
+R5	Dosage-Drug Arg1:T16 Arg2:T13
+T17	Route 4272 4274	PO
+R6	Route-Drug Arg1:T17 Arg2:T13
+T18	Frequency 4275 4278	TID
+R7	Frequency-Drug Arg1:T18 Arg2:T13
+T19	Drug 4299 4318	Metoprolol Tartrate
+T20	Strength 4319 4324	25 mg
+R8	Strength-Drug Arg1:T20 Arg2:T19
+T21	Form 4325 4331	Tablet
+R9	Form-Drug Arg1:T21 Arg2:T19
+T22	Dosage 4337 4340;4341 4344	One (1)
+R10	Dosage-Drug Arg1:T22 Arg2:T19
+T23	Form 4345 4351	Tablet
+R11	Form-Drug Arg1:T23 Arg2:T19
+T24	Route 4352 4354	PO
+R12	Route-Drug Arg1:T24 Arg2:T19
+T25	Frequency 4355 4358	BID
+R13	Frequency-Drug Arg1:T25 Arg2:T19
+T26	Drug 4379 4392	Acetaminophen
+T27	Strength 4393 4399	325 mg
+R14	Strength-Drug Arg1:T27 Arg2:T26
+T28	Form 4400 4406	Tablet
+R15	Form-Drug Arg1:T28 Arg2:T26
+T29	Dosage 4412 4415	1-2
+R16	Dosage-Drug Arg1:T29 Arg2:T26
+T30	Form 4416 4423	Tablets
+R17	Form-Drug Arg1:T30 Arg2:T26
+T31	Route 4424 4426	PO
+R18	Route-Drug Arg1:T31 Arg2:T26
+T32	Frequency 4427 4439;4440 4456	Q6H (every 6 hours) as needed
+R19	Frequency-Drug Arg1:T32 Arg2:T26
+T33	Reason 4461 4465	pain
+R20	Reason-Drug Arg1:T33 Arg2:T26
+T34	Drug 4470 4488	Miconazole Nitrate
+T36	Form 4493 4499	Powder
+R22	Form-Drug Arg1:T36 Arg2:T34
+T38	Route 4518 4525	Topical
+R24	Route-Drug Arg1:T38 Arg2:T34
+T39	Frequency 4544 4568	2 times a day) as needed
+R25	Frequency-Drug Arg1:T39 Arg2:T34
+T40	Reason 4573 4577	rash
+R26	Reason-Drug Arg1:T40 Arg2:T34
+T41	Drug 4582 4587	Senna
+T42	Strength 4588 4594	8.6 mg
+R27	Strength-Drug Arg1:T42 Arg2:T41
+T43	Form 4595 4601	Tablet
+R28	Form-Drug Arg1:T43 Arg2:T41
+T44	Dosage 4607 4610;4611 4614	One (1)
+R29	Dosage-Drug Arg1:T44 Arg2:T41
+T45	Form 4615 4621	Tablet
+R30	Form-Drug Arg1:T45 Arg2:T41
+T46	Route 4622 4624	PO
+R31	Route-Drug Arg1:T46 Arg2:T41
+T47	Frequency 4625 4639;4640 4654	BID (2 times a day) as needed
+R32	Frequency-Drug Arg1:T47 Arg2:T41
+T48	Reason 4659 4671	constipation
+R33	Reason-Drug Arg1:T48 Arg2:T41
+T49	Drug 4676 4691	Docusate Sodium
+T50	Strength 4692 4702	50 mg/5 mL
+R34	Strength-Drug Arg1:T50 Arg2:T49
+T51	Form 4703 4709	Liquid
+R35	Form-Drug Arg1:T51 Arg2:T49
+T52	Dosage 4715 4726	Ten (10) mL
+R36	Dosage-Drug Arg1:T52 Arg2:T49
+T53	Route 4727 4729	PO
+R37	Route-Drug Arg1:T53 Arg2:T49
+T54	Frequency 4730 4733	BID
+R38	Frequency-Drug Arg1:T54 Arg2:T49
+T55	Drug 4754 4770	Insulin Glargine
+T56	Strength 4771 4782	100 unit/mL
+R39	Strength-Drug Arg1:T56 Arg2:T55
+T57	Form 4783 4792	Cartridge
+R40	Form-Drug Arg1:T57 Arg2:T55
+T58	Dosage 4798 4811	Six (6) Units
+R41	Dosage-Drug Arg1:T58 Arg2:T55
+T59	Route 4812 4824	Subcutaneous
+R42	Route-Drug Arg1:T59 Arg2:T55
+T60	Frequency 4825 4835	at bedtime
+R43	Frequency-Drug Arg1:T60 Arg2:T55
+T61	Drug 4840 4847	Heparin
+T62	Strength 4858 4871	5,000 unit/mL
+R44	Strength-Drug Arg1:T62 Arg2:T61
+T63	Form 4872 4880	Solution
+R45	Form-Drug Arg1:T63 Arg2:T61
+T64	Dosage 4886 4896	One (1) mL
+R46	Dosage-Drug Arg1:T64 Arg2:T61
+T65	Route 4897 4906	Injection
+R47	Route-Drug Arg1:T65 Arg2:T61
+T66	Frequency 4907 4910;4911 4926	TID (3 times a day)
+R48	Frequency-Drug Arg1:T66 Arg2:T61
+T67	Drug 4931 4938	Aspirin
+T68	Strength 4939 4944	81 mg
+R49	Strength-Drug Arg1:T68 Arg2:T67
+T69	Form 4945 4951	Tablet
+R50	Form-Drug Arg1:T69 Arg2:T67
+T70	Dosage 4957 4960;4961 4964	One (1)
+R51	Dosage-Drug Arg1:T70 Arg2:T67
+T71	Form 4965 4971	Tablet
+R52	Form-Drug Arg1:T71 Arg2:T67
+T72	Route 4972 4974	PO
+R53	Route-Drug Arg1:T72 Arg2:T67
+T73	Frequency 4975 4985	once a day
+R54	Frequency-Drug Arg1:T73 Arg2:T67
+T74	Drug 5015 5024	Phenytoin
+T75	Strength 5025 5036	125 mg/5 mL
+R55	Strength-Drug Arg1:T75 Arg2:T74
+T76	Form 5037 5047	Suspension
+R56	Form-Drug Arg1:T76 Arg2:T74
+T77	Dosage 5083 5090	125) mg
+R57	Dosage-Drug Arg1:T77 Arg2:T74
+T78	Route 5091 5093	PO
+R58	Route-Drug Arg1:T78 Arg2:T74
+T79	Frequency 5094 5097;5098 5113	TID (3 times a day)
+R59	Frequency-Drug Arg1:T79 Arg2:T74
+T80	Drug 5118 5137	Metoprolol Tartrate
+T81	Strength 5138 5143	25 mg
+R60	Strength-Drug Arg1:T81 Arg2:T80
+T82	Form 5144 5150	Tablet
+R61	Form-Drug Arg1:T82 Arg2:T80
+T83	Dosage 5156 5159;5160 5163	One (1)
+R62	Dosage-Drug Arg1:T83 Arg2:T80
+T84	Form 5164 5170	Tablet
+R63	Form-Drug Arg1:T84 Arg2:T80
+T85	Route 5171 5173	PO
+R64	Route-Drug Arg1:T85 Arg2:T80
+T86	Frequency 5174 5177	BID
+R65	Frequency-Drug Arg1:T86 Arg2:T80
+T87	Drug 5198 5211	Acetaminophen
+T88	Strength 5212 5218	325 mg
+R66	Strength-Drug Arg1:T88 Arg2:T87
+T89	Form 5219 5225	Tablet
+R67	Form-Drug Arg1:T89 Arg2:T87
+T90	Dosage 5231 5234	1-2
+R68	Dosage-Drug Arg1:T90 Arg2:T87
+T91	Form 5235 5242	Tablets
+R69	Form-Drug Arg1:T91 Arg2:T87
+T92	Route 5243 5245	PO
+R70	Route-Drug Arg1:T92 Arg2:T87
+T93	Frequency 5246 5258;5259 5275	Q6H (every 6 hours) as needed
+R71	Frequency-Drug Arg1:T93 Arg2:T87
+T94	Reason 5280 5284	pain
+R72	Reason-Drug Arg1:T94 Arg2:T87
+T95	Drug 5289 5307	Miconazole Nitrate
+T97	Form 5312 5317	Cream
+R74	Form-Drug Arg1:T97 Arg2:T95
+T99	Route 5336 5343	Topical
+R76	Route-Drug Arg1:T99 Arg2:T95
+T101	Reason 5391 5397	fungus
+R78	Reason-Drug Arg1:T101 Arg2:T95
+T102	Drug 5402 5407	Senna
+T103	Strength 5408 5414	8.6 mg
+R79	Strength-Drug Arg1:T103 Arg2:T102
+T104	Form 5415 5421	Tablet
+R80	Form-Drug Arg1:T104 Arg2:T102
+T105	Dosage 5427 5434	One (1)
+R81	Dosage-Drug Arg1:T105 Arg2:T102
+T106	Form 5435 5441	Tablet
+R82	Form-Drug Arg1:T106 Arg2:T102
+T107	Route 5442 5444	PO
+R83	Route-Drug Arg1:T107 Arg2:T102
+T108	Frequency 5445 5447	HS
+R84	Frequency-Drug Arg1:T108 Arg2:T102
+T109	Drug 5465 5471	Colace
+T110	Strength 5472 5482	50 mg/5 mL
+R85	Strength-Drug Arg1:T110 Arg2:T109
+T111	Form 5483 5489	Liquid
+R86	Form-Drug Arg1:T111 Arg2:T109
+T112	Dosage 5495 5515	One Hundred (100) mg
+R87	Dosage-Drug Arg1:T112 Arg2:T109
+T113	Route 5516 5518	PO
+R88	Route-Drug Arg1:T113 Arg2:T109
+T114	Frequency 5519 5526;5527 5540	twice a day as needed
+R89	Frequency-Drug Arg1:T114 Arg2:T109
+T115	Reason 5545 5557	constipation
+R90	Reason-Drug Arg1:T115 Arg2:T109
+T116	Drug 5562 5568	Lantus
+T117	Strength 5569 5580	100 unit/mL
+R91	Strength-Drug Arg1:T117 Arg2:T116
+T118	Form 5581 5589	Solution
+R92	Form-Drug Arg1:T118 Arg2:T116
+T119	Dosage 5595 5608	Six (6) Units
+R93	Dosage-Drug Arg1:T119 Arg2:T116
+T120	Route 5609 5621	Subcutaneous
+R94	Route-Drug Arg1:T120 Arg2:T116
+T121	Frequency 5622 5632	at bedtime
+R95	Frequency-Drug Arg1:T121 Arg2:T116
+T122	Drug 5637 5644	Aspirin
+T123	Strength 5645 5650	81 mg
+R96	Strength-Drug Arg1:T123 Arg2:T122
+T124	Form 5651 5667	Tablet, Chewable
+R97	Form-Drug Arg1:T124 Arg2:T122
+T125	Dosage 5673 5676;5677 5680	One (1)
+R98	Dosage-Drug Arg1:T125 Arg2:T122
+T126	Form 5681 5697	Tablet, Chewable
+R99	Form-Drug Arg1:T126 Arg2:T122
+T127	Route 5698 5700	PO
+R100	Route-Drug Arg1:T127 Arg2:T122
+T128	Frequency 5701 5706;5707 5714	DAILY (Daily)
+R101	Frequency-Drug Arg1:T128 Arg2:T122
+T129	Drug 5719 5736	Heparin (Porcine)
+T130	Strength 5737 5750	5,000 unit/mL
+R102	Strength-Drug Arg1:T130 Arg2:T129
+T131	Form 5751 5759	Solution
+R103	Form-Drug Arg1:T131 Arg2:T129
+T132	Dosage 5765 5776;5777 5782	5000 (5000) units
+R104	Dosage-Drug Arg1:T132 Arg2:T129
+T133	Route 5783 5795	SC Injection
+R105	Route-Drug Arg1:T133 Arg2:T129
+T134	Frequency 5796 5799;5800 5815	TID (3 times a day)
+R106	Frequency-Drug Arg1:T134 Arg2:T129
+T135	Drug 5821 5842	Heparin, Porcine (PF)
+T136	Strength 5843 5853	10 unit/mL
+R107	Strength-Drug Arg1:T136 Arg2:T135
+T137	Form 5854 5861	Syringe
+R108	Form-Drug Arg1:T137 Arg2:T135
+T138	Dosage 5867 5877	Two (2) ML
+R109	Dosage-Drug Arg1:T138 Arg2:T135
+T139	Route 5878 5889	Intravenous
+R110	Route-Drug Arg1:T139 Arg2:T135
+T140	Frequency 5890 5893;5894 5915	PRN (as needed) as needed
+R111	Frequency-Drug Arg1:T140 Arg2:T135
+T141	Reason 5920 5930	line flush
+R112	Reason-Drug Arg1:T141 Arg2:T135
+T142	Drug 6563 6569	Colace
+T143	Strength 6570 6576	100 mg
+R113	Strength-Drug Arg1:T143 Arg2:T142
+T144	Frequency 6577 6598	twice daily as needed
+R114	Frequency-Drug Arg1:T144 Arg2:T142
+T145	Reason 6603 6615	constipation
+R115	Reason-Drug Arg1:T145 Arg2:T142
+T146	Drug 6617 6632	Pain medication
+T147	ADE 6646 6652	drowsy
+R116	ADE-Drug Arg1:T147 Arg2:T146
+T148	Drug 692 703	antibiotics
+T37	Form 4513 4517	Appl
+T149	Dosage 4505 4512	One (1)
+R23	Dosage-Drug Arg1:T149 Arg2:T34	
+R117	Form-Drug Arg1:T37 Arg2:T34	
+T98	Dosage 5323 5330	One (1)
+T150	Form 5331 5335	Appl
+R75	Dosage-Drug Arg1:T98 Arg2:T95	
+R118	Form-Drug Arg1:T150 Arg2:T95	

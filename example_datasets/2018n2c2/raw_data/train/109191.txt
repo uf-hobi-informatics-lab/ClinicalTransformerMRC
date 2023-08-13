@@ -1,0 +1,134 @@
+Admission Date: [**2185-1-3**]        Discharge Date: [**2185-1-15**]
+
+Date of Birth:  [**2124-7-21**]        Sex:  M
+
+Service:  MED
+
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known lastname **] is a 60-year-old male
+with metastatic melanoma, admitted to begin cycle 1, week 1
+high-dose IL-2 therapy. His oncologic history began in [**2184-7-27**], when he noted a right groin skin tag which grew quickly
+over 2 months. Excisional biopsy in [**2184-10-27**] revealed a
+greater than 11 mm thick, ulcerated melanoma with perineural
+invasion and mitotic rate of 8 per meters squared. He was
+referred to Cutaneous [**Hospital **] Clinic, at which point 2
+subcutaneous nodules along the right groin scar were noted
+and a left posterior shoulder subcutaneous nodule was noted.
+Fine needle aspiration confirmed a melanoma at the site. PET
+CT revealed widespread metastases in the lung, liver,
+subcutaneous tissues and bone. Brain MRI was negative. He was
+evaluated for high-dose IL-2 and passed eligibility testing
+to begin therapy.
+
+PAST MEDICAL HISTORY:  BPH, status post laparoscopic
+cholecystectomy in [**2178**], left knee arthroscopic surgery
+complicated by left DVT, hypertension, sleep apnea,
+osteoarthritis of the right knee, melanoma as above, benign
+positional vertigo, history of pseudogout, history of C-7
+narrowing with occasional nerve pain.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:  Lisinopril 20 mg daily, on hold, Flomax 0.4 mg
+daily, Proscar 5 mg daily, Naprosyn 500 daily to b.i.d.
+p.r.n.
+
+PHYSICAL EXAMINATION:  GENERAL:  Well-appearing male in no
+acute distress. Performance status 1. VITAL SIGNS: 97.5, 130,
+18, 133/80, O2 saturation 94% in room air. HEENT:
+Normocephalic, atraumatic. Sclerae anicteric. Moist oral
+mucosa without lesions, multiple scalp nodules present. NECK:
+Supple. LYMPH NODES: No cervical, supraclavicular, bilateral
+axillary or bilateral inguinal lymphadenopathy. Right groin
+subcutaneous nodules noted. HEART:  Regular rate and rhythm,
+S1 and S2. CHEST:  Clear to percussion and auscultation
+bilaterally. ABDOMEN:  Rounded, positive bowel sounds, soft,
+nontender, no HSM or masses. EXTREMITIES:  No lower extremity
+edema. NEURO EXAM: Nonfocal. SKIN: Right groin biopsy site
+healed without nodularity. There are subcutaneous nodules
+above and below the biopsy site as well as scattered scalp
+nodules. There is a left shoulder subcutaneous nodule
+measuring approximately 4 x 3 cm and a left low axillary
+chest wall subcutaneously nodule measuring approximately 1
+cm.
+
+ADMISSION LABS:  WBC 10.6, hemoglobin 11.7, hematocrit 34.5,
+platelet count 237,000, INR 1.2, BUN 20, creatinine 1, sodium
+138, potassium 4.5, chloride 99, CO2 24, glucose 138, ALT 40,
+AST 41, LDH 970, alkaline phosphatase 179, amylase 35, total
+bilirubin 0.8, lipase 39, albumin 3.8, calcium 9.3,
+phosphorus 3.6, magnesium 2.3.
+
+HOSPITAL COURSE:  Mr. [**Known lastname **] was admitted and underwent
+central line placement to begin therapy. His admission weight
+was 106.6 kg, and he received interleukin-II 600,000
+international units per kilogram, equaling 64 million units
+IV q.8h. x14 potential doses. During this week, he received
+10 of 14 doses, with 1 dose held for questionable
+neurotoxicity and 3 doses held due to development of
+tachypnea, stridor and respiratory distress, requiring
+mechanical ventilation. This event occurred in early morning
+hours of treatment day #5 and he was transferred emergently
+to the ICU and intubated, given stridor and tachypnea. He was
+not having significant hypoxia at this time. He then became
+hypotensive, requiring initiation of phenylephrine and
+Levophed. At the time of his intubation, his bicarbonate was
+15 and he was aggressively treated with bicarbonate
+repletion. The patient was intubated x4 days and was
+eventually extubated on [**1-11**]. He continued to recover
+and was recovering was transferred back to the floor on
+[**1-12**], where rehab was initiated. He developed
+Clostridium difficile diarrhea, improved on Flagyl. He was
+eventually discharged to home on [**2185-1-15**] with
+physical therapy.
+
+Other side effects during IL-2 therapy included mild chills;
+development of an erythematous skin rash; nausea, improved
+with lorazepam; diarrhea, improved with Lomotil, and fatigue
+
+During this week, he developed acute renal failure with a
+peak creatinine of 7.3, improved to 1.3 at the time of
+discharge. He developed hyperbilirubinemia with a peak
+bilirubin of 7.1, improved to 1.1 upon discharge. He also
+developed transaminitis with a peak ALT of 100 and peak AST
+of 117, improved to within normal limits at the time of
+discharge. He was anemic with hemoglobin of 7.2, improved to
+11.7 after packed red blood cell transfusion. He was
+thrombocytopenic with a platelet count low of 55,000, without
+evidence of bleeding. As noted above, he developed metabolic
+acidosis, felt to be at least partially responsible for his
+respiratory failure, with a minimum bicarbonate of 14,
+improved with bicarbonate repletion. He had no evidence of
+coagulopathy or myocarditis. By [**2185-1-15**] he was
+discharged to home.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE DIAGNOSIS:  Metastatic melanoma, status post cycle
+1, week 1 high-dose IL-2 complicated by respiratory failure
+and acute renal failure.
+
+DISCHARGE MEDICATIONS:  Lorazepam 1 mg q.4-6h. p.r.n.
+nausea/vomiting, Compazine 10 mg q.6h. p.r.n.
+nausea/vomiting, Proscar 5 mg daily, Flagyl 500 mg p.o.
+t.i.d. oxycodone 5 to 10 mg q.4h. p.r.n. pain, Zantac 150 mg
+p.o. t.i.d.
+
+FOLLOWUP PLANS:  Mr. [**Known lastname **] will be seen in clinic in 1 week
+and the 2nd week of IL-2 therapy will be determined at that
+time.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 26819**], [**MD Number(1) 26820**]
+
+Dictated By:[**Last Name (NamePattern1) 18853**]
+MEDQUIST36
+D:  [**2185-4-1**] 16:17:52
+T:  [**2185-4-3**] 09:22:18
+Job#:  [**Job Number 69910**]
+
+cc:[**Numeric Identifier 69911**]
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 29848**], MD
+[**First Name (Titles) **] [**Last Name (Titles) 159**] Associates
+50 [**Location (un) 69912**], [**Numeric Identifier 43858**]

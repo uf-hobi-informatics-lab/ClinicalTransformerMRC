@@ -1,0 +1,111 @@
+T1	Reason 10141 10149	Diuresis
+R1	Reason-Drug Arg1:T1 Arg2:T2
+T2	Drug 10169 10174	lasix
+T3	Drug 10205 10214	Diuretics
+T4	ADE 10239 10250	hypotension
+R2	ADE-Drug Arg1:T4 Arg2:T3
+R3	ADE-Drug Arg1:T4 Arg2:T2
+T5	Drug 10252 10256	ACEI
+T6	Drug 10261 10269	Bblocker
+T7	ADE 10294 10305	hypotension
+R4	ADE-Drug Arg1:T7 Arg2:T5
+R5	ADE-Drug Arg1:T7 Arg2:T6
+T8	Reason 10578 10584	Sepsis
+R6	Reason-Drug Arg1:T8 Arg2:T9
+T9	Drug 10632 10645	phenylephrine
+T10	Reason 10831 10835	MRSA
+R7	Reason-Drug Arg1:T10 Arg2:T12
+R8	Reason-Drug Arg1:T10 Arg2:T11
+T11	Drug 10881 10885	vanc
+T12	Drug 10886 10894	cefepime
+T13	ADE 11272 11292	Supratherapeutic INR
+R9	ADE-Drug Arg1:T13 Arg2:T14
+T14	Drug 11333 11341	warfarin
+T15	Reason 11346 11353	h/o DVT
+R10	Reason-Drug Arg1:T15 Arg2:T14
+T16	Drug 11407 11415	coumadin
+T17	Reason 11585 11589	Pain
+R11	Reason-Drug Arg1:T17 Arg2:T18
+T18	Drug 11606 11615	methadone
+T19	Drug 11647 11660	Levothyroxine
+T20	Strength 11661 11668	50mcg/d
+R12	Strength-Drug Arg1:T20 Arg2:T19
+T21	Drug 11672 11678	Plavix
+T22	Strength 11679 11685	75mg/d
+R13	Strength-Drug Arg1:T22 Arg2:T21
+T23	Drug 11689 11699	Lisinopril
+T24	Strength 11700 11705	5mg/d
+R14	Strength-Drug Arg1:T24 Arg2:T23
+T25	Drug 11709 11714	Imdur
+T26	Strength 11715 11719	30mg
+R15	Strength-Drug Arg1:T26 Arg2:T25
+T27	Drug 11740 11749	Pravachol
+T28	Strength 11750 11756	20mg/d
+R16	Strength-Drug Arg1:T28 Arg2:T27
+T29	Drug 11760 11768	Coumadin
+T30	Drug 11772 11781	Methadone
+T31	Strength 11782 11788	20mg/d
+R17	Strength-Drug Arg1:T31 Arg2:T30
+T32	Drug 11792 11798	Ativan
+T33	Frequency 11799 11802	PRN
+R18	Frequency-Drug Arg1:T33 Arg2:T32
+T34	Drug 11806 11817	Hydroxyzine
+T35	Frequency 11818 11821	PRN
+R19	Frequency-Drug Arg1:T35 Arg2:T34
+T36	Drug 168 175	Codeine
+T37	Drug 178 186	Morphine
+T38	Drug 189 200	Penicillins
+T39	Drug 203 209	Darvon
+T40	Drug 212 220	Macrobid
+T41	Drug 7877 7889	procainamide
+T42	Route 7890 7893	gtt
+R20	Route-Drug Arg1:T42 Arg2:T41
+T43	Strength 7897 7898	3
+R21	Strength-Drug Arg1:T43 Arg2:T41
+T44	Reason 7900 7902	VT
+R22	Reason-Drug Arg1:T44 Arg2:T41
+T45	Route 7944 7947	gtt
+R23	Route-Drug Arg1:T45 Arg2:T41
+T46	Strength 7965 7966	4
+R24	Strength-Drug Arg1:T46 Arg2:T41
+T47	Reason 8194 8196	VT
+R26	Reason-Drug Arg1:T47 Arg2:T48
+T48	Drug 8294 8308	antiarrythmics
+T49	Reason 8335 8353	atrial tachycardia
+R27	Reason-Drug Arg1:T49 Arg2:T50
+T50	Drug 8361 8373	procainamide
+T51	Strength 8374 8379	950mg
+R28	Strength-Drug Arg1:T51 Arg2:T50
+T53	Dosage 8383 8388	bolus
+R30	Dosage-Drug Arg1:T53 Arg2:T50
+T54	Reason 8482 8484	VT
+R31	Reason-Drug Arg1:T54 Arg2:T56
+T55	Drug 852 864	Procainamide
+T56	Drug 8538 8548	amiodarone
+T57	Drug 8554 8566	procainamide
+T58	Route 865 868	gtt
+R33	Route-Drug Arg1:T58 Arg2:T55
+T59	Strength 872 879	3mg/min
+R34	Strength-Drug Arg1:T59 Arg2:T55
+T60	Drug 881 884	Neo
+T61	Route 885 888	gtt
+R35	Route-Drug Arg1:T61 Arg2:T60
+T62	Drug 893 901	propofol
+T63	Route 902 905	gtt
+R36	Route-Drug Arg1:T63 Arg2:T62
+T64	Reason 9446 9457	Hypotension
+R37	Reason-Drug Arg1:T64 Arg2:T65
+T65	Drug 9799 9807	levophed
+T66	Reason 9826 9828	VT
+R38	Reason-Drug Arg1:T66 Arg2:T67
+T67	Drug 9881 9894	neosynephrine
+T68	Reason 9900 9903	CHF
+R39	Reason-Drug Arg1:T68 Arg2:T70
+R40	Reason-Drug Arg1:T68 Arg2:T69
+R41	Reason-Drug Arg1:T68 Arg2:T2
+T69	Drug 9948 9955	Ace inh
+T70	Drug 9960 9962	BB
+T52	Route 8380 8382	IV
+R25	Route-Drug Arg1:T52 Arg2:T50	
+T71	Reason 9829 9838	arrythmia
+R29	Reason-Drug Arg1:T71 Arg2:T67	

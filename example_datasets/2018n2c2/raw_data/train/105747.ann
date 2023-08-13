@@ -1,0 +1,235 @@
+T1	Drug 1294 1303	etomidate
+T2	Drug 1308 1312	succ
+T3	Reason 1317 1327	intubation
+R1	Reason-Drug Arg1:T3 Arg2:T1
+R2	Reason-Drug Arg1:T3 Arg2:T2
+R3	Reason-Drug Arg1:T3 Arg2:T4
+R4	Reason-Drug Arg1:T3 Arg2:T5
+T4	Drug 1341 1349	fentanyl
+T5	Drug 1354 1363	midazolam
+T6	Drug 1580 1593	phenylephrine
+T7	Drug 168 175	Statins
+T8	Drug 176 204	Hmg-Coa Reductase Inhibitors
+T9	ADE 2296 2310	Hypothyroidism
+R5	ADE-Drug Arg1:T9 Arg2:T10
+T10	Drug 2325 2335	Amiodarone
+T11	Reason 2395 2399;2400 2407	Lyme disease
+R6	Reason-Drug Arg1:T11 Arg2:T12
+T12	Drug 2421 2432	Doxycycline
+T13	Reason 2460 2469	Type 2 DM
+R7	Reason-Drug Arg1:T13 Arg2:T14
+T14	Drug 2473 2480	insulin
+T15	Form 2481 2485	pump
+R8	Form-Drug Arg1:T15 Arg2:T14
+T16	Drug 5403 5413	Metoprolol
+T17	Strength 5431 5436	50 mg
+R9	Strength-Drug Arg1:T17 Arg2:T16
+T18	Reason 5636 5650	anticoagulated
+R10	Reason-Drug Arg1:T18 Arg2:T19
+T19	Drug 5707 5715	warfarin
+T21	Drug 5892 5901	etomidate
+T22	Drug 5906 5921	succinylcholine
+T23	Reason 5926 5936	intubation
+R11	Reason-Drug Arg1:T23 Arg2:T21
+R12	Reason-Drug Arg1:T23 Arg2:T22
+R13	Reason-Drug Arg1:T23 Arg2:T24
+R14	Reason-Drug Arg1:T23 Arg2:T25
+T24	Drug 5950 5958	fentanyl
+T25	Drug 5963 5972	midazolam
+T26	Reason 6065 6084	mildly depressed EF
+R15	Reason-Drug Arg1:T26 Arg2:T27
+T27	Drug 6131 6144	phenylephrine
+T28	Drug 6337 6341	ACEI
+T29	Drug 6346 6356	metoprolol
+T31	Drug 6536 6539	ASA
+T32	Drug 6637 6641	ACEI
+T33	Drug 6646 6658	beta blocker
+T34	Drug 6721 6728	statins
+T35	ADE 6742 6750	myalgias
+R17	ADE-Drug Arg1:T35 Arg2:T34
+T36	Drug 6798 6803	Lasix
+T37	Reason 6836 6846	Type II DM
+R18	Reason-Drug Arg1:T37 Arg2:T38
+T38	Drug 6965 6972	insulin
+T39	Form 6973 6977	pump
+R19	Form-Drug Arg1:T39 Arg2:T38
+T40	Reason 7005 7011	Asthma
+R20	Reason-Drug Arg1:T40 Arg2:T41
+T41	Drug 7034 7040	Advair
+T42	Drug 7083 7089	Advair
+T43	Strength 7091 7101	250/50 mcg
+R21	Strength-Drug Arg1:T43 Arg2:T42
+T44	Drug 7103 7112	Albuterol
+T45	Frequency 7113 7116	PRN
+R22	Frequency-Drug Arg1:T45 Arg2:T44
+T46	Drug 7117 7127	Benazepril
+T47	Strength 7128 7133	30 mg
+R23	Strength-Drug Arg1:T47 Arg2:T46
+T48	Frequency 7134 7145	twice a day
+R24	Frequency-Drug Arg1:T48 Arg2:T46
+T49	Drug 7146 7154	Coumadin
+T50	Strength 7228 7235	1,000mg
+R25	Strength-Drug Arg1:T50 Arg2:T49
+T51	Frequency 7236 7241	daily
+R26	Frequency-Drug Arg1:T51 Arg2:T49
+T52	Drug 7242 7247	Lasix
+T53	Strength 7248 7253	40 mg
+R27	Strength-Drug Arg1:T53 Arg2:T52
+T54	Frequency 7254 7264	once a day
+R28	Frequency-Drug Arg1:T54 Arg2:T52
+T55	Drug 7265 7272	Insulin
+T56	Form 7273 7277	pump
+R29	Form-Drug Arg1:T56 Arg2:T55
+T57	Drug 7278 7297	Metoprolol tartrate
+T58	Strength 7298 7304	100 mg
+R30	Strength-Drug Arg1:T58 Arg2:T57
+T59	Frequency 7305 7316	twice a day
+R31	Frequency-Drug Arg1:T59 Arg2:T57
+T60	Drug 7317 7329	Multivitamin
+T61	Dosage 7330 7331	1
+R32	Dosage-Drug Arg1:T61 Arg2:T60
+T62	Form 7332 7338	tablet
+R33	Form-Drug Arg1:T62 Arg2:T60
+T63	Frequency 7339 7344	daily
+R34	Frequency-Drug Arg1:T63 Arg2:T60
+T64	Drug 7345 7356	Glucosamine
+T65	Strength 7357 7365	1,500 mg
+R35	Strength-Drug Arg1:T65 Arg2:T64
+T66	Frequency 7366 7371	daily
+R36	Frequency-Drug Arg1:T66 Arg2:T64
+T67	Drug 7372 7381	Vitamin C
+T68	Strength 7382 7389	1,000mg
+R37	Strength-Drug Arg1:T68 Arg2:T67
+T69	Drug 7390 7407	Alpha lipoic acid
+T70	Drug 7408 7413	Zetia
+T71	Strength 7414 7419	10 mg
+R38	Strength-Drug Arg1:T71 Arg2:T70
+T72	Frequency 7420 7425	daily
+R39	Frequency-Drug Arg1:T72 Arg2:T70
+T73	Drug 7454 7473	Metoprolol Tartrate
+T74	Strength 7474 7479	50 mg
+R40	Strength-Drug Arg1:T74 Arg2:T73
+T75	Form 7480 7486	Tablet
+R41	Form-Drug Arg1:T75 Arg2:T73
+T76	Dosage 7492 7499	One (1)
+R42	Dosage-Drug Arg1:T76 Arg2:T73
+T77	Form 7500 7506	Tablet
+R43	Form-Drug Arg1:T77 Arg2:T73
+T78	Route 7507 7509	PO
+R44	Route-Drug Arg1:T78 Arg2:T73
+T79	Frequency 7510 7513;7514 7529	BID (2 times a day)
+R45	Frequency-Drug Arg1:T79 Arg2:T73
+T80	Drug 7566 7575	Ezetimibe
+T81	Strength 7576 7581	10 mg
+R46	Strength-Drug Arg1:T81 Arg2:T80
+T82	Form 7582 7588	Tablet
+R47	Form-Drug Arg1:T82 Arg2:T80
+T83	Dosage 7594 7601	One (1)
+R48	Dosage-Drug Arg1:T83 Arg2:T80
+T84	Form 7602 7608	Tablet
+R49	Form-Drug Arg1:T84 Arg2:T80
+T85	Route 7609 7611	PO
+R50	Route-Drug Arg1:T85 Arg2:T80
+T86	Frequency 7612 7625	DAILY (Daily)
+R51	Frequency-Drug Arg1:T86 Arg2:T80
+T87	Drug 7631 7641	Furosemide
+T88	Strength 7642 7647	40 mg
+R52	Strength-Drug Arg1:T88 Arg2:T87
+T89	Form 7648 7654	Tablet
+R53	Form-Drug Arg1:T89 Arg2:T87
+T90	Dosage 7660 7667	One (1)
+R54	Dosage-Drug Arg1:T90 Arg2:T87
+T91	Form 7668 7674	Tablet
+R55	Form-Drug Arg1:T91 Arg2:T87
+T92	Route 7675 7677	PO
+R56	Route-Drug Arg1:T92 Arg2:T87
+T93	Frequency 7678 7691	DAILY (Daily)
+R57	Frequency-Drug Arg1:T93 Arg2:T87
+T94	Drug 7697 7709	Multivitamin
+T95	Form 7714 7720	Tablet
+R58	Form-Drug Arg1:T95 Arg2:T94
+T96	Dosage 7726 7733	One (1)
+R59	Dosage-Drug Arg1:T96 Arg2:T94
+T97	Form 7734 7740	Tablet
+R60	Form-Drug Arg1:T97 Arg2:T94
+T98	Route 7741 7743	PO
+R61	Route-Drug Arg1:T98 Arg2:T94
+T99	Frequency 7744 7757	DAILY (Daily)
+R62	Frequency-Drug Arg1:T99 Arg2:T94
+T100	Drug 7763 7771	Warfarin
+T101	Strength 7772 7776	2 mg
+R63	Strength-Drug Arg1:T101 Arg2:T100
+T102	Form 7777 7783	Tablet
+R64	Form-Drug Arg1:T102 Arg2:T100
+T103	Dosage 7789 7798	Three (3)
+R65	Dosage-Drug Arg1:T103 Arg2:T100
+T104	Form 7799 7805	Tablet
+R66	Form-Drug Arg1:T104 Arg2:T100
+T105	Route 7806 7808	PO
+R67	Route-Drug Arg1:T105 Arg2:T100
+T109	Strength 7836 7840	7 mg
+R71	Strength-Drug Arg1:T109 Arg2:T100
+T110	Frequency 7844 7852	Thursday
+R72	Frequency-Drug Arg1:T110 Arg2:T100
+T111	Drug 7857 7863	Advair
+T113	Form 7864 7870	Diskus
+R73	Form-Drug Arg1:T113 Arg2:T111
+T114	Strength 7871 7886	250-50 mcg/Dose
+R74	Strength-Drug Arg1:T114 Arg2:T111
+T115	Form 7887 7903	Disk with Device
+R76	Form-Drug Arg1:T115 Arg2:T111
+T116	Dosage 7909 7916	One (1)
+R77	Dosage-Drug Arg1:T116 Arg2:T111
+T117	Form 7917 7921	puff
+R79	Form-Drug Arg1:T117 Arg2:T111
+T118	Route 7922 7932	Inhalation
+R81	Route-Drug Arg1:T118 Arg2:T111
+T119	Frequency 7933 7944	twice a day
+R83	Frequency-Drug Arg1:T119 Arg2:T111
+T120	Drug 7949 7959	Benazepril
+T121	Strength 7960 7965	20 mg
+R85	Strength-Drug Arg1:T121 Arg2:T120
+T122	Form 7966 7972	Tablet
+R86	Form-Drug Arg1:T122 Arg2:T120
+T123	Dosage 7978 7981	1.5
+R87	Dosage-Drug Arg1:T123 Arg2:T120
+T124	Form 7982 7989	Tablets
+R88	Form-Drug Arg1:T124 Arg2:T120
+T125	Route 7990 7992	PO
+R89	Route-Drug Arg1:T125 Arg2:T120
+T126	Frequency 7993 8004	twice a day
+R90	Frequency-Drug Arg1:T126 Arg2:T120
+T127	Drug 8009 8016	Aspirin
+T128	Strength 8017 8022	81 mg
+R91	Strength-Drug Arg1:T128 Arg2:T127
+T130	Form 8024 8039	ablet, Chewable
+R93	Form-Drug Arg1:T130 Arg2:T127
+T131	Dosage 8045 8052	One (1)
+R94	Dosage-Drug Arg1:T131 Arg2:T127
+T133	Form 8053 8069	Tablet, Chewable
+R96	Form-Drug Arg1:T133 Arg2:T127
+T134	Route 8070 8072	PO
+R97	Route-Drug Arg1:T134 Arg2:T127
+T135	Frequency 8073 8086	DAILY (Daily)
+R98	Frequency-Drug Arg1:T135 Arg2:T127
+T136	Drug 8091 8098	insulin
+T137	Form 8099 8103	pump
+R99	Form-Drug Arg1:T137 Arg2:T136
+T138	Drug 8142 8149	insulin
+T139	Form 8150 8154	pump
+R100	Form-Drug Arg1:T139 Arg2:T138
+T141	Drug 8587 8597	metoprolol
+T142	Strength 8615 8620	50 mg
+R101	Strength-Drug Arg1:T142 Arg2:T141
+T143	Frequency 8621 8632	twice daily
+R102	Frequency-Drug Arg1:T143 Arg2:T141
+T144	Drug 8636 8643	aspirin
+T145	Strength 8644 8649	81 mg
+R103	Strength-Drug Arg1:T145 Arg2:T144
+T146	Frequency 8650 8655	daily
+R104	Frequency-Drug Arg1:T146 Arg2:T144
+T147	Drug 8787 8795	coumadin
+T106	Frequency 7809 7824;7825 7827	Once Daily at 4 PM
+R68	Frequency-Drug Arg1:T106 Arg2:T100	
+T20	Reason 6410 6425	questionable MI
+R16	Reason-Drug Arg1:T20 Arg2:T31	

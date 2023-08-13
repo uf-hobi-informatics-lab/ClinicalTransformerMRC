@@ -1,0 +1,254 @@
+Admission Date:  [**2120-10-4**]              Discharge Date:   [**2120-10-23**]
+
+Date of Birth:  [**2059-2-8**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5552**]
+Chief Complaint:
+Diarrhea
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+61 yo man w/ h/o rectal CA and HTN who presents c/o diarrhea x 5
+days (started on [**9-30**]). Patient reports persistent, non-bloody,
+watery diarrhea every 10-30 minutes.  Denies abdominal pain,
+fever, chills, N/V, cough, rash, dysuria, sick contacts, or
+recent travel.  No recent medication changes, no antibiotics
+recently.  Has not eaten in restaraunts recently.  H/o similar
+diarrhea in the past which he says was due to chemo.
+.
+In the ED, patient's lactate was initially 4.0 and he was
+tachycardic at 110.  Normotensive at 124/80.  Apparently, he
+refused central line (sepsis protocol).  Received IVF through
+peripheral IV, and repeat lactate was 2.4.  His HR also
+stabilized in the 80's.  BP remained normal.  While in the ED,
+he spiked to 101.3 so he was given Cefepime, vanco, and flagyl.
+CT of the abdomen and he was admitted to OMED for further
+observation.
+.
+
+
+Past Medical History:
+1. Rectal metastatic adenocarcinoma with A lytic lesion in T11
+dx in [**2120-3-22**], CEA was elevated at 329--->1207 ([**2120-8-20**]).
+s/p 13 XRT therapies. Treated with Avastin (bevacizumab), 5FU,
+and Leucovorin. Last treatment [**2120-9-25**].  Oncologist: Dr. [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) **]
+2. Hypertension
+
+
+Social History:
+Originally from [**Location (un) 6847**], moved to USA about 30 years ago.
+Married.  Former restaurant worker, not working presently.  Has
+a 35 pack year smoking history, quit ~[**2118**]. Rarely drinks
+alcohol.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS: T=98.6 (Tm=101.3); BP=155/82; HR=88; RR=11; O2=98% (RA)
+GEN: elderly asian man, NAD
+HEENT: PERRL OU, MMM, OP clear, no icterus
+NECK: no JVD
+CV: RRR, NL S1/S2, no murmurs appreciated on exam, no S3/S4
+heard
+RESP: CTA, no W/R/R
+ABD: NABS, soft, NT, ND, no masses
+EXT: no edema
+RECTAL: guaiac negative per ED
+NEURO: A&Ox3, CN II-XII intact bilat, motor/sensory exam intact
+bilat
+
+Pertinent Results:
+GLUCOSE-153 UREA N-16 CREAT-0.7 SODIUM-135 POTASSIUM-3.0
+CHLORIDE-107 TOTAL CO2-20 ANION GAP-11
+CALCIUM-6.9 PHOSPHATE-1.4 MAGNESIUM-2.3
+.
+WBC-1.2 RBC-4.07 HGB-11.8 HCT-33.0 MCV-81 MCH-29.0 MCHC-35.7
+RDW-18.3 PLT COUNT-153
+.
+PT-15.6 PTT-27.9 INR(PT)-1.7
+.
+GRAN CT-780
+.
+LACTATE-1.7
+.
+URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.021
+URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR GLUCOSE-NEG KETONE-TR
+BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG RBC-0 WBC-0-2
+BACTERIA-RARE YEAST-NONE EPI-0-2
+
+Brief Hospital Course:
+61 y/o male with metastatic rectal ca diagnosed [**3-26**] s/p xrt
+(last [**6-25**]) and chemo (last [**2120-9-25**]) who was admitted with
+diarrhea, fever, and neutropenia who developed hypoxemia, lactic
+acidosis, and confusion.  Since his admission, the patient's
+diarrhea and fevers had progressively improved on cefepime,
+vancomycin, and metronidazole as well as Lomotil.  Since then
+his course has been complicated by a steadily declining
+hematocrit (33 to 25 over the admission), worsening
+thrombocytopenia, and a new coagulopathy (INR up to 5.4).  On
+[**10-12**], he was noted to be hypoxemic and had chest x-ray showing
+only a distended stomach and a CTA with no PE (but also a
+distended stomach and known liver mets).  ABG was 7.44/25/63
+then 7.32/21/84 that afternoon.  His oxygen requirement waxed
+and waned, from mid 80's on room air to mid 90's on room air.
+His hypoxemia persisted and the patient became increasingly
+tired, confused, and tachypneic.  A repeat ABG was 7.3/19/75 but
+his lactate had climbed from 3.5 to 8.0. He was transferred to
+the ICU at which time he was fatigued and appeared disoriented.
+In this setting, he denied pain (including abdominal) as well as
+dyspnea despite obvious tachypnea and mild accessory muscle use.
+He was started on IVF with 3 amps bicarb, lactate trended down,
+acidosis resolving. CT abdomen showed SBO with no obvious cut
+off for obstruction a NGT placed and medical management
+recommeneded by surgery. Primary oncologist Dr. [**Last Name (STitle) **]
+continued to follow.
+  In the ICU he was found to have guiaic positive NGT
+secretions.  He was transfused PRBCs for a dropping HCT.  In
+addition he was noted to have an elevated INR for which he was
+treated with FFP.  He was evaluated by surgery who felt him to
+be a poor surgical candidate.  For his confusion a CT of his
+head was performed which was negative for bleed or other change.
+ His hypoxia resolved and was felt to be due to aspiration
+initially.  He was treated with TPN given his poor nutritional
+status.  He was treated with octroetide per surgery recs with no
+improvement.  On [**2120-10-18**] a family meeting was held at which
+time it was decided that the goal of care was maximal comfort.
+At that meeting it was decided to continue with fluids and
+analgesia but to limit other medications and TPN.  The family
+will provide Chinese herbs and prayer.
+.
+# GI: Diarrhea was believed to be chemo-induced diarrhea.  The
+patient was covered with cefepime, vancomycin, and flagyl given
+neutropenic fever.  The CT of abdomen on admission did not show
+any inflammatory processes in the abdomen. The patient was given
+supportive care with IVF and Lomotil once obtained stool samples
+for cultures which were negative and his diarrhea improved with
+lomotil.  However, patient became acidotic and CT abdomen was
+repeated and revealed SBO. NGT was placed and surgey was
+consulted but did not feel that the patient was a good surgical
+candidate. Patient was continued on medical management.
+Octreotide was added to his regimen to help to relieve
+obstruction. His lactate continued to trend down and NGT outout
+began to slow. Patient denied any abdominal pain.
+    However, while in the ICU he developed bloody stools in the
+setting of coagulopathy. This was felt to be likely secondary to
+his rectal cancer. He was tranfused pRBCs and FFP. After several
+bloody stools and rectal tube placement his bloody bowel
+movements slowed, his coags improved and his hematocrit was
+stable.
+.
+Coagulopathy: Likely DIC secondary to cancer. He devloped GI
+bleed as mentioned above and was transfused several units of FFP
+and pRBCs and 1 unit of platelets. By tranfer from the ICU his
+HCT and INR was stable but platelets were 34. The patient and
+family did not want any further transfusions as their goal was
+comfort and this would require daily monitoring of his CBC and
+coags.
+.
+# NEUTROPENIC FEVER: The patient was started on cefepime, vanco,
+and flagyl on admission. He had some fevers early in his
+hospitalization but remained afebrile for the rest of his
+admission. He because hypoxic and acidotic and a CT chest was
+otained which revealed likely aspiration/pneumonia. He was
+continue on his antibiotics to complete a 14 day course and
+received daily neupogen injections. By the 11th day of his
+antibiotic course he was no longer neutropenic. His neupogen was
+discontinued and he remained afebrile.
+
+# AG METABOLIC ACIDOSIS: concerning for lactic acidosis [**1-24**] to
+hypovolemia.  Patient refused central line/sepsis protocol in
+ED. He was  hemodynamically stable on transfer to the floor.
+Lactate normalized after IVF. Then the patient continued to have
+non-anion gap acidosis [**1-24**] to diarrhea.  ABG was obtained and
+the patient appropriately compensated with decreased CO2 (25)
+with normal pH 7.4-7.44. He then became more hypoxic and acidotc
+and was tranferred to the ICU. In the ICU it was discoved that
+he had an extremely dilated stomach and SBO. It was felt that
+the lactic acidosis ,may have been secondary to the extreme
+distension of his stomach given the rapid decline in his lactate
+on decompression with NGT. His gap closed and his lactate
+conitnued to tened down.
+.
+# RECTAL CANCER: Last chemotherapy was last avastin/5FU on [**9-25**].
+Given that he did not tolerate this well, no further
+chemotherapy was planned. He also developed what is believed to
+be lower GI bleed, SBO and DIC during admission all which were
+thaough to be related to his metastatic disease. Due to his poor
+prognosis and worsening medical condition a family meeting was
+held and the family and patient agreed that comfort was the most
+important goal at this point. He was continued on IVF and the
+NGGT was kept in place to prevent worsening pain from his SBO.
+It was decided that no further blood products would be given.
+.
+FEN: Patient was actively hydrated in the setting of diarrhea
+and acidosis. He was continued on IVF given his SBO. Given his
+poor prognosis and that comfort was the goal, he was not started
+on TPN, but rather hydrated with IVF in the setting of SBO.
+
+Medications on Admission:
+1. Aspirin 325 mg PO DAILY
+2. Atenolol 50 mg PO once a day.
+3. Buspirone
+4. Compazine prn
+
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+2. Prochlorperazine 10 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours) as needed.
+3. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation
+Q4H (every 4 hours) as needed.
+4. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed.
+5. Dolasetron 12.5 mg/0.625 mL Solution Sig: One (1)
+Intravenous  Q8H (every 8 hours) as needed.
+6. Pantoprazole 40 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous  Q12H (every 12 hours).
+7. Morphine 2 mg/mL Syringe Sig: [**12-24**]  Injection Q4H (every 4
+hours) as needed.
+8. Lorazepam 2 mg/mL Syringe Sig: 0.5 mg Injection Q4H (every 4
+hours) as needed.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 2670**] - [**Location (un) **]
+
+Discharge Diagnosis:
+Metastatic rectal cancer.
+Small bowel obstruction.
+Hypertension.
+
+
+Discharge Condition:
+Stable.  He is appropriate and interactive.  The goal of care is
+comfort.
+
+
+Discharge Instructions:
+Please take all medications as prescribed.  The goal of care is
+comfort.
+
+Followup Instructions:
+You have the following follow-up appointments
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 593**], MD Phone:[**Telephone/Fax (1) 22**]
+Date/Time:[**2120-10-30**] 10:00
+Provider: [**Name Initial (NameIs) 4426**] 22  Date/Time:[**2120-10-30**] 10:30
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 10384**], RN Phone:[**Telephone/Fax (1) 22**]
+Date/Time:[**2120-10-30**] 10:30
+
+
+
+Completed by:[**2120-10-23**]

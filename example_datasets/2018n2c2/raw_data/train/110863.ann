@@ -1,0 +1,194 @@
+T1	Drug 8709 8719	calcitriol
+T2	Strength 8720 8728	0.25 mcg
+T3	Drug 1161 1172	ceftriaxone
+T4	Drug 8331 8341	Nephrocaps
+T5	Form 8344 8351	capsule
+T6	Dosage 8342 8343	1
+T7	Drug 8386 8399	nitroglycerin
+T8	Drug 1198 1208	furosemide
+T9	Drug 8856 8866	ranitidine
+T10	Strength 8867 8873	150 mg
+T11	Drug 1177 1187	vancomycin
+T12	Strength 8487 8491	5 mg
+T13	Drug 8475 8485;8485 8486	finasterid e
+T14	Drug 7386 7396	Ranolazine
+T59	Drug 8735 8763	cholecalciferol (vitamin D3)
+T16	Strength 8764 8774	2,000 unit
+T17	Drug 8227 8238	hydralazine
+T18	Strength 8239 8244	25 mg
+T19	Frequency 8245 8248	tid
+T20	Drug 8358 8368	filgrastim
+T21	Strength 8369 8376	300 mcg
+T22	Drug 6312 6318	Haldol
+T23	Drug 7979 7987	Neupogen
+T24	Drug 8621 8637	prochlorperazine
+T25	Drug 8878 8889	hydralazine
+T26	Strength 8890 8895	25 mg
+T27	Frequency 8896 8899	q8h
+T28	Drug 8605 8616	ondansetron
+T29	Drug 8498 8508	ranolazine
+T30	Strength 8509 8513	5 mg
+T31	Drug 8249 8261	rosuvastatin
+T32	Strength 8262 8267	40 mg
+T33	Drug 574 584	paclitaxel
+T34	Drug 7359 7370	Hydralazine
+T35	Drug 8642 8652	furosemide
+T36	Strength 8653 8658	80 mg
+T37	Frequency 8662 8665	bid
+T38	Route 8659 8661	PO
+T39	Drug 8900 8912	epoetin alfa
+T40	Strength 8913 8924;8924 8927	10,000 unit /mL
+T41	Form 8930 8939	injection
+T42	Dosage 8928 8929	1
+T43	Drug 8520 8530	calcitriol
+T44	Strength 8531 8538	0.25 mg
+T45	Drug 8781 8793	atorvastatin
+T46	Strength 8794 8799	80 mg
+T47	Drug 8274 8289	ferrous sulfate
+T48	Strength 8290 8296	324 mg
+T49	Drug 6867 6877	Furosemide
+T50	Drug 8666 8673	aspirin
+T51	Strength 8674 8679	81 mg
+T52	Drug 2525 2530	Taxol
+T53	Drug 8545 8554	vitamin D
+T54	Drug 1506 1517	ceftriaxone
+T55	Drug 114 120	Niacin
+T56	Strength 8818 8822	5 mg
+T57	Drug 8806 8816;8816 8817	finasterid e
+T58	Strength 8315 8321	150 mg
+T60	Drug 8303 8313;8313 8314	fluconazol e
+T61	Drug 6256 6264	Morphine
+T62	Drug 1522 1532	vancomycin
+T63	Drug 8947 8958	clopidogrel
+T64	Strength 8959 8964	75 mg
+T65	Drug 8441 8451	famotidine
+T66	Strength 8452 8457	20 mg
+T67	Drug 6271 6279	Benadryl
+T68	Drug 8829 8839	ranolazine
+T69	Strength 8843 8849	500 mg
+T70	Drug 7679 7688	Acyclovir
+T71	Route 6265 6269	drip
+T72	Reason 6284 6306	itching related uremia
+T73	Reason 6323 6340	terminal delirium
+T74	Reason 7298 7301	HTN
+T75	Drug 7372 7381	Labetolol
+T76	Drug 7670 7674	Fluc
+T78	Frequency 8268 8273	daily
+T79	Frequency 8297 8302	daily
+T80	Frequency 8325 8330	daily
+T81	Frequency 8352 8357	daily
+T82	Route 8377 8379	SC
+T83	Frequency 8380 8385	daily
+T84	Route 8400 8402	SL
+T85	Frequency 8403 8406	prn
+T86	Drug 8407 8416	labetolol
+T87	Strength 8417 8423	200 mg
+T88	Frequency 8492 8497	daily
+T89	Frequency 8514 8519	daily
+T90	Frequency 8539 8544	daily
+T91	Frequency 8617 8620	prn
+T92	Frequency 8638 8641	prn
+T93	Frequency 8680 8685	daily
+T94	Drug 8686 8695	labetalol
+T95	Strength 8696 8702	200 mg
+T96	Frequency 8703 8708	daily
+T97	Frequency 8729 8734	daily
+T98	Frequency 8775 8780	daily
+T99	Frequency 8823 8828	daily
+T100	Frequency 8800 8805	daily
+T101	Frequency 8850 8855	daily
+T102	Frequency 8874 8877	qhs
+T103	Frequency 8940 8946	weekly
+T104	Frequency 8965 8970	daily
+T105	Drug 8971 8981	Renal Caps
+T106	Strength 8982 8986	1 mg
+T107	Form 8987 8994	Capsule
+T108	Frequency 8995 9000	daily
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Form-Drug Arg1:T5 Arg2:T4
+R3	Dosage-Drug Arg1:T6 Arg2:T4
+R4	Strength-Drug Arg1:T10 Arg2:T9
+R5	Strength-Drug Arg1:T12 Arg2:T13
+R7	Strength-Drug Arg1:T18 Arg2:T17
+R8	Frequency-Drug Arg1:T19 Arg2:T17
+R9	Strength-Drug Arg1:T21 Arg2:T20
+R10	Strength-Drug Arg1:T26 Arg2:T25
+R11	Frequency-Drug Arg1:T27 Arg2:T25
+R12	Strength-Drug Arg1:T30 Arg2:T29
+R13	Strength-Drug Arg1:T32 Arg2:T31
+R14	Strength-Drug Arg1:T36 Arg2:T35
+R15	Frequency-Drug Arg1:T37 Arg2:T35
+R16	Route-Drug Arg1:T38 Arg2:T35
+R17	Strength-Drug Arg1:T40 Arg2:T39
+R18	Form-Drug Arg1:T41 Arg2:T39
+R19	Dosage-Drug Arg1:T42 Arg2:T39
+R20	Strength-Drug Arg1:T44 Arg2:T43
+R21	Strength-Drug Arg1:T46 Arg2:T45
+R22	Strength-Drug Arg1:T48 Arg2:T47
+R23	Strength-Drug Arg1:T51 Arg2:T50
+R24	Strength-Drug Arg1:T56 Arg2:T57
+R25	Strength-Drug Arg1:T58 Arg2:T60
+R27	Strength-Drug Arg1:T64 Arg2:T63
+R28	Strength-Drug Arg1:T66 Arg2:T65
+R29	Strength-Drug Arg1:T69 Arg2:T68
+R30	Route-Drug Arg1:T71 Arg2:T61
+R31	Reason-Drug Arg1:T72 Arg2:T67
+R32	Reason-Drug Arg1:T73 Arg2:T22
+R33	Reason-Drug Arg1:T74 Arg2:T14
+R34	Reason-Drug Arg1:T74 Arg2:T75
+R35	Reason-Drug Arg1:T74 Arg2:T34
+R36	Frequency-Drug Arg1:T78 Arg2:T31
+R37	Frequency-Drug Arg1:T79 Arg2:T47
+R38	Frequency-Drug Arg1:T80 Arg2:T60
+R39	Frequency-Drug Arg1:T81 Arg2:T4
+R40	Frequency-Drug Arg1:T83 Arg2:T20
+R41	Route-Drug Arg1:T82 Arg2:T20
+R42	Frequency-Drug Arg1:T85 Arg2:T7
+R43	Route-Drug Arg1:T84 Arg2:T7
+R44	Strength-Drug Arg1:T87 Arg2:T86
+R45	Frequency-Drug Arg1:T88 Arg2:T13
+R46	Frequency-Drug Arg1:T89 Arg2:T29
+R47	Frequency-Drug Arg1:T90 Arg2:T43
+R48	Frequency-Drug Arg1:T91 Arg2:T28
+R49	Frequency-Drug Arg1:T92 Arg2:T24
+R50	Frequency-Drug Arg1:T93 Arg2:T50
+R51	Frequency-Drug Arg1:T96 Arg2:T94
+R52	Strength-Drug Arg1:T95 Arg2:T94
+R53	Frequency-Drug Arg1:T97 Arg2:T1
+R55	Frequency-Drug Arg1:T100 Arg2:T45
+R56	Frequency-Drug Arg1:T99 Arg2:T57
+R57	Frequency-Drug Arg1:T101 Arg2:T68
+R58	Frequency-Drug Arg1:T102 Arg2:T9
+R59	Frequency-Drug Arg1:T103 Arg2:T39
+R60	Frequency-Drug Arg1:T104 Arg2:T63
+R61	Frequency-Drug Arg1:T108 Arg2:T105
+R62	Form-Drug Arg1:T107 Arg2:T105
+R63	Strength-Drug Arg1:T106 Arg2:T105
+T111	Reason 6896 6899	CHF
+T113	Reason 1110 1119	Pneumonia
+T114	Reason 1533 1544	empirically
+T115	Drug 6756 6767	Antibiotics
+T116	Drug 6832 6836	nebs
+T117	Frequency 6837 6840	prn
+T119	Drug 7550 7562	chemotherapy
+T120	ADE 7528 7537	mucositis
+T121	ADE 7495 7506	Odynophagia
+T122	Reason 7495 7506	Odynophagia
+T123	Drug 7599 7608	narcotics
+T124	Drug 7947 7959	chemotherapy
+T125	ADE 7922 7934	pancytopenic
+T126	Reason 7922 7934	pancytopenic
+R64	Frequency-Drug Arg1:T117 Arg2:T116
+R65	ADE-Drug Arg1:T120 Arg2:T119
+R67	Reason-Drug Arg1:T122 Arg2:T123
+R69	Reason-Drug Arg1:T113 Arg2:T8	
+R70	Reason-Drug Arg1:T113 Arg2:T3	
+R71	Reason-Drug Arg1:T113 Arg2:T11	
+R72	Reason-Drug Arg1:T114 Arg2:T54	
+R73	Reason-Drug Arg1:T114 Arg2:T62	
+R74	Reason-Drug Arg1:T111 Arg2:T49	
+R75	ADE-Drug Arg1:T121 Arg2:T119	
+R66	Reason-Drug Arg1:T126 Arg2:T23	
+R68	ADE-Drug Arg1:T125 Arg2:T124	
+T15	Route 8322 8324	IV
+R6	Route-Drug Arg1:T15 Arg2:T60	

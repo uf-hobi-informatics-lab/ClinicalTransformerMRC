@@ -1,0 +1,334 @@
+T1	Drug 7297 7303	Zometa
+T2	Drug 5380 5391	doxorubicin
+T3	Drug 5257 5267	Vorinostat
+T4	Drug 16883 16897	NITROFURANTOIN
+T5	Drug 16790 16803	CIPROFLOXACIN
+T6	Drug 19300 19307	Doxepin
+T7	Strength 19308 19313	25 mg
+T8	Form 19339 19347	Capsules
+T9	Frequency 19351 19357;19358 19361	once a day
+T10	Route 19348 19350	PO
+T11	Drug 16666 16675	CEFAZOLIN
+T12	Drug 19229 19243	Metoclopramide
+T13	Strength 19244 19249	10 mg
+T14	Form 19266 19272	Tablet
+T15	Dosage 19262 19265	0.5
+T16	Route 19273 19275	PO
+T17	Drug 7458 7463	ONTAK
+T18	Drug 163 172	Compazine
+T19	Drug 19366 19380	Spironolactone
+T20	Strength 19381 19386	25 mg
+T21	Form 19407 19413	Tablet
+T22	Route 19414 19416	PO
+T23	Strength 19894 19898	5 mg
+T24	Form 19919 19925	Tablet
+T25	Route 19926 19928	PO
+T26	Drug 19879 19892;19892 19893	Metoclopramid e
+T27	Drug 2652 2662	clobetasol
+T29	Drug 19499 19511	Fexofenadine
+T30	Strength 19512 19517	60 mg
+T31	Form 19538 19544	Tablet
+T32	Route 19545 19547	PO
+T33	Drug 4525 4535	bexarotene
+T34	Strength 4551 4556	150mg
+T35	Drug 1954 1960	flagyl
+T36	Route 1951 1953	PO
+T37	Drug 19631 19639	Benadryl
+T38	Route 19640 19644	Oral
+T39	Drug 16945 16957;16957 16963	TRIMETHOPRIM /SULFA
+T40	Drug 16914 16924	TOBRAMYCIN
+T41	Drug 5427 5437	bortezomib
+T42	Drug 1844 1852	levaquin
+T43	Drug 566 579	normal saline
+T44	Drug 16697 16705	CEFEPIME
+T45	Drug 4667 4677	bexarotene
+T46	Drug 1971 1985	valganciclovir
+T47	Drug 19649 19657	Levaquin
+T48	Strength 19658 19664	750 mg
+T49	Form 19685 19691	Tablet
+T50	Frequency 19695 19701;19702 19705	once a day
+T51	Route 19692 19694	PO
+T52	Drug 5443 5454	gemcitabine
+T53	Drug 876 882	zometa
+T55	Drug 16332 16344;16344 16355	Piperacillin /tazobactam
+T56	Drug 2637 2650	triamcinolone
+T57	Drug 5005 5015	vorinostat
+T58	Strength 5016 5021	400mg
+T59	Strength 19038 19044	500 mg
+T60	Form 19065 19071	Tablet
+T61	Route 19072 19074	PO
+T62	Drug 19024 19036;19036 19037	Metronidazol e
+T63	Drug 16852 16861	MEROPENEM
+T64	Drug 16728 16739	CEFTAZIDIME
+T65	Drug 16604 16614	AMPICILLIN
+T66	Drug 18781 18791	Folic Acid
+T67	Strength 18792 18796	1 mg
+T68	Form 18817 18823	Tablet
+T69	Route 18824 18826	PO
+T70	Drug 19131 19140	Lorazepam
+T71	Strength 19141 19147	0.5 mg
+T72	Form 19164 19171	Tablets
+T73	Dosage 19160 19163	1-2
+T74	Route 19172 19174	PO
+T75	Strength 18931 18937	450 mg
+T76	Form 18958 18964	Tablet
+T77	Route 18965 18967	PO
+T78	Drug 18916 18929;18929 18930	Valganciclovi r
+T79	Drug 6075 6086	pentostatin
+T80	Strength 6087 6090;6090 6093	4mg /m2
+T81	Drug 19816 19823	Heparin
+T82	Strength 19824 19831;19831 19834	10units /ml
+T83	Drug 19433 19443	Pyridoxine
+T84	Strength 19444 19450	100 mg
+T85	Form 19472 19478	Tablet
+T86	Frequency 19482 19488;19489 19492	once a day
+T87	Route 19479 19481	PO
+T88	Drug 5226 5237	doxorubicin
+T89	Drug 1260 1268	levaquin
+T90	Strength 19577 19583	300 mg
+T91	Form 19604 19610	Tablet
+T92	Frequency 19614 19620;19621 19624	once a day
+T93	Route 19611 19613	PO
+T94	Drug 19565 19575;19575 19576	Allopurino l
+T95	Drug 16635 16645;16645 16655	AMPICILLIN /SULBACTAM
+T96	Drug 16759 16770	CEFTRIAXONE
+T97	Drug 5243 5254	gemcitabine
+T98	Reason 19209 19215	nausea
+T99	Reason 19961 19967	nausea
+T100	Drug 588 602	bisphosphonate
+T101	Drug 862 871	hydration
+T102	Duration 1243 1249	10 day
+T103	Reason 1166 1179	LLL pnuemonia
+T104	Reason 1803 1816	LLL pneumonia
+T105	Reason 1898 1903	C.dif
+T106	Drug 2671 2684	triamcinolone
+T107	Reason 2496 2518	pruritic, papular rash
+T108	Drug 4459 4475	Interferon alpha
+T109	Dosage 4493 4501	6M units
+T110	Frequency 4502 4520	three times weekly
+T111	Frequency 4557 4562	daily
+T112	Strength 4577 4581	75mg
+T113	Frequency 4582 4587	daily
+T114	Drug 4646 4662	interferon alpha
+T115	Strength 4710 4714	45mg
+T116	Frequency 4715 4721	weekly
+T117	Frequency 5022 5027	daily
+T118	Drug 5132 5148	interferon alpha
+T119	ADE 5114 5130	thrombocytopenia
+T120	Dosage 5166 5174	3M units
+T121	Drug 5076 5092	interferon alpha
+T122	Dosage 5093 5101	6M units
+T123	Drug 5272 5288	interferon alpha
+T124	Frequency 6094 6100	weekly
+T125	Dosage 6151 6158	3Munits
+T126	Frequency 6159 6166	3x/wkly
+T127	Dosage 6182 6184;6185 6190	3M units
+T128	Frequency 6191 6198	5x/wkly
+T129	Reason 7274 7287	Hypercalcemia
+T130	Drug 7289 7292	IVF
+T131	Drug 6777 6782	ONTAK
+T132	Drug 16821 16831	GENTAMICIN
+T133	Form 18797 18803	Tablet
+T134	Dosage 18809 18816	One (1)
+T135	Frequency 18827 18840	DAILY (Daily)
+T136	Drug 18846 18859	Levothyroxine
+T137	Strength 18860 18867	100 mcg
+T138	Form 18868 18874	Tablet
+T139	Dosage 18880 18887	One (1)
+T140	Form 18888 18894	Tablet
+T141	Route 18895 18897	PO
+T142	Frequency 18898 18903;18904 18911	DAILY (Daily)
+T143	Form 18938 18944	Tablet
+T144	Frequency 18968 18974;18975 18987	BID (2 times a day)
+T145	Dosage 18950 18957	Two (2)
+T146	Form 19045 19051	Tablet
+T147	Dosage 19057 19064	One (1)
+T148	Frequency 19075 19085;19086 19094	Q8H (every 8 hours)
+T149	Form 19148 19154	Tablet
+T150	Frequency 19175 19187;19188 19204	Q4H (every 4 hours) as needed
+T151	Form 19250 19256	Tablet
+T152	Frequency 19276 19290;19291 19295	TID (3 times a day)
+T153	Form 19314 19321	Capsule
+T154	Form 19387 19393	Tablet
+T155	Dosage 19399 19406	Two (2)
+T156	Frequency 19417 19424;19425 19429	twice a day.
+T157	Form 19451 19457	Tablet
+T158	Dosage 19463 19471	Four (4)
+T159	Form 19518 19524	Tablet
+T160	Dosage 19530 19537	One (1)
+T161	Frequency 19548 19555;19556 19559	twice a day
+T162	Form 19584 19590	Tablet
+T163	Dosage 19596 19603	One (1)
+T164	Form 19665 19671	Tablet
+T165	Dosage 19677 19684	One (1)
+T166	Duration 19706 19709;19710 19716	for 9 days
+T167	Form 19899 19905	Tablet
+T168	Dosage 19911 19918	One (1)
+T169	Frequency 19929 19934;19935 19956	three times a day as needed
+R1	Strength-Drug Arg1:T7 Arg2:T6
+R2	Form-Drug Arg1:T8 Arg2:T6
+R3	Frequency-Drug Arg1:T9 Arg2:T6
+R4	Route-Drug Arg1:T10 Arg2:T6
+R5	Strength-Drug Arg1:T13 Arg2:T12
+R6	Form-Drug Arg1:T14 Arg2:T12
+R7	Dosage-Drug Arg1:T15 Arg2:T12
+R8	Route-Drug Arg1:T16 Arg2:T12
+R9	Strength-Drug Arg1:T20 Arg2:T19
+R10	Form-Drug Arg1:T21 Arg2:T19
+R11	Route-Drug Arg1:T22 Arg2:T19
+R12	Strength-Drug Arg1:T23 Arg2:T26
+R13	Form-Drug Arg1:T24 Arg2:T26
+R14	Route-Drug Arg1:T25 Arg2:T26
+R16	Strength-Drug Arg1:T30 Arg2:T29
+R17	Form-Drug Arg1:T31 Arg2:T29
+R18	Route-Drug Arg1:T32 Arg2:T29
+R19	Strength-Drug Arg1:T34 Arg2:T33
+R20	Route-Drug Arg1:T36 Arg2:T35
+R21	Route-Drug Arg1:T38 Arg2:T37
+R22	Strength-Drug Arg1:T48 Arg2:T47
+R23	Form-Drug Arg1:T49 Arg2:T47
+R24	Frequency-Drug Arg1:T50 Arg2:T47
+R25	Route-Drug Arg1:T51 Arg2:T47
+R27	Strength-Drug Arg1:T58 Arg2:T57
+R28	Strength-Drug Arg1:T59 Arg2:T62
+R29	Route-Drug Arg1:T61 Arg2:T62
+R30	Strength-Drug Arg1:T67 Arg2:T66
+R31	Form-Drug Arg1:T68 Arg2:T66
+R32	Route-Drug Arg1:T69 Arg2:T66
+R33	Strength-Drug Arg1:T71 Arg2:T70
+R34	Form-Drug Arg1:T72 Arg2:T70
+R35	Dosage-Drug Arg1:T73 Arg2:T70
+R36	Route-Drug Arg1:T74 Arg2:T70
+R37	Strength-Drug Arg1:T75 Arg2:T78
+R38	Form-Drug Arg1:T76 Arg2:T78
+R39	Route-Drug Arg1:T77 Arg2:T78
+R40	Strength-Drug Arg1:T80 Arg2:T79
+R41	Strength-Drug Arg1:T82 Arg2:T81
+R42	Strength-Drug Arg1:T84 Arg2:T83
+R43	Form-Drug Arg1:T85 Arg2:T83
+R44	Frequency-Drug Arg1:T86 Arg2:T83
+R45	Route-Drug Arg1:T87 Arg2:T83
+R46	Strength-Drug Arg1:T90 Arg2:T94
+R47	Form-Drug Arg1:T91 Arg2:T94
+R48	Frequency-Drug Arg1:T92 Arg2:T94
+R49	Route-Drug Arg1:T93 Arg2:T94
+R50	Reason-Drug Arg1:T103 Arg2:T89
+R51	Duration-Drug Arg1:T102 Arg2:T89
+R52	Reason-Drug Arg1:T104 Arg2:T42
+R53	Reason-Drug Arg1:T105 Arg2:T35
+R54	Reason-Drug Arg1:T105 Arg2:T46
+R55	Reason-Drug Arg1:T107 Arg2:T106
+R56	Reason-Drug Arg1:T107 Arg2:T27
+R57	Reason-Drug Arg1:T107 Arg2:T56
+R58	Frequency-Drug Arg1:T110 Arg2:T108
+R59	Dosage-Drug Arg1:T109 Arg2:T108
+R60	Frequency-Drug Arg1:T113 Arg2:T33
+R61	Strength-Drug Arg1:T112 Arg2:T33
+R62	Frequency-Drug Arg1:T111 Arg2:T33
+R63	Frequency-Drug Arg1:T116 Arg2:T45
+R64	Strength-Drug Arg1:T115 Arg2:T45
+R65	Frequency-Drug Arg1:T117 Arg2:T57
+R66	ADE-Drug Arg1:T119 Arg2:T118
+R67	Dosage-Drug Arg1:T120 Arg2:T118
+R68	Dosage-Drug Arg1:T122 Arg2:T121
+R69	Frequency-Drug Arg1:T124 Arg2:T79
+R70	Reason-Drug Arg1:T129 Arg2:T1
+R71	Reason-Drug Arg1:T129 Arg2:T130
+R72	Frequency-Drug Arg1:T135 Arg2:T66
+R73	Dosage-Drug Arg1:T134 Arg2:T66
+R74	Form-Drug Arg1:T133 Arg2:T66
+R75	Frequency-Drug Arg1:T142 Arg2:T136
+R76	Route-Drug Arg1:T141 Arg2:T136
+R77	Form-Drug Arg1:T140 Arg2:T136
+R78	Dosage-Drug Arg1:T139 Arg2:T136
+R79	Form-Drug Arg1:T138 Arg2:T136
+R80	Strength-Drug Arg1:T137 Arg2:T136
+R81	Frequency-Drug Arg1:T144 Arg2:T78
+R82	Dosage-Drug Arg1:T145 Arg2:T78
+R83	Form-Drug Arg1:T143 Arg2:T78
+R84	Dosage-Drug Arg1:T147 Arg2:T62
+R85	Form-Drug Arg1:T146 Arg2:T62
+R86	Form-Drug Arg1:T60 Arg2:T62
+R87	Frequency-Drug Arg1:T148 Arg2:T62
+R88	Reason-Drug Arg1:T98 Arg2:T70
+R89	Frequency-Drug Arg1:T150 Arg2:T70
+R90	Form-Drug Arg1:T149 Arg2:T70
+R91	Form-Drug Arg1:T151 Arg2:T12
+R92	Frequency-Drug Arg1:T152 Arg2:T12
+R93	Form-Drug Arg1:T153 Arg2:T6
+R94	Form-Drug Arg1:T154 Arg2:T19
+R95	Frequency-Drug Arg1:T156 Arg2:T19
+R96	Dosage-Drug Arg1:T158 Arg2:T83
+R97	Form-Drug Arg1:T157 Arg2:T83
+R98	Frequency-Drug Arg1:T161 Arg2:T29
+R99	Dosage-Drug Arg1:T160 Arg2:T29
+R100	Form-Drug Arg1:T159 Arg2:T29
+R101	Dosage-Drug Arg1:T163 Arg2:T94
+R102	Form-Drug Arg1:T162 Arg2:T94
+R103	Duration-Drug Arg1:T166 Arg2:T47
+R104	Dosage-Drug Arg1:T165 Arg2:T47
+R105	Form-Drug Arg1:T164 Arg2:T47
+R106	Frequency-Drug Arg1:T169 Arg2:T26
+R107	Reason-Drug Arg1:T99 Arg2:T26
+R108	Dosage-Drug Arg1:T168 Arg2:T26
+R109	Form-Drug Arg1:T167 Arg2:T26
+T170	Drug 2624 2635	antibiotics
+T171	Drug 3951 3967	Interferon alpha
+T172	Dosage 3971 3979	3M units
+T173	Frequency 3980 3985	3x/wk
+T174	Drug 4060 4076	Interferon alpha
+T175	Dosage 4090 4097	6Munits
+T176	Frequency 4098 4103	3x/wk
+T177	Drug 4165 4181	Interferon alpha
+T178	Dosage 4195 4204	4.5Munits
+T179	Frequency 4205 4210	3x/wk
+T180	Frequency 5102 5105	TIW
+T181	Frequency 5175 5180	3x/wk
+T182	ADE 5491 5502	neutropenia
+T183	Dosage 5521 5529	3M units
+T184	Frequency 5530 5533	TIW
+T185	Drug 5534 5550	Interferon alpha
+T186	Dosage 6102 6103	4
+T187	Drug 6131 6147	interferon alpha
+T188	Drug 10455 10465	gadolinium
+T189	Drug 12460 12470	gadolinium
+T191	Drug 19770 19785	Sodium chloride
+T192	Dosage 19786 19792	5-10ml
+T193	Frequency 19793 19806;19807 19815	pre- and post infusion
+T194	Dosage 557 562	liter
+T197	Drug 976 981	chemo
+T198	Duration 1961 1966	x 14d
+T199	Drug 4633 4636	Mtx
+R110	Dosage-Drug Arg1:T172 Arg2:T171
+R111	Frequency-Drug Arg1:T173 Arg2:T171
+R112	Dosage-Drug Arg1:T175 Arg2:T174
+R113	Frequency-Drug Arg1:T176 Arg2:T174
+R114	Dosage-Drug Arg1:T178 Arg2:T177
+R115	Frequency-Drug Arg1:T179 Arg2:T177
+R116	Frequency-Drug Arg1:T184 Arg2:T185
+R117	Dosage-Drug Arg1:T183 Arg2:T185
+R119	Dosage-Drug Arg1:T192 Arg2:T191
+R120	Frequency-Drug Arg1:T193 Arg2:T191
+R121	Dosage-Drug Arg1:T194 Arg2:T43	
+R122	Duration-Drug Arg1:T198 Arg2:T35	
+R123	Frequency-Drug Arg1:T180 Arg2:T121	
+R124	Frequency-Drug Arg1:T181 Arg2:T118	
+R125	ADE-Drug Arg1:T182 Arg2:T52	
+R126	ADE-Drug Arg1:T182 Arg2:T41	
+R127	Dosage-Drug Arg1:T186 Arg2:T79	
+R128	Dosage-Drug Arg1:T125 Arg2:T187	
+R129	Frequency-Drug Arg1:T126 Arg2:T187	
+R130	Dosage-Drug Arg1:T127 Arg2:T187	
+R131	Frequency-Drug Arg1:T128 Arg2:T187	
+R132	Dosage-Drug Arg1:T155 Arg2:T19	
+T28	Route 859 861	IV
+R15	Route-Drug Arg1:T28 Arg2:T101	
+T54	Route 2668 2670	IV
+R26	Route-Drug Arg1:T54 Arg2:T106	
+T190	Route 12457 12459	IV
+R118	Route-Drug Arg1:T190 Arg2:T189	
+T195	Reason 1909 1920	CMV viremia
+R133	Reason-Drug Arg1:T195 Arg2:T35	
+R134	Reason-Drug Arg1:T195 Arg2:T46	
+T196	Reason 19217 19224	anxiety
+R135	Reason-Drug Arg1:T196 Arg2:T70	

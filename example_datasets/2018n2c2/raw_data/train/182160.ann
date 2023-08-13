@@ -1,0 +1,85 @@
+T1	Dosage 10004 10011	One (1)
+R1	Dosage-Drug Arg1:T1 Arg2:T48
+T2	Form 10012 10041	Tablet Sustained Release 24HR
+R2	Form-Drug Arg1:T2 Arg2:T48
+T3	Route 10042 10044	PO
+R3	Route-Drug Arg1:T3 Arg2:T48
+T4	Frequency 10045 10055	once a day
+R4	Frequency-Drug Arg1:T4 Arg2:T48
+T5	Drug 10060 10083	Oxycodone-Acetaminophen
+T6	Strength 10084 10092	5-325 mg
+R5	Strength-Drug Arg1:T6 Arg2:T5
+T7	Form 10093 10099	Tablet
+R6	Form-Drug Arg1:T7 Arg2:T5
+T8	Dosage 10105 10112	One (1)
+R7	Dosage-Drug Arg1:T8 Arg2:T5
+T9	Form 10113 10119	Tablet
+R8	Form-Drug Arg1:T9 Arg2:T5
+T10	Route 10120 10122	PO
+R9	Route-Drug Arg1:T10 Arg2:T5
+T11	Frequency 10123 10128	Q4-6H
+R10	Frequency-Drug Arg1:T11 Arg2:T5
+T12	Reason 10169 10173	pain
+R11	Reason-Drug Arg1:T12 Arg2:T5
+T13	ADE 10330 10341	hypercarbia
+R12	ADE-Drug Arg1:T13 Arg2:T14
+T14	Drug 10355 10361	ativan
+T15	ADE 10481 10499	Right facial droop
+R13	ADE-Drug Arg1:T15 Arg2:T16
+T16	Drug 10503 10523	sedating medications
+T17	Drug 11333 11348	pain medication
+T18	Drug 13034 13038;13039 13049	pain medication
+T19	Drug 13141 13159	narcotic pain meds
+T20	Reason 13328 13339	constipated
+R14	Reason-Drug Arg1:T20 Arg2:T21
+R15	Reason-Drug Arg1:T20 Arg2:T22
+T21	Drug 13399 13408	Metamucil
+T22	Drug 13412 13428	Milk of Magnesia
+T23	Reason 9237 9240	UTI
+R16	Reason-Drug Arg1:T23 Arg2:T24
+T24	Drug 9256 9268	levofloxacin
+T25	Reason 9281 9289	agitated
+R17	Reason-Drug Arg1:T25 Arg2:T26
+T26	Drug 9331 9337	ativan
+T27	ADE 9346 9357	hypercarbic
+R18	ADE-Drug Arg1:T27 Arg2:T26
+T28	Drug 9771 9778	crestor
+T29	Strength 9779 9781	10
+R19	Strength-Drug Arg1:T29 Arg2:T28
+T30	Drug 9784 9787	ASA
+T31	Strength 9788 9790	81
+R20	Strength-Drug Arg1:T31 Arg2:T30
+T32	Drug 9793 9799	toprol
+T33	Strength 9800 9802	25
+R21	Strength-Drug Arg1:T33 Arg2:T32
+T34	Drug 9831 9838	Aspirin
+T35	Strength 9839 9845	325 mg
+R22	Strength-Drug Arg1:T35 Arg2:T34
+T36	Form 9846 9852	Tablet
+R23	Form-Drug Arg1:T36 Arg2:T34
+T37	Dosage 9858 9865	One (1)
+R24	Dosage-Drug Arg1:T37 Arg2:T34
+T38	Form 9866 9872	Tablet
+R25	Form-Drug Arg1:T38 Arg2:T34
+T39	Route 9873 9875	PO
+R26	Route-Drug Arg1:T39 Arg2:T34
+T40	Frequency 9876 9881	DAILY
+R27	Frequency-Drug Arg1:T40 Arg2:T34
+T41	Drug 9894 9901	Crestor
+T42	Strength 9902 9907	10 mg
+R28	Strength-Drug Arg1:T42 Arg2:T41
+T43	Form 9908 9914	Tablet
+R29	Form-Drug Arg1:T43 Arg2:T41
+T44	Dosage 9920 9927	One (1)
+R30	Dosage-Drug Arg1:T44 Arg2:T41
+T45	Form 9928 9934	Tablet
+R31	Form-Drug Arg1:T45 Arg2:T41
+T46	Route 9935 9937	PO
+R32	Route-Drug Arg1:T46 Arg2:T41
+T47	Frequency 9938 9948	once a day
+R33	Frequency-Drug Arg1:T47 Arg2:T41
+T48	Drug 9953 9962	Toprol XL
+T49	Strength 9963 9968	25 mg
+R34	Strength-Drug Arg1:T49 Arg2:T48
+T50	Form 9969 9998	Tablet Sustained Release 24HR
+R35	Form-Drug Arg1:T50 Arg2:T48

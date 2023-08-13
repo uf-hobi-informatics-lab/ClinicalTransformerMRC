@@ -1,0 +1,307 @@
+Admission Date:  [**2107-6-3**]              Discharge Date:   [**2107-6-9**]
+
+Date of Birth:  [**2028-1-5**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Codeine / Iodine-Iodine Containing
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+[**2107-6-3**] Coronary artery bypass graft x 2 (Left internal mammary
+artery to left anterior descending, Saphenous vein graft to
+diagonal)
+
+History of Present Illness:
+79 year old male with known coronary artery disease s/p cypher
+stent to RCA in [**2098**] who has been complaining of chronic angina
+with minimal exertion. In addition, notes difficulty breathing,
+severe fatigue and chest pressure with light ADLs, such as
+showering and picking up leaves. Despite maximal medical therapy
+he is still complaining of recurrent angina and was referred for
+elective catheterization. Catheterization revealed diffuse left
+anterior descending narrowing with new narrowing at branching of
+ostium which is not amenable to stenting without stenting over
+circumflex. He presents today for surgical evaluation.
+
+Past Medical History:
+Coronary artery disease s/p cypher stent to RCA [**2098**]
+Diabetes
+Dyslipidemia
+Hypertension
+Chronic Renal Insufficiency (b/l cre 1.5- 1.9)
+GERD/PUD
+Hiatal hernia
+Spinal Stenosis
+Benign prostatic hypertrophy
+"Infection" of RLE foot-knee from a cut on his toe as a child
+Past Surgical History:
+s/p Posterior cervical laminectomy, [**2076**] (by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **])
+Lumbar laminectomy [**2104**]
+Left hip- removal of fat tumor
+Herniorrhaphy [**2075**]
+Left Cataract
+
+Social History:
+Race: Immigrant from [**Country 1684**]
+Lives with: Wife
+Occupation: Retired mechanic
+Tobacco: remote history as a teenager
+ETOH: Denies
+
+Family History:
+Brother died of MI at age 47
+
+Physical Exam:
+Pulse: 80 Resp: 18  O2 sat: 98%
+B/P  Right: 109/66   Left: 105/61
+Height: 5'8"   Weight: 84 kg
+
+General: NAD
+Skin: Dry [X] intact [X]
+HEENT: PERRLA [] EOMI [x] pupils fixed (cataracts)
+Neck: Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x] Irregular [] Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x] bowel sounds
++
+[x]
+Extremities: Warm [x], well-perfused [x]
+Edema none
+Varicosities: moderate varicosities
+well-healed scar medial right leg- ~3inches below knee (s/p
+surgery for "infection")
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 2+  Left:2+
+DP           Right: 2+  Left:2+
+PT           [**Name (NI) 167**]: 2+  Left:2+
+Radial       Right: 2+  Left:2+
+
+Carotid Bruit       no bruits appreciated
+
+Pertinent Results:
+[**2107-6-3**] Echo: PREBYPASS: No atrial septal defect is seen by 2D or
+color Doppler. Left ventricular wall thicknesses and cavity size
+are normal. Regional left ventricular wall motion is normal.
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+The ascending aorta is mildly dilated. There are complex (>4mm)
+atheroma in the descending thoracic aorta. The aortic valve
+leaflets (3) are mildly thickened. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Physiologic mitral regurgitation is seen (within
+normal limits).
+POSTBYPASS: There is preserved biventricular systolic function.
+The study is otherwise unchanged from the prebypass period.
+
+[**6-8**] CXR: The lungs are low in volume but clear. The cardiac
+silhouette is enlarged. The mediastinal silhouette and hilar
+contours are normal. No pleural effusion or pneumothorax is
+present. Sternal wires are intact.
+
+[**2107-6-9**] 10:47AM BLOOD WBC-5.6 RBC-3.73* Hgb-11.8* Hct-34.5*
+MCV-93 MCH-31.5 MCHC-34.1 RDW-15.0 Plt Ct-137*
+[**2107-6-8**] 05:00AM BLOOD WBC-4.4 RBC-3.66* Hgb-11.2* Hct-31.8*
+MCV-87 MCH-30.6 MCHC-35.2* RDW-15.0 Plt Ct-95*
+[**2107-6-6**] 04:35AM BLOOD WBC-2.6*# RBC-2.65* Hgb-8.2* Hct-23.4*
+MCV-88 MCH-31.0 MCHC-35.0 RDW-15.0 Plt Ct-73*
+[**2107-6-3**] 04:32PM BLOOD WBC-5.6 RBC-2.60*# Hgb-8.2*# Hct-23.0*#
+MCV-88 MCH-31.6 MCHC-35.7* RDW-14.8 Plt Ct-67*
+[**2107-6-9**] 10:47AM BLOOD Plt Ct-137*
+[**2107-6-7**] 09:30AM BLOOD PT-12.0 PTT-23.0 INR(PT)-1.0
+[**2107-6-3**] 04:32PM BLOOD Plt Smr-VERY LOW Plt Ct-67*
+[**2107-6-3**] 04:32PM BLOOD PT-13.9* PTT-26.7 INR(PT)-1.2*
+[**2107-6-3**] 04:32PM BLOOD Fibrino-198
+[**2107-6-9**] 10:47AM BLOOD Glucose-166* UreaN-34* Creat-1.7* Na-136
+K-3.9 Cl-98 HCO3-27 AnGap-15
+[**2107-6-6**] 04:35AM BLOOD Glucose-173* UreaN-43* Creat-2.3* Na-133
+K-5.0 Cl-98 HCO3-27 AnGap-13
+[**2107-6-3**] 05:41PM BLOOD UreaN-31* Creat-1.4* Na-136 K-4.8 Cl-107
+HCO3-22 AnGap-12
+[**2107-6-6**] 04:35AM BLOOD TotBili-1.6*
+
+[**2107-6-7**] 1:31 pm SPUTUM     Site: EXPECTORATED
+      Source: Expectorated.
+
+                            **FINAL REPORT [**2107-6-9**]**
+
+   GRAM STAIN (Final [**2107-6-7**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      3+  (5-10 per 1000X FIELD):   MULTIPLE ORGANISMS
+CONSISTENT WITH
+                                    OROPHARYNGEAL FLORA.
+      2+   (1-5 per 1000X FIELD):   BUDDING YEAST.
+
+   RESPIRATORY CULTURE (Final [**2107-6-9**]):
+      SPARSE GROWTH Commensal Respiratory Flora.
+      GRAM NEGATIVE ROD(S).
+
+Brief Hospital Course:
+Admitted same day surgery and was brought to the operating room
+for coronary artery bypass graft surgery.  Please see operative
+report for surgical details. He received cefazolin for
+perioperative antibiotics and was transferred to the intensive
+care unit for post operative management.  That evening he was
+weaned from sedation, awoke neurologically intact, and was
+extubated without complications.  On post-op day one he was
+started on beta-blockers, diuretics and metformin. Later that
+day he was transferred to the floor.  Physical therapy worked
+with him on strength and mobility.  On post operative day two he
+had episodes of nausea treated with antiemtics and then short
+episode of confusion so his narcotics were stopped and he was
+placed on ultram for pain management with good effect.  Due to
+increased creatinine to 2.1 his lasix and metformin were
+stopped, and lantus was increased for blood glucose management.
+Over the next few days his creatinine peaked at 2.3 on [**6-6**] and
+trended down to 1.7 at discharge.  He was resumed on lasix for
+diuresiss with lower extremity edema.  Additionally he had
+decreased hematocrit requiring transfusions, and restarted on
+home iron.  Hematocrits were trended daily and they remained
+stable.  Also his white blood cell count dropped but no fever
+and differential was normal, he was pan cultured and to date
+only grew on gram negative rods from sputum and was placed on
+levaquin.  He continued to improve and was ready for discharge
+to rehab on post operative day six to Newbridge on the [**Doctor Last Name **]
+with plan for follow up wound check next week for evaluation of
+right leg.
+
+Medications on Admission:
+Doxazosin 4 mg daily
+Finasteride 5 mg daily
+Isosorbide mononitrate 10 mg daily
+Pantoprazole 40 mg daily
+Simvastatin 80 mg daily
+Tramadol 50 mg Tablet, 1-2 Tablets PO every eight hours PRN
+Metoprolol succinate 50 mg [**Hospital1 **]
+Betamethasone valerate 0.1 % Cream, apply to affected area twice
+daily
+Lorazepam 0.5 mg [**Hospital1 **] prn for anxiety
+Metformin 1,000 mg [**Hospital1 **]
+Nitrostat 0.4 mg Sublingual PRN for chest pain
+Travatan Z 0.004 % Drops Ophthalmic
+Brimonidine 0.15 % Drops Ophthalmic
+Aspirin 81 mg daily
+Amlodipine 2.5 mg daily
+
+Discharge Medications:
+1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+2. simvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+3. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+4. Ultram 50 mg Tablet Sig: One (1) Tablet PO every four (4)
+hours as needed for pain.
+5. doxazosin 4 mg Tablet Sig: One (1) Tablet PO once a day.
+6. finasteride 5 mg Tablet Sig: One (1) Tablet PO once a day.
+7. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+8. carvedilol 25 mg Tablet Sig: One (1) Tablet PO twice a day.
+9. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1)
+Tablet PO once a day.
+10. ascorbic acid 500 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+11. levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 7 days.
+12. chlorhexidine gluconate 0.12 % Mouthwash Sig: Fifteen (15)
+ML Mucous membrane [**Hospital1 **] (2 times a day).
+13. Mucinex 1,200 mg Tablet, ER Multiphase 12 hr Sig: One (1)
+Tablet, ER Multiphase 12 hr PO twice a day.
+14. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: Three (3) ml Inhalation Q2H (every 2 hours) as
+needed for wheezing.
+15. ipratropium-albuterol 18-103 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation Q6H (every 6 hours).
+16. lorazepam 0.5 mg Tablet Sig: 0.5 Tablet PO twice a day: 0.25
+mg twice a day .
+17. cyanocobalamin (vitamin B-12) 1,000 mcg Tablet Sig: Six (6)
+Tablet PO DAILY (Daily): 6000 mcg .
+18. sliding scale insulin
+Insulin SC Sliding Scale
+  Breakfast Lunch Dinner Bedtime
+Regular Regular Regular Regular
+Glucose Insulin Dose Insulin Dose Insulin Dose Insulin Dose
+0-70   mg/dL Proceed with hypoglycemia protocol Proceed with
+hypoglycemia protocol Proceed with hypoglycemia protocol Proceed
+with hypoglycemia protocol
+71-90   mg/dL 0   Units 0   Units 0   Units 0   Units
+91-140   mg/dL 3   Units 3   Units 3   Units 0   Units
+141-180   mg/dL 6   Units 6   Units 6   Units 2   Units
+181-220   mg/dL 9   Units 9   Units 9   Units 4   Units
+221-280   mg/dL 12   Units 12   Units 12   Units 6   Units
+
+19. insulin glargine 100 unit/mL Solution Sig: Thirty (30) units
+Subcutaneous at bedtime.
+20. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+21. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO DAILY (Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Newbridge on the [**Doctor Last Name **] - [**Location (un) 1411**]
+
+Discharge Diagnosis:
+Coronary artery disease s/p CABG
+Anemia
+Diabetes Mellitus
+Dyslipidemia
+Hypertension
+Chronic Renal Insufficiency (creatinine 1.5- 1.9)
+Gastroesophageal reflux disease
+Hiatal hernia
+Spinal Stenosis
+Benign prostatic hypertrophy
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with Ultram as needed
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right - healing well, no erythema or drainage, significant
+ecchymosis knee up through thigh no warmth
+Edema +1 pitting bilateral lower extremities
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 170**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+You are scheduled for the following appointments
+Wound check Cardiac surgery office [**Telephone/Fax (1) 170**] on [**6-15**] at 11 am
+Surgeon: Dr. [**First Name (STitle) **] [**Name (STitle) **] [**Telephone/Fax (1) 170**] on [**6-30**] at 1:00pm
+Cardiologist: Dr. [**First Name4 (NamePattern1) 919**] [**Last Name (NamePattern1) 911**] [**Telephone/Fax (1) 62**] on [**7-6**] at 3:00pm
+
+Please call to schedule appointments with your
+Primary Care Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 172**] in [**3-1**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**2107-6-9**]

@@ -1,0 +1,311 @@
+Admission Date:  [**2174-3-18**]              Discharge Date:   [**2174-4-14**]
+
+Date of Birth:  [**2095-12-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 3984**]
+Chief Complaint:
+66% atypical white blood cells and low platelets on a routine
+CBC.
+
+Major Surgical or Invasive Procedure:
+Intubation
+
+History of Present Illness:
+History of Present Illness: The pt is a 78 yo M with a h/o CAD,
+HTN, HL, DM who presents from his PCP's office after routine CBC
+showed 66% atypical white blood cells and low platelets on a
+routine CBC. He initially sought care from his PCP after he had
+noticed that he had noticed increased bleeding from the site of
+a removed childhood skin tumor which had been severely pruritic,
+causing him to scratch it with a sharp back-scratcher
+repeatedly. The PCP felt the patient had an infected cyst and
+started abx. His PCP drew [**Name Initial (PRE) **] CBC which showed 66% atypical white
+cells and thrombocytopenia with a normal white cell count and
+hematocrit. He then ordered immunophenotyping which is pending,
+and sent the patient to the ED. On review of systems, the
+patient also notes more malaise and dyspnea on exertion over the
+last month, as well as intermittently blood streaked stools and
+melena.
+
+In the ED, the patient was noted to have no evidence of bleeding
+but labs concerning for DIC and tumor lysis. He was seen by the
+heme-onc consult fellow. He was given 2 amps of bicarb with D5W
+at 100 cc/hr. He was given 10u of cryoprecpitate and transfused
+platelets. He also received 50 mg PO of all-trans retinoic acid.
+
+
+Review of Systems:
+(+) recent chills, headaches,
+(-) Review of Systems: GEN: No night sweats, recent weight loss
+or gain. HEENT: No headache, sinus tenderness, rhinorrhea or
+congestion. CV: No chest pain or tightness, palpitations. PULM:
+No cough, or wheezing. GI: No nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel
+habits. GUI: No dysuria or change in bladder habits. MSK: No
+arthritis, arthralgias, or myalgias. DERM: No rashes or skin
+breakdown. NEURO: No numbness/tingling in extremities. PSYCH: No
+feelings of depression or anxiety. All other review of systems
+negative.
+
+
+Past Medical History:
+Past Oncologic History: Received radiation as child to back for
+"tumors".
+.
+Other Past Medical History:
+CAD - stable angina
+Gout - no recent flares
+HTN
+PUD - last EGD [**2169**]
+Type II DM - A1c 6.2% on metformin
+
+
+Social History:
+He lives with his partner, [**Name (NI) **], who he has been with for over
+50yrs and married to for 6 yrs. He has one brother who his is
+not in contact with and no children. He has had several prior
+employments, including journalism, dance, stage management, and
+travel reporter. He also worked as a silver [**Doctor Last Name **] when he was
+exposed to sulfer products. He has travelled extensively. Last
+HIV negative 1 year ago, Hepatitis negative in the distant past.
+He has a distant history of smoking for 1 year. He has a history
+of 'heavy' drinking with scotch, but now drinks only wine with
+dinner per his report. Smokes occasional marijuana, and distant
+history of experimenting with other drugs.
+
+Family History:
+Father died of MI at 51. Mother of throat cancer in early 80s
+after long smoking and alcohol history. His brother is
+apparently healthy.
+
+Physical Exam:
+On Admission:
+VS: T: 100.6 F, BP 130/78, HR 96, RR 20, O2sat 100% on RA
+GEN: AOx3, NAD
+HEENT: PERRLA. MMM. no LAD. no JVD. neck supple. No cervical,
+supraclavicular, or axillary LAD
+Cards: RRR. S1/S2 normal. no murmurs/gallops/rubs.
+Pulm: No dullness to percussion, CTAB no crackles or wheezes
+Abd: BS+, soft, NT, no rebound/guarding, no HSM, no [**Doctor Last Name 515**]
+sign
+Extremities: wwp, no edema. DPs, PTs 2+.
+Skin: excoriations in R axilla. scab centrally located on
+central thoracic back with mild surrounding erythema but no
+purulent drainage or warmth though somewhat tender
+Neuro: CNs II-XII intact. 5/5 strength globally. sensation
+intact to LT, gait WNL.
+
+
+Pertinent Results:
+Admission labs:
+[**2174-3-17**] 04:55PM BLOOD WBC-5.3 RBC-3.96* Hgb-11.9* Hct-32.8*
+MCV-83 MCH-30.2 MCHC-36.4* RDW-14.9 Plt Ct-22*#
+[**2174-3-18**] 10:00AM BLOOD PT-16.1* PTT-22.0 INR(PT)-1.4*
+[**2174-3-17**] 04:55PM BLOOD UreaN-22* Creat-1.2 Na-137 K-4.5 Cl-99
+HCO3-28 AnGap-15
+[**2174-3-17**] 04:55PM BLOOD Glucose-143*
+[**2174-3-18**] 05:32PM BLOOD ALT-24 AST-33 LD(LDH)-483* AlkPhos-68
+TotBili-1.0
+
+Brief Hospital Course:
+78 yo male with distant history of stable angina, new diagnosis
+of acute promyelocytic leukemia, transferred to the ICU with
+tachycardia after ATRA treatment on the hematology malignancy
+floor, with DIC, pulmonary edema, and delirium.
+.
+# APML: He was diagnosed with APML with 56% blasts on
+differential [**2174-3-18**]. He was treated with ATRA and subsequently
+suffered from ATRA syndrome with an acute elevation in his WBC
+to >50 K. He had significant pulmonary leak. He was treated with
+ATRA throughout and received Idarubicin which had to be stopped
+secondary to elevated bilirubin. His blasts and WBC subsequently
+decreased, and on smear [**2174-4-4**] his myelocytes showed
+differentiation with improving status of his leukemia. ATRA was
+continued throughout his hospitalization. As a consequence of
+treatment, his course was complicated by tumor lysis syndrome
+with his uric acid peaking above 10, with a change an increase
+in creatinine to 2.5 initially and subsequently higher as
+described below. He was treated with allopurinol initially, and
+required a 1x dose of Rasburicase which led to the resolution of
+his TLS. He was maintained on his allopurinol for continued
+treatment.
+.
+# Respiratory Failure: Likely multifactorial in the setting of
+pulmonary leak from ATRA and likely alveolar hemorrhage. His
+fluid balance reached a peak of 27L positive secondary to his
+blood product requirement. He initially required a PEEP of 22
+with FiO2 of 100%. Over the course of 10 days he was able to be
+weaned down with the assistance of CVVH for fluid overload to
+pressure support of [**5-19**]. His mental status was the largest
+obstacle to extubation and he was taken for tracheotomy tube
+placement by Thoracic Surgery on [**2174-4-8**]. He tolerated the
+procedure well, and was able to be transitioned to trach collar
+starting on [**2174-4-10**] for periods of time.
+.
+# DIC: Due to his APML, he developed DIC evidenced by active
+bleeding from his ET tube, his OG tube, his stool and urine. He
+had acute drops in fibrinogen, increase in LDH and increase in
+bilirubin. He was supported through this with massive
+transfustions requiring 18 units of PRBCs, 35 units of
+platelets, 5 units of FFP, and 24 units of cryoprecipitate. He
+was intubated due hypoxia and increased work of breathing on
+[**2174-3-26**]. His CXR after intubation showed a fluffy infiltrate
+suggestive of either ARDS or hemorrhage (likely both). Due to
+his subdural hematomas, he was transfused to goals of Hct>30,
+plts > 100, fibrinogen > 175, and INR <1.6. Once the DIC
+resolved, his goals changed to Hct>25, plts > 20, fibrinogen >
+100, and INR <1.6.
+.
+# Toxic Metabolic Encephalopathy: He started experiencing a
+decline in mental status 2 days prior to intubation with severe
+asterixis and confusion. He had a number of potential causes
+such as medications, central focus with his SDH, and
+hypertension to 180 making PRES a less likely, but possible
+concern. Also, his uremia given his acute renal failure. He
+required several doses of Haldol and intermittent restraints for
+safety prior to intubation, when he was put on midazolam and
+Fentanyl drips. 5 days after intubation his was sedation was
+discontinued and he remained obtunded. He was treated with
+dialysis for a uremia over 200. His mental status was the
+barrier to extubation as his vent setting were minimal at the
+point of weaning sedation. He was non responsive after 4 days
+off of sedation. A family meeting was held with his husband
+[**Name (NI) **], and the decision was made to take him to trach, with the
+goal of trying to improve his mental status with dialysis.
+
+# Acute renal failure: His creatinine sharply rose from 1.2 on
+admission to a peak of 4.9. This was thought to be in the
+setting of Tumor Lysis Syndrome (TLS) and abdominal compartment
+syndrome. Also complicated by ATN in the setting of low blood
+volume and possible microthrombi during DIC. He was treated
+allopurinol and Rasburicase for TLS with good resolution as well
+as with CVVH initially (1 day) for fluid removal. His urine
+output responded. Shortly after he began autodiuresing He was
+initiated on dialysis for AMS as described above and a BUN of
+greater than 200. He was treated with dialysis with a fall in
+BUN to 113, however, he had a fever to 100.6 and cultures came
+back positive for GPC in chains from dialysis catheter [**2174-4-9**].
+.
+# Abdominal Compartment Syndrome: In the setting of acute volume
+overload from large volume transfusions given DIC as above. He
+was ~25L positive for LOS fluid balance. He developed elevated
+bladder pressures and decreased urine output. Surgery was
+consulted and felt that as long as he was making urine there was
+no need for surgical intervention (as well as given his critical
+illness, it was not indicated). He was started on CVVH as above
+and had 3L removed. His kidneys responded and began making
+100-200cc/hr of urine. His CVVH was stopped and he was allowed
+to diurese on his own with support of lasix and metolazone as
+needed.
+.
+# Atrial Fibrillation / Flutter: He developed tachycardia to the
+140s with initial EKG most consistent with Afib, and later EKG
+more consistent with Aflutter vs AVNRT.  His HR did not respond
+to Diltiazem drip or multiple subsequent IV boluses of Diltiazem
+and Metoprolol.  Cardiology suggested Verapamil, followed by
+Amiodarone.  He was loaded with Amiodarone drip and bolus of 150
+mg x2.  He was cardioverted on [**2174-3-22**] and continued on
+Amiodarone.  He got an extra 150mg of amiodarone on [**3-25**] with
+minimal effect on tachycardia. He converted to NSR, and reverted
+back to atrial fibrillation. In the setting of controlling his
+blood pressure with IV medications he received multiple doses of
+metoprolol and labetalol, and he converted to NSR. However, [**4-1**]
+he converted back to rapid a-fib with RVR and required
+uptitration of his B-blockade and a diltiazem drip which was
+eventually converted back to PO.
+.
+# Bilateral Subdural Hematomas: Unclear time course.
+Neurosurgery followed along and he had serial scans. His
+hematomas had interval increased in the setting of the DIC;
+however, not thought to be clinically significant. Neurosurgery
+preferred medical management with antiepileptics and reversal of
+his coagulopathy.
+.
+# Right basal ganglia infarct: On repeat scan of his head to
+evaluate interval change of his subdural hematomas on [**2174-4-4**], a
+new right sided basal ganglia infarct was noted. Neurosurgery
+followed, and neurology was consulted. They felt that medical
+management and blood pressure control were the best means of
+treatment.
+.
+# Positive Blood Cultures: Blood cultures were positive in [**2-16**]
+bottles from his PICC line on [**2174-3-22**].  The aerobic culture was
+speciated as Staph aureus.  No peripheral culture was obtained
+on that date.  He was started on Vancomycin / Meropenem on
+[**2174-3-22**] after spiking a fever to 102.5.  This was changed to
+Vancomycin / Cefepime the next day.  Given the concern for
+translocation of gut bacteria with his compromised immune
+system, he was switched to Vancomycin / Zosyn on [**2174-3-24**] for
+better coverage of gut pathogens.  Micafungin was added to cover
+for fungal pathogens. He had multiple sets of negative
+surveillance cultures, and his antibiotics were continued while
+he remained neutropenic. He had a fever to 100.6 on [**2174-4-9**] and
+cultures were drawn from his dialysis catheter which were
+positive for GPCs in chains. His catheter was pulled and he was
+continued on vancomycin.
+.
+# Pericardial Fat Pad: On echo on [**2174-3-24**] there was concern for
+pericardial effusion because the echo showed a new anterior
+pericardial effusion with complex echodensity.  No evidence of
+tamponade physiology was seen on the echo.  His repeat echo
+showed that the effusion was actually a fat pad.
+.
+# Alcoholism/Cirrhosis: He was known to drink a bottle of
+alcohol per night. He initially required 10 mg IV diazepam
+several times and started on a CIWA scale.  On RUQ imaging for
+persistent elevation of his bilirubin, cirrhosis was noted. More
+than likely his cirrhosis was secondary to alcoholism and he had
+poor clearance of his bilirubin (from reabsorption from pooled
+blood).
+.
+# Elevated Glucose: He initially had glucose's in the 400??????s in
+the setting of getting steroids. His insulin coverage was
+briefly switched to an insulin drip, and he was subsequently
+converted to subcutaneous insulin based on his requirements.
+
+# Goals of care: Pt remained in coma. His overall clinical
+status continued to decline over the course of hospitalization,
+with evolution of multi-system organ failure including increased
+pulmonary ventilatory requirements, persistant renal failure,
+LFTs continued to increase and he developed recurrent bacteremia
+(initially MSSA, then VRE). He was given 1 dose of daptomycin
+for VRE coverage. Given his multiple organ failure, worsening
+ventilatory requirements and persistent altered mental status, a
+family meeting was held and decision made to focus efforts on
+patient comfort beginning [**2174-4-12**] AM. The patient quietly
+expired on [**2174-4-14**] with family at the bedside.
+
+
+Medications on Admission:
+- Metformin 500mg [**Hospital1 **]
+- Metoprolol tartrate 50mg [**Hospital1 **]
+- Cimetidine 100mg [**Hospital1 **]
+- Amlodipine 10mg daily
+- Lisinopril 2.5mg daily
+
+
+Discharge Medications:
+Deceased
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Deceased
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+Deceased
+
+Followup Instructions:
+Deceased
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2437**] MD [**MD Number(1) 2438**]
+

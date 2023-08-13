@@ -1,0 +1,118 @@
+T2	Drug 163 183	Sulfa (Sulfonamides)
+T4	Drug 186 199	Ciprofloxacin
+T5	Drug 202 218	Morphine Sulfate
+T6	Drug 221 227	Ativan
+T7	Drug 230 260	Piperacillin Sodium/Tazobactam
+T8	Drug 4199 4210	antibiotics
+T9	Reason 4243 4248;4249 4257	wound cultures
+R1	Reason-Drug Arg1:T9 Arg2:T8
+T10	ADE 4316 4333	developed a fever
+T13	Drug 4388 4398	antibiotic
+T14	Drug 4412 4417	Zosyn
+T15	ADE 4440 4456	severe skin rash
+R7	ADE-Drug Arg1:T15 Arg2:T14
+T17	Drug 4808 4816	Atenolol
+T18	Drug 4817 4827	vancomycin
+T19	Drug 4828 4840	levofloxacin
+T20	Drug 4841 4854	metronidazole
+T21	Drug 4882 4900	Miconazole Nitrate
+T23	Form 4905 4911	Powder
+R11	Form-Drug Arg1:T23 Arg2:T21
+T25	Dosage 4917 4924	One (1)
+R13	Dosage-Drug Arg1:T25 Arg2:T21
+T26	Form 4925 4929	Appl
+R14	Form-Drug Arg1:T26 Arg2:T21
+T27	Route 4930 4937	Topical
+R15	Route-Drug Arg1:T27 Arg2:T21
+T28	Frequency 4939 4942;4943 4968	QID (4 times a day) as needed
+R16	Frequency-Drug Arg1:T28 Arg2:T21
+T29	Drug 5012 5027	Camphor-Menthol
+T30	Strength 5028 5035	0.5-0.5 
+R17	Strength-Drug Arg1:T30 Arg2:T29
+T31	Form 5038 5044	Lotion
+R18	Form-Drug Arg1:T31 Arg2:T29
+T33	Dosage 5050 5057	One (1)
+R20	Dosage-Drug Arg1:T33 Arg2:T29
+T34	Form 5058 5062	Appl
+R21	Form-Drug Arg1:T34 Arg2:T29
+T35	Route 5063 5070	Topical
+R22	Route-Drug Arg1:T35 Arg2:T29
+T37	Frequency 5071 5100	QID (4 times a day) as needed
+R23	Frequency-Drug Arg1:T37 Arg2:T29
+T38	Drug 5144 5151	Heparin
+T40	Form 5152 5157	Flush
+R24	Form-Drug Arg1:T40 Arg2:T38
+T41	Route 5158 5162	PICC
+T42	Strength 5163 5177	(100 units/ml)
+T44	Dosage 5178 5182	2 ml
+R28	Dosage-Drug Arg1:T44 Arg2:T38
+T46	Frequency 5186 5195	DAILY:PRN
+R32	Frequency-Drug Arg1:T46 Arg2:T38
+T47	Dosage 5196 5201	10 ml
+R34	Dosage-Drug Arg1:T47 Arg2:T48
+T48	Drug 5202 5204	NS
+T49	Dosage 5217 5221	2 ml
+R35	Dosage-Drug Arg1:T49 Arg2:T51
+T50	Strength 5225 5237	100 Units/ml
+R36	Strength-Drug Arg1:T50 Arg2:T51
+T51	Drug 5238 5245	heparin
+T52	Dosage 5247 5256	200 units
+R37	Dosage-Drug Arg1:T52 Arg2:T51
+T53	Drug 5257 5264	heparin
+T54	Route 5266 5276	each lumen
+R38	Route-Drug Arg1:T54 Arg2:T51
+T55	Frequency 5277 5290	Daily and PRN
+R39	Frequency-Drug Arg1:T55 Arg2:T51
+T56	Drug 5322 5337	Sodium Chloride
+T57	Strength 5338 5341	0.9
+R40	Strength-Drug Arg1:T57 Arg2:T56
+T58	Form 5344 5349	Flush
+R41	Form-Drug Arg1:T58 Arg2:T56
+T59	Dosage 5350 5355	10 ml
+R42	Dosage-Drug Arg1:T59 Arg2:T56
+T61	Frequency 5359 5368	DAILY:PRN
+R44	Frequency-Drug Arg1:T61 Arg2:T56
+T62	Drug 5409 5428	Dolasetron Mesylate
+T63	Strength 5429 5436	12.5 mg
+R45	Strength-Drug Arg1:T63 Arg2:T62
+T65	Frequency 5440 5447	Q8H:PRN
+R47	Frequency-Drug Arg1:T65 Arg2:T62
+T66	Drug 5451 5459	Diazepam
+T67	Strength 5460 5466	2.5 mg
+R48	Strength-Drug Arg1:T67 Arg2:T66
+T69	Frequency 5470 5477	BID PRN
+R50	Frequency-Drug Arg1:T69 Arg2:T66
+T70	Drug 5481 5494	Hydromorphone
+T71	Strength 5495 5503	0.5-4 mg
+R51	Strength-Drug Arg1:T71 Arg2:T70
+T73	Frequency 5507 5516	Q3-4H:PRN
+R53	Frequency-Drug Arg1:T73 Arg2:T70
+T74	Reason 5517 5521	pain
+R54	Reason-Drug Arg1:T74 Arg2:T70
+T75	ADE 5702 5719	Allergic reaction
+R55	ADE-Drug Arg1:T75 Arg2:T76
+T76	Drug 5723 5735	pipericillin
+T77	ADE 5741 5752	severe rash
+R56	ADE-Drug Arg1:T77 Arg2:T76
+T79	ADE 5753 5766	renal failure
+R58	ADE-Drug Arg1:T79 Arg2:T76
+T80	Reason 798 812	diverticulitis
+R59	Reason-Drug Arg1:T80 Arg2:T81
+T81	Drug 842 852	antibiotic
+R3	ADE-Drug Arg1:T10 Arg2:T13	
+R5	ADE-Drug Arg1:T15 Arg2:T13	
+R6	Strength-Drug Arg1:T42 Arg2:T38	
+R2	ADE-Drug Arg1:T10 Arg2:T14	
+T1	Route 5183 5185	IV
+R4	Route-Drug Arg1:T1 Arg2:T38	
+R8	Route-Drug Arg1:T41 Arg2:T38	
+T3	Route 5356 5358	IV
+R9	Route-Drug Arg1:T3 Arg2:T56	
+T11	Route 5437 5439	IV
+R10	Route-Drug Arg1:T11 Arg2:T62	
+T12	Route 5467 5469	IV
+R12	Route-Drug Arg1:T12 Arg2:T66	
+T16	Route 5504 5506	IV
+R19	Route-Drug Arg1:T16 Arg2:T70	
+T22	ADE 4334 4338	rash
+R25	ADE-Drug Arg1:T22 Arg2:T13	

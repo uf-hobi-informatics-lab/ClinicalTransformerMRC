@@ -1,0 +1,216 @@
+Admission Date:  [**2200-2-20**]              Discharge Date:   [**2200-3-10**]
+
+Date of Birth:  [**2143-6-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 759**]
+Chief Complaint:
+obtunded
+
+Major Surgical or Invasive Procedure:
+Lumbar Punctures x 4
+Left frontal sinus drainage
+
+
+History of Present Illness:
+57F H/O Hypothyroidism who presented with unresponsiveness and
+meningitis. The patient was feeling well, but then developed URI
+symptoms (fevers, headache, ear pain) four day prior to
+admission. She then had persistent myalgias and nausea with
+worsening headaches over one to two days PTA> She felt very
+"cold" the night PTA when she asked her husband to turn up the
+heat. On the AM of admission, he tried to wake her up when
+leaving for work and she was unresponsive, barely opening her
+eyes to voice and not following commands. He called EMS and she
+was brought to [**Hospital1 18**]. The patient had no previous HIB or
+Pneumococcal vaccination. There was no rash, bruising, or mouth
+sores. Her husband had a mild "cold" a few days before her.
+
+ROS: Two months of intermittent headaches.
+
+ED: Received Ceftriaxone 2 grams IV, Vanco 1 gram IV, Acyclovir
+800 mg IV and Ativan/Tylenol.
+
+Past Medical History:
+Hypothyroidism, Osteoporosis, Childhood Right Retinoblastoma S/P
+Enucliation (At Age 1.5)
+
+Social History:
+lives at home w/ husband, no hx EtOH, tobacco, IVDU
+
+
+Family History:
+no Fx seizures, migraines
+
+Physical Exam:
+PE: 103.8 137/60 123 23 96%RA
+Gen: cauc W lying in stretcher w/ eyes closed, hands wrapped
+around head, opens eyes to name.
+HEENT: R PRRL, L prosthesis; + photophobia
+Neck: + neck stiffness
+Heart: RRR, S1, S2, no m/r/g
+LUngs; CTBLA, no rales or wheezing
+ABd: S/NT/ND/no masses
+Ext: no edema
+Derm: no rash
+Neuro: R PRRL, uncooperative, opens L eye to command, moves feet
+to command to move feet or arms, nonverbal, flipped over in the
+prone position during examination.
+
+Brief Hospital Course:
+Mrs [**Last Name (STitle) 61064**] presented to [**Hospital1 18**] with obtundation after several
+days of URI symptoms - she was admitted to the [**Hospital Unit Name 153**]. A CSF
+examination revealed Hemophilus influenza meningitis and she was
+cotniued on Ceftriaxone, after Vancomycin and Acyclovir were
+discontinued. Her neurologic status improved dramatically and
+she recovered full function. However, her course was complicated
+by persistent fatigue, hyponatremia (deemed secondary to
+meningitis-related SIADH), fever, leukocytosis and an
+inflammatory CSF. Follow-up head imaging showed a right frontal
+sinus opacification with possible right frontal osteomyeltis.
+Her right frontal sinus was surgically evaluated and drained.
+Her fevers persisted and no clear alternate source of infection
+was found - in her liver, blood, urine (although she had urine
+with yeast and no signs of inflammation), or chest.
+
+1. Bacterial Meningitis/Fever: Again, the patient presented with
+obtundation and an inflammatory CSF after URI symptoms. She was
+admitted to the [**Hospital Unit Name 153**] for a short course and improved
+dramatically on Ceftriaxone, Vancomycin and Acyclovir. Once
+Hemophilus influenza was cultured from her admission CSF and
+BCXRs, Vancomycin and Acyclovir were discontinued. Although she
+improved neurologically, she had persistent fever and increased
+serum WBCs. Repeat-LPs showed increased CSF WBCs (to 2500). She
+also had persistent tachycardia, presumed secondary to fever.
+Her antibiotics were changed to Meropenem, Levofloxacin and then
+empiric Vancomycin. Head and spine imaging showed opacification
+of the left frontal sinus, possible frontal osteomyelitis and
+possible underlying meningeal enhancement, but no abscesses. Her
+distal thecal sac and cauda equina were markedly enhancing and
+her cauda equina nerve roots were markedly thickened. These
+findings were consistent with meningitis. Her right frontal
+sinus was surgically evaluated by ENT and drains were placed. Of
+note, no purulent material drained from her sinus; she had only
+marked mucosal edema. A repeat CSF cytology showed decreasing
+WBC and increasing glucose, indicating overall improving
+meningitis. Her persistent fever was thought to be [**1-8**] drug
+fever from meropenem, as a screen for other sources of infection
+ (UA/UCXR/BCXR/CXR/Liver CT) was negative.  Given signs of
+improving meningitis by CSF studies and likely drug fever from
+meropenem, meropenem was d/c and the pt was placed back on
+levoflox with good effect.  Fever resolved after 48 hours off
+meropenem, and there no signs of active infection after starting
+levoflox.  At the time of d/c, the pt has been afebrile > 48
+hours and is near her neurologic baseline on levoflox.  She will
+continue levofloxacin after d/c until f/u with [**Hospital **] clinic.
+
+2. Hyponatremia: She was euvolemic to hypovolemic and had a
+hypotonic serum. Her sodim levels downtrended intiailly with
+normal saline hydration and she nadired at 123. Her clinical
+picture and urine electrolytes were consitent with SIADH in
+setting of meningitis. She improved slightly with fluid
+restriction but also required small boluses of hypertonic
+saline.  Renal service was consulted and recommended salt
+tablets. She was treated w/ NaCl 3gm PO TID, resulting in marked
+improvement in hyponatremia.  At d/c, she is asymptomatic w/
+stable sodium.  She will need to continue fluid restriction to <
+1 L per day after d/c, and will also continue NaCl tablets until
+f/u with her PCP.
+
+3. LDH/ALK PHOS/AST Elevation: She had an incidental rise in
+these values in the middle of her course. They were checked as a
+screen given her persistent fever. It was possibly related to
+high-dose Levofloxacin liver toxicity.  An abdominal CT was
+negative for abscess.  After levoflox was resumed towards the
+end of her hospital course, LFTs were followed and were stable.
+She will require ongoing monitoring of LFTs while taking
+levoflox.
+
+4. Left Diagphragmatic Hernia: This was discovered incidentally
+on chest x-ray. She was seen by surgery and a likely congenital
+(Bochdalek) diaphragatic hernia was diagnosed, without obvious
+lung aplasia or dysfunction. She was slotted for follow-up with
+surgery as an outpatient for possible elective correction.
+
+5. Hearing loss: she has bilateral hearing loss at the time of
+d/c, likely [**1-8**] meningitis.  ENT recommends audiological
+evaluation after d/c, w/ close follow-up for 6 months after
+resolution of meningitis.  She will f/u in [**Hospital **] clinic after d/c
+for ongoing evaluation.
+
+6. Hypothyroidism: controlled w/ her outpt dose of levoxyl
+during her admission.
+
+7. Code status was full code during this admission.
+
+Medications on Admission:
+levoxyl ? dose
+fosamax ? dose
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4-6H
+(every 4 to 6 hours) as needed for fever. Tablet(s)
+2. Levothyroxine Sodium 100 mcg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+3. Alendronate Sodium 70 mg Tablet Sig: 0.5 Tablet PO QMON
+(every Monday).
+4. Sodium Chloride 1 g Tablet Sig: Three (3) Tablet PO TID (3
+times a day).
+Disp:*270 Tablet(s)* Refills:*0*
+5. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**12-8**] Sprays Nasal
+QID (4 times a day) as needed.
+6. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*28 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+1) H. influenza meningitis
+
+Secondary:
+2) SIADH
+3) H. influenza bacteremia
+4) Thrombocytopenia - resolved
+5) Anemia - prob secondary to acute illness.
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+1) Please take your temperature twice daily (morning and early
+evening) and record on a piece of paper.  Please take this with
+you to your appointment with Dr. [**Last Name (STitle) 17444**] on Monday.
+
+2) Call Dr.[**Name (NI) 61065**] office on Tuesday to schedule a blood draw
+to check your serum sodium level.
+
+3) Return to the Emergency Department immediately if you develop
+confusion, trouble breathing, chest pain or severe headache.
+Call your doctor if you have a temperature higher than 101
+degrees F.
+
+Followup Instructions:
+Audiology (Hearing) testing - [**4-1**], 1:45 pm at Dr. [**Name (NI) 61066**] office, [**Hospital **] Medical Building, [**Location (un) 61067**]. Follow-up appointment for frontal sinus
+drain with Dr. [**Last Name (STitle) **] to follow at 2:30 pm, same location.
+Please arrive around 15 min before your first appointment.
+
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 59700**], MD Where: LM [**Hospital Unit Name 4341**] DISEASE Phone:[**Telephone/Fax (1) 457**] Date/Time:[**2200-3-17**] 1:00
+
+Call Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] general surgery [**Telephone/Fax (1) 6439**]
+regarding thoracic hernia repair (repair would potentially
+prevent hernia from causing obstruction). Repair could
+potentially be performed laproscopically, call the office to
+come discuss the surgical options in an office visit.
+
+
+
+

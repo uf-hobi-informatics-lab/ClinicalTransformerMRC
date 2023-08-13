@@ -1,0 +1,167 @@
+Admission Date:  [**2170-10-4**]              Discharge Date:   [**2170-10-10**]
+
+
+Service: MEDICINE
+
+Allergies:
+Amoxicillin
+
+Attending:[**First Name3 (LF) 99**]
+Chief Complaint:
+GI Bleed
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+This is an 84 y/o female recently dx with AML on supportive
+treatment only, on coumadin for atrial fibrillation and h/o TIA,
+who presented to the ED with c/o maroon-colored stools x 6 days
+and fatigue with SOB x several days. Pt noted blood also mixed
+in with stool, but denies any increase in frequency of stool. No
+abd pain, n/v/hematemesis or other changes in bowel habits.
+.
+In the ED, labs were significant for a Hct of 15.8, WBC of 45.8,
+and INR of 7.7. Maroon stool, guiac positive in rectum but NG
+lavage negative. Pt was hemodynamically stable throughout. She
+was given 1 U PRBC, 2 U FFP, and 5 mg SC vit K. GI was consulted
+in the ED and feels this may be a LGIB, but also could be a
+UGIB. Conversation with PCP and family lead to decision of
+tagged RBC scan to attempt localization of site in an effort to
+avoid invasive procedures, including EGD/colonoscopy given
+comorbid conditions. Tagged RBC scan demonstrated brisk bleeding
+from the cecum.
+.
+Currently, pt fatigued, but otherwise denies other sx including
+LH/dizziness, h/a, vision changes, URI sx,
+SOB/palpitations/chest pain, abd pain, n/v,
+weakness/numbness/loss of sensation, dysuria. No further BM's
+since yesterday.
+
+
+Past Medical History:
+1. Atrial fibrillation with a history of TIA 10 years ago on
+chronic anticoagulation with Coumadin.
+2. Status post left hip replacement.
+3. Polymyalgia rheumatica, previously treated with steroids,
+with persistent proximal leg weakness.
+5. Osteoporosis.
+6. Status post total abdominal hysterectomy with bilateral
+salpingo-oophorectomy.
+7. Mild-to-moderate Alzheimer dementia.
+
+
+Social History:
+The patient lives with her husband in [**Name (NI) 2312**], MA. She has
+never smoked and drinks one glass of wine per day. She is quite
+physically active and walks approximately one quarter of a mile
+daily and lifts weights twice a week. Family involved in care,
+pt is DNR/DNI.
+
+Family History:
+NC
+
+Physical Exam:
+VS: T 98.8, BP 132/53, HR 90's, RR 29, SaO2 98%/RA
+General: Pleasant elderly female in NAD, AO x 2 (place, year)
+HEENT: NC/AT, PERRL, EOMI. No scleral icterus. +conjuntival
+pallor. MM slightly dry, OP clear
+Neck: supple, no JVD
+Chest: CTA-B, no w/r/r
+CV: RRR, s1 s2 normal, no m/g/r
+Abd: soft, NT/ND, NABS. Guiac positive in ED.
+Ext: pt has chronic LE pain, refuses exam of LE
+Neuro: AO x 2, non-focal
+
+
+Pertinent Results:
+[**2170-10-4**] 03:30PM   GLUCOSE-114* UREA N-29* CREAT-0.8 SODIUM-141
+POTASSIUM-4.3 CHLORIDE-107 TOTAL CO2-26 ANION GAP-12
+[**2170-10-4**] 03:30PM   CK(CPK)-26
+[**2170-10-4**] 03:30PM   cTropnT-<0.01
+[**2170-10-4**] 03:30PM   WBC-45.8*# RBC-1.60*# HGB-5.4*# HCT-15.8*#
+MCV-99* MCH-34.0* MCHC-34.5 RDW-20.5*
+[**2170-10-4**] 03:30PM   PT-61.9* PTT-34.4 INR(PT)-7.7*
+.
+
+
+Brief Hospital Course:
+84 y/o female with AML, Alzheimer's dementia, Afib and h/o TIA's
+on coumadin, p/w acute drop in Hct and maroon-colored stools.
+.
+# GIB - tagged RBC scan demonstrates brisk bleeding from cecum,
+likely in setting of coagulopathy. Pt was hemodynamically stable
+throughout the course of her stay. Spoke with IR, who
+recommended medical management with PRBCs and FFP for now as pt
+stable and procedure invasive given pt's co-morbid conditions.
+Family and pt agreed with conservative management. Hct was 30
+and stable upon discharge.
+.
+# AML - currently on supportive treatment for AML. Pt may be in
+acute blast crisis given leukocytosis of 45 K, with prior counts
+at 13 K. She is managed for goal of comfort at this time by
+primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **]. She will be discharged on 7
+days of PO levofloxacin for neutropenia.
+.
+# A fib - rate-controlled on digoxin.
+.
+# Dementia - Mild to moderate Alzheimer's, at baseline.
+Continued Aricept and Namenda.
+.
+#Dispo - patient is being discharged to nursing home unit at her
+[**Hospital3 **] complex with goals of care directed at comfort
+only.
+
+Medications on Admission:
+1. Aricept 5 mg [**Hospital1 **]
+2. Coumadin 4 mg M/W/F, 5 mg S/[**Doctor First Name **]/Tues
+3. Detrol 1 mg [**Hospital1 **]
+4. Digoxin 250 mcg qd
+5. Fosamax 70 mg qweek
+6. Namenda 10 mg [**Hospital1 **]
+7. MVI qd
+8. Ca/Vit D qd
+
+
+Discharge Medications:
+1. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Memantine 5 mg Tablet Sig: Two (2) Tablet PO bid ().
+Disp:*30 Tablet(s)* Refills:*1*
+3. Donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+
+4. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO QDAY () for
+7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**First Name4 (NamePattern1) 8463**] [**Last Name (NamePattern1) **] House/Hospice
+
+Discharge Diagnosis:
+Primary
+Lower GI bleed
+.
+Secondary
+AML
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Please contact your PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **], if you have any pain or
+concerns upon discharge.
+
+Followup Instructions:
+Please contact your PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **], if you have any pain or
+concerns.
+At this time, you do not have any scheduled follow up.
+
+
+

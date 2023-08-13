@@ -1,0 +1,397 @@
+Admission Date:  [**2185-11-15**]              Discharge Date:   [**2185-11-24**]
+
+Date of Birth:  [**2126-1-11**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Keflex / Ciprofloxacin / Ertapenem
+
+Attending:[**First Name3 (LF) 943**]
+Chief Complaint:
+altered mental status
+
+Major Surgical or Invasive Procedure:
+Status post airway intubation (performed at outside hospital,
+extubated here)
+PICC placement [**2185-11-17**]
+
+
+History of Present Illness:
+Hepatologist:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 497**]
+PCP:  [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+.
+Ms. [**Known lastname 92101**] is a 59yo woman with h/o Hepatitic C Cirrhosis with
+portal hypertension s/p TIPS, MELD score 23, who presented to an
+OSH with altered mental status.
+.
+Her father found her on the morning of admission with her legs
+hanging over the side of the bed.  She was unresponsive.  The
+family reports that she had been feeling well at home but
+becoming increasingly confused.  They admit that she often
+fights against taking lactulose, though they feel she is largely
+compliant with it.  She may have spit out her lactulose dose
+last night.  Otherwise, ROS significant for some nausea.  She
+has nevertheless been eating and drinking well.  No diarrhea.
+No fevers.
+.
+When EMS arrived, her blood sugar was 146.  She was noted to be
+incontinent of urine.
+.
+Upon arrival to [**First Name8 (NamePattern2) **] [**Hospital3 6783**], her VS were 129/60   117   21
+98% RA.  She was intubated because of failure to protect her
+airway.  Although the lowest recorded temp was 96.2 rectally,
+she was noted as being hypothermic and a bair hugger was placed.
+ Labs were notable for K of 6.2 and non-gap acidosis with HCO3
+of 14.  Lactate was elevated at 5.6.  WBC elevated at 16 with
+Hct and Cr at baseline.  UA significant for large leukocytes and
+negative nitrites.  CT Head without contrast revealed vague area
+of low attenuation in the lft frontal region, ? related to small
+vessel ischemia.  There was no evidence of bleed, mass, or
+midline shift.  CXR revealed vascular congestion.  She was
+transferred to [**Hospital1 18**] for further care.
+.
+Upon arrival to [**Hospital1 18**] MICU, she was intubated.  Further history
+was obtained via phone call through the patient's son.
+.
+ROS:  unable to obtain
+
+
+Past Medical History:
+Hepatitis C, Genotype 1: Diagnosed in [**2185-1-8**] with last
+VL 263,000 in [**8-/2185**]
+Cirrhosis (Methotrexate and Hepatitis C Induced)
+Portal Hypertension
+Chronic Kidney Disease with baseline Cr 1.8-2.0
+Diastolic CHF: Grade I diastolic dysfunction [**7-17**], EF 75%
+Ascites Diuretic-Resistant
+Esophageal Varices per report; however, EGD [**7-/2185**] reports
+normal esophagus
+Psoriasis with Arthropathy - s/p Methotrexate x 15 years (MTX
+d/c in 12.07 when patient developed ascites and now uses
+halobetasol cream)
+Anemia with baseline Hct 25-30
+Thyroid nodule 2.2cm identified on ultrasound [**9-16**], needs Bx
+(has f/u in Thyroid nodule clinic)
+Admission [**Date range (1) 92102**]:  for elective TIPS, also had UTI
+Admission [**Date range (1) 92103**]:  for hyponatremia and ARF
+Foot drop from peroneal nerve injury during TIPS procedure (per
+DC summary)
+Hyponatremia with baseline Na 128-130
+.
+
+
+Social History:
+Quit smoking in [**2184**].  No alcohol problems, no drugs.
+Lives with her son and her father.
+Uses a cane and walker.
+
+
+Family History:
+no FH of liver disease
+
+Physical Exam:
+vitals: 97.7   131    122/72    26    100% on AC 100%  500/16
+PEEP +5.
+Gen: Intubated, not responsive to voice but does move upon touch
+and withdraw from painful stimuli (not on sedating meds)
+HEENT: Eyelids closed, eyes are often gazing to the right but
+she will move her eyes to midline to look toward examiner.
+Pupils equally reactive, not pinpoint.
+Face symmetric, mucous membranes moist.
+Neck: supple, small thyroid nodule in mid-left thyroid.
+CV: S1, S2, regular tachycardia with I/VI systolic murmur at
+LUSB, non-radiating.
+Lungs: clear b/l, no crackles appreciated.
+Abd: obese with ascites, BS present.  umbilical veins prominent.
+ Soft and she does not flinch with palpation.
+Hepatosplenomegaly.
+Skin: Flaking, dry skin on scalp and LE b/l.  Large skin tear on
+right calf.  Violaceous plaques on chest and raised subcutaneous
+areas on her right arm.
+Ext: Erythema of LE, L>R, but not particularly warm.  2+ edema
+of LE b/l.  Distal pulses +1 b/l.
+Neuro: No asterixis when hands are extended at wrists.
+.
+
+
+Pertinent Results:
+[**2185-11-24**] 06:27AM BLOOD WBC-9.8 RBC-2.74* Hgb-8.4* Hct-25.3*
+MCV-92 MCH-30.7 MCHC-33.3 RDW-17.3* Plt Ct-164
+[**2185-11-23**] 05:00AM BLOOD WBC-9.2 RBC-2.75* Hgb-8.7* Hct-25.2*
+MCV-92 MCH-31.7 MCHC-34.6 RDW-17.5* Plt Ct-149*
+[**2185-11-16**] 06:00AM BLOOD Neuts-77.3* Lymphs-15.9* Monos-5.1
+Eos-1.5 Baso-0.2
+[**2185-11-24**] 06:27AM BLOOD PT-19.9* PTT-46.1* INR(PT)-1.9*
+[**2185-11-23**] 05:00AM BLOOD PT-21.2* PTT-48.8* INR(PT)-2.0*
+[**2185-11-24**] 06:27AM BLOOD Glucose-146* UreaN-23* Creat-1.5* Na-129*
+K-3.7 Cl-103 HCO3-19* AnGap-11
+[**2185-11-23**] 05:00AM BLOOD Glucose-156* UreaN-22* Creat-1.4* Na-131*
+K-3.8 Cl-106 HCO3-21* AnGap-8
+[**2185-11-24**] 06:27AM BLOOD ALT-19 AST-29 LD(LDH)-239 AlkPhos-94
+TotBili-1.7*
+[**2185-11-24**] 06:27AM BLOOD Albumin-2.9* Calcium-9.7 Phos-3.1 Mg-1.9
+.
+[**2185-11-16**] CT Head without constrast:  No acute intracranial
+process
+.
+[**2185-11-16**] MR [**Name13 (STitle) 430**] and Brain without contrast:  Limited study due
+to motion artifact. No contrast was administered due to the
+patient's inability to further cooperate and the marginal renal
+status. There is no evidence of infarction. The MRA demonstrates
+a dominant and patent right vertebral artery with a tiny, but
+apparently patent left vertebral artery, and patent internal
+carotid arteries bilaterally. The remainder of the study,
+although limited, demonstrates no evidence of hemorrhage or
+other abnormalities.
+.
+[**2185-11-17**] CT abd and pelvis w/o contrast: 1. No evidence of
+hemoperitoneum or retroperitoneal hemorrhage.
+2. Cirrhotic liver, with signs for portal hypertension with a
+large amount of ascites.
+3. Consolidation within the lower lobes of the lungs
+bilaterally, most likely represents atelectasis. However,
+superimposed infection cannot be excluded.
+4. Cholelithiasis.
+5. Anasarca.
+.
+[**2185-11-22**] Liver, gallbladder u/s: 1. Patent TIPS with abnormally
+high velocities within the mid and distal aspects of the shunt,
+similar to the previous exam. Findings remain compatible with
+TIPS malfunction.
+2. Limited evaluation of the left and anterior right portal vein
+although
+suggestion of abnormal directionality of flow within the left
+portal vein
+is compatible with shunt dysfunction.
+3. Cirrhotic liver with moderate-to-severe perihepatic ascites
+and
+cholelithiasis.
+.
+[**2185-11-24**] TTE: The left atrium is moderately dilated. Left
+ventricular wall thickness, cavity size and regional/global
+systolic function are normal (LVEF 70%). There is no ventricular
+septal defect. Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. No masses or
+vegetations are seen on the aortic valve. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. No mass or vegetation is seen on the mitral valve.
+Trivial mitral regurgitation is seen. The estimated pulmonary
+artery systolic pressure is normal. No vegetation/mass is seen
+on the pulmonic valve. There is no pericardial effusion.
+.
+Compared with the findings of the prior study (images reviewed)
+of [**2185-10-27**], no major change is evident.
+.
+IMPRESSION: no obvious vegetations seen
+
+
+Brief Hospital Course:
+Ms. [**Known lastname 92101**] is a 59yo woman who presented w/ altered mental
+status in the setting of Hep C cirrhosis.
+
+# Altered Mental Status: Given her hx of hep C cirrhosis and
+recent TIPs procedure, her AMS was thought to be most likely due
+to hepatic encephalopathyy. She was reported to have a hx of
+poor compliance with lactulose at home.  Of note, she has not
+had other episodes of hepatic encephalopathy prior to this.
+Head CT at OSH was negative.  Given her leukocytosis on
+admission, infection, particularly SBP or pneumonia, were also
+considered. Overdose was also a possibility, although family
+denies drug use. Upon arrival in the MICU she was started on
+lactulose and rifaximine. She underwent a paracentesis to eval
+for SBP, which had a negative gram stain and culture. Given her
+AMS, she was considered high risk for aspiration, and she was
+started on empiric treatment with vanc/aztreonam/azithromycin
+(allergic to cipro and keflex) for nosocomial or aspiration PNA
+vs SBP. While there was no known hx of EtOH abuse, thiamine IV
+was administered. On exam the pt had some focal findings of
+persistent right-[**Hospital1 **] and downward deviation of her eyes, with
+inability to track past midline. She had a repeat head CT and an
+MRI/MRA which were both without evidence of significant
+pathology. Following extubation and decreased sedation, her
+mental status improved and the focal eye findings resolved.
+While not back at her baseline, pt was awake, alert, and
+oriented x3 when she was transferred to the floor. Pt seen by
+Neurology, but had already had significant improvement and no
+focal findings. On the floor, her mental status continued to
+improve. At time of discharge, she is back to baseline,
+conversational, oriented x3 but at times is tearful. She is
+being discharged on Rifaximin and furosemide.
+.
+# Respiratory failure: Patient was intubated for airway
+protection at OSH.  Her CXR here suggested a possible aspiration
+pneumonia, which could have been [**3-12**] to her AMS.  It is unclear
+if she received IVF at OSH. She was weaned off of the vent
+quickly as she required minimal pressure support and had good
+RSBIs. She was extubated on [**2185-11-17**] was satting well on room air
+at the time of transfer to the floor. On discharge, she
+continues to have oxygen saturations in the high 90's on room
+air.
+.
+# Rash: Pt arrived in the MICU with three skin findings. Bullae,
+blisters/breakdown, and a  diffuse maculopapular rash on
+proximal legs and trunk. Dermatology was consulted. The blisters
+and bullae were thought to be [**3-12**] trauma in the setting of
+coagulopathy due to liver disease and thinned skin. Urine
+Porphobilinogens were checked to rule out porphyria in the
+setting of Hep C liver disease and were negative. The diffuse
+maculopapular rash appeared to be new, and looks more like a
+hypersensitivity reaction, likely to ertapenem. Pt has known
+allergies to Keflex ad Cipro, and had received ertapenem at the
+OSH. She was treated with topical clobetasol cream to the rash
+on abdomen and lower extremities (avoiding folds), and
+hydrocortisone 2.5% cream to rash in folds of abdomen and groin.
+Also, the bullae over time evolved into ulcerations on the pt's
+legs, arms and left shoulder which were treated with wound care
+as recommended by our wound care team and plastics.
+.
+# Cirrhosis [**3-12**] Hep C: Pt was treated as described above with
+lactulose and rifaximine as well as a PPI, and was followed by
+Hepatology.  She had a RUQ ultrasound on [**11-16**] and again on [**11-23**]
+which showed her TIPS was patent. She should have a repeats TIPS
+ultrasound in 1 month. She had a 5L paracentesis on [**11-20**] which
+was negative for increased WBC and culture was sterile.
+.
+# VRE: Pt had blood culture [**11-16**] which grew VRE sensitive to
+daptomycin and linezolid in [**2-11**] bottles. Daptomycin was started
+on [**11-17**].  ID was consulted in house. TTE showed no vegetations
+on [**11-24**].  The pt should be continued on IV daptomycin to
+complete a 14 day course on [**2185-12-2**].
+.
+# Sinus tachycardia: Pt was likely intravascularly dry on
+admission given Hct above baseline, poor urine output, and
+tachycardia above baseline, although some level of tachyardia
+appears to be chronic in her.  Also may be exacerbated by acute
+illness. She received albumin 25g in 500cc NS x2 and her HR and
+urine output were followed. Her diuretics were held until the
+next morning. At discharge, her HR remains in the 80's to 90's.
+.
+# Chronic diastolic heart failure: Appeared hypovolemic
+admission, her diuretics were held as above. Her diuretics were
+gradually restarted on the floor. She is not accumulating
+ascited at the time of discharge.
+.
+# Chronic Kidney Disease:  baseline Cr 1.8-2.0, Cr on discharge
+1.5, urine output initially poor on admission, but improved
+after fluid challenge.
+.
+# Thyroid nodule: Should be followed up as outpatient.
+.
+# Hyponatremia: Pt has chronic hyponatremia seen on past
+admission with baseline 128-130. As diuretics were increased,
+her sodium gradually decreased to 129 on day of discharge.
+Treatment ongoing for this condition should include ongoing
+fluid restriction to approximately 1500cc/day.
+.
+# Hypercalcemia: Pt had transient hypercalcemia to 10.8 this
+admission thought to be [**3-12**] Calcium and vitamin D use at home.
+These were stopped and Ca is now 9.9 at time of discharge.
+Recommend not restarting these medications at this time.
+.
+# [**Name (NI) 1867**] Pt with thrombocytopenia this admission
+thought [**3-12**] chronic liver disease. Plt at discharge are 164.
+
+
+Medications on Admission:
+Metoclopramide 5mg TID
+Pantoprazole 40 mg daily
+Clobetasol 0.05 % Cream [**Hospital1 **]
+Ergocalciferol (Vitamin D2) 50,000 unit QWednesday
+Calcium-Cholecalciferol (D3) 500 (1,250)-400 mg-unit [**Hospital1 **]
+Nystatin 100,000 unit/mL 5ml QID
+Lactulose 30ml [**Hospital1 **]
+Furosemide 40 mg daily
+Spironolactone 25 mg daily
+.
+
+
+Discharge Medications:
+1. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.
+2. Daptomycin 500 mg Recon Soln Sig: Four Hundred (400) mg
+Intravenous Q48H (every 48 hours): Please continue for 9 days.
+Please NOTE: patient has changing renal function. Currently GFR
+is less than 50, so should dose q48 hours. If GFR>50, please
+change to q24 hour dosing.
+3. Clobetasol 0.05 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2
+times a day) as needed for psoriasis.
+4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO twice a
+day.
+7. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+8. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day).
+9. Rifaximin 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times a
+day).
+10. Hydrocortisone 2.5 % Cream Sig: One (1) Appl Rectal [**Hospital1 **] (2
+times a day).
+11. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+13. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours) as needed for pain.
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Primary:
+Vancomycin Resistant Enterococcus Bacteremia
+Encephalopathy
+Traumatic Skin Rash
+Hyponatremia
+
+Secondary:
+Hepatitis C Cirrhosis
+Chronic Kidney Disease
+
+
+Discharge Condition:
+Afebrile, stable, ambulatory.
+
+
+Discharge Instructions:
+You were admitted after you were found passed out at home. This
+was likely due to encephalopathy which cleared with lactulose,
+and an infection that was found in your blood. You will continue
+on an antibiotic, Daptomycin, intravenously for a total of 14
+days, finishing on [**12-2**]. Please be sure to renally dose
+this medication: once daily if GFR>50 or once every other day if
+GFR<50.
+.
+Continuing issues include hyponatremia, which should be managed
+initially with fluid restriction. She has had chronic
+hyponatremia with baseline 128-130 on previous admission here.
+Please monitor sodium levels while at [**Hospital1 **].
+.
+Her course has also been complicated by easy bruising and
+blistering which has necessitated a dermatology consult. It was
+felt these were traumatically induced. They are being cared for
+currently with wound care.
+.
+Of note, the patient was hypercalcemic, and found to have
+elevated PTH level. She had been taking ergocalciferol and
+cholecalciferol both of which were stopped, and the calcium
+normalized. Please continue to hold these medications, to be
+restarted at the discretion of her primary care physician and
+[**Hospital1 **] physician.
+.
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **] THYROID NODULE CENTER Phone:[**Telephone/Fax (1) 26555**]
+Date/Time:[**2185-12-1**] 10:30
+Provider: [**Name10 (NameIs) **] [**Hospital 1389**] CLINIC Phone:[**Telephone/Fax (1) 673**]
+Date/Time:[**2185-12-7**] 8:40
+
+
+
+Completed by:[**2185-11-24**]

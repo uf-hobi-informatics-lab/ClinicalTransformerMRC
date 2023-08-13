@@ -1,0 +1,630 @@
+Admission Date:  [**2137-11-15**]              Discharge Date:   [**2137-12-11**]
+
+Date of Birth:  [**2062-12-24**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (NamePattern1) 4377**]
+Chief Complaint:
+Dysarthria and abdominal pain
+
+Major Surgical or Invasive Procedure:
+Central line placement
+
+
+History of Present Illness:
+EAST HOSPITAL MEDICINE ATTENDING ADMISSION NOTE .
+Date:[**2137-11-15**]
+PCP:
+[**Last Name (NamePattern4) **]. [**Last Name (STitle) 10066**] [**Name (STitle) 87750**] 2202 65th Street [**Location (un) **]
+Bay Parkway and West 6th Street [**Telephone/Fax (1) 87751**]
+GI: [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 87752**] [**Telephone/Fax (1) 87753**]
+_
+________________________________________________________________
+HPI:
+74M s/p recent L hernia repair on [**2137-10-6**] with chest pain,
++pleuritic x 4 weeks, +n/v x 4 weeks, +intermittent abdominal
+pain, question recent aphasic episode [**1-22**] pain per family.  He
+is currently being evaluated by GI for appetite and minimal
+weight loss x 3 weeks.  + Early satiety. Immediately after
+eating he regurgitates solid food. No dysphagia for solids or
+liquids or signs of aspiration with eating. Slurred speech x 2
+days. No facial asymmetry or focal weakness. Increased weakness
+and sweats.
+He received ASA and SLNG with some improvement in his pain from
+[**9-24**].  R>L asymmetric swelling of the lower extremities
+
+In ER:
+Triage Vitals: 8 99 108 108/62 14 99% 4L NC
+Meds Given: levoquin 750 mg IV x T
+Fluids given: 2L NS
+Radiology Studies:
+consults called.
+VS on transfer HR = 90, BP = 102/58, RR = 16, 98% on 2L
+.
+
+PAIN SCALE: 0/10
+________________________________________________________________
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL:        [] All Normal
+[ ] Subjective fever   [ ] Chills   [ ] Sweats  [ ] Fatigue   [
+] Malaise   [ ]Anorexia  [ ]Night sweats
+[ +] __5___ lbs.    weight  loss/ over _1____ months
+
+HEENT:          [] All Normal
+[ ] Blurred vision   [ ] Blindness  [ ] Photophobia
+[ ] Decreased acuity [ +] Dry mouth  [ ] Bleeding gums
+[ ] Oral ulcers  [ ] Sore throat    [ ] Epistaxis  [ ] Tinnitus
+[ ] Decreased hearing    [ ]Tinnitus [ ] Other: [+]occasional
+dbl vision when laying down.
+
+RESPIRATORY:    [] All Normal
+[ -] SOB     [ ] DOE    [ ] Can't walk 2 flights     [+ ] Cough-
+occasional yellow phlegm/
+[ ] Wheeze  [ ] Purulent sputum    [ ] Hemoptysis   [++
+]Pleuritic pain
+[ ] Other:
+
+CARDIAC:        []  All Normal
+[ ] Angina    [ ] Palpitations   [+ ] Edema   [ ] PND
+[ ] Orthopnea    [+ ] Chest Pain [ ] Other:
+
+GI:             [] All Normal
+[ ] Blood in stool     [ ] Hematemesis     [ ] Odynophagia
+[ ] Dysphagia:   [ ] Solids    [ ] Liquids
+[ ] Anorexia    [+] Nausea  [] Vomiting   [ ] Reflux
+[ -] Diarrhea    [ -] Constipation  [+]  Abd pain  [ ] Other:
+
+GU:             [X] All Normal
+[] Dysuria      [ ] Frequency    [ ] Hematuria  []Discharge
+[]Menorrhagia
+
+SKIN:           [] All Normal
+[ +]Scaling rash of R knee        [ ] Pruritus
+
+MS:             [X] All Normal
+[ ] Joint pain    [ ] Jt swelling   [ ] Back pain  [ ] Bony pain
+
+NEURO:          [X] All Normal
+[ ] Headache    [ ] Visual changes   [ ] Sensory change [
+]Confusion [ ]Numbness of extremities
+[ ] Seizures   [ ] Weakness [ ] Dizziness/Lightheaded [ ]Vertigo
+[ ] Headache
+
+ENDOCRINE:     [X] All Normal
+[ ] Skin changes  [ ] Hair changes   [ ] Temp subjectivity
+
+HEME/LYMPH:    [X] All Normal
+[ ] Easy bruising   [ ] Easy bleeding    [ ] Adenopathy
+
+PSYCH:         [x] All Normal
+[ ] Mood change        []Suicidal Ideation  [ ] Other:
+
+[X]all other systems negative except as noted above
+
+
+Past Medical History:
+Enlarged prostate
+Shingles - 18 months ago and he is on  lyrica
+H/o PNA one year ago during which opacities were found, s/p
+bronchoscopy.  His PNA was diagnosed as part of an evaluation
+for weight loss. He did not have fevers, chills or cough
+S/p hernia repair in [**9-/2137**]
+
+Social History:
+SOCIAL HISTORY/ FUNCTIONAL STATUS:
+Son: HCP [**Name (NI) 2491**] [**Name (NI) 87754**]: [**Telephone/Fax (1) 87755**]
+Office: [**Telephone/Fax (1) 87756**]
+
+< 65
+Cigarettes: [ X] never  [ ] ex-smoker   [x] current Pack-yrs: 10
+                       quit: ______
+ETOH:       [x] No   [ ] Yes     drinks/day: _____
+Drugs: none
+Occupation: retired engineer
+Migrated from [**Country 532**] in [**2115**]
+Marital Status: [X ] Married  [] Single
+Lives:          [ ] Alone    [X] w/ family  [ ] Other:
+Received influenza vaccination in the past 12 months [ ]Y [X ]N
+Received pneumococcal vaccinationin the past 12 months [ +]Y [
+]N
+
+
+
+
+
+>65
+
+ADLS:
+
+Independent of ALL ADLS:
+
+Independent of  ALL IADLS:
+At baseline walks: [+]independently [ ] with a cane [ ]wutwalker
+[ ]wheelchair at baseliine
+H/o fall within past year: [+]Y- walking   []N
+
+
+Family History:
+Sister died of breast cancer
+Brother died of lung cancer
+Another sibling died of stomach cancer
+
+Physical Exam:
+VS: T = 97 P = 86 BP = 108/62 RR 18 O2Sat = 98% on 2L Wt, ht,
+BMI
+GENERAL: Elderly male laying in bed
+Nourishment: At risk, + temporal wasting
+Grooming: good
+Mentation: Alert, speaks in full sentences. He feels tired
+Eyes:NC/AT, PERRL, EOMI without nystagmus, no scleral icterus
+noted
+Ears/Nose/Mouth/Throat: dry MM no lesions noted in OP, poor
+dentition
+Neck: supple, no JVD or carotid bruits appreciated
+Respiratory: Decreased BS at R base
+Cardiovascular: tachy, nl. S1S2, no M/R/G noted
+Gastrointestinal: distended, slightly firm. Tender to palpation
+in RUQ and LUQ
+Genitourinary:
+Skin: no rashes or lesions noted. No pressure ulcer
+Extremities: 2+ edema b/l, 2+ radial, DP pulses b/l.  R>L edema
+Lymphatics/Heme/Immun: No cervical lymphadenopathy noted.
+Neurologic:
+-mental status: Alert, oriented x 3. Able to relate history
+without difficulty.
+-cranial nerves: II-XII intact
+-motor: normal bulk, strength and tone throughout. No abnormal
+movements noted.
+Normal gait
+Psychiatric:  appropriate
+
+On Discharge:
+VS: T98.3 BP 138/74 HR 84 RR 18 O2 sat 95%
+Gen: pleasant gentleman sitting in chair in NAD
+Skin: resolving erythematous rash on back
+HEENT: anicteric sclerae, MMM, slight ulceration under tongue,
+no exudates
+CV: RRR, no murmurs, rubs, gallops
+Pulm: slightly decreased breaths sounds in the right base,
+otherwise CTAB
+Abd: soft, non tender, non distended; pos BS
+Extr: 3+ LE edema b/l
+Neuro: A&Ox3, CNII-XII intact, motor and sensation grossly
+intact
+
+Pertinent Results:
+ADMISSION LABS:
+[**2137-11-15**] 06:35PM   WBC-8.0 RBC-4.15* HGB-11.9* HCT-33.8* MCV-81*
+MCH-28.6 MCHC-35.2* RDW-16.8*
+[**2137-11-15**] 06:35PM   NEUTS-60 BANDS-5 LYMPHS-12* MONOS-16* EOS-0
+BASOS-0 ATYPS-4* METAS-3* MYELOS-0 NUC RBCS-1*
+[**2137-11-15**] 06:35PM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-NORMAL
+MACROCYT-NORMAL MICROCYT-1+ POLYCHROM-NORMAL
+[**2137-11-15**] 06:35PM   PLT SMR-VERY LOW PLT COUNT-77*
+[**2137-11-15**] 06:35PM   PT-13.8* PTT-33.0 INR(PT)-1.2*
+[**2137-11-15**] 06:35PM   proBNP-909*
+[**2137-11-15**] 06:35PM   cTropnT-<0.01
+[**2137-11-15**] 06:35PM   GLUCOSE-94 UREA N-27* CREAT-1.1 SODIUM-132*
+POTASSIUM-4.5 CHLORIDE-97 TOTAL CO2-15* ANION GAP-25*
+[**2137-11-15**] 07:23PM   D-DIMER-1103*
+[**2137-11-15**] 08:45PM   LACTATE-7.9*
+[**2137-11-15**] 11:35PM URINE  COLOR-Yellow APPEAR-Clear SP
+[**Last Name (un) 155**]-<=1.005
+[**2137-11-15**] 11:35PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-25
+GLUCOSE-NEG KETONE-15 BILIRUBIN-SM UROBILNGN-1 PH-6.5 LEUK-NEG
+[**2137-11-15**] 11:35PM URINE  RBC-0-2 WBC-0-2 BACTERIA-FEW YEAST-NONE
+EPI-0-2
+
+MICRO:
+[**11-15**] Blood cultures- no growth
+[**11-15**] Urine cx- no growth
+[**2137-11-18**] 9:29 am SPUTUM      Source: Expectorated.
+
+                            **FINAL REPORT [**2137-11-20**]**
+
+   GRAM STAIN (Final [**2137-11-18**]):
+      <10 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED.
+
+   RESPIRATORY CULTURE (Final [**2137-11-20**]):
+      RARE GROWTH Commensal Respiratory Flora.
+
+[**2137-11-23**] 9:05 am SPUTUM     Site: EXPECTORATED
+      ACID FAST CULTURE X 3 TIMES.
+
+   GRAM STAIN (Final [**2137-11-23**]):
+      <10 PMNs and <10 epithelial cells/100X field.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    SINGLY AND IN PAIRS.
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED.
+
+   RESPIRATORY CULTURE (Final [**2137-11-25**]):
+      MODERATE GROWTH Commensal Respiratory Flora.
+
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+
+
+   ACID FAST SMEAR (Final [**2137-11-24**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+[**12-7**] B glucan- negative
+[**12-7**] galactomannan- negative
+
+[**11-19**] IgG 473* IgA 52* IgM 302
+
+STUDIES:
+[**11-15**] CTA Chest/Abd/Pelvis:
+1. Right upper lobe ground-glass parenchymal opacity, suggestive
+of
+pneumonia. Multifocal coalescent ground-glass nodules,
+predominating upper
+lobes but also present in left lower lobe, raise question of
+metastatic
+involvement. Moderate right pleural effusion.
+
+2. Massive conglomerate aortocaval mass with central areas of
+necrosis, which compresses the IVC, right common and external
+iliac veins, and likely also right proximal ureter. Extensive
+mediastinal, hilar, mesenteric, retroperitoneal, and iliac
+lymphadenopathy and massive splenomegaly. Overall picture
+suggestive of lymphoma/lymphoproliferative disease.
+
+3. Mildly prominent common bile duct. Please correlate with
+liver function
+test.
+
+4. Diffuse gallbladder mural edema, likely related to systemic
+disease,
+unlikely due to cholecystitis.
+
+5. Multiple left renal lesions are incompletely evaluated,
+including a 12-mm interpolar left renal lesion (3, 301), which
+could be further characterized by ultrasound.
+
+[**11-15**] CT Head- 1. No acute intracranial hemorrhage or mass
+effect. 2. Although there is no CT evidence of large
+intracranial mass, MRI with gadolinium is superior in evaluation
+of such lesions and can be considered if not contraindicated.
+
+[**11-15**] LENI- No evidence of right lower extremity deep venous
+thrombosis.
+
+[**11-15**] EKG: ST at 108 bpm, no other acute changes
+
+[**11-18**] Trans thoracic Echo- The left atrium is normal in size. No
+atrial septal defect is seen by 2D or color Doppler. The
+estimated right atrial pressure is 0-10mmHg. Left ventricular
+wall thickness, cavity size and regional/global systolic
+function are normal (LVEF >55%). There is no ventricular septal
+defect. Right ventricular chamber size and free wall motion are
+normal. The aortic root is mildly dilated at the sinus level.
+The aortic valve leaflets (3) are mildly thickened. There is no
+valvular aortic stenosis. The increased transaortic velocity is
+likely related to high cardiac output. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Trivial mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. The estimated pulmonary artery systolic pressure is
+normal. There is a trivial/physiologic pericardial effusion.
+
+[**11-25**] Renal U/S: 1. No evidence of hydronephrosis, with
+resolution of the mild hydronephrosis seen on CT [**2137-11-15**]. 2.
+Nonvisualization of left renal interpolar region indeterminate
+lesion seen on CT scan [**2137-11-15**], due to limited visualization.
+For further evaluation,if clinically relevant, an MR could be
+performed.
+
+[**12-3**] CXR: The heart size remains normal and no typical
+configurational abnormalities is seen. Thoracic aorta, stable
+and within normal limits. Position of previously described left
+subclavian approach advanced central venous catheter remains
+unchanged terminating overlying the SVC at the level of the
+carina.  No pneumothorax is seen. In comparison with the next
+preceding portable examination, the findings have cleared up
+markedly. In particular the basal bilateral densities strongly
+suggestive of bilateral pleural effusions as seen on [**2137-11-21**], have now practically cleared completely, as both lateral
+and posterior pleural sinuses are free with the patient in
+upright position. Also, the parenchymal densities have
+regressed; however, significant residuals remain on both sides.
+These consist of lateral located hazy parenchymal densities
+close to the pleural space at the level of the third and fourth
+rib. On the left side these parenchymal densities are also in
+peripheral location but somewhat higher up and overlying the
+second and third ribs including the corresponding interspace. In
+comparison with the preceding single view examination, it is
+possible that these parenchymal densities have progressed
+slightly and thus, further followup chest examinations in this
+patient with history of lymphoma is recommended.
+
+[**12-4**] CT Chest: 1. Widespread peripheral consolidations which
+are new or increasing. These are not entirely specific, but the
+striking peripheral character of consolidations is very
+suggestive of an inflammator etiology such as eosinophilic
+pneumonia or organizing pneumonia, either of which could be
+associated with a drug reaction. The appearance would be much
+less typical for an infectious etiology or progression of
+lymphoma, which has apparently responded overall very well to
+treatment.
+
+2. New mild extrahepatic biliary ductal dilatation of uncertain
+significance. Correlation with liver function tests is
+recommended. If the apppearance may be clinically significant
+based on laboratory data or clinical presentation, then MRCP
+could be considered or follow-up CT or ultrasound. Extrinsic
+compression by lymphadenopathy that is not imaged on this study
+is a possible, though somewhat unusual, possibility.
+
+[**12-4**] CT Head: 1. No evidence of intracranial metastatic
+disease. MR (if feasible) would be more sensitive than CT for
+detection of metastatic lesions. 2. No acute intracranial
+process.
+
+[**12-9**] CXR: Heart size is normal. Mediastinal position, contour,
+and width are unremarkable and stable. The abnormalities
+demonstrated on prior chest
+radiograph and chest CT appears to be grossly unchanged except
+for may be
+minimal progression at the level of the left lower lobe and
+right upper
+superficial area as well as interval development of minimal
+amount of pleural effusion on the right. The finding continues
+to be nonspecific with the differential diagnosis being broad
+including eosinophilic pneumonia, cryptogenic organizing
+pneumonia, drug reaction, and less likely infection.
+
+PATHOLOGY:
+[**11-17**] Bone marrow biopsy- MARKEDLY HYPERCELLULAR MARROW WITH
+EXTENSIVE INVOLVEMENT BY A LYMPHOPROLIFERATIVE DISORDER, MOST
+CONSISTENT WITH DIFFUSE LARGE B-CELL LYMPHOMA.
+
+[**11-17**] R axillary lymph node biopsy- DIFFUSE LARGE B CELL
+LYMPHOMA, HIGH GRADE.
+
+[**11-17**] Immunophenotyping Flow Cytometry: Immunophenotypic finding
+consistent with involvement by a kappa-restricted B-cell
+lymphoproliferative disorder.  Correlation with concurrent bone
+marrow biopsy (S10-48307G) is recommended.
+
+DISCHARGE LABS:
+142  107  15  85   AGap=12
+-------------
+3.4  26  0.8
+Comments: Glucose: If Fasting, 70-100 Normal, >125 Provisional
+Diabetes
+
+Ca: 9.3 Mg: 2.0 P: 2.4
+ALT: 35 AP: 226 Tbili: 0.7 Alb: 3.0
+AST: 27 LDH: 249 Dbili:  TProt:
+[**Doctor First Name **]:  Lip:
+UricA:3.2
+
+20.5 > 8.8 < 186
+       24.7
+N:98.0 L:0.9 M:0.9 E:0.1 Bas:0.1
+Other Hematology
+Gran-Ct: [**Numeric Identifier 87757**]
+
+PT: 12.9  PTT: 28.1  INR: 1.1
+
+Brief Hospital Course:
+ASSESSMENT:
+74 year old male with BPH, s/p R inguinal hernia repair present
+with pleuritic abdominal/chest pain found to have a extensive
+lymphadenopathy throughout torso and aotocaval large
+conglomerate mass with compression of IVC and R common iliac
+vein.
+.
+# Lymphoma- Patient was initially admitted to the medical floor
+for expedited evaluation of presumed lymhoproliferative disorder
+in the setting of CTA which showed bulky lymphadenopathy and
+aortocaval large conglomerate mass with
+compression of IVC and right common iliac vein. Initial labs in
+the ED were remarkable for lactic acidosis with HCO3 of 15 and a
+lactate of 7.9. On the medical floor, he was found to have a
+uric acid of 13.5 and an LDH of 604 in the setting of normal
+calcium/ phosphate/ potassium. He was started on allopurinol and
+IVF due to concern for TLS. A heme-onc consult was called and an
+axillary LN biopsy showed prelimary path c/w aggressive
+lymphoma. Bone marrow biopsy eventually showed diffuse large B
+cell lymphoma. Patient was noted to have increased work of
+breathing with ABG showing worsening acidosis 7.32/19/111 and
+lactate of 11.4. A bicarb drip was initiated and due to concern
+for worsening lactic acidosis, patient was transferred to the
+ICU. Lactic acidosis was attributed to tumor mass necrosis vs.
+infection and patient was started on vanc/zosyn/azithro for
+pneumonia visualized on CT chest (see below). He received [**Hospital1 **]
+for treatment of his lymphoma and tumor lysis labs were
+monitored q6 given his spontaneous tumor lysis syndrome on
+admission. He received rasburicase for persistently elevated
+uric acid and new renal failure (creatinine 1.3 from 1.0) with
+improvement of his symptoms. He became fluid overloaded and was
+diuresed with lasix. He was called out to the floor where he
+received a round of RCHOP with good effect and no subsequent
+tumor lysis. He had some mucositis which was managed with pain
+medications and mouth care. He was discharged home on D5 RCHOP
+with follow up scheduled in the 7 [**Hospital Ward Name 1826**] outpatient clinic and
+a plan to establish care in NY with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 25139**]
+(appointment tentatively scheduled for [**12-24**]).
+
+# Pneumonia- Patient had chest CT with ground-glass parenchymal
+opacity, suggestive of pneumonia. He was started on
+vanco/zosyn/azithro and was continued on these antibiotics for 7
+days after he was no longer neutropenic per pulmonary
+recommendations. Repeat imaging with CT scan showed widespread
+peripheral consolidations concerning for an inflammatory
+etiology such as eosinophilic pneumonia or organizing pneumonia,
+but ultimately attributed to resolving pneumonia in the setting
+of a reconstituted immune system as the patient was asymptomatic
+and appeared well. Patient will need repeat imaging in [**12-22**] weeks
+after discharge to assess progression.
+.
+# Rash- Patient developed an erythematous papular eruption on
+his back as well as a well demarcated erythematous plaque on his
+lower L back. Dermatology was consult and attributed the former
+to a resolving drug reaction and that latter to a contact
+dermatitis. Triamcinolone was applied topically to the plaque
+with gradual improvement.
+.
+#. Fluid retention: Patient received fluids as part of his
+chemotherapy regimen. His weight increased 10 lbs over several
+days secondary to fluid retention. He was diuresed with good
+effect and subsequently reaccumulated fluid in his legs with the
+second round of chemo. He was restarted on lasix and sent home
+to continue diuresis with f/u in the outpatient clinic.
+.
+#. Headache: Patient complained of mild intermittent R
+retro-orbital pain without associated visual changes, diploplia,
+or floaters. Was seen by opthalmology who attributed his eye
+symptoms to dry eyes. CT head w/ and w/o contrast was negative
+for bleeds and metastatic disease.
+.
+# Shingles- Patient complained of continued post herpetic
+neuralgia related to his shingles episode six months earlier.
+His pain was managed with lidocaine patches and
+oxycodone/oxycontin.
+.
+#. BPH: No active issues. Patient was continued on finasteride
+and tamsulosin as his home BPH medications were not on
+formulary.
+
+Medications on Admission:
+avodart 0.5 mg
+uroxatral/alfuzosin alpha 1 blocker 10 mg
+Lidoderm patch
+
+Discharge Medications:
+1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day): Please take while you are taking oxycodone.
+Disp:*60 Capsule(s)* Refills:*2*
+2. ranitidine HCl 300 mg Tablet Sig: One (1) Tablet PO at
+bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+3. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+Disp:*30 Adhesive Patch, Medicated(s)* Refills:*2*
+4. filgrastim 300 mcg/mL Solution Sig: One (1) injection
+Injection Q24H (every 24 hours) for 10 days.
+Disp:*10 injections* Refills:*0*
+5. fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours).
+Disp:*30 Tablet(s)* Refills:*2*
+6. acyclovir 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours).
+Disp:*90 Tablet(s)* Refills:*2*
+7. senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day) as needed for constipation.
+Disp:*30 Tablet(s)* Refills:*0*
+8. oral wound care products     Gel in Packet Sig: One (1)
+Packet Mucous membrane TID (3 times a day) as needed for
+Mucositis.
+Disp:*20 Packet* Refills:*0*
+9. oxycodone 10 mg Tablet Sustained Release 12 hr Sig: One (1)
+Tablet Sustained Release 12 hr PO Q12H (every 12 hours): Do not
+drink or drive while taking this medication.
+Disp:*60 Tablet Sustained Release 12 hr(s)* Refills:*0*
+10. potassium chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO twice a day:
+Please take while taking lasix.
+Disp:*60 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+11. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+12. dutasteride 0.5 mg Capsule Sig: One (1) Capsule PO once a
+day.
+Disp:*30 Capsule(s)* Refills:*2*
+13. alfuzosin 10 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] VNA
+
+Discharge Diagnosis:
+Diffuse Large B Cell Lymphoma
+Pneumonia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Dear Mr. [**Known lastname 87754**],
+
+You were admitted to the hospital with chest and abdominal pain.
+You had a CT scan of your chest, lymph node and bone marrow
+biopsies which showed that you have diffuse large B cell
+lymphoma. You received two rounds of chemotherapy while you were
+in the hospital. You were also diagnosed with a pneumonia for
+which you were treated with antibiotics. You will need to have a
+repeat CT of your chest in [**12-22**] weeks to assess the improvement
+of this infection. Your body was retaining fluid so you were
+started on a water pill to help remove some of this fluid.
+Please continue to take this at home as directed until you
+follow up on Friday. Please also weigh yourself daily and call
+Dr.[**Name (NI) 14047**] office if your weight increases.
+
+We have made the following changes to your medications:
+- START taking filgrastim (injections) as directed for your
+blood counts
+- START taking fluconazole for prevention of infection
+- START taking acyclovir for prevention of infection
+- START taking ranitidine for your stomach
+- START taking oxycontin for your pain; please take colace and
+senna as needed while taking this medication to prevent
+constipation; do not drive while taking oxycontin as it is
+sedating
+- START taking lasix for the fluid in your legs
+- START taking potassium as directed while taking lasix
+- you may use gelclair as needed for mucositis pain in your
+mouth
+
+You make continue taking your other medications as you were
+previously.
+
+It was a pleasure taking care of you. We wish you a speedy
+recovery.
+
+Followup Instructions:
+Please come to the 7 [**Hospital Ward Name 1826**] Outpatient Clinic at 10:00AM on
+Friday [**12-13**] for tests to check your blood counts and
+your chemistries.
+
+Department: BMT/ONCOLOGY UNIT
+When: FRIDAY [**2137-12-13**] at 10:00 AM [**Telephone/Fax (1) 447**]
+Building: Fd [**Hospital Ward Name 1826**] Building ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) 3971**]
+Campus: EAST     Best Parking: Main Garage
+
+You will be contact[**Name (NI) **] by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 25139**] at [**Hospital1 107**] [**Doctor Last Name **]
+[**Hospital 87758**] Cancer Center in NY about an appointment on [**12-24**]. If you do not hear from his office regarding the timing of
+this appointment please contact him at [**Telephone/Fax (1) 87759**]. In the
+meantime, if any issues arise, you have an appointment with Dr.
+[**First Name (STitle) **] as below (you can cancel this appointment once your
+appointment in NY is finalized):
+
+Department: HEMATOLOGY/BMT
+When: MONDAY [**2137-12-23**] at 3:30 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4380**], MD [**Telephone/Fax (1) 3237**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: MONDAY [**2137-12-23**] at 3:30 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 5778**], MD [**Telephone/Fax (1) 22**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+
+Completed by:[**2137-12-11**]

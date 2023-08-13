@@ -1,0 +1,163 @@
+T1	Drug 111 120	Pronestyl
+T2	Drug 123 132	Quinidine
+T3	Drug 135 144	Clonidine
+T4	Drug 147 163	A.C.E Inhibitors
+T5	Drug 166 180	Spironolactone
+T6	Drug 183 189	Flagyl
+T7	Drug 192 200	Levaquin
+T8	Drug 203 212	Compazine
+T9	Drug 215 221	Keflex
+T10	Reason 2809 2817	diuresis
+R1	Reason-Drug Arg1:T10 Arg2:T11
+T11	Drug 2861 2866	Lasix
+T12	Drug 2948 2953	Lasix
+T13	Drug 3022 3027	Lasix
+T14	Route 3028 3032	drip
+R2	Route-Drug Arg1:T14 Arg2:T13
+T15	Reason 3051 3064	fluid removal
+R3	Reason-Drug Arg1:T15 Arg2:T13
+T16	Drug 4620 4630	vancomycin
+T17	Drug 5179 5187	Dilaudid
+T20	Drug 5616 5619	ASA
+T21	Strength 5620 5625	81 mg
+R5	Strength-Drug Arg1:T21 Arg2:T20
+T22	Frequency 5626 5631	daily
+R6	Frequency-Drug Arg1:T22 Arg2:T20
+T23	Drug 5632 5655	CALCIUM-CHOLECALCIFEROL
+T24	Strength 5656 5662	500 mg
+R7	Strength-Drug Arg1:T24 Arg2:T23
+T25	Dosage 5674 5677	400
+R8	Dosage-Drug Arg1:T25 Arg2:T23
+T26	Form 5678 5682	unit
+R9	Form-Drug Arg1:T26 Arg2:T23
+T27	Frequency 5703 5708	daily
+R10	Frequency-Drug Arg1:T27 Arg2:T23
+T28	Drug 5709 5719	CALCITONIN
+T29	Strength 5720 5725	200 U
+R11	Strength-Drug Arg1:T29 Arg2:T28
+T30	Dosage 5726 5727	1
+R12	Dosage-Drug Arg1:T30 Arg2:T28
+T31	Form 5728 5733	spray
+R13	Form-Drug Arg1:T31 Arg2:T28
+T32	Frequency 5734 5744	once a day
+R14	Frequency-Drug Arg1:T32 Arg2:T28
+T33	Drug 5745 5755	CARVEDILOL
+T34	Strength 5756 5763	6.25 mg
+R15	Strength-Drug Arg1:T34 Arg2:T33
+T35	Drug 5781 5789	COUMADIN
+T36	Strength 5790 5794	5 mg
+R16	Strength-Drug Arg1:T36 Arg2:T35
+T37	Frequency 5795 5800	daily
+R17	Frequency-Drug Arg1:T37 Arg2:T35
+T38	Drug 5801 5808	DIGOXIN
+T39	Strength 5809 5817	.0625 mg
+R18	Strength-Drug Arg1:T39 Arg2:T38
+T40	Frequency 5818 5823	daily
+R19	Frequency-Drug Arg1:T40 Arg2:T38
+T41	Drug 5824 5833	DONEPEZIL
+T42	Strength 5834 5839	10 mg
+R20	Strength-Drug Arg1:T42 Arg2:T41
+T43	Frequency 5840 5845	daily
+R21	Frequency-Drug Arg1:T43 Arg2:T41
+T44	Drug 5846 5861	FERROUS SULFATE
+T45	Strength 5862 5868	325 mg
+R22	Strength-Drug Arg1:T45 Arg2:T44
+T46	Frequency 5869 5874	daily
+R23	Frequency-Drug Arg1:T46 Arg2:T44
+T47	Drug 5875 5885	FUROSEMIDE
+T48	Strength 5886 5891	60 mg
+R24	Strength-Drug Arg1:T48 Arg2:T47
+T49	Frequency 5892 5897	daily
+R25	Frequency-Drug Arg1:T49 Arg2:T47
+T50	Drug 5898 5909	INSULIN NPH
+T51	Dosage 5912 5914	12
+R26	Dosage-Drug Arg1:T51 Arg2:T50
+T52	Form 5915 5920	units
+R27	Form-Drug Arg1:T52 Arg2:T50
+T53	Frequency 5921 5931	once a day
+R28	Frequency-Drug Arg1:T53 Arg2:T50
+T54	Drug 5932 5946	INSULIN LISPRO
+T55	Frequency 5957 5979	daily before breakfast
+R29	Frequency-Drug Arg1:T55 Arg2:T54
+T57	Drug 5987 5998	LATANOPROST
+T58	Strength 6011 6016	0.005 
+R31	Strength-Drug Arg1:T58 Arg2:T57
+T59	Dosage 6021 6022	1
+R32	Dosage-Drug Arg1:T59 Arg2:T57
+T60	Form 6023 6027	drop
+R33	Form-Drug Arg1:T60 Arg2:T57
+T61	Route 6028 6037	both eyes
+R34	Route-Drug Arg1:T61 Arg2:T57
+T62	Frequency 6038 6048	at bedtime
+R35	Frequency-Drug Arg1:T62 Arg2:T57
+T63	Drug 6049 6062	LEVOTHYROXINE
+T64	Strength 6063 6070	112 mcg
+R36	Strength-Drug Arg1:T64 Arg2:T63
+T65	Frequency 6071 6076	daily
+R37	Frequency-Drug Arg1:T65 Arg2:T63
+T66	Drug 6077 6084	LIPITOR
+T67	Strength 6085 6090	10 mg
+R38	Strength-Drug Arg1:T67 Arg2:T66
+T68	Frequency 6091 6096	daily
+R39	Frequency-Drug Arg1:T68 Arg2:T66
+T69	Drug 6097 6105	LOSARTAN
+T70	Strength 6106 6111	25 mg
+R40	Strength-Drug Arg1:T70 Arg2:T69
+T71	Frequency 6112 6117	daily
+R41	Frequency-Drug Arg1:T71 Arg2:T69
+T72	Drug 6118 6128	METOLAZONE
+T73	Strength 6129 6135	2.5 mg
+R42	Strength-Drug Arg1:T73 Arg2:T72
+T74	Frequency 6136 6141	daily
+R43	Frequency-Drug Arg1:T74 Arg2:T72
+T75	Drug 6142 6160	POTASSIUM CHLORIDE
+T76	Strength 6161 6167	70 mEq
+R44	Strength-Drug Arg1:T76 Arg2:T75
+T77	Drug 6168 6176	PROTONIX
+T78	Strength 6177 6182	40 mg
+R45	Strength-Drug Arg1:T78 Arg2:T77
+T79	Frequency 6183 6188	daily
+R46	Frequency-Drug Arg1:T79 Arg2:T77
+T80	Drug 6189 6212	SACCHAROMYCES BOULARDII
+T81	Strength 6215 6221	500 mg
+R47	Strength-Drug Arg1:T81 Arg2:T80
+T82	Drug 6239 6249	SERTRALINE
+T83	Strength 6259 6264	75 mg
+R48	Strength-Drug Arg1:T83 Arg2:T82
+T84	Frequency 6265 6268	qHS
+R49	Frequency-Drug Arg1:T84 Arg2:T82
+T85	Drug 6269 6279	VANCOMYCIN
+T86	Strength 6280 6286	250 mg
+R50	Strength-Drug Arg1:T86 Arg2:T85
+T87	Frequency 6287 6292	daily
+R51	Frequency-Drug Arg1:T87 Arg2:T85
+T88	Strength 6311 6317	250 mg
+R52	Strength-Drug Arg1:T88 Arg2:T85
+T89	Frequency 6318 6321	QID
+R53	Frequency-Drug Arg1:T89 Arg2:T85
+T90	Dosage 788 789	1
+R54	Dosage-Drug Arg1:T90 Arg2:T92
+T91	Form 789 790	u
+R55	Form-Drug Arg1:T91 Arg2:T92
+T92	Drug 791 796	PRBCs
+T93	Dosage 801 802	2
+R56	Dosage-Drug Arg1:T93 Arg2:T95
+T94	Form 803 808	units
+R57	Form-Drug Arg1:T94 Arg2:T95
+T95	Drug 812 815	FFP
+T96	Dosage 878 880	10
+R58	Dosage-Drug Arg1:T96 Arg2:T98
+T97	Form 881 886	units
+R59	Form-Drug Arg1:T97 Arg2:T98
+T98	Drug 890 901	reg insulin
+T99	Route 902 904	SC
+R60	Route-Drug Arg1:T99 Arg2:T98
+T100	Dosage 906 907	1
+R61	Dosage-Drug Arg1:T100 Arg2:T102
+T101	Form 908 911	amp
+R62	Form-Drug Arg1:T101 Arg2:T102
+T102	Drug 912 918	bicarb
+T103	Drug 920 923	D50
+T104	Drug 925 935	kayexylate
+T18	Reason 5192 5196;5197 5204	pain control
+R4	Reason-Drug Arg1:T18 Arg2:T17	

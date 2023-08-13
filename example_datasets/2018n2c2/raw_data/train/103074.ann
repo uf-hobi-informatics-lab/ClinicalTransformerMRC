@@ -1,0 +1,70 @@
+T1	Drug 168 177	Synthroid
+T2	Strength 178 192	100 micrograms
+R1	Strength-Drug Arg1:T2 Arg2:T1
+T3	Route 193 195	po
+R2	Route-Drug Arg1:T3 Arg2:T1
+T4	Frequency 196 199	q.d
+R3	Frequency-Drug Arg1:T4 Arg2:T1
+T5	Drug 202 211	vitamin E
+T6	Strength 212 221	400 units
+R4	Strength-Drug Arg1:T6 Arg2:T5
+T7	Route 222 224	po
+R5	Route-Drug Arg1:T7 Arg2:T5
+T8	Frequency 225 230	q day
+R6	Frequency-Drug Arg1:T8 Arg2:T5
+T9	Drug 232 240	Protonix
+T10	Strength 241 246	40 mg
+R7	Strength-Drug Arg1:T10 Arg2:T9
+T11	Route 247 249	po
+R8	Route-Drug Arg1:T11 Arg2:T9
+T12	Frequency 250 253	q.d
+R9	Frequency-Drug Arg1:T12 Arg2:T9
+T13	Drug 256 262	Colace
+T14	Strength 263 269	100 mg
+R10	Strength-Drug Arg1:T14 Arg2:T13
+T15	Route 270 272	po
+R11	Route-Drug Arg1:T15 Arg2:T13
+T16	Frequency 273 276	q.d
+R12	Frequency-Drug Arg1:T16 Arg2:T13
+T17	Drug 279 289	Miconazole
+T18	Form 290 296	powder
+R13	Form-Drug Arg1:T18 Arg2:T17
+T19	Frequency 297 302	b.i.d
+R14	Frequency-Drug Arg1:T19 Arg2:T17
+T20	Drug 323 338	Regular insulin
+T21	Dosage 339 352	sliding scale
+R15	Dosage-Drug Arg1:T21 Arg2:T20
+T22	Drug 354 357	NPH
+T23	Dosage 358 366	18 units
+R16	Dosage-Drug Arg1:T23 Arg2:T22
+T24	Route 367 371	subQ
+R17	Route-Drug Arg1:T24 Arg2:T22
+T25	Frequency 372 377	b.i.d
+R18	Frequency-Drug Arg1:T25 Arg2:T22
+T26	Drug 380 386	Haldol
+T27	Strength 387 396	1 to 2 mg
+R20	Strength-Drug Arg1:T27 Arg2:T26
+T28	Route 397 399	po
+R21	Route-Drug Arg1:T28 Arg2:T26
+T29	Route 400 411	intravenous
+R22	Route-Drug Arg1:T29 Arg2:T26
+T30	Route 412 414	IM
+R23	Route-Drug Arg1:T30 Arg2:T26
+T31	Frequency 415 433	q 2 to 4 hours prn
+R24	Frequency-Drug Arg1:T31 Arg2:T26
+T32	Reason 434 443	agitation
+R25	Reason-Drug Arg1:T32 Arg2:T26
+T33	Drug 446 453	Tylenol
+T34	Strength 454 460	650 mg
+R26	Strength-Drug Arg1:T34 Arg2:T33
+T35	Route 461 463	po
+R27	Route-Drug Arg1:T35 Arg2:T33
+T36	Frequency 464 482	q 4 to 6 hours prn
+R28	Frequency-Drug Arg1:T36 Arg2:T33
+T37	Drug 485 493	Benadryl
+T38	Strength 494 499	25 mg
+R29	Strength-Drug Arg1:T38 Arg2:T37
+T39	Route 500 502	po
+R30	Route-Drug Arg1:T39 Arg2:T37
+T40	Frequency 503 521	q 4 to 6 hours prn
+R31	Frequency-Drug Arg1:T40 Arg2:T37

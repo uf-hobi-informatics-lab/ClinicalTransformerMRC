@@ -1,0 +1,144 @@
+T1	Drug 113 124	Amoxicillin
+T2	Reason 1478 1497	Atrial fibrillation
+R1	Reason-Drug Arg1:T2 Arg2:T4
+T3	Reason 1536 1559	chronic anticoagulation
+R2	Reason-Drug Arg1:T3 Arg2:T4
+T4	Drug 1565 1573	Coumadin
+T5	Reason 1615 1637	Polymyalgia rheumatica
+R3	Reason-Drug Arg1:T5 Arg2:T6
+T6	Drug 1663 1671	steroids
+T7	Reason 3044 3048	Afib
+R4	Reason-Drug Arg1:T7 Arg2:T8
+T8	Drug 3066 3074	coumadin
+T9	Reason 3129 3132	GIB
+R5	Reason-Drug Arg1:T9 Arg2:T11
+R6	Reason-Drug Arg1:T9 Arg2:T10
+T10	Drug 3346 3351	PRBCs
+T11	Drug 3356 3359	FFP
+T12	Drug 341 349	coumadin
+T13	Reason 354 373	atrial fibrillation
+R7	Reason-Drug Arg1:T13 Arg2:T12
+T14	Reason 382 385	TIA
+R8	Reason-Drug Arg1:T14 Arg2:T12
+T16	Route 3837 3839	PO
+R10	Route-Drug Arg1:T16 Arg2:T17
+T17	Drug 3840 3852	levofloxacin
+T18	Reason 3857 3868	neutropenia
+R11	Reason-Drug Arg1:T18 Arg2:T17
+T19	Reason 3874 3879	A fib
+R12	Reason-Drug Arg1:T19 Arg2:T20
+T20	Drug 3901 3908	digoxin
+T21	Reason 3914 3922	Dementia
+R13	Reason-Drug Arg1:T21 Arg2:T23
+R14	Reason-Drug Arg1:T21 Arg2:T22
+T22	Drug 3978 3985	Aricept
+T23	Drug 3990 3997	Namenda
+T24	Drug 4166 4173	Aricept
+T25	Strength 4174 4178	5 mg
+R15	Strength-Drug Arg1:T25 Arg2:T24
+T26	Drug 4199 4207	Coumadin
+T27	Strength 4208 4212	4 mg
+R16	Strength-Drug Arg1:T27 Arg2:T26
+T28	Frequency 4213 4218	M/W/F
+R17	Frequency-Drug Arg1:T28 Arg2:T26
+T29	Strength 4220 4224	5 mg
+R18	Strength-Drug Arg1:T29 Arg2:T26
+T30	Drug 4260 4266	Detrol
+T31	Strength 4267 4271	1 mg
+R19	Strength-Drug Arg1:T31 Arg2:T30
+T32	Drug 4292 4299	Digoxin
+T33	Strength 4300 4307	250 mcg
+R20	Strength-Drug Arg1:T33 Arg2:T32
+T34	Frequency 4308 4310	qd
+R21	Frequency-Drug Arg1:T34 Arg2:T32
+T35	Drug 4314 4321	Fosamax
+T36	Strength 4322 4327	70 mg
+R22	Strength-Drug Arg1:T36 Arg2:T35
+T37	Frequency 4328 4333	qweek
+R23	Frequency-Drug Arg1:T37 Arg2:T35
+T38	Drug 4337 4344	Namenda
+T39	Strength 4345 4350	10 mg
+R24	Strength-Drug Arg1:T39 Arg2:T38
+T40	Drug 4371 4374	MVI
+T41	Frequency 4375 4377	qd
+R25	Frequency-Drug Arg1:T41 Arg2:T40
+T42	Drug 4381 4389	Ca/Vit D
+T43	Frequency 4390 4392	qd
+R26	Frequency-Drug Arg1:T43 Arg2:T42
+T44	Drug 4421 4428	Digoxin
+T45	Strength 4429 4436	125 mcg
+R27	Strength-Drug Arg1:T45 Arg2:T44
+T46	Form 4437 4443	Tablet
+R28	Form-Drug Arg1:T46 Arg2:T44
+T47	Dosage 4449 4456	One (1)
+R29	Dosage-Drug Arg1:T47 Arg2:T44
+T48	Form 4457 4463	Tablet
+R30	Form-Drug Arg1:T48 Arg2:T44
+T49	Route 4464 4466	PO
+R31	Route-Drug Arg1:T49 Arg2:T44
+T50	Frequency 4467 4480	DAILY (Daily)
+R32	Frequency-Drug Arg1:T50 Arg2:T44
+T51	Drug 4517 4526	Memantine
+T52	Strength 4527 4531	5 mg
+R33	Strength-Drug Arg1:T52 Arg2:T51
+T53	Form 4532 4538	Tablet
+R34	Form-Drug Arg1:T53 Arg2:T51
+T54	Dosage 4544 4551	Two (2)
+R35	Dosage-Drug Arg1:T54 Arg2:T51
+T55	Form 4552 4558	Tablet
+R36	Form-Drug Arg1:T55 Arg2:T51
+T56	Route 4559 4561	PO
+R37	Route-Drug Arg1:T56 Arg2:T51
+T57	Frequency 4562 4565	bid
+R38	Frequency-Drug Arg1:T57 Arg2:T51
+T58	Drug 4605 4614	Donepezil
+T59	Strength 4615 4619	5 mg
+R39	Strength-Drug Arg1:T59 Arg2:T58
+T60	Form 4620 4626	Tablet
+R40	Form-Drug Arg1:T60 Arg2:T58
+T61	Dosage 4632 4639	Two (2)
+R41	Dosage-Drug Arg1:T61 Arg2:T58
+T62	Form 4640 4646	Tablet
+R42	Form-Drug Arg1:T62 Arg2:T58
+T63	Route 4647 4649	PO
+R43	Route-Drug Arg1:T63 Arg2:T58
+T64	Frequency 4650 4665	HS (at bedtime)
+R44	Frequency-Drug Arg1:T64 Arg2:T58
+T65	Drug 4671 4683	Levofloxacin
+T66	Strength 4684 4690	250 mg
+R45	Strength-Drug Arg1:T66 Arg2:T65
+T67	Form 4691 4697	Tablet
+R46	Form-Drug Arg1:T67 Arg2:T65
+T68	Dosage 4703 4710	One (1)
+R47	Dosage-Drug Arg1:T68 Arg2:T65
+T69	Form 4711 4717	Tablet
+R48	Form-Drug Arg1:T69 Arg2:T65
+T70	Route 4718 4720	PO
+R49	Route-Drug Arg1:T70 Arg2:T65
+T71	Frequency 4721 4725	QDAY
+R50	Frequency-Drug Arg1:T71 Arg2:T65
+T72	Duration 4729 4732;4733 4739	for 7 days
+R51	Duration-Drug Arg1:T72 Arg2:T65
+T73	Dosage 841 844	1 U
+R52	Dosage-Drug Arg1:T73 Arg2:T74
+T74	Drug 845 849	PRBC
+T75	Dosage 851 854	2 U
+R53	Dosage-Drug Arg1:T75 Arg2:T76
+T76	Drug 855 858	FFP
+T77	Strength 864 868	5 mg
+R54	Strength-Drug Arg1:T77 Arg2:T79
+T78	Route 869 871	SC
+R55	Route-Drug Arg1:T78 Arg2:T79
+T79	Drug 872 877	vit K
+T80	Frequency 4225 4256	S/[**Doctor First Name **]/Tues
+R56	Frequency-Drug Arg1:T80 Arg2:T26	
+T81	Form 4491 4499	Tablet(s
+T82	Form 4579 4588	Tablet(s)
+R57	Form-Drug Arg1:T81 Arg2:T44	
+R58	Form-Drug Arg1:T82 Arg2:T51	
+T83	Form 4749 4758	Tablet(s)
+R59	Form-Drug Arg1:T83 Arg2:T65	
+T15	Reason 1516 1519	TIA
+R9	Reason-Drug Arg1:T15 Arg2:T4	
+T84	Reason 3057 3062	TIA's
+R60	Reason-Drug Arg1:T84 Arg2:T8	

@@ -1,0 +1,233 @@
+T1	Drug 7348 7356	Warfarin
+T2	Strength 7390 7393	3mg
+T3	Route 7381 7383	PO
+T4	Drug 5638 5644	Haldol
+T5	Route 6053 6057	oral
+T6	Strength 6616 6621	40 mg
+T7	Route 6622 6624	PO
+T8	Drug 6603 6614;6614 6615	Atorvastati n
+T9	Drug 6860 6870	Amlodipine
+T10	Strength 6871 6875	5 mg
+T11	Route 6876 6878	PO
+T12	Drug 6926 6931	Sarna
+T13	Form 6932 6938	Lotion
+T14	Frequency 6949 6952;6952 6956	QID :PRN
+T15	Strength 6364 6369	40 mg
+T16	Route 6370 6372	PO
+T17	Drug 6351 6362;6362 6363	Atorvastati n
+T18	Drug 7312 7317	lasix
+T19	Drug 6420 6430;6431 6439	Metoprolol Tartrate
+T20	Strength 6440 6445	25 mg
+T21	Frequency 6449 6452	BID
+T22	Route 6446 6448	PO
+T23	Drug 7189 7202	Normal Saline
+T24	Strength 6530 6536	325 mg
+T25	Route 6537 6539	PO
+T26	Drug 6522 6528;6528 6529	Aspiri n
+T27	Drug 6574 6581	Aspirin
+T28	Strength 6585 6590	81 mg
+T29	Route 6591 6593	PO
+T30	Strength 6503 6509	320 mg
+T31	Route 6510 6512	PO
+T32	Drug 6493 6501;6501 6502	Valsarta n
+T33	Drug 6726 6736	Amiodarone
+T34	Strength 6737 6743	400 mg
+T35	Frequency 6747 6750	BID
+T36	Route 6744 6746	PO
+T37	Drug 6634 6644;6645 6653	Metoprolol Tartrate
+T38	Strength 6654 6659	25 mg
+T39	Frequency 6663 6666	TID
+T40	Route 6660 6662	PO
+T41	Drug 6827 6842	Docusate Sodium
+T42	Strength 6843 6849	100 mg
+T43	Frequency 6853 6856	BID
+T44	Route 6850 6852	PO
+T45	Drug 7469 7479	Furosemide
+T46	Strength 7480 7485	80 mg
+T47	Frequency 7489 7492	BID
+T49	Drug 6382 6401	Hydrochlorothiazide
+T50	Strength 6402 6407	25 mg
+T51	Route 6408 6410	PO
+T52	Drug 8541 8548	Tylenol
+T53	Drug 7024 7031	Heparin
+T54	Dosage 7032 7041	5000 UNIT
+T55	Frequency 7045 7048	TID
+T56	Drug 6322 6332	Amlodipine
+T57	Strength 6333 6338	10 mg
+T58	Route 6339 6341	PO
+T59	Drug 5519 5529	amiodarone
+T60	Drug 6456 6469	Nitroglycerin
+T61	Strength 6473 6479	0.4 mg
+T62	Drug 4346 4359	phenylephrine
+T63	Drug 7230 7239;7240 7248	Potassium Chloride
+T64	Strength 7249 7255	40 mEq
+T65	Frequency 7259 7262	BID
+T66	Route 7256 7258	PO
+T67	Reason 4321 4329	POST-CPB
+T68	Drug 5534 5543	Bblockers
+T69	Reason 5464 5483	atrial fibrillation
+T70	Reason 5600 5616	post-op delerium
+T71	Drug 6058 6068	analgesics
+T72	Drug 5669 5678	narcotics
+T73	ADE 5608 5616	delerium
+T74	Frequency 6342 6347	DAILY
+T75	Frequency 6373 6378	DAILY
+T76	Frequency 6411 6416	DAILY
+T77	Route 6470 6472	SL
+T78	Route 6480 6482	SL
+T79	Frequency 6483 6486	PRN
+T80	Reason 6487 6489	cp
+T81	Frequency 6513 6518	DAILY
+T82	Frequency 6540 6545	DAILY
+T83	Form 6582 6584	EC
+T84	Frequency 6594 6599	DAILY
+T85	Frequency 6625 6630	DAILY
+T86	Strength 6812 6817	200mg
+T87	Frequency 6818 6823	daily
+T88	Strength 6787 6792	400mg
+T89	Frequency 6793 6798	daily
+T90	Duration 6799 6806	x7 days
+T91	Strength 6751 6756	400mg
+T92	Duration 6774 6781	x7 days
+T93	Frequency 6879 6884	DAILY
+T94	Dosage 6939 6940	1
+T95	Form 6941 6945	Appl
+T96	Route 6946 6948	TP
+T97	Reason 6957 6966	itchiness
+T98	Drug 6970 6979	Albuterol
+T99	Strength 6980 6986	0.083%
+T100	Form 6987 6995	Neb Soln
+T101	Dosage 6996 6997	1
+T102	Form 6998 7001	NEB
+T103	Route 7002 7004	IH
+T104	Frequency 7005 7012	Q6H:PRN
+T105	Reason 7013 7020	wheezes
+T106	Route 7042 7044	SC
+T107	Drug 7053 7066	Acetaminophen
+T108	Strength 7067 7073	650 mg
+T109	Route 7074 7076	PO
+T110	Frequency 7077 7084	Q4H:PRN
+T111	Reason 7085 7090	fever
+T112	Drug 7101 7116	Sodium Chloride
+T113	Strength 7117 7121	0.9%
+T114	Form 7123 7128	Flush
+T115	Dosage 7129 7133	3 mL
+T117	Frequency 7137 7144	Q8H:PRN
+T118	Reason 7145 7155	line flush
+T119	Frequency 7203 7220;7221 7224	every 8 hours and PRN
+T120	Strength 7184 7188	3 mL
+T121	Duration 7273 7280	10 Days
+T122	Frequency 7370 7375	daily
+T123	Frequency 7394 7412	daily or as needed
+T124	Frequency 7384 7389	DAILY
+T125	Duration 7503 7510	10 Days
+T126	Reason 8515 8527	Sternal pain
+T127	Drug 8993 9002	narcotics
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Route-Drug Arg1:T3 Arg2:T1
+R3	Strength-Drug Arg1:T6 Arg2:T8
+R4	Route-Drug Arg1:T7 Arg2:T8
+R5	Strength-Drug Arg1:T10 Arg2:T9
+R6	Route-Drug Arg1:T11 Arg2:T9
+R7	Form-Drug Arg1:T13 Arg2:T12
+R8	Frequency-Drug Arg1:T14 Arg2:T12
+R9	Strength-Drug Arg1:T15 Arg2:T17
+R10	Route-Drug Arg1:T16 Arg2:T17
+R11	Strength-Drug Arg1:T20 Arg2:T19
+R12	Frequency-Drug Arg1:T21 Arg2:T19
+R13	Route-Drug Arg1:T22 Arg2:T19
+R14	Strength-Drug Arg1:T24 Arg2:T26
+R15	Route-Drug Arg1:T25 Arg2:T26
+R16	Strength-Drug Arg1:T28 Arg2:T27
+R17	Route-Drug Arg1:T29 Arg2:T27
+R18	Strength-Drug Arg1:T30 Arg2:T32
+R19	Route-Drug Arg1:T31 Arg2:T32
+R20	Strength-Drug Arg1:T34 Arg2:T33
+R21	Frequency-Drug Arg1:T35 Arg2:T33
+R22	Route-Drug Arg1:T36 Arg2:T33
+R23	Strength-Drug Arg1:T38 Arg2:T37
+R24	Frequency-Drug Arg1:T39 Arg2:T37
+R25	Route-Drug Arg1:T40 Arg2:T37
+R26	Strength-Drug Arg1:T42 Arg2:T41
+R27	Frequency-Drug Arg1:T43 Arg2:T41
+R28	Route-Drug Arg1:T44 Arg2:T41
+R29	Strength-Drug Arg1:T46 Arg2:T45
+R30	Frequency-Drug Arg1:T47 Arg2:T45
+R32	Strength-Drug Arg1:T50 Arg2:T49
+R33	Route-Drug Arg1:T51 Arg2:T49
+R34	Dosage-Drug Arg1:T54 Arg2:T53
+R35	Frequency-Drug Arg1:T55 Arg2:T53
+R36	Strength-Drug Arg1:T57 Arg2:T56
+R37	Route-Drug Arg1:T58 Arg2:T56
+R38	Strength-Drug Arg1:T61 Arg2:T60
+R39	Strength-Drug Arg1:T64 Arg2:T63
+R40	Frequency-Drug Arg1:T65 Arg2:T63
+R41	Route-Drug Arg1:T66 Arg2:T63
+R42	Reason-Drug Arg1:T67 Arg2:T62
+R43	Reason-Drug Arg1:T69 Arg2:T59
+R44	Reason-Drug Arg1:T69 Arg2:T68
+R45	Reason-Drug Arg1:T70 Arg2:T4
+R46	Route-Drug Arg1:T5 Arg2:T71
+R47	ADE-Drug Arg1:T73 Arg2:T72
+R48	Frequency-Drug Arg1:T76 Arg2:T49
+R49	Frequency-Drug Arg1:T82 Arg2:T26
+R50	Frequency-Drug Arg1:T81 Arg2:T32
+R51	Reason-Drug Arg1:T80 Arg2:T60
+R52	Frequency-Drug Arg1:T79 Arg2:T60
+R53	Route-Drug Arg1:T78 Arg2:T60
+R54	Route-Drug Arg1:T77 Arg2:T60
+R55	Frequency-Drug Arg1:T87 Arg2:T33
+R56	Strength-Drug Arg1:T86 Arg2:T33
+R57	Duration-Drug Arg1:T90 Arg2:T33
+R58	Frequency-Drug Arg1:T89 Arg2:T33
+R59	Duration-Drug Arg1:T92 Arg2:T33
+R60	Strength-Drug Arg1:T88 Arg2:T33
+R61	Strength-Drug Arg1:T91 Arg2:T33
+R62	Frequency-Drug Arg1:T93 Arg2:T9
+R63	Reason-Drug Arg1:T97 Arg2:T12
+R64	Route-Drug Arg1:T96 Arg2:T12
+R65	Form-Drug Arg1:T95 Arg2:T12
+R66	Dosage-Drug Arg1:T94 Arg2:T12
+R67	Reason-Drug Arg1:T105 Arg2:T98
+R68	Frequency-Drug Arg1:T104 Arg2:T98
+R69	Form-Drug Arg1:T102 Arg2:T98
+R70	Route-Drug Arg1:T103 Arg2:T98
+R71	Dosage-Drug Arg1:T101 Arg2:T98
+R72	Form-Drug Arg1:T100 Arg2:T98
+R73	Strength-Drug Arg1:T99 Arg2:T98
+R74	Route-Drug Arg1:T106 Arg2:T53
+R75	Reason-Drug Arg1:T111 Arg2:T107
+R76	Frequency-Drug Arg1:T110 Arg2:T107
+R77	Route-Drug Arg1:T109 Arg2:T107
+R78	Strength-Drug Arg1:T108 Arg2:T107
+R79	Reason-Drug Arg1:T118 Arg2:T112
+R80	Frequency-Drug Arg1:T117 Arg2:T112
+R82	Dosage-Drug Arg1:T115 Arg2:T112
+R83	Form-Drug Arg1:T114 Arg2:T112
+R84	Strength-Drug Arg1:T113 Arg2:T112
+R85	Frequency-Drug Arg1:T119 Arg2:T23
+R86	Strength-Drug Arg1:T120 Arg2:T23
+R87	Duration-Drug Arg1:T121 Arg2:T63
+R88	Frequency-Drug Arg1:T123 Arg2:T1
+R89	Frequency-Drug Arg1:T124 Arg2:T1
+R90	Frequency-Drug Arg1:T122 Arg2:T1
+R91	Duration-Drug Arg1:T125 Arg2:T45
+R92	Reason-Drug Arg1:T126 Arg2:T52
+T128	Form 4334 4342	infusion
+T129	Drug 5204 5212	pressors
+T130	Drug 5370 5378	diuresis
+T131	Reason 6028 6032	pain
+T132	Reason 7445 7451;7452 7464	atrial fibrillation
+T133	Form 7173 7178	Flush
+T134	Dosage 7301 7306	Taper
+T135	Dosage 7511 7516	taper
+R93	Frequency-Drug Arg1:T74 Arg2:T56	
+R94	Frequency-Drug Arg1:T75 Arg2:T17	
+R95	Frequency-Drug Arg1:T84 Arg2:T27	
+R96	Frequency-Drug Arg1:T85 Arg2:T8	
+T48	Route 7134 7136	IV
+R31	Route-Drug Arg1:T48 Arg2:T112	
+T116	Route 7486 7488	IV
+R81	Route-Drug Arg1:T116 Arg2:T45	
+T136	Reason 7092 7096	pain
+R97	Reason-Drug Arg1:T136 Arg2:T107	

@@ -1,0 +1,221 @@
+T1	Drug 1009 1019	octreotide
+T2	Drug 1021 1030	midodrine
+T3	Drug 1036 1043	albumin
+T4	Reason 1055 1058	HRS
+R1	Reason-Drug Arg1:T4 Arg2:T1
+R2	Reason-Drug Arg1:T4 Arg2:T3
+R3	Reason-Drug Arg1:T4 Arg2:T2
+T5	Drug 1090 1102	levofloxacin
+T6	Drug 12973 12978	cipro
+T7	Reason 12983 12998	SBP prophylaxis
+R4	Reason-Drug Arg1:T7 Arg2:T6
+T8	Drug 13149 13164	Anticoagulation
+T9	Reason 13631 13642;13643 13651	hepatorenal syndrome
+R5	Reason-Drug Arg1:T9 Arg2:T10
+R6	Reason-Drug Arg1:T9 Arg2:T11
+R7	Reason-Drug Arg1:T9 Arg2:T12
+T10	Drug 13769 13779	octreotide
+T11	Drug 13781 13790	midodrine
+T12	Drug 13796 13803	albumin
+T13	Drug 14232 14241	midodrine
+T14	Drug 14246 14256	octreotide
+T15	Reason 14270 14290	hepatorenal syndrome
+R8	Reason-Drug Arg1:T15 Arg2:T13
+R9	Reason-Drug Arg1:T15 Arg2:T14
+R10	Reason-Drug Arg1:T15 Arg2:T17
+R11	Reason-Drug Arg1:T15 Arg2:T18
+T17	Drug 14328 14335	albumin
+T18	Drug 14380 14389	Midodrine
+T19	Strength 14407 14413	12.5mg
+R13	Strength-Drug Arg1:T19 Arg2:T18
+T20	Drug 15032 15035	FFP
+T21	Drug 15036 15040	Cryo
+T22	Drug 15089 15093	PRBC
+T23	Reason 15098 15105	low HCT
+R14	Reason-Drug Arg1:T23 Arg2:T22
+T24	Reason 15136 15144	bleeding
+R15	Reason-Drug Arg1:T24 Arg2:T25
+R16	Reason-Drug Arg1:T24 Arg2:T26
+T25	Drug 15175 15194	conjugated estrogen
+T26	Drug 15199 15208	Vitamin K
+T27	Dosage 15211 15212	3
+R17	Dosage-Drug Arg1:T27 Arg2:T26
+R18	Dosage-Drug Arg1:T27 Arg2:T25
+T28	Reason 15224 15246	HEPATIC ENCEPHALOPATHY
+R19	Reason-Drug Arg1:T28 Arg2:T29
+T29	Drug 15421 15430	lactulose
+T30	Drug 15470 15479	lactulose
+T31	Reason 15484 15498	encephalopathy
+R20	Reason-Drug Arg1:T31 Arg2:T30
+T32	Drug 15799 15808	Lactulose
+T33	Dosage 15809 15814	30 ml
+T34	Route 15815 15817	PO
+R22	Route-Drug Arg1:T34 Arg2:T32
+T35	Frequency 15818 15821	TID
+R23	Frequency-Drug Arg1:T35 Arg2:T32
+T36	Drug 15822 15828	Maalox
+T38	Route 15843 15845	PO
+R25	Route-Drug Arg1:T38 Arg2:T36
+T39	Frequency 15846 15849;15850 15853	Q6H PRN
+R26	Frequency-Drug Arg1:T39 Arg2:T36
+T40	Drug 15854 15867	Metronidazole
+T41	Strength 15868 15874	500 mg
+R27	Strength-Drug Arg1:T41 Arg2:T40
+T42	Route 15875 15877	PO
+R28	Route-Drug Arg1:T42 Arg2:T40
+T43	Drug 15878 15885	Albumin
+T44	Strength 15886 15887	5
+R29	Strength-Drug Arg1:T44 Arg2:T43
+T45	Dosage 15889 15894	50 gm
+R30	Dosage-Drug Arg1:T45 Arg2:T43
+T47	Frequency 15898 15903	DAILY
+R32	Frequency-Drug Arg1:T47 Arg2:T43
+T48	Drug 15904 15917	Midodrine HCl
+T49	Strength 15918 15924	7.5 mg
+R33	Strength-Drug Arg1:T49 Arg2:T48
+T50	Route 15925 15927	PO
+R34	Route-Drug Arg1:T50 Arg2:T48
+T51	Frequency 15928 15931	TID
+R35	Frequency-Drug Arg1:T51 Arg2:T48
+T52	Drug 15932 15949	Calcium Carbonate
+T53	Strength 15950 15956	500 mg
+R36	Strength-Drug Arg1:T53 Arg2:T52
+T54	Route 15957 15959	PO
+R37	Route-Drug Arg1:T54 Arg2:T52
+T55	Frequency 15960 15963;15964 15967	QID PRN
+R38	Frequency-Drug Arg1:T55 Arg2:T52
+T56	Drug 15968 15981	Multivitamins
+T57	Dosage 15982 15983	1
+R39	Dosage-Drug Arg1:T57 Arg2:T56
+T58	Form 15984 15987	CAP
+R40	Form-Drug Arg1:T58 Arg2:T56
+T59	Route 15988 15990	PO
+R41	Route-Drug Arg1:T59 Arg2:T56
+T60	Frequency 15991 15996	DAILY
+R42	Frequency-Drug Arg1:T60 Arg2:T56
+T61	Drug 15997 16015	Octreotide Acetate
+T62	Strength 16016 16023	200 mcg
+R43	Strength-Drug Arg1:T62 Arg2:T61
+T63	Route 16024 16026	SC
+R44	Route-Drug Arg1:T63 Arg2:T61
+T64	Frequency 16027 16030	Q8H
+R45	Frequency-Drug Arg1:T64 Arg2:T61
+T65	Drug 16059 16080	Insulin Regular Human
+T66	Strength 16081 16092	100 unit/mL
+R46	Strength-Drug Arg1:T66 Arg2:T65
+T67	Form 16093 16101	Solution
+R47	Form-Drug Arg1:T67 Arg2:T65
+T68	Dosage 16107 16114	One (1)
+R48	Dosage-Drug Arg1:T68 Arg2:T65
+T69	Form 16115 16124	injection
+R49	Form-Drug Arg1:T69 Arg2:T65
+T70	Dosage 16169 16176;16177 16182	sliding scale
+R50	Dosage-Drug Arg1:T70 Arg2:T65
+T71	Drug 16187 16196	Oxycodone
+T72	Strength 16197 16201	5 mg
+R51	Strength-Drug Arg1:T72 Arg2:T71
+T73	Form 16202 16208	Tablet
+R52	Form-Drug Arg1:T73 Arg2:T71
+T74	Dosage 16214 16217	1-2
+R53	Dosage-Drug Arg1:T74 Arg2:T71
+T75	Form 16218 16225	Tablets
+R54	Form-Drug Arg1:T75 Arg2:T71
+T76	Route 16226 16228	PO
+R55	Route-Drug Arg1:T76 Arg2:T71
+T77	Frequency 16229 16248;16249 16265	Q4-6H (every 4 to 6 hours) as needed
+R56	Frequency-Drug Arg1:T77 Arg2:T71
+T78	Reason 1625 1631	C.diff
+R57	Reason-Drug Arg1:T78 Arg2:T93
+T79	Reason 16270 16274	pain
+R58	Reason-Drug Arg1:T79 Arg2:T71
+T80	Drug 16312 16321	Lactulose
+T81	Strength 16322 16332	10 g/15 mL
+R59	Strength-Drug Arg1:T81 Arg2:T80
+T82	Form 16333 16338	Syrup
+R60	Form-Drug Arg1:T82 Arg2:T80
+T83	Dosage 16344 16358	Thirty (30) ML
+R61	Dosage-Drug Arg1:T83 Arg2:T80
+T84	Route 16359 16361	PO
+R62	Route-Drug Arg1:T84 Arg2:T80
+T85	Frequency 16362 16365	TID
+R63	Frequency-Drug Arg1:T85 Arg2:T80
+T86	Drug 16424 16438	Hydrocortisone
+T87	Strength 16439 16442	2.5 
+R64	Strength-Drug Arg1:T87 Arg2:T86
+T88	Form 16445 16450	Cream
+R65	Form-Drug Arg1:T88 Arg2:T86
+T89	Dosage 16456 16463	One (1)
+R66	Dosage-Drug Arg1:T89 Arg2:T86
+T90	Form 16464 16468	Appl
+R67	Form-Drug Arg1:T90 Arg2:T86
+T91	Route 16469 16475	Rectal
+R68	Route-Drug Arg1:T91 Arg2:T86
+T92	Reason 16523 16534	hemorrhoids
+R69	Reason-Drug Arg1:T92 Arg2:T86
+T93	Drug 1655 1661	Flagyl
+T94	Drug 16565 16591	Polyvinyl Alcohol-Povidone
+T95	Strength 16592 16599	1.4-0.6 
+R70	Strength-Drug Arg1:T95 Arg2:T94
+T96	Form 16602 16613	Dropperette
+R71	Form-Drug Arg1:T96 Arg2:T94
+T97	Form 16630 16635	Drops
+R72	Form-Drug Arg1:T97 Arg2:T94
+T98	Route 16636 16646	Ophthalmic
+R73	Route-Drug Arg1:T98 Arg2:T94
+T99	Frequency 16648 16651	PRN
+R74	Frequency-Drug Arg1:T99 Arg2:T94
+T100	Drug 16668 16698	B Complex-Vitamin C-Folic Acid
+T101	Strength 16699 16703	1 mg
+R75	Strength-Drug Arg1:T101 Arg2:T100
+T102	Form 16704 16711	Capsule
+R76	Form-Drug Arg1:T102 Arg2:T100
+T103	Dosage 16717 16724	One (1)
+R77	Dosage-Drug Arg1:T103 Arg2:T100
+T104	Form 16725 16728	Cap
+R78	Form-Drug Arg1:T104 Arg2:T100
+T105	Route 16729 16731	PO
+R79	Route-Drug Arg1:T105 Arg2:T100
+T106	Frequency 16732 16737	DAILY
+R80	Frequency-Drug Arg1:T106 Arg2:T100
+T107	Drug 16779 16794	Camphor-Menthol
+T108	Strength 16795 16802	0.5-0.5 
+R81	Strength-Drug Arg1:T108 Arg2:T107
+T109	Form 16805 16811	Lotion
+R82	Form-Drug Arg1:T109 Arg2:T107
+T110	Dosage 16817 16824	One (1)
+R83	Dosage-Drug Arg1:T110 Arg2:T107
+T111	Form 16825 16829	Appl
+R84	Form-Drug Arg1:T111 Arg2:T107
+T112	Route 16830 16837	Topical
+R85	Route-Drug Arg1:T112 Arg2:T107
+T113	Frequency 16856 16869	2 times a day
+R86	Frequency-Drug Arg1:T113 Arg2:T107
+T114	Reason 16885 16892	itching
+R87	Reason-Drug Arg1:T114 Arg2:T107
+T115	Drug 16925 16937	Pantoprazole
+T116	Strength 16938 16943	40 mg
+R88	Strength-Drug Arg1:T116 Arg2:T115
+T117	Form 16944 16967	Tablet, Delayed Release
+R89	Form-Drug Arg1:T117 Arg2:T115
+T118	Dosage 16980 16983;16984 16987	One (1)
+R90	Dosage-Drug Arg1:T118 Arg2:T115
+T119	Form 16988 17011	Tablet, Delayed Release
+R91	Form-Drug Arg1:T119 Arg2:T115
+T120	Route 17019 17021	PO
+R92	Route-Drug Arg1:T120 Arg2:T115
+T121	Frequency 17022 17026	Q24H
+R93	Frequency-Drug Arg1:T121 Arg2:T115
+T122	Drug 8562 8571	Oxacillin
+T123	Drug 8649 8660	penicillins
+T124	Drug 8662 8676	cephalosporins
+T125	Drug 8678 8690	carbacephems
+T126	Drug 8701 8712	carbapenems
+T127	Drug 8718 8755	beta-lactamase inhibitor combinations
+T128	Drug 8767 8775	Rifampin
+T129	Reason 904 909	C.dif
+R94	Reason-Drug Arg1:T129 Arg2:T137
+T137	Drug 981 987	flagyl
+T16	Route 15895 15897	IV
+R12	Route-Drug Arg1:T16 Arg2:T43	
+T37	Route 14325 14327	IV
+R21	Route-Drug Arg1:T37 Arg2:T17	

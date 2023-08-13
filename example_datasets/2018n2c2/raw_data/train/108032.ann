@@ -1,0 +1,95 @@
+T1	Drug 3777 3785	dilaudid
+T2	Drug 4930 4938	nicotine
+T3	Strength 4939 4944;4944 4950	14 mg /24 hr
+T4	Form 4976 4981;4982 4987	Patch 24 hr
+T5	Route 4988 4999	Transdermal
+T6	Drug 3747 3755	morphine
+T7	Drug 4851 4866	docusate sodium
+T8	Strength 4867 4873	100 mg
+T9	Form 4895 4902	Capsule
+T10	Route 4903 4905	PO
+T11	Drug 5018 5027	oxycodone
+T12	Strength 5028 5032	5 mg
+T13	Route 5057 5059	PO
+T14	Strength 5242 5247	40 mg
+T15	Route 5323 5325	PO
+T16	Drug 5229 5240;5240 5241	pantoprazol e
+T17	Strength 5149 5155	325 mg
+T18	Form 5176 5182	Tablet
+T19	Route 5183 5185	PO
+T20	Drug 5135 5147;5147 5148	acetaminophe n
+T21	Reason 5090 5093;5094 5098	for pain
+T22	Reason 5216 5219;5220 5224	for pain
+T23	Dosage 637 643	3units
+T24	Drug 644 648	RBCs
+T26	Drug 550 553	RBC
+T27	Dosage 3560 3563	1 U
+T28	Drug 3563 3567	PRBC
+T29	Form 3786 3789	PCA
+T30	Form 3756 3759	PCA
+T31	ADE 3812 3818	nausea
+T32	Form 4874 4881	Capsule
+T33	Dosage 4887 4894	One (1)
+T34	Frequency 4906 4912;4913 4925	BID (2 times a day)
+T35	Form 4951 4962	Patch 24 hr
+T36	Dosage 4968 4975	One (1)
+T37	Frequency 5000 5013	DAILY (Daily)
+T38	Form 5033 5039	Tablet
+T39	Dosage 5045 5048	1-2
+T40	Form 5049 5056	Tablets
+T41	Frequency 5060 5079;5080 5089	Q4H (every 4 hours) as needed
+T42	Form 5156 5162	Tablet
+T43	Dosage 5168 5175	One (1)
+T44	Frequency 5186 5196;5197 5215	Q6H (every 6 hours) as needed
+T45	Form 5248 5278	Tablet, Delayed Release (E.C.)
+T46	Dosage 5284 5287;5288 5291	One (1)
+T47	Form 5292 5322	Tablet, Delayed Release (E.C.)
+T48	Frequency 5326 5347	Q24H (every 24 hours)
+R1	Strength-Drug Arg1:T3 Arg2:T2
+R2	Form-Drug Arg1:T4 Arg2:T2
+R3	Route-Drug Arg1:T5 Arg2:T2
+R4	Strength-Drug Arg1:T8 Arg2:T7
+R5	Form-Drug Arg1:T9 Arg2:T7
+R6	Route-Drug Arg1:T10 Arg2:T7
+R7	Strength-Drug Arg1:T12 Arg2:T11
+R8	Route-Drug Arg1:T13 Arg2:T11
+R9	Strength-Drug Arg1:T14 Arg2:T16
+R10	Route-Drug Arg1:T15 Arg2:T16
+R11	Strength-Drug Arg1:T17 Arg2:T20
+R12	Form-Drug Arg1:T18 Arg2:T20
+R13	Route-Drug Arg1:T19 Arg2:T20
+R14	Dosage-Drug Arg1:T23 Arg2:T24
+R15	Dosage-Drug Arg1:T27 Arg2:T28
+R16	ADE-Drug Arg1:T31 Arg2:T6
+R17	Form-Drug Arg1:T30 Arg2:T6
+R18	Form-Drug Arg1:T29 Arg2:T1
+R19	Frequency-Drug Arg1:T34 Arg2:T7
+R20	Dosage-Drug Arg1:T33 Arg2:T7
+R21	Form-Drug Arg1:T32 Arg2:T7
+R22	Frequency-Drug Arg1:T37 Arg2:T2
+R23	Dosage-Drug Arg1:T36 Arg2:T2
+R24	Form-Drug Arg1:T35 Arg2:T2
+R25	Reason-Drug Arg1:T21 Arg2:T11
+R26	Frequency-Drug Arg1:T41 Arg2:T11
+R27	Form-Drug Arg1:T40 Arg2:T11
+R28	Dosage-Drug Arg1:T39 Arg2:T11
+R29	Form-Drug Arg1:T38 Arg2:T11
+R30	Reason-Drug Arg1:T22 Arg2:T20
+R31	Frequency-Drug Arg1:T44 Arg2:T20
+R32	Dosage-Drug Arg1:T43 Arg2:T20
+R33	Form-Drug Arg1:T42 Arg2:T20
+R34	Frequency-Drug Arg1:T48 Arg2:T16
+R35	Form-Drug Arg1:T47 Arg2:T16
+R36	Dosage-Drug Arg1:T46 Arg2:T16
+R37	Form-Drug Arg1:T45 Arg2:T16
+T49	Route 4524 4528	oral
+T50	Drug 4529 4538	pain meds
+T51	Reason 439 450	stab to LUQ
+T52	Reason 3530 3546	500cc blood loss
+T53	Reason 3712 3727	incisional pain
+R38	Route-Drug Arg1:T49 Arg2:T50
+R39	Reason-Drug Arg1:T51 Arg2:T26	
+R41	Reason-Drug Arg1:T51 Arg2:T24	
+R42	Reason-Drug Arg1:T52 Arg2:T28	
+R43	Reason-Drug Arg1:T53 Arg2:T6	
+R44	Reason-Drug Arg1:T53 Arg2:T1	

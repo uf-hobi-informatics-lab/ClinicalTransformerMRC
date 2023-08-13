@@ -1,0 +1,109 @@
+T1	Dosage 10001 10002	1
+R1	Dosage-Drug Arg1:T1 Arg2:T82
+T2	Form 10003 10006	tab
+R2	Form-Drug Arg1:T2 Arg2:T82
+T3	Drug 10024 10040	Artificial tears
+T4	Drug 10340 10352	multivitamin
+T5	Form 10357 10363	Tablet
+R3	Form-Drug Arg1:T5 Arg2:T4
+T6	Dosage 10369 10376	One (1)
+R4	Dosage-Drug Arg1:T6 Arg2:T4
+T7	Form 10377 10383	Tablet
+R5	Form-Drug Arg1:T7 Arg2:T4
+T8	Route 10384 10386	PO
+R6	Route-Drug Arg1:T8 Arg2:T4
+T9	Frequency 10387 10397	once a day
+R7	Frequency-Drug Arg1:T9 Arg2:T4
+T10	Drug 10434 10444	folic acid
+T11	Strength 10445 10449	1 mg
+R8	Strength-Drug Arg1:T11 Arg2:T10
+T12	Form 10450 10456	Tablet
+R9	Form-Drug Arg1:T12 Arg2:T10
+T13	Dosage 10462 10469	One (1)
+R10	Dosage-Drug Arg1:T13 Arg2:T10
+T14	Form 10470 10476	Tablet
+R11	Form-Drug Arg1:T14 Arg2:T10
+T15	Route 10477 10479	PO
+R12	Route-Drug Arg1:T15 Arg2:T10
+T16	Frequency 10480 10490	once a day
+R13	Frequency-Drug Arg1:T16 Arg2:T10
+T17	Drug 10527 10539	thiamine HCl
+T18	Strength 10540 10546	100 mg
+R14	Strength-Drug Arg1:T18 Arg2:T17
+T19	Form 10547 10553	Tablet
+R15	Form-Drug Arg1:T19 Arg2:T17
+T20	Dosage 10559 10566	One (1)
+R16	Dosage-Drug Arg1:T20 Arg2:T17
+T21	Form 10567 10573	Tablet
+R17	Form-Drug Arg1:T21 Arg2:T17
+T22	Route 10574 10576	PO
+R18	Route-Drug Arg1:T22 Arg2:T17
+T23	Frequency 10577 10587	once a day
+R19	Frequency-Drug Arg1:T23 Arg2:T17
+T24	Drug 11501 11513	antiobiotics
+T25	Reason 11527 11536	pneumonia
+R20	Reason-Drug Arg1:T25 Arg2:T24
+T26	Drug 11841 11853	multivitamin
+T27	Drug 11855 11865	folic acid
+T28	Drug 11871 11879	thiamine
+T29	Frequency 11888 11897	every day
+R21	Frequency-Drug Arg1:T29 Arg2:T26
+R22	Frequency-Drug Arg1:T29 Arg2:T27
+R23	Frequency-Drug Arg1:T29 Arg2:T28
+T30	Drug 166 171	Zosyn
+T47	Dosage 7911 7913	6L
+R24	Dosage-Drug Arg1:T47 Arg2:T49
+T48	Route 7914 7916	NC
+R25	Route-Drug Arg1:T48 Arg2:T49
+T49	Drug 7917 7919	O2
+T50	Reason 7959 7979	multifocal pneumonia
+R26	Reason-Drug Arg1:T50 Arg2:T51
+R27	Reason-Drug Arg1:T50 Arg2:T52
+R28	Reason-Drug Arg1:T50 Arg2:T54
+T51	Drug 8022 8026	Vanc
+T52	Drug 8027 8032	Zosyn
+T53	Drug 8038 8043	zosyn
+T54	Drug 8059 8068	Aztreonam
+T55	ADE 8075 8079	rash
+R29	ADE-Drug Arg1:T55 Arg2:T53
+T56	Drug 8081 8092	Scopalamine
+T57	Form 8093 8098	patch
+R30	Form-Drug Arg1:T57 Arg2:T56
+T58	Drug 8243 8253	Vancomycin
+T59	Duration 8296 8303	14 days
+R31	Duration-Drug Arg1:T59 Arg2:T58
+T60	Drug 8497 8505	thiamine
+T61	Drug 8727 8730	abx
+T62	ADE 8768 8786	Maculopapular rash
+R32	ADE-Drug Arg1:T62 Arg2:T63
+T63	Drug 8841 8846	zosyn
+T64	Reason 9005 9015	Alcoholism
+R33	Reason-Drug Arg1:T64 Arg2:T65
+R34	Reason-Drug Arg1:T64 Arg2:T66
+R35	Reason-Drug Arg1:T64 Arg2:T67
+T65	Drug 9086 9089	mvi
+T66	Drug 9091 9097	folate
+T67	Drug 9099 9107	thiamine
+T68	Drug 9325 9328	IVF
+T69	Drug 9917 9925	Propofol
+T70	Form 9926 9929	gtt
+R36	Form-Drug Arg1:T70 Arg2:T69
+T71	Drug 9930 9938	Fentanyl
+T72	Form 9939 9942	gtt
+R37	Form-Drug Arg1:T72 Arg2:T71
+T73	Drug 9943 9951	Protonix
+T74	Strength 9952 9954	40
+R38	Strength-Drug Arg1:T74 Arg2:T73
+T76	Frequency 9958 9963	daily
+R40	Frequency-Drug Arg1:T76 Arg2:T73
+T77	Drug 9964 9967	MVI
+T78	Frequency 9968 9973	daily
+R41	Frequency-Drug Arg1:T78 Arg2:T77
+T79	Drug 9974 9982	Thiamine
+T80	Strength 9983 9988	100mg
+R42	Strength-Drug Arg1:T80 Arg2:T79
+T81	Frequency 9989 9994	daily
+R43	Frequency-Drug Arg1:T81 Arg2:T79
+T82	Drug 9995 10000	Senna
+T31	Route 9955 9957	IV
+R39	Route-Drug Arg1:T31 Arg2:T73	

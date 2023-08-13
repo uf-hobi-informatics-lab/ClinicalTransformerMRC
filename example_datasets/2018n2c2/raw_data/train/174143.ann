@@ -1,0 +1,164 @@
+T1	Drug 1377 1382	Lasix
+T2	Reason 1391 1415;1416 1429	uncompensated congestive heart failure
+R1	Reason-Drug Arg1:T2 Arg2:T1
+T3	Drug 1527 1537	nesiritide
+T4	Drug 3595 3603	Natrecor
+T5	Route 3604 3608	drip
+R2	Route-Drug Arg1:T5 Arg2:T4
+T6	Reason 362 368;369 381	atrial fibrillation
+R3	Reason-Drug Arg1:T6 Arg2:T13
+T7	Reason 3620 3644	worsening renal function
+R4	Reason-Drug Arg1:T7 Arg2:T4
+T8	Drug 3650 3655	Lasix
+T9	Drug 3689 3697	Natrecor
+T10	Drug 3805 3813	Natrecor
+T11	Reason 3814 3822	diuresis
+R5	Reason-Drug Arg1:T11 Arg2:T10
+T12	Drug 3848 3853	Lasix
+T13	Drug 385 393	Coumadin
+T14	Drug 3909 3914	Lasix
+T15	Drug 3942 3947	Lasix
+T16	Drug 399 406	insulin
+T17	Drug 4085 4098	beta-blockers
+T18	Drug 4120 4130	dofetilide
+T19	Reason 417 425;426 434	diabetes mellitus
+R6	Reason-Drug Arg1:T19 Arg2:T16
+T20	Reason 4182 4196;4197 4209	convert her to sinus rhythm
+R7	Reason-Drug Arg1:T20 Arg2:T18
+R8	Reason-Drug Arg1:T20 Arg2:T22
+R9	Reason-Drug Arg1:T20 Arg2:T23
+T21	Reason 4225 4249	congestive heart failure
+R10	Reason-Drug Arg1:T21 Arg2:T18
+T22	Drug 4295 4305	dofetilide
+T23	Drug 4373 4383	dofetilide
+T24	Reason 4412 4426	antiarrhythmic
+R11	Reason-Drug Arg1:T24 Arg2:T23
+T25	Drug 4845 4850	Lasix
+T26	Drug 4920 4930	dofetilide
+T27	Reason 4953 4967	antiarrhythmic
+R12	Reason-Drug Arg1:T27 Arg2:T26
+T28	Drug 5144 5157	Acetaminophen
+T29	Reason 5381 5404	Urinary tract infection
+R13	Reason-Drug Arg1:T29 Arg2:T30
+T30	Drug 5456 5468	levofloxacin
+T31	Drug 5471 5478	Insulin
+T32	Reason 5489 5506	diabetes mellitus
+R14	Reason-Drug Arg1:T32 Arg2:T33
+R15	Reason-Drug Arg1:T32 Arg2:T35
+R16	Reason-Drug Arg1:T32 Arg2:T31
+T33	Drug 5605 5611	Lantus
+T34	Dosage 5639 5652	sliding scale
+R17	Dosage-Drug Arg1:T34 Arg2:T35
+T35	Drug 5653 5660	insulin
+T36	Reason 5663 5673	Depression
+R18	Reason-Drug Arg1:T36 Arg2:T37
+T37	Drug 5777 5782	Paxil
+T38	Drug 5990 6000	coenzyme-Q
+T39	Drug 6253 6266	Levothyroxine
+T40	Strength 6267 6273	25 mcg
+R19	Strength-Drug Arg1:T40 Arg2:T39
+T41	Route 6274 6277	p.o
+R20	Route-Drug Arg1:T41 Arg2:T39
+T42	Frequency 6279 6282	q.d
+R21	Frequency-Drug Arg1:T42 Arg2:T39
+T43	Drug 6287 6297	Paroxetine
+T44	Strength 6298 6303	20 mg
+R22	Strength-Drug Arg1:T44 Arg2:T43
+T45	Route 6304 6307	p.o
+R23	Route-Drug Arg1:T45 Arg2:T43
+T46	Frequency 6309 6312	q.d
+R24	Frequency-Drug Arg1:T46 Arg2:T43
+T47	Drug 6317 6329	Pantoprazole
+T48	Strength 6330 6335	40 mg
+R25	Strength-Drug Arg1:T48 Arg2:T47
+T49	Route 6336 6339	p.o
+R26	Route-Drug Arg1:T49 Arg2:T47
+T50	Frequency 6341 6344	q.d
+R27	Frequency-Drug Arg1:T50 Arg2:T47
+T51	Drug 6349 6362	Coenzyme Q-10
+T52	Strength 6363 6369	600 mg
+R28	Strength-Drug Arg1:T52 Arg2:T51
+T53	Route 6370 6373	p.o
+R29	Route-Drug Arg1:T53 Arg2:T51
+T54	Frequency 6375 6378	q.d
+R30	Frequency-Drug Arg1:T54 Arg2:T51
+T55	Drug 6383 6389	Colace
+T56	Strength 6390 6396	100 mg
+R31	Strength-Drug Arg1:T56 Arg2:T55
+T57	Route 6397 6400	p.o
+R32	Route-Drug Arg1:T57 Arg2:T55
+T58	Frequency 6402 6407	b.i.d
+R33	Frequency-Drug Arg1:T58 Arg2:T55
+T59	Drug 6412 6417	Senna
+T60	Dosage 6418 6419	1
+R34	Dosage-Drug Arg1:T60 Arg2:T59
+T61	Form 6420 6426	tablet
+R35	Form-Drug Arg1:T61 Arg2:T59
+T62	Route 6427 6430	p.o
+R36	Route-Drug Arg1:T62 Arg2:T59
+T63	Frequency 6432 6437	b.i.d
+R37	Frequency-Drug Arg1:T63 Arg2:T59
+T64	Drug 6449 6458	Vitamin E
+T65	Strength 6459 6468	400 units
+R38	Strength-Drug Arg1:T65 Arg2:T64
+T66	Route 6469 6472	p.o
+R39	Route-Drug Arg1:T66 Arg2:T64
+T67	Frequency 6474 6477	q.d
+R40	Frequency-Drug Arg1:T67 Arg2:T64
+T68	Drug 6482 6492	Carvedilol
+T69	Strength 6493 6501	3.125 mg
+R41	Strength-Drug Arg1:T69 Arg2:T68
+T70	Route 6502 6505	p.o
+R42	Route-Drug Arg1:T70 Arg2:T68
+T71	Frequency 6507 6512	b.i.d
+R43	Frequency-Drug Arg1:T71 Arg2:T68
+T72	Drug 6517 6525	Baclofen
+T73	Strength 6526 6531	10 mg
+R44	Strength-Drug Arg1:T73 Arg2:T72
+T74	Route 6532 6535	p.o
+R45	Route-Drug Arg1:T74 Arg2:T72
+T75	Frequency 6537 6542	t.i.d
+R46	Frequency-Drug Arg1:T75 Arg2:T72
+T76	Drug 6553 6561	Coumadin
+T77	Strength 6562 6566	4 mg
+R47	Strength-Drug Arg1:T77 Arg2:T76
+T78	Route 6567 6570	p.o
+R48	Route-Drug Arg1:T78 Arg2:T76
+T79	Frequency 6572 6575	h.s
+R49	Frequency-Drug Arg1:T79 Arg2:T76
+T80	Drug 6620 6635	Magnesium oxide
+T81	Strength 6636 6642	400 mg
+R50	Strength-Drug Arg1:T81 Arg2:T80
+T82	Route 6643 6646	p.o
+R51	Route-Drug Arg1:T82 Arg2:T80
+T83	Frequency 6648 6651	q.d
+R52	Frequency-Drug Arg1:T83 Arg2:T80
+T84	Drug 6662 6669	Digoxin
+T85	Strength 6670 6677	125 mcg
+R53	Strength-Drug Arg1:T85 Arg2:T84
+T86	Form 6678 6684	tablet
+R54	Form-Drug Arg1:T86 Arg2:T84
+T87	Form 6698 6704	tablet
+R55	Form-Drug Arg1:T87 Arg2:T84
+T88	Route 6705 6708	p.o
+R56	Route-Drug Arg1:T88 Arg2:T84
+T89	Frequency 6710 6713	q.d
+R57	Frequency-Drug Arg1:T89 Arg2:T84
+T90	Drug 6724 6736	Levofloxacin
+T91	Strength 6737 6743	500 mg
+R58	Strength-Drug Arg1:T91 Arg2:T90
+T92	Route 6744 6747	p.o
+R59	Route-Drug Arg1:T92 Arg2:T90
+T93	Frequency 6749 6752	q.d
+R60	Frequency-Drug Arg1:T93 Arg2:T90
+T94	Duration 6756 6762	7 days
+R61	Duration-Drug Arg1:T94 Arg2:T90
+T95	Drug 6773 6780	Humalog
+T96	Dosage 6781 6794	sliding scale
+R62	Dosage-Drug Arg1:T96 Arg2:T95
+T97	Frequency 6807 6812	q.i.d
+R63	Frequency-Drug Arg1:T97 Arg2:T95
+T98	Drug 739 748	vitamin K
+T99	Drug 7524 7531	insulin
+T100	Reason 813 829;830 835	gastrointestinal bleed
+R64	Reason-Drug Arg1:T100 Arg2:T98

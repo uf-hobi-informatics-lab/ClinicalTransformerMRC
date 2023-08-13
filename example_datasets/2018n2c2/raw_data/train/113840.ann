@@ -1,0 +1,345 @@
+T1	Drug 7940 7955;7956 7968	cholecalciferol (vitamin D3)
+T2	Strength 7970 7980	1,000 unit
+T3	Form 7992 7995	cap
+T4	Dosage 7990 7991	1
+T5	Route 7996 7998	PO
+T6	Drug 7176 7186	lisinopril
+T7	Drug 5257 5265	coumadin
+T8	Drug 1422 1430	Benadryl
+T9	Drug 9616 9624	Coumadin
+T10	Drug 1937 1945	coumadin
+T11	Drug 7827 7840	ascorbic acid
+T12	Strength 7841 7847	500 mg
+T13	Form 7855 7858	tab
+T14	Dosage 7853 7854	1
+T15	Route 7859 7861	PO
+T16	Drug 7060 7065	lasix
+T17	Strength 8221 8226	81 mg
+T18	Form 8257 8263;8263 8273	Tablet , Chewable
+T19	Drug 8213 8219;8219 8220	aspiri n
+T20	Drug 8599 8614;8615 8627	cholecalciferol (vitamin D3)
+T21	Strength 8628 8638	1,000 unit
+T22	Drug 5060 5067	aspirin
+T23	Drug 7067 7077	lisinopril
+T24	Drug 9633 9643	Lisinopril
+T25	Drug 1317 1325	Protonix
+T26	Drug 5287 5294	aspirin
+T27	Drug 7721 7731;7732 7741	metoprolol succinate
+T28	Strength 7742 7747	25 mg
+T29	Form 7755 7758	tab
+T30	Dosage 7753 7754	1
+T31	Route 7759 7761	PO
+T32	Strength 7612 7617	20 mg
+T33	Form 7630 7634	tabs
+T34	Dosage 7626 7629	0.5
+T35	Route 7635 7637	PO
+T36	Drug 7601 7610;7610 7611	furosemid e
+T37	Drug 8498 8502	Tums
+T38	Strength 8503 8509	200 mg
+T39	Drug 6710 6720	metoprolol
+T40	Drug 7497 7505	coumadin
+T41	Drug 7098 7108	metoprolol
+T42	Strength 7876 7881	81 mg
+T43	Form 7889 7892	tab
+T44	Dosage 7887 7888	1
+T45	Route 7893 7895	PO
+T46	Drug 7868 7874;7874 7875	aspiri n
+T47	Drug 8510 8517	calcium
+T48	Strength 8519 8525	500 mg
+T49	Form 8527 8533;8533 8543	Tablet , Chewable
+T50	Drug 9284 9292	coumadin
+T51	Drug 8005 8013;8014 8020	docusate sodium
+T52	Strength 8021 8027	100 mg
+T53	Form 8039 8046	Capsule
+T54	Dosage 8037 8038	1
+T55	Frequency 8050 8053	BID
+T56	Route 8047 8049	PO
+T57	Drug 9671 9681	Metoprolol
+T58	Form 9692 9696	pill
+T59	Frequency 9697 9702;9703 9708	twice daily
+T60	Drug 8137 8147;8148 8156	metoprolol tartrate
+T61	Strength 8157 8162	25 mg
+T62	Form 8179 8185	Tablet
+T63	Dosage 8175 8178	0.5
+T64	Route 8186 8188	PO
+T65	Drug 5047 5055	coumadin
+T66	Drug 339 347	coumadin
+T67	Drug 7768 7776	warfarin
+T68	Strength 7777 7781	1 mg
+T69	Form 7794 7798	tabs
+T70	Dosage 7787 7791;7792 7793	1 to 2
+T71	Route 7799 7801	PO
+T72	Drug 7131 7141	Metoprolol
+T73	Strength 7655 7661	2.5 mg
+T74	Form 7672 7675	tab
+T75	Dosage 7670 7671	1
+T76	Route 7676 7678	PO
+T77	Drug 7644 7653;7653 7654	lisinopri l
+T78	Drug 7902 7909;7910 7926	calcium carbonate [Tums]
+T79	Form 7929 7933	tabs
+T80	Dosage 7927 7928	3
+T81	Drug 6897 6905	coumadin
+T82	Drug 6503 6511	coumadin
+T83	Drug 7528 7535	heparin
+T84	Drug 6634 6643	vitamin K
+T85	Drug 7406 7414	Coumadin
+T86	Drug 6768 6776	coumadin
+T87	Drug 5491 5500	Vitamin K
+T88	Drug 8436 8442	Colace
+T89	Strength 8443 8449	100 mg
+T90	Form 8471 8478	Capsule
+T91	Frequency 8482 8489;8490 8493	twice a day
+T92	Route 8479 8481	PO
+T93	Drug 7166 7171	lasix
+T94	Drug 124 131	Codeine
+T95	Drug 6654 6662	Coumadin
+T96	Drug 9727 9732	Lasix
+T97	Reason 330 335	a-fib
+T98	Drug 110 121	Penicillins
+T99	Dosage 925 927	1L
+T100	Drug 928 930	NS
+T101	Dosage 932 938	2units
+T102	Drug 939 942	FFP
+T103	Drug 1297 1306	vitamin K
+T104	Reason 1268 1283	active bleeding
+T105	Strength 1307 1311	10mg
+T106	Strength 1326 1328	40
+T108	Drug 1367 1370	FFP
+T109	Strength 1414 1418	50mg
+T110	ADE 1378 1385	itching
+T111	Reason 1378 1385	itching
+T112	ADE 1444 1447	AMS
+T113	Drug 1473 1476	FFP
+T114	Reason 1929 1933	AFib
+T115	Reason 5029 5034	a-fib
+T116	Reason 5039 5043	dCHF
+T117	ADE 5124 5144	supratherapeutic INR
+T118	ADE 5163 5171	GI bleed
+T119	Reason 5163 5171	GI bleed
+T120	Drug 5477 5480	FFP
+T121	Strength 5485 5490	10 mg
+T122	Dosage 5605 5612	2 units
+T123	Drug 5613 5618	PRBCs
+T124	Reason 6606 6610	LGIB
+T125	Drug 6648 6651	FFP
+T126	Reason 6695 6707	rate control
+T127	Reason 6957 6979	Diastolic CHF, chronic
+T128	Form 7618 7624	Tablet
+T129	Frequency 7638 7643	daily
+T130	Form 7662 7668	Tablet
+T131	Frequency 7679 7684	daily
+T132	Form 7748 7751	Tab
+T133	Frequency 7762 7767	daily
+T134	Form 7782 7785	tab
+T135	Frequency 7802 7807	daily
+T136	Frequency 7862 7867	daily
+T137	Form 7848 7851	tab
+T138	Form 7882 7885	tab
+T139	Frequency 7896 7901	daily
+T140	Frequency 7934 7939	daily
+T141	Form 7981 7988	capsule
+T142	Frequency 7999 8004	daily
+T143	Form 8028 8035	Capsule
+T144	Drug 8054 8083	vitamin A-vitamin C-vit E-min
+T145	Dosage 8085 8086	1
+T146	Form 8087 8093	Tablet
+T147	Route 8094 8096	PO
+T148	Frequency 8097 8108	twice a day
+T149	Form 8163 8169	Tablet
+T150	Frequency 8189 8195;8196 8208	BID (2 times a day)
+T151	Form 8227 8243	Tablet, Chewable
+T152	Dosage 8249 8256	One (1)
+T153	Route 8274 8276	PO
+T154	Frequency 8277 8290	DAILY (Daily)
+T155	Drug 8295 8324	vitamin A-vitamin C-vit E-min
+T156	Form 8329 8335	Tablet
+T157	Dosage 8341 8348	One (1)
+T158	Form 8349 8355	Tablet
+T159	Route 8356 8358	PO
+T160	Frequency 8359 8369	once a day
+T161	Drug 8374 8383	Vitamin C
+T162	Strength 8384 8390	500 mg
+T163	Form 8391 8397	Tablet
+T164	Dosage 8403 8410	One (1)
+T165	Form 8411 8417	Tablet
+T166	Route 8418 8420	PO
+T167	Frequency 8421 8431	once a day
+T168	Form 8450 8457	Capsule
+T169	Dosage 8463 8470	One (1)
+T170	Form 8557 8573	Tablet, Chewable
+T171	Route 8574 8576	PO
+T172	Frequency 8577 8594	three times a day
+T173	Dosage 8549 8556	One (1)
+T174	Form 8639 8645	Tablet
+T175	Dosage 8651 8658	One (1)
+T176	Form 8659 8665	Tablet
+T177	Route 8666 8668	PO
+T178	Frequency 8669 8679	once a day
+T179	Dosage 9687 9691	HALF
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Form-Drug Arg1:T3 Arg2:T1
+R3	Dosage-Drug Arg1:T4 Arg2:T1
+R4	Route-Drug Arg1:T5 Arg2:T1
+R5	Strength-Drug Arg1:T12 Arg2:T11
+R6	Form-Drug Arg1:T13 Arg2:T11
+R7	Dosage-Drug Arg1:T14 Arg2:T11
+R8	Route-Drug Arg1:T15 Arg2:T11
+R9	Strength-Drug Arg1:T17 Arg2:T19
+R10	Form-Drug Arg1:T18 Arg2:T19
+R11	Strength-Drug Arg1:T21 Arg2:T20
+R12	Strength-Drug Arg1:T28 Arg2:T27
+R13	Form-Drug Arg1:T29 Arg2:T27
+R14	Dosage-Drug Arg1:T30 Arg2:T27
+R15	Route-Drug Arg1:T31 Arg2:T27
+R16	Strength-Drug Arg1:T32 Arg2:T36
+R17	Form-Drug Arg1:T33 Arg2:T36
+R18	Dosage-Drug Arg1:T34 Arg2:T36
+R19	Route-Drug Arg1:T35 Arg2:T36
+R20	Strength-Drug Arg1:T38 Arg2:T37
+R21	Strength-Drug Arg1:T42 Arg2:T46
+R22	Form-Drug Arg1:T43 Arg2:T46
+R23	Dosage-Drug Arg1:T44 Arg2:T46
+R24	Route-Drug Arg1:T45 Arg2:T46
+R25	Strength-Drug Arg1:T48 Arg2:T47
+R26	Form-Drug Arg1:T49 Arg2:T37
+R27	Strength-Drug Arg1:T52 Arg2:T51
+R28	Form-Drug Arg1:T53 Arg2:T51
+R29	Dosage-Drug Arg1:T54 Arg2:T51
+R30	Frequency-Drug Arg1:T55 Arg2:T51
+R31	Route-Drug Arg1:T56 Arg2:T51
+R32	Form-Drug Arg1:T58 Arg2:T57
+R33	Frequency-Drug Arg1:T59 Arg2:T57
+R34	Strength-Drug Arg1:T61 Arg2:T60
+R35	Form-Drug Arg1:T62 Arg2:T60
+R36	Dosage-Drug Arg1:T63 Arg2:T60
+R37	Route-Drug Arg1:T64 Arg2:T60
+R38	Strength-Drug Arg1:T68 Arg2:T67
+R39	Form-Drug Arg1:T69 Arg2:T67
+R40	Route-Drug Arg1:T71 Arg2:T67
+R41	Strength-Drug Arg1:T73 Arg2:T77
+R42	Form-Drug Arg1:T74 Arg2:T77
+R43	Dosage-Drug Arg1:T75 Arg2:T77
+R44	Route-Drug Arg1:T76 Arg2:T77
+R45	Form-Drug Arg1:T79 Arg2:T78
+R46	Dosage-Drug Arg1:T80 Arg2:T78
+R47	Strength-Drug Arg1:T89 Arg2:T88
+R48	Form-Drug Arg1:T90 Arg2:T88
+R49	Frequency-Drug Arg1:T91 Arg2:T88
+R50	Route-Drug Arg1:T92 Arg2:T88
+R51	Reason-Drug Arg1:T97 Arg2:T66
+R52	Dosage-Drug Arg1:T99 Arg2:T100
+R53	Dosage-Drug Arg1:T101 Arg2:T102
+R54	Reason-Drug Arg1:T104 Arg2:T103
+R55	Strength-Drug Arg1:T105 Arg2:T103
+R56	Strength-Drug Arg1:T106 Arg2:T25
+R58	Strength-Drug Arg1:T109 Arg2:T8
+R59	ADE-Drug Arg1:T112 Arg2:T8
+R60	ADE-Drug Arg1:T111 Arg2:T108
+R61	Reason-Drug Arg1:T114 Arg2:T10
+R62	Reason-Drug Arg1:T116 Arg2:T65
+R63	Reason-Drug Arg1:T116 Arg2:T22
+R64	Reason-Drug Arg1:T115 Arg2:T65
+R65	Reason-Drug Arg1:T115 Arg2:T22
+R66	ADE-Drug Arg1:T117 Arg2:T65
+R67	Strength-Drug Arg1:T121 Arg2:T87
+R68	ADE-Drug Arg1:T119 Arg2:T7
+R69	ADE-Drug Arg1:T119 Arg2:T26
+R70	Dosage-Drug Arg1:T122 Arg2:T123
+R71	Reason-Drug Arg1:T124 Arg2:T84
+R72	Reason-Drug Arg1:T124 Arg2:T125
+R73	Reason-Drug Arg1:T126 Arg2:T39
+R74	Reason-Drug Arg1:T127 Arg2:T41
+R75	Reason-Drug Arg1:T127 Arg2:T23
+R76	Reason-Drug Arg1:T127 Arg2:T16
+R77	Frequency-Drug Arg1:T129 Arg2:T36
+R78	Form-Drug Arg1:T128 Arg2:T36
+R79	Frequency-Drug Arg1:T131 Arg2:T77
+R80	Form-Drug Arg1:T130 Arg2:T77
+R81	Form-Drug Arg1:T132 Arg2:T27
+R82	Frequency-Drug Arg1:T133 Arg2:T27
+R83	Frequency-Drug Arg1:T135 Arg2:T67
+R84	Dosage-Drug Arg1:T70 Arg2:T67
+R85	Form-Drug Arg1:T134 Arg2:T67
+R86	Form-Drug Arg1:T137 Arg2:T11
+R87	Frequency-Drug Arg1:T136 Arg2:T11
+R88	Frequency-Drug Arg1:T139 Arg2:T46
+R89	Form-Drug Arg1:T138 Arg2:T46
+R90	Frequency-Drug Arg1:T140 Arg2:T78
+R91	Form-Drug Arg1:T141 Arg2:T1
+R92	Frequency-Drug Arg1:T142 Arg2:T1
+R93	Form-Drug Arg1:T143 Arg2:T51
+R94	Frequency-Drug Arg1:T148 Arg2:T144
+R95	Route-Drug Arg1:T147 Arg2:T144
+R96	Form-Drug Arg1:T146 Arg2:T144
+R97	Dosage-Drug Arg1:T145 Arg2:T144
+R98	Frequency-Drug Arg1:T150 Arg2:T60
+R99	Form-Drug Arg1:T149 Arg2:T60
+R100	Frequency-Drug Arg1:T154 Arg2:T19
+R101	Route-Drug Arg1:T153 Arg2:T19
+R102	Dosage-Drug Arg1:T152 Arg2:T19
+R103	Form-Drug Arg1:T151 Arg2:T19
+R104	Frequency-Drug Arg1:T160 Arg2:T155
+R105	Route-Drug Arg1:T159 Arg2:T155
+R106	Form-Drug Arg1:T158 Arg2:T155
+R107	Dosage-Drug Arg1:T157 Arg2:T155
+R108	Form-Drug Arg1:T156 Arg2:T155
+R109	Frequency-Drug Arg1:T167 Arg2:T161
+R110	Route-Drug Arg1:T166 Arg2:T161
+R111	Form-Drug Arg1:T165 Arg2:T161
+R112	Dosage-Drug Arg1:T164 Arg2:T161
+R113	Form-Drug Arg1:T163 Arg2:T161
+R114	Strength-Drug Arg1:T162 Arg2:T161
+R115	Dosage-Drug Arg1:T169 Arg2:T88
+R116	Form-Drug Arg1:T168 Arg2:T88
+R117	Frequency-Drug Arg1:T172 Arg2:T37
+R118	Route-Drug Arg1:T171 Arg2:T37
+R119	Form-Drug Arg1:T170 Arg2:T37
+R120	Dosage-Drug Arg1:T173 Arg2:T37
+R121	Frequency-Drug Arg1:T178 Arg2:T20
+R122	Route-Drug Arg1:T177 Arg2:T20
+R123	Form-Drug Arg1:T176 Arg2:T20
+R124	Dosage-Drug Arg1:T175 Arg2:T20
+R125	Form-Drug Arg1:T174 Arg2:T20
+R126	Dosage-Drug Arg1:T179 Arg2:T57
+T180	Reason 905 916	88 systolic
+T181	Reason 802 813	HCT dropped
+T182	ADE 5095 5103	GI bleed
+T183	ADE 5231 5251	supratherapeutic INR
+T185	Reason 5555 5576	maroon bowel movement
+T187	Dosage 7155 7164	half dose
+T188	Drug 9234 9239	blood
+T189	Drug 9244 9258	blood products
+T190	Form 9218 9230	transfusions
+T191	Reason 9179 9197;9198 9203	bleeding with your stool
+T192	ADE 9270 9278	high INR
+T193	ADE 9344 9352	bleeding
+T194	Strength 9710 9717	12.5 mg
+T196	Reason 6442 6461	Atrial fibrillation
+T197	ADE 6928 6936	GI bleed
+R127	Form-Drug Arg1:T190 Arg2:T188
+R128	Form-Drug Arg1:T190 Arg2:T189
+R129	Reason-Drug Arg1:T191 Arg2:T188
+R130	Reason-Drug Arg1:T191 Arg2:T189
+R133	Reason-Drug Arg1:T180 Arg2:T100	
+R131	Reason-Drug Arg1:T180 Arg2:T102	
+R132	Reason-Drug Arg1:T181 Arg2:T102	
+R134	Reason-Drug Arg1:T111 Arg2:T8	
+R135	ADE-Drug Arg1:T182 Arg2:T22	
+R136	ADE-Drug Arg1:T182 Arg2:T65	
+R137	Reason-Drug Arg1:T119 Arg2:T120	
+R138	ADE-Drug Arg1:T183 Arg2:T7	
+T184	Reason 5231 5251	supratherapeutic INR
+R139	Reason-Drug Arg1:T184 Arg2:T87	
+R140	Reason-Drug Arg1:T185 Arg2:T123	
+R141	Reason-Drug Arg1:T196 Arg2:T82	
+R142	ADE-Drug Arg1:T197 Arg2:T81	
+R143	Dosage-Drug Arg1:T187 Arg2:T93	
+R144	ADE-Drug Arg1:T192 Arg2:T50	
+R145	ADE-Drug Arg1:T193 Arg2:T50	
+R146	Strength-Drug Arg1:T194 Arg2:T57	
+T107	Route 1329 1331	IV
+R57	Route-Drug Arg1:T107 Arg2:T25	
+T186	Reason 1390 1395	hives
+T195	ADE 1390 1395	hives
+R147	Reason-Drug Arg1:T186 Arg2:T8	
+R148	ADE-Drug Arg1:T195 Arg2:T8	

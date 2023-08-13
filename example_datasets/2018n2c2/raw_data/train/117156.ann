@@ -1,0 +1,234 @@
+T1	Drug 6913 6923	metoprolol
+T2	Strength 7926 7931	20 mg
+T3	Form 7932 7939;7939 7962	Capsule , Delayed Release(E.C.)
+T4	Drug 7915 7924;7924 7925	Omeprazol e
+T5	Drug 5773 5779	Plavix
+T6	Drug 7694 7701	Insulin
+T7	Drug 1201 1214	nitroglycerin
+T8	Strength 8091 8096	10 mg
+T9	Form 8097 8100;8100 8127	Tab ,Sust Rel Osmotic Push 24hr
+T10	Drug 8081 8089;8089 8090	Glipizid e
+T11	Drug 9235 9243	losartan
+T12	Drug 6933 6938	Imdur
+T13	Route 6758 6762	oral
+T14	Drug 7578 7588;7589 7598	Metoprolol succinate
+T15	Drug 1054 1067	nitroglycerin
+T17	Drug 6943 6954;6954 6959	triamterene /HCTZ
+T18	Drug 166 173	Aspirin
+T19	Strength 7741 7746	10 mg
+T20	Form 7767 7773	Tablet
+T21	Route 7774 7776	PO
+T22	Drug 7729 7739;7739 7740	Simvastati n
+T23	Drug 9128 9137	diltiazem
+T24	Drug 6699 6705	Plavix
+T25	Drug 7471 7481	Omeprazole
+T26	Drug 176 183	Lipitor
+T27	Drug 433 439	plavix
+T28	Drug 1074 1082	morphine
+T29	Drug 7224 7235	simvastatin
+T30	Drug 7455 7461	Plavix
+T31	Drug 8255 8262;8263 8271	Insulin Glargine
+T32	Drug 1088 1094	zofran
+T33	Drug 7491 7502	Simvastatin
+T34	Drug 9159 9169	metoprolol
+T35	Drug 6216 6226	ranolazine
+T36	Drug 7543 7552;7553 7555	Diltiazem ER
+T37	Strength 7556 7560	90mg
+T38	Drug 6413 6419	Plavix
+T39	Drug 7608 7618;7619 7630	Isosorbide mononitrate
+T40	Drug 7512 7523;7523 7528	Triamterene /HCTZ
+T41	Drug 7641 7649	Losartan
+T42	Drug 1118 1126	morphine
+T43	Drug 6925 6931	Cozaar
+T44	Drug 9191 9201;9202 9213	isosorbide mononitrate
+T45	Drug 6249 6254	Imdur
+T46	Drug 7660 7669	Glipizide
+T47	Drug 9048 9054	Plavix
+T48	Strength 7806 7812	500 mg
+T49	Form 7813 7819;7820 7843	Tablet Sustained Release 12 hr
+T50	Drug 7795 7804;7804 7805	Ranolazin e
+T51	Drug 9076 9087;9087 9106	triamterene /hydrochlorthiazide
+T52	Drug 1527 1534	aspirin
+T53	Drug 6807 6814;6815 6822	humalog insulin
+T54	Route 6844 6848	oral
+T55	Drug 8190 8202	Pioglitazone
+T56	Strength 8203 8208	30 mg
+T57	Form 8229 8235	Tablet
+T58	Frequency 8239 8245;8246 8249	once a day
+T59	Route 8236 8238	PO
+T60	Drug 7679 7684	Actos
+T61	Reason 417 429	CAD s/p CABG
+T62	Dosage 1049 1050	2
+T63	Route 1051 1053	SL
+T64	Drug 678 683	NSAID
+T65	Strength 1069 1070	4
+T66	Reason 1100 1102	CP
+T67	Drug 1131 1136	nitro
+T68	Dosage 1138 1139	2
+T70	Reason 1160 1179	hypotensive to 80's
+T71	Drug 1249 1252	IVF
+T72	Dosage 1348 1355	2 units
+T73	Drug 1356 1361	pRBCs
+T74	ADE 1514 1517	GIB
+T75	Dosage 5222 5229	9 units
+T76	Drug 5230 5235	PRBCs
+T77	Drug 5475 5486;5487 5496	proton-pump inhibitor
+T79	Route 6259 6261	SL
+T80	Drug 6262 6268	nitros
+T81	ADE 6303 6314	hypotension
+T82	Dosage 6346 6353	9 units
+T83	Drug 6354 6359	PRBCs
+T84	Reason 6360 6367;6368 6384	to keep her hct above 25
+T85	Drug 6763 6776	hypoglycemics
+T86	Reason 6724 6744	Diabetes mellitus II
+T87	Dosage 6793 6806	sliding scale
+T88	Drug 6849 6862	hypoglycemics
+T89	Reason 7180 7194	Hyperlipidemia
+T90	Drug 7423 7433	Razolazine
+T91	Strength 7434 7437	500
+T92	Strength 7462 7464	75
+T93	Frequency 7465 7470	daily
+T94	Strength 7482 7484	20
+T95	Frequency 7485 7490	daily
+T96	Strength 7503 7505	20
+T97	Frequency 7506 7511	daily
+T98	Strength 7529 7536	37.5/25
+T99	Frequency 7537 7542	daily
+T100	Strength 7599 7601	25
+T101	Frequency 7602 7607	daily
+T102	Strength 7631 7634	120
+T103	Frequency 7635 7640	daily
+T104	Strength 7650 7653	100
+T105	Frequency 7654 7659	daily
+T106	Strength 7670 7672	10
+T107	Frequency 7673 7678	daily
+T108	Strength 7685 7687	30
+T109	Frequency 7688 7693	daily
+T110	Form 7747 7753	Tablet
+T111	Dosage 7759 7766	Two (2)
+T112	Frequency 7777 7782;7783 7790	DAILY (Daily)
+T113	Dosage 7849 7856	One (1)
+T114	Form 7857 7887	Tablet Sustained Release 12 hr
+T115	Route 7888 7890	PO
+T116	Frequency 7891 7910	BID (2 times a day)
+T117	Dosage 7968 7975	One (1)
+T118	Form 7976 8006	Capsule, Delayed Release(E.C.)
+T119	Route 8007 8009	PO
+T120	Frequency 8010 8020	once a day
+T121	Dosage 8133 8140	One (1)
+T122	Form 8141 8171	Tab,Sust Rel Osmotic Push 24hr
+T123	Frequency 8175 8185	once a day
+T124	Route 8172 8174	PO
+T125	Dosage 8221 8228	One (1)
+T126	Form 8209 8215	Tablet
+T127	Strength 8272 8283	100 unit/mL
+T128	Form 8284 8293	Cartridge
+T129	Route 8294 8306	Subcutaneous
+T130	Dosage 8775 8792	nine transfusions
+T131	Drug 8796 8811	red blood cells
+T132	Reason 8738 8760	gastrointestinal bleed
+R1	Strength-Drug Arg1:T2 Arg2:T4
+R2	Form-Drug Arg1:T3 Arg2:T4
+R3	Strength-Drug Arg1:T8 Arg2:T10
+R4	Form-Drug Arg1:T9 Arg2:T10
+R5	Route-Drug Arg1:T13 Arg2:T85
+R7	Strength-Drug Arg1:T19 Arg2:T22
+R8	Form-Drug Arg1:T20 Arg2:T22
+R9	Route-Drug Arg1:T21 Arg2:T22
+R10	Strength-Drug Arg1:T37 Arg2:T36
+R11	Strength-Drug Arg1:T48 Arg2:T50
+R12	Form-Drug Arg1:T49 Arg2:T50
+R13	Route-Drug Arg1:T54 Arg2:T88
+R14	Strength-Drug Arg1:T56 Arg2:T55
+R15	Form-Drug Arg1:T57 Arg2:T55
+R16	Frequency-Drug Arg1:T58 Arg2:T55
+R17	Route-Drug Arg1:T59 Arg2:T55
+R18	Reason-Drug Arg1:T61 Arg2:T27
+R19	Route-Drug Arg1:T63 Arg2:T15
+R20	Dosage-Drug Arg1:T62 Arg2:T15
+R21	Strength-Drug Arg1:T65 Arg2:T28
+R22	Dosage-Drug Arg1:T68 Arg2:T67
+R23	Reason-Drug Arg1:T66 Arg2:T67
+R24	Reason-Drug Arg1:T66 Arg2:T42
+R26	Reason-Drug Arg1:T70 Arg2:T71
+R27	Dosage-Drug Arg1:T72 Arg2:T73
+R28	ADE-Drug Arg1:T74 Arg2:T52
+R29	Dosage-Drug Arg1:T75 Arg2:T76
+R31	ADE-Drug Arg1:T81 Arg2:T45
+R32	ADE-Drug Arg1:T81 Arg2:T80
+R33	Route-Drug Arg1:T79 Arg2:T80
+R34	Reason-Drug Arg1:T84 Arg2:T83
+R35	Dosage-Drug Arg1:T82 Arg2:T83
+R36	Dosage-Drug Arg1:T87 Arg2:T53
+R37	Reason-Drug Arg1:T86 Arg2:T88
+R38	Reason-Drug Arg1:T86 Arg2:T53
+R39	Reason-Drug Arg1:T86 Arg2:T85
+R40	Reason-Drug Arg1:T89 Arg2:T29
+R41	Frequency-Drug Arg1:T109 Arg2:T60
+R42	Strength-Drug Arg1:T108 Arg2:T60
+R43	Frequency-Drug Arg1:T107 Arg2:T46
+R44	Frequency-Drug Arg1:T105 Arg2:T41
+R45	Strength-Drug Arg1:T106 Arg2:T46
+R46	Strength-Drug Arg1:T104 Arg2:T41
+R47	Frequency-Drug Arg1:T103 Arg2:T39
+R48	Strength-Drug Arg1:T102 Arg2:T39
+R49	Frequency-Drug Arg1:T101 Arg2:T14
+R50	Frequency-Drug Arg1:T99 Arg2:T40
+R51	Strength-Drug Arg1:T98 Arg2:T40
+R52	Frequency-Drug Arg1:T97 Arg2:T33
+R53	Strength-Drug Arg1:T96 Arg2:T33
+R54	Frequency-Drug Arg1:T95 Arg2:T25
+R55	Strength-Drug Arg1:T94 Arg2:T25
+R56	Frequency-Drug Arg1:T93 Arg2:T30
+R57	Strength-Drug Arg1:T92 Arg2:T30
+R58	Strength-Drug Arg1:T91 Arg2:T90
+R59	Frequency-Drug Arg1:T112 Arg2:T22
+R60	Dosage-Drug Arg1:T111 Arg2:T22
+R61	Form-Drug Arg1:T110 Arg2:T22
+R62	Frequency-Drug Arg1:T116 Arg2:T50
+R63	Route-Drug Arg1:T115 Arg2:T50
+R64	Form-Drug Arg1:T114 Arg2:T50
+R65	Dosage-Drug Arg1:T113 Arg2:T50
+R66	Frequency-Drug Arg1:T120 Arg2:T4
+R67	Route-Drug Arg1:T119 Arg2:T4
+R68	Form-Drug Arg1:T118 Arg2:T4
+R69	Dosage-Drug Arg1:T117 Arg2:T4
+R70	Frequency-Drug Arg1:T123 Arg2:T10
+R71	Route-Drug Arg1:T124 Arg2:T10
+R72	Form-Drug Arg1:T122 Arg2:T10
+R73	Dosage-Drug Arg1:T121 Arg2:T10
+R74	Route-Drug Arg1:T129 Arg2:T31
+R75	Form-Drug Arg1:T128 Arg2:T31
+R76	Strength-Drug Arg1:T127 Arg2:T31
+R77	Dosage-Drug Arg1:T130 Arg2:T131
+R78	Reason-Drug Arg1:T132 Arg2:T131
+T133	Route 5164 5176	central line
+T134	Reason 5074 5103	bright red blood in her stool
+T135	Drug 5803 5820	antihypertensives
+T136	Drug 6039 6051;6052 6063	anti-anginal medications
+T137	Reason 6007 6025	chronic chest pain
+T138	Reason 6126 6132	angina
+T139	Reason 6885 6897	Hypertension
+T141	Reason 629 631	CP
+T142	Duration 5247 5254	six-day
+T143	Reason 4844 4866	Gastrointestinal bleed
+T144	ADE 6487 6495	GI bleed
+R79	Reason-Drug Arg1:T137 Arg2:T136
+R80	Reason-Drug Arg1:T141 Arg2:T27	
+R25	Reason-Drug Arg1:T143 Arg2:T76	
+R81	Reason-Drug Arg1:T134 Arg2:T76	
+R82	Route-Drug Arg1:T133 Arg2:T76	
+R83	Duration-Drug Arg1:T142 Arg2:T76	
+R84	Reason-Drug Arg1:T138 Arg2:T136	
+R85	ADE-Drug Arg1:T144 Arg2:T38	
+R86	Reason-Drug Arg1:T139 Arg2:T1	
+R87	Reason-Drug Arg1:T139 Arg2:T43	
+R88	Reason-Drug Arg1:T139 Arg2:T12	
+R89	Reason-Drug Arg1:T139 Arg2:T17	
+R90	Strength-Drug Arg1:T100 Arg2:T14	
+R91	Form-Drug Arg1:T126 Arg2:T55	
+R92	Dosage-Drug Arg1:T125 Arg2:T55	
+T16	Route 1071 1073	IV
+R6	Route-Drug Arg1:T16 Arg2:T28	
+T69	Route 5472 5474	IV
+R30	Route-Drug Arg1:T69 Arg2:T77	

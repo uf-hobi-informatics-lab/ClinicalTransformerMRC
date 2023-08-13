@@ -1,0 +1,113 @@
+T1	Drug 5569 5576;5577 5583	Insulin Lispro
+T2	Strength 5584 5592;5592 5595	100 unit /mL
+T3	Route 5484 5486	PO
+T4	Drug 7174 7181	Insulin
+T5	Drug 5834 5841;5842 5850	Insulin Glargine
+T6	Strength 5851 5859;5859 5864	300 unit /3 mL
+T7	Drug 5865 5872	Insulin
+T8	Drug 4812 4819	insulin
+T9	Strength 5403 5408	40 mg
+T10	Form 5409 5415;5415 5439	Tablet , Delayed Release (E.C.)
+T11	Drug 5390 5401;5401 5402	Pantoprazol e
+T12	Strength 793 799	800 mg
+T13	Drug 783 791;791 792	ibuprofe n
+T14	Drug 7325 7332;7333 7341	insulin (Lantus)
+T15	Drug 8601 8607	Motrin
+T16	Drug 1295 1302	insulin
+T17	Drug 7836 7848	pantoprazole
+T18	Drug 5596 5603	Insulin
+T19	Drug 7580 7587	insulin
+T20	Frequency 5653 5665;5666 5669	four times a day
+T21	Drug 1135 1142	insulin
+T22	Drug 7280 7287	insulin
+T23	Drug 7410 7417;7418 7425	Humalog insulin
+T24	Drug 6515 6522	insulin
+T25	Drug 6197 6204	insulin
+T26	Drug 1210 1217	insulin
+T27	Drug 7679 7685	Motrin
+T28	Drug 2035 2042	insulin
+T29	Reason 808 832;833 842	headache associated with sinusitis
+T30	Frequency 800 803	q3h
+T31	Frequency 1309 1325	5 times per week
+T32	Dosage 1386 1389	10U
+T33	Drug 1390 1393	Reg
+T34	Drug 1405 1410	70/30
+T35	Dosage 1398 1401	30U
+T36	ADE 1993 2005	hypoglycemia
+T37	Route 4820 4824	drip
+T38	Drug 4826 4829	IVF
+T39	Dosage 5445 5448;5449 5452	One (1)
+T40	Form 5453 5483	Tablet, Delayed Release (E.C.)
+T41	Frequency 5487 5508	Q24H (every 24 hours)
+T42	Form 5596 5603;5604 5607	Insulin Pen
+T43	Dosage 5620 5627;5628 5633	sliding scale
+T44	Route 5640 5652	Subcutaneous
+T45	Dosage 5704 5717	sliding scale
+T46	Frequency 5756 5803	before breakfast, lunch, dinner, and at bedtime
+T47	Form 5865 5876	Insulin Pen
+T48	Dosage 5882 5892;5893 5898	Forty (40) Units
+T49	Route 5899 5911	Subcutaneous
+T50	Frequency 5912 5922	at bedtime
+T51	Reason 7795 7828	decrease the acid in your stomach
+T52	ADE 7708 7717;7718 7744	irritated the lining of your stomach
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Route-Drug Arg1:T3 Arg2:T11
+R3	Strength-Drug Arg1:T6 Arg2:T5
+R4	Strength-Drug Arg1:T9 Arg2:T11
+R5	Form-Drug Arg1:T10 Arg2:T11
+R6	Strength-Drug Arg1:T12 Arg2:T13
+R7	Frequency-Drug Arg1:T20 Arg2:T1
+R8	Reason-Drug Arg1:T29 Arg2:T13
+R9	Frequency-Drug Arg1:T30 Arg2:T13
+R10	Frequency-Drug Arg1:T31 Arg2:T16
+R11	Dosage-Drug Arg1:T35 Arg2:T34
+R12	Dosage-Drug Arg1:T32 Arg2:T33
+R13	ADE-Drug Arg1:T36 Arg2:T28
+R14	Route-Drug Arg1:T37 Arg2:T8
+R15	Frequency-Drug Arg1:T41 Arg2:T11
+R16	Form-Drug Arg1:T40 Arg2:T11
+R17	Dosage-Drug Arg1:T39 Arg2:T11
+R18	Frequency-Drug Arg1:T46 Arg2:T1
+R19	Dosage-Drug Arg1:T45 Arg2:T1
+R20	Route-Drug Arg1:T44 Arg2:T1
+R21	Dosage-Drug Arg1:T43 Arg2:T1
+R22	Form-Drug Arg1:T42 Arg2:T1
+R23	Frequency-Drug Arg1:T50 Arg2:T5
+R24	Route-Drug Arg1:T49 Arg2:T5
+R25	Dosage-Drug Arg1:T48 Arg2:T5
+R26	Form-Drug Arg1:T47 Arg2:T5
+R27	Reason-Drug Arg1:T51 Arg2:T17
+R28	ADE-Drug Arg1:T52 Arg2:T27
+T53	Drug 5273 5282	Potassium
+T54	Drug 593 604	antibiotics
+T55	Reason 557 566	sinusitis
+T56	ADE 2044 2052	sweating
+T57	ADE 2054 2066	palpitations
+T58	ADE 2072 2079	anxiety
+T59	Drug 4835 4853;4854 4864	electrolytes (most notably K)
+T60	Drug 5184 5195	Regular ISS
+T61	Drug 5159 5162	NPH
+T62	Frequency 5196 5206	with meals
+T63	Drug 5287 5291	Phos
+T65	Drug 5953 5960	Lancets
+T66	Dosage 5975 5982	One (1)
+T67	Form 5983 5989	lancet
+T68	Frequency 6004 6009	qachs
+T69	Reason 7127 7149	to control your sugars
+T70	Frequency 7342 7353	every night
+T71	Frequency 7426 7443	before every meal
+T72	Dosage 7457 7470	sliding scale
+R29	Reason-Drug Arg1:T55 Arg2:T54
+R30	Frequency-Drug Arg1:T62 Arg2:T60
+R32	Dosage-Drug Arg1:T66 Arg2:T65
+R33	Form-Drug Arg1:T67 Arg2:T65
+R34	Frequency-Drug Arg1:T68 Arg2:T65
+R35	ADE-Drug Arg1:T56 Arg2:T28	
+R36	ADE-Drug Arg1:T57 Arg2:T28	
+R37	ADE-Drug Arg1:T58 Arg2:T28	
+R31	Reason-Drug Arg1:T69 Arg2:T4	
+R38	Frequency-Drug Arg1:T70 Arg2:T14	
+R39	Frequency-Drug Arg1:T71 Arg2:T23	
+R40	Dosage-Drug Arg1:T72 Arg2:T23	
+T64	Reason 567 582	sinus infection
+R41	Reason-Drug Arg1:T64 Arg2:T54	

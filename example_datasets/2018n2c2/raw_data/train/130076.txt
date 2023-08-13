@@ -1,0 +1,458 @@
+Admission Date:  [**2148-7-31**]              Discharge Date:   [**2148-8-27**]
+
+Date of Birth:  [**2075-5-2**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 5893**]
+Chief Complaint:
+Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+IVC filter placed [**2148-8-3**]
+
+History of Present Illness:
+This is a 73yo male with CAD s/p CABG or STENT?, Hodgkins
+Lymphoma, recent admission in [**Month (only) 116**] for extensive bilateral
+femoral vein clots, who presents with dyspnea, cough, hypoxemia,
+found to have b/l pulmonary embolisms.
+Of note, this patient was admitted to oncology from [**Date range (1) **]
+for bilateral DVTs of common femoral, superficial femoral,
+politeal,
+and calf veins. At that time, he was started Dalteparin
+(Fragmin) daily for treatment of this. He reports that he had
+been compliant with this.
+The patient reports that he has been feeling short of breath for
+several months. When he left the hospital last [**Month (only) 116**], he was short
+of breath, and this has been worsening since then. He reports
+that his excercise tolerance has worsened progressively since
+being discharged from the hospital. He feels short of breath
+with mininal exertion. He also reports coughing nightly for the
+past few days. This morning, he "just couldnt take it anymore"
+and decided to come in. He denies any acute worsening in his
+breathing, and reports that it has been progressive.
+On review of systems. He denies chest pain, palpations. has
+cough, shortness of breath, dyspnea on exertion. denies fevers.
+reports chills and feeling cold all of the time. reports 10
+pounds of unintentional recent weight loss. all other review of
+systems negative.
+In the ER, intial vitals were 103/43, HR 96, RR 22, O2sat 77% on
+RA. Reportedly altered when hypoxic, but mental status improved
+once on oxygen. A CTA was done showing clot in right main
+pulmonary artery and branch arteries in the LLL. He was started
+on heparin. He also remains hypoxemic. Attempt was made to put
+him in 6l NC, but he became tachpyneic and [**Last Name (LF) 52536**], [**First Name3 (LF) **] is now
+back on NRB.
+
+
+Past Medical History:
+- Crohn's disease diagnosed in [**2147**].
+- Hypercholesterolemia.
+- Hypertension.
+- Carotid stenosis status post bilateral CEA
+- Barrett's esophagus.
+- CAD s/p stent [**2-18**] (was on plavix stopped [**5-18**])
+- TIA.
+- seizure disorder
+PAST SURGICAL HISTORY: - s/p bilateral CEA ~ 5 years ago
+- s/p L shoulder surgery
+
+Social History:
+doesnt currently smoke, but quit 20 years ago. smoked 10 years,
+[**2-10**] pack a day, so 5packyears. used to drink 1 glass wine daily,
+but hasnt in the past few months. Lives with wife
+
+Family History:
+parents had MIs in old age. one granddaughter with asthma.
+
+Physical Exam:
+Vitals: T: 98.2 BP: 98/56 P: 85 R: 25 18 O2: 95% on NRB
+General: Alert, oriented, clearly short of breath with speaking
+
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: mostly Clear to auscultation bilaterally, rhonchi clear
+with cough.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: b/l edema left worse than right.
+
+
+Pertinent Results:
+[**7-31**] CTA
+IMPRESSION:
+1. Acute PE involving right main/branch and left lower lobe
+pulmonary
+arteries. No evidence of right heart strain.
+2. Diffuse bilateraly pulmonary ground-glass opacities may be
+due to
+pulmonary edema/ARDS, although infection/inflammation or
+hemorrhage not
+excluded. Superimposed infarction cannot be excluded.
+3. Mediastinal and hilar lymph nodes may be reactive.
+
+[**2148-8-14**] CT Chest:
+1. Diffuse bilateral pulmonary ground-glass opacities most
+likely represent infection or inflammation; however, the
+differential diagnosis also includes pulmonary edema,
+hemorrhage, or superimposed infarction.
+2. Stable mediastinal and hilar lymphadenopathy.
+3. Persistent pulmonary embolism involving the right main
+pulmonary artery
+extending into the right middle and lower lobes but with no
+evidence of right heart strain.
+4. Bilateral small pleural effusions with associated compressive
+atelectasis.
+5. Subcentimeter lesion in segment I/VI of the liver, too small
+to
+characterize, but may represents a hepatic cyst. Recommend
+attention on
+followup.
+6. Clots in left external iliac vein, right common femoral, and
+left common femoral veins.
+7. Hypodensity in the upper pole of the right kidney is most
+consistent with a renal cyst. Bilateral hypodensities are too
+small to characterize but likely represent renal cysts.
+
+[**2148-8-14**]: CT Abd/ pelvis
+
+
+Brief Hospital Course:
+When patient came to the ED on [**2148-7-31**], his initial intial
+vitals were 103/43, HR 96, RR 22, O2sat 77% on RA. He was
+altered when hypoxic, but mental status improved once on oxygen.
+A CTA was done showing clot in right main pulmonary artery and
+branch arteries in the LLL. He was started on heparin.  Attempt
+was made to put him in 6 L NC, but he became tachpyneic and
+[**Last Name (LF) 52536**], [**First Name3 (LF) **] he went back on a non-rebreather. He was then
+admitted to the [**Hospital Unit Name 153**].
+
+[**8-27**]
+
+Expired
+
+[**2148-8-26**]:
+
+- No escalation of care
+- Atrius H/O aware and agrees
+-
+[**2148-8-25**]:
+
+-Family meeting.
+-Change in Code Status to DNR/DNI
+
+[**2148-8-24**]:
+
+Clinically deteriorated: febrile all day (never defervesed - t
+max 103.6), increased secretions and cough. less alert.
+desaturated on [**11-17**] PSV/CPAP with 50% Fio2 and sinus
+tachycardic to 150s-160s. Pan-cultured. U/A negative. Initially
+thought it was [**3-12**] agitation/delirium - was given Zyprexa. Also
+thought pt had large cuff leak contributing to increased
+secretions and aspiration leading to VAP. Thoracics came back
+and was unimpressed. Thought trach looked fine and was more
+concerned with clinical picture. Still agitated, given Versed
+for sedation. Continued to be agitated, febrile and tachycardic.
+Given fluid boluses. Tachycardia persisted. CXR - increased
+haziness bilaterally from morning CXR; EKG: sinus tachycardia.
+Continued to desaturate. Placed on CMV (TV 500, RR 14, FIO2
+100%, PEEP 10). Pressures began to drop to 80-90s systolic. More
+fluid given. Not responsive. Started on Neo. A-line placed. ABG:
+7.43/35/82/27 on 100% FIO2. Deeply sedated with propofol and
+fentanyl. Family made aware of clinical status and requested
+that we persist with current measures.
+- Other considerations: changing NGT to OGT; starting antifungal
+
+11-3am: attempts were made to wean patient off 100% FIO2,
+however did not tolerate. patient pressure continued to drop.
+was thought [**3-12**] increase in PEEP. Fluid responsive. However MAPs
+not ideal so went up on pressor - now max'ed out.
+
+[**2148-8-23**]:
+
+-pt spiked fever in the afternoon
+-pt started on vancomycin, ciprofloxacin, and cefepime
+empirically
+-nurses suctioning bright red blood from trach- stopped heparin
+gtt for now
+-t-[**Doctor First Name **] aware, asked to check Hct, recommend BAL tmrw; call them
+if bleeding worsens
+
+[**2148-8-22**]:
+
+-increased BB to 25 TID
+-got ct abd pelv
+
+[**2148-8-21**]:
+
+- rec'd PICC today
+- sedation weaned, much more interactive
+- up titrated beta blocker although HR remains in 100s
+- attempted Trach mask trials - increased secretions, likely [**3-12**]
+fluid overload
+- given IV lasix 40mg - met goal of 1-2L negative
+- GI consulted for PEG placement - no recs yet
+- rec'd valium - SBP dropped to 80s systolic responded with
+250cc bolus
+- did not sleep all night
+
+[**2148-8-20**]:
+
+-weaning sedation
+-discussion ongoing for PEG vs. Dobhoff between oncologist Dr.
+[**First Name (STitle) 2405**] and T-[**Doctor First Name **] Dr. [**First Name (STitle) **];
+-plans for Dobhoff tomorrow in IR
+-start coumadin tmrw
+
+[**2148-8-19**]:
+
+-HR still 100-130s
+-got trach placed , no immediate complications
+-agitated overnight, needed to increase sedation w/ fentanyl
+-back on IV heparin
+
+[**2148-8-18**]:
+
+-NPO after MN for peg/ trach placement and heparin held at 4 am
+
+
+[**8-17**]:
+
+- Settings on PS [**11-15**], doing well
+
+[**2148-8-16**]:
+
+-plan is to have trach/ peg placed on monday [**8-19**] between 8 am
+-12 pm. Heparin and tube feeds must be stopped 4 hours prior.
+please contact anesthesia attending to make them aware of
+possible emergency airway
+-wife must sign consetns for trach and peg
+- anesthesia booked for monday [**8-19**] between 8-10am, case #
+[**Numeric Identifier 85087**] (booking called at [**Numeric Identifier 85088**])
+- dilantin 6.6, corrected to 13.8 when account for albumin.
+continued current dosing.
+-HCT 21, stable. Check tomorrow, if low, give UPRBC, guiac
+stools
+
+[**8-15**]:
+
+-family meeting: proceeed with trach, peg tube
+-CT [**Doctor First Name **] came and constented pt's wife over the phone for trach
+and peg placement. he may get his surgery tomorrow. they will
+page to let us know. we will need to stop tube feeds and heparin
+4 hours prior.
+-Onc: hodkins stable, nodes smaller
+-d/c bactrim, now on atovaquone
+-mucomyst given for secretions
+-ABD CT: thickening of fundus and ascending colon- questionable
+worsening Hodgkin's
+-discharge summary updated
+
+[**8-14**]
+
+- CT chest CT/ abd/ pelvis ordered to eval for progression of
+Hodgkin's
+-CT [**Doctor First Name **] consulted re trach placement
+- BMT recs: switch bactrim to atovaquone (worry that bactrim
+allergy may be causing increased eos). Done.
+- stool send for ova/ parasites (as source of eos)
+- Family [**Doctor First Name 85089**] scheduled for 2 PM with entire family tommorrow -
+Probably should get onc and BMT on board
+- Onc will be present at [**Last Name (LF) 85089**], [**First Name3 (LF) **] review scan with radiology
+prior
+
+[**8-13**]:
+
+-go down on PEEP
+-CVP 10, give gently lasix 20
+-family meeting: aware that this is chronic process, they want
+trach. Will clarify tomorrow that this is definitely what he
+needs.
+-stopped bactrim because negative bAL PCP x2
+
+[**8-12**]
+
+-nutrition consulted for recs to decrease fluid intake
+
+[**8-11**]:
+
+Resp took off ARDS net protocol, put patient on PS, RR went down
+into 20s, good sats, PCO2 41 at 3 PM
+- Spiked fever to 103 at 2 PM, tyylenol given and blood cultures
+sent
+- Given 2 x 40 Lasix boluses by 3 PM; peeing well over 2 L but
+still overall positive due to tube feeds; by 10 PM, MAPs in 70s,
+still slightly tach to 110s, will hold off on another bolus of
+Lasix for now
+- Was becoming tachycardic and tachypneic, went up to PS of 15
+at midnight
+- Talked to son about possibility of a trach and that he may not
+come off the vent
+-BCx, UCx, sputum cx sent
+
+[**8-10**]
+
+-run of A. Fib/ A. flutter (atrial ectopy hybrid) around 2200,
+started on digoxin. Norepinephrine changed to phenylepinephrine
+(alpha agonist only, no beta agonist)
+- pt given 500 cc fluid bolus at 22:30 for hypotension, goal was
+to make fluid even over 24 hrs
+- tube feeds restarted
+-CTA shows unchanged PE, sl. worse ground glass opacities,
+traction bronchiectasis suggestive of underlying interstitial
+fibrotic
+lung disease, New left pleural effusion with associated
+atelectasis
+- K, Phos repleted with pot phos iv 15 ml/ 250 cc NS
+-B-lucan positive from labs on [**8-1**]. 300s. Started him on
+bactrim treatment. Already getting steroids.
+-20 IV lasix x2
+
+[**8-9**]
+
+- increased resp distress with hypoxia on BiPAP this AM-
+reintubated.
+- repeat CTA- dictation- no new filling defects, sl worsened
+ground glass opacities, sm effusions. f/u final read.
+-tube feeds restarted after CTA
+-metoprolol d/c'ed
+-solumedrol decreased from 50 to 40
+
+[**8-8**]
+
+-diet advanced to full thin liquids
+-tube feeds restarted at 20 ml/hr, advance to 50 ml/hr
+- metoprolol started at 12.5 mg q6h for HTN, tachycardia (home
+dose 200 mg po qD)
+-f/u ECG, enzymes, lytes in PM
+- 3rd c diff negative
+- NGT placed
+
+[**8-7**]
+
+-extubated, coughing, satting high 80-low 90
+-c. diff neg x2, check last c.diff
+- hdyrocortisone 50 q12
+-continue vanco, levo, cefepine for now and evaluate after 10
+days
+-overnight, had episodes ot tachy (130s) and desats to mid 80s.
+Went up on O2 to 35, started Incentive spirometer use.
+-ABG was in fact accurate showing resp alkalosis with A-a
+gradient of 119 suggesting PE, infection,
+
+[**8-6**]
+
+- tube feeds started- Nutren Pulmonary Full strength with
+Beneprotein, 21 gm/day, rate started at 20 ml/ hr, advance rate
+by 10 ml q4hto goal of 40 ml/hr. (Once propofol d/c'ed- increase
+to 50/hr and stop benefiber)
+- Family meeting wiht pt's wife and daughter in afternoon for
+update on status
+-po flagyl started until c. diff ruled out
+-possible bleomycin toxicity, keep on room air unless PaO2< 88
+- tube feeds restarted
+- 500 cc bolus given for CVP of 5
+
+[**8-5**]:
+
+- sucralfate added for blood in OG tube on [**8-4**]
+- Sedation decreased, pressors decreased
+- Tachypnea during SBT, and increased secretions, will attempt
+to extubate tomorrow AM
+- Copious Diarrhea, C. diff sent
+- 5 am, patient turned, became hypotensive to SBP to 70s, 2 L NS
+hung, PAC bigemeny, low K, K repleted, pressure stabilized with
+fluid and decreased Propofol
+- RSBI about 60, Labile vitals on SBT
+
+[**8-4**]:
+
+-worsened resp distress in AM, despite improved CXR.
+-gentle diuresis to improve ventilation
+-more sedated. Now on Fent, Versed, Propofol 20, 1.3 Neo. on
+400/30, 25%, Peep=8.
+-goal to stop propofol tomorrow morning and switch to PSV and
+see what happens.
+-tried A-line but unsuccessful at several attempts
+
+[**2148-8-3**]
+
+73 y/o w/ ivc filter, start on pcp [**Name9 (PRE) **]
+[**Name9 (PRE) 85090**] to floor at 3:30 pm
+-dilantin level low. Pt given loading dose of phenytoin of 500
+mg iv at 7 pm and standing dose increased from 200 mg Q8 to 250
+mg Q8.
+-check dilantin level in pm of [**8-4**]
+-vanco changed from 1000 mg q12 to 100o q8 h. vanc trough
+ordered for [**8-4**]
+
+[**8-2**]
+
+- Will get IVC filter placed at 8 AM
+- Weaned off Propofol
+
+[**2148-8-1**]
+
+-new A-line placed
+-central line placed
+-worsening respiratory failure: received 10 L of fluids in last
+24 hrs. around 8pm, respiraotory status worsened. mottled feet
+up to knees. blood gas shows metabolic acidosis. CXR showed
+increased bilateral opacities. ARDS vs fluid overload (causing
+non-AG met acidosis and worsening CXR), vs infectious process vs
+PE vs DAH 2' rheum condition.
+-checked [**Doctor First Name **], ANcA, GBM, antiphopholipid Ab Syndrome (clot
+burden)
+-echo: normal EF, no signs of right heart strain
+-LE U/s: no interval change of clot. femoral, superficial
+femoral, popliteal involvement bilaterally
+-metabolic acidosis -->met acidosis + resp acidosis after
+increasing PEEP and FiO2 which improved oxygenation from 47
+-->188.
+
+[**7-31**] overnight
+
+- pt was requiring FiO2 of 100% on CPAP and was sating in
+mid-80's
+-intubated and placed on volume support
+- placed on vanco, zosyn and bactrim for ground glass findings
+on chest CT concerning for pneumonia and possible PCP
+[**Name Initial (PRE) **] phenytoin was changed to iv as pt unable to take po at this
+time
+
+
+Medications on Admission:
+Medications: Per wife:
+Prednisone one pill in AM and 2 pills at night (likely 10mg and
+20mg, will check with PCP)
+Vitamin D 800mg daily
+Iron 325mg three times daily
+folic acid 1 g daily
+dalteparin 15,000 units sub Q daily
+Mesalamine 4 pills twice daily
+Phenytoin 100 mg- 6 pills at night
+Metoprolol 200 mg po daily
+Isosorbide 60 mg po every morning
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+EXPIRED
+
+Discharge Condition:
+EXPIRED
+
+Discharge Instructions:
+EXPIRED
+
+Followup Instructions:
+EXPIRED
+
+
+Completed by:[**2149-5-22**]

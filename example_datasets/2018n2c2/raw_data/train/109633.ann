@@ -1,0 +1,159 @@
+T1	Drug 5446 5459	Chlorhexidine
+T2	Route 5460 5464	oral
+T3	Drug 5641 5650	Oxycodone
+T4	Strength 5651 5654	5mg
+T5	Frequency 5655 5658;5659 5662	Q4H prn
+T6	Drug 5394 5407	Ciprofloxacin
+T7	Strength 5409 5414	400mg
+T8	Frequency 5418 5422	Q12H
+T10	Drug 5324 5333	Oxycontin
+T11	Strength 5334 5338	10mg
+T12	Drug 5518 5525	Heparin
+T13	Frequency 5529 5532	TID
+T14	Drug 5585 5594	Magnesium
+T15	Drug 5356 5365	Oxycodone
+T16	Strength 5366 5369	5mg
+T17	Drug 5561 5572	Ipratropium
+T18	Frequency 5577 5580;5581 5584	Q6H prn
+T19	Route 5573 5576	Neb
+T20	Drug 1562 1567	taxol
+T21	Drug 5725 5734	Potassium
+T22	Drug 5663 5675	Pantoprazole
+T23	Strength 5676 5680	40mg
+T24	Route 5681 5683	po
+T25	Drug 5488 5494	Colace
+T26	Strength 5495 5500	100mg
+T27	Drug 5689 5694	Zosyn
+T28	Strength 5695 5700	4.5mg
+T29	Frequency 5704 5707	Q8H
+T31	Drug 1827 1836	Lapatinib
+T32	Drug 1593 1602	herceptin
+T33	Drug 1894 1900	Xeloda
+T34	Drug 1960 1969	Herceptin
+T35	Drug 5609 5618	Oxycontin
+T36	Strength 5619 5623	10mg
+T37	Drug 5099 5107	morphine
+T38	Drug 876 889	Ciprofloxacin
+T39	Drug 1970 1979	Navelbine
+T40	Drug 5533 5547	Hydrocortisone
+T41	Strength 5548 5553	100mg
+T42	Frequency 5557 5560	Q8H
+T44	Drug 4656 4666	vancomycin
+T45	Drug 5423 5432	Albuterol
+T46	Frequency 5438 5441;5442 5445	Q6H prn
+T47	Drug 2099 2106	Avastin
+T48	Drug 5749 5765	Prochlorperazine
+T49	Strength 5766 5770	10mg
+T50	Frequency 5771 5774;5775 5778	Q6H prn
+T51	Drug 5798 5808	Vancomycin
+T52	Strength 5809 5816	1000 mg
+T53	Frequency 5820 5825	Q 12H
+T55	Drug 1849 1858	Herceptin
+T56	Drug 1659 1668	Herceptin
+T57	Drug 2108 2114	Gemzar
+T58	Drug 1775 1784	Lapatinib
+T59	Strength 1785 1791	1000mg
+T60	Drug 4671 4676	zosyn
+T62	Dosage 1078 1080	3L
+T63	Drug 1081 1084	IVF
+T64	Dosage 1085 1092	boluses
+T65	Drug 1902 1911	Lapatanib
+T66	Frequency 1557 1561	wkly
+T67	Frequency 1792 1794	QD
+T68	Frequency 1842 1848	weekly
+T69	Dosage 4602 4604	3L
+T70	Drug 4605 4608	IVF
+T71	Dosage 4609 4614	bolus
+T73	Route 5108 5112	drip
+T74	Frequency 5370 5373	PRN
+T75	Form 5433 5437	nebs
+T76	Form 5465 5470	rinse
+T77	Route 5526 5528	SC
+T78	Dosage 5595 5608	sliding scale
+T79	Frequency 5684 5688	Q24H
+T80	Dosage 5735 5748	sliding scale
+T81	Drug 5779 5784	Senna
+T82	Dosage 5785 5786	1
+T83	Form 5787 5790	tab
+T84	Route 5791 5793	po
+T85	Frequency 5794 5797	BID
+R1	Route-Drug Arg1:T2 Arg2:T1
+R2	Strength-Drug Arg1:T4 Arg2:T3
+R3	Frequency-Drug Arg1:T5 Arg2:T3
+R4	Strength-Drug Arg1:T7 Arg2:T6
+R5	Frequency-Drug Arg1:T8 Arg2:T6
+R7	Strength-Drug Arg1:T11 Arg2:T10
+R8	Frequency-Drug Arg1:T13 Arg2:T12
+R9	Strength-Drug Arg1:T16 Arg2:T15
+R10	Frequency-Drug Arg1:T18 Arg2:T17
+R11	Route-Drug Arg1:T19 Arg2:T17
+R12	Strength-Drug Arg1:T23 Arg2:T22
+R13	Route-Drug Arg1:T24 Arg2:T22
+R14	Strength-Drug Arg1:T26 Arg2:T25
+R15	Strength-Drug Arg1:T28 Arg2:T27
+R16	Frequency-Drug Arg1:T29 Arg2:T27
+R18	Strength-Drug Arg1:T36 Arg2:T35
+R19	Strength-Drug Arg1:T41 Arg2:T40
+R20	Frequency-Drug Arg1:T42 Arg2:T40
+R22	Frequency-Drug Arg1:T46 Arg2:T45
+R23	Strength-Drug Arg1:T49 Arg2:T48
+R24	Frequency-Drug Arg1:T50 Arg2:T48
+R25	Strength-Drug Arg1:T52 Arg2:T51
+R26	Frequency-Drug Arg1:T53 Arg2:T51
+R28	Strength-Drug Arg1:T59 Arg2:T58
+R30	Dosage-Drug Arg1:T62 Arg2:T63
+R31	Dosage-Drug Arg1:T64 Arg2:T63
+R32	Frequency-Drug Arg1:T66 Arg2:T20
+R33	Frequency-Drug Arg1:T67 Arg2:T58
+R34	Frequency-Drug Arg1:T68 Arg2:T55
+R35	Dosage-Drug Arg1:T69 Arg2:T70
+R36	Dosage-Drug Arg1:T71 Arg2:T70
+R37	Route-Drug Arg1:T73 Arg2:T37
+R39	Frequency-Drug Arg1:T74 Arg2:T15
+R40	Form-Drug Arg1:T76 Arg2:T1
+R41	Form-Drug Arg1:T75 Arg2:T45
+R42	Route-Drug Arg1:T77 Arg2:T12
+R43	Dosage-Drug Arg1:T78 Arg2:T14
+R44	Frequency-Drug Arg1:T79 Arg2:T22
+R45	Dosage-Drug Arg1:T80 Arg2:T21
+R46	Frequency-Drug Arg1:T85 Arg2:T81
+R47	Route-Drug Arg1:T84 Arg2:T81
+R48	Form-Drug Arg1:T83 Arg2:T81
+R49	Dosage-Drug Arg1:T82 Arg2:T81
+T86	Frequency 1655 1658	q3w
+T87	Dosage 1984 1985;1986 1991	4 doses
+T88	Drug 4633 4644	antibitoics
+T89	Drug 4916 4924	pressors
+T90	Drug 4932 4937	fluid
+T92	Dosage 4938 4945	boluses
+T93	Reason 4946 4987	to maintain adequate MAP and urine output
+T94	Drug 5114 5125	Antibiotics
+T95	Reason 777 786	CBD stone
+T96	Reason 988 999	hypotensive
+T97	Reason 1451 1460	breast CA
+T99	Reason 4488 4499	Hypotension
+R51	Dosage-Drug Arg1:T92 Arg2:T90
+R52	Reason-Drug Arg1:T93 Arg2:T90
+R53	Reason-Drug Arg1:T93 Arg2:T89
+R54	Reason-Drug Arg1:T95 Arg2:T38	
+R55	Reason-Drug Arg1:T96 Arg2:T63	
+R56	Reason-Drug Arg1:T97 Arg2:T20	
+R57	Reason-Drug Arg1:T97 Arg2:T32	
+R58	Frequency-Drug Arg1:T86 Arg2:T56	
+R59	Dosage-Drug Arg1:T87 Arg2:T39	
+R60	Dosage-Drug Arg1:T87 Arg2:T34	
+R61	Reason-Drug Arg1:T99 Arg2:T70	
+T9	Route 873 875	IV
+R6	Route-Drug Arg1:T9 Arg2:T38	
+T30	Route 4929 4931	IV
+R17	Route-Drug Arg1:T30 Arg2:T90	
+T43	Route 5096 5098	IV
+R21	Route-Drug Arg1:T43 Arg2:T37	
+T54	Route 5415 5417	IV
+R27	Route-Drug Arg1:T54 Arg2:T6	
+T61	Route 5554 5556	IV
+R29	Route-Drug Arg1:T61 Arg2:T40	
+T72	Route 5701 5703	IV
+R38	Route-Drug Arg1:T72 Arg2:T27	
+T91	Route 5817 5819	IV
+R50	Route-Drug Arg1:T91 Arg2:T51	

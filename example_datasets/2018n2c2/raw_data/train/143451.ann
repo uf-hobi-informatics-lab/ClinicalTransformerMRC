@@ -1,0 +1,345 @@
+T1	Strength 10008 10014	180 mg
+R1	Strength-Drug Arg1:T1 Arg2:T196
+T2	Form 10015 10041	Capsule, Sustained Release
+R2	Form-Drug Arg1:T2 Arg2:T196
+T3	Dosage 10047 10054	One (1)
+R3	Dosage-Drug Arg1:T3 Arg2:T196
+T4	Form 10055 10081	Capsule, Sustained Release
+R4	Form-Drug Arg1:T4 Arg2:T196
+T5	Route 10082 10084	PO
+R5	Route-Drug Arg1:T5 Arg2:T196
+T6	Frequency 10085 10090	DAILY
+R6	Frequency-Drug Arg1:T6 Arg2:T196
+T7	Form 10109 10116	Capsule
+R7	Form-Drug Arg1:T7 Arg2:T196
+T8	Drug 10155 10164	Toprol XL
+T9	Strength 10165 10170	50 mg
+R8	Strength-Drug Arg1:T9 Arg2:T8
+T10	Form 10171 10201	Tablet Sustained Release 24 hr
+R9	Form-Drug Arg1:T10 Arg2:T8
+T11	Dosage 10207 10216	Three (3)
+R10	Dosage-Drug Arg1:T11 Arg2:T8
+T12	Form 10217 10247	Tablet Sustained Release 24 hr
+R11	Form-Drug Arg1:T12 Arg2:T8
+T13	Route 10248 10250	PO
+R12	Route-Drug Arg1:T13 Arg2:T8
+T14	Frequency 10251 10261	once a day
+R13	Frequency-Drug Arg1:T14 Arg2:T8
+T15	Form 10272 10278	Tablet
+R14	Form-Drug Arg1:T15 Arg2:T8
+T16	Drug 10322 10329	Aspirin
+T17	Strength 10330 10336	325 mg
+R15	Strength-Drug Arg1:T17 Arg2:T16
+T18	Form 10337 10343	Tablet
+R16	Form-Drug Arg1:T18 Arg2:T16
+T19	Dosage 10349 10356	One (1)
+R17	Dosage-Drug Arg1:T19 Arg2:T16
+T20	Form 10357 10363	Tablet
+R18	Form-Drug Arg1:T20 Arg2:T16
+T21	Route 10364 10366	PO
+R19	Route-Drug Arg1:T21 Arg2:T16
+T22	Frequency 10367 10372	DAILY
+R20	Frequency-Drug Arg1:T22 Arg2:T16
+T23	Drug 10417 10429	Atorvastatin
+T24	Strength 10430 10435	80 mg
+R21	Strength-Drug Arg1:T24 Arg2:T23
+T25	Form 10436 10442	Tablet
+R22	Form-Drug Arg1:T25 Arg2:T23
+T26	Dosage 10448 10455	One (1)
+R23	Dosage-Drug Arg1:T26 Arg2:T23
+T27	Form 10456 10462	Tablet
+R24	Form-Drug Arg1:T27 Arg2:T23
+T28	Route 10463 10465	PO
+R25	Route-Drug Arg1:T28 Arg2:T23
+T29	Frequency 10466 10471	DAILY
+R26	Frequency-Drug Arg1:T29 Arg2:T23
+T30	Form 10490 10496	Tablet
+T31	Drug 10517 10528	Clopidogrel
+T32	Strength 10529 10534	75 mg
+R27	Strength-Drug Arg1:T32 Arg2:T31
+T33	Form 10535 10541	Tablet
+R28	Form-Drug Arg1:T33 Arg2:T31
+T34	Dosage 10547 10554	One (1)
+R29	Dosage-Drug Arg1:T34 Arg2:T31
+T35	Form 10555 10561	Tablet
+R30	Form-Drug Arg1:T35 Arg2:T31
+T36	Route 10562 10564	PO
+R31	Route-Drug Arg1:T36 Arg2:T31
+T37	Frequency 10565 10570	DAILY
+R32	Frequency-Drug Arg1:T37 Arg2:T31
+T38	Drug 10616 10626	Omeprazole
+T39	Strength 10627 10632	20 mg
+R33	Strength-Drug Arg1:T39 Arg2:T38
+T40	Form 10633 10663	Capsule, Delayed Release(E.C.)
+R34	Form-Drug Arg1:T40 Arg2:T38
+T41	Dosage 10669 10676	Two (2)
+R35	Dosage-Drug Arg1:T41 Arg2:T38
+T42	Form 10677 10707	Capsule, Delayed Release(E.C.)
+R36	Form-Drug Arg1:T42 Arg2:T38
+T43	Route 10708 10710	PO
+R37	Route-Drug Arg1:T43 Arg2:T38
+T44	Frequency 10711 10716	DAILY
+R38	Frequency-Drug Arg1:T44 Arg2:T38
+T45	Drug 112 122	Lisinopril
+T46	Drug 11476 11483	aspirin
+T47	Strength 11484 11490	325 mg
+R39	Strength-Drug Arg1:T47 Arg2:T46
+T48	Frequency 11491 11496	daily
+R40	Frequency-Drug Arg1:T48 Arg2:T46
+T49	Strength 11508 11513	81 mg
+R41	Strength-Drug Arg1:T49 Arg2:T46
+T50	Frequency 11514 11519	daily
+R42	Frequency-Drug Arg1:T50 Arg2:T46
+T51	Drug 11535 11541	plavix
+T52	Strength 11542 11547	75 mg
+R43	Strength-Drug Arg1:T52 Arg2:T51
+T53	Frequency 11548 11553	daily
+R44	Frequency-Drug Arg1:T53 Arg2:T51
+T54	Drug 11722 11731	Toprol XL
+T55	Strength 11732 11737	150mg
+R45	Strength-Drug Arg1:T55 Arg2:T54
+T56	Frequency 11738 11743	daily
+R46	Frequency-Drug Arg1:T56 Arg2:T54
+T57	Drug 11752 11761	Diltiazem
+T58	Strength 11779 11784	180mg
+R47	Strength-Drug Arg1:T58 Arg2:T57
+T59	Frequency 11785 11790	daily
+R48	Frequency-Drug Arg1:T59 Arg2:T57
+T60	Drug 11814 11824	omeprazole
+T61	Strength 11825 11829	40mg
+R49	Strength-Drug Arg1:T61 Arg2:T60
+T62	Frequency 11830 11835	daily
+R50	Frequency-Drug Arg1:T62 Arg2:T60
+T63	Drug 11854 11861	Lipitor
+T64	Strength 11862 11866	80mg
+R51	Strength-Drug Arg1:T64 Arg2:T63
+T65	Frequency 11867 11872	daily
+R52	Frequency-Drug Arg1:T65 Arg2:T63
+T66	Strength 1360 1363	5mg
+R53	Strength-Drug Arg1:T66 Arg2:T68
+T68	Drug 1367 1376	lopressor
+T69	Drug 1378 1385	aspirin
+T70	Drug 1387 1393	plavix
+T71	Drug 1398 1405	heparin
+T72	Route 1406 1410	drip
+R57	Route-Drug Arg1:T72 Arg2:T71
+T73	Reason 6967 6977	chest pain
+R58	Reason-Drug Arg1:T73 Arg2:T75
+T74	Route 6989 6991	SL
+R59	Route-Drug Arg1:T74 Arg2:T75
+T75	Drug 6992 6997	nitro
+T76	Drug 7070 7077	heparin
+T77	Drug 7082 7092	integrelin
+T78	Form 7093 7096	gtt
+R60	Form-Drug Arg1:T78 Arg2:T76
+R61	Form-Drug Arg1:T78 Arg2:T77
+T79	Drug 7117 7120	ASA
+T80	Strength 7121 7124	325
+R62	Strength-Drug Arg1:T80 Arg2:T79
+T81	Drug 7126 7132	plavix
+T82	Strength 7145 7150	600mg
+R63	Strength-Drug Arg1:T82 Arg2:T81
+T83	Strength 7168 7172	75mg
+R64	Strength-Drug Arg1:T83 Arg2:T81
+T84	Frequency 7173 7178	daily
+R65	Frequency-Drug Arg1:T84 Arg2:T81
+T85	Drug 7198 7200	BB
+T86	Duration 7627 7636	long-term
+R66	Duration-Drug Arg1:T86 Arg2:T87
+T87	Drug 7637 7643	Plavix
+T88	Drug 7779 7781	BB
+T89	Drug 779 784	imdur
+T90	Drug 789 795	diovan
+T91	Drug 7949 7958	valsartan
+T92	Reason 800 804	pain
+R67	Reason-Drug Arg1:T92 Arg2:T89
+R68	Reason-Drug Arg1:T92 Arg2:T90
+T93	Reason 8025 8027	BP
+R69	Reason-Drug Arg1:T93 Arg2:T91
+T94	Drug 8079 8088	Diltiazem
+T95	Drug 8090 8100	Isosorbide
+T96	Drug 8102 8112	Metoprolol
+T97	Drug 8118 8127	valsartan
+T99	Reason 8537 8548	PROPHYLAXIS
+R70	Reason-Drug Arg1:T99 Arg2:T100
+T100	Drug 8550 8557	Heparin
+T101	Route 8558 8562	drip
+R71	Route-Drug Arg1:T101 Arg2:T100
+T102	Drug 8852 8860	Atenolol
+T103	Strength 8861 8866	25 mg
+R72	Strength-Drug Arg1:T103 Arg2:T102
+T104	Form 8867 8873	Tablet
+R73	Form-Drug Arg1:T104 Arg2:T102
+T105	Dosage 8879 8886	One (1)
+R74	Dosage-Drug Arg1:T105 Arg2:T102
+T106	Form 8887 8893	Tablet
+R75	Form-Drug Arg1:T106 Arg2:T102
+T107	Route 8894 8896	PO
+R76	Route-Drug Arg1:T107 Arg2:T102
+T108	Frequency 8897 8902	DAILY
+R77	Frequency-Drug Arg1:T108 Arg2:T102
+T109	Drug 8915 8928	Diltiazem HCl
+T110	Strength 8929 8935	300 mg
+R78	Strength-Drug Arg1:T110 Arg2:T109
+T111	Form 8936 8962	Capsule, Sustained Release
+R79	Form-Drug Arg1:T111 Arg2:T109
+T112	Dosage 8968 8975	One (1)
+R80	Dosage-Drug Arg1:T112 Arg2:T109
+T113	Form 8977 9003	Capsule, Sustained Release
+R81	Form-Drug Arg1:T113 Arg2:T109
+T114	Route 9004 9006	PO
+R82	Route-Drug Arg1:T114 Arg2:T109
+T115	Frequency 9007 9012	DAILY
+R83	Frequency-Drug Arg1:T115 Arg2:T109
+T116	Drug 9025 9034	Valsartan
+T117	Strength 9035 9041	160 mg
+R84	Strength-Drug Arg1:T117 Arg2:T116
+T118	Form 9042 9048	Tablet
+R85	Form-Drug Arg1:T118 Arg2:T116
+T119	Dosage 9054 9061	One (1)
+R86	Dosage-Drug Arg1:T119 Arg2:T116
+T120	Form 9062 9068	Tablet
+R87	Form-Drug Arg1:T120 Arg2:T116
+T121	Route 9069 9071	PO
+R88	Route-Drug Arg1:T121 Arg2:T116
+T122	Frequency 9072 9075	BID
+R89	Frequency-Drug Arg1:T122 Arg2:T116
+T123	Drug 9097 9104	Aspirin
+T124	Strength 9105 9110	81 mg
+R90	Strength-Drug Arg1:T124 Arg2:T123
+T125	Form 9111 9127	Tablet, Chewable
+R91	Form-Drug Arg1:T125 Arg2:T123
+T126	Dosage 9133 9140	One (1)
+R92	Dosage-Drug Arg1:T126 Arg2:T123
+T127	Form 9141 9157	Tablet, Chewable
+R93	Form-Drug Arg1:T127 Arg2:T123
+T128	Route 9159 9161	PO
+R94	Route-Drug Arg1:T128 Arg2:T123
+T129	Frequency 9162 9167	DAILY
+R95	Frequency-Drug Arg1:T129 Arg2:T123
+T130	Drug 9180 9192	Rosuvastatin
+T131	Strength 9193 9198	20 mg
+R96	Strength-Drug Arg1:T131 Arg2:T130
+T132	Form 9199 9205	Tablet
+R97	Form-Drug Arg1:T132 Arg2:T130
+T133	Dosage 9211 9218	One (1)
+R98	Dosage-Drug Arg1:T133 Arg2:T130
+T134	Form 9219 9225	Tablet
+R99	Form-Drug Arg1:T134 Arg2:T130
+T135	Route 9226 9228	PO
+R100	Route-Drug Arg1:T135 Arg2:T130
+T136	Frequency 9229 9231	HS
+R101	Frequency-Drug Arg1:T136 Arg2:T130
+T137	Drug 9249 9271	Isosorbide Mononitrate
+T138	Strength 9272 9277	30 mg
+R102	Strength-Drug Arg1:T138 Arg2:T137
+T139	Form 9278 9308	Tablet Sustained Release 24 hr
+R103	Form-Drug Arg1:T139 Arg2:T137
+T140	Dosage 9314 9317	0.5
+R104	Dosage-Drug Arg1:T140 Arg2:T137
+T141	Form 9318 9348	Tablet Sustained Release 24 hr
+R105	Form-Drug Arg1:T141 Arg2:T137
+T142	Route 9349 9351	PO
+R106	Route-Drug Arg1:T142 Arg2:T137
+T143	Frequency 9352 9357	DAILY
+R107	Frequency-Drug Arg1:T143 Arg2:T137
+T144	Drug 9370 9381	Latanoprost
+T145	Strength 9382 9387	0.005 
+R108	Strength-Drug Arg1:T145 Arg2:T144
+T146	Form 9390 9395	Drops
+R109	Form-Drug Arg1:T146 Arg2:T144
+T147	Dosage 9401 9408	One (1)
+R110	Dosage-Drug Arg1:T147 Arg2:T144
+T148	Form 9409 9413	Drop
+R111	Form-Drug Arg1:T148 Arg2:T144
+T149	Route 9414 9424	Ophthalmic
+R112	Route-Drug Arg1:T149 Arg2:T144
+T150	Frequency 9425 9427	HS
+R113	Frequency-Drug Arg1:T150 Arg2:T144
+T151	Drug 9446 9463	Polyvinyl Alcohol
+T152	Strength 9464 9467	1.4 
+R114	Strength-Drug Arg1:T152 Arg2:T151
+T153	Form 9470 9475	Drops
+R115	Form-Drug Arg1:T153 Arg2:T151
+T154	Dosage 9481 9484	1-2
+R116	Dosage-Drug Arg1:T154 Arg2:T151
+T155	Form 9485 9490	Drops
+R117	Form-Drug Arg1:T155 Arg2:T151
+T156	Route 9491 9501	Ophthalmic
+R118	Route-Drug Arg1:T156 Arg2:T151
+T157	Frequency 9502 9505	PRN
+R119	Frequency-Drug Arg1:T157 Arg2:T151
+T158	Drug 9522 9529	Betimol
+T159	Strength 9530 9533	0.5 
+R120	Strength-Drug Arg1:T159 Arg2:T158
+T160	Form 9536 9541	Drops
+R121	Form-Drug Arg1:T160 Arg2:T158
+T161	Dosage 9547 9554	One (1)
+R122	Dosage-Drug Arg1:T161 Arg2:T158
+T162	Route 9555 9565	Ophthalmic
+R123	Route-Drug Arg1:T162 Arg2:T158
+T163	Frequency 9566 9576	once a day
+R124	Frequency-Drug Arg1:T163 Arg2:T158
+T164	Drug 9605 9614	Valsartan
+T165	Strength 9615 9621	160 mg
+R125	Strength-Drug Arg1:T165 Arg2:T164
+T166	Form 9622 9628	Tablet
+R126	Form-Drug Arg1:T166 Arg2:T164
+T167	Dosage 9634 9641	One (1)
+R127	Dosage-Drug Arg1:T167 Arg2:T164
+T168	Form 9642 9648	Tablet
+R128	Form-Drug Arg1:T168 Arg2:T164
+T169	Route 9649 9651	PO
+R129	Route-Drug Arg1:T169 Arg2:T164
+T170	Frequency 9652 9663	twice a day
+R130	Frequency-Drug Arg1:T170 Arg2:T164
+T171	Drug 9668 9690	Isosorbide Mononitrate
+T172	Strength 9691 9696	30 mg
+R131	Strength-Drug Arg1:T172 Arg2:T171
+T173	Form 9697 9727	Tablet Sustained Release 24 hr
+R132	Form-Drug Arg1:T173 Arg2:T171
+T174	Dosage 9733 9736	0.5
+R133	Dosage-Drug Arg1:T174 Arg2:T171
+T175	Form 9737 9767	Tablet Sustained Release 24 hr
+R134	Form-Drug Arg1:T175 Arg2:T171
+T176	Route 9768 9770	PO
+R135	Route-Drug Arg1:T176 Arg2:T171
+T177	Frequency 9771 9781	once a day
+R136	Frequency-Drug Arg1:T177 Arg2:T171
+T178	Drug 9786 9797	Latanoprost
+T179	Strength 9798 9803	0.005 
+R137	Strength-Drug Arg1:T179 Arg2:T178
+T180	Form 9806 9811	Drops
+R138	Form-Drug Arg1:T180 Arg2:T178
+T181	Dosage 9817 9824	One (1)
+R139	Dosage-Drug Arg1:T181 Arg2:T178
+T182	Form 9825 9829	Drop
+R140	Form-Drug Arg1:T182 Arg2:T178
+T183	Route 9830 9840	Ophthalmic
+R141	Route-Drug Arg1:T183 Arg2:T178
+T184	Frequency 9841 9843	HS
+R142	Frequency-Drug Arg1:T184 Arg2:T178
+T185	Drug 9861 9876	Timolol Maleate
+T186	Strength 9877 9880	0.5 
+R143	Strength-Drug Arg1:T186 Arg2:T185
+T187	Form 9883 9888	Drops
+R144	Form-Drug Arg1:T187 Arg2:T185
+T188	Dosage 9894 9901	One (1)
+R145	Dosage-Drug Arg1:T188 Arg2:T185
+T189	Route 9903 9913	Ophthalmic
+R146	Route-Drug Arg1:T189 Arg2:T185
+T190	Frequency 9914 9919	Daily
+R147	Frequency-Drug Arg1:T190 Arg2:T185
+T191	Drug 9927 9944	Polyvinyl Alcohol
+T192	Strength 9945 9948	1.4 
+R148	Strength-Drug Arg1:T192 Arg2:T191
+T193	Form 9951 9956	Drops
+R149	Form-Drug Arg1:T193 Arg2:T191
+T194	Route 9975 9985	Ophthalmic
+R150	Route-Drug Arg1:T194 Arg2:T191
+T195	Frequency 9986 9989	prn
+R151	Frequency-Drug Arg1:T195 Arg2:T191
+T196	Drug 9994 10007	Diltiazem HCl
+R152	Form-Drug Arg1:T30 Arg2:T23	
+T67	Route 1364 1366	IV
+R54	Route-Drug Arg1:T67 Arg2:T68	

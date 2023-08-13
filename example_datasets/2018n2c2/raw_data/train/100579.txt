@@ -1,0 +1,339 @@
+Admission Date:  [**2125-10-17**]              Discharge Date:   [**2125-10-26**]
+
+Date of Birth:  [**2058-6-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Ceftriaxone
+
+Attending:[**First Name3 (LF) 338**]
+Chief Complaint:
+Fever
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy, PICC line placement
+
+History of Present Illness:
+67 year old man 1 month s/p AVR, MVR, and CABG x 3, now with
+fever to 100.7, WBC 18.7, and erythema at superior aspect of
+wound. Pt recently had a long hospitalization following CABG and
+MVR/AVR([**Date range (3) 83151**]), which was complicated by post-op
+CVA, aflutter/afib with unsuccessful cardioversion, and a
+HA-pna. The pt was discharged with a trach to [**Hospital3 **],
+due to his inability to manage secretions. The pt did well at
+rehab, until [**2125-10-4**], when he developed a low-grade fever and
+CXR showed a new left lung base consolidation. He continued to
+have temps to 99, and on [**10-14**] pt was started on ceftriaxone 1g
+q24h. On [**10-15**] the pt was also started on vancomycin 1g q12h. Per
+rehab reports the pt developed confusion and RR in the high
+30's. The pt was thought to be in volume overload, and was given
+lasix 20mg IV once on [**10-17**]. Gram stain of sputum from [**10-14**] showed
+1= GPCSputum culture from [**10-14**] grew 2+ E. coli that was
+pansensitive. Cdiff from that date was also negative. Blood
+cultures from [**10-15**] showed no growth on [**10-16**].
+In the ED, the pt's triage VS were: T100.7, P71 BP 185/73, RR
+20, 99%. Pt had a non-con CT Chest that showed: soft tissue
+stranding anterior to sternum, soft tissue stranding and fluid
+posteriorly (4cm x 07.cm) adjacent to pericardium which may be
+thickened. Tmax in ED 100.9, pt received tylenol. Pt was seen by
+CT [**Doctor First Name **] which thought that CT findings were post-op changes, and
+recommended continuing vanc/ctx for presumed pna versus
+cellulitis. Pt admitted to MICU for further eval.
+
+
+Past Medical History:
+Coronary artery disease s/p CABG
+- [**8-23**] Had NSTEMI, cath showed 3VD.
+- [**2125-9-12**] - CABGx3(Left internal mammary artery->Left anterior
+descending artery, Saphenous vein graft->Obtuse marginal artery,
+
+Saphenous vein graft->Posterior descending artery)/Aortic Valve
+
+Replacement(25mm [**Doctor Last Name **] Pericardial)/MV Repair(St. [**Male First Name (un) 923**] 32mm
+saddle ring)
+- hospital course c/b aflutter/afib, s/p cardioversion x2, coag
+pos staph and GNR in sputum, pt got 8 day course of vancomycin
+and zosyn stopped [**10-1**], [**9-13**] frontal CVA
+Mitral Regurgitation s/p mitral valve repair
+Aortic Insufficiency s/p AVR
+CVA: right frontal infarction [**9-13**]
+Atrial fibrillation/flutter
+Failed swallow with signs aspiration s/p [**2125-9-19**] PEG placement
+Inability to manage secretions s/p [**2125-9-26**] Tracheostomy #8
+Portex
+
+
+Social History:
+Lives with sister. [**Name (NI) **] alcohol since [**2092**] though was a heavy
+drinker prior to this. He has smoked at least a pack a day for
+50 years. Works in finance managing stock portfolios.
+
+
+Family History:
+[**Name (NI) 2320**] (Mother)
+Ca (grandparents)
+
+
+Physical Exam:
+VS: P73, BP 114/60, RR 13, POx 98% on A/C FiO2 50%, TV 500,
+RR14, PEEP 8
+Gen: Elderly man with trach, in NAD
+HEENT: EOMI, PERRLA, fair dentition
+CV: RRR, 3/6 systolic murmur at apex
+Pulm: CTAB anteriorly, no wheeze, trying to cough, responds to
+suctioning
+Chest: Erythema over sternal notch, incision site well healed
+near clavicle, steri-strips in place along bottom of incision
+site. No e/o purulent discharge, no tenderness.
+Abd: Soft, NT/ND, no organomegaly, G-tube in place, minimal
+erythema surrounding tube site, no tenderness at tube site
+Extr: Warm, trace pedal edema, DP+ b/l, left forearm in brace,
+right UE PICC
+Neuro: A+Ox3, low volume d/t trach
+CN: EOMI, PERRLA, left lower facial droop
+Motor: 0/5 strength left UE and 3/5 strength in L LE, [**6-19**]
+strength R UE and LE.
+
+
+Pertinent Results:
+[**2125-10-17**] 02:44PM BLOOD WBC-18.7* RBC-3.29*# Hgb-10.0*# Hct-30.9*
+MCV-94 MCH-30.3 MCHC-32.2 RDW-14.9 Plt Ct-171
+[**2125-10-24**] 04:25AM BLOOD WBC-12.8* RBC-2.81* Hgb-8.4* Hct-26.3*
+MCV-94 MCH-29.8 MCHC-31.9 RDW-15.2 Plt Ct-194
+[**2125-10-17**] 02:44PM BLOOD PT-17.6* PTT-33.9 INR(PT)-1.6*
+[**2125-10-24**] 04:25AM BLOOD Plt Ct-194 PltClmp-1+
+[**2125-10-24**] 04:25AM BLOOD PT-20.7* PTT-31.3 INR(PT)-1.9*
+[**2125-10-17**] 02:44PM BLOOD Glucose-138* UreaN-26* Creat-0.9 Na-138
+K-4.3 Cl-100 HCO3-30 AnGap-12
+[**2125-10-24**] 04:25AM BLOOD Glucose-128* UreaN-15 Creat-0.8 Na-135
+K-4.8 Cl-100 HCO3-31 AnGap-9
+
+[**2125-10-19**] 6:09 pm SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT [**2125-10-22**]**
+
+   GRAM STAIN (Final [**2125-10-19**]):
+      THIS IS A CORRECTED REPORT [**2125-10-20**].
+      >25 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS.
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+                                    CONSISTENT WITH
+CORYNEBACTERIUM OR
+                                   PROPIONIBACTERIUM SPECIES.
+      PREVIOUSLY REPORTED AS [**2125-10-19**].
+      >25 PMNs and <10 epithelial cells/100X field.
+      3+  (5-10 per 1000X FIELD):   MULTIPLE ORGANISMS
+CONSISTENT WITH
+                                    OROPHARYNGEAL FLORA.
+      REPORTED BY PHONE TO [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] (CC7D) ON [**2125-10-20**] AT
+15:06.
+
+   RESPIRATORY CULTURE (Final [**2125-10-22**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH.
+         OF TWO COLONIAL MORPHOLOGIES.
+      ESCHERICHIA COLI.    SPARSE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |          ESCHERICHIA COLI
+                             |          |
+AMPICILLIN------------              <=2 S
+AMPICILLIN/SULBACTAM--              <=2 S
+CEFAZOLIN-------------              <=4 S
+CEFEPIME--------------    16 I      <=1 S
+CEFTAZIDIME-----------    16 I      <=1 S
+CEFTRIAXONE-----------              <=1 S
+CEFUROXIME------------                4 S
+CIPROFLOXACIN---------   =>4 R   <=0.25 S
+GENTAMICIN------------     8 I      <=1 S
+MEROPENEM-------------  =>16 R   <=0.25 S
+PIPERACILLIN----------       R      <=4 S
+PIPERACILLIN/TAZO-----    64 S      <=4 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----              <=1 S
+
+CT Chest:
+IMPRESSION:
+1. Post-surgical stranding in the anterior mediastinal space. No
+fluid
+collection.
+2. Tracheostomy tube is 7.6 cm from the carina.
+4. Right PICC loops superiorly, malpositioned; consider
+readjustment.
+5. Mitral and aortic valve replacement.
+6. Left moderate-sized pleural effusion and bibasal atelectasis.
+
+7. Gynecomastia.
+
+CXR [**2125-10-24**]
+Portable AP chest radiograph was reviewed in comparison to
+[**2125-10-22**].
+The tracheostomy tip is 6.5 cm above the carina. The
+cardiomediastinal
+silhouette is stable. The replaced mitral valve is in place.
+There is
+bilateral pleural effusion and right lower lobe opacity that
+might represent a combination of atelectasis and infectious
+process. The left retrocardiac atelectasis has also progressed
+and might represent an additional source of infection as well.
+
+
+Brief Hospital Course:
+67 year old man 1 month s/p AVR, MVR, and CABG x 3, now with
+fever to 100.9, WBC 18.7 admitted with possible pneumonia and
+cellulitis, rule out mediastinitis.
+
+# Fever/Pseudomonal pneumonia: Pt had CT chest that indicated
+some stranding around sternum, but thoracic surgery did not
+think CT was consistent with mediastinitis, but that changes
+were characteristic of post-op changes. No evidence of
+cellulitis on exam, and although PICC line appeared normal, it
+was removed for concern for line infection. Pt found to have new
+ventilator-associated pneumonia, and had bronchoscopy that
+showed copious secretions. Sputum grew multi-drug resistant
+pseudomonas. During the admission the pt was thought to have had
+a ceftriaxone allergic reaction (morbilloform drug rash) and
+ceftriaxone was added to allergy list. Pt was discharged to
+rehab on tobramycin with plan to complete a 14 day course, that
+will be complete on [**2125-11-4**]. He will need his tobra level
+checked every 3 days to see if his dose needs adjustment. Renal
+function should be checked q3 days while on the tobra to ensure
+proper dosing.
+
+# Cardiovascular: EKG improved from prior. No chest pain.
+Continued amiodarone, coumadin, statin, aspirin and restarted
+beta blocker at a lower dose.
+
+# H/o CVA: Left hemiparesis improved as L LE now has some
+strength. He was continued on his statin, aspirin, and coumadin.
+
+
+# FEN/GI: Continue home Jevity.
+
+# GERD: was continued on home ranitidine
+# Access: new PICC line was placed during his admission, old
+PICC was removed and had a negative culture.
+# Communication: With sister [**Name (NI) **] [**Name (NI) **], [**Telephone/Fax (1) 83152**], and
+patient
+# CODE STATUS: FULL CODE
+
+Was tranfered to rehab for continued care.
+
+
+Medications on Admission:
+Atorvastatin 80 mg daily
+Docusate Sodium 10mg [**Hospital1 **]
+Aspirin 81 mg daily
+Amiodarone 200 mg daily
+Lisinopril 10 mg DAILY
+Metoprolol Tartrate 50 mg TID
+Temazepam 15 mg HS as needed for insomnia.
+Norvasc 10 mg once a day
+Ranitidine HCl 15 mg/mL Syrup DAILY
+Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Four (4) Puff Inhalation every six (6) hours as needed for
+shortness of breath or wheezing.
+Chlorhexidine Gluconate 0.12 % Mouthwash Sig: Fifteen (15)
+ML Mucous membrane [**Hospital1 **] (2 times a day): while mechanically
+ventilated.
+Regular insulin Sliding Scale
+Warfarin 2 mg Tablet
+Mucinex 600mg [**Hospital1 **]
+CTX 1 g q24 Day 1= [**10-14**]
+Vanco 1g q12 Day 1= [**10-15**]
+Lasix 20mg once
+MVI daily
+Tylenol 650 supp q6h prn fever
+Trazodone 50mg qhs prn
+Tylenol Elixir
+
+
+Discharge Medications:
+1. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed for Constipation.
+2. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+4. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Ranitidine HCl 15 mg/mL Syrup Sig: One (1)  PO BID (2 times a
+day).
+6. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Two (2) Puff Inhalation Q6H (every 6 hours) as needed for
+dyspnea, wheeze.
+7. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours) as needed for pain.
+11. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+QID (4 times a day) as needed for itching.
+12. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Topical [**Hospital1 **]
+(2 times a day) as needed for Apply to groin.
+13. White Petrolatum-Mineral Oil 42.5-56.8 % Ointment Sig: One
+(1) Appl Ophthalmic PRN (as needed) as needed for dryness.
+14. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+15. Citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+16. Acetylcysteine 20 % (200 mg/mL) Solution Sig: One (1) ML
+Miscellaneous Q6H (every 6 hours) as needed for mucus.
+17. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.
+18. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.
+19. Tobramycin Sulfate 40 mg/mL Solution Sig: Six Hundred (600)
+mg Injection Q24H (every 24 hours) for 10 days.
+20. Warfarin 4 mg Tablet Sig: One (1) Tablet PO once a day.
+21. Chlorhexidine Gluconate 0.12 % Mouthwash Sig: One (1) ML
+Mucous membrane [**Hospital1 **] (2 times a day).
+22. Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for insomina.
+23. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO HS (at bedtime) as needed for pain/cramping.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 1293**] - [**Location (un) 1294**]
+
+Discharge Diagnosis:
+Primary:
+Healthcare associated pneumonia
+
+Secondary:
+Coronary artery disease
+Atrial fibrillation on coumadin
+Hx of cerebrovascular accident
+
+Discharge Condition:
+Good, vital signs stable
+
+Discharge Instructions:
+You were admitted to the hospital with fevers and found to have
+a pneumonia. We started you on a two week course of antibiotics.
+You should complete your course of tobramycin on [**2125-11-4**].
+
+
+Followup Instructions:
+Follow up with your primary care doctor in [**3-20**] weeks.
+
+Provider: [**Name10 (NameIs) **] [**Name8 (MD) 6144**], MD Phone:[**Telephone/Fax (1) 170**]
+Date/Time:[**2125-11-1**] 1:45
+
+
+

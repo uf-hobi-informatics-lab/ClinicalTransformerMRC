@@ -1,0 +1,211 @@
+Admission Date:  [**2194-12-7**]              Discharge Date:   [**2194-12-23**]
+
+Date of Birth:  [**2118-3-21**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Amiodarone Analogues
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+severe aortic stenosis, coronary artery disease
+
+Major Surgical or Invasive Procedure:
+liver biopsy
+CABG x1 (LIMA->LAD), AVR (19mm CE magna) [**12-18**]
+
+
+History of Present Illness:
+Mr. [**Known lastname 30842**] is a 76-year-old male, with known severe critical
+aortic stenosis that has been followed and now reached a level
+of 0.5 cm2 by echocardiography, who [**Known lastname 1834**] cardiac
+catheterization that confirmed the presence of critical aortic
+stenosis and showed an 80-90% proximal left anterior descending
+stenosis, with a 70% stenosis of a small ramus branch. He is
+presenting for valve and coronary surgery. The ejection fraction
+is preserved.
+
+Past Medical History:
+idiopathic thrombocytopenic purpura
+hepatitis C x8-10years
+coronary artery disease
+aortic stenosis
+hypertension
+hyperlipidemia
+atrial fibrillation
+pulmonary fibrosis secondary to amiodarone
+squamous cell CA of the RLE
+
+PSH:
+TURP [**2171**]
+hernia repair [**2171**]
+
+Social History:
+quit smoking 13 years ago
+rare use of alcohol
+
+Family History:
+Father: diabetes, died at age 55yo from unknown causes
+Mother: died in 70s
+
+Physical Exam:
+T 98.6 HR 73 BP 129/72 RR 18 97%RA
+NAD
+RRR, incis: c/d/i
+CTAB
+s/nt/nd, +BS
+no c/c/e
+
+Pertinent Results:
+[**12-8**] Carotids
+FINDINGS: Duplex evaluation was performed of both carotid
+arteries. Minimal plaque was identified.  On the right, peak
+systolic velocities are 62, 66, 66 in the ICA, CCA, ECA
+respectively. The ICA to CCA ratio is 0.9. This is consistent
+with no stenosis.  On the left, peak systolic velocities are 59,
+54, 73 in the ICA, CCA, ECA respectively. The ICA to CCA ratio
+is 1.1. This is consistent with no stenosis.  There is antegrade
+flow in both vertebral arteries.
+
+[**12-10**] abdominal u/s:
+FINDINGS: The liver is normal in echotexture without focal
+lesions. Gallbladder contains several layering stones without
+signs of cholecystitis. Common bile duct is normal in diameter
+measuring 0.4 cm. The pancreas is unremarkable. The aorta is
+normal in diameter. The right kidney measures 10.1 cm in length.
+There is a caliceal diverticulum in the upper pole containing
+calcium with an additional 0.6 x 4.2 x 1.0 cm simple cyst. The
+spleen is normal in size measuring 10.2 cm.
+
+[**2194-12-12**] Liver needle biopsy:
+   1) Mild portal chronic, predominantly mononuclear cell,
+inflammation.
+   2) Focal, mild steatosis.
+   3) Trichrome stain:  Focal mild portal fibrosis.
+   4) Iron stain:  No stainable iron.
+
+[**2194-12-7**] 03:40PM BLOOD WBC-6.9 RBC-4.50* Hgb-14.6 Hct-43.3
+MCV-96 MCH-32.4* MCHC-33.8 RDW-12.5 Plt Ct-74*
+[**2194-12-18**] 11:05AM BLOOD WBC-12.5* RBC-2.43*# Hgb-8.3*# Hct-24.3*#
+MCV-100* MCH-34.2* MCHC-34.2 RDW-12.8 Plt Ct-63*
+[**2194-12-18**] 05:06PM BLOOD WBC-15.0* RBC-3.51*# Hgb-11.4*#
+Hct-32.5*# MCV-92# MCH-32.4* MCHC-35.1* RDW-15.1 Plt Ct-148*#
+[**2194-12-23**] 07:05AM BLOOD WBC-14.1* RBC-4.28* Hgb-13.8* Hct-39.9*
+MCV-93 MCH-32.1* MCHC-34.5 RDW-15.1 Plt Ct-54*
+[**2194-12-21**] 05:30AM BLOOD PT-14.4* INR(PT)-1.4
+[**2194-12-22**] 07:30AM BLOOD PT-14.1* INR(PT)-1.4
+[**2194-12-10**] 07:25AM BLOOD HCV Ab-POSITIVE
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 30842**] was admitted to the Cardiac Surgery service under the
+care of Dr. [**Last Name (STitle) **].  Given his low platelet counts (74) at
+[**Hospital1 **] and at [**Hospital1 18**], a hematology consult was obtained for
+further evaluation.  His thrombocytopenia had been previously
+documented and worked up by Dr. [**Last Name (STitle) 30843**].  An abdominal ultrasound
+showed no signs of splenomegaly and his heparin-dependent
+antibody assay was negative.  In addition, the Hepatology team
+was asked to evaluate Mr. [**Known lastname 30842**] for his thrombocytopenia in the
+presence of HCV.  On [**12-12**], Mr. [**Known lastname 30842**] [**Last Name (Titles) 1834**] an
+ultrasound-guided liver biopsy.  The results were mild portal
+chronic, predominantly mononuclear cell, inflammation; and
+focal, mild steatosis.
+
+Mr. [**Known lastname 30842**] was cleared for surgery by the Hematology and
+Hepatology teams.  His chronic thrombocytopenia was attributed
+to either ITP or HCV.  He received platelet transfusions
+pre-operatively.  On [**12-18**], he [**Month/Year (2) 1834**] his CABG x1 and AVR
+without complications.  Please see Dr.[**Name (NI) 5572**] Operative Note
+for further detail.
+
+Post-operatively, he did well.  He was extubated, his chest
+tubes removed, and transferred to the floor by POD #2.  His
+platelet and hematocrit levels were closely followed.  By the
+time of discharge on POD #5, his epicardial wires were removed,
+he was evaluated by physical therapy, had good pain control, and
+was tolerating a regular diet, although complained of poor
+appetite.  His Coumadin was restarted on [**12-20**] for his atrial
+fibrillation.
+
+
+Medications on Admission:
+Coumadin 2.5mg PO daily
+Atacand 32mg PO daily
+Lopressor 100mg PO BID
+Insulin NPH 22 [**Hospital1 **]
+Glucotrol 5'
+Digoxin 0.125'
+Lipitor 20'
+Celexa 20'
+Protonix 40'
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed.
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Warfarin 5 mg Tablet Sig: One (1) Tablet PO once a day:
+titrate for INR between 1.5-2.5.
+7. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID
+(2 times a day).
+8. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed.
+9. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+HS (at bedtime) as needed.
+10. Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day for 7
+days: for [**Date range (1) 24295**].
+11. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day for 7
+days: to start [**Date range (1) 30844**].
+12. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+13. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+14. Humulin N 100 unit/mL Suspension Sig: Eleven (11) units
+Subcutaneous twice a day.
+15. Humalog 100 unit/mL Cartridge Sig: One (1) Units
+Subcutaneous four times a day as needed for hyperglycemia:
+insulin sliding scale.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 **] - [**Location (un) 47**]
+
+Discharge Diagnosis:
+idiopathic thrombocytopenic purpura
+coronary artery disease
+aortic stenosis
+diabetes
+hyperlipidemia
+atrial fibrillation
+hepatitis C
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+If you have any chest pain, difficulty breathing, persistent
+nausea/vomiting, redness/oozing from your incision site, seek
+medical attention immediately.
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **].  [**Telephone/Fax (1) 6256**]  Follow-up appointment
+should be in 2 weeks
+
+Provider: [**Last Name (Prefixes) 413**],[**First Name3 (LF) 412**]  [**Telephone/Fax (1) 170**]  Follow-up appointment
+should be in 1 month
+
+
+
+Completed by:[**2194-12-23**]

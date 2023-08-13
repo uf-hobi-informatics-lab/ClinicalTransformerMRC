@@ -1,0 +1,335 @@
+Admission Date:  [**2148-8-4**]              Discharge Date:   [**2148-8-5**]
+
+Date of Birth:  [**2091-9-13**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Darvon / Codeine / Valium / Percocet / Demerol (PF) / Darvocet-N
+100 / Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 594**]
+Chief Complaint:
+Lithium Toxicity
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+[**Known firstname 553**] [**Known lastname 1806**] is a 56 year-old woman with a history of bipolar
+disorder, hypothyroidism, psoriatic arthitis, and diabetes
+mellitus who presents with mental status changes since [**8-2**].
+According to her family she was in her usual state of health
+until about a week ago when she started having difficulty with
+word finding, short term memory, using household items, and was
+walking slowly.  They also state that she seemed slightly
+unsteady while walking but has had no other abnormal movements.
+Of note, she was prescribed TMP/SMX on [**7-30**] for nasal cellulitis.
+ Her son, a nurse, suspected lithium toxicity and called her PCP
+who referred them to the ED.
+
+In the ED, her initial vitals were T 98.8, HR 63, BP 144/64, RR
+20,  100% RA.  She was found to have a Cr of 1.3 from a baseline
+of 0.7 and a lithium level of 2.0.  Glucose was 215 (she has had
+episodes of hyperosmolar hyperglycemic episodes in the past).
+Toxicology was consulted, recommending dialysis due to her
+symptoms.  Nephrology recommended aggressive hydration first,
+and regardless, the patient refused to have dialysis or Foley
+catheters placed.  She received 3 L NS in the ED with marked
+improvements in her symptoms, although she did not return to
+baseline.  She was admitted to the MICU for monitoring and
+aggressive diuresis.
+
+Upon arrival, her vitals were T 36.4, HR 66, BP 154/69, RR 19,
+Sat 99% RA.  She was comfortable and in NAD.
+
+ROS:  Positive for loose stools for several months, and
+increased urinary frequency for one day.  She had no fevers,
+chills, chest pain, dyspnea, nausea, vomiting, dysuria, urinary
+frequency, or extremity pain.
+
+
+Past Medical History:
+Diabetes type II on insulin
+Psoriatic Arthritis
+Thyroid cancer s/p resection and radioactive iodine
+Hypothyroidism
+Bipolar disorder
+Anxiety disorder
+Asthma
+
+
+Social History:
+SH: She used tobacco in her early 20s, no alcohol, no other
+drugs.  Lives at home with husband.
+
+
+Family History:
+Strokes in mother and father.  Renal disease and MI in brother.
+
+
+Physical Exam:
+Admission Exam:
+Vitals:  T 36.4, HR 66, BP 154/69, RR 19, Sat 99% RA
+General:  obese woman, comfortable, NAD
+CV:  RRR, systolic murmur
+Pulm:  CTAB
+Abd:  Soft, nontender, nondistended, positive bowel sounds
+Extr: cool, well-perfused, 1+ pulses, no edema
+Neuro:
+Mental status:  A&Ox3, no dysarthria or aphasia, generally
+appropriate responses but seems somewhat confused, impaired
+concentration on WORLD and serial 7s
+CN II-XII intact
+Strength 5/5 throughout and symmetric
+Sensation intact to light touch throughout
+
+Discharge Exam:
+Vitals: Afebrile, HR 59 RR 18 BP 122/52 92% 2L NC
+General: Obese woman, comfortable, NAD, alert and interactive
+CV:  RRR, systolic murmur heard throughout precordium
+Pulm: Mild crackles at RLL but otherwise CTAB
+Abd:  Soft, nontender, nondistended, good bowel sounds
+Extr: cool, well-perfused, 1+ pulses, no edema
+Neuro:
+Mental status:  A&Ox3, no dysarthria or aphasia, generally
+appropriate responses but seems somewhat confused, impaired
+concentration on WORLD and serial 7s
+CN II-XII intact
+Strength 5/5 throughout and symmetric
+Sensation intact to light touch throughout
+
+
+
+
+Pertinent Results:
+Admission Labs:
+[**2148-8-4**] 05:40PM BLOOD WBC-6.2 RBC-3.83* Hgb-12.0 Hct-33.0*
+MCV-86 MCH-31.5 MCHC-36.5* RDW-13.7 Plt Ct-166
+[**2148-8-4**] 05:40PM BLOOD Neuts-56.0 Lymphs-34.6 Monos-2.8 Eos-5.2*
+Baso-1.4
+[**2148-8-4**] 05:40PM BLOOD PT-13.1 PTT-26.5 INR(PT)-1.1
+[**2148-8-4**] 05:40PM BLOOD Glucose-215* UreaN-28* Creat-1.3* Na-135
+K-4.1 Cl-107 HCO3-22 AnGap-10
+[**2148-8-4**] 05:40PM BLOOD ALT-34 AST-37 LD(LDH)-226 CK(CPK)-49
+AlkPhos-81 TotBili-1.5
+[**2148-8-4**] 05:40PM BLOOD CK-MB-4
+[**2148-8-4**] 05:40PM BLOOD cTropnT-<0.01
+[**2148-8-4**] 05:40PM BLOOD Albumin-3.7
+[**2148-8-4**] 10:06PM BLOOD Calcium-8.4 Phos-2.7 Mg-1.6
+[**2148-8-4**] 05:40PM BLOOD Osmolal-295
+[**2148-8-4**] 05:40PM BLOOD TSH-1.3
+[**2148-8-4**] 06:40PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2148-8-4**] 06:11PM BLOOD Lactate-1.8
+
+Lithium Trend:
+[**2148-8-4**] 05:40PM BLOOD Lithium-2.0*
+[**2148-8-4**] 10:06PM BLOOD Lithium-1.6*
+[**2148-8-5**] 02:58AM BLOOD Lithium-1.2
+[**2148-8-5**] 11:37AM BLOOD Lithium-1.1
+
+Discharge Labs:
+[**2148-8-5**] 02:58AM BLOOD WBC-5.9 RBC-3.54* Hgb-11.1* Hct-31.3*
+MCV-88 MCH-31.4 MCHC-35.6* RDW-13.8 Plt Ct-128*
+[**2148-8-5**] 11:37AM BLOOD Glucose-222* UreaN-17 Creat-0.8 Na-137
+K-4.4 Cl-114* HCO3-19* AnGap-8
+[**2148-8-5**] 11:37AM BLOOD Calcium-7.8* Phos-3.5 Mg-1.8
+
+
+Brief Hospital Course:
+[**Known firstname 553**] [**Known lastname 1806**] is a 56 year-old woman with a history of
+insulin-dependent DMII, bipolar disorder, and psoriatic
+arthritis who presents with altered mental status, acute kidney
+injury, and elevated lithium levels.
+
+# Altered mental status: Altered mental status most likely cause
+by lithium toxicity in the setting of acute kidney injury. No
+evidence of infection on UA, no fever or leukocytosis. She has a
+history of AMS with hyperosmolar hyperglycemic states, but her
+hyperglycemia was relatively mild and her serum osmolarity was
+normal.  Toxicology initially recommended dialysis, but
+nephrology recommended trying aggressive diuresis before
+dialyzing the patient, who said that she would refuse a dialysis
+catheter. Lithium was held, [**Known lastname **] was held and she was
+hydrated agressively with LR, since patient has received 6 L NS
+and developed a hyperchloremic acidosis. Lithium levels were
+checked Q6hours and she was discharged when Lithium levels
+returned to [**Location 213**]
+
+# Acute kidney injury: Her creatinine was elevated to 1.3 from a
+baseline of 0.7 on admission.  This was thought to be most
+likely intrinsic from TMP/SMX usage, but there she may have had
+prerenal physiology as well due to decreased PO intake.  There
+was no evidence of obstruction or infection. [**Location **] and
+[**Location **] were held, she was hydrated and electrolytes were
+followed.
+
+# Diabetes mellitus: Chronic issue which was stable during
+admission. She was kept on her sliding scale insulin, metformin
+was held. She refused to take her long acting insulin
+
+# Psoriatic arthritis: Symptoms were stable.  She can continue
+taking her Methotrexate and Enbrel as an outpatient
+
+# Hypothyroidism: Chronic, stable. Continued home levothyroxine.
+
+# Bipolar and anxiety disorders: Chronic, stable.  She has no
+mood symptoms and her altered mental status is not at all
+consistent with mania or depression.  We continued her home
+benzodiazepines and held lithium in the setting of acute
+toxicity.
+
+# Anemia: Initial hematocrit was normal, but that may be in the
+setting of hemoconcentration.  No evidence of acute bleeding.
+Stool Guiac was negative and serial crits were stable.
+
+Transitional Issues:
+- She was told to hold her [**Location **]. Restarting should be
+decided by outpatient physician
+[**Name Initial (PRE) **] [**Name10 (NameIs) **] may have increased her Lithium level in setting of
+[**Last Name (un) **]. [**Last Name (un) **] should not be used for her in the future. Again,
+she was instructed to follow up with her outpatient PCP
+regarding [**Last Name (un) **] use.
+- She needs to be encouraged to keep her outpatient
+appointments.
+
+Medications on Admission:
+ALBUTEROL SULFATE [PROAIR HFA] - 90 mcg HFA Aerosol Inhaler -
+1-2
+puffs(s) by mouth every four (4)  to six (6) hours as needed for
+cough/wheezing
+CLONAZEPAM - 0.5 mg Tablet - 1 Tablet(s) by mouth once a day
+DERMATOLOGIC APPLICATIONS -  (Prescribed by Other Provider) -
+-
+ETANERCEPT [ENBREL] - 25 mg Kit - inject twice a week
+FLUOCINONIDE - 0.05 % Cream - apply to affected area twice daily
+INSULIN ASPART [NOVOLOG FLEXPEN] - 100 unit/mL Insulin Pen - 4
+units or as directed subcutaneously Before meals As directed on
+your sliding scale
+INSULIN GLARGINE [LANTUS SOLOSTAR] - 100 unit/mL (3 mL) Insulin
+Pen - 20 units subcutaneously At bedtime Increase as directed by
+your physician
+[**Name Initial (PRE) 103820**] [LEVOXYL] - 75 mcg Tablet - 1 Tablet(s) by mouth
+daily and extra [**12-24**] tab on Sundays Take fasting with water only
+-
+No Substitution
+[**Month/Day (2) **] - 10 mg Tablet - 1 Tablet(s) by mouth once a day
+LITHIUM CARBONATE -  (Prescribed by Other Provider) - 300 mg
+Tablet - 3 Tablet(s) by mouth at bedtime as needed for total of
+900 mg daily
+LORAZEPAM -  (Prescribed by Other Provider) - 0.5 mg Tablet - 1
+Tablet(s) by mouth at bedtime as needed for sleep
+METFORMIN - 500 mg Tablet Extended Release 24 hr - 2 Tablet(s)
+by
+mouth every evening
+METHOTREXATE SODIUM - 25 mg/mL Solution - 20 mg once per week
+taken on Wednesday
+SYRINGE (DISPOSABLE) -   Syringe - 30g, [**12-24**]"-1" needle, use with
+methotrexate weekly
+
+
+Discharge Medications:
+1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 Puffs Inhalation Q6H (every 6 hours) as needed for wheezing.
+
+2. clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO once a day.
+3. levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): With an extra half a tablet on Sundays. Take fasting
+with water only .
+4. lithium carbonate 300 mg Tablet Sig: Three (3) Tablet PO at
+bedtime: Take 3 tablets at bedtime for total of 900mg Daily.
+5. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for sleep.
+6. methotrexate sodium 25 mg/mL Solution Sig: Twenty (20) mg
+Injection once a week: taken on Wednesdays.
+7. metformin 500 mg Tablet Extended Release 24 hr Sig: Two (2)
+Tablet Extended Release 24 hr PO once a day.
+8. insulin aspart 100 unit/mL Insulin Pen Sig: As directed units
+Subcutaneous before meals: As directed by your sliding scale.
+9. insulin glargine 100 unit/mL (3 mL) Insulin Pen Sig: Twenty
+(20) units Subcutaneous at bedtime.
+10. Enbrel 25 mg Kit Sig: One (1)  Subcutaneous twice per week.
+
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Lithium toxicity
+Acute Kidney Injury
+Insulin Dependent Diabetes Mellitus
+Psoriatic Arthritis
+Thyroid Cancer s/p resection and radioactive iodine
+Hypothyroidism
+Bipolar Disorder
+Anxiety Disorder
+Asthma
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Dear Ms. [**Known lastname 1806**],
+
+It was a pleasure treating you during your hospitalization. You
+were admitted to [**Hospital1 18**] with Lithium toxicity and Acute Kidney
+Injury. It is believed that because of your nasal cellulitis you
+became dehydrated which affected your kidneys ability to clear
+Lithium. The [**Hospital1 **] antibiotic you took for cellulitis may have
+also caused some kidney injury which may have increased your
+Lithium level as well. Dehydration, kidney injury and increasing
+Lithium levels in your blood caused your altered mental status,
+difficulty finding words and unsteady walking. You were treated
+with aggressive hydration and stopping Lithium. You were
+observed and as your Lithium levels fell to normal range you
+became more alert and mentally clear. You are being discharged
+in stable condition with a normal Lithium level.
+
+The following changes to your medications were made:
+- You can begin taking your Lithium again tomorrow [**8-6**] at your
+regular home dose
+- You should avoid taking [**Month/Year (2) **] again in the future because it
+may have increased Lithium levels on your body
+- Please do not take your [**Month/Year (2) 21177**] until you see your
+outpatient physician. [**Name10 (NameIs) **] can elevate Lithium levels.
+- No other changes to your medications were made, please
+continue taking your home medications as prescribed
+- It is very important that you see your primary doctor [**First Name (Titles) **] [**Last Name (Titles) **]e. You have been scheduled appointments with Dr.
+[**Last Name (STitle) 14973**] and Dr. [**Last Name (STitle) 67006**].
+
+Followup Instructions:
+Department: [**Hospital **] MEDICAL GROUP
+When: THURSDAY [**2148-8-8**] at 1:15 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 103821**], MD [**Telephone/Fax (1) 133**]
+Building: [**Street Address(2) 3375**] ([**Location (un) **], MA) [**Location (un) 858**]
+Campus: OFF CAMPUS     Best Parking: On Street Parking
+** This is a follow up appointment of your hospitalization. You
+will be reconnected with your primary care physician after this
+visit.
+
+Name: [**Last Name (LF) **],[**First Name7 (NamePattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+Address: 57 [**Location (un) **] TERRACE, [**Location (un) **],[**Numeric Identifier 103822**]
+Phone: [**Telephone/Fax (1) 103823**]
+Appointment: Thursday [**2148-8-15**] 12:00pm
+
+Department: [**Hospital **] MEDICAL GROUP
+When: TUESDAY [**2148-9-3**] at 10:45 AM
+With: [**First Name11 (Name Pattern1) 132**] [**Last Name (NamePattern4) **], MD [**Telephone/Fax (1) 133**]
+Building: [**Street Address(2) 3375**] ([**Location (un) **], MA) [**Location (un) 858**]
+Campus: OFF CAMPUS     Best Parking: On Street Parking
+
+Department: RADIOLOGY
+When: TUESDAY [**2148-9-17**] at 9:30 AM [**Telephone/Fax (1) 327**]
+Building: Gz [**Hospital Ward Name 2104**] Building ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) 3202**]
+Campus: EAST     Best Parking: Main Garage
+
+
+

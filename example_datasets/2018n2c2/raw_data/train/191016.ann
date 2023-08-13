@@ -1,0 +1,112 @@
+T1	Drug 164 175	Penicillins
+T2	ADE 2663 2677	upper GI bleed
+R1	ADE-Drug Arg1:T2 Arg2:T3
+T3	Drug 2733 2739	NSAIDs
+T4	Reason 2748 2762	abdominal pain
+R2	Reason-Drug Arg1:T4 Arg2:T3
+T5	Strength 2912 2919	2 units
+R3	Strength-Drug Arg1:T5 Arg2:T6
+T6	Drug 2923 2945	packed red blood cells
+T7	ADE 4758 4772	upper GI bleed
+R4	ADE-Drug Arg1:T7 Arg2:T8
+T8	Drug 4796 4801	NSAID
+T9	Drug 5390 5395	NSAID
+T10	Drug 5428 5440	Pantoprazole
+T11	Strength 5441 5446	40 mg
+R5	Strength-Drug Arg1:T11 Arg2:T10
+T12	Route 5447 5449	PO
+R6	Route-Drug Arg1:T12 Arg2:T10
+T13	Frequency 5450 5454	Q12H
+R7	Frequency-Drug Arg1:T13 Arg2:T10
+T14	Drug 5459 5471	pantoprazole
+T15	Strength 5472 5477	40 mg
+R8	Strength-Drug Arg1:T15 Arg2:T14
+T16	Dosage 5478 5479	1
+R9	Dosage-Drug Arg1:T16 Arg2:T14
+T17	Form 5480 5486	tablet
+R10	Form-Drug Arg1:T17 Arg2:T14
+T18	Route 5490 5498	by mouth
+R11	Route-Drug Arg1:T18 Arg2:T14
+T19	Frequency 5499 5508	q12 hours
+R12	Frequency-Drug Arg1:T19 Arg2:T14
+T20	Drug 5540 5553	HYDROmorphone
+T21	Drug 5555 5563	Dilaudid
+T22	Strength 5565 5569	2 mg
+R13	Strength-Drug Arg1:T22 Arg2:T21
+R14	Strength-Drug Arg1:T22 Arg2:T20
+T23	Route 5570 5572	PO
+R15	Route-Drug Arg1:T23 Arg2:T21
+R16	Route-Drug Arg1:T23 Arg2:T20
+T24	Frequency 5573 5580	Q4H:PRN
+R17	Frequency-Drug Arg1:T24 Arg2:T21
+R18	Frequency-Drug Arg1:T24 Arg2:T20
+T25	Reason 5581 5585	Pain
+R19	Reason-Drug Arg1:T25 Arg2:T21
+R20	Reason-Drug Arg1:T25 Arg2:T20
+T26	Drug 5590 5603	hydromorphone
+T27	Drug 5605 5613	Dilaudid
+T28	Strength 5615 5619	2 mg
+R21	Strength-Drug Arg1:T28 Arg2:T27
+R22	Strength-Drug Arg1:T28 Arg2:T26
+T29	Form 5631 5637	tablet
+R23	Form-Drug Arg1:T29 Arg2:T27
+R24	Form-Drug Arg1:T29 Arg2:T26
+T30	Route 5641 5649	by mouth
+R25	Route-Drug Arg1:T30 Arg2:T27
+R26	Route-Drug Arg1:T30 Arg2:T26
+T31	Frequency 5650 5655;5656 5665	q 4-6 hours PRN
+R27	Frequency-Drug Arg1:T31 Arg2:T26
+R28	Frequency-Drug Arg1:T31 Arg2:T27
+T32	Drug 5697 5712	Docusate Sodium
+T33	Strength 5713 5719	100 mg
+R29	Strength-Drug Arg1:T33 Arg2:T32
+T34	Route 5720 5722	PO
+R30	Route-Drug Arg1:T34 Arg2:T32
+T35	Frequency 5723 5726	BID
+R31	Frequency-Drug Arg1:T35 Arg2:T32
+T36	Drug 5731 5746	docusate sodium
+T37	Strength 5747 5753	100 mg
+R32	Strength-Drug Arg1:T37 Arg2:T36
+T38	Dosage 5754 5755	1
+R33	Dosage-Drug Arg1:T38 Arg2:T36
+T39	Form 5756 5763	capsule
+R34	Form-Drug Arg1:T39 Arg2:T36
+T40	Route 5767 5775	by mouth
+R35	Route-Drug Arg1:T40 Arg2:T36
+T41	Frequency 5793 5796	PRN
+R36	Frequency-Drug Arg1:T41 Arg2:T36
+T42	Drug 6499 6509	omeprazole
+T43	Dosage 6510 6511	2
+R37	Dosage-Drug Arg1:T43 Arg2:T42
+T44	Strength 6519 6524	20 mg
+R38	Strength-Drug Arg1:T44 Arg2:T42
+T45	Form 6525 6532	tablets
+R39	Form-Drug Arg1:T45 Arg2:T42
+T46	Frequency 6533 6544	twice a day
+R40	Frequency-Drug Arg1:T46 Arg2:T42
+T47	ADE 6556 6590	stomach and small intestine ulcers
+R42	ADE-Drug Arg1:T47 Arg2:T49
+T48	Drug 6639 6644	advil
+T49	Drug 6646 6655	ibuprofen
+T50	Dosage 6888 6889	2
+T51	Strength 6897 6902	20 mg
+T52	Form 6903 6910	tablets
+T53	Frequency 6911 6922	twice a day
+T54	Reason 693 713;714 718	right upper quadrant pain
+R44	Reason-Drug Arg1:T54 Arg2:T60
+T55	Drug 6944 6953	ibuprofen
+T56	Drug 6955 6960	advil
+T57	Drug 6963 6970	aspirin
+T58	Drug 6978 6985;6986 7005	aspirin containing products
+T59	Drug 7211 7235	narcotic pain medication
+T60	Drug 812 817	advil
+T61	Dosage 843 848	three
+R45	Dosage-Drug Arg1:T61 Arg2:T60
+T62	Form 849 854	pills
+R46	Form-Drug Arg1:T62 Arg2:T60
+T63	Frequency 870 880	once a day
+R47	Frequency-Drug Arg1:T63 Arg2:T60
+R41	Dosage-Drug Arg1:T50 Arg2:T42	
+R48	Strength-Drug Arg1:T51 Arg2:T42	
+R49	Form-Drug Arg1:T52 Arg2:T42	
+R50	Frequency-Drug Arg1:T53 Arg2:T42	

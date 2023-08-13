@@ -1,0 +1,235 @@
+T1	Drug 112 122	Quinolones
+T4	Drug 1135 1139	RBCs
+T5	Drug 1294 1297	PPI
+T8	Drug 3314 3317	RBC
+T9	Drug 3527 3530	PPI
+T10	Drug 3590 3593	ASA
+T11	Reason 3602 3608	stroke
+R5	Reason-Drug Arg1:T11 Arg2:T10
+T12	Drug 4279 4282	D5W
+T13	Reason 4291 4304	hypernatremia
+R6	Reason-Drug Arg1:T13 Arg2:T12
+T14	Drug 4564 4575	simvastatin
+T15	Reason 4594 4600	stroke
+R7	Reason-Drug Arg1:T15 Arg2:T16
+T16	Drug 4667 4673	Keppra
+T17	Drug 4690 4693	ASA
+T19	Drug 4810 4817	Norvasc
+T20	Reason 5016 5024	glaucoma
+R8	Reason-Drug Arg1:T20 Arg2:T21
+R9	Reason-Drug Arg1:T20 Arg2:T22
+R10	Reason-Drug Arg1:T20 Arg2:T25
+T21	Drug 5047 5058	levobunolol
+T22	Drug 5074 5081	xalatan
+T23	Route 5082 5085	eye
+R11	Route-Drug Arg1:T23 Arg2:T22
+T24	Form 5086 5091	drops
+R12	Form-Drug Arg1:T24 Arg2:T22
+T25	Drug 5103 5111	travatan
+T26	Drug 5327 5330	ASA
+T27	Strength 5331 5336	325mg
+R13	Strength-Drug Arg1:T27 Arg2:T26
+T28	Frequency 5337 5342	daily
+R14	Frequency-Drug Arg1:T28 Arg2:T26
+T29	Drug 5343 5349	Keppra
+T30	Strength 5350 5355	500mg
+R15	Strength-Drug Arg1:T30 Arg2:T29
+T31	Drug 5373 5384	Simvastatin
+T32	Strength 5385 5389	20mg
+R16	Strength-Drug Arg1:T32 Arg2:T31
+T33	Frequency 5390 5393	QHS
+R17	Frequency-Drug Arg1:T33 Arg2:T31
+T34	Drug 5394 5401	Norvasc
+T35	Strength 5402 5407	2.5mg
+R18	Strength-Drug Arg1:T35 Arg2:T34
+T36	Frequency 5408 5411	QHS
+R19	Frequency-Drug Arg1:T36 Arg2:T34
+T37	Drug 5412 5421	Risperdal
+T38	Strength 5422 5428	0.25mg
+R20	Strength-Drug Arg1:T38 Arg2:T37
+T39	Frequency 5429 5432	QHS
+R21	Frequency-Drug Arg1:T39 Arg2:T37
+T40	Drug 5472 5477	Lasix
+T41	Strength 5478 5482	20mg
+R22	Strength-Drug Arg1:T41 Arg2:T40
+T42	Route 5483 5485	PO
+R23	Route-Drug Arg1:T42 Arg2:T40
+T43	Frequency 5486 5491	daily
+R24	Frequency-Drug Arg1:T43 Arg2:T40
+T44	Drug 5492 5507	Calcium + Vit D
+T45	Strength 5508 5519	500mg/200IU
+R25	Strength-Drug Arg1:T45 Arg2:T44
+T46	Drug 5537 5543	Colace
+T47	Drug 5544 5549	Senna
+T48	Drug 5550 5558	Dulcolax
+T49	Drug 5559 5567	Travatan
+T50	Route 5568 5571	eye
+R26	Route-Drug Arg1:T50 Arg2:T49
+T51	Form 5572 5575	gtt
+R27	Form-Drug Arg1:T51 Arg2:T49
+T52	Route 5576 5578	OU
+R28	Route-Drug Arg1:T52 Arg2:T49
+T53	Frequency 5579 5582	QHS
+R29	Frequency-Drug Arg1:T53 Arg2:T49
+T54	Drug 5583 5594	Levobunolol
+T55	Strength 5595 5598	0.5
+R30	Strength-Drug Arg1:T55 Arg2:T54
+T56	Route 5600 5603	eye
+R31	Route-Drug Arg1:T56 Arg2:T54
+T57	Form 5604 5607	gtt
+R32	Form-Drug Arg1:T57 Arg2:T54
+T58	Route 5608 5610	OU
+R33	Route-Drug Arg1:T58 Arg2:T54
+T59	Frequency 5611 5614	QHS
+R34	Frequency-Drug Arg1:T59 Arg2:T54
+T60	Drug 5642 5653	Simvastatin
+T61	Strength 5654 5659	10 mg
+R35	Strength-Drug Arg1:T61 Arg2:T60
+T62	Form 5660 5666	Tablet
+R36	Form-Drug Arg1:T62 Arg2:T60
+T63	Dosage 5672 5675;5676 5679	Two (2)
+R37	Dosage-Drug Arg1:T63 Arg2:T60
+T64	Form 5680 5686	Tablet
+R38	Form-Drug Arg1:T64 Arg2:T60
+T65	Route 5687 5689	PO
+R39	Route-Drug Arg1:T65 Arg2:T60
+T66	Frequency 5690 5692	HS
+R40	Frequency-Drug Arg1:T66 Arg2:T60
+T67	Drug 5710 5721	Levobunolol
+T68	Strength 5722 5725	0.5 
+R41	Strength-Drug Arg1:T68 Arg2:T67
+T69	Form 5728 5733	Drops
+R42	Form-Drug Arg1:T69 Arg2:T67
+T70	Dosage 5739 5742;5743 5746	One (1)
+R43	Dosage-Drug Arg1:T70 Arg2:T67
+T71	Form 5747 5751	Drop
+R44	Form-Drug Arg1:T71 Arg2:T67
+T72	Route 5752 5762	Ophthalmic
+R45	Route-Drug Arg1:T72 Arg2:T67
+T73	Frequency 5763 5765	HS
+R46	Frequency-Drug Arg1:T73 Arg2:T67
+T74	Drug 5783 5794	Latanoprost
+T75	Strength 5795 5800	0.005 
+R47	Strength-Drug Arg1:T75 Arg2:T74
+T76	Form 5803 5808	Drops
+R48	Form-Drug Arg1:T76 Arg2:T74
+T77	Dosage 5814 5817;5818 5821	One (1)
+R49	Dosage-Drug Arg1:T77 Arg2:T74
+T78	Form 5822 5826	Drop
+R50	Form-Drug Arg1:T78 Arg2:T74
+T79	Route 5827 5837	Ophthalmic
+R51	Route-Drug Arg1:T79 Arg2:T74
+T80	Frequency 5838 5840	HS
+R52	Frequency-Drug Arg1:T80 Arg2:T74
+T81	Drug 5858 5873	Ferrous Sulfate
+T82	Strength 5874 5880	325 mg
+R53	Strength-Drug Arg1:T82 Arg2:T81
+T83	Form 5894 5900	Tablet
+R54	Form-Drug Arg1:T83 Arg2:T81
+T84	Dosage 5906 5909;5910 5913	One (1)
+R55	Dosage-Drug Arg1:T84 Arg2:T81
+T85	Form 5914 5920	Tablet
+R56	Form-Drug Arg1:T85 Arg2:T81
+T86	Route 5921 5923	PO
+R57	Route-Drug Arg1:T86 Arg2:T81
+T87	Frequency 5924 5929;5930 5937	DAILY (Daily)
+R58	Frequency-Drug Arg1:T87 Arg2:T81
+T88	Drug 5942 5954	Pantoprazole
+T89	Strength 5955 5960	40 mg
+R59	Strength-Drug Arg1:T89 Arg2:T88
+T91	Dosage 5997 6000;6001 6004	One (1)
+R61	Dosage-Drug Arg1:T91 Arg2:T88
+T92	Form 6005 6028;6029 6035	Tablet, Delayed Release (E.C.)
+R62	Form-Drug Arg1:T92 Arg2:T88
+T93	Route 6036 6038	PO
+R63	Route-Drug Arg1:T93 Arg2:T88
+T94	Frequency 6039 6043;6044 6060	Q12H (every 12 hours)
+R64	Frequency-Drug Arg1:T94 Arg2:T88
+T95	Drug 6065 6070	Senna
+T96	Strength 6071 6077	8.6 mg
+R65	Strength-Drug Arg1:T96 Arg2:T95
+T97	Form 6078 6084	Tablet
+R66	Form-Drug Arg1:T97 Arg2:T95
+T98	Dosage 6090 6093;6094 6097	One (1)
+R67	Dosage-Drug Arg1:T98 Arg2:T95
+T99	Form 6098 6104	Tablet
+R68	Form-Drug Arg1:T99 Arg2:T95
+T100	Route 6105 6107	PO
+R69	Route-Drug Arg1:T100 Arg2:T95
+T101	Frequency 6108 6119	twice a day
+R70	Frequency-Drug Arg1:T101 Arg2:T95
+T102	Drug 6134 6140	Colace
+T103	Strength 6141 6147	100 mg
+R71	Strength-Drug Arg1:T103 Arg2:T102
+T104	Form 6148 6155	Capsule
+R72	Form-Drug Arg1:T104 Arg2:T102
+T105	Dosage 6161 6164;6165 6168	One (1)
+R73	Dosage-Drug Arg1:T105 Arg2:T102
+T106	Form 6169 6176	Capsule
+R74	Form-Drug Arg1:T106 Arg2:T102
+T107	Route 6177 6179	PO
+R75	Route-Drug Arg1:T107 Arg2:T102
+T108	Frequency 6180 6191	twice a day
+R76	Frequency-Drug Arg1:T108 Arg2:T102
+T109	Drug 6206 6219	Levetiracetam
+T110	Strength 6220 6226	500 mg
+R77	Strength-Drug Arg1:T110 Arg2:T109
+T111	Form 6227 6233	Tablet
+R78	Form-Drug Arg1:T111 Arg2:T109
+T112	Dosage 6239 6242;6243 6246	One (1)
+R79	Dosage-Drug Arg1:T112 Arg2:T109
+T113	Form 6247 6253	Tablet
+R80	Form-Drug Arg1:T113 Arg2:T109
+T114	Route 6254 6256	PO
+R81	Route-Drug Arg1:T114 Arg2:T109
+T115	Frequency 6257 6260	BID
+R82	Frequency-Drug Arg1:T115 Arg2:T109
+T116	Drug 6281 6291	Lisinopril
+T117	Strength 6292 6298	2.5 mg
+R83	Strength-Drug Arg1:T117 Arg2:T116
+T118	Form 6299 6305	Tablet
+R84	Form-Drug Arg1:T118 Arg2:T116
+T119	Dosage 6311 6314;6315 6318	One (1)
+R85	Dosage-Drug Arg1:T119 Arg2:T116
+T120	Form 6319 6325	Tablet
+R86	Form-Drug Arg1:T120 Arg2:T116
+T121	Route 6326 6328	PO
+R87	Route-Drug Arg1:T121 Arg2:T116
+T122	Frequency 6329 6339	once a day
+R88	Frequency-Drug Arg1:T122 Arg2:T116
+T123	Drug 6454 6459	Lasix
+T124	Strength 6460 6465	20 mg
+R89	Strength-Drug Arg1:T124 Arg2:T123
+T125	Form 6466 6472	Tablet
+R90	Form-Drug Arg1:T125 Arg2:T123
+T126	Dosage 6478 6481;6482 6485	One (1)
+R91	Dosage-Drug Arg1:T126 Arg2:T123
+T127	Form 6486 6492	Tablet
+R92	Form-Drug Arg1:T127 Arg2:T123
+T128	Route 6493 6495	PO
+R93	Route-Drug Arg1:T128 Arg2:T123
+T129	Frequency 6496 6506	once a day
+R94	Frequency-Drug Arg1:T129 Arg2:T123
+T130	Reason 6861 6874	Hypernatremia
+R95	Reason-Drug Arg1:T130 Arg2:T132
+T132	Drug 6939 6945	fluids
+T3	Strength 5882 5887	65 mg
+T7	Drug 5888 5892	Iron
+R2	Strength-Drug Arg1:T3 Arg2:T7	
+T18	Form 5961 5991	Tablet, Delayed Release (E.C.)
+R4	Form-Drug Arg1:T18 Arg2:T88	
+T90	Drug 7298 7303	blood
+T133	Route 7304 7315	transfusion
+T134	Dosage 7287 7294	2 units
+R60	Dosage-Drug Arg1:T134 Arg2:T90	
+R97	Route-Drug Arg1:T133 Arg2:T90	
+T135	Reason 7221 7251	acute drop in your blood count
+R98	Reason-Drug Arg1:T135 Arg2:T90	
+T2	Dosage 1133 1135	2u
+R1	Dosage-Drug Arg1:T2 Arg2:T4	
+T6	Dosage 3311 3313	2u
+R3	Dosage-Drug Arg1:T6 Arg2:T8	
+T131	Route 6936 6938	IV
+R96	Route-Drug Arg1:T131 Arg2:T132	
+T136	Reason 5002 5011	cataracts
+R99	Reason-Drug Arg1:T136 Arg2:T21	

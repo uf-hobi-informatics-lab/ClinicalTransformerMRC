@@ -1,0 +1,50 @@
+T1	Drug 960 968	dilantin
+T2	Drug 6592 6602	lisinopril
+T3	Drug 648 658	vancomycin
+T4	Drug 6604 6609	Imdur
+T5	Drug 664 673	oxacillin
+T6	Drug 6611 6621	Metoprolol
+T7	Drug 6623 6630	Lipitor
+T8	Drug 163 174	Doxycycline
+T9	Drug 6632 6640	Protonix
+T10	Drug 6573 6579	Plavix
+T11	Drug 1160 1169	cefazolin
+T12	Drug 6642 6651	Neurontin
+T13	Drug 6451 6458	Insulin
+T14	Drug 6581 6590	oxycontin
+T15	Drug 6460 6467	glucose
+T16	Drug 6653 6663	Amiodarone
+T17	Reason 1301 1304	PNA
+T18	Reason 5844 5855	hypotension
+T19	Reason 6348 6359	hypotension
+T20	Reason 6418 6430	hyperkalemia
+T21	Reason 901 911	TC seizure
+T22	Drug 1091 1096	Vit K
+T24	Reason 1035 1048	incr INR to 4
+T25	Drug 1289 1291	ox
+T26	Drug 1276 1281	vanco
+T27	Drug 1282 1286	ceft
+T28	Drug 1292 1296	ceft
+T29	Drug 5783 5788	Vanco
+T30	Drug 5789 5792	CTX
+T31	Drug 5798 5802	Gent
+T32	Reason 5689 5701	Septic shock
+T33	Drug 5824 5831	pressor
+T34	Drug 6340 6343	IVF
+T35	Drug 6443 6449	Bicarb
+R1	Reason-Drug Arg1:T21 Arg2:T1
+R3	Reason-Drug Arg1:T24 Arg2:T22
+R4	Reason-Drug Arg1:T17 Arg2:T25
+R5	Reason-Drug Arg1:T17 Arg2:T28
+R6	Reason-Drug Arg1:T32 Arg2:T31
+R7	Reason-Drug Arg1:T32 Arg2:T30
+R8	Reason-Drug Arg1:T32 Arg2:T29
+R9	Reason-Drug Arg1:T18 Arg2:T33
+R10	Reason-Drug Arg1:T19 Arg2:T34
+R11	Reason-Drug Arg1:T20 Arg2:T35
+R12	Reason-Drug Arg1:T20 Arg2:T13
+R13	Reason-Drug Arg1:T20 Arg2:T15
+T36	Reason 625 629	MSSA
+T37	Drug 6327 6335	pressors
+R14	Reason-Drug Arg1:T36 Arg2:T3	
+R15	Reason-Drug Arg1:T36 Arg2:T5	

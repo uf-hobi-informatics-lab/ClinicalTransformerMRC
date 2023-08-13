@@ -1,0 +1,388 @@
+Admission Date:  [**2140-12-10**]              Discharge Date:   [**2140-12-25**]
+
+Date of Birth:  [**2074-10-5**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Lisinopril / Diovan / Metformin / Integrilin
+
+Attending:[**First Name3 (LF) 1406**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+Redo sternotomy/Coronary artery bypass grafting x3 with reverse
+    saphenous vein grafts to the second branch of the
+    posterior left ventricular branch, obtuse marginal
+    artery, and left anterior descending artery.
+
+
+History of Present Illness:
+66yoM with significant CAD s/p CABG ([**2125**]), DES to SVG-D1/OM x2
+([**2135**], [**2138**]) who presents with chest pain.The patient has a
+significant cardiac history with CABG (LIMA-LAD, SVG-D1/OM,
+SVT-PDA) and DES to ostial SVG-D1/OM, proximal SVG-D1/OM, PCI
+with DES to ostial SVG-D1/OM and DES to proximal SVG-D1/OM.  He
+has been on Plavix 75 mg daily and full dose Aspirin.  However,
+on Tuesday, 10 days prior to presentation, the patient underwent
+a lithotripsy for kidney stones with placement of a ureteral
+stent and foley bag and his Plavix was held.  He is currently 10
+days off Plavix with his cardiologist and urologist both aware.
+.
+The patient reports his current symptoms began this morning when
+he developed sudden onset, dull, substernal chest pain while
+walking at a leisurely pace at an automobile dealership.  The
+pain was associated with diaphoresis, and subsequently developed
+nausea while being transported to the [**Hospital1 18**] ED.  His symptoms
+were noted to be different than his prior anginal symptoms of
+epigastric pain.  He presented to a fire station where they gave
+him full dose aspirin and transported him to the [**Hospital1 18**] ED.  The
+patient reports he began developing radiating left arm pain and
+precordial pain when he reached the ED.
+Cardiology was consulted and recommended Heparin gtt, Plavix
+load, and Nitro gtt titrated to pain. Cardiac surgery was
+consulted for evaluation of coronary artery revascularization.
+
+Past Medical History:
+- Dyslipidemia
+- Hypertension
+- Diabetes
+- CABG:  [**2125**] (SVG to D1/OM, SVG to PDA, LIMA to LAD)
+- PERCUTANEOUS CORONARY INTERVENTIONS:  DES to proximal
+SVG-D1/OM graft in [**2135**], DES to ostial SVG-D1-OM [**7-/2139**]
+- Kidney stones s/p lithotripsy [**11/2140**]
+- Current torn ACL
+- GERD
+- s/p Appendectomy
+- Basal cell ca
+- s/p Hernia repair
+
+Social History:
+-Tobacco history:  No prior history of smoking.
+-ETOH:  Denies.
+-Illicit drugs:  Denies.
+Married with 11 children, 6 of which are [**Doctor Last Name **]. Works for
+[**Company 2676**] as the mananger of investigations, former special [**Doctor Last Name 360**]
+for the government.  Active on a daily basis, going to the gym 5
+days a week with consistent cardiovascular exercise and no
+anginal symptoms on exertion.
+
+Family History:
+Father CABG in his 50s
+
+Physical Exam:
+Admission Physical Exam
+VS: T=    BP= 120/82    HR=72    R=    PO2= 96-99% 2L NC
+GENERAL: Alert, interactive, NAD.  Mood, affect appropriate.
+HEENT: Sclera anicteric. Pupils equal and round. MMM, oropharynx
+clear. No xanthalesma.
+NECK: Supple with JVP of ~9cm.
+CARDIAC: RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3
+or S4.
+LUNGS: Large A-P diameter.  No chest wall deformities, scoliosis
+or kyphosis. Resp were unlabored, no accessory muscle use.
+Minimal crackles at bases b/l, no wheezes or rhonchi.
+ABDOMEN: Soft, ND, minmal discomfort in LLQ without rebound or
+guarding, +BS. No abdominial bruits.
+EXTREMITIES: No c/c, chronic R>L non-pitting LE edema.  WWP.  2+
+DP pulses b/l.  Foley bag in place with dark red urine.
+
+
+Pertinent Results:
+[**2140-12-11**] 08:01AM:  (Peak CK, MB)
+CK: 691  MB: 77  Trop-T: 0.86
+
+[**2140-12-10**] 05:00PM
+CK 72  MB 8  Trop-T: 0.01
+
+EKG ([**12-11**]):  NSR, normal axis.  Dynamic ST depressions in
+inferior and precordial leads, more pronounced with increasing
+HR on seria EKGs in the ED.
+.
+Cardiac Catheterization ([**12-13**]):
+COMMENTS:
+1. Selective coronary angiography of this right-dominant system
+demonstrated native three vessel CAD. The LMCA had no
+angiographically-apparent lesions. The LAD was occluded
+proximally, and
+had a 90% stenosis just distal to the LIMA-LAD touchdown. The
+LCX was
+occluded in the mid-vessel segment with faint collaterals to the
+OMB.
+The dominant RCA was occluded in the proximal vessel segment.
+2. Selective arterial conduit angiography revealed a patent
+LIMA-LAD.
+There was 90% stenosis in the native LAD just distal to the
+LIMA-LAD
+anastamosis.
+3. Selective venous conduit angiography revealed a totally
+occluded
+SVG-D1/OM1 graft at the proximal segment of ostial stent. The
+SVG-PDA
+graft was patent to the RCA, but had a 90% retrograde stenosis
+to the
+PLSA/PLB.
+4. Limited resting hemodynamics revealed normal systemic
+arterial
+pressures with a measured central aortic pressure of 106/64/79.
+5. Left ventriculography was deferred.
+
+FINAL DIAGNOSIS:
+1. Native three vessel CAD.
+2. Patent LIMA-LAD graft with progression of native distal LAD
+disease.
+3. Totally occluded SVG-D1-OMB graft.
+4. Patent SVG-PDA graft with progression of disease in the
+ostium of the
+PDA that fills retrograde into the PLSA and posterolateral
+branches.
+5. Consideration of PCI vs. redo CABG.
+.
+.
+Chest CT ([**12-15**]):
+IMPRESSION:
+1. Post-CABG changes and scattered areas of calcified
+atherosclerotic disease in the aortic arch and aortic
+valve/annulus but none in the ascending aorta.
+2. Subtle ground-glass opacities in the right upper and right
+lower lobes,
+possibly representing areas of aspiration.
+3. A 3-mm right lower lobe nodule; given the patient's history,
+a one-year
+followup CT is recommended to document stability.
+
+CXR: [**2140-12-24**]: PA and lateral chest compared to [**12-21**]
+through 29:
+The already improved post-operative widening of the
+cardiomediastinal
+silhouette is stable. Moderate right pleural effusion and
+moderately severe right basal atelectasis are unchanged, but
+previous left lower lobe
+atelectasis and left pleural effusion are improved. There is no
+pulmonary
+edema or pneumothorax
+
+[**2140-12-25**] WBC-12.6* RBC-3.63* Hgb-10.9* Hct-32.4* MCV-89 MCH-30.0
+MCHC-33.6 RDW-13.5 Plt Ct-408
+[**2140-12-24**] WBC-13.7* RBC-3.58* Hgb-10.9* Hct-31.4* MCV-88 MCH-30.4
+MCHC-34.7 RDW-13.6 Plt Ct-379#
+[**2140-12-10**] WBC-11.6*# RBC-4.55* Hgb-13.5* Hct-40.2 MCV-88 MCH-29.7
+MCHC-33.6 RDW-12.9 Plt Ct-205
+
+[**2140-12-25**] Glucose-147* UreaN-27* Creat-1.2 Na-138 K-3.5 Cl-94*
+HCO3-35*
+[**2140-12-24**] Na-138 K-4.2 Cl-97
+[**2140-12-24**] UreaN-23* Creat-1.1 Na-138 K-3.4 Cl-95* HCO3-32
+[**2140-12-23**] Glucose-158* UreaN-19 Creat-1.2 Na-138 K-2.9* Cl-97
+HCO3-32
+[**2140-12-10**] Glucose-204* UreaN-16 Creat-1.1 Na-138 K-3.9 Cl-102
+HCO3-25
+
+Micro: [**2140-12-24**] URINE FINAL REPORT [**2140-12-25**]  URINE CULTURE
+(Final [**2140-12-25**]): YEAST.    10,000-100,000 ORGANISMS/ML..
+
+
+Brief Hospital Course:
+66yoM with significant CAD s/p CABG ([**2125**]), DES to SVG-D1/OM x2
+([**2135**], [**2138**]) who presents with chest pain and dynamic EKG
+changes, found to have SVG graft, PDA, LAD stenosis needing
+intervention.
+
+# Chest Pain/CORONARIES:  Patient with CABG and DES to SVG-D1/OM
+x2 most recently in [**2138**] now presenting with chest pain and
+dynamic EKG changes in the inferior and precordial leads.  The
+patient's symptoms occurred subsequent to discontinuing Plavix
+10 days ago for a lithotripsy.  Initial set of CE's were
+negative but subsequent up-trended with CK peak 691 and MB peak
+77.  He was on a Heparin gtt and was plavix loaded, and his
+chest pain was controlled on a Nitro gtt prior to cardiac
+catheterization.  Integrillin gtt and Morphine IV prn were
+started prior to catheterization for recurrent chest pain
+refractory to up-titration of Nitro gtt.  Cardiac
+catheterization [**12-13**] showed completely occluded SVG-D1/OM, 90%
+stenosis of SVG-PDA, known 90% LAD stenosis just distal to
+touchdown.  He was recommended for CABG-redo and was continued
+on Heparin gtt and Integrillin gtt post-cath with the plan of
+continuing through until CABG-redo.  Plavix was discontinued at
+that time.  The patient had an acute drop in his platelets
+(described below) and Integrillin gtt was discontinued.  Shortly
+thereafter, he had a presyncopal episode on [**12-16**] during which
+he stood up, became pale, lightheaded, and developed mild left
+sided chest pain.  Vitals were stable but EKG showed new ST
+depressions in two leads, CE's negative.  He was transfused 1
+unit PRBC for anemia (had previously refused transfusion) with
+resolution of symptoms but persistent ST depressions on EKG.
+Heparin gtt was discontinued but 5-H risk score for HIT was low
+and HIT Ab was negative.  The patient remained chest pain free
+until CABG-redo on Tue.
+
+#. Thrombocytopenia:  Patient developed severe
+thrombocytopenia,secondary to Integrillin.  Although the
+patient's thrombocytopenia occurred later than expected for
+integrillin-induced thrombocytopenia, the precipitous drop and
+extended period of time he was on integrillin both support this
+as the most likely etiology. Plt dropped from 150->10 in 24 hrs.
+Integrillin drip was stopped at 2pm on [**12-15**] and he has been
+given a total of 3 units of platelets.  HIT Antibody was also
+sent which was negative.  5H HIT Risk Score was also low, making
+it less likely to be HIT.  However, Heparin gtt was discontinued
+in the setting of profound thrombocytopenia given the patient
+has been chest pain free.  In the setting of thrombocytopenia,
+he developed significant bleeding from around his foley catheter
+and recent lithotrypsy procedure, which was switched to a 3-way
+foley on CBI.  His hct has down-trended and he received a total
+of 1 unit PRBC on [**12-16**].  He was also given several platelet
+transfusions for the thrombocytopenia.  The anticipated platelet
+recovery with integrillin-induced thrombocytopenia is 4 hours to
+5 days, and the patient's platelets slowly up-trended and by
+[**12-19**] he was in the 100s.
+
+# Urine analysis:  Patient with large blood, significant
+leukocytes, protein on UA likely [**1-26**] recent lithotripsy and
+ureteral stent placement.  Foley leg bag in place, dark red
+urine in setting of Plavix, Heparin gtt, ASA 325.  Urology
+followed pt inhouse. Patient had significant bleeding from
+around the foley and it was replaced with a 3-way foley catheter
+on CBI.  Urology planned to remove ureteral stent and foley and
+following CABG.  Repeat UA suspicious for UTI, started Cipro
+[**12-15**].  Repeat UA today in setting of culture showing "probable"
+enterococcus previously in the setting of significant blood in
+urine and improved urine currently.  Repeat UA and UCx sent
+after bleeding hematuria improved. The patient was treated with
+Cipro 250 mg x7 days for complicated cysistits in male with
+recent urologic procedure. (d1=[**12-15**])
+
+On [**12-15**] Mr.[**Known lastname 1007**] was taken to the operating room and underwent
+Redo sternotomy/ Coronary artery bypass grafting x3 (reverse
+saphenous vein grafts to the second branch of the posterior left
+ventricular branch, obtuse marginal artery, and left anterior
+descending artery)with Dr.[**Last Name (STitle) **]. CROSSCLAMP TIME:65 minutes.PUMP
+TIME:  99 minutes. He tolerated the procedure well and was
+transferred to the CVICU intubated and sedated. He awoke
+neurologically intact and was extubated. Pressors were weaned
+off. All lines and drains were discontinued per protocol.
+Beta-blocker/Statin/Aspirin and diuresis initiated. POD#1 he
+transferred to the step down unit for further monitoring.
+Physical Therapy was consulted for evaluation of strength and
+mobility. As discussed with Urology, the foley catheter was
+discontinued per csurg protocol. The following morning he failed
+to void and the foley was reinserted. A second void trial was
+done on POD#4 and he voided. The remainder of his postoperative
+course was essentially uneventful. He continued to progress and
+on POD5 he was cleared for discharge to home with VNA. All
+follow up appointments were advised.
+
+
+Medications on Admission:
+- Aspirin 325 mg Daily
+- Hydrochlorothiazide 25 mg Daily
+- Clopidogrel 75 mg Daily (held x10 days PTA)
+- Verapamil 180 mg Sustained Release Daily
+- Atorvastatin 40 mg Daily
+- Tamsulosin 0.4 mg ER qhs
+- Claritin 10 mg Daily
+- Oxycodone-Acetaminophen 5-325 mg q4h prn torn ACL pain
+- Pyridium 100 mg tid prn pain
+- Colace
+
+Discharge Medications:
+1. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1)
+Capsule, Ext Release 24 hr PO HS (at bedtime).
+2. oxycodone-acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO every 4-6 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Claritin 10 mg Tablet Sig: One (1) Tablet PO once a day.
+5. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+6. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+7. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+Disp:*120 Tablet(s)* Refills:*2*
+9. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+10. spironolactone 25 mg Tablet Sig: One (1) Tablet PO once a
+day for 5 days.
+Disp:*7 Tablet(s)* Refills:*0*
+11. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain/temp.
+12. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+13. Outpatient Lab Work Electrolytes BUN/CRE, Mg
+Tuesday-Thursday
+14. fluconazole 200 mg Tablet Sig: One (1) Tablet PO once a day
+for 7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Last Name (LF) 486**], [**First Name3 (LF) 487**]
+
+Discharge Diagnosis:
+Coronary Artery disese s/p CABG
+Non-ST Elevation Myocardial Infarction
+Thrombocytopenia, likely secondary to Integrillin
+Bleeding around foley catheter
+Urinary tract infection
+
+Secondary:
+Hypertension, Hyperlipidemia, GERD
+Basal cell cancer, kidney stones s/p lithotripsy and ureteral
+stent, PCI to SVG->D1/OM [**5-/2136**] and PCI with stent for TO OSVG
+[**2139-8-7**], colon cancer s/p subtotal colectomy by Dr [**Last Name (STitle) **] 4 years
+ago
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on [**1-26**] at 1:00PM [**Last Name (un) 2577**] Building [**Last Name (NamePattern1) 10357**]
+
+Cardiologist: Dr. [**Last Name (STitle) **] in [**Location (un) 620**] on [**1-11**] at 9:45 AM
+
+Please call to schedule appointments with your
+
+Primary Care Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 838**] in [**3-30**] weeks
+
+Call Dr. [**Last Name (STitle) 770**] (urologist) for a follow-up appointment
+[**Telephone/Fax (1) 2906**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call
+person during off hours**
+
+
+
+
+Completed by:[**2140-12-25**]

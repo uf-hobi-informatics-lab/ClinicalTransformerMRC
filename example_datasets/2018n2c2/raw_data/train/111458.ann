@@ -1,0 +1,111 @@
+T1	Drug 10881 10889	coumadin
+T2	Drug 1284 1295	gemcitabine
+T3	Drug 10760 10768	coumadin
+T4	Strength 10769 10775	2.5 mg
+T5	Drug 10890 10899	synthroid
+T6	Drug 378 389	oxaliplatin
+T7	Drug 7956 7962	Xeloda
+T8	Strength 1565 1572;1572 1575	1000 mg /m2
+T9	Drug 1015 1024	potassium
+T10	Strength 1035 1041	60 mEq
+T12	Drug 10904 10913	compazine
+T13	Drug 367 373	Xeloda
+T14	Drug 8412 8422	octreotide
+T15	Drug 7967 7978	oxaliplatin
+T16	Drug 10652 10657	cipro
+T17	Drug 8301 8311	loperamide
+T18	Drug 10416 10424	coumadin
+T19	Drug 1503 1514	Oxaliplatin
+T20	Drug 1683 1691	Coumadin
+T21	Drug 10488 10497	vitamin K
+T22	Drug 8797 8805	levophed
+T24	Reason 8347 8363	profuse diarrhea
+T25	Reason 333 363	locally advanced pancreatic CA
+T26	Strength 1049 1055	40 mEq
+T27	Route 1056 1058	PO
+T28	Duration 1271 1280	31 cycles
+T29	Reason 1121 1155	Locally-advanced pancreatic cancer
+T30	Drug 1481 1486	XelOX
+T31	Strength 1515 1518;1519 1524	100 mg/m2
+T32	Frequency 1525 1538	every 21 days
+T33	Drug 1543 1564	capecitabice (Xeloda)
+T34	Duration 1593 1596;1597 1610	for 14 of 21 days
+T35	Reason 1636 1660	Cerebrovascular accident
+T36	Reason 7922 7952	locally advanced pancreatic CA
+T37	ADE 8028 8036	Diarrhea
+T38	Drug 8061 8073	chemotherapy
+T40	Drug 8147 8153	Fluids
+T41	Frequency 8155 8158	prn
+T42	Drug 8159 8170	antiemetics
+T43	Reason 8287 8295	diarrhea
+T44	Reason 8336 8342	nausea
+T45	Reason 8763 8777	Blood pressure
+T46	Drug 10480 10483	FFP
+T47	ADE 10345 10357	Coagulopathy
+T48	Reason 10345 10357	Coagulopathy
+T49	Reason 10503 10506	UTI
+T50	Frequency 10776 10781	daily
+T51	Strength 10900 10902	25
+T52	Frequency 10914 10917	PRN
+T53	Drug 10918 10921	MVI
+R1	Strength-Drug Arg1:T4 Arg2:T3
+R2	Strength-Drug Arg1:T10 Arg2:T9
+R4	Reason-Drug Arg1:T25 Arg2:T13
+R5	Reason-Drug Arg1:T25 Arg2:T6
+R6	Route-Drug Arg1:T27 Arg2:T9
+R7	Strength-Drug Arg1:T26 Arg2:T9
+R8	Duration-Drug Arg1:T28 Arg2:T2
+R9	Reason-Drug Arg1:T29 Arg2:T2
+R10	Frequency-Drug Arg1:T32 Arg2:T19
+R11	Strength-Drug Arg1:T31 Arg2:T19
+R12	Reason-Drug Arg1:T35 Arg2:T20
+R13	Reason-Drug Arg1:T36 Arg2:T15
+R14	Reason-Drug Arg1:T36 Arg2:T7
+R15	ADE-Drug Arg1:T37 Arg2:T38
+R16	Frequency-Drug Arg1:T41 Arg2:T42
+R18	Reason-Drug Arg1:T43 Arg2:T17
+R21	Reason-Drug Arg1:T44 Arg2:T14
+R22	Reason-Drug Arg1:T45 Arg2:T22
+R23	Reason-Drug Arg1:T48 Arg2:T21
+R24	Reason-Drug Arg1:T48 Arg2:T46
+R25	Reason-Drug Arg1:T49 Arg2:T16
+R26	Frequency-Drug Arg1:T50 Arg2:T3
+R27	Frequency-Drug Arg1:T52 Arg2:T12
+R28	Strength-Drug Arg1:T51 Arg2:T5
+T54	Form 8383 8391	tincture
+T55	Reason 9327 9335;9336 9360	to cover possible bowel pathogens
+T56	Drug 8180 8192	electrolytes
+T57	Frequency 8208 8211	prn
+T58	Drug 8690 8701	antibiotics
+T59	Reason 8427 8433	Sepsis
+T60	Drug 9274 9282	pressors
+T61	Drug 9301 9312	Antibiotics
+T62	Drug 10189 10201	Chemotherapy
+T63	Reason 10032 10045	Pancreatic CA
+T64	Duration 10632 10641	three day
+T65	Drug 10841 10853	chemotherapy
+T66	Reason 1025 1034	repletion
+T68	Drug 10001 10007	fluids
+T69	Reason 9923 9942	Acute renal failure
+R30	Reason-Drug Arg1:T69 Arg2:T68
+R31	Frequency-Drug Arg1:T57 Arg2:T56
+R32	Reason-Drug Arg1:T59 Arg2:T58
+R33	Reason-Drug Arg1:T55 Arg2:T61
+R34	Reason-Drug Arg1:T63 Arg2:T62
+T70	Drug 8395 8400	opium
+R35	Form-Drug Arg1:T54 Arg2:T70
+R19	Reason-Drug Arg1:T44 Arg2:T70	
+R20	Reason-Drug Arg1:T44 Arg2:T14	
+R36	Reason-Drug Arg1:T66 Arg2:T9	
+R37	Strength-Drug Arg1:T8 Arg2:T33	
+R38	Duration-Drug Arg1:T34 Arg2:T33	
+T23	Reason 8028 8036	Diarrhea
+R39	Reason-Drug Arg1:T23 Arg2:T40	
+R40	Reason-Drug Arg1:T24 Arg2:T14	
+R41	Duration-Drug Arg1:T64 Arg2:T16	
+T11	Route 1042 1044	IV
+R3	Route-Drug Arg1:T11 Arg2:T9	
+T39	Route 8144 8146	IV
+R17	Route-Drug Arg1:T39 Arg2:T40	
+T67	Route 9998 10000	IV
+R29	Route-Drug Arg1:T67 Arg2:T68	

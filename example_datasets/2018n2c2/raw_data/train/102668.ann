@@ -1,0 +1,146 @@
+T1	Reason 12130 12137	seizure
+R1	Reason-Drug Arg1:T1 Arg2:T2
+T2	Drug 12162 12170	dilantin
+T3	Drug 12971 12980	inotropes
+T4	Reason 13084 13101	cardiogenic shock
+R2	Reason-Drug Arg1:T4 Arg2:T5
+R3	Reason-Drug Arg1:T4 Arg2:T6
+T5	Drug 13218 13226	pressors
+T6	Drug 13575 13583	pressors
+T7	Drug 13599 13606	pressor
+T8	Drug 14935 14945	dobutamine
+T9	Reason 14950 14966	inotropic effect
+R4	Reason-Drug Arg1:T9 Arg2:T8
+T10	Drug 14981 14990	milranone
+T11	Strength 1502 1506	80mg
+R5	Strength-Drug Arg1:T11 Arg2:T15
+T12	Drug 15041 15046	lasix
+T13	Route 15047 15051	drip
+R6	Route-Drug Arg1:T13 Arg2:T12
+T15	Drug 1510 1515	lasix
+T16	Drug 15216 15226	Dobutamine
+T17	Route 15227 15231	drip
+R8	Route-Drug Arg1:T17 Arg2:T16
+T18	Reason 15258 15264	low CO
+R9	Reason-Drug Arg1:T18 Arg2:T16
+T19	Drug 15517 15524	heparin
+T20	Route 15525 15528	ggt
+R10	Route-Drug Arg1:T20 Arg2:T19
+T21	Drug 15801 15808	pressor
+T22	Strength 1592 1597	100mg
+R11	Strength-Drug Arg1:T22 Arg2:T24
+T24	Drug 1601 1606	lasix
+T25	Drug 1611 1621	metolazone
+T26	Drug 1626 1631	lasix
+T27	Drug 163 174	Penicillins
+T28	Route 1632 1635	gtt
+R13	Route-Drug Arg1:T28 Arg2:T26
+T29	Drug 16535 16547	atorvastatin
+T30	Reason 16656 16670	encephalopathy
+R14	Reason-Drug Arg1:T30 Arg2:T31
+T31	Drug 16675 16684	lactulose
+T32	Reason 17242 17244	DM
+R15	Reason-Drug Arg1:T32 Arg2:T33
+T33	Drug 17265 17272	insulin
+T34	Dosage 17273 17286	sliding scale
+R16	Dosage-Drug Arg1:T34 Arg2:T33
+T35	Strength 1764 1771	20mg/hr
+R17	Strength-Drug Arg1:T35 Arg2:T37
+T36	Drug 177 188	Optiray 350
+T37	Drug 1772 1777	lasix
+T38	Route 1778 1781	gtt
+R18	Route-Drug Arg1:T38 Arg2:T37
+T40	Drug 18373 18385	Atorvastatin
+T41	Strength 18386 18391	40 mg
+R21	Strength-Drug Arg1:T41 Arg2:T40
+T42	Route 18392 18394	PO
+R22	Route-Drug Arg1:T42 Arg2:T40
+T43	Frequency 18395 18400	DAILY
+R23	Frequency-Drug Arg1:T43 Arg2:T40
+T44	Drug 18404 18414	Bumetanide
+T45	Strength 18415 18419	1 mg
+R24	Strength-Drug Arg1:T45 Arg2:T44
+T46	Route 18420 18422	PO
+R25	Route-Drug Arg1:T46 Arg2:T44
+T47	Frequency 18423 18428	DAILY
+R26	Frequency-Drug Arg1:T47 Arg2:T44
+T48	Drug 18432 18443	Clopidogrel
+T49	Strength 18444 18449	75 mg
+R27	Strength-Drug Arg1:T49 Arg2:T48
+T50	Route 18450 18452	PO
+R28	Route-Drug Arg1:T50 Arg2:T48
+T51	Frequency 18453 18458	DAILY
+R29	Frequency-Drug Arg1:T51 Arg2:T48
+T52	Drug 18462 18472	Eplerenone
+T53	Strength 18473 18478	25 mg
+R30	Strength-Drug Arg1:T53 Arg2:T52
+T54	Route 18479 18481	PO
+R31	Route-Drug Arg1:T54 Arg2:T52
+T55	Frequency 18482 18487	DAILY
+R32	Frequency-Drug Arg1:T55 Arg2:T52
+T56	Drug 18491 18501	Lisinopril
+T57	Strength 18502 18506	5 mg
+R33	Strength-Drug Arg1:T57 Arg2:T56
+T58	Route 18507 18509	PO
+R34	Route-Drug Arg1:T58 Arg2:T56
+T59	Frequency 18510 18515	DAILY
+R35	Frequency-Drug Arg1:T59 Arg2:T56
+T60	Drug 18519 18528	Lorazepam
+T61	Strength 18529 18535	0.5 mg
+R36	Strength-Drug Arg1:T61 Arg2:T60
+T62	Route 18536 18538	PO
+R37	Route-Drug Arg1:T62 Arg2:T60
+T63	Frequency 18539 18542	TID
+R38	Frequency-Drug Arg1:T63 Arg2:T60
+T64	Drug 18546 18559	Mesalamine DR
+T65	Strength 18560 18567	1200 mg
+R39	Strength-Drug Arg1:T65 Arg2:T64
+T66	Route 18568 18570	PO
+R40	Route-Drug Arg1:T66 Arg2:T64
+T67	Drug 18595 18618	Metoprolol Succinate XL
+T68	Strength 18619 18626	12.5 mg
+R41	Strength-Drug Arg1:T68 Arg2:T67
+T69	Route 18627 18629	PO
+R42	Route-Drug Arg1:T69 Arg2:T67
+T70	Drug 18681 18691	ranolazine
+T71	Strength 18697 18705	1,000 mg
+R43	Strength-Drug Arg1:T71 Arg2:T70
+T72	Route 18706 18710	Oral
+R44	Route-Drug Arg1:T72 Arg2:T70
+T73	Drug 18732 18739	Aspirin
+T74	Strength 18740 18745	81 mg
+R45	Strength-Drug Arg1:T74 Arg2:T73
+T75	Route 18746 18748	PO
+R46	Route-Drug Arg1:T75 Arg2:T73
+T76	Frequency 18749 18754	DAILY
+R47	Frequency-Drug Arg1:T76 Arg2:T73
+T77	Drug 1875 1884	inotropes
+T78	Drug 18759 18762	NPH
+T79	Dosage 18763 18771	28 Units
+R48	Dosage-Drug Arg1:T79 Arg2:T78
+T80	Frequency 18772 18781	Breakfast
+R49	Frequency-Drug Arg1:T80 Arg2:T78
+T81	Drug 18782 18785	NPH
+T82	Dosage 18786 18794	18 Units
+R50	Dosage-Drug Arg1:T82 Arg2:T81
+T83	Frequency 18795 18802	Bedtime
+R51	Frequency-Drug Arg1:T83 Arg2:T81
+T84	Drug 1896 1901	lasix
+T85	Route 1902 1906	drip
+R52	Route-Drug Arg1:T85 Arg2:T84
+T86	Drug 191 202	Clindamycin
+T87	Drug 205 214	Aldactone
+T89	Drug 220 224;225 231	Dye, Iodine
+T90	Drug 245 259	pyridostigmine
+T91	Drug 2678 2685	Insulin
+T92	Reason 2696 2713	diabetes mellitus
+R54	Reason-Drug Arg1:T92 Arg2:T91
+T93	Reason 971 978	seizure
+R55	Reason-Drug Arg1:T93 Arg2:T94
+T94	Drug 984 992	dilantin
+T14	Route 217 219	IV
+R7	Route-Drug Arg1:T14 Arg2:T89	
+T23	Route 1507 1509	IV
+R12	Route-Drug Arg1:T23 Arg2:T15	
+T39	Route 1598 1600	IV
+R19	Route-Drug Arg1:T39 Arg2:T24	

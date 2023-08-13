@@ -1,0 +1,309 @@
+Admission Date:  [**2164-10-9**]              Discharge Date:   [**2164-10-15**]
+
+Date of Birth:  [**2138-5-12**]             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies:
+Morphine Sulfate / Dilaudid
+
+Attending:[**First Name3 (LF) 1835**]
+Chief Complaint:
+headaches
+
+Major Surgical or Invasive Procedure:
+[**2164-10-11**]- Right Frontal Craniotomy and Mass resection
+
+
+History of Present Illness:
+[**First Name8 (NamePattern2) **] [**Known lastname 13060**] is a 26 y/o right handed woman with no significant
+PMH who presented to the ED today after being asked to come in
+by
+Dr. [**Last Name (STitle) 724**] for an abnormal MRI. She has never had a history of
+headaches until she developed headaches in [**Month (only) **]; these headaches
+would occur in various locations of her head, though more
+recently she describes them as occuring just left of the vertex.
+She would get these headaches about 20 days per months since its
+onset in [**Month (only) **]. At its worst, the headache would go up to a [**6-16**]
+in intensity and twice it resulted in her vomiting.
+Occasionally,
+it would be assoicated with photophobia but no son[**Name (NI) **]. Of
+note, there is a positional nature to these headaches as she
+says
+that the headache is usually worse when she wakes up in the
+morning. Recently, she has also noted the onset of
+lightheadedness with positional changes, but no vertigo. No
+strength or sensory changes, no visual changes and no weight
+loss
+noted since [**Month (only) **]. Her parents have not noted any behavioral
+changes. No history of head trauma aside from recently banging
+her forehead accidentally on the counter while bartending. No
+history of seizures.
+
+
+Past Medical History:
+astigmatism, LEEP procedure for cervical dysplasia
+
+Social History:
+She currently works as a bartender but has recently
+(prior [**Holiday **] [**2162**]) traveled to [**Country 27440**] to teach English.
+She has also traveled to [**Country 651**], [**Country 5142**] and [**Country 3992**]. Reports no
+illnesses from these travels.  She does not currently smoke or
+do
+illicit drugs, though has tried marijuana in high school. SHe
+currently drinkns alcohol 1-2x per week, though notes binge
+drinking in college.
+
+
+Family History:
+Parents are healthy. Maternal grandmother with
+multiple cancers including stomach and kidney. No other family
+history of cancer. Paternal grandfather in his 80s with
+Alzheimer's disease.
+
+
+Physical Exam:
+vitals:  T: 98 BP: 132/70  HR: 70   R: 18    O2Sats: 95% RA
+Gen: WD/WN, comfortable, NAD.
+HEENT: PERRL, MMM
+Neck: Supple. No lymphadenopathy
+Chest: No breast masses
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Skin: moles on back
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect. Attentive- able to name [**Doctor Last Name 1841**] backwards. No evidence of
+apraxia. Able to perform Luria sequencing without difficulty.
+Orientation: Oriented to person, place, and date.
+Recall: [**3-11**] objects at 5 minutes.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 4 to 2
+mm bilaterally. Visual fields are full to confrontation. Mild
+papilledema on funsoscopic exam.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+[**Doctor First Name 81**]: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power [**4-11**] throughout. No pronator drift
+
+Sensation: Intact to light touch, propioception, pinprick and
+vibration bilaterally.
+
+Reflexes: B T Br Pa Ac
+Right     2 2 2  2  2
+Left      2 2 2  2  2
+
+Toes downgoing bilaterally
+
+Coordination: normal on finger-nose. Romberg absent
+
+Gait: normal, able to tandem walk
+
+EXAM ON DISCHARGE:
+
+As above. Incision clean, dry and intact
+
+
+Pertinent Results:
+ADMISSION LABS:
+
+[**2164-10-9**] 01:50PM   PT-12.3 PTT-21.5* INR(PT)-1.0
+[**2164-10-9**] 01:50PM   WBC-5.2 RBC-4.77 HGB-14.1 HCT-41.9 MCV-88
+MCH-29.5 MCHC-33.5 RDW-13.6
+[**2164-10-9**] 01:50PM   GLUCOSE-84 UREA N-9 CREAT-0.9 SODIUM-137
+POTASSIUM-4.1 CHLORIDE-102 TOTAL CO2-26 ANION GAP-13
+
+DISCHARGE LABS:
+
+[**2164-10-15**] 08:40AM BLOOD WBC-11.5* RBC-4.45 Hgb-13.2 Hct-38.2
+MCV-86 MCH-29.6 MCHC-34.4 RDW-13.5 Plt Ct-340
+[**2164-10-10**] 11:30PM BLOOD Neuts-89.1* Lymphs-7.3* Monos-3.3 Eos-0.2
+Baso-0.2
+[**2164-10-15**] 08:40AM BLOOD Glucose-109* UreaN-11 Creat-0.7 Na-132*
+K-4.1 Cl-98 HCO3-27 AnGap-11
+
+IMAGING:
+CT Head [**10-9**]:
+1. A large lesion in the right frontal lobe, measuring 6.8 x 5.2
+x 9 cm, seen to extend into the region of the frontal [**Doctor Last Name 534**] of
+the right lateral ventricle, and in proximity to the septum
+pellucidum. Given the large size and lack of priors, the exact
+site of origin of the lesion is not clear. This can either
+represent a low-grade neoplasm vs a complex cyst, with the
+differential diagnosis including subependymoma, pleomorphic
+xanthoastrocytoma, oligodendroglioma, the latter two being less
+likely given the pattern of enhancement and lack of
+calcifications. An unusual complex cyst cannot be completely
+excluded. The lesion does appear to have some vascularity, with
+tiny vessels noted within the lesion. Wet read was entered on
+[**2164-10-9**], soon after the study.
+
+CT Head [**10-11**]:
+IMPRESSION:
+1. Expected post-surgical changes, status post right frontal
+mass removal.
+2. Interval decrease of mass effect when compared to prior study
+([**2164-10-11**]). No hemorrhage or major vascular territorial
+infarction is noted.
+
+MRI Head [**10-12**]:
+IMPRESSION:
+1. No evidence of infarction.
+2. FLAIR abnormality around the surgical resection margin may be
+related to recent surgery, though residual tumor cannot be
+excluded. While there is no abnormal enhancement, there is no
+enhancement of the tumor prior to surgery, so this cannot be
+used as metric.
+
+
+Brief Hospital Course:
+Patient presented to the [**Hospital1 18**] ED after having an MRI of her
+brain for consistent headaches as an outpatient which showed her
+to have a right frontal mass which communicated with the right
+lateral ventricle. She was evaluated by neuromedicine and
+neurosurgery in the ED and was admitted to the neurosurgery
+service. A CTA/V was obtained to gain information on the
+vascularity of the mass. On the evening of [**10-10**] it was decided
+that she would undergo surgical resection of the mass via
+craniotomy on the morning of [**10-11**].  She remained stable on the
+floor overnight and on [**10-11**] was taken to the OR for surgery.
+Surgery was without complication. She was admitted to the ICU
+but remained in the PACU overnight. Post op CT revealed good
+resection and no hemorrhage.
+ON POD#1 she was neurologically intact. She was cleared for
+transfer to the floor. post op MRI was completed and also
+revealed excellent resection. PCA was discontinued and she was
+started on PO pain meds with IV for breakthourgh. She did
+require some IV pain medication on [**10-13**] and remained on her PO
+regimen. She was able to mobilize OOB on this day and walk
+through the halls without difficulty. She was somewhat
+orthostatic and complained of dizziness on [**10-14**] when ambulating
+and she was started on 50cc/hr of IVF and had no further issues.
+
+
+She was discharged to home on [**2164-10-15**].
+
+Medications on Admission:
+amitriptyline, OCP
+
+Discharge Medications:
+1. levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day).
+Disp:*120 Tablet(s)* Refills:*0*
+2. amitriptyline 10 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*0*
+3. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for headache.
+4. famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*0*
+5. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+6. diazepam 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for anxiety/spasm.
+Disp:*30 Tablet(s)* Refills:*0*
+7. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3 hours)
+as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+8. diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO Q6H
+(every 6 hours) as needed for itching.
+9. hydromorphone 4 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+10. dexamethasone 4 mg Tablet Sig: One (1) Tablet PO Q8 () for 2
+days.
+Disp:*16 Tablet(s)* Refills:*0*
+11. dexamethasone 1.5 mg Tablet Sig: Two (2) Tablet PO Q8 () for
+2 days.
+Disp:*32 Tablet(s)* Refills:*0*
+12. dexamethasone 2 mg Tablet Sig: One (1) Tablet PO Q8 () for 2
+days.
+Disp:*16 Tablet(s)* Refills:*0*
+13. dexamethasone 1 mg Tablet Sig: One (1) Tablet PO Q8 () for 2
+days.
+Disp:*16 Tablet(s)* Refills:*0*
+14. Dulcolax 10 mg Suppository Sig: One (1)  Rectal once a day
+as needed for constipation.
+Disp:*10 * Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+R Frontal Mass
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+??????	Have a friend/family member check your incision daily for
+signs of infection.
+??????	Take your pain medicine as prescribed.
+??????	Exercise should be limited to walking; no lifting, straining,
+or excessive bending.
+??????	You may wash your hair only after sutures and/or staples have
+been removed. If your wound closure uses dissolvable sutures,
+you must keep that area dry for 10 days.
+??????	You may shower before this time using a shower cap to cover
+your head.
+??????	Increase your intake of fluids and fiber, as narcotic pain
+medicine can cause constipation. We generally recommend taking
+an over the counter stool softener, such as Docusate (Colace)
+while taking narcotic pain medication.
+??????	Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and
+Ibuprofen etc.
+??????	 If you have been discharged on Keppra (Levetiracetam), you
+will not require blood work monitoring.
+??????	If you are being sent home on steroid medication, make sure
+you are taking a medication to protect your stomach (Prilosec,
+Protonix, or Pepcid), as these medications can cause stomach
+irritation.  Make sure to take your steroid medication with
+meals, or a glass of milk.
+??????	Clearance to drive and return to work will be addressed at
+your post-operative office visit.
+??????	Make sure to continue to use your incentive spirometer while
+at home.
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE
+FOLLOWING
+
+??????	New onset of tremors or seizures.
+??????	Any confusion or change in mental status.
+??????	Any numbness, tingling, weakness in your extremities.
+??????	Pain or headache that is continually increasing, or not
+relieved by pain medication.
+??????	Any signs of infection at the wound site: increasing redness,
+increased swelling, increased tenderness, or drainage.
+??????	Fever greater than or equal to 101?????? F.
+
+
+Followup Instructions:
+??????You have an appointment in the Brain [**Hospital 341**] Clinic on [**2164-10-22**] @
+10:30AM.  The Brain [**Hospital 341**] Clinic is located on the [**Hospital Ward Name 516**]
+of [**Hospital1 18**], in the [**Hospital Ward Name 23**] Building, [**Location (un) **]. Their phone number
+is [**Telephone/Fax (1) 1844**]. Please call if you need to change your
+appointment, or require additional directions.
+??????You will not need an MRI of the brain .
+
+
+
+Completed by:[**2164-10-15**]

@@ -1,0 +1,319 @@
+T1	Drug 5507 5515	protonix
+T2	Drug 8069 8078	ritonavir
+T3	Drug 8079 8088	Albuterol
+T4	Drug 8899 8903	Iron
+T5	Form 8905 8911	Tablet
+T6	Drug 1173 1180	Bactrim
+T7	Drug 1053 1060	tylenol
+T8	Drug 8094 8104	omeprazole
+T9	Drug 7045 7053	Abacavir
+T10	Route 7781 7783	PO
+T11	Drug 8480 8489;8490 8497	Albuterol Sulfate
+T12	Strength 8498 8504;8504 8514	90 mcg /Actuation
+T13	Drug 9509 9520	Simethicone
+T14	Strength 9521 9526	60 mg
+T15	Form 9547 9553	Tablet
+T16	Route 9554 9556	PO
+T17	Drug 167 174	Bactrim
+T18	Drug 8105 8115	Oxybutynin
+T19	Strength 8273 8279	100 mg
+T20	Form 8301 8308	Capsule
+T21	Route 8309 8311	PO
+T22	Drug 8263 8271;8271 8272	Ritonavi r
+T23	Drug 9260 9279	Oxybutynin Chloride
+T24	Strength 9280 9284	5 mg
+T25	Form 9305 9311	Tablet
+T26	Route 9312 9314	PO
+T27	Drug 8116 8123	Tylenol
+T28	Drug 8631 8650	Hydrochlorothiazide
+T29	Strength 8651 8656	25 mg
+T30	Form 8677 8683	Tablet
+T31	Route 8684 8686	PO
+T32	Drug 965 973	Protonix
+T33	Drug 8330 8350;8351 8359	Tenofovir Disoproxil Fumarate
+T34	Strength 8360 8366	300 mg
+T35	Form 8367 8373	Tablet
+T36	Drug 8124 8129	Sarna
+T37	Drug 8130 8145	Ferrous sulfate
+T38	Drug 9155 9160;9161 9170	Sarna Anti-Itch
+T39	Form 9181 9187	Lotion
+T40	Drug 10439 10444	Advil
+T41	Drug 10446 10451	Aleve
+T42	Drug 10453 10462	Ibuprofen
+T43	Drug 7055 7064	Tenofovir
+T44	Drug 9052 9056	Iron
+T45	Strength 8963 8969	8.6 mg
+T46	Form 8990 8996	Tablet
+T47	Route 8997 8999	PO
+T48	Drug 8415 8422	Epzicom
+T49	Form 8454 8460	Tablet
+T50	Frequency 8464 8470;8471 8474	once a day
+T51	Route 8461 8463	PO
+T52	Drug 8869 8884	Ferrous Sulfate
+T53	Strength 8885 8891	325 mg
+T54	Frequency 8797 8804;8805 8808	twice a day
+T55	Route 8794 8796	PO
+T56	Drug 8036 8043	Epzicom
+T57	Drug 8044 8053	Tenofovir
+T58	Drug 8146 8157	Simethicone
+T59	Drug 9071 9075	Iron
+T60	Form 9097 9103	Tablet
+T61	Route 9104 9106	PO
+T62	Drug 9363 9385	Tylenol Extra Strength
+T63	Strength 9386 9392	500 mg
+T64	Form 9409 9416	Tablets
+T65	Dosage 9405 9408	1-2
+T66	Route 9417 9419	PO
+T67	Drug 8054 8067	Fosamprenavir
+T68	Drug 7033 7043	Lamivudine
+T69	Strength 5569 5574	40 mg
+T70	Frequency 6482 6485	bid
+T71	Route 6479 6481	PO
+T72	Strength 8200 8206	700 mg
+T73	Form 8227 8233	Tablet
+T74	Route 8234 8236	PO
+T75	Drug 8186 8198;8198 8199	Fosamprenavi r
+T76	Drug 1061 1070	ibuprofen
+T77	Drug 8702 8712	Omeprazole
+T78	Strength 8713 8718	40 mg
+T79	Form 8719 8726;8726 8749	Capsule , Delayed Release(E.C.)
+T80	Reason 8595 8604;8605 8614	shortness of breath
+T81	Reason 8618 8626	wheezing
+T82	Reason 9034 9046	constipation
+T83	Reason 9247 9254	itching
+T84	Reason 9454 9458	pain
+T85	Reason 9582 9590	bloating
+T86	Drug 946 951	pRBCs
+T87	Dosage 944 946	1u
+T88	Dosage 953 955	3L
+T89	Drug 956 959	IVF
+T90	Strength 974 976	40
+T92	ADE 1182 1186	rash
+T93	Dosage 5421 5428	3 units
+T94	Drug 5432 5437	blood
+T95	Reason 5079 5082	GIB
+T96	Route 5516 5520	drip
+T97	Drug 5720 5735	Benzodiazepines
+T98	Reason 5753 5761	sedation
+T99	ADE 5655 5663	confused
+T100	Drug 5863 5875	epinepherine
+T101	Dosage 6157 6176	one additional unit
+T102	Drug 6177 6181	pRBC
+T103	Drug 6271 6275	HCTZ
+T104	Drug 6469 6472	PPI
+T105	Strength 6474 6478	40mg
+T106	Drug 6905 6928	anti-retroviral therapy
+T107	Drug 7010 7015	HAART
+T108	Reason 6891 6894	HIV
+T109	Drug 7066 7075	Ritonovir
+T110	Drug 7077 7090	Fosamprenivir
+T111	Drug 7363 7367	HCTZ
+T112	Reason 7349 7352	HTN
+T113	Drug 7784 7787	PPI
+T114	Drug 8089 8093	HCTZ
+T115	Form 8207 8213	Tablet
+T116	Dosage 8219 8226	Two (2)
+T117	Frequency 8237 8241;8242 8258	Q24H (every 24 hours)
+T118	Form 8280 8287	Capsule
+T119	Dosage 8293 8300	Two (2)
+T120	Frequency 8312 8317;8318 8325	DAILY (Daily)
+T121	Dosage 8379 8386	One (1)
+T122	Form 8387 8393	Tablet
+T123	Route 8394 8396	PO
+T124	Frequency 8397 8410	DAILY (Daily)
+T125	Strength 8423 8433	600-300 mg
+T126	Dosage 8446 8453	One (1)
+T127	Form 8434 8440	Tablet
+T128	Form 8515 8534	HFA Aerosol Inhaler
+T129	Dosage 8540 8543	1-2
+T130	Form 8544 8549	Puffs
+T131	Route 8550 8560	Inhalation
+T132	Frequency 8561 8590	Q4H (every 4 hours) as needed
+T133	Form 8657 8663	Tablet
+T134	Dosage 8669 8676	One (1)
+T135	Frequency 8687 8691;8692 8697	once a day
+T136	Form 8763 8793	Capsule, Delayed Release(E.C.)
+T137	Dosage 8755 8762	One (1)
+T138	Strength 8893 8898	65 mg
+T139	Dosage 8917 8924	One (1)
+T140	Route 8932 8934	PO
+T141	Frequency 8935 8952	three times a day
+T142	Form 8925 8931	Tablet
+T143	Drug 8957 8962	Senna
+T144	Form 8970 8976	Tablet
+T145	Dosage 8982 8989	One (1)
+T146	Frequency 9000 9014;9015 9029	BID (2 times a day) as needed
+T147	Strength 9057 9063	325 mg
+T148	Strength 9065 9070	65 mg
+T149	Dosage 9089 9096	One (1)
+T150	Frequency 9107 9111;9112 9117	once a day
+T151	Route 9213 9220	Topical
+T152	Frequency 9221 9242	twice a day as needed
+T153	Strength 9171 9180	0.5-0.5 %
+T154	Dosage 9193 9200	One (1)
+T155	Form 9201 9212	application
+T156	Form 9285 9291	Tablet
+T157	Frequency 9420 9449	every six (6) hours as needed
+T158	Reason 9340 9357	urinary frequency
+T159	Frequency 9315 9318;9319 9335	bid or tid as needed
+T160	Dosage 9297 9304	One (1)
+T161	Form 9393 9399	Tablet
+T162	Form 9527 9533	Tablet
+T163	Dosage 9539 9546	One (1)
+T164	Frequency 9557 9567;9568 9577	once a day as needed
+T165	Drug 9934 9939	blood
+T166	Route 9940 9952	transfusions
+T167	Drug 10280 10290	OMEPRAZOLE
+T168	Strength 10291 10296	40 mg
+T169	Frequency 10297 10308	TWICE DAILY
+T170	Reason 10326 10340	bleeding ulcer
+T171	Drug 10410 10416	NSAIDS
+T172	Reason 10421 10432	pain relief
+R1	Strength-Drug Arg1:T12 Arg2:T11
+R2	Strength-Drug Arg1:T14 Arg2:T13
+R3	Form-Drug Arg1:T15 Arg2:T13
+R4	Route-Drug Arg1:T16 Arg2:T13
+R5	Strength-Drug Arg1:T19 Arg2:T22
+R6	Form-Drug Arg1:T20 Arg2:T22
+R7	Route-Drug Arg1:T21 Arg2:T22
+R8	Strength-Drug Arg1:T24 Arg2:T23
+R9	Form-Drug Arg1:T25 Arg2:T23
+R10	Route-Drug Arg1:T26 Arg2:T23
+R11	Strength-Drug Arg1:T29 Arg2:T28
+R12	Form-Drug Arg1:T30 Arg2:T28
+R13	Route-Drug Arg1:T31 Arg2:T28
+R14	Strength-Drug Arg1:T34 Arg2:T33
+R15	Form-Drug Arg1:T35 Arg2:T33
+R16	Form-Drug Arg1:T39 Arg2:T38
+R17	Form-Drug Arg1:T49 Arg2:T48
+R18	Frequency-Drug Arg1:T50 Arg2:T48
+R19	Route-Drug Arg1:T51 Arg2:T48
+R20	Strength-Drug Arg1:T53 Arg2:T52
+R21	Strength-Drug Arg1:T63 Arg2:T62
+R22	Form-Drug Arg1:T64 Arg2:T62
+R23	Dosage-Drug Arg1:T65 Arg2:T62
+R24	Route-Drug Arg1:T66 Arg2:T62
+R25	Strength-Drug Arg1:T72 Arg2:T75
+R26	Form-Drug Arg1:T73 Arg2:T75
+R27	Route-Drug Arg1:T74 Arg2:T75
+R28	Strength-Drug Arg1:T78 Arg2:T77
+R29	Form-Drug Arg1:T79 Arg2:T77
+R30	Dosage-Drug Arg1:T87 Arg2:T86
+R31	Dosage-Drug Arg1:T88 Arg2:T89
+R33	Strength-Drug Arg1:T90 Arg2:T32
+R34	ADE-Drug Arg1:T92 Arg2:T6
+R35	Dosage-Drug Arg1:T93 Arg2:T94
+R36	Reason-Drug Arg1:T95 Arg2:T1
+R37	Reason-Drug Arg1:T95 Arg2:T94
+R38	Route-Drug Arg1:T96 Arg2:T1
+R39	Strength-Drug Arg1:T69 Arg2:T1
+R40	ADE-Drug Arg1:T99 Arg2:T97
+R41	Reason-Drug Arg1:T98 Arg2:T97
+R42	Dosage-Drug Arg1:T101 Arg2:T102
+R43	Frequency-Drug Arg1:T70 Arg2:T104
+R44	Route-Drug Arg1:T71 Arg2:T104
+R45	Strength-Drug Arg1:T105 Arg2:T104
+R46	Reason-Drug Arg1:T108 Arg2:T106
+R47	Reason-Drug Arg1:T108 Arg2:T107
+R48	Reason-Drug Arg1:T108 Arg2:T68
+R49	Reason-Drug Arg1:T108 Arg2:T110
+R50	Reason-Drug Arg1:T108 Arg2:T9
+R51	Reason-Drug Arg1:T108 Arg2:T43
+R52	Reason-Drug Arg1:T108 Arg2:T109
+R53	Reason-Drug Arg1:T112 Arg2:T111
+R54	Route-Drug Arg1:T10 Arg2:T113
+R55	Dosage-Drug Arg1:T116 Arg2:T75
+R56	Form-Drug Arg1:T115 Arg2:T75
+R57	Frequency-Drug Arg1:T117 Arg2:T75
+R58	Frequency-Drug Arg1:T120 Arg2:T22
+R59	Dosage-Drug Arg1:T119 Arg2:T22
+R60	Form-Drug Arg1:T118 Arg2:T22
+R61	Dosage-Drug Arg1:T121 Arg2:T33
+R62	Form-Drug Arg1:T122 Arg2:T33
+R63	Route-Drug Arg1:T123 Arg2:T33
+R64	Frequency-Drug Arg1:T124 Arg2:T33
+R65	Strength-Drug Arg1:T125 Arg2:T48
+R66	Form-Drug Arg1:T127 Arg2:T48
+R67	Dosage-Drug Arg1:T126 Arg2:T48
+R68	Form-Drug Arg1:T128 Arg2:T11
+R69	Reason-Drug Arg1:T80 Arg2:T11
+R70	Reason-Drug Arg1:T81 Arg2:T11
+R71	Dosage-Drug Arg1:T129 Arg2:T11
+R72	Form-Drug Arg1:T130 Arg2:T11
+R73	Route-Drug Arg1:T131 Arg2:T11
+R74	Frequency-Drug Arg1:T132 Arg2:T11
+R75	Form-Drug Arg1:T133 Arg2:T28
+R76	Frequency-Drug Arg1:T135 Arg2:T28
+R77	Dosage-Drug Arg1:T134 Arg2:T28
+R78	Dosage-Drug Arg1:T137 Arg2:T77
+R79	Form-Drug Arg1:T136 Arg2:T77
+R80	Route-Drug Arg1:T55 Arg2:T77
+R81	Frequency-Drug Arg1:T54 Arg2:T77
+R82	Strength-Drug Arg1:T138 Arg2:T4
+R83	Form-Drug Arg1:T5 Arg2:T52
+R84	Form-Drug Arg1:T142 Arg2:T52
+R85	Route-Drug Arg1:T140 Arg2:T52
+R86	Frequency-Drug Arg1:T141 Arg2:T52
+R87	Dosage-Drug Arg1:T139 Arg2:T52
+R88	Strength-Drug Arg1:T45 Arg2:T143
+R89	Form-Drug Arg1:T144 Arg2:T143
+R90	Dosage-Drug Arg1:T145 Arg2:T143
+R91	Form-Drug Arg1:T46 Arg2:T143
+R92	Route-Drug Arg1:T47 Arg2:T143
+R93	Reason-Drug Arg1:T82 Arg2:T143
+R94	Frequency-Drug Arg1:T146 Arg2:T143
+R95	Strength-Drug Arg1:T147 Arg2:T44
+R96	Strength-Drug Arg1:T148 Arg2:T59
+R97	Frequency-Drug Arg1:T150 Arg2:T44
+R98	Dosage-Drug Arg1:T149 Arg2:T44
+R99	Form-Drug Arg1:T60 Arg2:T44
+R100	Route-Drug Arg1:T61 Arg2:T44
+R101	Strength-Drug Arg1:T153 Arg2:T38
+R102	Dosage-Drug Arg1:T154 Arg2:T38
+R103	Form-Drug Arg1:T155 Arg2:T38
+R104	Route-Drug Arg1:T151 Arg2:T38
+R105	Frequency-Drug Arg1:T152 Arg2:T38
+R106	Reason-Drug Arg1:T83 Arg2:T38
+R107	Frequency-Drug Arg1:T157 Arg2:T62
+R108	Form-Drug Arg1:T156 Arg2:T23
+R109	Dosage-Drug Arg1:T160 Arg2:T23
+R110	Frequency-Drug Arg1:T159 Arg2:T23
+R111	Reason-Drug Arg1:T158 Arg2:T23
+R112	Form-Drug Arg1:T161 Arg2:T62
+R113	Reason-Drug Arg1:T84 Arg2:T62
+R114	Dosage-Drug Arg1:T163 Arg2:T13
+R115	Form-Drug Arg1:T162 Arg2:T13
+R116	Frequency-Drug Arg1:T164 Arg2:T13
+R117	Reason-Drug Arg1:T85 Arg2:T13
+R118	Route-Drug Arg1:T166 Arg2:T165
+R119	Reason-Drug Arg1:T170 Arg2:T167
+R120	Strength-Drug Arg1:T168 Arg2:T167
+R121	Frequency-Drug Arg1:T169 Arg2:T167
+R122	Reason-Drug Arg1:T172 Arg2:T171
+T173	Dosage 982 983	1
+T174	Reason 725 742	bright red emesis
+T175	Reason 5830 5842;5843 5849	ulcer in the cardia
+T176	Reason 7763 7766	PPX
+T177	Reason 9859 9898	uppger GI bleeding from a stomach ulcer
+T178	Form 8819 8826;8826 8849	Capsule , Delayed Release(E.C.)
+T181	Reason 5444 5454;5455 5474	hematocrit which nadered at 26
+T182	Reason 5810 5822	flat lesions
+T183	Form 9077 9083	Tablet
+T184	Form 9128 9137	Tablet(s)
+T186	Reason 10203 10211;10212 10220	stop the bleeding
+R124	Reason-Drug Arg1:T174 Arg2:T86	
+R125	Dosage-Drug Arg1:T173 Arg2:T32	
+R126	Reason-Drug Arg1:T181 Arg2:T94	
+R127	Reason-Drug Arg1:T175 Arg2:T100	
+R128	Reason-Drug Arg1:T182 Arg2:T100	
+T179	Reason 5923 5934	esophagitis
+R129	Reason-Drug Arg1:T179 Arg2:T104	
+R130	Reason-Drug Arg1:T176 Arg2:T113	
+R131	Form-Drug Arg1:T178 Arg2:T77	
+R132	Form-Drug Arg1:T184 Arg2:T44	
+R133	Reason-Drug Arg1:T177 Arg2:T165	
+T91	Route 977 979	IV
+R32	Route-Drug Arg1:T91 Arg2:T32	
+R123	Form-Drug Arg1:T183 Arg2:T44	
+T180	ADE 5668 5679	disoriented
+R134	ADE-Drug Arg1:T180 Arg2:T97	

@@ -1,0 +1,434 @@
+Admission Date:  [**2190-5-27**]              Discharge Date:   [**2190-7-23**]
+
+Date of Birth:  [**2139-6-11**]             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 7567**]
+Chief Complaint:
+worsening speech difficulties and decreased movement of the
+right arm
+
+Major Surgical or Invasive Procedure:
+lumbar puncture
+tracheostomy
+PEG tube
+
+History of Present Illness:
+The pt is a 50 year-old right-handed man with a recent
+history of HSV encephalitis who presents with worsening speech
+difficulties and decreased movement of the right arm.  He was
+initially diagnosed with HSV 1 meningitis on [**2190-4-23**].  He
+presented after he was in an accident while driving from RI to
+VT, rented a second car, and was in a second accident, at which
+point he was brought to an outside hospital and eventually
+diagnosed with HSV meningitis.  He was started on a course of IV
+acyclovir, and discharged to [**Hospital 38**] rehab.  His rehab course
+was complicated by a lower extremity DVT, for which he was
+started on Coumadin, however on [**5-15**] there was concern that the
+clot was mobile, and on [**2190-5-16**] he had an IVC filter placed.
+Around this time he became febrile to 102.6, and on [**5-18**] was
+transferred to [**Hospital1 18**] for fever and worsening confusion.  He was
+admitted from [**Date range (1) 66375**], during which time he underwent a repeat
+LP, which showed 56 WBCs and a protein of 83, but was HSV
+negative.  He had blood and urine cultures that were also
+negative.  His fevers resolved with restarting acyclovir, though
+his mental status continued to fluctuate, and he was sent back
+to
+rehab on [**5-21**].  His sister continued to visit him, and reports
+that even as recently as two days ago he was actually starting
+to
+improve.  At his best he was reported to be communicative, with
+a
+slightly strange affect, and mild short term memory and
+executive
+function impairment.  However, on [**5-26**] he was noted to be very
+unsteady with PT, and was found to be orthostatic as low of SBP
+of 60 when standing, and it was recommended that he start both
+fludrocortisone and midodrine.  On [**5-27**] the patient was noted to
+be forcibly keeping his right eye closed, and also was felt to
+be
+more apraxic with worsening coordination.  He was also felt to
+not be moving his right arm as frequently.  For all of this he
+was transferred to [**Hospital1 18**] for further evaluation.
+
+
+Past Medical History:
+- Lyme disease, per sister s/p treatment years ago
+- Malaria, per sister s/p treatment years ago
+- Lumbar laminectomy
+
+
+Social History:
+Divorced, has a girlfriend. Previously worked as a fundraiser
+and ?park ranger equivalent in [**Doctor Last Name **], in excellent
+physical health. No T/E/D that sister knows of.
+
+
+Family History:
+Blood clots in sister (unprovoked PE age 33) and father
+(multiple DVT post-op). Sister has also had 3 miscarriages.
+
+
+Physical Exam:
+ADMISSION EXAM:
+Vitals: T: 97.6 P: 77 R: 16  BP: 108/94 SaO2: 94% on RA
+General: Awake, cooperative, NAD.  Intermittent twitching of the
+right cheek, biting of the lip, sharp intakes of breath, and
+automotisms of the left hand throughout the exam.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Mild stiffness and nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Exam fluctuates significantly throughout.
+Alert,
+oriented to self but states it is [**Month (only) 956**], then starts reciting
+[**2184**]..[**2185**]..[**2186**] when asked the year.  Later can state [**2190**] and
+that the president is [**Last Name (un) 2753**].  States he is at [**Hospital 38**] Rehab.
+Has intermittent dysarthria, most notable with '[**Name Prefix (Prefixes) **]' '[**Last Name (Prefixes) **]' and
+'ka'
+sounds, but this fluctuates.  Can follow simple midline and
+appendicular commands, though with two step commands, such as
+'take your left hand and touch your right ear' looks at his left
+hand, picks it up, then holds it over his head.  When asked what
+he is supposed to be doing states 'I'm supposed to touch my
+right
+ear' but never actually does it, and when asked a minute later
+what he is supposed to be doing states 'picking my nose' (still
+with his left arm held suspended above his head).  Able to read,
+though periodically adds the word 'hospital' into sentences (e.g
+'near the table in the hospital dining room').  Can name the
+key,
+glove and feather on the stroke card, but says 'tetanus with a
+shower in between' for the cactus, a nonsensical word for the
+chair and 'nice...a mattress' for the hammock.  Able to count to
+20 forwards, but when counting backwards makes it to 12, then
+repeats 12, 13, 12, 11, 12, 13.... When asked to repeat a second
+time does the exact same thing.  Unable to register even 1 of 3
+objects.  Is able to register my name, but when asked to produce
+it ~3 minutes later, pauses, and then names a friend of his, who
+he states looks like me.  Has difficulty describing the events
+of
+his recent hospitalization, but is able to provide appropriate
+history prior to his illness (information about his life in
+[**Location (un) 7188**], his sister's family and his nephew, all confirmed by
+his
+sister).
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk.  Keeps right eye squinted shut.
+Able to grossly count fingers in all quadrants with the left
+eye,
+and will look towards a moving finger in all fields, though will
+not fully cooperate with more formal testing.
+III, IV, VI: Will track objects to the right without difficulty,
+though takes significant prompting, including a $5 [**Doctor First Name **] to look
+over to the left, and even then does not fully bury the sclera
+of
+the left eye.
+V: Facial sensation intact to light touch.
+VII: Left sided facial droop, and right eye slightly squinted at
+rest, though can open it volitionally.  Intermittent twitching
+of
+the right check
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Will not fully open mouth to assess palate.
+[**Doctor First Name 81**]: 5/5 strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Significant paratonia throughout, with limited
+cooperation for testing all muscle groups.  When attempts are
+made to assess for pronator drift, holds both arms up over his
+head, and will not allow them to be repositioned.
+  Delt Bic Tri WrE FFl FE IP Quad Ham TA Gastroc
+L  5    5   5   5   5  5  5   5    5  5     5
+R  4+   4+  5   5   5  5  5   5    5  5     5
+
+-Sensory: Reports vibration feels slightly less on the right
+knee
+compared to the left.  Otherwise no reported deficits to light
+touch, pinprick, cold sensation, proprioception throughout.
+
+-DTRs:
+  [**Name2 (NI) **] Tri [**Last Name (un) 1035**] Pat Ach
+L  2  2    2    2   1
+R  2  2    2    2   1
+Plantar response was flexor bilaterally.
+
+-Coordination: Poor cooperation with attempts at FNF.
+Eventually
+able to coerce him into giving 'high 5' on either side with no
+clear dysmetria.  Also able to reach his toe to my hand on
+either
+side with no dysmetria.
+
+-Gait: Deferred given significant confusion, poor cooperation
+and
+impulsivity, with concern for fall risk.
+DISCHARGE EXAM: deceased
+
+Pertinent Results:
+ADMISSION LABS:
+
+[**2190-5-27**] 01:30PM BLOOD WBC-7.9 RBC-3.94* Hgb-12.3* Hct-33.4*
+MCV-85 MCH-31.1 MCHC-36.7* RDW-16.7* Plt Ct-289
+[**2190-5-27**] 01:30PM BLOOD Neuts-73.8* Lymphs-18.4 Monos-5.2 Eos-1.8
+Baso-0.8
+[**2190-5-27**] 01:30PM BLOOD PT-34.5* PTT-32.0 INR(PT)-3.4*
+
+[**2190-6-1**] 06:23AM BLOOD  WBC-6.7 Lymph-24 Abs [**Last Name (un) **]-1608 CD3%-71
+Abs CD3-1139 CD4%-44 Abs CD4-709 CD8%-27 Abs CD8-427 CD4/CD8-1.7
+[**2190-7-5**] 09:34AM BLOOD  WBC-4.9 Lymph-10* Abs [**Last Name (un) **]-490 CD3%-85
+Abs CD3-419* CD4%-43 Abs CD4-212* CD8%-42 Abs CD8-207
+CD4/CD8-1.0
+[**2190-5-27**] 01:30PM BLOOD Glucose-87 UreaN-20 Creat-1.2 Na-137
+K-4.2 Cl-100 HCO3-27 AnGap-14
+[**2190-5-27**] 01:30PM BLOOD ALT-40 AST-22 AlkPhos-42 TotBili-0.6
+[**2190-6-2**] 10:40AM BLOOD TSH-4.9*
+[**2190-6-30**] 05:30AM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE
+HBcAb-NEGATIVE
+[**2190-6-1**] 06:23AM BLOOD IgG-805 IgA-125 IgM-126
+[**2190-7-6**] 08:00PM BLOOD HIV Ab-NEGATIVE
+[**2190-6-30**] 05:30AM BLOOD HCV Ab-NEGATIVE
+
+HTLV I/II ANTIBODY, WITH      Nonreactive
+QUANTIFERON(R)-TB GOLD        NEGATIVE
+TETANUS ANTITOXOID AB         2.32
+
+CSF STUDIES:
+[**2190-6-1**] 08:57AM CEREBROSPINAL FLUID (CSF) WBC-13 RBC-3* Polys-1
+Lymphs-96 Monos-0 Macroph-3
+[**2190-6-24**] 12:56PM CEREBROSPINAL FLUID (CSF) WBC-8 RBC-10* Polys-0
+Lymphs-97 Monos-3
+[**2190-6-1**] 08:57AM CEREBROSPINAL FLUID (CSF) TotProt-88*
+Glucose-55
+[**2190-6-24**] 12:56PM CEREBROSPINAL FLUID (CSF) TotProt-68*
+Glucose-76
+
+Herpes Virus 6 DNA, Qualitative Real-Time PCR
+  HHV-6 DNA          Not Detected
+
+[**Male First Name (un) 2326**] Virus DNA Ultrasensitive Quantitative Real-Time PCR
+  [**Male First Name (un) 2326**] Virus DNA, Ultra QN PCR  Negative
+
+Herpes Simplex Virus PCR
+   Specimen Source: Cerebrospinal Fluid
+Result ------  Negative on both [**6-1**] and [**6-24**]
+
+VARICELLA ZOSTER VIRUS (VZV)  Not Detected
+ Not Detected DNA, QL RT PCR
+
+CMV DNA, QL PCR               NOT DETECTED
+
+[**Doctor Last Name 3271**] [**Doctor Last Name **] Virus, Qualitative Real Time PCR
+  EBV DNA, QL PCR         Not Detected
+
+IMAGING:
+MRI/A BRAIN [**2190-6-1**]
+Bilateral temporal lobe enhancing signal abnormality with also
+extension into the bilateral insula and right cingulate gyrus.
+Encephalomalacic changes in the right temporal lobe suggest that
+this represents an acute on chronic infectious process, on the
+left, this appears to be acute.
+No evidence for acute ischemia or hydrocephalus.
+Unremarkable MRA of the head and neck.
+
+MRI C-SPINE
+1. No abnormal spinal cord signal or enhancement to suggest an
+inflammatory process within the spinal cord. No evidence of
+osteomyelitis, discitis or epidural abscess.
+2. Degenerative changes, particularly at C5-C6, where there is
+high-grade
+spinal canal narrowing.
+
+MRI BRAIN [**2190-6-20**]
+Substantial progression of brain abnormalities, which remain
+compatible with the stated clinical diagnosis of herpes simplex
+encephalitis.
+
+MRI BRAIN [**2190-7-8**]
+Unchanged encephalomalacia of the right temporal lobe with
+interval decrease in the extent of white matter edema in the
+brain. No areas of enhancement.
+
+MRI BRAIN [**2190-7-12**]
+Stable appearances of the diffuse white matter FLAIR
+hyperintensities since [**2190-7-8**], however, improved signal
+changes since [**2190-6-20**]. White matter signal changes could
+reflect two seizure episodes. Stable
+encephalomalacia in the right temporal lobe and enhancement
+along the right mesial temporal lobes and right frontal [**Doctor Last Name 352**]
+matter. No new intracranial abnormality.
+
+
+Brief Hospital Course:
+NEURO:
+SEIZURES:
+On initial EEG, he was thought to be in complex partial status,
+and was
+given a trial of ativan with electrographic and clinical
+improvement. He was increased on his Keppra from 500 mg [**Hospital1 **] to
+1500 mg [**Hospital1 **]. He continued to have frequent R temporal
+complex partial seizures, characterized by focal rhythmic theta
+activity.  Clinically, the seizures were characterized by L hand
+twitching movements, R facial twitching, and confusion.
+On [**5-29**], He was loaded on phosphenytoin and started on
+maintenance
+dosing with improvement in seizure frequency.  On [**6-1**], he was
+loaded on vimpat 200 mg IV, and started on maintenance of 100 mg
+[**Hospital1 **].
+
+Patient had a very complicated course with many antiepileptic
+medications trialed.
+
+He was initially transferred to the ICU for hypotension and
+respiratory distress.
+His seizures were controlled with midazolam, then he was
+switched to propofol because midazolam was not providing
+sufficient sedation, and this was also effective in suppressing
+seizures. He then began having frequent nonconvulsive seizures,
+and was started on phenobarbital [**6-6**], and Depakote on [**6-9**]. He
+underwent trach and PEG [**6-11**]. Zonisamide and Topamax were also
+tried. He temporarily was able to be transferred to the
+neurology step down unit, but returned to the ICU for midazolam
+drip on [**2190-7-4**].
+
+Nonconvulsive status epilepticus remained refractory.  The
+seizures continued to originate from bilateral temporal lobes
+despite increasing serum levels of Dilantin (corrected 20-25)
+and phenobarbital (90-100) and midazolam drip.
+
+HSV ENCEPHALITIS:
+Patient had severe HSV encephalitis resulting in necrosis and
+cystic changes in bilateral temporal lobes. Serial MRIs also
+showed development of extensive vasogenic edema in bilateral
+cortices. There was concern for ADEM process, and patient was
+treated with 5 days high dose steroids. Repeat MRI did show
+improvement in the diffuse edema after steroids. Another repeat
+MRI done several days after stopping steroids appeared stable
+with no further improvement but no worsening. It was impossible
+to determine if the steroids would have improved his mental
+status, this the timing coincided with worsening of his seizures
+and starting midazolam drip. On [**2190-7-21**], a family meeting
+was held with the epilepsy team, palliative care, and the SICU
+team. It was decided that the patient would not want to go on
+with his current quality of life. It was then decided to make
+the patient comfort-measures-only with continuation of the
+antiepileptics and to pursue extubation on Friday [**7-23**]. The
+patient maintained off of intubation for several hours but
+ultimately passed away Friday night.
+
+ID:
+1. HSV ENCEPHALITIS- ID was consulted on admission. Patient has
+completed 2 21 day courses of acyclovir. Repeat CSF HSV PCR was
+negative x 2. He underwent thorough workup for other coexisting
+viral infections which was negative (HIV, CMV, EBV, VZV, HTLV1,
+[**Male First Name (un) 2326**] virus). HIV viral load was also negative, so patient could
+not possibly be in the "window period" of acute infection. HSV
+culture was also negative from the CSF, so there was no evidence
+that the type of HSV was resistant to acyclovir, and thus no
+additional antiviral treatment was warranted. Brain biopsy was
+discussed several times throughout his course, but ultimately
+decided that there would be no diagnostic or therapeutic
+advantage from this.
+
+2. FEVER OF UNKNOWN ORIGIN-
+Patient developed fever to 102 daily. He was initially treated
+with empiric course of vanco/zosyn but fevers persisted with no
+clear source and all cultures negative. ID ultimately thought
+this was either drug or central fever. He did also develop a
+mild maculopapular rash and elevated eosinophil count, which
+point toward drug fever. His seizure medications were likely
+culprit, but could not be stopped due to nonconvulsive status.
+The rash improved on its own and the fevers continued until
+discharge.
+
+3. LYMPHOPENIA/LOW CD4 COUNT
+Patient developed lymphopenia and low CD 4 count (212 on [**7-5**]).
+This caused concern for HIV, but HIV antibodies and viral load
+were negative. Other possible causes such as CMV and HTLV1 were
+also negative. This may be due to chronic illness and bone
+marrow suppression from HSV infection.
+
+4. UTI
+Urine culture from [**7-9**] grew >100,000 E coli, treated with
+ceftriaxone.
+
+5. PNA
+Sputum culture from [**7-9**] grew Klebsiella, treated with
+ceftriaxone.
+
+GI:
+TRANAMINITIS- Patient had normal LFTs on admission but developed
+elevation in AST/ALT to 300-400 with no elevated bilirubin but
+with elevated ammonia. This was likely a medication side effect,
+and improved with stopping Depakote.
+There was then a second episode of LFT elevation that resolved
+with stopping zonisamide.
+
+HEME:
+1. DVT-
+ His prior rehab course was complicated by a lower extremity DVT
+and he was started on Coumadin. However, on [**5-15**] there was
+concern that the clot was mobile, and on [**2190-5-16**] he had an IVC
+filter placed. He was treated with therapeutic doses of Lovenox
+during this hospitalization, since coumadin was interacting with
+AEDs.
+
+2. Anemia
+Hematocrit gradually trended down during admission from 33 at
+admission to 25. Hematology was consulted. There was no evidence
+of hemolysis or any other acute concerning process on peripheral
+smear. Iron studies were consistent with iron deficiency so he
+was started on ferrous sulfate daily. There was also likely
+contribution of bone marrow suppression from medications.
+
+RENAL:
+Acute kidney injury- likely due to acyclovir and hypotension on
+sedation and AEDs. Resolved.
+
+Medications on Admission:
+- Colace 100mg [**Hospital1 **]
+- Finasteride 5mg daily
+- Fludrocortisone 0.1mg daily
+- Keppra 500mg [**Hospital1 **]
+- Midodrine 5mg daily
+- Mirtazapine 15mg QHS
+- Pantoprazole 40mg daily
+- Senna 2 tablets daily
+- Tamsulosin 0.4mg daily
+- Coumadin
+- Acyclovir 500mg Q8hr
+
+
+Discharge Medications:
+Deceased
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+refractory status epilepticus from HSV encephalitis
+
+Discharge Condition:
+deceased
+
+Discharge Instructions:
+NA
+
+Followup Instructions:
+NA
+
+

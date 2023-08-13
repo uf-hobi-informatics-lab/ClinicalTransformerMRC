@@ -1,0 +1,461 @@
+Admission Date:  [**2181-6-17**]              Discharge Date:   [**2181-6-21**]
+
+Date of Birth:  [**2118-3-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Bactrim DS
+
+Attending:[**First Name3 (LF) 12131**]
+Chief Complaint:
+Chief Complaint:  acute SOB
+
+Reason for MICU transfer:  suspected PE, sepsis [**3-8**] UTI
+
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+63F w/ recurrent stage IIIC papillary serous ovarian CA on cycle
+8 day 14 of carboplatin, gemcitabine, bevacizumab (avastin),
+complicated by ureter obstruction requiring left ureteral stent
+and right nephrostomy tube. She had a week of SOB PTA but on
+[**6-16**] had acute onset of SOB when at home, with fever, without
+cough, and no abd pain, no dysuria. Oncologic course has been
+complicated by b/l hydronephrosis thought to be [**3-8**] malignancy,
+as well as utereral obstructions requiring right nephrostomy
+tube.
+
+In the ED, initial VS were:  101 108 158/67 24 100% 2L (highest
+temp was 102.3). EKG showed ST 106 incomplete RB on previous,
+incomplete L bundle.  CTA was deferred due to elevated Cr.
+Non-con belly scan was ordered and bedside u/s showed normal
+fast, no pericardial effusion, no right heart strain, mild left
+hydronephrosis, normal right kidney. She was started on
+Vanc/Cefepime and given APAP. Urine from nephrostomy was cloudy;
+Foley'd urine was the second drawn. Heparin gtt was commenced
+for suspected PE. She had an elevated pro-BNP but normal trop,
+and no right axis deviation on ECG or on u/s: was not a
+candidate for TPA.
+
+On arrival to the MICU, she does not c/o any pain, but is still
+feeling SOB, better when supine as opposed to sitting up.  She
+denies CP, HA, abdom pain, pain upon deep inspiration, pain in
+calves/thighs. Adds that on day of admission, she felt more SOB
+fairly abruptly while sitting outside; at baseline, has no h/o
+heart problems or SOB when walking. She still urinates and also
+has UOP through the nephrostomy tube; is maintaining PO intake
+and says she still made urine at home today.
+
+Review of systems:
+Per HPI
+
+
+Past Medical History:
+ONCOLOGIC HISTORY:
+-- [**2180-2-7**] diagnosed with epithelial ovarian cancer at the time
+of
+exploratory laparotomy performed by Dr [**Last Name (STitle) 2028**]. Pathology
+revealed
+stage IIIC poorly differentiated (G3) papillary serous
+carcinoma.
+Two pelvic lymph nodes and one groin node were involved. There
+was no visible disease at the end of the operation.
+-- [**2180-2-28**] C1D1 IP Cis/Taxol as per GOG 172
+-- [**2180-3-20**] C2D1 IP Cis/Taxol as per GOG 172
+-- [**2180-4-10**]  C3D1 IP Cis/Taxol as per GOG 172
+-- [**2180-5-1**] C4D1 IP Cis/Taxol as per GOG 172
+-- [**2180-5-23**] C5D1 IP Cis/Taxol as per GOG 172
+-- [**2180-6-12**]  C6D1 IP Cis/Taxol as per GOG 172
+.
+Past Medical History:
+HTN.
+orthostatic hypotension.
+Right femoral hernia repair [**2153**].
+Cesarean section.
+.
+OB/GYN History:  G3P3.  2 spontaneous vaginal deliveries and one
+cesarean section.
+No h/o pelvic infections.
+No h/o abnormal pap smears.
+Menopause five years ago without complication and no
+postmenopausal bleeding.
+
+Social History:
+Tobacco: Denies.
+Alcohol: Occasional.
+Drugs: Denies.
+She lives with her husband in [**Name (NI) 5176**], who is an optometrist at
+the [**Hospital **] Clinic.
+
+
+Family History:
+Father: colon cancer in his 50s.
+Son: testicular cancer at 19, with no evidence of recurrence.
+No other family history of cancer.
+
+Physical Exam:
+Admission Physical Exam:
+Vitals:  T: 100  HR: 94  BP: 118/39  100% 2L NC
+General: Alert, oriented x3, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP 7-8cm, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, non-distended, bowel sounds present, no
+organomegaly, no tenderness to palpation, no rebound or
+guarding. Right nephrostomy tube draining yellow urine with some
+white clots; entry site is w/o erythema or drainage.
+GU: foley
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema; no erythema or swelling or tenderness in calves
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally.
+Discharge Physical Exam:
+Vitals: 98.8, 136/82, 73, 20, 100% RA
+General: Alert, oriented x3, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP 7-8cm, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, non-distended, bowel sounds present, no
+organomegaly, no tenderness to palpation, no rebound or
+guarding. Right nephrostomy tube draining clear yellow urine;
+entry site is w/o erythema or drainage.
+GU: foley
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema; no erythema or swelling or tenderness in calves
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally.
+
+Pertinent Results:
+ADMISSION LABS:
+[**2181-6-16**] 09:50PM BLOOD WBC-7.9 RBC-2.45* Hgb-7.8* Hct-24.9*
+MCV-102* MCH-31.9 MCHC-31.3 RDW-18.6* Plt Ct-65*#
+[**2181-6-16**] 09:50PM BLOOD Neuts-90.8* Lymphs-6.5* Monos-2.6 Eos-0.1
+Baso-0.1
+[**2181-6-16**] 09:50PM BLOOD PT-11.7 PTT-28.1 INR(PT)-1.1
+[**2181-6-17**] 06:41AM BLOOD Ret Aut-0.2*
+[**2181-6-16**] 09:50PM BLOOD Glucose-150* UreaN-23* Creat-1.9* Na-140
+K-4.3 Cl-104 HCO3-22 AnGap-18
+[**2181-6-16**] 09:50PM BLOOD ALT-15 AST-16 LD(LDH)-184 CK(CPK)-34
+AlkPhos-94 TotBili-0.3
+[**2181-6-16**] 09:50PM BLOOD CK-MB-1 cTropnT-<0.01 proBNP-788*
+[**2181-6-17**] 04:18AM BLOOD CK-MB-1 cTropnT-<0.01
+[**2181-6-16**] 09:50PM BLOOD Albumin-4.3 Calcium-9.8 Phos-0.7*# Mg-2.0
+UricAcd-6.6*
+[**2181-6-16**] 09:50PM BLOOD D-Dimer-2249*
+[**2181-6-17**] 04:18AM BLOOD Hapto-225*
+[**2181-6-16**] 09:50PM BLOOD Lactate-3.0*
+[**2181-6-17**] 07:05AM BLOOD Lactate-1.0
+[**2181-6-16**] 11:20PM URINE Color-Straw Appear-Cloudy Sp [**Last Name (un) **]-1.009
+[**2181-6-16**] 11:20PM URINE Blood-MOD Nitrite-NEG Protein-300
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-LG
+[**2181-6-16**] 11:20PM URINE RBC-27* WBC->182* Bacteri-MOD Yeast-NONE
+Epi-0
+[**2181-6-17**] 12:15AM URINE Hours-RANDOM Creat-67 Na-44 K-36 Cl-40
+.
+DISCHARGE LABS:
+[**2181-6-21**] 06:00AM BLOOD WBC-10.2 RBC-2.51* Hgb-8.1* Hct-24.5*
+MCV-98 MCH-32.5* MCHC-33.3 RDW-18.2* Plt Ct-54*
+[**2181-6-21**] 06:00AM BLOOD Neuts-80.9* Lymphs-12.2* Monos-6.0
+Eos-0.7 Baso-0.1
+[**2181-6-21**] 06:00AM BLOOD Plt Ct-54*
+[**2181-6-20**] 05:51AM BLOOD Fibrino-470*
+[**2181-6-20**] 05:51AM BLOOD Ret Aut-1.6
+[**2181-6-21**] 06:00AM BLOOD Glucose-95 UreaN-14 Creat-1.2* Na-143
+K-3.9 Cl-108 HCO3-28 AnGap-11
+[**2181-6-21**] 06:00AM BLOOD ALT-26 AST-19 LD(LDH)-182 AlkPhos-115*
+TotBili-0.2
+[**2181-6-21**] 06:00AM BLOOD Calcium-8.7 Phos-4.1 Mg-2.0
+
+MICROBIOLOGY:
+[**2181-6-16**] 10:30 pm BLOOD CULTURE      2 OF 2.
+   Blood Culture, Routine (Preliminary):
+      GRAM NEGATIVE ROD(S).
+   Aerobic Bottle Gram Stain (Final [**2181-6-17**]):
+      GRAM NEGATIVE ROD(S).
+   Anaerobic Bottle Gram Stain (Final [**2181-6-17**]):
+      GRAM NEGATIVE ROD(S).
+[**2181-6-16**] URINE CULTURE (Preliminary):
+      STAPH AUREUS COAG +.    >100,000 ORGANISMS/ML.
+.
+IMAGING:
+[**2181-6-16**] CXR:IMPRESSION:  No acute cardiopulmonary abnormality.
+
+[**2181-6-17**] CT abd/pelvis:
+IMPRESSION:
+1. Worsened left sided hydronephrosis with ureteral stent in
+unchanged
+position.  New stranding around the left kidney is noted which
+may represent new inflammation versus forniceal rupture.
+Contiued stranding is noted along the course of the left ureter.
+
+3. Urothelial thickening is noted on the right, with increase in
+renal pelvis dilation but no gross hydronephrosis.
+4. Right groin mass (series 2, image 78) previously identified
+as local
+recurrence is unchanged in size compared to the prior
+examination.
+.
+-[**6-17**] b/l LENIs:
+IMPRESSION:  No evidence of deep vein thrombosis either the
+right or left
+lower extremity.
+.
+-[**6-17**] VQ scan: Very low likelihood ratio for recent pulmonary
+embolism.
+
+MICROBIOLOGY
+[**2181-6-16**] 10:30 pm BLOOD CULTURE      2 OF 2.
+
+                            **FINAL REPORT [**2181-6-19**]**
+
+   Blood Culture, Routine (Final [**2181-6-19**]):
+      ESCHERICHIA COLI.    FINAL SENSITIVITIES.
+         Cefazolin interpretative criteria are based on a dosage
+regimen of
+         2g every 8h.
+         Piperacillin/Tazobactam sensitivity testing performed
+by [**First Name8 (NamePattern2) 3077**]
+         [**Last Name (NamePattern1) 3060**].
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----       S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+   Aerobic Bottle Gram Stain (Final [**2181-6-17**]):
+      Reported to and read back by NIDHI SUKUL,5/13/12,10:40AM.
+      GRAM NEGATIVE ROD(S).
+
+   Anaerobic Bottle Gram Stain (Final [**2181-6-17**]):
+      Reported to and read back by NIDHI SUKUL,5/13/12,10:40AM.
+      GRAM NEGATIVE ROD(S).
+
+[**2181-6-16**] 11:20 pm URINE
+
+                            **FINAL REPORT [**2181-6-19**]**
+
+   URINE CULTURE (Final [**2181-6-19**]):
+      STAPH AUREUS COAG +.    >100,000 ORGANISMS/ML..
+         Staphylococcus species may develop resistance during
+prolonged
+         therapy with quinolones.   Therefore, isolates that are
+initially
+         susceptible may become resistant within three to four
+days after
+         initiation of therapy.  Testing of repeat isolates may
+be
+         warranted.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+NITROFURANTOIN--------    32 S
+OXACILLIN-------------<=0.25 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+Brief Hospital Course:
+Ms. [**Known lastname 18573**] is a 63F w/ recurrent stage IIIC papillary
+serous ovarian CA on cycle 8 day 14 of carboplatin, gemcitabine,
+bevacizumab (avastin), and b/l hydronephrosis [**3-8**] ureter
+obstruction requiring left ureteral stent and right nephrostomy
+tube. She p/w acute onset SOB in the setting of one week of
+dyspnea and fatigue, which was initially concerning for PE.
+Further w/u ended up ruling out PE, and her SOB was likely in
+the context of her fever and GNR bacteremia, which were likely
+[**3-8**] urinary source.
+.
+ACTIVE ISSUES:
+.
+# Dyspnea: Pt p/w acute onset SOB, and was found to be in sinus
+tach with elevated d-dimer and BNP in setting of malignancy,
+although bedside u/s showed no e/o R heart strain. She did not
+undergo CTA due to elevated Cr, but was started on a heparin gtt
+in the ED. Upon admission to [**Hospital Unit Name 153**], she had no Si/Sx of
+hemodynamic or respiratory collapse. ACS, PNA or pulmonary edema
+were r/o. LENIs were obtained, which were negative. A VQ scan
+was subsequently performed, and it was low probability for PE
+and the heparin was d/c'd. In the [**Hospital Unit Name 153**] her SOB vastly improved
+without further intervention. Her dyspnea was most likely due to
+her anemia as she significantly improved after transfusion of 2
+units pRBCs for a HCT of 18.
+.
+# Fevers and UTI: UTI was likely cause for her fevers to 102.3
+and diff with 91% PMNs. Pt has a h/o b/l hydronephrosis [**3-8**]
+ureter obstruction requiring left ureteral stent and right
+nephrostomy tube, and all UA's have been positive with pyuria
+and hematuria since [**2-15**]. Upon admission, she again had positive
+UA's from both foley and nephrostomy tube. She received
+vanc/cefepime in the ED; her past urine Cx's have grown E coli
+sensitive to cefepime. Per past urology notes, her R kidney is
+not functioning as well as the left, and no other urological
+interventions were necessary; she is scheduled for a left stent
+change in [**7-17**].
+While in the [**Hospital Unit Name 153**], GNRs grew out of her blood Cx from [**6-16**], and
+she was continued on cefepime (d1=[**6-16**]), and continued on vanc
+(d1=[**6-16**]) given that she has a port. Her urine culture grew coag
++ staph and per Urology, it was recommended to continue treating
+the UTI w/o indication for stent removal at this time. Her urine
+culture eventually speciated as pansensitive staphylococcus
+aureus, and she was transitioned to oral augmentin to compelte a
+total 14 day course following discharge.  Her blood cultures
+speciated as pansensitive E. coli and she was transitined to
+oral ciprofloxacin, also to complete a 14 day course, priro to
+dishcarge.  She remained afebrile and stable on oral antibiotics
+for 24 hours prior to discharge.
+.
+# [**Last Name (un) **]: Baseline Cr is about 1.2-1.3; pt initially p/w Cr 1.9.
+Likely prerenal etiology given fever and UTI and FeNa of 0.9%.
+She has a h/o obstruction, but had been maintaining good UOP
+from urethra and nephrostomy. Her Cr improved in the [**Hospital Unit Name 153**] to 1.4
+after 2 units pRBCs, and subsequently improved further to 1.2 by
+the time of discharge.
+.
+# Anemia: Macrocytic anemia with Hct 24.9 and MCV 102 on
+admission; baseline Hct is in high 20's. She had no Si/Sx of
+active bleeding upon admission, although the pt endorses small
+amts of blood in stool while on avastin, known to heme-onc. She
+had a 6-point Hct drop after admission to the [**Hospital Unit Name 153**] with no
+identified source; her Hct bumped appropriately after 2U PRBC's.
+Her stool was guaiac negative.
+.
+CHRONIC OR INACTIVE ISSUES:
+.
+# Thrombocytopenia: Most likely [**3-8**] chemo per her primary
+oncologist, as per hx of similar s/p chemo and is unlikely HIT
+as her platelets were decreased upon admission and before the
+initiation of the heparin gtt.
+.
+# Recurrent stage IIIC papillary serous ovarian CA on cycle 8
+day 14 of carboplatin, gemcitabine, bevacizumab (avastin).
+.
+# HTN: initially held home lisinopril 5mg daily given fevers,
+UTI, and [**Last Name (un) **]. Once her creatinine decreased to 1.4, her home
+lisinopril was re-started.
+
+Medications on Admission:
+Home Medications:
+Lisinopril 5mg PO daily
+Vitamin D
+Colace
+
+
+Discharge Medications:
+1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Vitamin D3  Oral
+4. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours) for 11 days: last day [**2181-7-1**].
+Disp:*22 Tablet(s)* Refills:*0*
+5. amoxicillin-pot clavulanate 875-125 mg Tablet Sig: One (1)
+Tablet PO Q12H (every 12 hours) for 11 days: last day [**2181-7-1**].
+Disp:*22 Tablet(s)* Refills:*0*
+6. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+7. polyethylene glycol 3350 17 gram Powder in Packet Sig: One
+(1) Powder in Packet PO DAILY (Daily) as needed for
+constipation.
+Disp:*30 Powder in Packet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+Eschirichia coli bactermeia
+Methicillin sensitive staphylococcus aureus urinary tract
+infection
+Anemia
+Thrombocytopenia
+
+Secondary:
+Stage IIIC papillary serous ovarian carcinoma
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Ms. [**Known lastname 18573**],
+
+It was a pleasure taking care of you at the [**Hospital1 771**].  You were admitted with shortness of
+breath and fevers.  You were initially admitted to our intensive
+care unit, where you were treated with antibiotics.  Your blood
+counts were found to be low, and you were given blood
+transfusions. You were initally started on a blood thinner to
+treat you for a potential blood clot in your lungs, but
+subsequent studies showed that you were unlikely to have
+developed a blood clot, and the blood thinner was stopped.  Your
+breathing improved after blood transfusion.
+
+We found that you have an infection in your blood and urine.
+You were treated initially with intravenous antibiotics, and
+eventually switched to oral antibiotics.  You will need to
+compelte a course of oral antibiotics as an outpatient.  Please
+followup with Dr. [**Last Name (STitle) **] in clinic.
+
+We made the following changes to your medications:
+STARTED
+-Augmentin until [**2181-7-1**]
+-Ciprofloxacin until [**2181-7-1**]
+-Senna and Polyethylene glycol to help you move your bowels
+
+Please continue taking your other medications as usual.
+
+Please followup with your doctors, see below.
+
+Followup Instructions:
+Department: HEMATOLOGY/ONCOLOGY
+When: MONDAY [**2181-6-25**] at 9:30 AM
+With: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD [**Telephone/Fax (1) 22**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: MONDAY [**2181-6-25**] at 11:00 AM
+With: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 14688**], RN [**Telephone/Fax (1) 22**]
+Building: [**Hospital6 29**] [**Location (un) 24**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: RADIOLOGY CARE UNIT
+When: WEDNESDAY [**2181-7-11**] at 9:00 AM [**Telephone/Fax (1) 446**]
+Building: De [**Hospital1 **] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **]
+Campus: WEST     Best Parking: [**Street Address(1) 592**] Garage
+
+
+
+Completed by:[**2181-6-23**]

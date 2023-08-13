@@ -1,0 +1,84 @@
+T1	Reason 3594 3602	GI bleed
+R1	Reason-Drug Arg1:T1 Arg2:T6
+T2	Drug 3732 3735	PPI
+T5	Dosage 3989 3996	3 units
+R4	Dosage-Drug Arg1:T5 Arg2:T6
+T6	Drug 3997 4002	PRBCs
+T7	Reason 4352 4359	Smoking
+R5	Reason-Drug Arg1:T7 Arg2:T8
+T8	Drug 4368 4376	nicotine
+T9	Form 4377 4382	patch
+R6	Form-Drug Arg1:T9 Arg2:T8
+T10	Drug 4587 4596	ibuprofen
+T11	Dosage 4597 4598	2
+R7	Dosage-Drug Arg1:T11 Arg2:T10
+T12	Form 4599 4603	tabs
+R8	Form-Drug Arg1:T12 Arg2:T10
+T13	Frequency 4604 4620	3-4 times weekly
+R9	Frequency-Drug Arg1:T13 Arg2:T10
+T14	Reason 4626 4641	cold prevention
+R10	Reason-Drug Arg1:T14 Arg2:T10
+T15	Drug 4670 4678	Prilosec
+T16	Strength 4679 4684	20 mg
+R11	Strength-Drug Arg1:T16 Arg2:T15
+T17	Form 4685 4715	Capsule, Delayed Release(E.C.)
+R12	Form-Drug Arg1:T17 Arg2:T15
+T18	Dosage 4721 4728	One (1)
+R13	Dosage-Drug Arg1:T18 Arg2:T15
+T19	Form 4729 4759	Capsule, Delayed Release(E.C.)
+R14	Form-Drug Arg1:T19 Arg2:T15
+T20	Route 4760 4762	PO
+R15	Route-Drug Arg1:T20 Arg2:T15
+T21	Frequency 4763 4774	twice a day
+R16	Frequency-Drug Arg1:T21 Arg2:T15
+T22	Duration 4775 4786	for 14 days
+R17	Duration-Drug Arg1:T22 Arg2:T15
+T23	Drug 4847 4859	Tetracycline
+T24	Strength 4860 4866	250 mg
+R18	Strength-Drug Arg1:T24 Arg2:T23
+T25	Form 4867 4874	Capsule
+R19	Form-Drug Arg1:T25 Arg2:T23
+T26	Dosage 4880 4887	Two (2)
+R20	Dosage-Drug Arg1:T26 Arg2:T23
+T27	Form 4888 4895	Capsule
+R21	Form-Drug Arg1:T27 Arg2:T23
+T28	Route 4896 4898	PO
+R22	Route-Drug Arg1:T28 Arg2:T23
+T29	Frequency 4899 4902;4903 4918	Q6H (every 6 hours)
+R23	Frequency-Drug Arg1:T29 Arg2:T23
+T30	Drug 4957 4978	Bismuth Subsalicylate
+T31	Strength 4979 4985	262 mg
+R24	Strength-Drug Arg1:T31 Arg2:T30
+T32	Form 4986 5002	Tablet, Chewable
+R25	Form-Drug Arg1:T32 Arg2:T30
+T33	Dosage 5008 5015	Two (2)
+R26	Dosage-Drug Arg1:T33 Arg2:T30
+T34	Form 5016 5022	Tablet
+R27	Form-Drug Arg1:T34 Arg2:T30
+T35	Route 5023 5025	PO
+R28	Route-Drug Arg1:T35 Arg2:T30
+T36	Frequency 5026 5045	QID (4 times a day)
+R29	Frequency-Drug Arg1:T36 Arg2:T30
+T37	Duration 5046 5057	for 14 days
+R30	Duration-Drug Arg1:T37 Arg2:T30
+T38	Drug 5095 5108	Metronidazole
+T39	Strength 5109 5115	500 mg
+R31	Strength-Drug Arg1:T39 Arg2:T38
+T40	Form 5116 5122	Tablet
+R32	Form-Drug Arg1:T40 Arg2:T38
+T41	Dosage 5128 5135	One (1)
+R33	Dosage-Drug Arg1:T41 Arg2:T38
+T42	Form 5136 5142	Tablet
+R34	Form-Drug Arg1:T42 Arg2:T38
+T43	Route 5143 5145	PO
+R35	Route-Drug Arg1:T43 Arg2:T38
+T44	Frequency 5146 5152;5153 5165	TID (3 times a day)
+R36	Frequency-Drug Arg1:T44 Arg2:T38
+T45	Duration 5166 5177	for 14 days
+R37	Duration-Drug Arg1:T45 Arg2:T38
+T46	Reason 791 800	HCT of 19
+R38	Reason-Drug Arg1:T46 Arg2:T48
+T47	Dosage 816 823	3 units
+R39	Dosage-Drug Arg1:T47 Arg2:T48
+T48	Drug 824 828	prbc
+R40	Reason-Drug Arg1:T1 Arg2:T2	

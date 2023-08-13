@@ -1,0 +1,214 @@
+T1	Drug 9856 9868	voriconazole
+T2	Strength 12569 12574	40 mg
+T3	Form 12575 12582	Capsule
+T4	Drug 9607 9617	vancomycin
+T5	Drug 13197 13207	PYRIDOXINE
+T6	Strength 13210 13216	100 mg
+T7	Drug 12816 12826	LISINOPRIL
+T8	Strength 12829 12834	20 mg
+T9	Form 12835 12841	Tablet
+T10	Drug 9622 9630	cefepime
+T12	Drug 164 174	Ampicillin
+T13	Drug 11462 11473	epinephrine
+T14	Strength 11474 11478	1 mg
+T16	Drug 13223 13229	Zyrtec
+T17	Form 13232 13235	tab
+T18	Dosage 13230 13231	1
+T19	Strength 12858 12864	0.4 mg
+T20	Form 12865 12871	Tablet
+T21	Drug 12842 12855	NITROGLYCERIN
+T22	Drug 12589 12599	FOLIC ACID
+T23	Strength 12602 12606	1 mg
+T24	Form 12618 12624;12624 12627	Tablet (s)
+T25	Dosage 12616 12617	1
+T26	Frequency 12637 12643;12644 12647	once a day
+T27	Route 12628 12636	by mouth
+T28	Drug 1502 1515	ciprofloxacin
+T29	Drug 10934 10941	bactrim
+T30	Drug 12731 12738;12739 12755	INSULIN LISPRO [HUMALOG]
+T31	Strength 12758 12766;12766 12769	100 unit /mL
+T32	Drug 1089 1101	clofarabine,
+T33	Drug 1477 1487	vancomycin
+T34	Drug 9414 9425	clofarabine
+T35	Drug 13001 13011;13012 13020	TAMSULOSIN [FLOMAX]
+T36	Strength 13023 13029	0.4 mg
+T37	Drug 10058 10070	voriconazole
+T38	Drug 12483 12493;12494 12502	BISOPROLOL FUMARATE
+T39	Strength 12505 12510	10 mg
+T40	Form 12511 12517	Tablet
+T41	Drug 13120 13149	CYANOCOBALAMIN (VITAMIN B-12)
+T42	Strength 13150 13159	1,000 mcg
+T43	Form 13160 13166	Tablet
+T44	Dosage 13188 13189	1
+T45	Drug 1489 1497	cefepime
+T46	Drug 982 994	deferasirox.
+T47	Reason 3671 3675;3676 3685	iron chelation
+T48	Drug 2655 2661	flomax
+T49	Drug 12899 12909;12910 12918	OXYBUTYNIN CHLORIDE
+T50	Strength 12919 12923	5 mg
+T51	Form 12935 12941;12941 12944	Tablet (s)
+T52	Dosage 12933 12934	1
+T53	Route 12945 12953	by mouth
+T54	Drug 9829 9838	meropenem
+T55	Drug 3691 3702;3703 3711	deferasirox (Exjade)
+T56	Drug 12784 12804	ISOSORBIDE DINITRATE
+T57	Strength 12807 12811	40mg
+T58	Frequency 12812 12815	TID
+T59	Drug 9841 9853	levofloxacin
+T60	Drug 10866 10878	posaconazole
+T61	Drug 9205 9216	clofarabine
+T62	Drug 12535 12547;12548 12566	ESOMEPRAZOLE MAGNESIUM [NEXIUM]
+T63	Drug 13055 13070;13071 13097	CHOLECALCIFEROL (VITAMIN D3) [VITAMIN D-3]
+T64	Strength 13098 13106	400 unit
+T65	Drug 12970 12981	PRAVASTATIN
+T66	Strength 12984 12989	40 mg
+T67	Form 12990 12996	Tablet
+T68	Drug 10879 10887	ambisome
+T69	Reason 12888 12898	chest pain
+T70	Reason 959 976	chelation therapy
+T71	Reason 1395 1413	neutropenic fevers
+T73	Reason 2648 2651	BPH
+T74	Drug 3518 3529;3530 3538	azacitidine (Vidaza)
+T75	Drug 3627 3633	PRBC's
+T76	Drug 3638 3646	platelet
+T77	Route 3647 3658	tranfusions
+T78	Drug 10037 10045	ambisome
+T79	Drug 10818 10821	abx
+T80	Drug 10910 10915	dapto
+T81	Drug 11666 11678	vasopressors
+T82	Frequency 12583 12588	daily
+T83	Form 12607 12613	Tablet
+T84	Frequency 12720 12730	at bedtime
+T85	Dosage 12699 12707	28 units
+T86	Form 12708 12719	Solution(s)
+T87	Form 12688 12696	Solution
+T88	Strength 12676 12687	100 unit/mL
+T89	Drug 12648 12673	INSULIN GLARGINE [LANTUS]
+T90	Dosage 12770 12783	Sliding scale
+T91	Route 12873 12883	Sublingual
+T92	Frequency 13030 13035	daily
+T93	Frequency 12997 13000	QPM
+T94	Form 12924 12930	Tablet
+T95	Frequency 12954 12960;12961 12969	HS (at bedtime)
+T96	Form 13107 13113	Tablet
+T97	Frequency 13114 13119	Daily
+T98	Form 13190 13196	Tablet
+T99	Drug 13173 13185	MULTIVITAMIN
+T100	Frequency 13217 13222	daily
+T101	Frequency 13236 13241	daily
+T102	Frequency 13167 13172	daily
+R1	Strength-Drug Arg1:T6 Arg2:T5
+R2	Strength-Drug Arg1:T8 Arg2:T7
+R3	Form-Drug Arg1:T9 Arg2:T7
+R4	Strength-Drug Arg1:T14 Arg2:T13
+R6	Form-Drug Arg1:T17 Arg2:T16
+R7	Dosage-Drug Arg1:T18 Arg2:T16
+R8	Strength-Drug Arg1:T19 Arg2:T21
+R9	Form-Drug Arg1:T20 Arg2:T21
+R10	Strength-Drug Arg1:T23 Arg2:T22
+R11	Form-Drug Arg1:T24 Arg2:T22
+R12	Dosage-Drug Arg1:T25 Arg2:T22
+R13	Frequency-Drug Arg1:T26 Arg2:T22
+R14	Route-Drug Arg1:T27 Arg2:T22
+R15	Strength-Drug Arg1:T31 Arg2:T30
+R16	Strength-Drug Arg1:T36 Arg2:T35
+R17	Strength-Drug Arg1:T39 Arg2:T38
+R18	Form-Drug Arg1:T40 Arg2:T38
+R19	Strength-Drug Arg1:T42 Arg2:T41
+R20	Form-Drug Arg1:T43 Arg2:T41
+R21	Strength-Drug Arg1:T50 Arg2:T49
+R22	Form-Drug Arg1:T51 Arg2:T49
+R23	Dosage-Drug Arg1:T52 Arg2:T49
+R24	Route-Drug Arg1:T53 Arg2:T49
+R25	Strength-Drug Arg1:T57 Arg2:T56
+R26	Frequency-Drug Arg1:T58 Arg2:T56
+R27	Strength-Drug Arg1:T64 Arg2:T63
+R28	Strength-Drug Arg1:T66 Arg2:T65
+R29	Form-Drug Arg1:T67 Arg2:T65
+R30	Reason-Drug Arg1:T70 Arg2:T46
+R31	Reason-Drug Arg1:T71 Arg2:T33
+R32	Reason-Drug Arg1:T71 Arg2:T45
+R33	Reason-Drug Arg1:T71 Arg2:T28
+R35	Reason-Drug Arg1:T73 Arg2:T48
+R36	Route-Drug Arg1:T77 Arg2:T76
+R37	Reason-Drug Arg1:T47 Arg2:T55
+R38	Strength-Drug Arg1:T2 Arg2:T62
+R39	Form-Drug Arg1:T83 Arg2:T22
+R40	Strength-Drug Arg1:T88 Arg2:T89
+R41	Form-Drug Arg1:T87 Arg2:T89
+R42	Dosage-Drug Arg1:T85 Arg2:T89
+R43	Form-Drug Arg1:T86 Arg2:T89
+R44	Frequency-Drug Arg1:T84 Arg2:T89
+R45	Dosage-Drug Arg1:T90 Arg2:T30
+R46	Route-Drug Arg1:T91 Arg2:T21
+R47	Reason-Drug Arg1:T69 Arg2:T21
+R48	Frequency-Drug Arg1:T93 Arg2:T65
+R49	Form-Drug Arg1:T94 Arg2:T49
+R50	Frequency-Drug Arg1:T95 Arg2:T49
+R51	Frequency-Drug Arg1:T92 Arg2:T35
+R52	Frequency-Drug Arg1:T97 Arg2:T63
+R53	Form-Drug Arg1:T96 Arg2:T63
+R54	Frequency-Drug Arg1:T100 Arg2:T5
+R55	Frequency-Drug Arg1:T101 Arg2:T16
+R56	Dosage-Drug Arg1:T44 Arg2:T99
+R57	Form-Drug Arg1:T98 Arg2:T99
+R58	Frequency-Drug Arg1:T102 Arg2:T41
+T103	Drug 2049 2055	Exgade
+T104	Reason 9584 9591	febrile
+T105	Reason 9765 9772	febrile
+T106	Drug 10207 10218	clofarabine
+T107	ADE 10219 10227	toxicity
+T108	Drug 10603 10611	pressors
+T109	Reason 10581 10592	hypotensive
+T110	Drug 10629 10637	pressors
+T111	Drug 10890 10894	vanc
+T112	Dosage 11484 11485	2
+T115	Drug 548 551	SCT
+T117	Drug 829 838	red cells
+T118	Drug 843 852	platelets
+T119	Route 798 809	transfusion
+T120	Drug 1128 1131	ATG
+T121	Reason 2290 2296	Angina
+T122	Drug 2395 2400	nitro
+T123	Drug 3100 3108	red cell
+T124	Drug 3113 3121	platelet
+T125	Reason 3082 3094	pancytopenia
+T126	Route 3122 3133	transfusion
+T127	Drug 6999 7007	contrast
+T128	Drug 9090 9093	SCT
+T130	Drug 9196 9199	SCT
+T132	Drug 9430 9433	SCT
+T134	Drug 9565 9568	SCT
+T135	Drug 9635 9638	SCT
+T138	Reason 10084 10097	galactomannan
+T139	Reason 10853 10864	aspergillus
+T140	Reason 10920 10932	VRE coverage
+T141	Reason 10956 10959	PCP
+T142	Frequency 11495 11513	five minutes apart
+T143	Frequency 12884 12887	PRN
+T144	Drug 13037 13048	Medications
+R60	Route-Drug Arg1:T119 Arg2:T118
+R61	Route-Drug Arg1:T119 Arg2:T117
+R62	Reason-Drug Arg1:T121 Arg2:T122
+R63	Route-Drug Arg1:T126 Arg2:T124
+R64	Route-Drug Arg1:T126 Arg2:T123
+R65	Reason-Drug Arg1:T125 Arg2:T123
+R66	Reason-Drug Arg1:T125 Arg2:T124
+R72	ADE-Drug Arg1:T107 Arg2:T106
+R73	Reason-Drug Arg1:T109 Arg2:T108
+R34	Reason-Drug Arg1:T104 Arg2:T4	
+R74	Reason-Drug Arg1:T105 Arg2:T54	
+R75	Reason-Drug Arg1:T139 Arg2:T60	
+R76	Reason-Drug Arg1:T140 Arg2:T80	
+R77	Reason-Drug Arg1:T141 Arg2:T29	
+R78	Dosage-Drug Arg1:T112 Arg2:T13	
+R79	Frequency-Drug Arg1:T142 Arg2:T13	
+R80	Form-Drug Arg1:T3 Arg2:T62	
+R81	Frequency-Drug Arg1:T82 Arg2:T62	
+R82	Frequency-Drug Arg1:T143 Arg2:T21
+T11	Route 11479 11481	IV
+R5	Route-Drug Arg1:T11 Arg2:T13	
+T15	Reason 1391 1394	CAP
+R59	Reason-Drug Arg1:T15 Arg2:T33	
+R67	Reason-Drug Arg1:T15 Arg2:T45	
+R68	Reason-Drug Arg1:T15 Arg2:T28	

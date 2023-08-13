@@ -1,0 +1,169 @@
+T1	Drug 167 177	Vancomycin
+T3	Drug 3157 3163	Kefzol
+T5	Drug 3190 3197	ketamin
+T6	Reason 3447 3457	temp 102.5
+R3	Reason-Drug Arg1:T6 Arg2:T7
+R4	Reason-Drug Arg1:T6 Arg2:T8
+R5	Reason-Drug Arg1:T6 Arg2:T9
+R6	Reason-Drug Arg1:T6 Arg2:T10
+R7	Reason-Drug Arg1:T6 Arg2:T11
+R8	Reason-Drug Arg1:T6 Arg2:T12
+T7	Drug 3474 3481	tylenol
+T8	Drug 3540 3551	antibiotics
+T9	Drug 3576 3582	kefzol
+T10	Drug 3586 3591	vanco
+T11	Drug 3592 3597	cipro
+T12	Drug 3598 3604	flagyl
+T13	ADE 3641 3644	SOB
+R9	ADE-Drug Arg1:T13 Arg2:T9
+R10	ADE-Drug Arg1:T13 Arg2:T10
+R11	ADE-Drug Arg1:T13 Arg2:T11
+R12	ADE-Drug Arg1:T13 Arg2:T12
+R13	ADE-Drug Arg1:T13 Arg2:T16
+T14	ADE 3657 3670	rash on chest
+R14	ADE-Drug Arg1:T14 Arg2:T9
+R15	ADE-Drug Arg1:T14 Arg2:T10
+R16	ADE-Drug Arg1:T14 Arg2:T11
+R17	ADE-Drug Arg1:T14 Arg2:T12
+R18	ADE-Drug Arg1:T14 Arg2:T16
+T15	ADE 3675 3688	hives on neck
+R19	ADE-Drug Arg1:T15 Arg2:T9
+R20	ADE-Drug Arg1:T15 Arg2:T10
+R21	ADE-Drug Arg1:T15 Arg2:T11
+R22	ADE-Drug Arg1:T15 Arg2:T12
+R23	ADE-Drug Arg1:T15 Arg2:T16
+T16	Drug 3712 3723	antibioitcs
+T17	Drug 3724 3728	Atbx
+T18	Drug 4002 4012	Daptomycin
+T19	Drug 4017 4028	Ceftazidime
+T20	Duration 4029 4051	until 24hours afebrile
+R24	Duration-Drug Arg1:T20 Arg2:T19
+R25	Duration-Drug Arg1:T20 Arg2:T18
+T21	Drug 4096 4104	Ketamine
+T22	Route 4105 4109	drip
+R26	Route-Drug Arg1:T22 Arg2:T21
+T23	Dosage 4119 4126	tapered
+R27	Dosage-Drug Arg1:T23 Arg2:T21
+T24	Drug 4203 4214	Antibiotics
+T25	Drug 4498 4508	clonazepam
+T26	Strength 4509 4513	1mgm
+R28	Strength-Drug Arg1:T26 Arg2:T25
+T27	Frequency 4514 4517	tid
+R29	Frequency-Drug Arg1:T27 Arg2:T25
+T28	Drug 4518 4528	topiramate
+T29	Strength 4529 4535	100mgm
+R30	Strength-Drug Arg1:T29 Arg2:T28
+T30	Form 4536 4539	tab
+R31	Form-Drug Arg1:T30 Arg2:T28
+T31	Frequency 4553 4555	HS
+R32	Frequency-Drug Arg1:T31 Arg2:T28
+T32	Drug 4556 4564	tramadol
+T33	Strength 4565 4570	50mgm
+R33	Strength-Drug Arg1:T33 Arg2:T32
+T34	Frequency 4571 4574	q4h
+R34	Frequency-Drug Arg1:T34 Arg2:T32
+T35	Drug 4604 4612	Tramadol
+T36	Strength 4613 4618	50 mg
+R35	Strength-Drug Arg1:T36 Arg2:T35
+T37	Form 4619 4625	Tablet
+R36	Form-Drug Arg1:T37 Arg2:T35
+T38	Dosage 4631 4634	1-2
+R37	Dosage-Drug Arg1:T38 Arg2:T35
+T39	Form 4635 4642	Tablets
+R38	Form-Drug Arg1:T39 Arg2:T35
+T40	Route 4643 4645	PO
+R39	Route-Drug Arg1:T40 Arg2:T35
+T41	Frequency 4646 4649	Q4H
+R40	Frequency-Drug Arg1:T41 Arg2:T35
+T42	Drug 4680 4690	Clonazepam
+T43	Strength 4691 4695	1 mg
+R41	Strength-Drug Arg1:T43 Arg2:T42
+T44	Form 4696 4702	Tablet
+R42	Form-Drug Arg1:T44 Arg2:T42
+T45	Dosage 4708 4715	One (1)
+T46	Form 4716 4722	Tablet
+R43	Form-Drug Arg1:T46 Arg2:T42
+T47	Route 4723 4725	PO
+R44	Route-Drug Arg1:T47 Arg2:T42
+T49	Frequency 4726 4740;4741 4755	TID (3 times a day) as needed
+R45	Frequency-Drug Arg1:T49 Arg2:T42
+T50	Drug 4760 4775	Docusate Sodium
+T51	Strength 4776 4782	100 mg
+R46	Strength-Drug Arg1:T51 Arg2:T50
+T52	Form 4783 4790	Capsule
+R47	Form-Drug Arg1:T52 Arg2:T50
+T53	Dosage 4796 4803	One (1)
+R48	Dosage-Drug Arg1:T53 Arg2:T50
+T54	Form 4804 4811	Capsule
+R49	Form-Drug Arg1:T54 Arg2:T50
+T55	Route 4812 4814	PO
+R50	Route-Drug Arg1:T55 Arg2:T50
+T56	Frequency 4815 4818	BID
+R51	Frequency-Drug Arg1:T56 Arg2:T50
+T57	Drug 4839 4849	Topiramate
+T58	Strength 4850 4856	100 mg
+R52	Strength-Drug Arg1:T58 Arg2:T57
+T59	Form 4857 4863	Tablet
+R53	Form-Drug Arg1:T59 Arg2:T57
+T60	Dosage 4869 4872	1.5
+R54	Dosage-Drug Arg1:T60 Arg2:T57
+T61	Form 4873 4880	Tablets
+R55	Form-Drug Arg1:T61 Arg2:T57
+T62	Route 4881 4883	PO
+R56	Route-Drug Arg1:T62 Arg2:T57
+T63	Frequency 4884 4899;4900 4909	HS (at bedtime) as needed
+R57	Frequency-Drug Arg1:T63 Arg2:T57
+T64	Drug 4914 4929	Docusate Sodium
+T65	Strength 4930 4936	100 mg
+R58	Strength-Drug Arg1:T65 Arg2:T64
+T66	Form 4937 4944	Capsule
+R59	Form-Drug Arg1:T66 Arg2:T64
+T67	Dosage 4950 4957	One (1)
+R60	Dosage-Drug Arg1:T67 Arg2:T64
+T68	Form 4958 4965	Capsule
+R61	Form-Drug Arg1:T68 Arg2:T64
+T69	Route 4966 4968	PO
+R62	Route-Drug Arg1:T69 Arg2:T64
+T70	Frequency 4969 4972	BID
+R63	Frequency-Drug Arg1:T70 Arg2:T64
+T71	Duration 4989 5000	for 3 weeks
+R64	Duration-Drug Arg1:T71 Arg2:T64
+T72	Drug 5038 5047	Oxycodone
+T73	Strength 5048 5052	5 mg
+R65	Strength-Drug Arg1:T73 Arg2:T72
+T74	Form 5053 5059	Tablet
+R66	Form-Drug Arg1:T74 Arg2:T72
+T75	Dosage 5065 5068	1-2
+R67	Dosage-Drug Arg1:T75 Arg2:T72
+T76	Form 5069 5076	Tablets
+R68	Form-Drug Arg1:T76 Arg2:T72
+T77	Route 5077 5079	PO
+R69	Route-Drug Arg1:T77 Arg2:T72
+T78	Frequency 5080 5089	3-6 hours
+R70	Frequency-Drug Arg1:T78 Arg2:T72
+T79	Duration 5090 5095;5096 5101	for 2 weeks
+R71	Duration-Drug Arg1:T79 Arg2:T72
+T80	Drug 5163 5172	oxycodone
+T81	Drug 684 691	Ketamin
+T82	Route 692 695	gtt
+R72	Route-Drug Arg1:T82 Arg2:T81
+T83	Drug 8019 8034	pain medication
+T84	Frequency 8061 8106	three (3) to four (4) hours only if necessary
+R73	Frequency-Drug Arg1:T84 Arg2:T83
+T85	Drug 8124 8142	narcotic pain meds
+T86	ADE 8150 8162	constipating
+R74	ADE-Drug Arg1:T86 Arg2:T85
+T87	Reason 8311 8322	constipated
+R75	Reason-Drug Arg1:T87 Arg2:T88
+R76	Reason-Drug Arg1:T87 Arg2:T89
+T88	Drug 8382 8391	Metamucil
+T89	Drug 8395 8411	Milk of Magnesia
+T48	Form 5011 5020	Capsule(s
+R77	Form-Drug Arg1:T48 Arg2:T64	
+T90	Form 5184 5193	Tablet(s)
+R78	Form-Drug Arg1:T90 Arg2:T72	
+T2	Route 3154 3156	IV
+T4	Route 3187 3189	Iv
+R1	Route-Drug Arg1:T2 Arg2:T3	
+R2	Route-Drug Arg1:T4 Arg2:T5	
+R79	Dosage-Drug Arg1:T45 Arg2:T42	

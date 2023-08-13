@@ -1,0 +1,70 @@
+Name:  [**Known lastname 17298**], [**Known firstname **]                     Unit No:  [**Numeric Identifier 17299**]
+
+Admission Date:  [**2148-3-25**]     Discharge Date:  [**2148-4-9**]
+
+Date of Birth:   [**2097-9-27**]     Sex:  M
+
+Service:  Transplant surgery.  #58
+
+ADDENDUM:
+
+The patient was anticipating discharge to the [**Hospital 17300**]
+Rehabilitation Center on [**2148-4-4**].  However, the patient
+was found to have rising liver function tests with a peak
+total bilirubin level of 4.5 and, therefore, underwent an
+endoscopic retrograde cholangiopancreatography procedure on
+this date.  This study demonstrated diffuse dilatation at the
+proximal site of the biliary anastomosis, compatible with an
+anastomotic stricture.  A 5 cm by #10 French plastic biliary
+stent was, therefore, placed.
+
+Following this procedure, the patient felt well clinically
+without abdominal pain.  However, his amylase and lipase were
+slightly elevated the day following the procedure and he was,
+therefore, monitored for possible post endoscopic retrograde
+cholangiopancreatography pancreatitis.  The patient was
+maintained on his intravenous diuretics and his liver
+function tests slowly returned to [**Location 1867**] following the
+procedure.  However, on hospital day number 13, the patient
+complained of left upper extremity swelling, which he states
+had been there for some months prior to admission.  However,
+given the presence of a left subclavian central venous line,
+and this new finding on examination, a duplex ultrasound was
+ordered for the left upper extremity which was consistent
+with a deep venous thrombosis.  The patient was, therefore,
+started on a heparin drip to be titrated to a goal PTT
+between 40 to 60 seconds. He was also started on Coumadin 5
+mg daily towards a goal INR of 2.0 to 2.5.  At this time, the
+patient was progressing well with physical therapy and was
+discharged to the [**Hospital 17300**] Rehabilitation Center on hospital
+day number 16, on a heparin drip, along with intravenous
+Lasix and Coumadin.  His central venous line was removed
+prior to discharge.  His heparin drip may be discontinued
+once his INR reaches a level of 2.0.  He should be treated
+for Coumadin for three months given his left upper extremity
+deep vein thrombosis.  He will maintain his Lasix dose at 80
+mg intravenous twice a day until his follow-up appointment on
+[**2148-4-18**].  He is to have his laboratory studies drawn
+twice weekly, on Monday and Thursday, and faxed to the
+transplant center for adjustment of his Cyclosporin dosing.
+This level is to be drawn two hours after his morning dose.
+The patient was instructed to call the transplant center if
+he had any other questions or concerns.
+
+
+
+
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 51**], M.D.,PH.D.[**MD Number(3) 9110**]
+
+Dictated By:[**Last Name (NamePattern1) 7438**]
+
+MEDQUIST36
+
+D:  [**2148-4-9**]  06:13
+T:  [**2148-4-9**]  06:16
+JOB#:  [**Job Number 17301**]

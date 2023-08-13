@@ -1,0 +1,383 @@
+Admission Date:  [**2153-1-16**]              Discharge Date:   [**2153-1-19**]
+
+Date of Birth:  [**2079-7-20**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 458**]
+Chief Complaint:
+Respiratory depression.
+
+Major Surgical or Invasive Procedure:
+[**Hospital1 **]-ventricular ICD upgrade
+
+History of Present Illness:
+73yoM retired surgeon with history of Parkinson's disease (?
+diffuse [**Last Name (un) 309**] body disease), HTN, DM, systolic HF (EF 20% in
+[**11-4**]), history of CVA (residual left visual field cut), AF s/p
+AVN ablation and pacer, admitted initially to CMI for BiV ICD
+placement [**1-15**], with post-procedure admission planned for
+heparin-coumadin (indication for anticoagulation AF - CVA).
+Intra-procedure, received haldol 5 mg IV, fentanyl 200 mg IV,
+and versed 1.5 mg IV and noted to be poorly responsive to
+commands and low RR in recovery area; [**Hospital Unit Name 196**] called to evaluate.
+VBG at that time 52/46/7.37. At 1 hr post-procedure, patient
+began to become more responsive to commands and increased level
+of consciousness.
+Patient being transfer to CCU for observation of his clinical
+status.
+
+
+Past Medical History:
+1. Parkinsons Disease.  ? LBD
+2. DM II
+3. HTN
+4. Autonomic dysfunction-hx of orthostatic hypotension.  Treated
+with Florinef in the past, was d/c'd due to fluid retention.
+Restarted [**5-4**].
+5. CAD- s/p MI in [**2120**], s/p CABG
+6. CHF- Echo [**11-4**]-: Regional LV wall motion abnormalities
+include: basal anteroseptal - akinetic; mid anteroseptal -
+akinetic; basal inferoseptal -akinetic; mid inferoseptal -
+akinetic; basal inferior - akinetic; mid inferior- akinetic;
+basal inferolateral - akinetic; mid inferolateral - akinetic;
+septal apex- akinetic; inferior apex -akinetic; [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 5660**]
+dilated. RA is moderately dilated.
+The left ventricular cavity is moderately dilated. There is
+severe global left ventricular hypokinesis. Overall left
+ventricular systolic function is severely depressed (EF <20)
+7. Stroke [**11-2**]- right PCA, residual left field cut
+8. Sick Sinus syndrome,  s/p PCM
+9. A.fib/SVT, s/p ablation
+[**56**]. Hypercholesterolemia
+11. Cervical stenosis
+12. H/o back pain and L1 compression fxr
+13. Anemia
+14. h/o prostate CA, s/p [**Year (2 digits) 16859**] ([**2146**]) and hormonal tx
+15. h/o renal stones and s/p lithotripsy
+16. s/p appy
+
+Social History:
+Lives with his wife. There is becoming an increasingly difficult
+situation due to the need for live-in/24 hr care at home. There
+is an
+ongoing dialogue about this, but no plans have been made
+definitively. He is a retired physician. [**Name10 (NameIs) **] [**Name11 (NameIs) **], occasional
+EtOH.
+
+Family History:
+HTN, colon ca, Parkinson's
+
+
+Physical Exam:
+VS: T BP 133/76 HR 80 RR 19 Sats 97 RA
+Gen: patient somnolent, slowly responds to questions.
+HEENT: no JVD, no LAD
+Chest: Left side pacemaker poket with compression dressing,
+small hematoma,
+Lungs: clear to auscultation b/l, no crackles or wheezes
+Cardiovascular: RRR, s1-s2 normal, holosytolic murmur in the
+apex
+Abdomen: Bowel sounds +, non tender, non distended.
+GU: condom catheter in place
+Extremities: no LE edema, right groin site clean, no ozzing.
+peripheral pulses upper and lower extremities normal.
+Neuro: a&ox3, cn ii-[**Doctor First Name **] intact; resting tremor.
+
+Pertinent Results:
+[**2153-1-16**] 07:30AM BLOOD WBC-6.1 RBC-4.43* Hgb-12.3* Hct-37.1*
+MCV-84 MCH-27.8 MCHC-33.2 RDW-14.8 Plt Ct-147* Neuts-76.4*
+Lymphs-17.9* Monos-4.7 Eos-0.8 Baso-0.2
+[**2153-1-16**] 07:25AM BLOOD INR(PT)-1.6
+[**2153-1-16**] 07:30AM BLOOD Glucose-92 UreaN-19 Creat-1.2 Na-145
+K-4.0 Cl-107 HCO3-27 AnGap-15
+[**2153-1-16**] 09:28PM BLOOD ALT-15 AST-21 LD(LDH)-236 AlkPhos-56
+TotBili-1.0
+[**2153-1-16**] 07:30AM BLOOD Digoxin-0.6*
+[**2153-1-16**] 09:28PM BLOOD Phos-4.6* Mg-1.8
+[**2153-1-16**] 05:39PM BLOOD Lactate-1.3
+.
+[**2153-1-16**] 09:28PM  Hct-30.3*
+[**2153-1-17**] 06:07AM  Hct-27.5*
+[**2153-1-17**] 05:00PM  Hct-24.8*
+[**2153-1-18**] 10:45AM  Hct-29.4*
+[**2153-1-18**] 04:38PM  Hct-28.0*
+.
+[**2153-1-17**]:
+CHEST PA AND LATERAL.
+Compared to the prior radiograph obtained yesterday, there is
+decreased CHF.  There is mild cardiomegaly. There are small
+bilateral effusions, more on the left. The new biventricular
+pacer device is seen in the left hemithorax. The pacer leads are
+seen in the right atrium and two in the floor of the right
+ventricle. The previous abandoned right pacer leads are also
+seen in the right atrium and right ventricle. No pneumothorax.
+Persistent left lower lobe atelectasis/consolidation.
+IMPRESSION:
+1. Improving CHF.
+2. Small bilateral layering pleural effusions, more on the left.
+
+3. Persistent left lower lobe atelectasis/consolidation.
+4. Good position of the new biventricular pacer device.
+.
+[**2153-1-17**]:
+TECHNIQUE: Non-contrast head CT.
+FINDINGS: There is no intra- or extra-axial hemorrhage. The
+appearance of
+the ventricles, cisterns, and sulci is unchanged. There is no
+mass effect,
+hydrocephalus, or shift of the normally midline structures. The
+[**Doctor Last Name 352**]-white
+matter differentiation is preserved.
+The visualized mastoid air cells are clear. Again noted is sinus
+mucosal
+thickening bilaterally in the maxillary sinuses, not fully
+characterized here.
+IMPRESSION:
+1. Similar sinus mucosal thickening.
+2. No evidence of significant interval change.
+3. Similar appearance of the brain including prominent
+encephalomalacic
+changes in the right occipital lobe, and possibly in the left
+occipital lobe as well.
+.
+[**2153-1-17**]:
+CT OF THE ABDOMEN WITHOUT IV CONTRAST: There is a biventricular
+pacemaker in place, not fully characterized here, and evidence
+of prior sternotomy. There are large bilateral pleural effusions
+with adjacent areas of compressive atelectasis. Otherwise, the
+lung bases are clear.
+Within the limitations of the non-contrast study, the liver,
+gallbladder,
+pancreas, spleen, and adrenal glands are within normal limits. A
+7-mm
+nonobstructing stone is again visualized in the left kidney, as
+well as a 12 mm stone in the left renal pelvis. These are
+unchanged. A small new 2- mm nonobstructing stone is now seen in
+the right kidney. Left-sided
+hydronephrosis has resolved. Within the limitations of the
+non-contrast study, the appearance of the kidneys is otherwise
+unremarkable.
+There is calcification of the abdominal aorta, and of the
+splenic artery. The stomach, small and large bowel are
+unremarkable. There is no retroperitoneal or mesenteric
+lymphadenopathy, or free air or fluid.
+Along the anterior left lateral ribs at the base of the chest,
+there is a soft tissue density, not fully characterized here,
+which may represent a small hematoma or inflammatory stranding
+from recent pacer placement. Its
+extent is not delineated here. There is no evidence of a
+retroperitoneal
+hematoma.
+CT OF THE PELVIS WITHOUT IV CONTRAST: There is considerable
+amount of stool in the rectum. The prostate, seminal vesicles,
+and bladder are within normal limits. There is a 5-mm calcific
+density in the distal left ureter, which could represent a
+nonobstructing stone. It was not seen previously.
+BONE WINDOWS: There are no suspicious lytic or blastic lesions.
+Degenerative changes of the lumbar spine are seen.
+IMPRESSION:
+1. Large bilateral pleural effusions.
+2. Possible hematoma along the left basal chest wall, in the
+subcutaneous
+tissues, not fully evaluated here.
+3. No evidence of retroperitoneal hematoma.
+4. Multiple nonobstructing stones in the kidneys bilaterally, as
+well as a 6- mm calcific density in the left pelvis, which may
+represent a nonobstructing renal stone in the left ureter.
+.
+[**2153-1-18**]:
+TECHNIQUE: Left upper extremity venous ultrasound and Doppler
+examination,
+and limited evaluation of the subcutaneous tissues of the left
+upper
+hemithorax.
+FINDINGS: Grayscale and Doppler son[**Name (NI) 1417**] of the left internal
+jugular,
+axillary, basilic, and paired brachial veins show no evidence of
+deep vein
+thrombosis. Because of the presence of the overlying pacer, the
+left
+subclavian vein could not be evaluated. No intraluminal thrombus
+is
+identified.
+In the tissues overlying the pacemaker, there is heterogeneous
+appearance,
+which may represent postoperative change, but the presence of
+hematoma cannot be excluded. No large discrete fluid collection
+is identified. Laterally, near the insertion of the pectoralis
+major muscle, the appearance suggests either edematous muscle or
+complex fluid, but the static images presented are
+indeterminant.
+IMPRESSION:
+1. Heterogeneous tissue in the region of the pacer, which is
+indeterminant in etiology.
+2. Suggestion of edematous left pectoral muscle and/or complex
+fluid,
+suggested by resident review in real time scanning. However on
+the static
+images, it is difficult to discern the relationship between the
+muscle, the adjacent heterogeneous soft tissue, and the pacer.
+A followup ultrasound for evaluation and comparison, or
+alternatively a CT, which may show an area of hyperdensity to
+correspond to an acute hematoma if present, is suggested.
+.
+Day of discharge labs:
+[**2153-1-19**] 07:30AM BLOOD WBC-9.9 RBC-3.26* Hgb-10.0* Hct-27.6*
+MCV-85 MCH-30.5 MCHC-36.0* RDW-15.6* Plt Ct-116*
+[**2153-1-19**] 07:30AM BLOOD PT-14.4* PTT-31.8 INR(PT)-1.4
+
+
+Brief Hospital Course:
+A 73yoM with parkinson disease, HTN, DM, systolic HF (EF 20% in
+[**11-4**]), history of CVA (residual left visual field cut), AF s/p
+AVN ablation and pacer, inmediate s/p BiV pacer upgrade with
+slowly recover after sedation transfer to CCU for monitoring.
+After the haldol wore off, mental status was felt to return to
+baseline.  Of note, hematocrit was noted to drop on the day of
+procedure.  CT abd/Pelvis was done and was negative for
+retroperitoneal bleed.  Left upper extremity also noted to be
+more swollen on [**1-18**] and ultrasound was performed which was
+negative for DVT.
+
+# mental status change: Patient likely sensitive to sedation,
+requiring , more alert, able to follow simple commands. He is
+able to movilize all extremities, still somnolent. more likely
+given his baseline disease, he is more sensitive to sedation.
+Patient seemed to recover in the 10-12 hours post-sedation.
+Head CT was performed and was negative for intracranial bleed.
+Neurology was consulted and agreed that mental status changes
+likely to haldol being given.
+.
+1. Parkinson's disease: will continue home medications sinemet,
+mirapex and pramipexol.
+
+2. CV:
+Rhythm: h/o Afib - heparin bridge to coumadin.  Heparin was
+stopped in setting of hematocrit drop and restarted on [**2153-1-19**].
+S/P BiV pacer- he was given Vancomycin Iv x 3 doses.
+AV paced
+Carvedilol continued for rate control
+Pace maker checked on [**2153-1-19**].
+Pump: EF 17% on MIBI, currently euvolemic. Will continue
+Carvediolol and Furosemide home dose and digoxin. We will
+recommend to discusse with your primary cardiologist regarding
+Ace inhibitor medications
+CAD: continue aspirin, statin, Carvedilol
+
+3. Heme: On admission Hct noted to be 37.  This was likely
+hemoconcentrated as Hcts from 3 weeks prior were 31-32.
+However, given Hct decrease to 25, CT scan of Abd/Pelvis and
+including upper thighs done and negative for hematoma or bleed.
+He was tranfused 2 units of pRBCs and Hct increased. Hematocrit
+should be monitored on an outpatient basis.
+
+4. left upper extremity swelling: noted on [**1-18**].  Concern for
+DVT or bleed. Ultrasound of upper extrmity done and negative for
+DVT.
+
+5. GERD: Continue Pantoprazole
+
+6. FENA: Cardiac healthy -diabetic diet.
+
+7.  Dispo: to rehab.  Patient should have Hematocrit checked on
+[**1-22**] (Hct 27.6 on [**1-19**]).  Left upper extremity swelling seems to
+be resolving.  His left arm may be elevated to decrease
+swelling, but is not to be elevated above shoulder level given
+new biVentricular pacemaker placement.
+
+Full code
+
+
+Medications on Admission:
+Carbidopa-Levodopa 25-100 mg qAM
+Carbidopa-Levodopa 25-100 mg qHS
+Acetaminophen 325 mg q4-6h
+Carbidopa-Levodopa 50-200 mg Q6H
+Mirapex 0.25 mg TID
+Fluoxetine 20 mg QD
+Fludrocortisone 0.2 mg QD
+Donepezil 5 mg qHS
+Pantoprazole 40 mg/ QD
+Carvedilol 12.5 mg [**Hospital1 **]
+Clonazepam 0.5 mg Qhs bedtime
+Digoxin 125 mcg Tablet daily
+Provigil 100 mg Tablet/ qd
+Atorvastatin 10 mg Tablet QD
+Furosemide 20 mg Tablet QD
+Aspirin 81 mg Tablet, QD
+Warfarin 5 mg Tablet qhs
+Modafinil 200 mg ebery morning.
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Donepezil 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+3. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO once a day.
+5. Simvastatin 40 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+6. Pramipexole 0.25 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+7. Carbidopa-Levodopa 50-200 mg Tablet Sustained Release Sig:
+One (1) Tablet PO QID (4 times a day).
+8. Carbidopa-Levodopa 25-100 mg Tablet Sustained Release Sig:
+One (1) Tablet PO 2200 ().
+9. Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+11. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for 4 days.
+12. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime
+as needed for insomnia. Tablet(s)
+13. Warfarin 5 mg Tablet Sig: One (1) Tablet PO at bedtime.
+14. Bupropion 100 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO once a day.
+15. Modafinil 100 mg Tablet Sig: One (1) Tablet PO once a day.
+16. Potassium Chloride 20 mEq Packet Sig: Two (2)  PO once a
+day.
+17. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+18. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 979**] - [**Location (un) 246**]
+
+Discharge Diagnosis:
+s/p pacemaker placement
+Parkinson's disease
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You need to have your PT/INR level checked in 3 days for
+coumadin titration and a serum creatinine checked in one week
+(because of numerous renal stones that could obstruct your urine
+output and harm your kidneys).
+Please have your hematocrit checked on [**1-22**] (3 days after
+discharge), please have these results sent to Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) **] office, ([**Telephone/Fax (1) 9530**].
+
+Followup Instructions:
+Please call Dr[**Name (NI) 8996**] office to make an appointment in [**2-2**]
+weeks. ([**Telephone/Fax (1) 103173**]) [**Hospital Ward Name **] 4
+.
+Please call Dr.[**Name (NI) 10444**] office on ([**Telephone/Fax (1) 63315**] to scheduled
+an appointment in the next 1-2 months or earlier if indicated.
+
+
+
+Completed by:[**2153-1-19**]

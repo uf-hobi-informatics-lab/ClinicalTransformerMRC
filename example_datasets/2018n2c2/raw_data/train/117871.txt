@@ -1,0 +1,234 @@
+Admission Date:  [**2119-7-14**]              Discharge Date:   [**2119-7-20**]
+
+Date of Birth:  [**2059-5-24**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+[**2119-7-14**] - Cardiac Catheterization and placement of an IABP
+[**2119-7-14**] - 1. Emergent coronary bypass grafting x3 on
+intra-aortic balloon pump with left internal mammary artery to
+left anterior descending coronary artery; reverse saphenous vein
+single graft from the aorta to the ramus intermedius coronary
+artery; as well as reverse saphenous vein single graft from
+aorta to posterior left ventricular coronary artery. 2.
+Endoscopic left greater saphenous vein harvesting.
+
+
+History of Present Illness:
+60 year old gentleman with recent chest pain on exertion.
+Stress test was abnormal and he was scheduled for cath.  Chest
+pain developed during cath
+today which revealed left main and multi-vessel coronary artery
+disease.  He is now brought to the operating room urgently for
+CABG.
+
+Past Medical History:
+osteoarthritis
+lumbar disc disease
+hypercholesterolemia
+
+
+Social History:
+Lives with: wife, works at library
+Occupation:
+Tobacco: 1ppd x 30yrs, quit 13yrs ago
+ETOH: quit years ago
+
+
+Family History:
+Father died at 62 of heart disease
+
+
+Physical Exam:
+Pulse: 65  Resp: 18  O2 sat:
+B/P  Right: 121/72   Left:
+Height:     Weight: 74.8kg
+
+General: slightly anxious, but NAD
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [x]
+Neuro: Grossly intact  x
+Pulses:
+Femoral      Right: IABP  Left: 2+
+DP           Right: 2+  Left: 2+
+PT           [**Name (NI) 167**]: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit        Right:    Left: none
+
+
+Pertinent Results:
+[**2119-7-14**] ECHO
+Pre-bypass: The left atrium and right atrium are normal in
+cavity size. No spontaneous echo contrast or thrombus is seen in
+the body of the left atrium or left atrial appendage. No atrial
+septal defect is seen by 2D or color Doppler. Left ventricular
+wall thickness, cavity size, and global systolic function are
+normal (LVEF>55%). Right ventricular chamber size and free wall
+motion are normal. There are simple atheroma in the descending
+thoracic aorta. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. The mitral valve appears structurally normal with
+trivial mitral regurgitation. IABP seen in the descending aorta
+with tip 2 cm below the left subclavian artery.
+
+Post-bypass: The patient is A paced. IABP remains in good
+position. Preserved Biventricular function. Aortic contours
+intact. Remaining exam is unchanged. All findings discussed with
+surgeons at the time of the exam.
+[**2119-7-19**] 05:05AM BLOOD WBC-4.9 RBC-2.86* Hgb-8.6* Hct-25.4*
+MCV-89 MCH-30.3 MCHC-34.1 RDW-12.7 Plt Ct-209#
+[**2119-7-14**] 10:40AM BLOOD WBC-5.1 RBC-4.34* Hgb-13.0* Hct-37.7*
+MCV-87 MCH-30.0 MCHC-34.5 RDW-12.5 Plt Ct-208
+[**2119-7-15**] 07:58AM BLOOD PT-14.0* PTT-33.2 INR(PT)-1.2*
+[**2119-7-14**] 10:40AM BLOOD PT-14.5* PTT-150* INR(PT)-1.3*
+[**2119-7-19**] 05:05AM BLOOD Na-140 K-4.5 Cl-101
+[**2119-7-17**] 05:10AM BLOOD Glucose-110* UreaN-12 Creat-0.7 Na-136
+K-4.2 Cl-101 HCO3-28 AnGap-11
+[**2119-7-14**] 10:40AM BLOOD Glucose-134* UreaN-12 Creat-0.8 Na-138
+K-3.6 Cl-106 HCO3-24 AnGap-12
+
+Brief Hospital Course:
+Mr. [**Known lastname 101426**] was admitted to the [**Hospital1 18**] on [**2119-7-14**] for a cardiac
+catheterization. This revealed significant left main and three
+vessel coronary artery disease. As he developed chest pain
+during his catheterization, an intra-aortic balloon pump was
+placed. The cardiac surgical service was urgently consulted and
+surgical revascularization was recommended. Mr. [**Known lastname 101426**] was
+taken urgently to the operating room where he underwent coronary
+artery bypass grafting to three vessels. Please see operative
+note for details. Postoperatively he was taken to the intensive
+care unit for monitoring. The next morning, his intra-aortic
+balloon pump was weaned off and removed without incident. He
+then awoke neurologically intact and was extubated. On
+postoperative day two, he developed a right pneumothorax
+following removal of his chest tubes. A right pleural tube was
+thus placed with resolution of his pneumothorax. Later on
+postoperative day two, he was transferred to the step down unit
+for further recovery. He was gently diuresed towards his
+preoperative weight. After a water seal trial, the right pleural
+chest tube was removed and he subsequently developed a large
+right pneumothorax that required a chest tube to be reinserted.
+Follow up chest X-Ray revealed right lung rexpanded. This chest
+tube wsa pulled [**7-19**] without incident after clamping and serial
+CXR. The physical therapy service was consulted for assistance
+with his postoperative strength and mobility. Beta blockade,
+aspirin and a statin were resumed. Mr. [**Known lastname 101426**] continued to
+make steady progress and was cleared by Dr.[**Last Name (STitle) 914**] for discharge
+to home. He was in normal sinus rhythm and his chest xray showed
+a small pleural effusion with stable bilateral apical
+pneumothoraces. He will follow-up with Dr. [**Last Name (STitle) 914**], his
+cardiologist and his primary care physician as an outpatient.
+All follow up appointments were advised.
+
+Medications on Admission:
+Toprol 50 daily
+SL nitroglycerin
+simvastatin 20 daily
+Ascorbic acid 1000mg daily
+aspirin 325mg daily
+B complex vitamins
+Vit. D2
+Folic acid
+MVI
+Omega 3 FA
+saw [**Location (un) 6485**]
+Vit E
+
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+4. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+5. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID
+(2 times a day).
+Disp:*180 Tablet(s)* Refills:*0*
+6. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+QID (4 times a day) as needed for itching .
+Disp:*qs qs* Refills:*0*
+7. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+8. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+9. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Centrus Home Care
+
+Discharge Diagnosis:
+Coronary artery disease
+Hyperlipidemia
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with  steady gait
+Incisional pain managed with oral analgesics
+
+Incisions:
+
+Sternal - healing well, no erythema or drainage
+
+Leg Left - healing well, with ecchymosis at knee and inner
+aspect of thigh
+
+Rash on Buttock, posterior thigh red and raised, resolving on
+back chest and groin area
+
+
+Discharge Instructions:
+1) Please shower daily including washing incisions gently with
+mild soap, no baths or swimming until cleared by surgeon. Look
+at your incisions daily for redness or drainage
+2) Please NO lotions, cream, powder, or ointments to incisions
+3) Each morning you should weigh yourself and then in the
+evening take your temperature, these should be written down on
+the chart
+4) No driving for approximately one month until follow up with
+surgeon
+5) No lifting more than 10 pounds for 10 weeks
+6) Please call with any questions or concerns [**Telephone/Fax (1) 170**]
+
+Followup Instructions:
+Appointment already scheduled
+[**First Name8 (NamePattern2) 177**] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 170**] Date/Time:[**2119-8-15**] 2:30
+Please call to schedule appointments.
+Please follow-up with Dr. [**Last Name (STitle) 33746**] in 2 weeks. [**Telephone/Fax (1) 56771**]
+Please follow-up with Dr. [**Last Name (STitle) 101427**] in 2 weeks.
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**2119-7-20**]

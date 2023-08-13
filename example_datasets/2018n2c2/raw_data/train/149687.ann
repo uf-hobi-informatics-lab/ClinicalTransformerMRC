@@ -1,0 +1,38 @@
+T1	Route 1122 1133	intravenous
+R1	Route-Drug Arg1:T1 Arg2:T2
+T2	Drug 1134 1143	diuretics
+T3	Reason 1595 1617	deep venous thrombosis
+R2	Reason-Drug Arg1:T3 Arg2:T4
+R3	Reason-Drug Arg1:T3 Arg2:T6
+T4	Drug 1661 1668	heparin
+T5	Route 1669 1673	drip
+R4	Route-Drug Arg1:T5 Arg2:T4
+T6	Drug 1752 1760	Coumadin
+T8	Frequency 1766 1771	daily
+R6	Frequency-Drug Arg1:T8 Arg2:T6
+T9	Reason 1782 1804	goal INR of 2.0 to 2.5
+R7	Reason-Drug Arg1:T9 Arg2:T6
+T10	Drug 1977 1984	heparin
+T11	Route 1985 1989	drip
+R8	Route-Drug Arg1:T11 Arg2:T10
+T12	Route 2002 2013	intravenous
+R9	Route-Drug Arg1:T12 Arg2:T13
+R10	Route-Drug Arg1:T12 Arg2:T14
+T13	Drug 2014 2019	Lasix
+T14	Drug 2024 2032	Coumadin
+T15	Drug 2096 2103	heparin
+T16	Route 2104 2108	drip
+R11	Route-Drug Arg1:T16 Arg2:T15
+T17	Drug 2192 2200	Coumadin
+T18	Duration 2201 2217	for three months
+R12	Duration-Drug Arg1:T18 Arg2:T17
+T19	Reason 2249 2269	deep vein thrombosis
+R13	Reason-Drug Arg1:T19 Arg2:T17
+T20	Drug 2293 2298	Lasix
+T21	Strength 2307 2309;2310 2312	80 mg
+R14	Strength-Drug Arg1:T21 Arg2:T20
+T22	Route 2313 2324	intravenous
+R15	Route-Drug Arg1:T22 Arg2:T20
+T23	Frequency 2325 2336	twice a day
+R16	Frequency-Drug Arg1:T23 Arg2:T20
+T24	Drug 2528 2539	Cyclosporin

@@ -1,0 +1,203 @@
+Admission Date:  [**2147-10-12**]              Discharge Date:   [**2147-10-29**]
+
+Date of Birth:  [**2079-6-24**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3223**]
+Chief Complaint:
+On admission: Mr [**Known lastname 79336**] states that he experienced two to three
+months of abdominal discomfort, which grew in severity and
+became more constant.  He had a simultaneous loss of appetite,
+although he denies nausea or emesis.
+
+Major Surgical or Invasive Procedure:
+[**2147-10-12**] - s/p subtotal gastrectomy w/Bilroth II reconstruction,
+transverse colectomy, feeding J tube placement
+
+
+History of Present Illness:
+On [**9-6**], the patient underwent a barium upper GI series.
+This study demonstrated a large ulcerated mass associated with
+the greater curve of the stomach in the distal portion.  On
+[**9-8**], upper endoscopy was performed, with the finding of
+a large ulcerated antral mass.  Upon biopsy, he has been
+considered to have an invasive adenocarcinoma of the signet ring
+type.
+
+On [**9-13**], a CT scan of the torso was obtained.  He was
+described as having a 4-mm right pulmonary lobe nodule.  There
+was a 6-mm hypodense lesion in segment III of the liver.  A 7.5
+cm mass was seen in association with the greater curve of the
+stomach within the antrum.  There did appear to be some
+stranding or nodularity in the greater omentum extending towards
+the transverse colon, although there was no clear-cut
+involvement of the transverse colon.  There did not appear to be
+any significant retroperitoneal adenopathy.
+
+Past Medical History:
+HTN
+Hypercholesterolemia
+Arthritis
+
+Social History:
+Mr [**Known lastname 79336**] is a 68-year-old retired factory worker from the food
+industry
+
+He has a history of heavy cigarette smoking, one pack per day
+for 25
+years, stopping in [**2146-10-24**].
+
+
+Family History:
+The family history is significant for a brain tumor in his
+mother.  [**Name (NI) **] believes that his brother died at age 12 from
+leukemia but he was uncertain.
+
+Physical Exam:
+Deceased
+
+Pertinent Results:
+SPECIMEN SUBMITTED: gastrectomy with tranverse colon.
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+[**2147-10-12**] [**2147-10-13**] [**2147-10-19**] DR. [**Last Name (STitle) **]. FU/mb????????????
+Previous biopsies:    [**-8/3468**]  Slides referred for
+consultation.
+DIAGNOSIS:
+Stomach and transverse colon, subtotal gastrectomy and segmental
+colectomy:
+1.  Gastric adenocarcinoma, intestinal type with focal signet
+ring cell features. See synoptic report.
+2.  Segment of colon with serositis and focal adhesion, no
+malignancy identified.
+Stomach: Resection Synopsis
+MACROSCOPIC
+Specimen Type:  Partial gastrectomy: distal.
+Tumor Site:  Body, antrum.
+Tumor configuration:  Ulcerating.
+Tumor Size
+    Greatest dimension:  8.2 cm.  Additional dimensions:  8.1 cm
+x 3.5 cm.
+MICROSCOPIC
+Histologic Type:  Adenocarcinoma, intestinal type with focal
+signet ring cell features.
+Histologic Grade:  G3:  Poorly differentiated.
+Primary Tumor:  pT3:  Tumor penetrates serosa (visceral
+peritoneum) without invasion of adjacent structures.
+Regional Lymph Nodes:  pN1:  Metastasis in 1 to 6 perigastric
+lymph nodes.
+Lymph Nodes
+    Number examined:  13.
+    Number involved:  4.
+Distant metastasis:  pMX:  Cannot be assessed.
+Margins
+    Proximal margin:  Uninvolved by invasive carcinoma.
+    Distal margin:  Uninvolved by invasive carcinoma.
+    Omental (radial) margins
+        Lesser omental margin:  Uninvolved by invasive
+carcinoma.
+        Greater omental margin:  Uninvolved by invasive
+carcinoma.
+    Distance from closest margin:  29 mm.
+    Specified margin:  Proximal.
+Lymphatic (Small Vessel) Invasion:  Present.
+Venous (Large vessel) invasion:  Present.
+Perineural invasion:  Absent.
+Additional Pathologic Findings: Chronic active gastritis with
+intestinal metaplasia. Bacilli forms consistent with  H. pylori
+are present.
+Clinical: 68 year old man with diagnosis of gastric
+adenocarcinoma. Upper GI series demonstrating a large ulcerative
+mass of the distal stomach, along the greater curvature.
+Follow-up biopsy demonstrating invasive signet-ring cell
+adenocarcinoma.
+
+
+Brief Hospital Course:
+The patient underwent the above procedure on [**10-12**].  He tolerated
+the procedure well and was transferred to the surgical floor,
+with a foley catheter in place, NG tube in place, J tube to
+gravity, PCA for pain control, his diet remained NPO, IVF for
+hydration.  He received 3 doses of peri-operative antibiotics.
+
+[**10-14**] - Tube feeds were started at 1/2 strength at 10cc/hour, NGT
+discontinued
+
+[**10-16**] - transferred to the ICU for tachycardia, oxygen
+desaturations.  CTA performed showing no pulmonary embolism.
+ECHO performed showing moderate symmetric left ventricular
+hypertrophy with global normal systolic function and mildly
+dilated right ventricle with mild hypokinesis.
+
+[**10-17**] - respiratory status was stable. Had bilious emesis twice
+and began burping. Tube feeds were held and pt was made NPO.
+
+[**10-18**]- TPN started, NPO continued. UGI study showed ileus.
+
+[**10-19**] - Transferred to the surgical floor, continued NPO, TPN,
+NGT and foley catheter in place, TF at 20 cc/hr
+
+[**10-20**] - transferred to the TSICU for continued respiratory
+distress, transfused one unit RBC
+
+[**10-21**] - Zosyn started for blood cultures positive for GNR,
+central line removed
+
+[**10-22**] - central line replaced, vancomycin started
+
+[**10-23**] - CT guided drainage of right and left abdominal fluid
+collections, drains left in place to gravity, flagyl added
+
+[**10-24**] - cont TPN, TF at full strength at 60, started fluconazole
+for yeast in left abdminal drain, transfused 2 units RBC
+
+[**10-25**] - Dr [**Last Name (STitle) 519**] recommended possible re-exploration for a
+presumed abscess.  He indicated to the family that there was no
+evidence of any actual anastamotic dehischence from any of the
+imaging studies. However, after extensive discussions, per the
+patient and family requests, the patient was made comfort
+measures only.  All antibiotics, tube feeds, and extraneous
+means of support were removed.  The patient was transferred to
+the surgical floor
+
+[**10-26**] - Palliative Care consulted. Adjustments made to pain
+medication regimen.
+
+[**10-29**] - Pt expires at 12:20 PM. Immediate cause of death is
+respiratory arrest
+
+
+Medications on Admission:
+Benicar 20/12.5 mg once daily
+ranitidine 150 mg once daily
+simvastatin 20 mg once daily
+aspirin 325 mg once daily
+Darvocet p.r.n. for abdominal discomfort
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Signet-ring cell gastric cancer invading trans colon
+
+
+Discharge Condition:
+Deceased
+
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+N/A
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 520**] MD, [**MD Number(3) 3226**]
+

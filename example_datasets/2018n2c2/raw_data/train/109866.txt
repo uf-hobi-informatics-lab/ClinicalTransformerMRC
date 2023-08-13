@@ -1,0 +1,275 @@
+Admission Date:  [**2130-3-10**]              Discharge Date:   [**2130-3-24**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 4679**]
+Chief Complaint:
+weight loss and no appetite
+
+Major Surgical or Invasive Procedure:
+[**2130-3-16**]
+Right DL PICC
+
+[**2130-3-20**]
+1. Laparoscopic reduction of hiatal hernia.
+2. Repair of diaphragm with pledgets.
+3. Suture repair of gastric perforation.
+4. Peg tube placement.
+
+
+History of Present Illness:
+Mr. [**Known lastname **] is a pleasant 87 years old man, previously relatively
+healthy, who developed anorexia and had a 15 lbs weight loss
+over the past 6 weeks. He states that he had his last full
+"real" meal about 6 weeks ago after which he "lost interest" in
+eating. He specifically denies any problems with dysphagia, pain
+with eating or swallowing, choking, food getting stuck, early
+satiety, nausea or vomiting. He also denies any fevers or
+chills, and continues
+to have small bowel movements. Over the past 6 weeks he has been
+only taking liquids to stay hydrated, no solid food, and has
+lost at least 15 lbs as a result. He has a very mild shortness
+of breath but in general aside from "not wanting to eat" denies
+anything else that is bothering him at present.
+
+He has visited his PCP several times and was finally referred
+for admission to [**Hospital **] Hospital due to failure to thrive. He
+had a CT today which shows a large left diaphragmatic hernia
+with abdominal contents in the left chest, with organo-axial
+volvulus. He received zosyn and Protonix 40 at [**Hospital1 **] and was
+transferred here for further management of this complex surgical
+problem.
+
+
+Past Medical History:
+PMH: afib, chf, HTN, High Cholesterol
+
+PSH: midline incision for stone retrieval from ureter
+
+
+Social History:
+No tobb/etoh/drugs, retired professor of biology at a local
+community college.
+
+Family History:
+non contributory
+
+Physical Exam:
+Temp: 98.5   HR: 89   BP: 100/62  RR: 20   O2 Sat: 97% RA
+GENERAL        [ ] All findings normal
+[ ] WN/WD  [x] NAD  [x] AAO  [x] abnormal findings: cachectic
+man
+
+HEENT          [x] All findings normal
+[x] NC/AT   [x] EOMI   [x] PERRL/A   [x] Anicteric
+[ ] OP/NP mucosa normal     [x] Tongue midline
+[x] Palate symmetric  [ ] Neck supple/NT/without mass
+[x] Trachea midline [x] Thyroid nl size/contour
+[x] Abnormal findings: dry mucous membranes
+
+RESPIRATORY    [x] All findings normal
+[x] CTA/P     [ ] Excursion normal     [ ] No fremitus
+[ ] No egophony    [x] No spine/CVAT
+[x] Abnormal findings: decreased breath sounds at left lung base
+
+CARDIOVASCULAR [x] All findings normal
+[x] RRR    [ ] No m/r/g    [x] No JVD   [ ] PMI nl  [x] No edema
+[x] Peripheral pulses nl    [ ] No abd/carotid bruit
+[x] Abnormal findings:
+
+GI             [x] All findings normal
+[x] Soft    [x] NT   [x] ND  [x] No mass/HSM   [ ] No hernia
+[x] Abnormal findings: well healed lower midline abdominal
+incision
+
+GU             [x] Deferred  [ ] All findings normal
+[x] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE
+[ ] Abnormal findings:
+
+NEURO          [x] All findings normal
+[ ] Strength intact/symmetric    [ ] Sensation intact/ symmetric
+[ ] Reflexes nl     [ ] No facial asymmetry [ ] Cognition intact
+[ ] Cranial nerves intact   [ ] Abnormal findings:
+
+MS             [x] All findings normal
+[ ] No clubbing   [ ] No cyanosis   [ ] No edema   [ ] Gait nl
+[ ] No tenderness  [ ] Tone/align/ROM nl   [ ] Palpation nl
+[ ] Nails nl   [ ] Abnormal findings:
+
+LYMPH NODES    [x] All findings normal
+[ ] Cervical nl      [ ] Supraclavicular nl     [ ] Axillary nl
+[ ] Inguinal nl   [ ] Abnormal findings:
+
+SKIN           [x] All findings normal
+[ ] No rashes/lesions/ulcers
+[ ] No induration/nodules/tightening     [ ] Abnormal findings:
+
+PSYCHIATRIC    [x] All findings normal
+[ ] Nl judgment/insight    [ ] Nl memory   [ ] Nl mood/affect
+[ ] Abnormal findings: poor historian
+
+
+Pertinent Results:
+[**2130-3-10**] 06:11PM   WBC-10.6 RBC-3.58* HGB-9.3* HCT-28.0* MCV-78*
+MCH-25.9* MCHC-33.2 RDW-18.0*
+[**2130-3-10**] 06:11PM   NEUTS-89* BANDS-0 LYMPHS-6* MONOS-5 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2130-3-10**] 06:11PM   PLT SMR-HIGH PLT COUNT-575*
+[**2130-3-10**] 06:11PM   PT-14.2* PTT-31.4 INR(PT)-1.3*
+[**2130-3-10**] 06:11PM   GLUCOSE-102* UREA N-19 CREAT-0.6 SODIUM-138
+POTASSIUM-3.5 CHLORIDE-99 TOTAL CO2-25 ANION GAP-18
+[**2130-3-10**] 06:11PM   ALT(SGPT)-15 AST(SGOT)-19 ALK PHOS-69 TOT
+BILI-0.7
+
+[**2130-3-14**] CXR :
+Patient's condition required examination in upright sitting
+position using AP frontal and left lateral views. The heart
+shadow is
+difficult to delineate in detail because of overlapping
+mediastinal structures including a large left-sided hiatal
+hernia. Significant cardiac enlargement is unlikely and the
+pulmonary vasculature is not congested. Relative prominence of
+the central pulmonary vessels is identified but more attenuated
+appearance of the periphery does not demonstrate any evidence of
+advanced CHF.
+There are some old parenchymal scars in the apical area but no
+active
+abnormalities are seen. Bilaterally, the lateral pleural spaces
+are blunted probably by pleural effusions mild-to-moderate
+degree. There is a large sized hiatal hernia with typical
+air-fluid level in retrocardiac position. No other pulmonary or
+cardiovascular abnormalities can be identified. Our records do
+not include previous chest examinations available for
+comparison. An outside chest CT has been transferred in to our
+PACS system and shows the presence of a large hiatal hernia.
+
+[**2130-3-23**] CXR post left thoracentesis
+
+
+Brief Hospital Course:
+Mr. [**Known lastname **] was admitted to the hospital, kept NPO and hydrated
+with IV fluids. Based on his symptoms and anatomy, repair of his
+large paraesophageal hernia was recommended.  Unfortunately he
+became delirious after having low dose Ativan which was given
+preoperatively to reduce his anxiety.  He was taken to the
+Operating Room for surgery on [**2130-3-15**] but immediately refused
+the surgery when he arrived in the Operating Room. He appeared
+confused and delirious, the surgery was cancelled and he
+returned to the floor.
+
+The Psychiatry service evaluated him and felt that the confusion
+and delirium was prompted by Ativan in combination with poor
+nutritional status and his age. At that point the patient wanted
+surgery again.  A decision was made to place a PICC line and
+give TPN for 4-5 days prior to operating with the attempt to
+help improve his nutritional status.  A PICC line was placed on
+[**2130-3-16**] and TPN began.
+
+In the mean time he worked with Physical Therapy and had no more
+episodes of confusion or delirium.
+
+On [**2130-3-20**] he was taken to the Operating Room and underwent a
+laparoscopic paraesophageal hernia repair with PEG tube
+placement. He tolerated the procedure well and returned to the
+PACU in stable condition.  He maintained stable hemodynamics and
+his pain was well controlled.  Following transfer to the
+Surgical floor he continued to make good progress.  His pain was
+controlled with Tylenol alone and his mental status was intact.
+His TPN continued and eventually tube feedings were started and
+well tolerated.  He was maintained on 2 cal HN 1 can TID.  His
+TPN was weaned off [**2130-3-23**] and his PICC line was removed.
+
+His chest xray on admission to the hospital was notable for
+bilateral pleural effusions but his respiratory status was not
+compromised.  His effusions did increase in size and on [**2130-3-23**]
+he has a left thoracentesis for 1 liter of serosanguinous fluid.
+ He tolerated it well and his subsequent chest xray demonstrated
+no pneumothorax and a clear diaphram.  He was breathing
+comfortably off of oxygen and had room air saturations of 95%.
+
+He continued to work with Physical Therapy who recommended that
+he go to a short term rehab prior to returning home to increase
+his mobility and endurance.  From a surgical standpoint he
+continued to do well.  His post sites were healing well and his
+PEG site was dry.  After a long hospital stay he was discharged
+to rehab on [**2130-3-24**].
+
+Medications on Admission:
+diltiazem ER 360', ramipril 5', lovastatin 40', lasix 40', asa
+81', ? celebrex (unknown dose) -
+
+Discharge Medications:
+1. hydrocortisone 2.5 % Cream Sig: One (1) Appl Rectal [**Hospital1 **] PRN
+() as needed for hemorrhoid pain.
+2. heparin (porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units Injection [**Hospital1 **] (2 times a day).
+3. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.
+4. ramipril 5 mg Capsule Sig: One (1) Capsule PO once a day.
+5. diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO QID (4
+times a day): Hold for SBP < 100.
+6. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3
+times a day).
+7. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+8. Milk of Magnesia 400 mg/5 mL Suspension Sig: Two (2) tbsp PO
+at bedtime as needed for constipation.
+9. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 34004**] Nursing & Rehabilitation Center - [**Location (un) 14663**]
+
+Discharge Diagnosis:
+Giant paraesophageal hernia.
+Delirium secondary to medications
+Severe protein-calorie malnutrition
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Call Dr.[**Name (NI) 5067**] office [**Telephone/Fax (1) 2348**] if you experience:
+-Fevers > 101 or chills
+-Difficult or painful swallowing
+-Nausea, vomiting
+-Increased shortness of breath
+
+Pain
+-Take stool softners with narcotics
+-No driving while taking narcotics
+
+Activity
+-Shower daily. Wash incision with mild soap and water, rinse,
+pat dry
+-No tub bathing, swimming or hot tubs until incision healed
+-No lotions or creams to incision
+-Walk 4-5 times a day for 10-15 minutes increase to a Goal of 30
+minutes daily
+
+
+Followup Instructions:
+Department: HEMATOLOGY/ONCOLOGY
+When: TUESDAY [**2130-4-4**] at 9:00 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3000**], MD [**0-0-**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Please report 30 minutes prior to your appointment to the
+Radiology Department  on the [**Location (un) **] of the [**Hospital Ward Name 23**] Clinical
+Center for a chest xray.
+
+
+
+Completed by:[**2130-3-24**]

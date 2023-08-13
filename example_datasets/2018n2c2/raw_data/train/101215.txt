@@ -1,0 +1,177 @@
+Admission Date:  [**2142-8-14**]              Discharge Date:   [**2142-8-29**]
+
+Date of Birth:  [**2095-1-22**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+[**2142-8-14**] Emergent Replacement of Ascending Aorta and Subtotal Arch
+with Aortic Valve Replacement utilizing a 25mm Pericardial
+Valve.
+[**2142-8-16**] Re-exploration for Bleeding
+
+
+History of Present Illness:
+Mr. [**Known lastname 7842**] is a 47 year old male who presented to OSH with left
+sided chest pain, dizziness and diaphoresis while showering. CTA
+revealed Type A aortic dissection. He was emergently med
+flighted to the [**Hospital1 18**] for surgical intervention.
+
+Past Medical History:
+Hypertension
+Dyslipidemia
+s/p Vasectomy
+
+Social History:
+Employed as Financial Advisor. Married, lives with his wife.
+Denies tobacco but admits to occasional marijuana. Denies
+history of ETOH abuse.
+
+Family History:
+No premature coronary artery disease.
+
+Physical Exam:
+At the time of discharge, Mr. [**Known lastname 7842**] was found to be awake,
+alert, and oriented.  His heart was of regular rate and rhythm.
+His lungs were clear to auscultation bilaterally.  His sternal
+incision was clean, dry, and intact.  His sternum was stable.
+His abdomen was soft, non-tender, and non-distended.  +1 edema
+was noted in his extremities.
+
+Pertinent Results:
+[**2142-8-14**] Intraop TEE:
+PREBYPASS - The left ventricular cavity size is normal. Overall
+left ventricular systolic function is normal (LVEF>55%) Right
+ventricular chamber size is normal. with focal hypokinesis of
+the apical free wall. The ascending aorta is markedly dilated.
+The descending thoracic aorta is mildly dilated. A mobile
+density originating from the right sinus of Valsalva is seen in
+the ascending aorta, transverse arch and descending thoracic
+aorta consistent with an intimal flap/aortic dissection. The
+aortic valve leaflets (3) are mildly thickened. Moderate to
+severe (3+) aortic regurgitation is seen. The mitral valve
+leaflets are structurally normal. No mitral regurgitation is
+seen. POSTBYPASS - LV systolic function remains normal. There is
+a well seated, well functioning bioprosthesis in the aortic
+position. There is mild valvular AI. A graft appears in the
+ascending aorta and transverse arch. The disection flap is still
+present in the distal arch and descending thoracic aorta. Flow
+is visualized in the true lumen. The study is otherwise
+unchanged from prebypass.
+[**2142-8-15**] Renal Ultrasound: No renal arterial abnormality detected.
+Normal renal arterial waveforms.
+[**2142-8-19**] Head MRI: Probable chronic small vessel infarct within
+the inferolateral aspect of the right cerebellar hemisphere.
+
+
+
+[**2142-8-28**] 09:17AM BLOOD WBC-9.5 RBC-2.92* Hgb-8.7* Hct-25.8*
+MCV-88 MCH-29.7 MCHC-33.6 RDW-15.0 Plt Ct-449*
+[**2142-8-29**] 05:55AM BLOOD Glucose-108* UreaN-13 Creat-1.1 Na-137
+K-3.9 Cl-104 HCO3-26 AnGap-11
+[**2142-8-28**] 09:17AM BLOOD ALT-76* AST-36 AlkPhos-192* TotBili-1.3
+
+Brief Hospital Course:
+Mr. [**Known lastname 7842**] was emergently brought to the operating room where
+Dr. [**First Name (STitle) **] performed replacement of his ascending aorta and
+subtotal arch along with aortic valve replacement. For surgical
+details, please see seperate dictated operative note. Following
+the operation, he was brought to the CVICU in critical
+condition. Initially coagulopathic, he required multiple blood
+products. Postoperative TEE was notable worsening pericardial
+effusion with questionable signs of early tamponade. He
+concomitantly had a slight decline in renal function. Renal
+ultrasound showed no evidence of aortic dissection into the
+renal arteries. On postoperative day two, he returned to the
+operating room for re-exploration. Given prolonged period of
+sedation and intubation, tube feedings were started for
+nutritional support. As sedation was weaned he became extremely
+agitated with question of nonpurposeful movements. Head CT scan
+and MRI were obtained which did not show any large area of
+territory infarct. Neurology service was consulted and
+attributed his altered mental status to most likely
+toxic-metablolic encephalopathy. He remained hypertensive and
+continued to require Labetolol drip for adequate blood pressure
+control. He also experienced postop fevers, and pan-cultures
+were obtained. He was empirically started on antibiotics for
+possible ventilator associated pneumonia along with positive
+blood cultures. Over several days, clinical improvements were
+noted. He was eventually extubated on postoperative day nine. He
+was transferred to the step down floor.  He was seen in
+consultation by the physical therapy service.  He was gently
+diuresed.  A PICC line was placed and he was screened for rehab.
+ By post-operative day 15 he was ready for discharge to rehab.
+
+Medications on Admission:
+Transfer meds: IV Esmolol, IV Nipride
+Home meds: HCTZ 25 qd, Zocor, Lisinopril 10 [**Hospital1 **], Viagra prn
+
+Discharge Medications:
+1. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours): completes [**2142-9-7**].
+2. Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1)
+Intravenous Q 12H (Every 12 Hours): completes [**2142-9-7**].
+3. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*0*
+5. Furosemide 10 mg/mL Solution Sig: Twenty (20) mg Injection
+twice a day for 7 days.
+Disp:*qs * Refills:*0*
+6. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 7 days.
+Disp:*7 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+8. Labetalol 200 mg Tablet Sig: Four (4) Tablet PO TID (3 times
+a day).
+Disp:*360 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1107**] [**Hospital **] Hospital - [**Location (un) 38**]
+
+Discharge Diagnosis:
+Type A Aortic Dissection, Aortic Insufficiency - s/p Repair
+Postoperative Bleeding/Pericardial Effusion - s/p Re-exploration
+Postoperative Toxic-Metabolic Encephalopathy
+Hypertension
+Dyslipidemia
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+1)Please shower daily. No baths. Pat dry incisions, do not rub.
+2)Avoid creams and lotions to surgical incisions.
+3)Call cardiac surgeon if there is concern for wound infection.
+4)No lifting more than 10 lbs for at least 10 weeks from
+surgical date.
+5)No driving for at least one month.
+
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] in 4 weeks, call for appt
+Dr. [**Last Name (STitle) **] in [**3-11**] weeks, call for appt
+CTA scan in 3 months to evaluate aneurysm
+Please follow weekly LFTs/BUN/Creatinine while on antibiotics
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]
+
+Completed by:[**2142-8-29**]

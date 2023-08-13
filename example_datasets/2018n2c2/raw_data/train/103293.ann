@@ -1,0 +1,178 @@
+T1	Reason 10152 10166	blood pressure
+R1	Reason-Drug Arg1:T1 Arg2:T3
+R2	Reason-Drug Arg1:T1 Arg2:T4
+T3	Drug 10217 10227	metoprolol
+T4	Drug 10232 10241	labetalol
+T5	Drug 10361 10371	B-blockade
+T6	Drug 10378 10387	diltiazem
+T7	Route 10388 10392	drip
+R6	Route-Drug Arg1:T7 Arg2:T5
+R7	Route-Drug Arg1:T7 Arg2:T6
+T8	Route 10432 10434	PO
+R8	Route-Drug Arg1:T8 Arg2:T5
+R9	Route-Drug Arg1:T8 Arg2:T6
+T9	Reason 10440 10468	Bilateral Subdural Hematomas
+R10	Reason-Drug Arg1:T9 Arg2:T10
+T10	Drug 10706 10720	antiepileptics
+T11	Reason 11090 11113	Positive Blood Cultures
+R11	Reason-Drug Arg1:T11 Arg2:T12
+R12	Reason-Drug Arg1:T11 Arg2:T13
+R13	Reason-Drug Arg1:T11 Arg2:T14
+R14	Reason-Drug Arg1:T11 Arg2:T15
+T12	Drug 11326 11336	Vancomycin
+T13	Drug 11339 11348	Meropenem
+T14	Drug 11421 11431	Vancomycin
+T15	Drug 11434 11442	Cefepime
+T16	Drug 11565 11575	Vancomycin
+T17	Drug 11578 11583	Zosyn
+T18	Reason 11607 11639	better coverage of gut pathogens
+R15	Reason-Drug Arg1:T18 Arg2:T16
+R16	Reason-Drug Arg1:T18 Arg2:T17
+T19	Drug 11642 11652	Micafungin
+T20	Reason 11676 11692	fungal pathogens
+R17	Reason-Drug Arg1:T20 Arg2:T19
+T21	Drug 11758 11769	antibiotics
+T22	Reason 11933 11947	GPCs in chains
+R18	Reason-Drug Arg1:T22 Arg2:T23
+T23	Drug 11997 12007	vancomycin
+T24	Strength 12416 12421	10 mg
+R19	Strength-Drug Arg1:T24 Arg2:T26
+T26	Drug 12425 12433	diazepam
+T27	ADE 12702 12718	Elevated Glucose
+R21	ADE-Drug Arg1:T27 Arg2:T28
+T280	Reason 12702 12718	Elevated Glucose
+T28	Drug 12791 12799	steroids
+T29	Drug 12805 12812	insulin
+T30	Drug 12849 12856	insulin
+T31	Route 12857 12861	drip
+R23	Route-Drug Arg1:T31 Arg2:T30
+T32	Route 12900 12912	subcutaneous
+R24	Route-Drug Arg1:T32 Arg2:T33
+T33	Drug 12913 12920	insulin
+T34	Dosage 13305 13306	1
+R25	Dosage-Drug Arg1:T34 Arg2:T35
+T35	Drug 13315 13325	daptomycin
+T36	Reason 13330 13342	VRE coverage
+R26	Reason-Drug Arg1:T36 Arg2:T35
+T37	Drug 13666 13675	Metformin
+T38	Strength 13676 13681	500mg
+R27	Strength-Drug Arg1:T38 Arg2:T37
+T39	Drug 13701 13720	Metoprolol tartrate
+T40	Strength 13721 13725	50mg
+R28	Strength-Drug Arg1:T40 Arg2:T39
+T41	Drug 13745 13755	Cimetidine
+T42	Strength 13756 13761	100mg
+R29	Strength-Drug Arg1:T42 Arg2:T41
+T43	Drug 13781 13791	Amlodipine
+T44	Strength 13792 13796	10mg
+R30	Strength-Drug Arg1:T44 Arg2:T43
+T45	Frequency 13797 13802	daily
+R31	Frequency-Drug Arg1:T45 Arg2:T43
+T46	Drug 13805 13815	Lisinopril
+T47	Strength 13816 13821	2.5mg
+R32	Strength-Drug Arg1:T47 Arg2:T46
+T48	Frequency 13822 13827	daily
+R33	Frequency-Drug Arg1:T48 Arg2:T46
+T49	Dosage 1488 1489	2
+R34	Dosage-Drug Arg1:T49 Arg2:T51
+T50	Form 1490 1494	amps
+R35	Form-Drug Arg1:T50 Arg2:T51
+T51	Drug 1498 1513	bicarb with D5W
+T52	Dosage 1517 1526	100 cc/hr
+R36	Dosage-Drug Arg1:T52 Arg2:T51
+T53	Dosage 1541 1544	10u
+R37	Dosage-Drug Arg1:T53 Arg2:T54
+T54	Drug 1548 1562	cryoprecpitate
+T55	Drug 1578 1587	platelets
+T56	Strength 1606 1611	50 mg
+R38	Strength-Drug Arg1:T56 Arg2:T58
+T57	Route 1612 1614	PO
+R39	Route-Drug Arg1:T57 Arg2:T58
+T58	Drug 1618 1641	all-trans retinoic acid
+T59	Reason 2461 2471	Type II DM
+R40	Reason-Drug Arg1:T59 Arg2:T60
+T60	Drug 2486 2495	metformin
+T61	Reason 4747 4751	APML
+R41	Reason-Drug Arg1:T61 Arg2:T62
+T62	Drug 4849 4853	ATRA
+T63	ADE 4885 4898	ATRA syndrome
+R42	ADE-Drug Arg1:T63 Arg2:T62
+T64	ADE 4907 4933;4934 4942	acute elevation in his WBC to >50 K
+R43	ADE-Drug Arg1:T64 Arg2:T62
+T65	Drug 4999 5003	ATRA
+T66	Drug 5028 5038	Idarubicin
+T67	ADE 5076 5094	elevated bilirubin
+R44	ADE-Drug Arg1:T67 Arg2:T66
+T68	Drug 5244 5248	ATRA
+T69	ADE 5356 5376	tumor lysis syndrome
+R45	ADE-Drug Arg1:T69 Arg2:T68
+T70	Drug 5535 5546	allopurinol
+T71	Dosage 5573 5574	1
+R46	Dosage-Drug Arg1:T71 Arg2:T72
+T72	Drug 5584 5595	Rasburicase
+T73	Drug 5661 5672	allopurinol
+T74	ADE 5763 5777	pulmonary leak
+R47	ADE-Drug Arg1:T74 Arg2:T75
+T75	Drug 5783 5787	ATRA
+T76	Dosage 6648 6656	18 units
+R48	Dosage-Drug Arg1:T76 Arg2:T77
+T77	Drug 6660 6665	PRBCs
+T78	Dosage 6667 6675	35 units
+R49	Dosage-Drug Arg1:T78 Arg2:T79
+T79	Drug 6679 6688	platelets
+T80	Dosage 6690 6697	5 units
+R50	Dosage-Drug Arg1:T80 Arg2:T81
+T81	Drug 6701 6704	FFP
+T82	Dosage 6710 6718	24 units
+R51	Dosage-Drug Arg1:T82 Arg2:T83
+T83	Drug 6722 6737	cryoprecipitate
+T84	Reason 7139 7169	Toxic Metabolic Encephalopathy
+R52	Reason-Drug Arg1:T84 Arg2:T85
+T85	Drug 7521 7527	Haldol
+T86	Drug 7607 7616	midazolam
+T87	Drug 7621 7629	Fentanyl
+T88	Route 7630 7635	drips
+R53	Route-Drug Arg1:T88 Arg2:T87
+T89	Drug 8425 8436	allopurinol
+T90	Drug 8441 8452	Rasburicase
+T91	Reason 8457 8460	TLS
+R54	Reason-Drug Arg1:T91 Arg2:T89
+R55	Reason-Drug Arg1:T91 Arg2:T90
+T92	Reason 893 906	infected cyst
+R56	Reason-Drug Arg1:T92 Arg2:T93
+T93	Drug 919 922	abx
+T94	Reason 9440 9447	diurese
+R57	Reason-Drug Arg1:T94 Arg2:T96
+R58	Reason-Drug Arg1:T94 Arg2:T95
+T95	Drug 9475 9480	lasix
+T96	Drug 9485 9495	metolazone
+T97	Drug 9704 9713	Diltiazem
+T98	Route 9714 9718	drip
+R59	Route-Drug Arg1:T98 Arg2:T97
+T100	Dosage 9745 9752	boluses
+R62	Dosage-Drug Arg1:T100 Arg2:T101
+T101	Drug 9756 9765	Diltiazem
+T102	Drug 9770 9780	Metoprolol
+T103	Drug 9804 9813	Verapamil
+T104	Drug 9827 9837	Amiodarone
+T105	Drug 9859 9869	Amiodarone
+T106	Route 9870 9874	drip
+R63	Route-Drug Arg1:T106 Arg2:T105
+T107	Dosage 9879 9884	bolus
+R64	Dosage-Drug Arg1:T107 Arg2:T105
+T108	Strength 9888 9891;9892 9894	150 mg
+R65	Strength-Drug Arg1:T108 Arg2:T105
+T109	Dosage 9896 9897	2
+R66	Dosage-Drug Arg1:T109 Arg2:T105
+T110	Drug 9956 9966	Amiodarone
+T111	Strength 9985 9990	150mg
+R67	Strength-Drug Arg1:T111 Arg2:T112
+T112	Drug 9994 10004	amiodarone
+R5	Reason-Drug Arg1:T280 Arg2:T29	
+T2	Route 9742 9744	IV
+R3	Route-Drug Arg1:T2 Arg2:T101	
+T25	Route 10172 10174	IV
+R4	Route-Drug Arg1:T25 Arg2:T3	
+R20	Route-Drug Arg1:T25 Arg2:T4	
+T99	Route 12422 12424	IV
+R22	Route-Drug Arg1:T99 Arg2:T26	

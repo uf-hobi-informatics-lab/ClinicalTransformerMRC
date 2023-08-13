@@ -1,0 +1,64 @@
+Name:  [**Known lastname 14279**],[**Known firstname 511**]                  Unit No:   [**Numeric Identifier 14280**]
+
+Admission Date:  [**2129-12-5**]              Discharge Date:   [**2129-12-28**]
+
+Date of Birth:  [**2062-5-24**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Nitrofurantoin / Yellow Dye / Iron / Calcium
+
+Attending:[**First Name3 (LF) 3149**]
+Addendum:
+The patient was ready to go home with VNA services on [**2129-12-22**].
+Approximately at 11 am, patient developed severe nausea and she
+vomited x 3. She was started on IV fluids and her discharge was
+put on hold. The patient was stable, afebrile with vital signs
+within normal limits. Approximately at 3 pm, patient was found
+to have rigors, her vital signs revealed hypotension with SBP to
+the 70s, and hyperglycemia with FS 470s and altered mental
+status. The patient received IV fluid bolus (2L LR), SC insulin
+and was transferred to ICU for further management. Her blood
+revealed increased leukocytosis, hyponatremia, hyperkalemia and
+Cre 1.7 (0.4-0.6 baseline). The patient was started on broad
+spectrum antibiotics, levophed gtt to maintain BP and agressive
+fluid resuscitation, NGT was placed. Abdominal CT scan revealed
+LLL consolidations, persistent 2.9 x 1.3 cm rim enhancing
+aortocaval fluid collection near the liver hilum and was grossly
+stable compare with CT from [**12-15**]. With interventions patient
+continue to improve. Her BP stabalized and pressors were weaned
+off, hyperglycemia improved with insulin, Cre started to
+downward with fluids. WBC started to downward 26->19.8->12.6
+with abx treatment. Her blood, urine and stool samples were sent
+for culture. Patient received 2 units of pRBC and HCT improved
+(24->30.2), and her mental status returned to her baseline. The
+patient returned to the floor on [**2129-12-24**]. Her urine and stool
+cultures were negative, last blood cultures still pendind.
+Patient's Cre returned back to normal, her Bactrim and
+Fluconazole were restarted. The patient's Coumadin was hold
+since [**2129-12-23**] for INR 4.4. The patient still to have
+supratherapeutic INR on discharge (3.6), her INR will be
+followed daily by VNA and her Coumadin will be restarted when
+INR therapeutic ([**3-17**]). Patient's PCP will be notify by VNA about
+INR level and he will adjust patient's daily Warfarin base on
+INR result.
+At the time of discharge, the patient was doing well, afebrile
+with stable vital signs. The patient was tolerating a regular
+diet, ambulating, voiding without assistance, and pain was well
+controlled. The patient received discharge teaching and
+follow-up instructions with understanding verbalized and
+agreement with the discharge plan.
+
+
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Northeast Clinical Services
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2000**] MD [**MD Number(2) 3151**]
+
+Completed by:[**2129-12-29**]

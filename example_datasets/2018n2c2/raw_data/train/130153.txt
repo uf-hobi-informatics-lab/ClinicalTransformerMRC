@@ -1,0 +1,63 @@
+Name:  [**Known lastname 6066**], [**Known firstname **] A                      Unit No:  [**Numeric Identifier 6067**]
+
+Admission Date:  [**2114-3-17**]     Discharge Date:  [**2114-3-26**]
+
+Date of Birth:   [**2079-7-15**]     Sex:  M
+
+Service:
+
+ADDENDUM:  This is a Discharge Summary Addendum for hospital
+course from [**2114-3-23**] to [**2114-3-26**].  Please
+see prior Discharge Summary by Dr. [**Last Name (STitle) **] summarizing the
+patient's Intensive Care Unit hospital course.
+
+The patient was maintained on a one-to-one security sitter
+after transfer from the Intensive Care Unit to the medicine
+floor.  The patient remained fairly anxious.  The patient was
+given Valium per CIWA scale.  The patient received sedation
+in the Intensive Care Unit and had baseline agitation
+anxiety, also with a depressed mental status secondary to
+sedation in the Intensive Care Unit.
+
+The patient was followed by the Psychiatry Service who
+recommended continuing standing as needed Haldol and security
+sitter.  The patient's home dose psychiatric medications were
+held given his mental status.  His home dose psychiatric
+medications included Effexor, BuSpar, and Seroquel; and these
+were not given to the patient during this time period.
+
+The patient remained stable from a medical point of view;
+however, the patient remained on the Medicine Service and was
+followed by the Psychiatry team.  Consideration for transfer
+to inpatient psychiatric facility was recommended by the
+medical team.
+
+The patient was requesting to leave repeatedly.  The patient
+felt somewhat slowed but did not feel confused and was less
+agitated.  However, the Psychiatry Service recommended
+maintaining the one-to-one sitter and as needed Haldol.  His
+Effexor was restarted as well as his BuSpar; however,
+Seroquel was still held.
+
+Given that the patient was at risk of elopment, a discussion
+with Psychiatry resulted in discontinuation of the one-to-one
+security sitter, Haldol was discontinued, and the patient was
+deemed ready to be discharged to home with follow up with his
+primary care physician.
+
+Per report, the patient did elope even though he was
+medically ready to be discharged.
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) 27**] [**Last Name (NamePattern1) 28**], M.D.  [**MD Number(1) **]
+
+Dictated By:[**Name8 (MD) 6068**]
+
+MEDQUIST36
+
+D:  [**2114-4-10**]  17:05
+T:  [**2114-4-10**]  17:00
+JOB#:  [**Job Number 6069**]

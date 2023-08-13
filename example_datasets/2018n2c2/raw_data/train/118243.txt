@@ -1,0 +1,272 @@
+Admission Date:  [**2104-5-19**]              Discharge Date:   [**2104-5-26**]
+
+Date of Birth:  [**2049-8-22**]             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1835**]
+Chief Complaint:
+Syncope, seizure
+
+Major Surgical or Invasive Procedure:
+[**2104-5-22**] Right Frontal crani for mass x 2 resection
+
+
+History of Present Illness:
+This is a 54 year female with past medical history of
+hypertension and osteoporosis, who presents as a transfer from
+OSH s/p syncope and seizure, and with abnormal head CT.  In
+summary, the patient was reportedly attending a funeral today
+when she had a syncopal episode and fell.  She was sent to
+[**First Name4 (NamePattern1) 189**]
+[**Last Name (NamePattern1) **] Hospital for further evaluation.  Shortly following
+admission, she was found slumped over and unresponsive in a
+chair, and subsequently seized. Resolved with Ativan.  Continued
+to seize 1-2 times later in the evening. Received a total of
+14mg of Ativan. Intubated for increasing mental status changes
+and lethargy.  Transferred to [**Hospital1 18**] for continued care.
+
+
+Past Medical History:
+1. Hypertension
+2. Osteoporosis
+
+Social History:
+She works as a registered nurse at the Home Away from Home. She
+is a former smoker. She quit over 15 years ago but has about 30
+pack year hx. Her HCP is
+her husband and she is DNR per her husband.
+
+
+Family History:
+She has no hx of cancers and FH only notable for maternal aunt
+who was diagnosed
+with breast cancer in her 60's.
+
+Physical Exam:
+On Admission:
+PHYSICAL EXAM:
+O: T: 101.8 BP: 119/76         HR:76    R:20       O2Sats: 100%t
+Gen: WD/WN, comfortable, NAD. Off sedation, agitated.
+HEENT: NC/AT Pupils: PERRLA         EOMs N/A
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Intubated. No EO
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 4 to 2mm
+bilaterally. Visual fields are full to confrontation.
+III, IV, VI: N/A
+V, VII: N/A
+VIII: N/A
+IX, X: Gag reflex Present
+[**Doctor First Name 81**]: N/A
+XII: N/A
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements.
+Moves all extremities x 4 purposefully, equally, when off
+sedation.
+
+Toes downgoing bilaterally.
+
+On Discharge:
+Awake, alert and oriented to person, place and date. Face is
+symmetric, tongue with a slight left deviation. Full strength
+and sensation throughout. Wound is clean, dry and intact without
+signs of infection.
+
+Pertinent Results:
+[**2104-5-19**] CT Head:
+IMPRESSION: There are two rim-enhancing lesions peripherally
+located within the right frontal lobe, as described above, with
+associated vasogenic edema and mass effect. The inferior lesion
+demonstrates a punctate focus of hemorrhage. While the superior
+lesion does abut the dura, it lacks characteristic dural tail,
+making meningioma a less likely consideration.  Moreover, the
+more inferior lesion does appear intra-axial on coronal and
+sagittal reformatted images. Differential diagnosis
+includes metastatic disease versus abscess.
+
+[**2104-5-19**] MRI Brain w/ & w/o:
+1. Two enhancing right frontal lesions most consistent with
+metastases with surrounding vasogenic edema and right frontal
+sucal effacment.
+2. 2mm leftward shift of midline structures.
+
+CT Torso:
+1. No definite evidence of malignancy. Consolidation within the
+superior
+segment of the left lower lobe may represent infection, but
+there is a
+slightly more rounded appearance inferiorly, and consider repeat
+chest CT
+following treatment. Prominent left-sided intrapulmonary lymph
+nodes may be reactive.
+2. Gallbladder sludge.
+3. Gas tracking in the posterior subcutaneous tissues and
+extending into the left paraspinal musculature and left psoas
+muscle. Findings are likely
+related to pressure erosion. There is no focal fluid collection.
+
+4. Trace pelvic free fluid. Slightly limited evaluation of the
+pelvis due to motion artifact, but no gross abnormalities are
+identified.
+
+CT head [**2104-5-22**]:
+Expected postoperative appearance status-post right craniotomy.
+Unchanged 2mm leftward shift of midline structures
+
+MRI brain [**5-23**]:
+1. Two curvilinear foci of residual enhancement of the right
+frontal lobe.  Continued attention on followup studies is
+recommended.
+2. Interval resection of the two right frontal lesions.
+Persistent,
+unchanged right frontal edema and 2 mm leftward shift of midline
+structures.
+3. No evidence of acute infarct.
+
+
+Brief Hospital Course:
+This is a 54 year old F in her usual state of health until an
+episode of syncope and seizure. OSH CT revealed a brain mass
+with vasogenic edema. Patient was transferred to [**Hospital1 18**] where a
+Head CT was repeated- again showing a  two rim-enhancing lesions
+peripherally located within the right frontal lobe with
+associated vasogenic edema and mass effect.  Pt was admitted to
+the ICU under Dr.[**Name (NI) 9034**] care. A Brain MRI was done on
+[**2104-5-19**] which showed two enhancing right frontal lesions most
+consistent with metastases with surrounding vasogenic edema and
+right frontal sulcal effacement
+
+A CT Torso was done on [**5-19**], which was negative for any primary
+lesion or mets, but did show ground glass opacity in RUL.
+
+She was consented and pre-oped, and went to the OR for resection
+of this mass on [**5-22**]. The procedure went well without
+complications. The preliminary pathology report was metastatic
+carcinoma. She remained in the PACU overnight for Q1 hour neuro
+checks post-op. CT head was negative for hemorrhage.
+
+She was stable on [**5-23**] and she was transferred to the Step down
+unit. Her Foley and A-line was discontinued. She had an MRI.
+
+PT and OT were ordered. She was cleared for home on [**5-26**] with PT
+outpatient needs.
+
+Medications on Admission:
+1. Ecotrin 81m Daily
+2. Pepcid 20mg [**Hospital1 **]
+3. Lopressor 25mg Daily
+
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+3. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*0*
+4. Alendronate 70 mg Tablet Sig: One (1) Tablet PO QSUN (every
+Sunday).
+5. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+6. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain: max APAP 4g/24hrs.
+7. Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day).
+Disp:*120 Tablet(s)* Refills:*0*
+8. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)
+as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+9. Dexamethasone 2 mg Tablet Sig: One (1) Tablet PO Q12H (every
+12 hours).
+Disp:*60 Tablet(s)* Refills:*0*
+10. Outpatient Physical Therapy
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Last Name (LF) 486**], [**First Name3 (LF) 487**]
+
+Discharge Diagnosis:
+Right sideded frontal brain masses
+
+
+Discharge Condition:
+Neurologically stable
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+
+
+Discharge Instructions:
+General Instructions/Information
+
+??????	Have a friend/family member check your incision daily for
+signs of infection.
+??????	Take your pain medicine as prescribed.
+??????	Exercise should be limited to walking; no lifting, straining,
+or excessive bending.
+??????	You may wash your hair only after sutures have been removed.
+??????	You may shower before this time using a shower cap to cover
+your head.
+??????	Increase your intake of fluids and fiber, as narcotic pain
+medicine can cause constipation. We generally recommend taking
+an over the counter stool softener, such as Docusate (Colace)
+while taking narcotic pain medication.
+??????	Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, and
+Ibuprofen etc.
+??????	You have been prescribed Keppra for anti-seizure medicine,
+take it as prescribed.
+??????	You are being sent home on steroid medication(taper to 2mg
+twice daily), make sure you are taking a medication to protect
+your stomach (Prilosec, Protonix, or Pepcid), as these
+medications can cause stomach irritation.  Make sure to take
+your steroid medication with meals, or a glass of milk.
+??????	Clearance to drive and return to work will be addressed at
+your post-operative office visit.
+??????	Make sure to continue to use your incentive spirometer while
+at home.
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE
+FOLLOWING
+
+??????	New onset of tremors or seizures.
+??????	Any confusion or change in mental status.
+??????	Any numbness, tingling, weakness in your extremities.
+??????	Pain or headache that is continually increasing, or not
+relieved by pain medication.
+??????	Any signs of infection at the wound site: increasing redness,
+increased swelling, increased tenderness, or drainage.
+??????	Fever greater than or equal to 101?????? F.
+
+
+Followup Instructions:
+??????Please return to the office in [**10-30**] days (from your date of
+surgery) for removal of your sutures and a wound check. This
+appointment can be made with the Nurse Practitioner.  Please
+make this appointment by calling [**Telephone/Fax (1) 1669**]. If you live quite
+a distance from our office, please make arrangements for the
+same, with your PCP.
+??????You have an appointment in the Brain [**Hospital 341**] Clinic on [**6-9**]
+at 11:30.  The Brain [**Hospital 341**] Clinic is located on the [**Hospital Ward Name 516**]
+of [**Hospital1 18**], in the [**Hospital Ward Name 23**] Building, [**Location (un) **]. Their phone number
+is [**Telephone/Fax (1) 1844**]. Please call if you need to change your
+appointment, or require additional directions.
+??????Please follow up with medical oncology. You should be receiving
+a call from them once pathology has been finalizined.  If you do
+not hear from them by Friday [**5-30**] please call Dr. [**First Name (STitle) **] at
+[**Telephone/Fax (1) 86318**] to schedule an appointment or if you have any
+questions
+
+
+
+Completed by:[**2104-5-26**]

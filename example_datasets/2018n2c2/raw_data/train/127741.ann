@@ -1,0 +1,163 @@
+T1	Drug 5960 5970	vancomycin
+T2	Drug 7497 7506	linezolid
+T3	Strength 7507 7513	600 mg
+T4	Form 7534 7540	Tablet
+T5	Route 7541 7543	PO
+T6	Drug 1226 1235	diltiazem
+T7	Drug 8396 8405	diltiazem
+T8	Drug 5986 5999	ciprofloxacin
+T9	Drug 6800 6807	aspirin
+T10	Drug 7448 7455	Aspirin
+T11	Strength 7456 7460	81mg
+T12	Route 7461 7463	PO
+T13	Drug 8851 8858	Aspirin
+T14	Drug 8776 8788;8788 8795	Guaifenesin- CODEINE
+T15	Form 8796 8801;8802 8807	cough syrup
+T16	Drug 876 883	digoxin
+T17	Strength 884 891	0.25 mg
+T18	Drug 7000 7007	aspirin
+T19	Drug 6178 6187	linezolid
+T20	Drug 803 816	normal saline
+T21	Drug 164 179	Tessalon Perles
+T22	Drug 933 942	diltiazem
+T23	Strength 943 948	20 mg
+T25	Drug 7217 7224	aspirin
+T26	Drug 6443 6447	Dilt
+T27	Strength 8731 8737	600 mg
+T28	Duration 8743 8754	for 10 days
+T29	Frequency 8738 8742	Q12H
+T30	Drug 8721 8729;8729 8730	Linezoli d
+T31	Duration 7678 7689	for 10 days
+T32	Drug 893 902	ibuprofen
+T33	Strength 903 909	600 mg
+T34	Drug 818 828	vancomycin
+T35	Strength 829 833	1 gm
+T36	Drug 6163 6175	levofloxacin
+T37	Drug 911 924	acetaminophen
+T38	Strength 925 931	975 mg
+T39	Drug 7726 7734;7734 7745	codeine- guaifenesin
+T40	Route 7781 7783	PO
+T41	Drug 5972 5980	cefepime
+T42	Drug 6858 6865	aspirin
+T43	Drug 7614 7626	levofloxacin
+T44	Strength 7627 7633	750 mg
+T45	Form 7654 7660	Tablet
+T46	Route 7661 7663	PO
+T47	Reason 7818 7823	cough
+T48	Reason 8414 8421;8422 8452	control your rapid atrial fibrillation
+T49	Reason 8822 8827	cough
+T50	Drug 835 847	azithromycin
+T51	Strength 848 854	500 mg
+T52	Drug 856 867	ceftriaxone
+T53	Strength 868 874	1 gram
+T54	Drug 957 968	Cardizen CD
+T55	Strength 969 972;973 975	120 mg
+T56	Route 1236 1239	gtt
+T57	Strength 1243 1251	10 mg/hr
+T59	Reason 5938 5942	HCAP
+T60	Duration 6146 6152	10-day
+T61	Strength 6435 6442	10mg/hr
+T62	Route 6448 6452	drip
+T63	Reason 6260 6288	Atrial Fibrillation with RVR
+T64	Frequency 7464 7469	Daily
+T65	Form 7514 7520	Tablet
+T66	Dosage 7526 7533	One (1)
+T67	Frequency 7544 7558;7559 7565	Q12H (every 12 hours)
+T68	Duration 7566 7577	for 10 days
+T69	Form 7634 7640	Tablet
+T70	Dosage 7646 7653	One (1)
+T71	Frequency 7664 7669;7670 7677	DAILY (Daily)
+T72	Strength 7746 7760	10-100 mg/5 mL
+T73	Form 7761 7766	Syrup
+T74	Dosage 7772 7780	5-10 MLs
+T75	Frequency 7784 7787;7788 7813	Q6H (every 6 hours) as needed
+T76	Route 8406 8410	drip
+T77	Frequency 8808 8817	as needed
+R1	Strength-Drug Arg1:T3 Arg2:T2
+R2	Form-Drug Arg1:T4 Arg2:T2
+R3	Route-Drug Arg1:T5 Arg2:T2
+R4	Strength-Drug Arg1:T11 Arg2:T10
+R5	Route-Drug Arg1:T12 Arg2:T10
+R6	Form-Drug Arg1:T15 Arg2:T14
+R7	Strength-Drug Arg1:T17 Arg2:T16
+R8	Strength-Drug Arg1:T23 Arg2:T22
+R10	Strength-Drug Arg1:T27 Arg2:T30
+R11	Duration-Drug Arg1:T28 Arg2:T30
+R12	Frequency-Drug Arg1:T29 Arg2:T30
+R13	Strength-Drug Arg1:T33 Arg2:T32
+R14	Strength-Drug Arg1:T35 Arg2:T34
+R15	Strength-Drug Arg1:T38 Arg2:T37
+R16	Route-Drug Arg1:T40 Arg2:T39
+R17	Strength-Drug Arg1:T44 Arg2:T43
+R18	Form-Drug Arg1:T45 Arg2:T43
+R19	Route-Drug Arg1:T46 Arg2:T43
+R20	Strength-Drug Arg1:T51 Arg2:T50
+R21	Strength-Drug Arg1:T53 Arg2:T52
+R22	Strength-Drug Arg1:T55 Arg2:T54
+R23	Route-Drug Arg1:T56 Arg2:T6
+R24	Strength-Drug Arg1:T57 Arg2:T6
+R25	Reason-Drug Arg1:T59 Arg2:T8
+R26	Reason-Drug Arg1:T59 Arg2:T41
+R27	Reason-Drug Arg1:T59 Arg2:T1
+R29	Duration-Drug Arg1:T60 Arg2:T36
+R30	Duration-Drug Arg1:T60 Arg2:T19
+R31	Strength-Drug Arg1:T61 Arg2:T26
+R32	Route-Drug Arg1:T62 Arg2:T26
+R33	Reason-Drug Arg1:T63 Arg2:T26
+R34	Frequency-Drug Arg1:T64 Arg2:T10
+R35	Form-Drug Arg1:T65 Arg2:T2
+R36	Dosage-Drug Arg1:T66 Arg2:T2
+R37	Frequency-Drug Arg1:T67 Arg2:T2
+R38	Duration-Drug Arg1:T68 Arg2:T2
+R39	Form-Drug Arg1:T69 Arg2:T43
+R40	Dosage-Drug Arg1:T70 Arg2:T43
+R41	Frequency-Drug Arg1:T71 Arg2:T43
+R42	Duration-Drug Arg1:T31 Arg2:T43
+R43	Frequency-Drug Arg1:T75 Arg2:T39
+R44	Reason-Drug Arg1:T47 Arg2:T39
+R45	Dosage-Drug Arg1:T74 Arg2:T39
+R46	Form-Drug Arg1:T73 Arg2:T39
+R47	Strength-Drug Arg1:T72 Arg2:T39
+R48	Route-Drug Arg1:T76 Arg2:T7
+R49	Reason-Drug Arg1:T48 Arg2:T7
+R50	Frequency-Drug Arg1:T77 Arg2:T14
+R51	Reason-Drug Arg1:T49 Arg2:T14
+T78	Reason 6685 6704	atrial fibrillation
+T79	ADE 6906 6927	blood streaked sputum
+T80	ADE 7247 7257	hemoptysis
+T82	Reason 8528 8550	a multifocal pneumonia
+T83	Drug 5662 5668	oxygen
+T84	Route 5728 5741	nasal cannula
+T85	Route 5758 5767	face tent
+T86	Reason 5642 5645	PNA
+T87	Reason 6222 6226	MSRA
+T88	Frequency 6794 6799	daily
+T89	Form 7588 7597	Tablet(s)
+T91	Drug 8474 8480	oxygen
+T92	Drug 8575 8604	broad-spectrum IV antibiotics
+T93	Drug 8636 8647	antibiotics
+T94	Route 8633 8635	PO
+R52	Route-Drug Arg1:T84 Arg2:T83
+R53	Route-Drug Arg1:T85 Arg2:T83
+R54	Reason-Drug Arg1:T86 Arg2:T83
+R55	Reason-Drug Arg1:T82 Arg2:T91
+R56	Route-Drug Arg1:T94 Arg2:T93
+R57	Reason-Drug Arg1:T82 Arg2:T92
+R58	Reason-Drug Arg1:T82 Arg2:T93
+R59	Reason-Drug Arg1:T87 Arg2:T36	
+R60	Reason-Drug Arg1:T87 Arg2:T19	
+R61	Reason-Drug Arg1:T78 Arg2:T9	
+R62	Frequency-Drug Arg1:T88 Arg2:T9	
+R63	ADE-Drug Arg1:T79 Arg2:T42	
+R64	ADE-Drug Arg1:T80 Arg2:T25	
+T24	Route 949 951	IV
+R9	Route-Drug Arg1:T24 Arg2:T22	
+T58	Route 5957 5959	IV
+R28	Route-Drug Arg1:T58 Arg2:T1	
+T81	Route 8590 8592	IV
+R65	Route-Drug Arg1:T81 Arg2:T92	
+T90	Reason 6243 6256	CAP organisms
+R66	Reason-Drug Arg1:T90 Arg2:T19	
+R67	Reason-Drug Arg1:T90 Arg2:T36	
+T95	ADE 6882 6905	intermittent hemoptysis
+R68	ADE-Drug Arg1:T95 Arg2:T42	

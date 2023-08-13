@@ -1,0 +1,185 @@
+T1	Reason 1032 1051	lower extremity DVT
+R1	Reason-Drug Arg1:T1 Arg2:T2
+T2	Drug 1081 1089	Coumadin
+T3	Reason 11035 11043	SEIZURES
+R2	Reason-Drug Arg1:T3 Arg2:T4
+R3	Reason-Drug Arg1:T3 Arg2:T5
+T4	Drug 11134 11140	ativan
+T5	Drug 11211 11217	Keppra
+T6	Strength 11223 11229	500 mg
+R4	Strength-Drug Arg1:T6 Arg2:T5
+T7	Strength 11250 11257	1500 mg
+R5	Strength-Drug Arg1:T7 Arg2:T5
+T8	Reason 11602 11609	seizure
+R6	Reason-Drug Arg1:T8 Arg2:T9
+T9	Drug 11653 11659	vimpat
+T10	Strength 11660 11666	200 mg
+R7	Strength-Drug Arg1:T10 Arg2:T9
+T12	Strength 11701 11707	100 mg
+R9	Strength-Drug Arg1:T12 Arg2:T9
+T13	Reason 11897 11905	seizures
+R10	Reason-Drug Arg1:T13 Arg2:T14
+R11	Reason-Drug Arg1:T13 Arg2:T15
+R12	Reason-Drug Arg1:T13 Arg2:T16
+T14	Drug 11927 11936	midazolam
+T15	Drug 11962 11970	propofol
+T16	Drug 11979 11988	midazolam
+T17	Reason 12125 12133	seizures
+R13	Reason-Drug Arg1:T17 Arg2:T18
+R14	Reason-Drug Arg1:T17 Arg2:T19
+R15	Reason-Drug Arg1:T17 Arg2:T20
+R16	Reason-Drug Arg1:T17 Arg2:T21
+R17	Reason-Drug Arg1:T17 Arg2:T22
+T18	Drug 12154 12167	phenobarbital
+T19	Drug 12183 12191	Depakote
+T20	Drug 12245 12255	Zonisamide
+T21	Drug 12260 12267	Topamax
+T22	Drug 12388 12397	midazolam
+T23	Route 12398 12402	drip
+R18	Route-Drug Arg1:T23 Arg2:T22
+T24	Reason 12482 12490	seizures
+R19	Reason-Drug Arg1:T24 Arg2:T25
+R20	Reason-Drug Arg1:T24 Arg2:T27
+R21	Reason-Drug Arg1:T24 Arg2:T29
+T25	Drug 12579 12587	Dilantin
+T26	Strength 12599 12604	20-25
+R22	Strength-Drug Arg1:T26 Arg2:T25
+T27	Drug 12610 12623	phenobarbital
+T28	Strength 12625 12631	90-100
+R23	Strength-Drug Arg1:T28 Arg2:T27
+T29	Drug 12637 12646	midazolam
+T30	Route 12647 12651	drip
+R24	Route-Drug Arg1:T30 Arg2:T29
+T31	Reason 12888 12892	ADEM
+R25	Reason-Drug Arg1:T31 Arg2:T34
+T32	Duration 12931 12937	5 days
+R26	Duration-Drug Arg1:T32 Arg2:T34
+T33	Dosage 12938 12947	high dose
+R27	Dosage-Drug Arg1:T33 Arg2:T34
+T34	Drug 12948 12956	steroids
+T35	Drug 13017 13025	steroids
+T36	Drug 13079 13087	steroids
+T37	Drug 13188 13196	steroids
+T38	Reason 13284 13292	seizures
+R28	Reason-Drug Arg1:T38 Arg2:T39
+T39	Drug 13306 13315	midazolam
+T40	Route 13316 13320	drip
+R29	Route-Drug Arg1:T40 Arg2:T39
+T41	Reason 13775 13791	HSV ENCEPHALITIS
+R30	Reason-Drug Arg1:T41 Arg2:T44
+R31	Reason-Drug Arg1:T41 Arg2:T46
+T42	Duration 13846 13854	2 21 day
+R32	Duration-Drug Arg1:T42 Arg2:T44
+T44	Drug 13866 13875	acyclovir
+T45	Reason 14264 14267	HSV
+R34	Reason-Drug Arg1:T45 Arg2:T46
+T46	Drug 14285 14294	acyclovir
+T48	Reason 14515 14538	FEVER OF UNKNOWN ORIGIN
+R37	Reason-Drug Arg1:T48 Arg2:T49
+R38	Reason-Drug Arg1:T48 Arg2:T50
+T49	Drug 14626 14631	vanco
+T50	Drug 14632 14637	zosyn
+T51	ADE 14795 14813	maculopapular rash
+R39	ADE-Drug Arg1:T51 Arg2:T54
+T52	ADE 14818 14843	elevated eosinophil count
+R40	ADE-Drug Arg1:T52 Arg2:T54
+T53	ADE 14864 14874	drug fever
+R41	ADE-Drug Arg1:T53 Arg2:T54
+T54	Drug 14880 14899	seizure medications
+T55	Reason 15374 15377	UTI
+R42	Reason-Drug Arg1:T55 Arg2:T56
+T56	Drug 15442 15453	ceftriaxone
+T57	Reason 15459 15462	PNA
+R43	Reason-Drug Arg1:T57 Arg2:T58
+T58	Drug 15523 15534	ceftriaxone
+T59	ADE 15541 15553	TRANAMINITIS
+R44	ADE-Drug Arg1:T59 Arg2:T62
+T60	ADE 15606 15626	elevation in AST/ALT
+R45	ADE-Drug Arg1:T60 Arg2:T62
+T61	ADE 15674 15690	elevated ammonia
+R46	ADE-Drug Arg1:T61 Arg2:T62
+T62	Drug 15761 15769	Depakote
+T63	ADE 15806 15819	LFT elevation
+R47	ADE-Drug Arg1:T63 Arg2:T64
+T64	Drug 15848 15858	zonisamide
+T65	Reason 15870 15873	DVT
+R48	Reason-Drug Arg1:T65 Arg2:T67
+T66	Reason 15920 15939	lower extremity DVT
+R49	Reason-Drug Arg1:T66 Arg2:T67
+R50	Reason-Drug Arg1:T66 Arg2:T69
+R51	Reason-Drug Arg1:T66 Arg2:T70
+T67	Drug 15962 15970	Coumadin
+T68	Drug 1598 1607	acyclovir
+T69	Drug 16132 16139	Lovenox
+T70	Drug 16175 16183	coumadin
+T71	Reason 16215 16221	Anemia
+R52	Reason-Drug Arg1:T71 Arg2:T73
+T72	Reason 16455 16470	iron deficiency
+R53	Reason-Drug Arg1:T72 Arg2:T73
+T73	Drug 16492 16507	ferrous sulfate
+T74	Frequency 16508 16513	daily
+R54	Frequency-Drug Arg1:T74 Arg2:T73
+T75	ADE 16603 16622	Acute kidney injury
+R55	ADE-Drug Arg1:T75 Arg2:T76
+T76	Drug 16638 16647	acyclovir
+T77	Drug 16725 16731	Colace
+T78	Strength 16732 16737	100mg
+R56	Strength-Drug Arg1:T78 Arg2:T77
+T79	Drug 16757 16768	Finasteride
+T80	Strength 16769 16772	5mg
+R57	Strength-Drug Arg1:T80 Arg2:T79
+T81	Frequency 16773 16778	daily
+R58	Frequency-Drug Arg1:T81 Arg2:T79
+T82	Drug 16781 16796	Fludrocortisone
+T83	Strength 16797 16802	0.1mg
+R59	Strength-Drug Arg1:T83 Arg2:T82
+T84	Frequency 16803 16808	daily
+R60	Frequency-Drug Arg1:T84 Arg2:T82
+T85	Drug 16811 16817	Keppra
+T86	Strength 16818 16823	500mg
+R61	Strength-Drug Arg1:T86 Arg2:T85
+T87	Drug 16843 16852	Midodrine
+T88	Strength 16853 16856	5mg
+R62	Strength-Drug Arg1:T88 Arg2:T87
+T89	Frequency 16857 16862	daily
+R63	Frequency-Drug Arg1:T89 Arg2:T87
+T90	Drug 16865 16876	Mirtazapine
+T91	Strength 16877 16881	15mg
+R64	Strength-Drug Arg1:T91 Arg2:T90
+T92	Frequency 16882 16885	QHS
+R65	Frequency-Drug Arg1:T92 Arg2:T90
+T93	Drug 16888 16900	Pantoprazole
+T94	Strength 16901 16905	40mg
+R66	Strength-Drug Arg1:T94 Arg2:T93
+T95	Frequency 16906 16911	daily
+R67	Frequency-Drug Arg1:T95 Arg2:T93
+T96	Drug 16914 16919	Senna
+T97	Dosage 16920 16921	2
+R68	Dosage-Drug Arg1:T97 Arg2:T96
+T98	Form 16922 16929	tablets
+R69	Form-Drug Arg1:T98 Arg2:T96
+T99	Frequency 16930 16935	daily
+R70	Frequency-Drug Arg1:T99 Arg2:T96
+T100	Drug 16938 16948	Tamsulosin
+T101	Strength 16949 16954	0.4mg
+R71	Strength-Drug Arg1:T101 Arg2:T100
+T102	Frequency 16955 16960	daily
+R72	Frequency-Drug Arg1:T102 Arg2:T100
+T103	Drug 16963 16971	Coumadin
+T104	Drug 16974 16983	Acyclovir
+T105	Strength 16984 16989	500mg
+R73	Strength-Drug Arg1:T105 Arg2:T104
+T106	Frequency 16990 16994	Q8hr
+R74	Frequency-Drug Arg1:T106 Arg2:T104
+T107	Reason 2056 2067	orthostatic
+R75	Reason-Drug Arg1:T107 Arg2:T109
+R76	Reason-Drug Arg1:T107 Arg2:T108
+T108	Drug 2145 2160	fludrocortisone
+T109	Drug 2165 2174	midodrine
+T110	Reason 889 903	HSV meningitis
+R77	Reason-Drug Arg1:T110 Arg2:T112
+T112	Drug 939 948	acyclovir
+T11	Route 11667 11669	IV
+R8	Route-Drug Arg1:T11 Arg2:T9	
+T43	Route 936 938	IV
+R33	Route-Drug Arg1:T43 Arg2:T112	

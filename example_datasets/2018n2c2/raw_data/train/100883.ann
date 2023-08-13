@@ -1,0 +1,155 @@
+T1	Drug 1243 1251	Propofol
+T2	Route 1252 1256	drip
+R1	Route-Drug Arg1:T2 Arg2:T1
+T3	Dosage 1360 1368	5 liters
+R2	Dosage-Drug Arg1:T3 Arg2:T5
+T4	Route 1372 1383	intravenous
+R3	Route-Drug Arg1:T4 Arg2:T5
+T5	Drug 1384 1390	fluids
+T6	Drug 1410 1421	Solu-Medrol
+T7	Drug 1426 1438	Levofloxacin
+T8	Reason 1507 1516;1517 1525	low blood pressure
+R4	Reason-Drug Arg1:T8 Arg2:T9
+T9	Drug 1548 1556	Dopamine
+T10	Reason 1565 1576	hypotension
+R5	Reason-Drug Arg1:T10 Arg2:T9
+T11	Reason 1708 1745	Chronic obstructive pulmonary disease
+R6	Reason-Drug Arg1:T11 Arg2:T13
+T12	Dosage 1749 1757	4 liters
+R7	Dosage-Drug Arg1:T12 Arg2:T13
+T13	Drug 1766 1772	oxygen
+T14	Drug 2215 2224	Combivent
+T15	Drug 2226 2233	Flovent
+T16	Drug 2235 2242	Lipitor
+T17	Drug 2244 2251	Aspirin
+T18	Drug 2253 2263	Prednisone
+T19	Strength 2264 2266	40
+R8	Strength-Drug Arg1:T19 Arg2:T18
+T20	Dosage 2272 2277	taper
+R9	Dosage-Drug Arg1:T20 Arg2:T18
+T21	Drug 2279 2289	Metoprolol
+T22	Strength 2290 2292	25
+R10	Strength-Drug Arg1:T22 Arg2:T21
+T23	Frequency 2293 2298	b.i.d
+R11	Frequency-Drug Arg1:T23 Arg2:T21
+T24	Drug 2301 2311	Lisinopril
+T25	Strength 2312 2313	5
+R12	Strength-Drug Arg1:T25 Arg2:T24
+T26	Frequency 2314 2324	once a day
+R13	Frequency-Drug Arg1:T26 Arg2:T24
+T27	Drug 2326 2333	Calcium
+T28	Drug 2335 2344	Vitamin B
+T29	Drug 2346 2352	Colace
+T30	Drug 2354 2362	Percocet
+T31	Drug 2367 2375	Protonix
+T32	Reason 4660 4680	respiratory distress
+R14	Reason-Drug Arg1:T32 Arg2:T34
+T33	Dosage 4833 4838;4839 4843	high- dose
+R15	Dosage-Drug Arg1:T33 Arg2:T34
+T34	Drug 4844 4852	steroids
+T38	Dosage 5767 5770	one
+R16	Dosage-Drug Arg1:T38 Arg2:T39
+T39	Drug 5779 5791	Levofloxacin
+T40	Drug 5841 5851	antibiotic
+T41	ADE 5871 5882	Hypotension
+R17	ADE-Drug Arg1:T41 Arg2:T43
+R18	ADE-Drug Arg1:T41 Arg2:T42
+T42	Drug 5986 5994	Propofol
+T43	Drug 6010 6030	sedating medications
+T44	Drug 6045 6053	pressors
+T45	Drug 6066 6074	Dopamine
+T46	ADE 6119 6131	tachycardiac
+R19	ADE-Drug Arg1:T46 Arg2:T45
+T47	Drug 6158 6166	Levophed
+T48	Drug 6212 6232	sedating medications
+T49	Reason 6500 6512	Hypertension
+R20	Reason-Drug Arg1:T49 Arg2:T50
+R21	Reason-Drug Arg1:T49 Arg2:T51
+T50	Drug 6579 6589	Metoprolol
+T51	Drug 6594 6607	ACE inhibitor
+T52	Reason 6675 6698	Coronary artery disease
+R22	Reason-Drug Arg1:T52 Arg2:T53
+R23	Reason-Drug Arg1:T52 Arg2:T54
+T53	Drug 6777 6784	Aspirin
+T54	Drug 6793 6800	Lipitor
+T55	Drug 6991 7001	Metoprolol
+T56	Drug 7006 7019	ACE inhibitor
+T57	Reason 7056 7069	Renal failure
+R24	Reason-Drug Arg1:T57 Arg2:T58
+T58	Drug 7192 7198	fluids
+T59	Reason 7201 7212	Prophylaxis
+R25	Reason-Drug Arg1:T59 Arg2:T60
+R26	Reason-Drug Arg1:T59 Arg2:T61
+T60	Drug 7246 7257;7258 7268	proton pump inhibitors
+T61	Drug 7285 7292	heparin
+T62	Route 7293 7307	subcutaneously
+R27	Route-Drug Arg1:T62 Arg2:T61
+T63	Dosage 7801 7806	taper
+R28	Dosage-Drug Arg1:T63 Arg2:T64
+T64	Drug 7810 7820	Prednisone
+T65	Drug 8287 8294	Lipitor
+T66	Strength 8295 8297	10
+R29	Strength-Drug Arg1:T66 Arg2:T65
+T67	Frequency 8298 8308	once a day
+R30	Frequency-Drug Arg1:T67 Arg2:T65
+T68	Drug 8313 8320	Aspirin
+T69	Strength 8321 8324	325
+R31	Strength-Drug Arg1:T69 Arg2:T68
+T70	Frequency 8325 8335	once a day
+R32	Frequency-Drug Arg1:T70 Arg2:T68
+T71	Drug 8340 8348	Percocet
+T72	Dosage 8349 8355	1 to 2
+R33	Dosage-Drug Arg1:T72 Arg2:T71
+T73	Form 8356 8363	tablets
+R34	Form-Drug Arg1:T73 Arg2:T71
+T74	Frequency 8364 8379;8380 8389	every 4-6 hours as needed
+R35	Frequency-Drug Arg1:T74 Arg2:T71
+T75	Drug 8394 8402	Protonix
+T76	Strength 8403 8408	40 mg
+R36	Strength-Drug Arg1:T76 Arg2:T75
+T77	Frequency 8409 8419	once a day
+R37	Frequency-Drug Arg1:T77 Arg2:T75
+T78	Drug 8424 8434	Lisinopril
+T79	Strength 8435 8436	5
+R38	Strength-Drug Arg1:T79 Arg2:T78
+T80	Frequency 8437 8447	once a day
+R39	Frequency-Drug Arg1:T80 Arg2:T78
+T81	Drug 8452 8462	Metoprolol
+T82	Strength 8463 8465	25
+R40	Strength-Drug Arg1:T82 Arg2:T81
+T83	Frequency 8466 8477	twice a day
+R41	Frequency-Drug Arg1:T83 Arg2:T81
+T84	Drug 8482 8492	Prednisone
+T85	Strength 8493 8498	40 mg
+R42	Strength-Drug Arg1:T85 Arg2:T84
+T86	Frequency 8499 8509	once a day
+R43	Frequency-Drug Arg1:T86 Arg2:T84
+T87	Drug 8520 8527	steroid
+T88	Dosage 8528 8533	taper
+R44	Dosage-Drug Arg1:T88 Arg2:T87
+T89	Drug 8561 8570	Combivent
+T90	Dosage 8571 8572	2
+R45	Dosage-Drug Arg1:T90 Arg2:T89
+T91	Form 8573 8578	puffs
+R46	Form-Drug Arg1:T91 Arg2:T89
+T92	Frequency 8579 8594	every six hours
+R47	Frequency-Drug Arg1:T92 Arg2:T89
+T93	Drug 8599 8606	Flovent
+T94	Dosage 8607 8608	2
+R48	Dosage-Drug Arg1:T94 Arg2:T93
+T95	Form 8609 8614	puffs
+R49	Form-Drug Arg1:T95 Arg2:T93
+T96	Frequency 8615 8626	twice a day
+R50	Frequency-Drug Arg1:T96 Arg2:T93
+T97	Dosage 8712 8720	2 liters
+R51	Dosage-Drug Arg1:T97 Arg2:T98
+T98	Drug 8724 8730	oxygen
+T99	Frequency 8731 8739	at night
+R52	Frequency-Drug Arg1:T99 Arg2:T98
+T35	Reason 5871 5882	Hypotension
+R53	Reason-Drug Arg1:T35 Arg2:T44	
+R54	Reason-Drug Arg1:T35 Arg2:T47	
+R55	Reason-Drug Arg1:T35 Arg2:T45	
+T36	Frequency 8747 8756	as needed
+R56	Frequency-Drug Arg1:T36 Arg2:T98	
+T37	Drug 2800 2804	FIO2

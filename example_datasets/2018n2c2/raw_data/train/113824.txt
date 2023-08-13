@@ -1,0 +1,405 @@
+Admission Date:  [**2200-6-14**]              Discharge Date:   [**2200-7-16**]
+
+Date of Birth:  [**2125-1-23**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 7591**]
+Chief Complaint:
+fatigue, elevated WBC
+
+Major Surgical or Invasive Procedure:
+Central line for Plasmapheresis
+Skin biopsy
+
+
+History of Present Illness:
+75-year-old woman with no significant medical problems presented
+to her PCP complaining of "not feeling well". Patient reports
+that on [**6-2**] she saw her dentist because she had been feeling
+well for a few weeks. She basically states she was fatigued. Her
+son who accompanies her surgeries sleeping a lot during the day.
+She was found to have 3 abscessed teeth which were removed on
+[**6-5**].  She was begun on clindamycin 300 mg QID on [**6-2**] she took
+until [**6-12**]. For the last 3 nights she has had a fever with max
+temperature of 100.8. She denies cough, shortness of breath,
+abdominal pain, dysuria, frequency, stiff neck, headache. She
+has noted that her stools are a little bit looser, but has not
+had profuse diarrhea.   She denies shaking chills, night sweats.
+
+.
+In the ED, initial vital signs were 98.3 88 130/69 16 100%.
+White blood cell count was 257K with 98% other forms, hematocrit
+29, platelets 58K.  Her LDH was 472.  Creatinine was 0.8.  BMT
+was consulted in the ED and recommended smear review and bone
+marrow biopsy, further recommendations pending.  Patient was
+given allopurinol 300 mg PO x 1.  She was planned [**Hospital Unit Name 153**] admit for
+pheresis.  Vitals upon transfer were pulse 84, RR 18, BP 140/84,
+O2Sat 96% RA.
+.
+On arrival to the MICU, patient reports no problems.  There is
+no dyspnea, headache or confusion.
+
+Past Medical History:
+Osteopenia
+Elevated blood pressure
+
+
+Social History:
+She is widowed and remarried. Her two sons are doing well
+(daughter-in-law [**Name (NI) 553**] [**Name (NI) **]). Has 4 granddaughters. Does not
+work. She lives in [**Location 14663**] for the summer.  She does not use
+tobacco, EtOH, drugs. Walks 20 min every morning, and a few
+times a week walks in the evenings as well.
+
+
+Family History:
+Mother had pancreatic cancer.  Father had a myocardial
+infarction at age 82 and diabetes. Son w/ [**Name2 (NI) **] [**Location (un) **]
+syndrome.
+Sister with severe itching for 1 year, unexplained despite
+extensive testing
+
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals:  T 98.4 BP 154/89 HR 90 R 19 Sat 93%RA
+General: Alert, orientedx3, no acute distress
+HEENT: Pupils equal round and reactive, extraocular movements
+intact, oropharynx clear w/o lesions or petechiae, good
+dentition, mild gingival hyperplasia
+NECK: JVP flat
+CV: nl s1s2, regular rate and rhythm, no murmur/rubs/gallops
+PULM: clear to auscultation bilaterally w/good air movement, no
+crackles/wheezes
+ABD: soft, non-tender, non-distended, +Bowel sounds, no
+hepatosplenomgaly
+LYMPH: no cervical LAD
+EXT: warm, well perfused, no cyanosis/clubbing/edema, no open
+lesions
+SKIN: no rashes
+NEURO: AOx3, 5/5 strength in all extremities,
+
+DISCHARGE PHYSICAL EXAM:
+T98.7, BP 140/84, HR 103, RR 18, 98%RA
+General: Alert, orientedx3, no acute distress
+HEENT: Pupils equal round and reactive, extraocular movements
+intact, oropharynx clear w/o lesions or petechiae, good
+dentition, mild gingival hyperplasia
+NECK: JVP flat
+CV: nl s1s2, regular rate and rhythm, no murmur/rubs/gallops
+PULM: clear to auscultation bilaterally w/good air movement, no
+crackles/wheezes
+ABD: soft, non-tender, non-distended, +Bowel sounds, no
+hepatosplenomgaly
+LYMPH: no cervical LAD
+EXT: warm, well perfused, no cyanosis/clubbing/edema, no open
+lesions
+SKIN: no rashes
+NEURO: AOx3, 5/5 strength in all extremities,
+
+Pertinent Results:
+ADMISSION LABS:
+[**2200-6-14**] 02:30AM BLOOD WBC-249.5* RBC-2.94* Hgb-8.6* Hct-25.5*
+MCV-87 MCH-29.2 MCHC-33.6 RDW-17.0* Plt Ct-52*
+[**2200-6-13**] 04:20PM BLOOD Neuts-1* Bands-0 Lymphs-1* Monos-0 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-0 Blasts-98* NRBC-2* Other-0
+[**2200-6-14**] 02:30AM BLOOD PT-14.3* PTT-27.4 INR(PT)-1.3*
+[**2200-6-13**] 04:20PM BLOOD UreaN-14 Creat-0.8 Na-138 K-3.4 Cl-98
+HCO3-27 AnGap-16
+[**2200-6-13**] 04:20PM BLOOD ALT-31 AST-28 LD(LDH)-472* AlkPhos-103
+TotBili-0.5
+[**2200-6-13**] 04:20PM BLOOD Calcium-9.2 Phos-2.9 Mg-2.0 UricAcd-4.6
+
+Blood smear [**6-13**]:
+Numerous large monomorphic cells with very high N:C ratio,
+minimal cytoplasm, multiple nucleoli, rare granules and no clear
+auer rods.  Rare platelets, normal appearing RBC with occasional
+nucleated RBC.
+
+FLOW CYTOMETRY IMMUNOPHENOTYPING [**2200-6-14**]
+INTERPRETATION
+Acute Myelogeneous Leukemia. Peripheral blood morphological
+review shows high white counts, blasts with high N:C ratio,
+irregular nuclear contours, very sparse granules. No Auer rods
+seen. Given the absence of HLA-DR [**Last Name (STitle) **] CD34, while the morphology
+does not support it, the flow profile does not rule out acute
+promyelocytic leukemia. Correlation with cytogenetics and FISH
+is recommended.
+
+Cytogenetics Report [**2200-6-15**]
+Culture of this specimen yielded no metaphase cells;
+therefore, chromosome analysis could not be performed
+
+FISH analysis with probes to the PML and RARA loci was
+interpreted as NORMAL.
+
+Imaging
+
+Echo (pre-chemo) [**2200-6-15**]:
+IMPRESSION: Normal left ventricular cavity size and
+global/regional systolic function.
+
+MR HEAD W/O CONTRAST [**2200-6-19**]
+IMPRESSION:
+ Evidence of ischemia in the right centrum semiovale following
+the distribution
+of the superior division of the sylvian MCA.
+
+BILAT LOWER EXT VEINS [**2200-6-19**]
+IMPRESSION:  No deep venous thrombosis in the right or left
+lower extremity
+
+TTE (Congenital, focused views) [**2200-6-20**]
+This focused study demonstrates a patent foramen ovale with
+small amount of right-to-left interatrial flow at rest.
+
+CT CHEST W/CONTRAST CT ABD & PELVIS WITH CONTRAST [**2200-6-24**]
+IMPRESSION:
+1.  Findings most consistent with typhlitis/neutropenic colitis,
+given
+patient's history.
+2.  7 x 12 mm left lower lobe pulmonary nodule; given
+substantial size,
+follow-up CT is recommended within three months to show
+resolution.  A small
+nearby nodule can also be reassessed at that time.  Infectious
+etiologies
+could be considered or the nodule may incidental, though
+substantial in size;
+it would be an unlikely presentation of leukemia.  Right middle
+lobe
+tree-in-[**Male First Name (un) 239**] process may represent early infection/inflammation.
+3.  Small hypodensities bilateral renal cortices, too small to
+characterize
+fully.
+
+CT CHEST W/CONTRAST CT ABD & PELVIS WITH CONTRAST [**2200-7-1**]
+IMPRESSION:
+1.  Persistent cecitis and ascending colitis with persistent and
+perhaps
+slightly increased wall thickening and also greater inflammatory
+fat
+stranding.  The appearance suggests neutropenic colitis given
+the patient's
+history.
+
+2.  Left lower lobe pulmonary nodule, increased in the short
+one-week interval since the prior study, worrisome for an
+ongoing infectious etiology.
+
+DISCHARGE LABS:
+
+[**2200-7-16**] 12:00AM BLOOD WBC-30.4* RBC-2.84* Hgb-8.6* Hct-25.6*
+MCV-90 MCH-30.3 MCHC-33.5 RDW-16.0* Plt Ct-782*
+[**2200-7-16**] 12:00AM BLOOD Neuts-33* Bands-2 Lymphs-12* Monos-44*
+Eos-0 Baso-0 Atyps-4* Metas-4* Myelos-1*
+[**2200-7-16**] 12:00AM BLOOD PT-16.7* PTT-32.6 INR(PT)-1.6*
+[**2200-7-16**] 12:00AM BLOOD Glucose-159* UreaN-17 Creat-0.4 Na-136
+K-4.5 Cl-105 HCO3-23 AnGap-13
+[**2200-7-16**] 12:00AM BLOOD ALT-11 AST-14 LD(LDH)-239 AlkPhos-154*
+TotBili-0.2
+[**2200-7-16**] 12:00AM BLOOD Albumin-2.6* Calcium-7.7* Phos-3.2 Mg-1.9
+
+Brief Hospital Course:
+75 yo F presenting with 2 weeks of increasing fatigue, mild
+dyspnea, and recent low grade fever and dental abscess.  Given
+lab findings, with elevated WBC count to 257K with 98% blasts,
+found to have likely acute myelomonocytic leukemia, course of
+7+3 chemotherapy complicated by stroke, typhlitis, neutropenic
+fever, and likely fungal lung infection.
+
+# Acute leukemia: Healthy 75F with 2-3 weeks of fatigue and
+recent possible dental abscess s/p extraction [**6-5**] who presented
+with elevated WBC >200K and anemia/thrombocytopenia discovered
+at her PCP [**Name Initial (PRE) **] [**6-13**]. She was admitted to the ICU for emergent
+pheresis. In the [**Last Name (LF) 153**], [**First Name3 (LF) **] IJ central line catheter was placed
+for pheresis given her WBC of 257 and risk for leukostasis.
+After pheresis, her WBC count dropped to 127. She was also
+started on hydroxyurea, allopurinol, and emperic cefepime for
+chemo. After some discussions with the family she agreed to
+chemotherapy and was transfered to BMT service for further
+management. She underwent 7+3 cytarabine & idarubicin, course
+was complicated by ischemic CVA on [**6-18**] found to have PFO & no
+obvious source of thrombus, neutropenic colitis ([**2198-6-23**]),
+likely fungal lung infection and neutropenic fever as discussed
+below. After coming out of her nadir, patient had leukocytosis
+to 20-30k, peripheral smear and flow showed mature monocytes,
+possibly consistent with myelodysplasia or robust recovery, less
+likely recurrence of leukemia or infection. Bone marrow biopsy
+was not done for evidence of remission as patient does not wish
+to have further chemotherapy, regardless of potential result.
+-Patient will continue to follow with Dr. [**Last Name (STitle) 410**] in clinic
+
+#Sepsis/Febrile neutropenia:  Pt had low grade fevers on [**6-30**],
+and fever to 101.7 @430 [**7-1**], afebrile at the time of transfer
+[**7-2**]. Pt on broad spectrum abx coverage with [**Last Name (un) 2830**]/vanco. CT
+chest/abd found new nodule in LLL that was increasing in size
+suggesting infectious process. Sinus CT found possible
+involvement of the right maxillary sinus.  ENT was consulted and
+swab culture of the sinus was unrevealing.  Before being
+transferred to the ICU for the second time during this
+admission, she also developed hypotension with SBP in 80s after
+receving ambisome.  She responded to fluid boluses and did not
+require pressor support. At time, the hypotension was consider
+to be mult-factorial including side-effect of ambisome as well
+as underlying infection.  Cultures were negative. Pt was
+continued on broad spectrum abx coverage. A CT chest/abd ([**7-1**])
+found enlarging nodule in LLL, and sinus CT found possible
+involvement of the right maxillary sinus with oral-antral
+fistula. ID consult also followed patient during this admission.
+- Per oral maxillofacial surgery there is no evidence of a
+current dental abcess or dental infection
+- All antibiotics except voriconazole were stopped and patient
+was stable for two days prior to discharge.
+
+# Syncope:  Syncopal episode [**2200-6-23**] likely secondary to
+vasovagal or orthostatic hypotension.Pt had difficult ambulating
+and required more assistance than normal. Now ambulating better
+since starting PT.
+-PT and OT therapy to continue since pt is still functioning
+below baseline. Pt will continue to benefit from acute PT.
+
+# Ischemic CVA - pt w/ new isolated L-sided mouth droop since
+[**6-18**], neurology was consulted, MRI showed subtle area of ischemia
+in centrum stemi ovale, extending into right insula (vascular
+territory of R MCA), echo w/ bubble showed PFO, doppler of
+bilateral LEs negative.
+-Blood pressure control
+-ASA 162mg daily started prior to discharge
+
+#Rash: Patient had new erythematous non-pruritic maculopapular,
+blanching rash on the back from the nape of neck to the T8-T9
+dermatome. Concern was for leukemia cutis or fungal or drug
+rash. Dermatology was consulted and believed the rash was
+dependent erythema with early miliaria from recent fevers,
+biopsy showed likely drug hypersensitivity reaction. Rash
+resolved with removal of meropenem from regimen.
+
+# Typhlitis/Neutropenic colitis: Pt found to have significant
+bowel wall thickening and edema from cecum to hepatic flexture
+consistent with typhlitis/ neutropenic colitis on [**2200-6-24**]. Pt
+did not have abdominal pain but has reported some loose stools.
+Broad spectrum coverage with aztreonam and flagyl until [**2200-7-14**],
+was stable of antibiotic until discharge, ID followed. C. diff
+was negative.
+
+# Pulmonary nodule: [**Month (only) 116**] represent infection vs inflammation.
+- Pt on aztrenonam, flagyl, vanco, ambisome
+- concern since nodule size has increased in size over 1 week
+period
+- pt will need follow up CT in 3 months to f/u on nodule
+- pt will follow in outpatient [**Hospital **] clinic, to determine length of
+voriconazole treatment
+
+Transitional Issues:
+- pt will need follow up CT in 3 months to f/u on nodule
+- goals of care: patient does not want more chemotherapy if she
+has a recurrence
+
+Medications on Admission:
+CALCIUM CARBONATE-VITAMIN D3 [CALCIUM 600 + D(3)] -  (OTC) -
+COD LIVER OIL -  (OTC) - Dosage uncertain
+MULTIVITAMIN -  (OTC) -  by mouth once a day
+
+Discharge Medications:
+1. Voriconazole 200 mg PO Q12H
+RX *voriconazole 200 mg 1 tablet(s) by mouth every twelve (12)
+hours Disp #*60 Tablet Refills:*2
+2. Acetaminophen 650 mg PO Q6H:PRN pain
+3. Aspirin 162 mg PO DAILY
+4. calcium carbonate-vitamin D3 *NF* 1 tablet Oral Daily
+5. cod liver oil *NF* 1 tablet Oral Daily
+6. Multivitamins 1 TAB PO DAILY
+7. Metoprolol Succinate XL 50 mg PO DAILY
+RX *metoprolol succinate 50 mg 1 tablet(s) by mouth once a day
+Disp #*30 Tablet Refills:*2
+8. Acyclovir 400 mg PO Q8H
+RX *acyclovir 400 mg 1 tablet(s) by mouth every eight hours Disp
+#*90 Tablet Refills:*0
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Allcare VNA of greater [**Location (un) **]
+
+Discharge Diagnosis:
+AML
+Neutropenic Colitis
+Right MCA Stroke
+Drug Rash
+Febrile Neutropenia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Dear Ms. [**Known lastname 14664**],
+
+It was a pleasure caring for you during your recent
+hospitalization at [**Hospital1 18**].  You came to the hospital because you
+were tired, not feeling well and you were found to have a high
+white blood cell count by your primary care physician. [**Name10 (NameIs) **] were
+found to have acute myelogenous leukemia so you underwent
+induction chemotherapy with (7+3) [**Doctor First Name **] + cytarabine. You
+tolerated the chemotherapy well and your blood counts dropped as
+expected.  You also experienced a stroke which resulted in a
+left facial droop and left arm weakness.  A work-up for the
+cause of the stroke revealed that you have a patent foramen
+ovale, which is a hole between two [**Doctor Last Name 1754**] of your heart. In
+addition you also developed neutropenic colitis which means that
+the wall of your large intestines was inflammed which is a
+complication of receiving chemotherpy.  We put you on
+appropriate antibiotics to prevent an infection, rested your
+bowels, and provide you nutrition via an IV line.  In addition
+you also developed a rash which was a side effect of the
+antibioitics you were taking. Your nutritional status improved
+as did the infection in your bowels by the time you were
+discharged.
+
+The following changes were made to your medications:
+START voriconazole for your fungal infection
+START acyclovir to prevent viral infections
+START two baby aspirin a day for your stroke
+START metoprolol for your high blood pressure
+
+Please keep your appointments as scheduled below.
+
+Followup Instructions:
+Please follow up with the following appointments which have been
+scheduled for you:
+
+Department: HEMATOLOGY/BMT
+When: TUESDAY [**2200-7-22**] at 2:30 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 9574**], NP [**Telephone/Fax (1) 3237**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: HEMATOLOGY/BMT
+When: TUESDAY [**2200-7-22**] at 3:00 PM
+With: [**First Name8 (NamePattern2) 539**] [**Last Name (NamePattern1) 9816**], RN [**Telephone/Fax (1) 14665**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: BMT CHAIRS & ROOMS
+When: TUESDAY [**2200-7-22**] at 3:00 PM
+
+Department: INFECTIOUS DISEASE
+When: FRIDAY [**2200-8-1**] at 9:00 AM
+With: [**First Name11 (Name Pattern1) 3049**] [**Last Name (NamePattern4) 14666**], MD [**Telephone/Fax (1) 457**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Hospital 1422**]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+
+
+Completed by:[**2200-7-18**]

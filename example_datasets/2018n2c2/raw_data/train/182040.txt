@@ -1,0 +1,55 @@
+Name:  [**Known lastname **],[**Known firstname 3441**]                 Unit No:   [**Numeric Identifier 4542**]
+
+Admission Date:  [**2160-5-14**]              Discharge Date:   [**2160-6-2**]
+
+Date of Birth:  [**2073-9-18**]             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 4543**]
+Addendum:
+Today PH/EX at 3:30 pm she is awake , alert, oriented to place
+and person but not to time, (she is usually drowsy in the
+morning but becomes more alert in the afternoon. Currently she
+is following commands,  no sensory deficit.Cranial nerve intact.
+
+During this hospital stay her u/c came back positive for
+pseudomona, ID service was consulted they said it is
+colonization, there is no need for active treatment.
+at 3:20pm today Dermatology service examined the patient and the
+prednisone taper plan was changed as bellow:
+prednisone po 40 mg for 2w, then 30 mg for 2w, then 20 mg for 2
+w, then 10 mg for 2 weeks then stop.
+dermatology follow up plan: [**2160-7-18**] [**Hospital 8**] [**Hospital 4310**] clinic
+at 1:30 pm
+As she became very drowsy we discontinued dilantin
+Discharge medication:
+1. Donepezil 10 mg PO HS
+2. Gabapentin 300 mg PO HS Seizure
+3. LeVETiracetam [**2147**] mg PO BID
+4. Metoprolol Tartrate 12.5 mg PO BID
+hold for SBP<100, HR<55
+5. Omeprazole 20 mg PO BID gastritis prophylaxis
+6. PredniSONE 40 mg PO DAILY drug reaction Duration: 6 Weeks
+40 mg po for2 week, then 30 mg po for 2 week, then 20 mg po for
+2 week,then 10 mg for 2 week, then stop
+Tapered dose - DOWN
+7. Simvastatin 20 mg PO DAILY
+8. Vancomycin Oral Liquid 125 mg PO/NG [**Hospital1 **]
+9. Calcium 500 + D *NF* (calcium carbonate-vitamin D3) 500
+mg(1,250mg) -200 unit Oral [**Hospital1 **] osteoporosis prophylaxis
+Duration: 8 Weeks
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 **] Senior Healthcare of [**Location (un) 729**]
+
+                             [**Name6 (MD) 1706**] [**Name8 (MD) 1707**] MD [**MD Number(1) 3468**]
+
+Completed by:[**2160-6-2**]

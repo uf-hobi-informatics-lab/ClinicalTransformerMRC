@@ -1,0 +1,382 @@
+Admission Date:  [**2158-12-15**]              Discharge Date:   [**2158-12-22**]
+
+Date of Birth:  [**2097-9-24**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2009**]
+Chief Complaint:
+unresponsive
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+60 yo male, h/o 5V CABG, CHF, BIV ICD/PPM, who found by his
+wife, sitting in chair with heated blanket, looking pale and
+with difficulty speaking. He then appeared not to be breathing.
+She called EMS, CPR briefly initiated(1-2 min) No tonic-clonic
+movements, but + incontinence of urine. EMS reported a weak
+pulse, but could not get a good BP. Got small amount fluid in
+the field and then improved.
+.
+In the ED, initial vital: T 100 rectal, HR 95, BP 113/83, RR 13,
+100% NRB. He was noted to be confused with poor short term
+memory. CT head negative for acute process. Labs notable for WBC
+of 15K, no left shift, TropT 0.04, INR 1.5. Digoxin 1.8, Lactate
+1.8. ECG V-paced. Urine and serum tox screens negative, U/A
+negative. Got 2L NS, 1gm CTX and 1 gm vancomycin emperically.
+Had swelling of LLE> [**Last Name (LF) **], [**First Name3 (LF) **] CTA performed which was negative.
+Later, family reported that this is his baseline. He was seen by
+neuro who found he had inability to form new short term
+memories, consistent with b/l hippocampi injury, possibly from
+anoxic injury. It was felt that the situation was more
+consistent with a cardiac event, and he was admitted to the ICU
+for monitoring and work up. Vitals upon transfer: T 98.8, HR 83,
+BP 104/90, RR 17, 100% 2L.
+
+
+Past Medical History:
+CAD s/p CABG
+Anterior MI [**2144**]
+h/o massive UGIB in [**2154**] [**1-1**] gastritis [**1-1**] NSAIDs and
+coumadin(intubated, c/b MRSA VAP, had tracheostomy)
+CHF (EF 25% by last echo) with BiV pacer and ICD placement
+L hip arthritis
+Hyperlipidimia
+Hypothyroidism
+h/o Afib in past (not currently on coumadin)
+
+Social History:
+Married > 25 years. Has three adult children. Lives with his
+wife. Used to work in computers but on disability for health
+reasons. Denies tobacco, occasional etoh. No illicits.
+
+
+Family History:
+FH: Father died of MI at age 52
+
+
+Physical Exam:
+PE
+VS: T 98.5, BP 84/55, HR 63, RR 16, 97% 2L
+GEN: awake, conversant
+HEENT: PERRL, adentulous
+LUNGS: Bibasilar crackles, no wheezes
+HEART: RRR, nl S1S2
+ABD: +BS, soft, ND/NT
+EXT: LLE warm with erythema, dry scaly skin, and warmth. Left
+foot with open wound on plantar aspect, draining purulent
+material
+NEURO: AAOx3, strength 5/5 throughout, some difficulty with [**Doctor First Name **],
+FNF intact
+
+
+Pertinent Results:
+HEME:
+[**2158-12-15**] 07:20PM BLOOD WBC-15.2* RBC-4.35* Hgb-14.0 Hct-40.0
+MCV-92 MCH-32.1* MCHC-35.0 RDW-15.0 Plt Ct-388
+[**2158-12-16**] 04:18AM BLOOD WBC-14.5* RBC-3.81* Hgb-12.5* Hct-34.4*
+MCV-90 MCH-32.8* MCHC-36.3* RDW-15.1 Plt Ct-307
+.
+COAGS:
+[**2158-12-15**] 07:20PM BLOOD PT-17.0* PTT-25.5 INR(PT)-1.5*
+[**2158-12-16**] 04:18AM BLOOD PT-15.2* PTT-25.4 INR(PT)-1.3*
+.
+CHEM:
+[**2158-12-15**] 07:20PM BLOOD Glucose-163* UreaN-27* Creat-1.2 Na-134
+K-4.1 Cl-93* HCO3-27 AnGap-18
+[**2158-12-16**] 04:18AM BLOOD Glucose-102 UreaN-24* Creat-1.0 Na-136
+K-3.9 Cl-98 HCO3-28 AnGap-14
+[**2158-12-15**] 07:42PM BLOOD Lactate-1.8
+.
+LFTs:
+[**2158-12-16**] 04:18AM BLOOD ALT-27 AST-34 LD(LDH)-166  AlkPhos-91
+TotBili-0.2
+.
+CARDIAC:
+[**2158-12-15**] 07:20PM BLOOD cTropnT-0.04*
+[**2158-12-16**] 04:18AM BLOOD CK(CPK)-110 CK-MB-5 cTropnT-0.08*
+[**2158-12-15**] 07:20PM BLOOD Digoxin-1.8
+.
+MICRO:
+[**2158-12-20**] URINE URINE CULTURE-NO GROWTH
+[**2158-12-16**] FOOT CULTURE WOUND CULTURE-FINAL {STAPH AUREUS COAG
++, CORYNEBACTERIUM SPECIES (DIPHTHEROIDS)}
+[**2158-12-16**] BLOOD CULTURE Blood Culture, NO GROWTH
+[**2158-12-16**] URINE URINE CULTURE, NO GROWTH
+[**2158-12-15**] BLOOD CULTURE Blood Culture, NO GROWTH
+.
+STUDIES:
+[**2158-12-15**] - CT HEAD -IMPRESSION: No acute intracranial process.
+.
+[**2158-12-15**] - CTA CHEST
+IMPRESSION:
+1. No pulmonary embolism.
+2. Marked cardiomegaly, with evidence of prior myocardial
+infarction in the left ventricular apex, with likely areas of
+scarring, and aneurysm formation at the apex. Evaluation is
+limited on this non-gated study, but a dedicated cardiac CT
+could be performed if clinically indicated to further evaluate
+this region.
+3. Small bilateral pleural effusions and bibasilar atelectasis.
+4. Cholelithiasis without evidence of cholecystitis.
+5. Pulmonary artery enlargement, concerning for pulmonary
+arterial
+hypertension.
+.
+[**2158-12-16**] - ECHOCARDIOGRAM
+Conclusions
+The left atrium is markedly dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity is severely
+dilated. Overall left ventricular systolic function is severely
+depressed (LVEF= 20 %) secondary to muliple areas of severe
+hypokinesis and akinesis (see figure), with posterobasal
+dyskinesis. Tissue Doppler imaging suggests an increased left
+ventricular filling pressure (PCWP>18mmHg). Transmitral Doppler
+and tissue velocity imaging are consistent with Grade III/IV
+(severe) LV diastolic dysfunction. Right ventricular chamber
+size is normal. with depressed free wall contractility. The
+aortic root is mildly dilated at the sinus level. The aortic
+valve leaflets (3) are mildly thickened but aortic stenosis is
+not present. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. Mild (1+) mitral regurgitation is seen. [Due to
+acoustic shadowing, the severity of mitral regurgitation may be
+significantly UNDERestimated.] The left ventricular inflow
+pattern suggests a restrictive filling abnormality, with
+elevated left atrial pressure. The tricuspid valve leaflets are
+mildly thickened. Moderate to severe [3+] tricuspid
+regurgitation is seen. There is moderate pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+
+Compared with the findings of the prior report (images
+unavailable for review) of [**2155-3-17**], the tricuspid
+regurgitation is probably increased. Left ventricular
+contractile function remains profoundly depressed.
+.
+[**2158-12-16**] - Left Foot
+Three views of the left foot were brought to our review. There
+is
+irregularity and thickening of the distal portion of the fifth
+metatarsal that might represent chronic old fracture. There is
+additional irregularity and potential old healed fracture of the
+distal second metatarsal.
+There is lysis/fracture of the distal part of the proximal third
+phalanx with potentially some degree of the subcutaneous air. In
+the absence of prior studies for comparison, the chronicity of
+these findings cannot be determined.
+There is dislocation of the third metatarsophalangeal joint,
+chronicity is
+also undetermined. If clinically warranted, further evaluation
+with MR, more sensitive study for osteomyelitis.
+.
+[**2158-12-18**] - ART EXT (REST ONLY)
+IMPRESSION: No evidence of right lower extremity ischemia at
+rest. Mild left lower extremity peripheral [**Month/Day/Year 1106**] disease with
+predominant SFA/tibial location.
+.
+[**2158-12-20**] - VENOUS ULTRASOUND (MAP)
+IMPRESSION: Patent right greater saphenous and bilateral lesser
+saphenous
+veins with reasonable diameters for bypass.
+
+
+Brief Hospital Course:
+# Unresponsiveness/VTACH - 61 y.o. man with significant cardiac
+history who became acutely unresponsive at home. CPR initiated,
+had BP and pulse by the time EMS arrived. Confused in ED, CT
+scan of the head was unrevealing.  Neuro consulted in the ED and
+they felt unlikely to be primary neuro issue. No PE or
+pneumothorax on CTA.  The patient was ROMI.  The patient was
+admitted to MICU for hypotension and monitoring overnight.  The
+EP Cardiology team was consulted and they found 6 minutes of
+spontaneous VT occurring precisely at 7PM on the night of
+admission after interrogating his pacer.  His device was not
+programmed to fire for this particular arrhythmia.  His device
+was reprogrammed. The patient had no further significant
+arrhythmic events during this admission.  He was noted to have
+anterograde amnesia after his arrest which most likely related
+to transient ischemia in the brain.  The patient will require
+follow up with behavioral neurology.
+.
+# Osteomyelitis - The patient had a chronic left LE ulceration
+related to a hospitalization several years ago.  It looked
+erythematous and had purulent drainage on admission.  Podiatry
+was consulted for deep tracking foot ulcer on left plantar
+surface. Podiatry ecommended broad spectrum antibiotics.  A foot
+xray was consistent with osteomyelitis.  Non-invasive arterial
+studies were obtained to evaluate the blood flow to his LE prior
+to an debridement.  The patient had poor arterial blood flow in
+his left LE and [**Month/Day/Year 1106**] surgery was consulted and they
+recommended
+angiography and possible revascularization procedure in the next
+week.  He was discharged on Linezolid and Ciprofloxacin.  He has
+close follow up arranged with his PCP, [**Name10 (NameIs) 1106**] surgery and
+podiatry.
+.
+# CHF, systolic.  His last EF 25%. He appeared clinically
+euvolemic.  His digoxin and sotalol were continued.  His
+diuretics (lasix and spironolactone) were restarted at lower
+doses given the patient's renal function. Echocardiogram was
+preformed during this admission.
+.
+# Renal Function - The patient's creatinine began to rise during
+this admission most which was felt to be secondary to vancomycin
+toxicity.  The patients diuretics were held.  He was not
+pre-renal by labs or volume-depleted on exam.  There was not
+evidence of AIN, ATN or renal obstruction.  His creatinine
+improved after the vancomycin was discontinued.
+.
+# The patient's stable medical issues include: Hypothyroidism,
+Hyperlipidemi, Anxiety, Insomnia,
+.
+# CODE: FULL
+
+Medications on Admission:
+Spironolactone 25mg po BID
+Sotalol 120mg PO BID
+Bupropion 100mg [**Hospital1 **]
+Levothyroxine 25mcg daily
+Clonazepam 0.5mg [**Hospital1 **]
+Simvastatin 40mg Daily
+Digoxin 125 QAM, 250 QPM
+Midodrine 5mg TID
+Zolpidem 10mg QHS
+Furosemide 80mg Daily
+Lorazepam 3-4mg QHS
+
+
+Discharge Medications:
+1. Digoxin 250 mcg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+2. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Sotalol 80 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day).
+
+4. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Midodrine 5 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+6. Zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+
+7. Lorazepam 1 mg Tablet Sig: Four (4) Tablet PO HS (at bedtime)
+as needed for insomnia.
+8. Bupropion 100 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+9. Furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+10. Spironolactone 25 mg Tablet Sig: 0.5 Tablet PO DAILY
+(Daily).
+Disp:*15 Tablet(s)* Refills:*2*
+11. Linezolid 600 mg Tablet Sig: One (1) Tablet PO twice a day
+for 14 days.
+Disp:*28 Tablet(s)* Refills:*0*
+12. Cipro 500 mg Tablet Sig: One (1) Tablet PO twice a day for
+14 days.
+Disp:*28 Tablet(s)* Refills:*0*
+13. Outpatient Lab Work
+Please check a CBC, BMP (Lytes, BUN/Cr, Glucose) and Digoxin
+level checked on Monday [**2158-12-25**].  Please have the lab results
+sent to both Dr. [**Last Name (STitle) 31925**], phone ([**Telephone/Fax (1) 2037**] and to Dr. [**First Name (STitle) **]
+[**Name (STitle) 5404**] ([**Telephone/Fax (1) 30799**].
+14. Outpatient Lab Work
+Please have a CBC checked on Monday [**2159-1-1**]. Please have the
+results sent to Dr. [**First Name (STitle) **] [**Name (STitle) 5404**] [**Telephone/Fax (1) **].
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+Syncope from Ventricular Tachycardia
+Osteomyelitis
+Anterograde Amnesia
+
+Secondary Diagnosis:
+Coronary Artery Disease
+Chronic Systolic Heart Failure
+Hypothyroidism
+Hyperlipidemia
+Depression
+Insomnia
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You were admitted after an episode of syncope (loss of
+consciousness).  The cause of your syncope was an arrhythmia
+called Ventricular Tachycardia.  Your pacemaker was reprogrammed
+so that it would fire for this particular heart rhythm.  You did
+not have any more repeat episodes of syncope.  You were found to
+have difficulties with short term memory after this incident and
+will need follow up with Behavioral Neurology.
+.
+You were found to have an infection in the skin and bone of your
+left foot.  You will need to take antibiotics for at least the
+next 2 weeks.  You will need to follow up with [**Hospital 1106**] surgery
+to revasularize your leg prior to having more a surgery to
+remove the infected tissue in your foot.  The antibiotic you are
+taking for your foot infection, linezolid, can cause your white
+blood cell count to be low.  You will need weekly blood draws
+while you are on it to check your cell count.
+.
+You had some worsening renal function likely secondary to
+vancomycin an antibiotic you were taking for your infection.
+You will need to have your blood drawn on Monday [**12-25**] to have
+your renal function checked.
+.
+We made the following changes to your medication regimen
+We decreased the dose of your digxoin, lasix and spironolactone.
+ You will be given new prescriptions for those medications.   If
+you become more short of breath or notice increased weight or
+lower extremity swelling, please call your cardiologist.
+We added Ciprofloxacin and Linezolid, 2 antibiotics for your
+foot infection, you should take twice daily.
+.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: none
+
+Followup Instructions:
+You have an appointment with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1391**], the [**Last Name (NamePattern1) **]
+Surgeon to be seen next Wednesday [**2158-12-27**] at 9:15am.  He will
+likely arrange angiography within the following week.
+
+We recommend that you contact your Podiatrist, Dr. [**First Name4 (NamePattern1) 122**]
+[**Last Name (NamePattern1) 31926**], and make a follow up appointment in the next [**12-1**]
+weeks.  His telephone number is ([**Telephone/Fax (1) 31927**].
+
+Please make an appointment with your PCP, [**Last Name (NamePattern4) **]. [**First Name (STitle) **] [**Name (STitle) 5404**], for
+follow up in the next [**12-1**] week.  His telephone number is ([**Telephone/Fax (1) 31928**].  He will need to follow up on your infection in your
+foot.
+
+You have the following appointment with your Cardiologist:
+Provider:  [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 59**] Date/Time:[**2159-1-1**]
+2:30pm
+Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 62**]
+Date/Time:[**2159-1-1**] 2:40pm
+
+We have arranged the following appointment for you with with Dr.
+[**First Name (STitle) **] in Behavioral Neurology to follow up on your memory
+difficulities.
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6403**], MD
+Phone: [**Telephone/Fax (1) 1690**]
+Date/Time: [**2159-1-22**] 10:30
+.
+We recommend that you follow up with your Psychiatrist regarding
+your depression.
+
+
+
+Completed by:[**2159-2-7**]

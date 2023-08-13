@@ -1,0 +1,173 @@
+T1	Drug 19078 19085	Aspirin
+T2	Strength 19086 19092	325 mg
+T3	Route 19093 19095	PO
+T4	Drug 19465 19478;19479 19482	Ciprofloxacin HCl
+T5	Strength 19483 19489	500 mg
+T6	Frequency 19493 19497	Q12H
+T7	Route 19490 19492	PO
+T8	Drug 17932 17938	ativan
+T9	Drug 19345 19355;19355 19374	butalbital -acetaminophen-caff
+T10	Drug 19612 19622;19623 19631	Metoprolol Tartrate
+T11	Strength 19632 19639	12.5 mg
+T12	Frequency 19643 19646	BID
+T13	Route 19640 19642	PO
+T14	Drug 18974 18984	Omeprazole
+T15	Strength 18985 18990	40 mg
+T16	Drug 17824 17830	Ativan
+T17	Drug 19105 19116	DiCYCLOmine
+T18	Strength 19117 19122	10 mg
+T19	Frequency 19126 19129	QID
+T20	Route 19123 19125	PO
+T21	Drug 20771 20778	Aspirin
+T22	Drug 164 170	Ativan
+T23	Strength 19375 19380;19380 19393	50 mg -325 mg-40 mg
+T24	Drug 19247 19257	Omeprazole
+T25	Strength 19258 19263	40 mg
+T26	Route 19264 19266	PO
+T27	Drug 19276 19295;19295 19305	Acetaminophen-Caff- Butalbital
+T28	Form 19317 19320	TAB
+T29	Frequency 19324 19327;19327 19331	Q6H :PRN
+T30	Route 19321 19323	PO
+T31	Drug 19519 19532;19533 19540	ciprofloxacin [Cipro]
+T32	Strength 19541 19547	500 mg
+T33	Form 19550 19556;19556 19559	tablet (s)
+T34	Dosage 19548 19549	1
+T35	Route 19560 19568	by mouth
+T36	Drug 19158 19165;19166 19168	Aspirin EC
+T37	Strength 19169 19175	325 mg
+T38	Route 19176 19178	PO
+T39	Drug 19679 19689;19690 19698	metoprolol tartrate
+T40	Strength 19699 19704	25 mg
+T41	Form 19720 19726;19726 19729	tablet (s)
+T42	Route 19730 19738	by mouth
+T43	Drug 20447 20453	ATIVAN
+T44	Drug 20710 20717	Aspirin
+T45	Strength 20718 20723	325mg
+T46	Frequency 20741 20745;20746 20751	once daily
+T47	Drug 19047 19059	Atorvastatin
+T48	Strength 19060 19065	20 mg
+T49	Route 19066 19068	PO
+T50	Drug 19219 19230	DiCYCLOmine
+T51	Strength 19231 19236	10 mg
+T52	Frequency 19240 19243	QID
+T53	Route 19237 19239	PO
+T54	Drug 19188 19200	Atorvastatin
+T55	Strength 19201 19206	20 mg
+T56	Route 19207 19209	PO
+T57	Drug 20949 20956	Tylenol
+T58	Drug 718 721	PPI
+T59	Drug 726 737	GI cocktail
+T60	ADE 17851 17860	delerious
+T61	Drug 17950 17955	Hadol
+T62	Reason 17964 17973	agitation
+T63	Route 18991 18993	PO
+T64	Frequency 18994 18999	DAILY
+T65	Drug 19003 19011	Donnatol
+T66	Dosage 19012 19017	10 mL
+T67	Route 19018 19020	PO
+T68	Frequency 19021 19028	BID:PRN
+T69	Reason 19029 19043	abdominal pain
+T70	Frequency 19096 19101	DAILY
+T71	Frequency 19069 19074	DAILY
+T72	Frequency 19179 19184	DAILY
+T73	Frequency 19210 19215	DAILY
+T74	Frequency 19267 19272	DAILY
+T75	Reason 19332 19340	headache
+T76	Form 19405 19414	tablet(s)
+T77	Route 19415 19423	by mouth
+T78	Frequency 19424 19433	q 4 hours
+T79	Duration 19508 19514	7 Days
+T80	Frequency 19569 19576;19577 19580	twice a day
+T81	Dosage 19705 19719	0.5 (One half)
+T82	Frequency 19739 19750	twice a day
+T83	Drug 19782 19790	Donnatol
+T84	Dosage 19791 19796	10 mL
+T85	Route 19797 19799	PO
+T86	Frequency 19800 19807	BID:PRN
+T87	Reason 19808 19822	abdominal pain
+T88	ADE 20476 20489	very confused
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Route-Drug Arg1:T3 Arg2:T1
+R3	Strength-Drug Arg1:T5 Arg2:T4
+R4	Frequency-Drug Arg1:T6 Arg2:T4
+R5	Route-Drug Arg1:T7 Arg2:T4
+R6	Strength-Drug Arg1:T11 Arg2:T10
+R7	Frequency-Drug Arg1:T12 Arg2:T10
+R8	Route-Drug Arg1:T13 Arg2:T10
+R9	Strength-Drug Arg1:T15 Arg2:T14
+R10	Strength-Drug Arg1:T18 Arg2:T17
+R11	Frequency-Drug Arg1:T19 Arg2:T17
+R12	Route-Drug Arg1:T20 Arg2:T17
+R13	Strength-Drug Arg1:T23 Arg2:T9
+R14	Strength-Drug Arg1:T25 Arg2:T24
+R15	Route-Drug Arg1:T26 Arg2:T24
+R16	Form-Drug Arg1:T28 Arg2:T27
+R17	Frequency-Drug Arg1:T29 Arg2:T27
+R18	Route-Drug Arg1:T30 Arg2:T27
+R19	Strength-Drug Arg1:T32 Arg2:T31
+R20	Form-Drug Arg1:T33 Arg2:T31
+R21	Dosage-Drug Arg1:T34 Arg2:T31
+R22	Route-Drug Arg1:T35 Arg2:T31
+R23	Strength-Drug Arg1:T37 Arg2:T36
+R24	Route-Drug Arg1:T38 Arg2:T36
+R25	Strength-Drug Arg1:T40 Arg2:T39
+R26	Form-Drug Arg1:T41 Arg2:T39
+R27	Route-Drug Arg1:T42 Arg2:T39
+R28	Strength-Drug Arg1:T45 Arg2:T44
+R29	Frequency-Drug Arg1:T46 Arg2:T44
+R30	Strength-Drug Arg1:T48 Arg2:T47
+R31	Route-Drug Arg1:T49 Arg2:T47
+R32	Strength-Drug Arg1:T51 Arg2:T50
+R33	Frequency-Drug Arg1:T52 Arg2:T50
+R34	Route-Drug Arg1:T53 Arg2:T50
+R35	Strength-Drug Arg1:T55 Arg2:T54
+R36	Route-Drug Arg1:T56 Arg2:T54
+R37	ADE-Drug Arg1:T60 Arg2:T16
+R38	Reason-Drug Arg1:T62 Arg2:T61
+R39	Frequency-Drug Arg1:T70 Arg2:T1
+R40	Frequency-Drug Arg1:T71 Arg2:T47
+R41	Reason-Drug Arg1:T69 Arg2:T65
+R42	Frequency-Drug Arg1:T68 Arg2:T65
+R43	Route-Drug Arg1:T67 Arg2:T65
+R44	Dosage-Drug Arg1:T66 Arg2:T65
+R45	Frequency-Drug Arg1:T64 Arg2:T14
+R46	Route-Drug Arg1:T63 Arg2:T14
+R47	Frequency-Drug Arg1:T74 Arg2:T24
+R48	Frequency-Drug Arg1:T73 Arg2:T54
+R49	Frequency-Drug Arg1:T72 Arg2:T36
+R50	Reason-Drug Arg1:T75 Arg2:T27
+R51	Frequency-Drug Arg1:T78 Arg2:T9
+R52	Route-Drug Arg1:T77 Arg2:T9
+R53	Form-Drug Arg1:T76 Arg2:T9
+R54	Duration-Drug Arg1:T79 Arg2:T4
+R55	Frequency-Drug Arg1:T80 Arg2:T31
+R56	Frequency-Drug Arg1:T82 Arg2:T39
+R57	Dosage-Drug Arg1:T81 Arg2:T39
+R58	Reason-Drug Arg1:T87 Arg2:T83
+R59	Frequency-Drug Arg1:T86 Arg2:T83
+R60	Route-Drug Arg1:T85 Arg2:T83
+R61	Dosage-Drug Arg1:T84 Arg2:T83
+R62	ADE-Drug Arg1:T88 Arg2:T43
+T89	Drug 4107 4115	CONTRAST
+T90	Drug 4153 4161	contrast
+T91	Drug 5223 5231	contrast
+T92	Drug 12794 12802	contrast
+T94	ADE 17894 17908	acute delerium
+T96	Drug 20971 20987	pain medications
+T97	Drug 21746 21761	pain medication
+T98	Drug 21718 21723;21724 21732	stool softener
+T99	Reason 21665 21686	To avoid constipation
+T101	Reason 466 480	abdominal pain
+T102	Reason 485 496	odynophagia
+T103	Reason 17785 17793	agitated
+T104	Reason 20996 21015	post procedure pain
+R64	Reason-Drug Arg1:T99 Arg2:T98
+R65	Reason-Drug Arg1:T104 Arg2:T96
+R66	Reason-Drug Arg1:T101 Arg2:T58	
+R67	Reason-Drug Arg1:T101 Arg2:T59	
+R68	Reason-Drug Arg1:T102 Arg2:T58	
+R69	Reason-Drug Arg1:T102 Arg2:T59	
+R70	Reason-Drug Arg1:T103 Arg2:T16	
+R71	ADE-Drug Arg1:T94 Arg2:T8	
+T93	Route 12791 12793	IV
+R63	Route-Drug Arg1:T93 Arg2:T92	

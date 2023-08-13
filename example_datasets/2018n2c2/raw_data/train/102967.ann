@@ -1,0 +1,244 @@
+T1	Drug 1045 1060	Docusate Sodium
+T2	Strength 1061 1073	150 mg/15 mL
+R1	Strength-Drug Arg1:T2 Arg2:T1
+T3	Form 1074 1080	Liquid
+R2	Form-Drug Arg1:T3 Arg2:T1
+T4	Dosage 1086 1093	One (1)
+R3	Dosage-Drug Arg1:T4 Arg2:T1
+T5	Route 1095 1097	PO
+R4	Route-Drug Arg1:T5 Arg2:T1
+T6	Frequency 1098 1101	BID
+R5	Frequency-Drug Arg1:T6 Arg2:T1
+T7	Drug 1122 1134	Pantoprazole
+T8	Strength 1135 1140	40 mg
+R6	Strength-Drug Arg1:T8 Arg2:T7
+T9	Form 1141 1164;1165 1171	Tablet, Delayed Release (E.C.)
+R7	Form-Drug Arg1:T9 Arg2:T7
+T10	Dosage 1177 1180;1181 1184	One (1)
+T11	Form 1185 1208;1209 1215	Tablet, Delayed Release (E.C.)
+R8	Form-Drug Arg1:T11 Arg2:T7
+T12	Route 1216 1218	PO
+R9	Route-Drug Arg1:T12 Arg2:T7
+T13	Frequency 1219 1223;1224 1240	Q24H (every 24 hours)
+R10	Frequency-Drug Arg1:T13 Arg2:T7
+T14	Drug 1245 1252	Aspirin
+T15	Strength 1253 1258	81 mg
+R11	Strength-Drug Arg1:T15 Arg2:T14
+T16	Form 1259 1282;1283 1289	Tablet, Delayed Release (E.C.)
+R12	Form-Drug Arg1:T16 Arg2:T14
+T17	Frequency 1295 1302	One (1)
+R13	Frequency-Drug Arg1:T17 Arg2:T14
+T18	Form 1303 1326;1327 1333	Tablet, Delayed Release (E.C.)
+R14	Form-Drug Arg1:T18 Arg2:T14
+T19	Route 1334 1336	PO
+R15	Route-Drug Arg1:T19 Arg2:T14
+T20	Frequency 1337 1342;1343 1350	DAILY (Daily)
+R16	Frequency-Drug Arg1:T20 Arg2:T14
+T21	Drug 1355 1367	Atorvastatin
+T22	Strength 1368 1373	10 mg
+R17	Strength-Drug Arg1:T22 Arg2:T21
+T23	Form 1374 1380	Tablet
+R18	Form-Drug Arg1:T23 Arg2:T21
+T24	Dosage 1386 1393	One (1)
+R19	Dosage-Drug Arg1:T24 Arg2:T21
+T25	Form 1394 1400	Tablet
+R20	Form-Drug Arg1:T25 Arg2:T21
+T26	Route 1401 1403	PO
+R21	Route-Drug Arg1:T26 Arg2:T21
+T27	Frequency 1404 1409	DAILY
+R22	Frequency-Drug Arg1:T27 Arg2:T21
+T28	Drug 1422 1433	Fluticasone
+T29	Strength 1434 1451	110 mcg/Actuation
+R23	Strength-Drug Arg1:T29 Arg2:T28
+T30	Form 1452 1459	Aerosol
+R24	Form-Drug Arg1:T30 Arg2:T28
+T31	Dosage 1465 1472	Two (2)
+R25	Dosage-Drug Arg1:T31 Arg2:T28
+T32	Form 1473 1477	Puff
+R26	Form-Drug Arg1:T32 Arg2:T28
+T33	Route 1478 1488	Inhalation
+R27	Route-Drug Arg1:T33 Arg2:T28
+T34	Frequency 1507 1520	2 times a day
+R28	Frequency-Drug Arg1:T34 Arg2:T28
+T35	Drug 1526 1556	B Complex-Vitamin C-Folic Acid
+T36	Strength 1557 1561	1 mg
+R29	Strength-Drug Arg1:T36 Arg2:T35
+T37	Form 1562 1569	Capsule
+R30	Form-Drug Arg1:T37 Arg2:T35
+T38	Dosage 1575 1582	One (1)
+R31	Dosage-Drug Arg1:T38 Arg2:T35
+T39	Form 1583 1586	Cap
+R32	Form-Drug Arg1:T39 Arg2:T35
+T40	Route 1587 1589	PO
+R33	Route-Drug Arg1:T40 Arg2:T35
+T41	Frequency 1590 1595;1596 1603	DAILY (Daily)
+R34	Frequency-Drug Arg1:T41 Arg2:T35
+T42	Drug 1608 1629	Albuterol-Ipratropium
+T43	Strength 1630 1650	103-18 mcg/Actuation
+R35	Strength-Drug Arg1:T43 Arg2:T42
+T44	Form 1651 1658	Aerosol
+R36	Form-Drug Arg1:T44 Arg2:T42
+T45	Form 1676 1681	Puffs
+R37	Form-Drug Arg1:T45 Arg2:T42
+T46	Route 1682 1692	Inhalation
+R38	Route-Drug Arg1:T46 Arg2:T42
+T47	Frequency 1693 1722	Q6H (every 6 hours) as needed
+R39	Frequency-Drug Arg1:T47 Arg2:T42
+T48	Drug 1727 1737	Folic Acid
+T49	Strength 1738 1742	1 mg
+R40	Strength-Drug Arg1:T49 Arg2:T48
+T50	Form 1743 1749	Tablet
+R41	Form-Drug Arg1:T50 Arg2:T48
+T51	Dosage 1755 1762	One (1)
+R42	Dosage-Drug Arg1:T51 Arg2:T48
+T52	Form 1763 1769	Tablet
+R43	Form-Drug Arg1:T52 Arg2:T48
+T53	Route 1770 1772	PO
+R44	Route-Drug Arg1:T53 Arg2:T48
+T54	Frequency 1773 1778;1779 1786	DAILY (Daily)
+R45	Frequency-Drug Arg1:T54 Arg2:T48
+T55	Drug 1792 1807	Calcium Acetate
+T56	Strength 1808 1814	667 mg
+R46	Strength-Drug Arg1:T56 Arg2:T55
+T57	Form 1815 1822	Capsule
+R47	Form-Drug Arg1:T57 Arg2:T55
+T58	Dosage 1828 1835	One (1)
+R48	Dosage-Drug Arg1:T58 Arg2:T55
+T59	Form 1836 1843	Capsule
+R49	Form-Drug Arg1:T59 Arg2:T55
+T60	Route 1844 1846	PO
+R50	Route-Drug Arg1:T60 Arg2:T55
+T61	Frequency 1847 1850;1851 1885	TID W/MEALS (3 TIMES A DAY WITH MEALS)
+R51	Frequency-Drug Arg1:T61 Arg2:T55
+T62	Drug 1891 1919	Propoxyphene N-Acetaminophen
+T63	Strength 1920 1930	100-650 mg
+R52	Strength-Drug Arg1:T63 Arg2:T62
+T64	Form 1931 1937	Tablet
+R53	Form-Drug Arg1:T64 Arg2:T62
+T65	Dosage 1943 1950	One (1)
+R54	Dosage-Drug Arg1:T65 Arg2:T62
+T66	Form 1951 1957	Tablet
+R55	Form-Drug Arg1:T66 Arg2:T62
+T67	Route 1958 1960	PO
+R56	Route-Drug Arg1:T67 Arg2:T62
+T68	Frequency 1961 1990	Q6H (every 6 hours) as needed
+R57	Frequency-Drug Arg1:T68 Arg2:T62
+T69	Drug 1996 2015	Magnesium Hydroxide
+T70	Strength 2016 2027	400 mg/5 mL
+R58	Strength-Drug Arg1:T70 Arg2:T69
+T71	Form 2028 2038	Suspension
+R59	Form-Drug Arg1:T71 Arg2:T69
+T72	Dosage 2044 2055;2056 2058	Thirty (30) ML
+R60	Dosage-Drug Arg1:T72 Arg2:T69
+T73	Route 2059 2061	PO
+R61	Route-Drug Arg1:T73 Arg2:T69
+T74	Frequency 2062 2087	HS (at bedtime) as needed
+R62	Frequency-Drug Arg1:T74 Arg2:T69
+T75	Reason 2092 2104	constipation
+R63	Reason-Drug Arg1:T75 Arg2:T69
+T76	Drug 2110 2132	Insulin Lispro (Human)
+T77	Strength 2133 2144	100 unit/mL
+R64	Strength-Drug Arg1:T77 Arg2:T76
+T78	Form 2145 2153	Solution
+R65	Form-Drug Arg1:T78 Arg2:T76
+T79	Dosage 2159 2166	One (1)
+R66	Dosage-Drug Arg1:T79 Arg2:T76
+T80	Route 2167 2176	injection
+R67	Route-Drug Arg1:T80 Arg2:T76
+T81	Route 2177 2189	Subcutaneous
+R68	Route-Drug Arg1:T81 Arg2:T76
+T82	Frequency 2190 2195	ASDIR
+R69	Frequency-Drug Arg1:T82 Arg2:T76
+T83	Dosage 2215 2228	sliding scale
+R70	Dosage-Drug Arg1:T83 Arg2:T76
+T84	Drug 2247 2260	Acetaminophen
+T85	Strength 2261 2267	325 mg
+R71	Strength-Drug Arg1:T85 Arg2:T84
+T86	Form 2268 2274	Tablet
+R72	Form-Drug Arg1:T86 Arg2:T84
+T87	Dosage 2280 2287	Two (2)
+T88	Form 2288 2294	Tablet
+R73	Form-Drug Arg1:T88 Arg2:T84
+T89	Route 2295 2297	PO
+R74	Route-Drug Arg1:T89 Arg2:T84
+T90	Frequency 2298 2301;2302 2327	Q4H (every 4 hours) as needed
+R75	Frequency-Drug Arg1:T90 Arg2:T84
+T91	Drug 2333 2342	Bisacodyl
+T92	Strength 2343 2348	10 mg
+R76	Strength-Drug Arg1:T92 Arg2:T91
+T93	Form 2349 2360	Suppository
+R77	Form-Drug Arg1:T93 Arg2:T91
+T94	Dosage 2366 2373	One (1)
+R78	Dosage-Drug Arg1:T94 Arg2:T91
+T95	Form 2374 2385	Suppository
+R79	Form-Drug Arg1:T95 Arg2:T91
+T96	Route 2386 2392	Rectal
+R80	Route-Drug Arg1:T96 Arg2:T91
+T97	Frequency 2393 2416	DAILY (Daily) as needed
+R81	Frequency-Drug Arg1:T97 Arg2:T91
+T98	Reason 2421 2433	constipation
+R82	Reason-Drug Arg1:T98 Arg2:T91
+T99	Drug 2439 2456	Albuterol Sulfate
+T100	Strength 2457 2462	0.083 
+R83	Strength-Drug Arg1:T100 Arg2:T99
+T101	Form 2465 2473	Solution
+R84	Form-Drug Arg1:T101 Arg2:T99
+T102	Dosage 2479 2486	One (1)
+R85	Dosage-Drug Arg1:T102 Arg2:T99
+T103	Route 2488 2498	Inhalation
+R86	Route-Drug Arg1:T103 Arg2:T99
+T104	Frequency 2499 2528	Q6H (every 6 hours) as needed
+R87	Frequency-Drug Arg1:T104 Arg2:T99
+T105	Drug 2534 2553	Diphenhydramine HCl
+T106	Strength 2554 2559	25 mg
+R88	Strength-Drug Arg1:T106 Arg2:T105
+T107	Form 2560 2567	Capsule
+R89	Form-Drug Arg1:T107 Arg2:T105
+T108	Dosage 2573 2576	0.5
+R90	Dosage-Drug Arg1:T108 Arg2:T105
+T109	Form 2577 2584	Capsule
+R91	Form-Drug Arg1:T109 Arg2:T105
+T110	Route 2585 2587	PO
+R92	Route-Drug Arg1:T110 Arg2:T105
+T111	Frequency 2588 2591;2592 2617	Q6H (every 6 hours) as needed
+T112	Reason 2622 2629	itching
+R93	Reason-Drug Arg1:T112 Arg2:T105
+T113	Drug 2635 2650	Camphor-Menthol
+T114	Strength 2651 2658	0.5-0.5 
+R94	Strength-Drug Arg1:T114 Arg2:T113
+T115	Form 2661 2667	Lotion
+R95	Form-Drug Arg1:T115 Arg2:T113
+T116	Dosage 2673 2680	One (1)
+R96	Dosage-Drug Arg1:T116 Arg2:T113
+T117	Form 2681 2685	Appl
+R97	Form-Drug Arg1:T117 Arg2:T113
+T118	Route 2686 2693	Topical
+R98	Route-Drug Arg1:T118 Arg2:T113
+T119	Frequency 2694 2723	TID (3 times a day) as needed
+R99	Frequency-Drug Arg1:T119 Arg2:T113
+T120	Drug 2729 2744	Sodium Chloride
+T121	Strength 2745 2748	0.9
+R100	Strength-Drug Arg1:T121 Arg2:T120
+T122	Form 2751 2756	Flush
+R101	Form-Drug Arg1:T122 Arg2:T120
+T123	Dosage 2757 2761	3 ml
+R102	Dosage-Drug Arg1:T123 Arg2:T120
+T125	Frequency 2765 2774	DAILY:PRN
+R104	Frequency-Drug Arg1:T125 Arg2:T120
+T126	Drug 2820 2839	Metoprolol Tartrate
+T127	Strength 2840 2845	25 mg
+R105	Strength-Drug Arg1:T127 Arg2:T126
+T128	Form 2846 2852	Tablet
+R106	Form-Drug Arg1:T128 Arg2:T126
+T129	Dosage 2858 2867	Three (3)
+R107	Dosage-Drug Arg1:T129 Arg2:T126
+T130	Form 2868 2874	Tablet
+R108	Form-Drug Arg1:T130 Arg2:T126
+T131	Route 2875 2877	PO
+R109	Route-Drug Arg1:T131 Arg2:T126
+T132	Frequency 2878 2881;2882 2897	BID (2 times a day)
+R110	Frequency-Drug Arg1:T132 Arg2:T126
+T124	Route 2762 2764	IV
+R103	Route-Drug Arg1:T124 Arg2:T120	
+T133	Route 2786 2788	IV
+R111	Route-Drug Arg1:T133 Arg2:T120	

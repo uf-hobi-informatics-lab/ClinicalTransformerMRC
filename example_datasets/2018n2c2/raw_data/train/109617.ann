@@ -1,0 +1,350 @@
+T1	Reason 12364 12378	MSSA infection
+R1	Reason-Drug Arg1:T1 Arg2:T2
+R2	Reason-Drug Arg1:T1 Arg2:T3
+T2	Drug 12531 12541	Vancomycin
+T3	Drug 12572 12581	Nafcillin
+T4	Reason 12722 12732	bacteremia
+R3	Reason-Drug Arg1:T4 Arg2:T7
+T5	Reason 12734 12746	skin lesions
+R4	Reason-Drug Arg1:T5 Arg2:T7
+T6	Reason 12751 12754	UTI
+R5	Reason-Drug Arg1:T6 Arg2:T7
+T7	Drug 12781 12791	antibiotic
+T8	Drug 13457 13467	Gentamycin
+T9	Drug 13491 13500	Nafcillin
+T10	Duration 13513 13524	for a 5-day
+R6	Duration-Drug Arg1:T10 Arg2:T8
+R7	Duration-Drug Arg1:T10 Arg2:T9
+T11	Drug 13588 13597	nafcillin
+T12	Duration 13598 13601;13602 13618	for at least 8 weeks
+R8	Duration-Drug Arg1:T12 Arg2:T11
+T13	Drug 13686 13695	nafcillin
+T14	Reason 14189 14216	Hospital Acquired Pneumonia
+R9	Reason-Drug Arg1:T14 Arg2:T16
+R10	Reason-Drug Arg1:T14 Arg2:T15
+T15	Drug 14239 14249	vancomycin
+T16	Drug 14254 14262	cefepime
+T17	Drug 14306 14315	nafcillin
+T18	Reason 14538 14547	infection
+R11	Reason-Drug Arg1:T18 Arg2:T19
+T19	Drug 14582 14593	antibiotics
+T20	Reason 15290 15298	GI Bleed
+R12	Reason-Drug Arg1:T20 Arg2:T22
+R13	Reason-Drug Arg1:T20 Arg2:T24
+T22	Drug 15391 15394	PPI
+T23	Dosage 15426 15428	1U
+R15	Dosage-Drug Arg1:T23 Arg2:T24
+T24	Drug 15432 15437	prbcs
+T25	ADE 15473 15508	ulcerations in stomach and duodenum
+R16	ADE-Drug Arg1:T25 Arg2:T26
+R17	ADE-Drug Arg1:T25 Arg2:T27
+T26	Drug 15530 15535	nsaid
+T27	Drug 15552 15561	ibuprofen
+T29	Drug 15826 15835	nafcillin
+T30	Reason 15848 15864	severe infection
+R18	Reason-Drug Arg1:T30 Arg2:T29
+T31	Drug 15886 15889	PPI
+T32	Route 15919 15921	PO
+R19	Route-Drug Arg1:T32 Arg2:T31
+T33	Duration 15936 15942	2 week
+R20	Duration-Drug Arg1:T33 Arg2:T34
+R21	Duration-Drug Arg1:T33 Arg2:T35
+T34	Drug 15953 15964	amoxicillin
+T35	Drug 15969 15983	clarithromycin
+T36	Drug 15994 16003	nafcillin
+T37	Drug 16027 16036	nafcillin
+T39	Drug 16083 16095	lansoprazole
+T40	Drug 167 173	Ativan
+T41	Reason 17031 17037	Anemia
+R24	Reason-Drug Arg1:T41 Arg2:T43
+T42	Dosage 17350 17352	2U
+R25	Dosage-Drug Arg1:T42 Arg2:T43
+T43	Drug 17356 17361	PRBCs
+T44	Reason 17406 17422	severe back pain
+R26	Reason-Drug Arg1:T44 Arg2:T45
+T45	Drug 17483 17491	fentanyl
+T46	Form 17492 17497	patch
+R28	Form-Drug Arg1:T46 Arg2:T45
+T47	Dosage 17503 17508;17509 17516	small boluses
+R29	Dosage-Drug Arg1:T47 Arg2:T49
+T49	Drug 17523 17531	morphine
+T50	Reason 17536 17553	breakthrough pain
+R33	Reason-Drug Arg1:T50 Arg2:T49
+T51	Reason 17596 17604	her pain
+T52	Reason 17689 17693	MSSA
+R34	Reason-Drug Arg1:T52 Arg2:T53
+T53	Drug 17709 17720	antibiotics
+T54	Reason 1778 1794	low-grade fevers
+R35	Reason-Drug Arg1:T54 Arg2:T60
+R36	Reason-Drug Arg1:T54 Arg2:T59
+R37	Reason-Drug Arg1:T54 Arg2:T58
+T55	Reason 18142 18161	Acute renal failure
+R38	Reason-Drug Arg1:T55 Arg2:T56
+T56	Drug 18223 18226	IVF
+T57	Reason 1830 1833	flu
+R39	Reason-Drug Arg1:T57 Arg2:T60
+R40	Reason-Drug Arg1:T57 Arg2:T59
+R41	Reason-Drug Arg1:T57 Arg2:T58
+T58	Drug 1883 1892	ibuprofen
+T59	Drug 1894 1901	Vicodin
+T60	Drug 1906 1913	Tamiflu
+T61	Drug 19477 19484	Tylenol
+T62	Drug 19489 19498	ibuprofen
+T63	Reason 19513 19522	back pain
+R42	Reason-Drug Arg1:T63 Arg2:T61
+R43	Reason-Drug Arg1:T63 Arg2:T62
+T64	Drug 19540 19547	Tamiflu
+T65	Drug 19549 19556	Vicodin
+T66	Drug 19561 19569	Percocet
+T67	Drug 19599 19608	Oxycodone
+T68	Strength 19609 19618	5 mg/5 mL
+R44	Strength-Drug Arg1:T68 Arg2:T67
+T69	Form 19619 19627	Solution
+R45	Form-Drug Arg1:T69 Arg2:T67
+T70	Dosage 19647 19654	One (1)
+R46	Dosage-Drug Arg1:T70 Arg2:T67
+T71	Route 19656 19658	PO
+R47	Route-Drug Arg1:T71 Arg2:T67
+T74	Frequency 19659 19671;19672 19688	Q6H (every 6 hours) as needed
+R50	Frequency-Drug Arg1:T74 Arg2:T67
+T75	Reason 19693 19697	pain
+R51	Reason-Drug Arg1:T75 Arg2:T67
+T76	Drug 19702 19720	Miconazole Nitrate
+T78	Form 19725 19731	Powder
+R53	Form-Drug Arg1:T78 Arg2:T76
+T79	Dosage 19751 19758	One (1)
+R54	Dosage-Drug Arg1:T79 Arg2:T76
+T80	Form 19759 19763	Appl
+R55	Form-Drug Arg1:T80 Arg2:T76
+T81	Route 19764 19771	Topical
+R56	Route-Drug Arg1:T81 Arg2:T76
+T82	Frequency 19772 19775;19776 19791	TID (3 times a day)
+R57	Frequency-Drug Arg1:T82 Arg2:T76
+T83	Drug 19796 19817	Heparin, Porcine (PF)
+T84	Strength 19818 19828	10 unit/mL
+R58	Strength-Drug Arg1:T84 Arg2:T83
+T85	Form 19829 19836	Syringe
+R59	Form-Drug Arg1:T85 Arg2:T83
+T86	Dosage 19856 19866	One (1) ML
+R60	Dosage-Drug Arg1:T86 Arg2:T83
+T87	Route 19867 19878	Intravenous
+R61	Route-Drug Arg1:T87 Arg2:T83
+T88	Frequency 19879 19904	PRN (as needed) as needed
+R62	Frequency-Drug Arg1:T88 Arg2:T83
+T89	Reason 19909 19919	line flush
+R63	Reason-Drug Arg1:T89 Arg2:T83
+T90	Drug 19924 19931	Lovenox
+T91	Strength 19932 19944	40 mg/0.4 mL
+R64	Strength-Drug Arg1:T91 Arg2:T90
+T92	Form 19945 19952	Syringe
+R65	Form-Drug Arg1:T92 Arg2:T90
+T93	Dosage 19972 19979	One (1)
+R66	Dosage-Drug Arg1:T93 Arg2:T90
+T94	Route 19981 19993	Subcutaneous
+R67	Route-Drug Arg1:T94 Arg2:T90
+T95	Frequency 19994 19998;19999 20004	once a day
+R68	Frequency-Drug Arg1:T95 Arg2:T90
+T96	Frequency 20050 20053	q8h
+R69	Frequency-Drug Arg1:T96 Arg2:T90
+T97	Drug 20060 20069	Lidocaine
+T98	Strength 20070 20087	5 %(700 mg/patch)
+R70	Strength-Drug Arg1:T98 Arg2:T97
+T99	Form 20088 20113	Adhesive Patch, Medicated
+R71	Form-Drug Arg1:T99 Arg2:T97
+T100	Form 20145 20171	Adhesive Patch, Medicateds
+R72	Form-Drug Arg1:T100 Arg2:T97
+T101	Route 20172 20179	Topical
+R73	Route-Drug Arg1:T101 Arg2:T97
+T102	Frequency 20180 20203;20204 20220	DAILY (Daily): 12 hours on, 12 hours off
+R74	Frequency-Drug Arg1:T102 Arg2:T97
+T103	Drug 20226 20247	Insulin Regular Human
+T104	Strength 20248 20259	100 unit/mL
+R75	Strength-Drug Arg1:T104 Arg2:T103
+T105	Form 20260 20268	Solution
+R76	Form-Drug Arg1:T105 Arg2:T103
+T106	Dosage 20295 20302;20303 20308	sliding scale
+R77	Dosage-Drug Arg1:T106 Arg2:T103
+T107	Form 20310 20319	Injection
+R78	Form-Drug Arg1:T107 Arg2:T103
+T108	Reason 20354 20367	hyperglycemia
+R79	Reason-Drug Arg1:T108 Arg2:T103
+T109	Drug 20372 20385	Acetaminophen
+T110	Strength 20386 20392	325 mg
+R80	Strength-Drug Arg1:T110 Arg2:T109
+T111	Form 20393 20399	Tablet
+R81	Form-Drug Arg1:T111 Arg2:T109
+T112	Dosage 20422 20429	Two (2)
+R82	Dosage-Drug Arg1:T112 Arg2:T109
+T113	Form 20430 20436	Tablet
+R83	Form-Drug Arg1:T113 Arg2:T109
+T114	Route 20437 20439	PO
+R84	Route-Drug Arg1:T114 Arg2:T109
+T115	Frequency 20440 20450;20451 20469	Q6H (every 6 hours) as needed
+R85	Frequency-Drug Arg1:T115 Arg2:T109
+T116	Reason 20474 20479	fever
+R86	Reason-Drug Arg1:T116 Arg2:T109
+T117	Reason 20483 20487	pain
+R87	Reason-Drug Arg1:T117 Arg2:T109
+T118	Drug 20492 20497	Senna
+T119	Strength 20498 20504	8.6 mg
+R88	Strength-Drug Arg1:T119 Arg2:T118
+T120	Form 20505 20511	Tablet
+R89	Form-Drug Arg1:T120 Arg2:T118
+T121	Dosage 20534 20541	One (1)
+R90	Dosage-Drug Arg1:T121 Arg2:T118
+T122	Form 20542 20548	Tablet
+R91	Form-Drug Arg1:T122 Arg2:T118
+T123	Route 20549 20551	PO
+R93	Route-Drug Arg1:T123 Arg2:T118
+T124	Frequency 20552 20566;20567 20581	BID (2 times a day) as needed
+R95	Frequency-Drug Arg1:T124 Arg2:T118
+T125	Reason 20586 20593	constip
+R96	Reason-Drug Arg1:T125 Arg2:T118
+T126	Drug 20598 20622	Polyethylene Glycol 3350
+T127	Strength 20623 20635	17 gram/dose
+R97	Strength-Drug Arg1:T127 Arg2:T126
+T128	Form 20636 20642	Powder
+R98	Form-Drug Arg1:T128 Arg2:T126
+T129	Dosage 20665 20672	One (1)
+R99	Dosage-Drug Arg1:T129 Arg2:T126
+T130	Route 20674 20676	PO
+R100	Route-Drug Arg1:T130 Arg2:T126
+T131	Frequency 20677 20700	DAILY (Daily) as needed
+R101	Frequency-Drug Arg1:T131 Arg2:T126
+T132	Reason 20705 20717	constipation
+R102	Reason-Drug Arg1:T132 Arg2:T126
+T133	Drug 20723 20738	Docusate Sodium
+T134	Strength 20739 20749	50 mg/5 mL
+R103	Strength-Drug Arg1:T134 Arg2:T133
+T135	Form 20750 20756	Liquid
+R104	Form-Drug Arg1:T135 Arg2:T133
+T136	Dosage 20779 20786	One (1)
+R105	Dosage-Drug Arg1:T136 Arg2:T133
+T137	Route 20788 20790	PO
+R106	Route-Drug Arg1:T137 Arg2:T133
+T139	Frequency 20791 20797;20798 20810	BID (2 times a day)
+R108	Frequency-Drug Arg1:T139 Arg2:T133
+T140	Reason 2081 2089	sciatica
+R109	Reason-Drug Arg1:T140 Arg2:T159
+T141	Drug 20839 20847	Morphine
+T142	Strength 20848 20855	2 mg/mL
+R110	Strength-Drug Arg1:T142 Arg2:T141
+T143	Form 20856 20863	Syringe
+R111	Form-Drug Arg1:T143 Arg2:T141
+T144	Dosage 20886 20893	One (1)
+R112	Dosage-Drug Arg1:T144 Arg2:T141
+T145	Form 20895 20904	Injection
+R113	Form-Drug Arg1:T145 Arg2:T141
+T147	Frequency 20905 20915;20916 20934	Q4H (every 4 hours) as needed
+R115	Frequency-Drug Arg1:T147 Arg2:T141
+T148	Reason 20939 20943	pain
+R116	Reason-Drug Arg1:T148 Arg2:T141
+T149	ADE 20954 20962	sedation
+R117	ADE-Drug Arg1:T149 Arg2:T141
+T150	ADE 20964 20969	rr<12
+R118	ADE-Drug Arg1:T150 Arg2:T141
+T151	Drug 20975 20983	Fentanyl
+T152	Strength 20984 20993	50 mcg/hr
+R119	Strength-Drug Arg1:T152 Arg2:T151
+T153	Form 20994 21005	Patch 72 hr
+R120	Form-Drug Arg1:T153 Arg2:T151
+T154	Dosage 21028 21035	One (1)
+R121	Dosage-Drug Arg1:T154 Arg2:T151
+T155	Form 21036 21047	Patch 72 hr
+R122	Form-Drug Arg1:T155 Arg2:T151
+T156	Route 21048 21059	Transdermal
+R123	Route-Drug Arg1:T156 Arg2:T151
+T157	Frequency 21060 21081	Q72H (every 72 hours)
+R124	Frequency-Drug Arg1:T157 Arg2:T151
+T158	Drug 21087 21097	Lisinopril
+T159	Drug 2109 2117	Percocet
+T160	Strength 21098 21103	10 mg
+R125	Strength-Drug Arg1:T160 Arg2:T158
+T161	Form 21104 21110	Tablet
+R126	Form-Drug Arg1:T161 Arg2:T158
+T162	Dosage 21133 21140	One (1)
+R127	Dosage-Drug Arg1:T162 Arg2:T158
+T163	Form 21141 21147	Tablet
+R128	Form-Drug Arg1:T163 Arg2:T158
+T164	Route 21148 21150	PO
+R129	Route-Drug Arg1:T164 Arg2:T158
+T165	Frequency 21151 21156;21157 21164	DAILY (Daily)
+R130	Frequency-Drug Arg1:T165 Arg2:T158
+T166	Drug 21170 21182	Lansoprazole
+T167	Strength 21183 21188	30 mg
+R131	Strength-Drug Arg1:T167 Arg2:T166
+T168	Form 21189 21214	Tablet,Rapid Dissolve, DR
+R132	Form-Drug Arg1:T168 Arg2:T166
+T169	Dosage 21242 21249	One (1)
+R133	Dosage-Drug Arg1:T169 Arg2:T166
+T170	Form 21250 21275	Tablet,Rapid Dissolve, DR
+R134	Form-Drug Arg1:T170 Arg2:T166
+T171	Route 21276 21278	PO
+R135	Route-Drug Arg1:T171 Arg2:T166
+T172	Frequency 21279 21298	BID (2 times a day)
+R136	Frequency-Drug Arg1:T172 Arg2:T166
+T173	Drug 21459 21477	Nafcillin in D2.4W
+T174	Strength 21478 21491	2 gram/100 mL
+R137	Strength-Drug Arg1:T174 Arg2:T173
+T175	Form 21492 21501	Piggyback
+R138	Form-Drug Arg1:T175 Arg2:T173
+T176	Dosage 21528 21535;21536 21541	Two (2) grams
+R139	Dosage-Drug Arg1:T176 Arg2:T173
+T177	Route 21542 21553	Intravenous
+R140	Route-Drug Arg1:T177 Arg2:T173
+T178	Frequency 21554 21573	Q4H (every 4 hours)
+R141	Frequency-Drug Arg1:T178 Arg2:T173
+T179	ADE 2169 2178	somnolent
+R142	ADE-Drug Arg1:T179 Arg2:T159
+T180	Drug 21760 21778	Potassium Chloride
+T181	Strength 21779 21785	20 mEq
+R143	Strength-Drug Arg1:T181 Arg2:T180
+T182	Form 21786 21792	Packet
+R144	Form-Drug Arg1:T182 Arg2:T180
+T183	ADE 2180 2188;2189 2200	sleeping excessively
+R145	ADE-Drug Arg1:T183 Arg2:T159
+T184	Dosage 21816 21823	One (1)
+R146	Dosage-Drug Arg1:T184 Arg2:T180
+T185	Form 21824 21830	packet
+R147	Form-Drug Arg1:T185 Arg2:T180
+T186	Route 21831 21833	PO
+R148	Route-Drug Arg1:T186 Arg2:T180
+T187	Frequency 21834 21837;21838 21853	TID (3 times a day)
+R149	Frequency-Drug Arg1:T187 Arg2:T180
+T188	Drug 21875 21883	Phos-NaK
+T189	Strength 21884 21898	280-160-250 mg
+R150	Strength-Drug Arg1:T189 Arg2:T188
+T190	Form 21899 21915	Powder in Packet
+R151	Form-Drug Arg1:T190 Arg2:T188
+T191	Dosage 21939 21946	Two (2)
+R152	Dosage-Drug Arg1:T191 Arg2:T188
+T192	Route 21948 21950	PO
+R153	Route-Drug Arg1:T192 Arg2:T188
+T193	Frequency 21951 21961	once a day
+R154	Frequency-Drug Arg1:T193 Arg2:T188
+T194	ADE 2205 2220	refusing to eat
+R155	ADE-Drug Arg1:T194 Arg2:T159
+T195	Reason 22536 22570;22571 22630;22631 22645	bacterial infection of your spinal fluid and the bones of your spine as well as your urine and blood and skin
+R156	Reason-Drug Arg1:T195 Arg2:T196
+T196	Drug 22669 22680	antibiotics
+T197	Drug 23634 23643	nafcillin
+T198	Drug 2703 2714	ceftriaxone
+T199	Drug 2716 2722	flagyl
+T200	Drug 2724 2735	clindamycin
+T201	Drug 2741 2751	vancomycin
+T202	Reason 2765 2794	transient tachycardia to 120s
+R157	Reason-Drug Arg1:T202 Arg2:T203
+T203	Drug 2814 2820	fluids
+T204	Drug 3529 3534	vanco
+T205	Drug 3536 3547	ceftriaxone
+T206	Drug 3573 3583	ampicillin
+T207	Drug 3588 3597	acyclovir
+T208	Drug 8202 8212	gadolinium
+T21	Route 15388 15390	IV
+R14	Route-Drug Arg1:T21 Arg2:T22	
+T28	Route 17520 17522	IV
+R22	Route-Drug Arg1:T28 Arg2:T49	
+T38	Reason 1796 1805	back pain
+R23	Reason-Drug Arg1:T38 Arg2:T58	
+R27	Reason-Drug Arg1:T38 Arg2:T59	
+R30	Reason-Drug Arg1:T38 Arg2:T60	

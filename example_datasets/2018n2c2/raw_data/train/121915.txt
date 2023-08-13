@@ -1,0 +1,167 @@
+Admission Date:  [**2185-9-30**]              Discharge Date:   [**2185-10-4**]
+
+Date of Birth:  [**2132-4-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Terazosin
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+BRBPR
+
+Major Surgical or Invasive Procedure:
+angiography
+EGD
+colonoscopy
+intubation
+central line placement
+
+
+History of Present Illness:
+54 y/o with with Afib on coumadin, CHF, with BRBPR starting at
+approximately 6 am.  He reports hourly bowel movements of large
+quantities of loose red blood. No N/V or abdominal pain. No
+history of GI Bleeding in the past. Denies use of NSAIDs. He
+presented to Ermerson hosptial. There at 1pm HCT was 26.1, down
+from 36 at baseline. INR was 3.79. At [**Hospital1 **] he received 3
+units of RBC, 3 Unit FFP, and 10mg of Vit K. He underwent a
+tagged RBC scan at [**Hospital1 **] which revieled (per sign out) active
+bleeding in the jejunum. Prior to transfer his SBP dropped to
+the 60s and was tachycaric to the 110s. He was transfered with
+two, 18G PIV. He r
+
+In the ED, initial vs were: T P BP R O2 sat. Surgery and GI were
+consulted. Surgery did not feel the RBC scan was as definitive
+for the jujenum and defered surgery. GI was consulted and
+suggested NG lavage and angiography. A trauma line was placed.
+The patient was seen by IR. In the ED the patient got 4 RBC, 2
+FFP, 1 plt, and 5000U of Factor IX. HR remained in the 110s, BP
+flucuated from SBP 80s to 100s. While in the ED he had a bloody
+BM with 1000cc output. EKG was without ischemic changes.
+
+On the floor, The patient has blood covering the buttox. He
+denies Lightheadness, CP, SOB, syncope. N/V, abd pain. NG lavage
+was negative.
+
+Of note the patient was recently admitted at [**Hospital3 3765**]
+from [**2185-8-8**] to [**2185-8-22**] for severe cellulits c/w septic shock,
+treated with Levo, clindamycin, and cephalexin. He has been of
+all abx for approximately 3 weeks. Course was also complicated
+with CHF requiring agressive diuresis.
+
+
+Past Medical History:
+Afib on coumadin
+Pacemaker s/p Sick sinus syndrome
+Mitral regurgitation
+morbid obesity
+CHF
+Renal insufficiency
+cardiomyopathy
+neuropathy
+Jaundice
+Recent admission [**8-26**] with septic shock
+
+Social History:
+History of heavy Etoh use, cut down in [**Month (only) 116**]. Nonsmoker. Works as
+software egineer, married with 2 children 12 and 8.
+
+Family History:
+NC
+
+Physical Exam:
+Vitals: T: 98.5 BP: 102/49 P: 111 R: 25 18 O2: 100% on 2L NC
+General: Alert, oriented, no acute distress. Pale
+HEENT: Sclera icteric, Dry MM, oropharynx clear
+Neck: supple, JVP not elevated, RIJ trauma line
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: tachy, irregularly regular, normal S1 + S2, no murmurs,
+rubs, gallops
+Abdomen: obese, soft, non-tender, non-distended, bowel sounds
+present, no rebound tenderness or guarding, no organomegaly
+GU: foley in place
+Ext: warm, well perfused, 2+ radials, no clubbing, cyanosis. BL
+edema to thigh. Diffuse venous stasus changes with dressings on.
+
+Pertinent Results:
+Last set of labs:
+[**2185-10-4**] 03:20PM BLOOD WBC-16.9* RBC-3.35* Hgb-10.1* Hct-30.9*
+MCV-93 MCH-30.3 MCHC-32.7 RDW-17.8* Plt Ct-161
+[**2185-10-4**] 12:24PM BLOOD Neuts-30* Bands-63* Lymphs-4* Monos-0
+Eos-0 Baso-0 Atyps-0 Metas-2* Myelos-1* NRBC-1*
+[**2185-10-4**] 12:24PM BLOOD PT-19.7* PTT-47.0* INR(PT)-1.8*
+[**2185-10-4**] 03:20PM BLOOD Glucose-43* UreaN-56* Creat-2.1* Na-133
+K-4.1 Cl-99 HCO3-18* AnGap-20
+[**2185-10-4**] 02:51AM BLOOD ALT-16 AST-25 AlkPhos-84 TotBili-9.6*
+DirBili-7.8* IndBili-1.8
+[**2185-10-4**] 03:20PM BLOOD Calcium-8.1* Phos-3.4 Mg-2.0
+[**2185-10-4**] 03:25PM BLOOD Type-ART pO2-143* pCO2-42 pH-7.27*
+calTCO2-20* Base XS--7
+[**2185-10-4**] 03:25PM BLOOD Glucose-50* Lactate-6.6* Na-129* K-4.0
+Cl-99*
+[**2185-10-4**] 12:15AM URINE Color-Amber Appear-Cloudy Sp [**Last Name (un) **]-1.024
+[**2185-10-4**] 12:15AM URINE Blood-LG Nitrite-NEG Protein-150
+Glucose-NEG Ketone-TR Bilirub-MOD Urobiln-NEG pH-6.5 Leuks-MOD
+[**2185-10-4**] 12:15AM URINE RBC->50 WBC-21-50* Bacteri-MANY
+Yeast-NONE Epi-0-2
+
+MICRO:
+[**10-3**] BCx: GNR
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 53 year old man with h/o CHF, afib on Coumadin,
+who was transferred from an OSH with BRBPR in the setting of
+supratherapeutic INR. He was transfused 23units pRBCs and
+multiple other blood products on the day of admission. EGD
+revealed an ulcer in the duodenal bulb, which was coiled.
+Colonoscopy was unrevealing.
+
+After several days, the patient was noted to have a rising WBC
+count and worsening AMS, found to have a GNR bacteremia. Unclear
+source - ?UTI vs gastrointestinal source. The patient developed
+septic shock and was intubated. SBP was in the 80s while maxed
+out on 3 pressors. The patient was made comfort measures on
+[**2185-10-4**]. Pain medications were increased, and he was weaned off
+the pressors and the ventilator. The patient passed away at
+18:27 on [**2185-10-4**].
+
+Medications on Admission:
+Metoprolol 12.5mg TID
+Midodrine 10mg TID
+spironolactone 25mg PO daily
+Multivitamin
+Mirtazapine 7.5mg PO qhs
+Trypsin-Dalsam-Castor oil, 90 units topical prn
+collagenase 250 unit/gram oint, prn
+warfarin 2mg PO daily
+torsemide 40mg PO daily
+zolpidem 10mg PO daily
+zofran 4mg PO hs prn
+
+Discharge Medications:
+none
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Gastrointestinal bleed
+Gram negative rod bacteremia
+
+
+Discharge Condition:
+died
+
+
+Discharge Instructions:
+none
+
+Followup Instructions:
+none
+
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

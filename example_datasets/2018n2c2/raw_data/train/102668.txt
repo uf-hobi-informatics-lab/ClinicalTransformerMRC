@@ -1,0 +1,426 @@
+Admission Date:  [**2120-7-7**]              Discharge Date:   [**2120-7-22**]
+
+Date of Birth:  [**2052-7-8**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Optiray 350 / Clindamycin / Aldactone / IV Dye,
+Iodine Containing / pyridostigmine
+
+Attending:[**Last Name (un) 2888**]
+Chief Complaint:
+Fall and increased weight gain
+
+
+Major Surgical or Invasive Procedure:
+[**2120-7-12**] Cardiac catheterization
+[**2120-7-14**] Pulmonary arterial catheterization
+[**2120-7-14**] Intra-aortic balloon pump insertion
+[**2120-7-15**] Dialysis catheter placement
+[**2120-7-15**] Arterial line placement
+[**2120-7-17**] Intra-aortic balloon pump re-insertion
+[**2120-7-17**] Intubation
+
+
+History of Present Illness:
+68 year old man with a history of coronary disease status post
+cabg in [**2107**] and multiple PCIs since then presenting on the [**7-7**]
+with weight gain at home and altered mental status resulting in
+a fall at home. In the ED he had a possible seizure with
+dilantin loading. He became hypotensive after that and went to
+MICU. He was then sent to the medicine service for several days
+working up neurologic issues and falls. Then the patient began
+having chest pain, echo showed new acute decrease in the EF from
+45->20% and some apical and septal akinesis. Cath showed severe
+native disease with 2 BMS placed in RCA. RHC showed elevated
+wedge at 30mmHg. RA pressures 25 and PAP 73. CI 1.5. Then
+transferred to [**Hospital1 1516**] for further management.
+.
+Patient was given 80mg IV lasix given last night and this
+morning still volume overloaded and given another 100mg IV lasix
+and metolazone and lasix gtt. Team is concerned for poor forward
+flow given LFTs have increased to >1000, creatinine to 3.3, INR
+>2, and only 600mL UOP with 20mg/hr lasix gtt yesterday.
+.
+At this point, he was transferred to the HF service and admitted
+to the CCU for inotropes, swan, and lasix drip. If
+non-responsive to this will need IABP.
+.
+On arrival to the floor, patient appears somewhat lethargic and
+uncomfortable but is conversant.  He endorses discomfort around
+his foley site but denies cough, chest pain, sob, abdominal
+symptoms, fevers/chills.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: +Diabetes, +Dyslipidemia, +Hypertension
+
+2. CARDIAC HISTORY:
+- CAD
+- Chronic systolic & diastolic CHF, EF 40-50% [**5-/2119**]
+- CABG: s/p CABG in [**2107**] (LIMA-LAD (patent), SVG-PDA (occluded),
+SVG-OM(occluded))
+- PERCUTANEOUS CORONARY INTERVENTIONS: multiple stents (s/p DES
+to LMCA into LCx, RCA, r-PL)
+- PACING/ICD:
+- ?Afib
+3. OTHER PAST MEDICAL HISTORY:
+- Appendicitis (complicated by colectomy & mucocele [**2114**])
+- Depression
+- Erectile dysfunction
+- Insulin dependent diabetes mellitus x 30+yrs
+- ulcerative colitis
+- Peyronie's disease s/p penile implant
+- benign Prostatic Hypertrophy
+- h/o C. Difficile colitis
+- CKD
+
+
+Social History:
+A retired Optometrist.
+-Tobacco history:he quit smoking about 40 years ago, only having
+smoked for about 5 years,while in his 20's.
+-ETOH: None.
+-Illicit drugs: None.
+
+
+Family History:
+His mother had CAD and a CABG in her 60's. There is a strong
+family history of premature coronary artery disease, diabetes
+mellitus,  hypertension, and hyperlipidemia.
+
+
+Physical Exam:
+Admission exam:
+Vitals: T: BP: 86/62 P: 61 R: 15 O2: 100% on RA
+General: Oriented, no acute distress, depressed mood and affect,
+talking extremely slowly
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not visualized, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: B/L crackles at bases, no wheezes, rales, ronchi
+Abdomen: Soft, non-tender, moderately distended, bowel sounds
+present, no organomegaly
+GU: foley in place
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation to light touch
+.
+Discharge/Death exam:
+HEENT: pupils fixed and dilated
+CV:  no heart sounds auscultated, no carotid pulse
+RESP: no breath sounds
+
+Pertinent Results:
+ADMISSION LABS:
+[**2120-7-6**] 10:16PM   cTropnT-0.03*
+[**2120-7-6**] 06:00PM   LACTATE-1.4
+[**2120-7-6**] 05:55PM   GLUCOSE-173* UREA N-43* CREAT-2.2* SODIUM-133
+POTASSIUM-4.8 CHLORIDE-95* TOTAL CO2-29 ANION GAP-14
+[**2120-7-6**] 05:55PM   estGFR-Using this
+[**2120-7-6**] 05:55PM   ALT(SGPT)-33 AST(SGOT)-36 ALK PHOS-61 TOT
+BILI-0.8
+[**2120-7-6**] 05:55PM   cTropnT-0.05*
+[**2120-7-6**] 05:55PM   proBNP-7830*
+[**2120-7-6**] 05:55PM   ALBUMIN-4.5
+[**2120-7-6**] 05:55PM   WBC-7.6 RBC-4.08* HGB-10.7* HCT-34.5* MCV-85#
+MCH-26.3* MCHC-31.1 RDW-15.5
+[**2120-7-6**] 05:55PM   NEUTS-68.8 LYMPHS-16.8* MONOS-12.1* EOS-1.9
+BASOS-0.4
+[**2120-7-6**] 05:55PM   PLT COUNT-232
+[**2120-7-6**] 05:55PM   PT-14.7* PTT-30.0 INR(PT)-1.4*
+.
+STUDIES:
+[**2120-7-6**] CT Head w/o contrast- No acute intracranial process
+[**2120-7-6**] C Spine w/o contrast- No acute fractures or
+malalignment
+[**2120-7-6**] CXR Portable AP- Midline sternotomy wires are again
+noted.  Bilateral pleural effusions are noted with probable
+basilar atelectasis.  No overt pulmonary edema.  Heart size is
+top
+normal.  No pneumothorax. IMPRESSION:  Bilateral pleural
+effusions with basilar atelectasis.
+[**2120-7-6**] CT Abd/Pelvis-IMPRESSION: 1.  Nonspecific mesenteric
+stranding and small amount of fluid in the abdomen could be
+secondary to generalized third spacing. 2.  Chronic loculated
+left sided pleural fluid collection/chronic empyema is stable.
+3.  Gallstones and sludge within the gallbladder.
+[**2120-7-8**] EEG- This is an abnormal waking EEG because of diffuse
+polymorphic arrhythmic theta and delta activity. This background
+activity improves to theta range activity on stimulation. These
+findings are suggestive of moderate encephalopathy but of
+nonspecific cause. There are no epileptiform discharges or focal
+abnormalities seen.
+[**2120-7-10**] MRI Head w and w/o contrast- 1.  No acute intracranial
+abnormality. 2.  No pathologic focus of enhancement or anatomic
+substrate for seizure. 3.  Relatively mild global atrophy.
+4.  Chronic inflammatory changes in the paranasal sinuses;
+correlate clinically.
+.
+[**2120-7-11**] Portable TTE: The left atrium is mildly dilated. Left
+ventricular wall thicknesses are normal. The left ventricular
+cavity size is normal. Overall left ventricular systolic
+function is severely depressed (LVEF= 20 %) secondary to severe
+hypokinesis/akinesis of the septum and apex; the rest of the
+left ventricle appears hypokinetic with regional variation. The
+aortic valve leaflets are moderately thickened. The study is
+inadequate to exclude significant aortic valve stenosis. The
+mitral valve leaflets are mildly thickened. There is no mitral
+valve prolapse. Mild to moderate ([**12-18**]+) mitral regurgitation is
+seen. The tricuspid valve leaflets are mildly thickened. The
+estimated pulmonary artery systolic pressure is normal. There is
+no pericardial effusion.  Compared with the findings of the
+prior study (images reviewed) of [**2119-5-19**], left ventricular
+systolic function is significantly further compromised.
+.
+[**2120-7-12**] Cardiac Catheterization:
+1. Selective coronary angiography demonstrated three vessel
+disease in the right dominant system The LMCA had a patent stent
+with mild in stent restenosis, there was a 30-40% distal LMCA
+stenosis beyond the distal edge of the LMCA stent which was
+unchanged from prior. The LAD had diffuse severe disease
+proximally and occludes at the mid vessel after a tiny diagonal
+branch. The Cx had diffuse disease throughout with serial focal
+50% stenoses. The RCA had an ostial 80% stenosis which was
+heavily calcified. There was also an 80% heavily calcified 80%
+stenosis in the mid RCA. Diffuse mild to moderate disease was
+seen throughout the rest of the RCA.
+2. Limited resting hemodynamics revealed elevated right and left
+sided filling pressure with an RVEDP of 24 mmHg and an LVEDP of
+26 mmHg. There was pulmonary hypertension with PA pressures of
+73/35 mmHg. The cardiac index was depressed at 1.55 L/min/m2.
+The central aortic pressure was 120/73 mmHg. Upon careful
+pullback of a pigtail catheter from the LV to the aorta no
+pressure gradient was seen.
+3. Arterial conduit angiography revealed a patent LIMA which
+supplied a diffusely diseased LAD. The SVGs were not engaged as
+they were known to be occluded.
+4. Successful PTCA and stenting of the ostial RCA with a
+3.5x26mm INTEGRITY stent which was postdilated proximally to
+4.0mm. Final angiography revealed no residual stenosis, no
+angiographically apparent dissection and TIMI III flow (see PTCA
+comments).
+5. Successful PTCA and stenting of the mid RCA with a 3.5x12mm
+INTEGRITY stent which was postdilated to 3.5mm. Final
+angiography revealed no residual stenosis, no angiographically
+apparent dissection and TIMI III flow (see PTCA comments).
+6. Successful closure of the 6 French right femoral arteriotomy
+site with a 6 French ANGIOSEAL VIP device with good resultant
+hemostasis.
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Moderate to severe diastolic ventricular dysfunction.
+3. Moderate pulmonary hypertension.
+4. Successful PTCA and stenting of the ostial RCA with a BMS.
+5. Successful PTCA and stenting of the mid RCA with a BMS.
+6. Successful closure of the right femoral arteriotomy site with
+an Angioseal device.
+.
+[**2120-7-15**] EEG:
+Abnormal EEG due to a low voltage slow background throughout.
+This indicates a widespread encephalopathy. Medications,
+metabolic disturbances, and infection are the most common
+causes. Ischemia or hypoxia are other possibilities. There were
+no areas of prominent focal slowing, but encephalopathies may
+obscure focal findings. There were no epileptiform features or
+electrographic seizures.
+.
+[**2120-7-15**] CT abdomen & pelvis:
+IMPRESSION:
+1.  No acute intra-abdominal or intrapelvic hematoma detected.
+2.  Circulatory assist device within the abdominal aorta.
+3.  Persistent bilateral nephrograms, compatible with severe
+renal failure, as the last contrast-enhanced study was performed
+on [**2120-7-10**].
+4.  Unchanged small left pleural effusion.
+.
+[**2120-7-19**] Echo:
+The left atrium and right atrium are normal in cavity size. Left
+ventricular wall thicknesses and cavity size are normal. There
+is moderate to severe regional left ventricular systolic
+dysfunction with hypokinesis of the inferior septum, inferior,
+and inferolateral walls and distal anterior, lateral and apical
+walls. The remaining segments contract normally (LVEF = 25-30
+%). No masses or thrombi are seen in the left ventricle. The
+right ventricular cavity is moderately dilated with free wall
+hypokinesis. The aortic valve leaflets (3) are mildly thickened
+but aortic stenosis is not present. No aortic regurgitation is
+seen.The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen. The pulmonary artery systolic
+pressure could not be determined. There is no pericardial
+effusion.
+IMPRESSION: Normal left ventricular cavity size with extensive
+regional systolic dysfunction most c/w multivessel CAD
+(including proximal RCA). Right ventricular cavity enlargement.
+Mild mitral regurgitation.
+Compared with the prior study (images reviewed) of [**2110-7-11**],
+global left ventricular systolic function is slightly improved.
+.
+[**2120-7-20**] KUB:
+1) No dilated loops of large or small bowel to suggest
+obstruction or ileus. No obvious free air identified.
+2) Multiple clustered locules of air in the right mid abdomen
+may represent stool within the colon in an area of prior surgery
+and are similar to the appearance on the [**2120-7-7**] abdominal CT.
+However, the differential diagnosis for this appearance includes
+air within an abscess.  If there is significant clinical
+suspicion for intra-abdominal infection, then this area could be
+further assessed with a CT scan.
+
+
+Brief Hospital Course:
+Hospital Course: 68 year old man with a history of coronary
+disease status post cabg in [**2107**] and multiple PCIs, DM type II,
+hypertension and depression who presented initially on [**2120-7-7**]
+with weight gain at home and altered mental status.  He had what
+appeared to be a possible seizure in the ED, resulting in
+dilantin loading and subsequent hypotension requiring transfer
+to the MICU. He was then sent to the medicine service for
+several days while work up continued on his neurologic issues
+and falls (work up negative). Then on [**2120-7-11**], he began having
+chest pain, and echo showed new acute decrease in the EF from
+45->20% with some apical and septal akinesis. Cath the following
+day showed severe native disease with 2 BMS placed in RCA, and
+RHC showed elevated wedge at 30mmHg. He was intitially
+transferred back to the cardiology service for management,
+however he became increasingly volume overloaded with end organ
+dysfunction (renal and liver failure) suggestive of cardiogenic
+shock, necessitating transfer to the CCU under the heart failure
+service.
+.
+CCU Course:  On arrival patient was started on inotropes,
+pulmonary artery catheter was placed, and intra-aortic balloon
+pump was initiated for support for his cardiogenic shock.  Given
+his renal failure, CVVH was initiated (mostly for
+ultrafiltration).  Despite full support with intermittent
+pressors, IABP, and CVVH, he failed to improve.  On [**2120-7-17**], he
+self-discontinued his balloon pump, leading to rapid
+decompensation necessitating urgent intubation and transfer to
+the cath lab for IABP re-placement.  He was able to wean off the
+balloon pump on [**2120-7-19**], however his hemodynamics then worsened
+again, necessitating the use of pressors.  Despite full pressor
+support, his status continued to worsen.  Upon frank discussion
+with his family regarding his grim prognosis, they felt that he
+would never want to continue with aggressive care if there was
+little chance of full recovery.  On [**2120-7-21**], they decided to
+transition his care to comfort measures only.  He died
+peacefully on [**2120-7-22**].
+.
+Please see below for details on each of his major active issues:
+.
+ACTIVE ISSUES:
+# [**Date Range 7792**]/Cardiogenic Shock: On [**2120-7-11**] while on medicine
+service, experienced chest pain with troponin of 0.1, negative
+MB, but echo with new anterior WMA and EF depressed at 25% (down
+from 40-45%).  Cath on [**7-12**] showed 80% ostial stenosis of the
+RCA, which was stented with 2 bare metal stents.  Following the
+cath, he continued to decompensate.  He appeared to be in
+decompensated CHF by renal status, crackles on exam, and mild
+peripheral edema.  A TTE showed an EF of 20% from baseline of
+40-45% in 6/[**2118**].  He had 2 BMS placed to his RCA, his LVEDP was
+elevatd at 30, pulmonary pressures were also elevated so the
+patient was transferred to the [**Hospital1 1516**] service. Despite aggresive
+diuresis, patient continued to [**Last Name (un) 22977**] clinically, with high
+filling pressures, low CI, low UOP and was transfered to CCU.
+Patient was started on dobutamine for inotropic effect (could
+not do milranone because of [**Last Name (un) **]). He was also on lasix drip.
+Patient had an intra-aortic baloon pump to improve systemic
+perfusion and coronary artery perfusion.
+.
+While in CCU a Swan-Ganz catheter was placed to monitor CO.
+Dobutamine drip was started in setting of low CO. The patient
+was also started on CVVH to remove fluid thought to be
+contributing to decreased CO as renal failure persisted. On [**7-17**]
+pt was increasingly delusional and removed his IABP partially.
+Decision was made to remove pump at this time and heparin ggt
+d/c and pressure held at site. The patient's o2 sats decreased
+at this time and lactate increased to over 6. Decision was made
+to intubate and transfer to cath lab for replacement of pump.
+Ballon pump was weaned off of IABP on [**7-19**]. Howver he conintued
+to have high pressor requirements.
+.
+#.Acute on Chronic [**Last Name (un) **]: Baseline creatinine 1.1-1.5, on
+admission 2.2.  However after the drop in his blood pressure and
+after his cath his Cr continued to rise and he stopped making
+urine.  Renal was consulted who started CCVH to remove fluid to
+help relieve strain on his heart.  CCVH was stopped when patient
+was made CMO by family on [**7-21**].
+.
+#Transaminitis - On transfer to [**Hospital1 1516**] service, patients LFTs had
+noted to increase to ALT 117, AST 418.  The day following cath,
+his LFTs sharply rose to ALT 1200 and AST 1059, LDH 1900, TBili
+1.9.  Concern was for shock liver vs med effect, Hepatology was
+consulted who felt this was due to shock liver - they rec'd to
+hold atorvastatin, obtain RUQ U/S which showed possibly fatty
+liver with patent vasculature.  The following day, he developed
+encephalopathy and lactulose was started. LFTs trended down
+throughout his hospital course.
+.
+#.Fall at Home- His initial insult was a well-described
+mechanical fall from slipping on mineral oil, and he did not
+endorse symptoms consistent with vasovagal syncope. We also
+considered orthostasis given history of same vs. arrhythmia vs.
+seizure given possible seizure in CT scan. Patient was not found
+to be orthostatic. Neurology consulted and had a low suspicion
+of seizure. MRI with and without contrast was unremarkable.
+Neurology continued to follow and did not recommend AED's.
+.
+IDDM: Patient was kep on insulin sliding scale and hi blood
+surgars well well ontrolled in the CCU.
+.
+Goals of Care dicussion: On [**7-21**]: Family meeting was held with
+Dr. [**Last Name (STitle) **]??????[**Doctor Last Name **], Dr. [**Last Name (STitle) 4402**], SW [**Doctor First Name **], and patient??????s family
+including:  wife [**Name (NI) **], daughter [**Name (NI) 12983**], daughter [**Name (NI) 22978**], and
+sister [**Name (NI) **].  They were updated on the patient??????s grim
+prognosis and his continued decline despite maximal support.
+The family was in agreement that per past discussions they had
+with the patient, he would not have wanted a prolonged death and
+would rather be made comfortable at this juncture.  In light of
+this, Mr [**Known lastname **]??????s goal of care was focused on comfort only, with
+cessation of all supportive measures including pressors, CVVH,
+and the ventilator. After withdawal of all care he passed away
+on [**2120-7-22**] at 7:10am.
+
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from PatientFamily/Caregiver.
+1. Atorvastatin 40 mg PO DAILY
+2. Bumetanide 1 mg PO DAILY
+3. Clopidogrel 75 mg PO DAILY
+4. Eplerenone 25 mg PO DAILY
+5. Lisinopril 5 mg PO DAILY
+6. Lorazepam 0.5 mg PO TID
+7. Mesalamine DR 1200 mg PO Frequency is Unknown
+8. Metoprolol Succinate XL 12.5 mg PO Frequency is Unknown
+Frequency [**Hospital1 **]
+9. ranolazine *NF* 1,000 mg Oral [**Hospital1 **]
+10. Aspirin 81 mg PO DAILY
+11. NPH 28 Units Breakfast
+NPH 18 Units Bedtime
+
+
+Discharge Medications:
+Expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Congestive Heart Failure
+Cardiogenic Shock
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+
+Completed by:[**2120-7-22**]

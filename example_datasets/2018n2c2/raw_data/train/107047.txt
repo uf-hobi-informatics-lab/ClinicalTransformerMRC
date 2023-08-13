@@ -1,0 +1,391 @@
+Admission Date:  [**2134-10-9**]              Discharge Date:   [**2134-11-19**]
+
+Date of Birth:  [**2071-4-28**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Bactrim / Dicloxacillin / Levofloxacin
+
+Attending:[**First Name3 (LF) 3913**]
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+Subclavian CVL
+
+History of Present Illness:
+Mrs. [**Known lastname 52**] is a 63-year-old woman with a history of recurrent
+Burkitt's lymphoma D +15 of [**Hospital1 **], who was recently discharged
+from [**Hospital1 18**] after her first treatment for recurrence (see PMH).
+She had been doing well at home until the morning of [**2134-10-9**].
+She had awoken early to come to her outpatient appointment at 7
+[**Hospital 1826**] clinic, and on standing from bed, felt very
+lightheaded. She does not recall much after that point. Her son
+found her in the kitchen, lying against the cabinets in a pool
+of feces. They called 911, and on transport to [**Hospital3 **], her BP was found to be 58/38. She was given IVF on
+transport and in the ED at [**Hospital3 **].
+.
+She was afebrile, and her blood pressure responded to fluid
+resuscitation to 90s/40s on transfer. She has been mentating the
+entire time. At the OSH a chest X-Ray and Head CT were done.
+Both of which were negative for any acute process. She was given
+a dose of vancomycin and cefepime at the outside hospital out of
+concern for infection given her neutropenia (WBC 0.2 at the OSH)
+and hypotension.
+.
+On arrival to the floor, her vitals were T 99.4, BP 105/50, HR
+99, RR 18 and O2 sat 100% on RA. She is mentating well and is
+currently asymptomatic. She denies any fever or chills, cough,
+chest pain, shortness of breath, dysuria, frequency, urgency,
+myalgias, or abdominal pain. She admits to diarrhea this am,
+lightheadedness, feeling "dry," and pain in her mouth.
+
+
+Past Medical History:
+Interval History:
+Burkitt's Lymphoma: She was admitted [**2134-9-20**] with 6 weeks of
+persistent, progressive shoulder pain. On admission, there was a
+
+palpable mass on her right chest wall and axilla. A CT scan
+showed a large axillary mass that was cocerning for recurrence
+of disease. She had an IR guided biopsy [**9-22**] which was
+inconclusive, and was then taken to the OR for surgical
+excisional biopsy [**9-23**] that showed recurrence of disease. On
+[**2134-9-25**] she had an echocardiogram and began treatment with
+[**Hospital1 **]. She had an LP done on [**10-1**], which was positive for
+disease. At that time she recieved intrathecal methotrexate and
+hydrocort. On [**2134-10-5**] her LP was repeated and she recieved
+intrathecal cytarabine.  She was discharged with neupogen for
+one week with close follow-up.
+.
+1.  Burkitt's lymphoma
+- Diagnosed in [**2133-11-27**], s/p multiple chemo regimens.
+- Most recent cycle (IVAC) was on [**2134-4-29**] with complications of
+
+admission for profound neutropenia, fever, parainfluenza
+infection, and bacteremia.
+2.  Hypothyroidism.
+3.  Hyperlipidemia.
+4.  Hx of Pseudomonas bacteremia.
+5.  Hx of Coag-neg staph bacteremia.
+6.  Hx of Enterobacter bacteremia.
+7.  Hx of Parainfluenza and pneumonia
+
+
+Social History:
+(from OMR, confirmed with patient)
+Her husband has COPD and has required frequent hospitalizations.
+
+One of her sons and daughter-in-law live downstairs with their
+three children. She worked as a system analysis at NHIC, but is
+currently retired. Denies tobacco or alcohol use.
+
+
+Family History:
+(from OMR, confirmed with patient)
+There is no family history of lymphoma or other malignancies
+within the family. Her sister has a history of cirrhosis. Her
+brother has diabetes and anterograde amnesia.
+
+Physical Exam:
+Vitals: T: 99.4 BP: 105/50 HR: 99 RR: 18 O2 sat 100% on RA
+Gen: Well appearing woman
+HEENT: PERRL, EOMI, Dry MM, no JVP, no LAD, multiple areas of
+mucositis in her mouth
+CV: Tahcycardic, regular rhythm, no m/r/g normal s1 and s2
+Chest: old ecchymosis on right breast
+Lungs: CTAB, no wheezes rales or rhonchi
+Back: 3x5 cm contusion on her left midback, inferior to the
+scapula, no associated tenderness surrounding the lesion, also a
+3x1.5 cm contusion along the top of the left scapula
+Abdomen: Soft, non-tender, mildly distended, NABS, palpable
+liver tip
+Ext: No edema, cyanosis, clubbing. 2+ radial and DP pulses
+bilaterally
+Skin: No abnormalities other than contusions noted above, warm,
+dry
+Neuro: CNII-XII grossly intact, AAOx3, strength 5/5 in upper and
+lower extremities
+
+
+Pertinent Results:
+Admission Labs:
+
+[**2134-10-9**] 03:45PM BLOOD WBC-0.3*# RBC-2.20* Hgb-7.7* Hct-21.3*
+MCV-97 MCH-35.0* MCHC-36.2* RDW-14.5 Plt Ct-14*#
+[**2134-10-9**] 03:45PM BLOOD Neuts-11* Bands-22* Lymphs-7* Monos-0*
+Eos-1 Baso-1 Atyps-0 Metas-1* Myelos-1* Other-56*
+[**2134-10-9**] 03:45PM BLOOD PT-15.3* PTT-28.0 INR(PT)-1.3*
+[**2134-10-9**] 03:45PM BLOOD Plt Smr-RARE Plt Ct-14*#
+[**2134-10-9**] 03:45PM BLOOD Glucose-125* UreaN-24* Creat-0.6 Na-136
+K-3.5 Cl-104 HCO3-24 AnGap-12
+[**2134-10-9**] 03:45PM BLOOD ALT-98* AST-39 LD(LDH)-169 AlkPhos-134*
+TotBili-1.7*
+[**2134-10-9**] 03:45PM BLOOD Albumin-3.2* Calcium-8.8 Phos-3.5 Mg-2.0
+UricAcd-2.9
+[**2134-10-9**] 06:45PM BLOOD Lactate-1.0
+
+Discharge labs:
+
+[**2134-11-19**] 12:00AM BLOOD WBC-2.1* RBC-2.92* Hgb-8.7* Hct-24.7*
+MCV-84 MCH-29.9 MCHC-35.5* RDW-13.4 Plt Ct-85*
+[**2134-11-19**] 12:00AM BLOOD Neuts-67 Bands-0 Lymphs-14* Monos-17*
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-2* NRBC-1*
+[**2134-11-19**] 12:00AM BLOOD Gran Ct-1449*
+[**2134-11-19**] 12:00AM BLOOD Glucose-143* UreaN-15 Creat-0.4 Na-132*
+K-3.9 Cl-99 HCO3-25 AnGap-12
+[**2134-11-19**] 12:00AM BLOOD ALT-75* AST-54* LD(LDH)-377* AlkPhos-135*
+TotBili-0.4
+[**2134-11-19**] 12:00AM BLOOD Calcium-8.9 Phos-2.2* Mg-2.0 UricAcd-1.7*
+
+Micro:
+[**2134-10-24**] 4:56 am BLOOD CULTURE      Source: Line-TLCL.
+
+                            **FINAL REPORT [**2134-10-30**]**
+
+   Blood Culture, Routine (Final [**2134-10-30**]):
+      PSEUDOMONAS AERUGINOSA.    OF TWO COLONIAL MORPHOLOGIES.
+         FINAL SENSITIVITIES.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |
+CEFEPIME--------------     2 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----    16 S
+TOBRAMYCIN------------   <=1 S
+
+   Aerobic Bottle Gram Stain (Final [**2134-10-24**]):
+      GRAM NEGATIVE ROD(S).
+
+[**10-14**] LP (#1) - no malignant cells
+
+[**11-4**] LP (#2) - no malignant cells
+
+[**11-11**] LP (#3) - no malignant cells
+
+[**11-18**] LP (#4) - no malignant cells
+
+Studies:
+[**10-10**] CT ABD/PELVIS- 1. No infectious source identified in the
+chest, abdomen or pelvis. 2. Interval decrease in size of
+confluent right axillary adenopathy compared to [**2134-9-21**]. 3. Single stable left paraaortic lymph node. 4. Sigmoid
+diverticulosis, without diverticulitis. 5. Distention of the
+stomach, without evidence for mechanical obstruction.  Correlate
+clinically.
+
+[**11-6**] CT Chest: IMPRESSION:
+1. No acute pulmonary embolism or aortic pathology.
+2. Similar appearance of 1-cm ground-glass nodular opacity in
+the right upper lobe. Recommend continued followup.
+3. Sub-4mm pulmonary nodules, with questionable interval
+increase in size,
+could be re-evaluated when followup for the ground-glass
+opacity.
+4. Slightly interval decrease in size of the right axillary
+lymph node
+conglomerate.
+
+[**11-8**] ECHO: IMPRESSION: Mild global hypokinesis. Mild mitral
+regurgitation. No evidence of endocarditis seen. If clinically
+suggested, the absence of a vegetation by 2D echocardiography
+does not exclude endocarditis. Compared with the prior study
+(images reviewed) of [**2134-10-29**], the findings are similar.
+Abnormal septal motion was seen on the prior study also.
+
+[**11-14**] MRI shoulder: The lymphomatous mass in the right axilla,
+encasing the right brachial plexus has increased in size
+compared to prior imaging.
+
+[**11-17**] U/S: No evidence of DVT in the right upper extremity.
+
+[**11-18**] CT torso: read pending at time of discharge, will be
+followed up at outpatient appt on Monday [**11-22**]
+
+
+Brief Hospital Course:
+Assessment and Plan: Mrs. [**Known lastname 52**] is a 63-year-old woman with
+recurrent Burkitt's lymphoma who is D+15 of [**Hospital1 **] admitted from
+an OSH with hypotension and neutropenia after a syncopal episode
+at home.
+.
+# Hypotension/Syncope: She was found to be hypotensive to 58/38
+by EMS, which responded to fluids. She was fluid resuscitated to
+SBP of 70s by EMS and SBP of 90's by OSH ED prior to transfer.
+Blood cultures were drawn and she was given cefepime and vanco
+and transferred to 7 [**Hospital Ward Name 1826**]. On arrival she was given 2L of
+fluid, 1 unit of blood, and cefepime, vancomycin, and flagyl.
+Her pressures responded. OSH cultures came back as VRE 1:4
+bottles, sensitive to ampicillin, daptomycin, levofloxacin, and
+linezolid. She was switched to ampicillin on [**10-12**] and her PICC
+was pulled. She was switched to daptomycin on Monday [**2134-10-18**]
+because she had begun receiving hyper CVAD part B and amp
+interferes with clearance of methotrexate.  She had a TTE and
+TEE which showed no vegetations. As she was being treated for
+the bacteremia, Ms. [**Known lastname 52**] again became hypotensive and
+febrile, requiring transfer to the [**Hospital Unit Name 153**] where she required
+pressors. Blood cultures were sent and ultimately returned
+positive with pseudomonas, believed to be associated with her
+central line. Her line was pulled and her broad spectrum
+antibiotic coverage (started given her sepsis in the setting of
+neutropenia) was narrowed to cefepime, gentamicin, and
+linezolid. Gentamicin was d/c-ed a few days after transfer to
+the floor and linezolid was transitioned to ampicillin as the
+patient was believed to have leukosuppression secondary to the
+linezolid. She completed a 10 day course of antibiotics (amp and
+cefepime) from the time her ANC was greater than 1000 per ID
+recommendations and remained afebrile and hemodynamically stable
+for the remainder of her hospital course.
+.
+# Burkitt's Lymphoma: She was admitted on day +15 of [**Hospital1 **]. An
+LP with intrathecal chemotherapy was performed on [**2134-10-14**]. A
+subclavian line was placed on [**10-15**] and treatment with hyper
+CVAD part B was started on [**10-16**]. She tolerated her chemotherapy
+well, complicated by mild mucositis and the bacteremia discussed
+above. She had one more round of intrathecal chemotherapy with
+cytarabine on [**11-4**]. LPs on [**11-18**], and [**11-11**] were negative
+for malignant cells. Patient had significant right shoulder and
+arm pain as well as right hand weakness, believed secondary to
+brachial plexus involvement of her lymphoma. She underwent MRI
+of her R shoulder which confirmed this finding and had 4
+sessions of XRT as a palliative therapy. She had 4 LP's which
+were negative for malignant cells. Had IT cytarabine on [**11-18**]
+prior to discharge which she tolerated well. Pt had CT of torso
+to evaluate for progression of disease, read at the time of
+discharge was pending but will be followed up at follow-up
+appointment Monday following discharge when pt will return for
+chemotherapy gemcitabine and vinorelbine. Acyclovir and
+fluconazole were held given elevated LFTs, will trend LFTs as
+outpatient and do liver ultrasound if necessary. Pt was given
+pentamidine prior to discharge for PCP [**Name Initial (PRE) 1102**].
+.
+# Cardiomyopathy: Patient became tachycardic at the time of her
+second episode of sepsis. This continued intermittently through
+her [**Hospital Unit Name 153**] stay and subsequently on the floor. Tachycardia was
+sinus in nature, up into the 140s with movement, and was
+attributed to an underlying cardiomyopathy (EF 45-50% on echo,
+last on [**10-29**]). Cardiology was consulted for management and she
+was started on metoprolol 12.5mg [**Hospital1 **] which she tolerated well.
+.
+# DVT: Found to have right upper extremity DVT last admission
+and was on lovenox for that until she had a drop in platelets
+(treatment related). She was thrombocytopenic during her
+admission and her lovenox was held. An ultrasound of the arm was
+repeated and was negative for clot.
+.
+# Hypothyroidism: Stable. Continued Levothyroxine 100mcg PO
+daily
+.
+# Depression: Patient was frequently tearful and endorsed
+saddened mood and symptoms of depression. Was started on
+citalopram 10 mg daily.
+
+
+Medications on Admission:
+1. acyclovir 400 mg PO Q8 hours
+2. clonazepam 0.5 mg PO TID PRN for anxiety.
+3. levothyroxine 100 mcg PO DAILY
+4. pyridoxine 50 mg PO DAILY
+5. docusate sodium 100 mg PO BID
+6. nystatin 100,000 unit/mL Suspension 5 ML PO QID
+7. senna 8.6 mg PO QHS PRN constipation
+8. gabapentin 600 mg PO TID
+9. polyethylene glycol 17 gram/dose Powder PO Daily PRN
+constipation
+10. MS contin 60 mg PO Q8H
+11. hydromorphone 2-4 mg PO Q4h prn pain
+12. saliva substitution 30ML QID
+13. enoxaparin 60 mg/0.6 mL Subcutaneous Q12H
+14. filgrastim 300 mcg/mL SC Inj Q24H for 5 days.
+15. dexamethasone 2 mg PO DAILY
+
+
+Discharge Medications:
+1. clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO QHS (once a
+day (at bedtime)) as needed for insomnia.
+2. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. pyridoxine 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. docusate sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day).
+5. nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day) as needed for thrush.
+6. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for Constipation.
+7. gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q8H (every
+8 hours).
+8. oxycodone 30 mg Tablet Sustained Release 12 hr Sig: One (1)
+Tablet Sustained Release 12 hr PO Q12H (every 12 hours).
+Disp:*60 Tablet Sustained Release 12 hr(s)* Refills:*0*
+9. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain.
+10. dexamethasone 4 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+11. citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+12. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **] VNA
+
+Discharge Diagnosis:
+Burkitt's lymphoma
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Ms. [**Known lastname 52**],
+
+You were admitted to the hospital with an infection in your
+blood. You had a short stay in the ICU and were treated with
+antibiotics and recovered. During your hospitalization you
+received chemotherapy and radiation therapy for your Burkitt's
+lymphoma.
+
+You will be returning on Monday for outpatient chemotherapy.
+Please call if you have any symptoms or concerns before then.
+
+We have made the following changes to your medications:
+Take metoprolol 12.5mg twice a day for blood pressure
+Take celexa 10mg daily for depression
+Take dexamethasone 4mg daily
+Take OxyContin 30mg twice a day for long-acting pain control
+You can continue your home dilaudid 2-4mg every 6hrs as needed
+for breakthrough pain
+Please do not take acyclovir or fluconazole until you follow-up
+as an outpatient because these medications can elevate liver
+labs
+
+It was a pleasure taking care of you. We wish you a speedy
+recovery.
+
+Followup Instructions:
+The following appointment has been scheduled for you:
+
+Department: [**Known lastname 3242**]/ONCOLOGY UNIT
+When: MONDAY [**2134-11-22**] at 9:30 AM [**Telephone/Fax (1) 447**]
+Building: Fd [**Hospital Ward Name 1826**] Building ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) 3971**]
+Campus: EAST     Best Parking: Main Garage
+
+
+
+Completed by:[**2134-11-19**]

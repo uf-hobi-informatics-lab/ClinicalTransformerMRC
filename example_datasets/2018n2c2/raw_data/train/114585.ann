@@ -1,0 +1,252 @@
+T1	Dosage 10000 10007	One (1)
+R1	Dosage-Drug Arg1:T1 Arg2:T142
+T2	Form 10008 10018	Recon Soln
+R2	Form-Drug Arg1:T2 Arg2:T142
+T3	Route 10019 10030	Intravenous
+R3	Route-Drug Arg1:T3 Arg2:T142
+T4	Frequency 10032 10051	Q6H (every 6 hours)
+R4	Frequency-Drug Arg1:T4 Arg2:T142
+T5	Drug 10057 10075	Heparin Lock Flush
+T6	Drug 10077 10084	Porcine
+T7	Strength 10086 10097	100 unit/mL
+R5	Strength-Drug Arg1:T7 Arg2:T5
+R6	Strength-Drug Arg1:T7 Arg2:T6
+T8	Form 10098 10105	Syringe
+R7	Form-Drug Arg1:T8 Arg2:T5
+R8	Form-Drug Arg1:T8 Arg2:T6
+T9	Dosage 10111 10114;10115 10118	One (1)
+R9	Dosage-Drug Arg1:T9 Arg2:T5
+R10	Dosage-Drug Arg1:T9 Arg2:T6
+T10	Form 10119 10121	ML
+R11	Form-Drug Arg1:T10 Arg2:T5
+R12	Form-Drug Arg1:T10 Arg2:T6
+T11	Route 10122 10133	Intravenous
+R13	Route-Drug Arg1:T11 Arg2:T5
+R14	Route-Drug Arg1:T11 Arg2:T6
+T12	Frequency 10135 10158	DAILY (Daily) as needed
+R15	Frequency-Drug Arg1:T12 Arg2:T5
+R16	Frequency-Drug Arg1:T12 Arg2:T6
+T13	Reason 1558 1566	colon Ca
+R17	Reason-Drug Arg1:T13 Arg2:T14
+T14	Drug 1602 1607	chemo
+T15	Drug 4379 4387	steroids
+T17	Duration 4466 4473	6 month
+R19	Duration-Drug Arg1:T17 Arg2:T18
+T18	Drug 4474 4481	steroid
+T19	Dosage 4482 4487	taper
+R20	Dosage-Drug Arg1:T19 Arg2:T18
+T20	Dosage 4520 4527	tapered
+R21	Dosage-Drug Arg1:T20 Arg2:T21
+T21	Drug 4528 4538	prednisone
+T22	Duration 4545 4553	one week
+R22	Duration-Drug Arg1:T22 Arg2:T21
+T24	Drug 5349 5360	antibiotics
+T25	Drug 5930 5945	antidepressents
+T26	Reason 6189 6203	Klebsiella uti
+R24	Reason-Drug Arg1:T26 Arg2:T27
+R25	Reason-Drug Arg1:T26 Arg2:T28
+T27	Drug 6227 6232	Cipro
+T28	Drug 6237 6243	Flagyl
+T29	Reason 6252 6257	wound
+R26	Reason-Drug Arg1:T29 Arg2:T28
+T30	Duration 6260 6266	4 days
+R27	Duration-Drug Arg1:T30 Arg2:T28
+T31	Drug 6303 6308	Vanco
+T32	Drug 6313 6322	Meropenum
+T33	Reason 6330 6343	wound culture
+R28	Reason-Drug Arg1:T33 Arg2:T32
+R29	Reason-Drug Arg1:T33 Arg2:T31
+T34	Drug 6457 6461	levo
+T35	Drug 6462 6471	oxicillin
+T36	Drug 6472 6482	penicillin
+T37	Drug 6500 6505	vanco
+T38	Drug 6507 6512	Vanco
+T39	Drug 7100 7108	coumadin
+T41	Drug 7116 7123	heparin
+T42	Route 7842 7846	oral
+R31	Route-Drug Arg1:T42 Arg2:T43
+T43	Drug 7847 7855	contrast
+T44	Drug 8161 8170	meropenum
+T45	Drug 8171 8176	vanco
+T46	Drug 8702 8713	hydralazine
+T47	Strength 8714 8716	25
+R32	Strength-Drug Arg1:T47 Arg2:T46
+T48	Frequency 8716 8718	q8
+R33	Frequency-Drug Arg1:T48 Arg2:T46
+T49	Drug 8720 8724	HCTZ
+T50	Strength 8725 8727	25
+R34	Strength-Drug Arg1:T50 Arg2:T49
+T51	Drug 8729 8732	KCl
+T52	Strength 8733 8735	40
+R35	Strength-Drug Arg1:T52 Arg2:T51
+T53	Drug 8764 8775	Hydralazine
+T54	Strength 8776 8781	25 mg
+R36	Strength-Drug Arg1:T54 Arg2:T53
+T55	Form 8782 8788	Tablet
+R37	Form-Drug Arg1:T55 Arg2:T53
+T56	Dosage 8794 8801	One (1)
+R38	Dosage-Drug Arg1:T56 Arg2:T53
+T57	Form 8802 8808	Tablet
+R39	Form-Drug Arg1:T57 Arg2:T53
+T58	Route 8809 8811	PO
+R40	Route-Drug Arg1:T58 Arg2:T53
+T59	Frequency 8812 8824;8825 8831	Q8H (every 8 hours)
+R41	Frequency-Drug Arg1:T59 Arg2:T53
+T60	Drug 8855 8867	Pantoprazole
+T61	Strength 8868 8873	40 mg
+R42	Strength-Drug Arg1:T61 Arg2:T60
+T62	Form 8874 8897	Tablet, Delayed Release
+R43	Form-Drug Arg1:T62 Arg2:T60
+T63	Dosage 8910 8913;8914 8917	One (1)
+R44	Dosage-Drug Arg1:T63 Arg2:T60
+T64	Form 8918 8941	Tablet, Delayed Release
+R45	Form-Drug Arg1:T64 Arg2:T60
+T65	Route 8949 8951	PO
+R46	Route-Drug Arg1:T65 Arg2:T60
+T66	Frequency 8952 8973	Q24H (every 24 hours)
+R47	Frequency-Drug Arg1:T66 Arg2:T60
+T67	Drug 8978 9001	Oxycodone-Acetaminophen
+T68	Strength 9002 9010	5-325 mg
+R48	Strength-Drug Arg1:T68 Arg2:T67
+T69	Form 9011 9017	Tablet
+R49	Form-Drug Arg1:T69 Arg2:T67
+T70	Dosage 9023 9026	1-2
+R50	Dosage-Drug Arg1:T70 Arg2:T67
+T71	Form 9027 9034	Tablets
+R51	Form-Drug Arg1:T71 Arg2:T67
+T72	Route 9035 9037	PO
+R52	Route-Drug Arg1:T72 Arg2:T67
+T73	Frequency 9038 9074	Q4-6H (every 4 to 6 hours) as needed
+R53	Frequency-Drug Arg1:T73 Arg2:T67
+T74	Drug 9079 9089	Furosemide
+T75	Strength 9090 9095	20 mg
+R54	Strength-Drug Arg1:T75 Arg2:T74
+T76	Form 9096 9102	Tablet
+R55	Form-Drug Arg1:T76 Arg2:T74
+T77	Dosage 9108 9117	Three (3)
+R56	Dosage-Drug Arg1:T77 Arg2:T74
+T78	Form 9118 9124	Tablet
+R57	Form-Drug Arg1:T78 Arg2:T74
+T79	Route 9125 9127	PO
+R58	Route-Drug Arg1:T79 Arg2:T74
+T80	Frequency 9128 9138	once a day
+R59	Frequency-Drug Arg1:T80 Arg2:T74
+T81	Drug 9144 9157	Ciprofloxacin
+T82	Strength 9158 9164	500 mg
+R60	Strength-Drug Arg1:T82 Arg2:T81
+T83	Form 9165 9171	Tablet
+R61	Form-Drug Arg1:T83 Arg2:T81
+T84	Dosage 9177 9184	One (1)
+R62	Dosage-Drug Arg1:T84 Arg2:T81
+T85	Form 9185 9191	Tablet
+R63	Form-Drug Arg1:T85 Arg2:T81
+T86	Route 9192 9194	PO
+R64	Route-Drug Arg1:T86 Arg2:T81
+T87	Frequency 9195 9199;9200 9216	Q12H (every 12 hours)
+R65	Frequency-Drug Arg1:T87 Arg2:T81
+T88	Duration 9217 9228	for 4 doses
+R66	Duration-Drug Arg1:T88 Arg2:T81
+T89	Drug 9233 9255	Insulin Lispro (Human)
+T90	Strength 9256 9267	100 unit/mL
+R67	Strength-Drug Arg1:T90 Arg2:T89
+T91	Form 9268 9276	Solution
+R68	Form-Drug Arg1:T91 Arg2:T89
+T92	Dosage 9289 9302	sliding scale
+R69	Dosage-Drug Arg1:T92 Arg2:T89
+T93	Route 9304 9316	Subcutaneous
+R70	Route-Drug Arg1:T93 Arg2:T89
+T94	Frequency 9317 9336	every six (6) hours
+R71	Frequency-Drug Arg1:T94 Arg2:T89
+T95	Drug 9341 9354	Acetaminophen
+T96	Strength 9355 9361	325 mg
+R72	Strength-Drug Arg1:T96 Arg2:T95
+T97	Form 9362 9368	Tablet
+R73	Form-Drug Arg1:T97 Arg2:T95
+T98	Dosage 9374 9377	1-2
+R74	Dosage-Drug Arg1:T98 Arg2:T95
+T99	Form 9378 9385	Tablets
+R75	Form-Drug Arg1:T99 Arg2:T95
+T100	Route 9386 9388	PO
+R76	Route-Drug Arg1:T100 Arg2:T95
+T101	Frequency 9389 9401;9402 9425	Q4-6H (every 4 to 6 hours) as needed
+R77	Frequency-Drug Arg1:T101 Arg2:T95
+T102	Drug 9430 9441	Bimatoprost
+T103	Strength 9442 9446	0.03 
+R78	Strength-Drug Arg1:T103 Arg2:T102
+T104	Form 9449 9454	Drops
+R79	Form-Drug Arg1:T104 Arg2:T102
+T105	Dosage 9460 9467	One (1)
+R80	Dosage-Drug Arg1:T105 Arg2:T102
+T106	Route 9469 9479	Ophthalmic
+R81	Route-Drug Arg1:T106 Arg2:T102
+T107	Frequency 9481 9486;9487 9494	DAILY (Daily)
+R82	Frequency-Drug Arg1:T107 Arg2:T102
+T108	Drug 9499 9509	Prednisone
+T109	Strength 9510 9514	5 mg
+R83	Strength-Drug Arg1:T109 Arg2:T108
+T110	Form 9515 9521	Tablet
+R84	Form-Drug Arg1:T110 Arg2:T108
+T111	Dosage 9527 9534	One (1)
+R85	Dosage-Drug Arg1:T111 Arg2:T108
+T112	Form 9535 9541	Tablet
+R86	Form-Drug Arg1:T112 Arg2:T108
+T113	Route 9542 9544	PO
+R87	Route-Drug Arg1:T113 Arg2:T108
+T114	Frequency 9545 9558	DAILY (Daily)
+R88	Frequency-Drug Arg1:T114 Arg2:T108
+T115	Drug 9565 9584	Metoprolol Tartrate
+T116	Strength 9585 9590	50 mg
+R89	Strength-Drug Arg1:T116 Arg2:T115
+T117	Form 9591 9597	Tablet
+R90	Form-Drug Arg1:T117 Arg2:T115
+T118	Dosage 9603 9606	2.5
+R91	Dosage-Drug Arg1:T118 Arg2:T115
+T119	Form 9607 9614	Tablets
+R92	Form-Drug Arg1:T119 Arg2:T115
+T120	Route 9615 9617	PO
+R93	Route-Drug Arg1:T120 Arg2:T115
+T121	Frequency 9618 9624;9625 9637	BID (2 times a day)
+R94	Frequency-Drug Arg1:T121 Arg2:T115
+T122	Drug 9643 9661	Miconazole Nitrate
+T124	Form 9666 9672	Powder
+R96	Form-Drug Arg1:T124 Arg2:T122
+T125	Dosage 9678 9685	One (1)
+R97	Dosage-Drug Arg1:T125 Arg2:T122
+T126	Form 9686 9690	Appl
+R98	Form-Drug Arg1:T126 Arg2:T122
+T127	Route 9691 9698	Topical
+R99	Route-Drug Arg1:T127 Arg2:T122
+T128	Frequency 9700 9703;9704 9719	TID (3 times a day)
+R100	Frequency-Drug Arg1:T128 Arg2:T122
+T129	Drug 9736 9744	Warfarin
+T130	Strength 9745 9749	2 mg
+R101	Strength-Drug Arg1:T130 Arg2:T129
+T131	Form 9750 9756	Tablet
+R102	Form-Drug Arg1:T131 Arg2:T129
+T132	Dosage 9762 9769	Two (2)
+R103	Dosage-Drug Arg1:T132 Arg2:T129
+T133	Form 9770 9776	Tablet
+R104	Form-Drug Arg1:T133 Arg2:T129
+T134	Route 9777 9779	PO
+R105	Route-Drug Arg1:T134 Arg2:T129
+T135	Frequency 9780 9790	once a day
+R106	Frequency-Drug Arg1:T135 Arg2:T129
+T136	Drug 9837 9859	Vancomycin in Dextrose
+T137	Strength 9860 9870	1 g/200 mL
+R107	Strength-Drug Arg1:T137 Arg2:T136
+T138	Form 9871 9880	Piggyback
+R108	Form-Drug Arg1:T138 Arg2:T136
+T139	Dosage 9886 9893	One (1)
+R109	Dosage-Drug Arg1:T139 Arg2:T136
+T140	Route 9894 9905	Intravenous
+R110	Route-Drug Arg1:T140 Arg2:T136
+T141	Frequency 9907 9929	Q 24H (Every 24 Hours)
+R111	Frequency-Drug Arg1:T141 Arg2:T136
+T142	Drug 9967 9976	Meropenem
+T143	Strength 9977 9983	500 mg
+R112	Strength-Drug Arg1:T143 Arg2:T142
+T144	Form 9984 9994	Recon Soln
+R113	Form-Drug Arg1:T144 Arg2:T142
+T16	Route 7113 7115	IV
+R18	Route-Drug Arg1:T16 Arg2:T41	
+T23	Route 5346 5348	IV

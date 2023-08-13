@@ -1,0 +1,119 @@
+T1	Drug 1563 1573	Vancomycin
+T2	Strength 1586 1592	125 mg
+T3	Form 1574 1578;1579 1585	Oral Liquid
+T4	Route 1593 1595;1595 1598	PO /NG
+T5	Drug 1348 1358	PredniSONE
+T6	Strength 1359 1364	40 mg
+T7	Route 1365 1367	PO
+T8	Drug 1299 1309	Omeprazole
+T9	Strength 1310 1315	20 mg
+T10	Frequency 1319 1322	BID
+T11	Route 1316 1318	PO
+T12	Drug 1164 1174	Gabapentin
+T13	Strength 1175 1181	300 mg
+T14	Route 1182 1184	PO
+T15	Drug 818 828	prednisone
+T16	Drug 1199 1212	LeVETiracetam
+T17	Frequency 1230 1233	BID
+T18	Route 1227 1229	PO
+T19	Drug 1105 1113	dilantin
+T20	Drug 1619 1626;1627 1670	Calcium 500 + D *NF* (calcium carbonate-vitamin D3)
+T21	Route 1697 1701	Oral
+T22	Drug 1139 1148	Donepezil
+T23	Strength 1149 1154	10 mg
+T24	Route 1155 1157	PO
+T25	Drug 1237 1247;1248 1256	Metoprolol Tartrate
+T26	Strength 1257 1264	12.5 mg
+T27	Frequency 1268 1271	BID
+T28	Route 1265 1267	PO
+T29	Drug 1533 1544	Simvastatin
+T30	Strength 1545 1550	20 mg
+T31	Route 1551 1553	PO
+T32	Drug 863 873	prednisone
+T33	Strength 877 882	40 mg
+T34	Route 874 876	po
+T35	Duration 883 886;887 889	for 2w
+T36	Strength 896 901	30 mg
+T37	Duration 902 905;906 908	for 2w
+T38	Strength 915 920	20 mg
+T40	Strength 935 940	10 mg
+T41	Duration 941 952	for 2 weeks
+T42	Frequency 1158 1160	HS
+T43	Frequency 1185 1187	HS
+T44	Reason 1188 1195	Seizure
+T45	Reason 1323 1344	gastritis prophylaxis
+T46	Frequency 1368 1373	DAILY
+T47	Reason 1374 1387	drug reaction
+T48	Duration 1398 1405	6 Weeks
+T49	Strength 1406 1411	40 mg
+T50	Route 1412 1414	po
+T51	Strength 1431 1436	30 mg
+T52	Route 1437 1439	po
+T53	Duration 1440 1450	for 2 week
+T54	Strength 1457 1462	20 mg
+T55	Route 1463 1465	po
+T56	Duration 1466 1469;1470 1476	for 2 week
+T57	Strength 1482 1487	10 mg
+T58	Duration 1488 1498	for 2 week
+T59	Frequency 1554 1559	DAILY
+T60	Reason 1719 1743	osteoporosis prophylaxis
+T61	Strength 1671 1674;1675 1677	500 mg
+T62	Strength 1678 1685	1,250mg
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Form-Drug Arg1:T3 Arg2:T1
+R3	Route-Drug Arg1:T4 Arg2:T1
+R4	Strength-Drug Arg1:T6 Arg2:T5
+R5	Route-Drug Arg1:T7 Arg2:T5
+R6	Strength-Drug Arg1:T9 Arg2:T8
+R7	Frequency-Drug Arg1:T10 Arg2:T8
+R8	Route-Drug Arg1:T11 Arg2:T8
+R9	Strength-Drug Arg1:T13 Arg2:T12
+R10	Route-Drug Arg1:T14 Arg2:T12
+R11	Frequency-Drug Arg1:T17 Arg2:T16
+R12	Route-Drug Arg1:T18 Arg2:T16
+R13	Route-Drug Arg1:T21 Arg2:T20
+R14	Strength-Drug Arg1:T23 Arg2:T22
+R15	Route-Drug Arg1:T24 Arg2:T22
+R16	Strength-Drug Arg1:T26 Arg2:T25
+R17	Frequency-Drug Arg1:T27 Arg2:T25
+R18	Route-Drug Arg1:T28 Arg2:T25
+R19	Strength-Drug Arg1:T30 Arg2:T29
+R20	Route-Drug Arg1:T31 Arg2:T29
+R21	Strength-Drug Arg1:T33 Arg2:T32
+R22	Route-Drug Arg1:T34 Arg2:T32
+R23	Duration-Drug Arg1:T35 Arg2:T32
+R24	Strength-Drug Arg1:T36 Arg2:T32
+R25	Duration-Drug Arg1:T37 Arg2:T32
+R26	Strength-Drug Arg1:T38 Arg2:T32
+R28	Strength-Drug Arg1:T40 Arg2:T32
+R29	Duration-Drug Arg1:T41 Arg2:T32
+R30	Frequency-Drug Arg1:T42 Arg2:T22
+R31	Frequency-Drug Arg1:T43 Arg2:T12
+R32	Reason-Drug Arg1:T44 Arg2:T12
+R33	Reason-Drug Arg1:T45 Arg2:T8
+R34	Frequency-Drug Arg1:T46 Arg2:T5
+R35	Reason-Drug Arg1:T47 Arg2:T5
+R36	Duration-Drug Arg1:T48 Arg2:T5
+R37	Strength-Drug Arg1:T49 Arg2:T5
+R38	Route-Drug Arg1:T50 Arg2:T5
+R39	Strength-Drug Arg1:T51 Arg2:T5
+R40	Route-Drug Arg1:T52 Arg2:T5
+R41	Duration-Drug Arg1:T53 Arg2:T5
+R42	Strength-Drug Arg1:T54 Arg2:T5
+R43	Route-Drug Arg1:T55 Arg2:T5
+R44	Duration-Drug Arg1:T56 Arg2:T5
+R45	Strength-Drug Arg1:T57 Arg2:T5
+R46	Duration-Drug Arg1:T58 Arg2:T5
+R47	Frequency-Drug Arg1:T59 Arg2:T29
+R48	Reason-Drug Arg1:T60 Arg2:T20
+R49	Strength-Drug Arg1:T61 Arg2:T20
+T63	Dosage 829 834	taper
+T64	ADE 1082 1088	drowsy
+T65	Duration 1415 1424	for2 week
+T66	Dosage 1688 1696	200 unit
+T67	Drug 279 290	Penicillins
+T68	Duration 1754 1761	8 Weeks
+R50	ADE-Drug Arg1:T64 Arg2:T19	
+R51	Duration-Drug Arg1:T65 Arg2:T5	
+R52	Strength-Drug Arg1:T62 Arg2:T20	
+R53	Dosage-Drug Arg1:T66 Arg2:T20	

@@ -1,0 +1,409 @@
+Admission Date:  [**2170-3-26**]              Discharge Date:   [**2170-4-16**]
+
+Date of Birth:  [**2101-3-19**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 45556**]
+Chief Complaint:
+GI bleeding, respiratory distress
+
+Major Surgical or Invasive Procedure:
+s/p central line placement
+
+
+History of Present Illness:
+68-year-old male with a history of hypertension and gout who is
+being treated on the biologics service with IL-2 for metastatic
+melanoma.  He began the protocol on Monday and had been
+tollerating the TID IL-2 infusions, but had a decline in his
+plts from 200 to 56 as well as a 11# weight gain attributed to
+capillary leak.  He also had significant electrolyte imbalances,
+tachycardia, and tachypnea expected from this protocol.
+   On the day of [**Hospital Unit Name 153**] transfer, patient had some mild epigastric
+discomfort and complained to his daughter of heartburn.  Of
+note, he was on daily indocin while on IL-2 therapy.  At 10pm,
+he developed some diarrhea and then had an episode of nausea and
+vomiting.  The covering MD noted 2 very large blood clotts in
+the emesis.  Noted increased RR of 40s, was 84% on RA and then
+improved to 100% on 4L NC.  Biologics attending was not
+concerned about other parameters, but was worried abt bleeding
+as patient may be at risk for bleeding given his plts have
+dropped in the past few days.
+  Brought to [**Hospital Unit Name 153**], GI team asks for FFP, plts.  Pt has guiac
+positive brown stools, but complains of hemorrhoids and some
+rectal irritation that may be contributing.  Holding on NG
+lavage unless patient becomes unstable.  First two hcts are
+stable.
+
+Past Medical History:
+Onc Hx per OMED notes:
+Pt was diagnosed with melanoma in [**4-/2167**] when he was found to
+have a mole on his left abdomen.  He underwent wide local
+excision and sentinel lymph node biopsy at that time which
+revealed no residual melanoma and the 3 sentinel nodes were
+negative.  Two years later in [**4-18**], he developed a red raised
+nodule under the scar of the local excision.  This was reexcised
+and he subsequently did well until [**8-/2169**] when he had another
+satellite recurrence and reexcision.  He then had a third
+satellite recurrence and reexcision in [**10/2169**] and was then
+started on interferon therapy that was stopped [**2-15**] side effects.
+Recent PET/CT done revealed a left axillary lymphadenopathy as
+well as 2 liver lesions.
+..
+..
+PmHx:  melanoma, Gout, Htn.  Reports recent normal EGD and
+colonoscopy
+
+
+Social History:
+Married, 4 kids, quit smoking 35 years ago (prior 7pk yr hx),
+rare EtOH use, retired engineer
+.
+
+Family History:
+Father with lung cancer
+
+Physical Exam:
+PE:  98.2  133-152/72-75  HR 132  RR 28  100% 4L NC
+Gen: obese, breathing rapidly, no acute distress, comfortable,
+alert
+HEENT: mm dry, op clear, neck supple with tripple lumen in
+place, eomi
+CV: distant HS, tachy s1s2 no m/r/g
+Lungs: crackles noted bilat, L>R, otherwise clear
+Abd: obsese, multiple metastatic nodules palpable on L side of
+abdomen, soft, nt/nd, active bs
+Ext: 1+ edema bilat
+Rectal: brown guiac positive stools
+
+Pertinent Results:
+CXR PORTABLE [**3-27**]
+IMPRESSION: Minimal patchy basilar opacities likely due to
+atelectasis. No evidence of pulmonary edema.
+.
+[**2170-3-31**] CXR PORTABLE
+IMPRESSION: New diffuse bilateral parenchymal opacities
+compatible with pulmonary edema.
+.
+[**2170-3-31**]
+CHEST XR: A single AP supine view is compared to previous
+examination earlier from the same day. Again seen extensive
+bilateral parenchymal opacities suggesting pulmonary edema.
+There is more dense consolidation in left lower lobe with air
+bronchogram, compatible with pneumonia. There is a new
+endotracheal tube with the tip overlying T3.
+.
+[**2170-4-2**]
+BILATERAL LE DOPPLER
+IMPRESSION: No evidence of lower extremity DVT.
+.
+ECHO [**2170-4-2**]: EF>60%
+Conclusions:
+1. The left atrium is mildly dilated.
+2. Left ventricular wall thickness, cavity size, and systolic
+function are normal (LVEF>55%). Regional left ventricular wall
+motion is normal.
+3. The right ventricular cavity is moderately dilated. Right
+ventricular systolic function appears depressed.
+4. The aortic valve leaflets (3) are mildly thickened. No aortic
+regurgitation is seen.
+5. The mitral valve leaflets are mildly thickened. Trivial
+mitral
+regurgitation is seen.
+6. There is a trivial pericardial effusion.
+.
+[**2170-4-4**] RENAL US
+IMPRESSION:
+1. Multiple left kidney stones, the largest measuring 2.1 cm in
+the mid pole. No evidence of hydronephrosis. Multiple parapelvic
+cysts.
+2. Right kidney stone. No evidence of hydronephrosis.
+.
+[**2170-4-7**] LIVER/GB ULTRASOUND
+IMPRESSION:
+1. No evidence of intra- or extrahepatic biliary ductal
+dilation. No evidence of cholecystitis. 1.3 cm shadowing
+gallstone.
+2. Two hypoechoic liver lesions likely corresponding to the
+lesions seen on CT. Metastatic disease to the liver is within
+the differential.
+.
+[**2170-4-9**] CXR
+IMPRESSION: AP chest compared to [**4-2**] and 24:
+Left lower lobe consolidation is clearing, probably resolving
+atelectasis. Pulmonary vascular congestion is present but edema
+has not returned. Azygous distention indicates volume overload.
+Heart size is top normal. No pleural effusion or pneumothorax.
+ET tube and right subclavian line are in standard placements and
+a nasogastric tube passes through the mid stomach and out of
+view.
+.
+*** CULTURE DATA ***
+[**4-11**] urine cx neg
+[**4-10**] blood cx X 6 pending
+[**4-10**] sputum cx: 2+ GPC in pairs, sparse growth oropharyngeal
+flora
+[**4-10**] stool: O&P pending
+[**4-7**] blood cultures neg
+[**4-7**] worm macroscopic pending
+[**4-6**] CMV VL not detected
+[**4-6**] Crytococcus negative
+[**4-5**] Rapid resp viral negative
+[**4-5**] BAL: oropharyngeal flora, no PMN, no microorg, neg fungal,
+AFB
+
+
+Brief Hospital Course:
+HOSPITAL COURSE:  On the day of [**Hospital Unit Name 153**] transfer, [**2170-3-29**], patient
+had some mild epigastric discomfort and complained to his
+daughter of heartburn. Of note, he was on daily indocin while on
+IL-2 therapy. At 10pm, he developed some diarrhea and then had
+an episode of nausea and vomiting. The covering MD noted 2 very
+large blood clots in the emesis. Noted increased RR of 40s, was
+84% on RA and then improved to 100% on 4L NC. Biologics
+attending was not concerned about other parameters, but was
+worried about bleeding as patient may be at risk for bleeding
+given his plts have dropped in the past few days.
+.
+Brought to [**Hospital Unit Name 153**], GI team requested FFP, plts. Pt has guiac
+positive brown stools, and complained of hemorrhoids and some
+rectal irritation that may be contributing. He was not scoped
+emergently that night, and his vitals were closely followed,
+along with Hct.  His Hct was noted to be stable, with stable VS,
+and no episodes of melena.  GI felt no emergent need for EGD.
+He is receiving PPI [**Hospital1 **].  On [**4-1**], the pt was intubated for
+respiratory distress secondary to pulmonary edema thought to be
+secondary to capillary leak syndrome from HD IL-2.  He underwent
+diuresis and was started on levo/flagyl for ?LLL PNA, started
+[**3-31**].  On [**4-3**], levo/flagyl d/c'd as all cx negative, pt
+afebrile.  Another reason abx d/c'd was b/c pt developed a rash
+thought to be a drug hypersensitivity reaction, which improved
+post d/c abx.  ID was consulted [**4-4**] for continued fevers and
+recommended the initiation of broad spectrum abx incl.
+Vancomycin, Aztreonam, and Flagyl (stopped [**4-8**]), RUQ US to r/o
+cholangitis (b/c pt had elev LFTs), and stated would not give
+steroids, and would do bronchoscopy/BAL for most likely pulm
+source.  Chest CT demonstrated b/l lower lobe infiltrates c/w
+pulm edema vs. PNA.  Pt underwent Bronch [**4-5**], showing limited
+eval of right sided airways, lavage with RLL post segment,
+result: no PMN, no microorg, grew OP flora, PCP negative, AFB
+negative.  Vancomycin was continued for ? line infection, and
+b/c the pt had difficult access, his line was continued for 19
+days.  He has been on Vanco for 8 days. The pt's LFT elevation
+was attributed to IL-2 therapy, a known side effect.
+.
+Also, he was noted to have renal insufficiency, with Cr to 1.6,
+and eosinophilia, with presumed AIN.  His creatinine continued
+to rise to 2.6 (baseline 0.9).  He was given prednisone, which
+was subsequently d/c'd.  Renal was consulted [**2170-4-5**] and
+recommended for pt to increase free water intake.  They felt he
+had a number of reasons to have ARF, including: capillary leak
+syndrome, NSAIDs, infection, contrast on [**4-2**], and drug reaction
+though no eos or WBC in urine.  The pt's creatinine demonstrated
+slow improvement, was 1.4 [**4-7**], and on transfer from ICU, his Cr
+was 0.9 (baseline).
+.
+Subjectively on transfer from [**Hospital Unit Name 153**] to the medical floor, the pt
+felt well, is laughing and joking with family, and has no pain
+complaints.  States his breathing if fine.  No cough, fever,
+chills.  No N/V.  No abd pain.  No diarrhea or constipation.  No
+dysuria.  No chest pain or shortness of breath.
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+________________________________________________________________
+Impression:  A/P: 69 M with metastatic melanoma s/p IL-2
+therapy, last dose at 3 pm [**3-29**], now with fevers, resp failure
+[**2-15**] non-cardiogenic pulm edema; now improving, extubated [**4-12**],
+and satting well on NC.  Resolved ARF.  s/p Drug
+hypersensitivity reaction with discontinuation of all
+antibiotics and improvement.
+.
+#. Pulmonary status s/p respiratory distress: Mr. [**Known lastname 64730**] was
+intubated initially [**3-31**] for resp distress, thought secondary to
+non-cardiogenic pulm edema from capillary leak syndrome from
+Il-2, with possible contribution from PNA. LLL inbfiltrate on
+CXR, fevers, but sputum never grew anything, so unclear if PNA
+vs atalectasis. He was intially started on levaquin and flagyl.
+Chest CT showed lower lobe infiltrates c/w pulm edema vs PNA.
+Lenis were neg, but he did not have a CTA because of renal
+failure. He has no h/o CHF, COPD or asthma. No Echo on file. The
+pt was then taken off all abx on [**4-11**] because all cx data was
+negative and fevers seemed likely due to acute interstitial
+nephritis given eosinophilia, ARF, rash versus due to his
+melanoma and IL'2 treatment. ID was consulted, recommended
+bronchoscopy and labs, empiric sntibiotics for presumed Hospital
+acquired PNA vs. line infection, so he was started on
+vancomycin. Bronchoscopy from [**4-5**] was negative. He remained on
+vancomycin for 8 days until his central line was pulled.  We
+then discontinued Vancomycin IV.
+-now on room air, sats stable
+-nebs prn if needed
+-chest PT, mobilize secretions
+-IS to bedside and encourage pt to use
+.
+# ARF, resolved: this was thought to be acute interstitial
+nephritis given fever, rash and ARF with peripheral
+eosinophilia. However, eos negative in urine. Renal consulted
+felt to be pre-renal also question contrast induced nephropathy.
+This fully resolved with hydration, so finally appeared to be
+most likely pre-renal and contrast related.  His creatinine
+continued to be at his baseline.  We ended up restarting his
+outpatient ACEI.  Will see PCP [**Last Name (NamePattern4) **] 1 week.
+.
+# Fever: Unclear etiology still, all cultures negative. He has
+been hemodynamically stable. ID was consulted in the setting of
+contemplating starting steroids.  ID recomended to r/o infection
+BAL prior to starting empiric antibiotics, multiples serologies
+histoplasma antigen, EBV viral load, CMV viral load, cryptococal
+antigen, Strongiloides serology. RUQ u/s. All work up
+unrevealing to date, and fevers tapered off. Afebrile for 6 days
+prior to leaving ICU. Initial empiric a/b regimen with flagyl,
+aztreonam and vanco was D/C'd .  He has remained afebrile on the
+medical floor and has been instructed to report to the ED for
+fever, chills.
+.
+#. Hypernatremia, resolved: Likely due to increase insensible
+lossess. Free water boluses and D5w was given with normalization
+of sodium.
+.
+#. ?Line infection:  Pt was continuing to spike fevers in the
+ICU with a negative panculture workup and no infiltrate.  Other
+sources excluded, so IV vamco empirically given.   His line was
+pulled, no drainage and erythema at site.  His blood cx are
+negative to date.  We stopped IV vancomycin on transfer to
+medical floor, no evidence to support its use.
+.
+#. Metastatic Melanoma:  Il-2 therapy on hold for now. Plan per
+Onc team, attending Dr. [**Last Name (STitle) **] and [**Doctor Last Name **].  His restaging lung
+CT, head CT showed only mediastinal nodes largest 1.7 cm, could
+not assess for pulm nodules given pulm edema.  The pt has follow
+up with Dr. [**Last Name (STitle) **].
+.
+#. GI Bleed:  The pt had emesis with large clots on [**3-28**]. No
+further bleeding, hct has since remained stable stable. The pt
+can continue his PPI.  His Hct has remained stable, as well as
+his vital signs.
+.
+#. Elevated LFTs: stable.  This is a known side effect of IL-2
+therapy.  We held his IL-2, and trended his LFTs, which improved
+over time.
+.
+#  Confusion/ICU psychosis:  Pt had vivid dreams as well as
+hallucinations while in the ICU, and would often speak
+inappropriately at times or answer questions with responses
+unrelated.  He was started on low dose haldol.  On the medical
+floor, the pt was appropriate in conversation, but would
+occasionally state things that he was going to "[**Country 4194**] to herd
+cattle."  On questioning his family, they stated that he has no
+plans for a trip.  He is otherwise appropriate.  He has an
+appointment to follow up with his PCP [**Last Name (NamePattern4) **] 1 week. His haldol was
+not given while he was on the medical floor.
+.
+#. Communication: with pt, wife and daughter [**Telephone/Fax (1) 64731**]
+.
+#. Nutrition:
+The pt initially failed his speech and swallow study, however
+the study was done a few hours post extubation, when the pt
+still had copious secretions.  At the time of transfer to the
+medical floor, the pt was swallowing and chewing fine.  He did
+not experience any choking or coughing episodes with eating, and
+he is tolerating a po diet well.  We did not repeat his swallow
+study.  He does not appear to be an aspiration risk now.
+.
+#. Access: RSC multi-lumen [**3-26**] discontinued, now with pIV
+.
+#. Code: full
+.
+#. Proph: PPI, pneumoboots, heparin sq tid
+.
+#. Dispo: Home with physical therapy services. Follow up with
+PCP.  [**Name10 (NameIs) **] has a CAT scan scheduled for the last week in [**Month (only) 547**],
+followed by a Heme/Onc appt on [**5-16**].
+
+Medications on Admission:
+hctz, atenelol, lisinopril, allopurinol, MVI
+
+Discharge Medications:
+1. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) puffs
+Inhalation every 4-6 hours as needed for shortness of breath or
+wheezing.
+Disp:*1 MDI* Refills:*2*
+2. Atrovent 18 mcg/Actuation Aerosol Sig: Two (2) puffs
+Inhalation every 4-6 hours as needed for shortness of breath or
+wheezing.
+Disp:*1 MDI* Refills:*2*
+3. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+4. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+5. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO
+DAILY (Daily).
+Disp:*30 Capsule(s)* Refills:*2*
+6. Atenolol 100 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 1110**] VNA
+
+Discharge Diagnosis:
+Primary Diagnoses:
+1.  Metastatic melanoma status post High dose IL-2 therapy
+2.  Capillary Leak Syndrome secondary to High dose IL-2
+3.  Acute Renal Failure
+4.  Fever
+5.  Hypernatremia
+6.  Elevated liver function tests secondary to high dose IL-2
+Secondary Diagnoses:
+1.  Hypertension
+2.  Gout
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Notify Dr.[**Name (NI) 46582**] office for fever, chills, bleeding, shortness
+of breath, persistent swelling or inability to take oral fluids.
+ Please take all of your medications as directed.  Please follow
+up with your doctors (see information below).
+
+Followup Instructions:
+You have a follow up appointment with your Primary care
+physician, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) 518**] [**Last Name (NamePattern1) 64732**], for Thursday, [**2170-4-26**]
+at 1:30pm.  His office number is: [**Telephone/Fax (1) 64733**] if you have any
+questions.
+Provider: [**Name10 (NameIs) **] SCAN Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2170-5-9**] 10:15
+Provider: [**Known firstname **] [**Last Name (NamePattern4) 9402**], MD Phone:[**Telephone/Fax (1) 22**]
+Date/Time:[**2170-5-16**] 4:30
+Provider: [**Name10 (NameIs) 13145**],[**Name11 (NameIs) **] HEMATOLOGY/ONCOLOGY-CC9
+Date/Time:[**2170-5-16**] 4:30
+
+
+
+Completed by:[**2170-4-16**]

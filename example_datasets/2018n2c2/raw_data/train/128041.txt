@@ -1,0 +1,401 @@
+Admission Date:  [**2147-7-14**]              Discharge Date:   [**2147-8-12**]
+
+Date of Birth:  [**2081-10-16**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3705**]
+Chief Complaint:
+headache, syncope, generalized seizure
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy (twice) for BAL.
+TEE
+Evacuation of left-sided retroperitoneal hematoma
+
+
+History of Present Illness:
+The patient is a 65-year-old male with a mechanical mitral
+valve, on coumadin, and hypertension.  On [**2147-7-14**], he awoke
+feeling generally unwell.  His wife called EMS and - en route to
+[**Name (NI) **] Hospital - the patient had a generalized convulsion.
+The patient had a second generalized convulsion upon entry to
+the [**Location (un) **] ER, he developed a massive tongue hematoma from a
+tongue bite, and underwent a difficult and prolonged intubation
+process.  INR was 3.2, which was in the appropriate range given
+the mechanical valve.  NCHCT revealed ICH and SAH.  He was
+loaded with 1 gram of dilantin and transferred to [**Hospital1 18**].
+
+At [**Hospital1 18**], CTA revealed left sylvian fissure subarachnoid
+hemorrhage extending
+to parietal sulci, 4-mm aneurysm at the left MCA bifurcation
+pointing laterally, 2 to 2.5 mm aneurysm arising from the A2
+segment of the left anterior cerebral artery at the level of
+ventricular bodies.  In the ED,
+the patient received Factor 9 and 1 unit FFP. He subsequently
+received 6 units of platelets and FFP to reverse his
+coagulopathy. He was started on nimodipine and HOB was kept > 30
+degrees.
+
+A subsequent conventional angiogram further delineated the
+aneurysms; the Neurosurgery team felt that these aneurysms were
+unlikely to be the cause of the patient??????s bleeding.  Since there
+would be no further surgical intervention, the patient was
+transferred to the Neurology team in the ICU.
+
+
+Past Medical History:
+Esophageal CA
+CAD
+Mechanical Mitral valve
+s/p CABG x3
+HTN
+Asbestosis
+Bilateral carotid endarterectomy
+
+
+Social History:
+Married, lives with wife.  Occasional EtOH use.
+
+
+Family History:
+No history of known aneurysms.
+
+
+Physical Exam:
+VS 100.4 (t max 101.2)  P 89  BP 92/46   RR 14   100% RA
+Gen; obese middle-aged male, intubated, sedated
+HEENT; markedly edematous tongue with midline laceration,
+covered
+with wet dressing
+CV; RRR, no murmurs
+Pulm; CTA anteriorly
+Abd; soft, NT, ND
+Extr; no edema
+
+Neurologic Examination:
+Propofol has been turned off for 6 minutes at the time of this
+exam.
+Eyes closed, does not follow commands.
+PERRL 4mm to 3mm bilaterally.  Face symmetrical.  Makes
+occasional chewing motions on the ETT. Reaches toward ETT in an
+apparent attempt to remove it.
+Spontaneously moves all 4 limbs symmetrically.  Tone is
+decreased
+throughout.
+Localizes and winces to painful stimuli in all 4 extremities.
+Coordination and gait cannot be tested due to patient??????s state.
+.
+Neurologic Examination on discharge:
+PERRL. Right lower facial droop. CN II-XII otherwise intact.
+Sensation and coordination intact. No pronator drift but
+orbiting shows more weakness on right upper extremity. RUE 5-/5,
+LUE [**5-2**]. Lower extremities [**4-2**] bilaterally at proximal and
+distal muscles. 2+ reflexes on right, 1+ on left, upgoing
+Babinski on right.
+
+
+Pertinent Results:
+[**2147-7-14**]:
+     8.9
+5.2 >---< 69
+    25.5
+.
+137 | 106 | 7   / 209
+4.2 | 16  | 1.0 
+.
+PT 32.1, PTT 36.7, INR 3.2
+fibrinogen 356
+.
+CK 263, CKMB 10 Trop 0.03
+lipase 50
+urine tox screen negative
+.
+UA unremarkable
+.
+ABG:
+[**2147-7-14**] 05:34PM   TYPE-ART TIDAL VOL-550 O2-100 PO2-428*
+PCO2-42 PH-7.38 TOTAL CO2-26 BASE XS-0 AADO2-243 REQ O2-48
+INTUBATED-INTUBATED
+.
+IMAGING:
+.
+Admssion CTA CNS:
+1. Left sylvian fissure subarachnoid hemorrhage extending to
+parietal sulci.
+2. 4-mm aneurysm at the left MCA bifurcation pointing laterally.
+
+3. 2 to 2.5 mm aneurysm arising from the A2 segment of the left
+anterior
+cerebral artery at the level of ventricular bodies.
+.
+CT head [**2147-8-8**]: No evidence of acute new hemorrhage. Area of
+prior hemorrhage in the left subinsular region is less apparent.
+.
+MRI/A: CNS:
+1. Diffuse subarachnoid hemorrhage along the left Sylvian
+fissure
+and left occipital lobe with left temporal lobe hemorrhage,
+magnetic
+susceptibility change is also noted on the left frontal lobe,
+raising the
+possibility of chronic hemorrhage or microbleed (5:16), residual
+
+intraventricular hemorrhage.
+2. The previously noted aneurysms on the left ACA and left MCA
+are not
+clearly identified in this examination.
+3. Sequela of a prior infarction is noted on the right
+cerebellar hemisphere.
+4. Restricted diffusion is noted on the left parietal lobe
+likely consistent with subacute ischemic changes, measuring
+approximately 6 x 7 mm.
+
+Cerebral arteriography:
+2-mm aneurysm of the left middle cerebral artery at the origin
+of the anterior temporal branch.
+This was thought not to be responsible for his left sylvian
+fissure hemorrhage as there was no history of headache at onset
+and the
+hemorrhage itself was located remote from the aneurysm and there
+was no blood in the basal cisterns at all.
+A second aneurysm measuring 1.5-2 mm was also located in the
+left pericallosal artery. The A1 was dominant on the left side
+.
+TTE: Mild symmetric left ventricular hypertrophy with mild
+regional systolic dysfunction. Normal functioning aortic
+bileaflet prosthesis. At least mild mitral regurgitation
+.
+Carotid dupplex showed:  Right ICA stenosis <40%. Left ICA
+stenosis <40%
+.
+CT chest/abd/pelvis;
+1. Large 7 x 9 x 18 cm measuring retroperitoneal hematoma in the
+iliopsoas
+and iliacus muscle
+2. Pleural calcifications consistent with asbestos exposure and
+atelectasis in
+bilateral lungs with round atelectasis in the right lower lobe
+3. Gastric pull-up is visualized status post esophagectomy for
+esophageal
+cancer.
+.
+RUQ U/S: Slight increased echogenicity in the liver. More
+advanced forms
+of liver disease such as fibrosis / cirrhosis not excluded.
+Otherwise normal right upper quadrant ultrasound without
+evidence of biliary abnormality.
+.
+L knee X-ray [**2147-8-8**]:
+ Probable undisplaced tibial fracture, with a large joint
+effusion
+presumably representing hemarthrosis.
+
+Brief Hospital Course:
+#. mental status/neuro exam: The patient's baseline is oriented
+to place, occasionally date (usually knows [**2146**], not month). He
+has bizarre/tangential speech at times, and becomes temporarily
+confused. He has 5/5 strength in upper extremities, 4-/5 in
+lower extremities at both proximal and distal muscles, thought
+to be secondary to deconditioning and ICU myopathy (not due to
+stroke). He has 2+ reflexes on right, 1+ on left. Upgoing
+Babinski on right.
+.
+#. seizures:
+The patient presented after generalized seizures, complicated by
+tongue biting and hematoma. Head CT showed left-sided
+intraparenchymal and subarachnoid hemorrhage.   It was unknown
+whether bleeding was the precipitating event, followed by
+seizure due to parenchymal irritation; or, if seizure occurred
+initially and trauma sustained during the convulsion led to
+bleeding. The patient was loaded with Dilantin and then
+initiated on Keppra for seizure prophylaxis since this does not
+interact with coumadin. He had no further seizure activity int
+he ICU. After transfer to the medical floor, the patient had an
+episode of lower extremity shaking while asleep in a chair,
+witnessed only by wife. This was thought unlikely to represent
+seizure activity, and more likely myoclonic jerks during sleep.
+Neurology was called to see patient at this time. 20 minute EEG
+was done, showing no epileptiform activity. The patient will
+continue on Keppra for at least 6 months. He will follow-up with
+Dr. [**Last Name (STitle) **] in neurology.
+.
+#. ICH:
+The patient underwent a conventional angiogram which did show
+2-mm aneurysm of the left middle cerebral artery at the origin
+of the anterior temporal branch. However, this was thought not
+to be responsible for his left sylvian fissure hemorrhage as
+there was no history of headache at onset and the
+hemorrhage itself was located remote from the aneurysm and there
+was no blood in the basal cisterns at all. He did have an
+intraparenchimal bleed with a SAH component that may have been
+due to amyloid angiopathy and microbleeds in GRE. These added to
+his age and PV white matter disease placed him at a higher risk
+for a new bleed. However, he needed to remain anticoagulated
+because of his mechanical valve. Thoracic surgery was consulted
+about the possibility of pursuing a valve replacement for a
+biological prosthesis to avoid anticoagulation. However, the
+surgical risk was determined to outweigh the benefit of avoiding
+anticoagulation. The patient remained off anticoagulation due to
+this high risk. On [**7-18**], the patient developed new right-sided
+weakness and MRI showed new left MCA infarct. This was thought
+to have originated from AVR thromboembolization. Heparin was
+resumed for goal PTT 40-60 and coumadin was resumed [**8-1**]. Several
+repeat head CT have all been stable, most recent [**2147-8-8**].
+Heparin infusion was stopped once a therapeutic INR was reached
+on warfarin.
+.
+#. Retroperitoneal Bleed:
+After the patient had a stroke off anticoagulation, heparin was
+resumed.  Shortly after, the patient developed worsening anemia
+with HCT eventually falling to 19.  He received a total of 15
+units pRBCs during the hospital course.  His systolic blood
+pressure dropped to the 80s and he became tachycardic.  A CT
+abd/pelvis revealed a large retroperitoneal hematoma.  He
+required very aggressive transfusion of RBCs and underwent
+evacuation of hematoma by vascular surgery on [**7-27**].  He
+tolerated the procedure well and hematocrit has been stable
+since the procedure.  His heparin was resumed with goal PTT
+40-60 on [**7-30**] and was restarted on coumadin [**8-1**].
+.
+The patient was transferred to the neuromedicine step-down
+service on [**8-1**].  He was noted to have intermittant fevers.  CT
+of the torso and head did not reveal any new source. He became
+hypotensive and Hct continued to decrease. EKG was concerning
+for new T wave inversions and a stat ECHO showed possible
+anterior wall motion abnormality, most likely intracranial T
+waves.  The patient responded to IV fluids and placement in
+trendelenberg.  This event was presumed to be due to continued
+retroperitoneal bleeding. Anticoagulation was again held
+temporarily.
+The patient was eventually safely anticoagulated and INR was 3.0
+on day of discharge. The patient's coumadin was being held for
+supratherapeutic INR prior to discharge. PT and PTT are
+elevated, likely due to poor nutritional status. INR will need
+to be monitored daily and coumadin adjusted appropriately to
+maintain goal range 2.5-3.5.  He should have daily INR checks
+and adjustment of dose to maintain INR 2.5-3.5.  At the time of
+discharge, he was restarted on coumadin 4.0 mg daily.
+His hematocrit is currently 27.9 and stable.
+
+#. Respiratory failure: The patient was intubated due to a large
+tongue hematoma.  On [**7-24**] (after extubation) he was found to
+have increased respiration rate and work of breathing.  He had a
+clot removed from his trachea by ENT with moderate resolution of
+symptoms.  He is currently doing well on room air.
+
+#. Ventilator-associated PNA: The [**Hospital 228**] hospital course was
+also complicated by persistent fevers and leukocytosis secondary
+to pneumonia while intubated. He underwent 2 bronchoscopies with
+BAL and samples grew klebsiella, serratia, and staph aureus.  He
+completed a 12-day course of antibiotics, initially started on
+vancomycin and cefepime.  He is currently afebrile with no
+leukocytosis.
+
+#. Gout: The patient developed erythema, swelling and pain of
+the left 1st MTP joint, consistent with gout. He has a prior
+history of gout, so no joint aspiration was done. The patient
+responded well to colchicine with reduced pain and inflammation.
+
+#. Left knee trauma: The patient fell from bed in MICU. X-ray
+showed possible small nondisplaced tibial fracture, but unable
+to see joint line. The patient was weight bearing well with PT.
+
+#. HTN: The patient was continued on metoprolol and Imdur.
+
+#. Code status: DNR
+
+*** Please perform daily INR checks to adjust warfarin dose to
+maintain INR between 2.5-3.5***
+
+Medications on Admission:
+ASA 81mg
+Betimol eye drops 1 gtt L eye daily
+Isosorbide MN 30mg QHS
+Meteorology Succinate 50mg Daily
+Nexium 40mg Daily
+Nitroglycerin PRN
+Pravachol 80mg Daily
+Pro Air HFA 2 puffs prn
+Zetia 10mg Daily
+
+
+Discharge Medications:
+
+
+1. Levetiracetam 1,000 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+2. Levobunolol 0.5 % Drops Sig: One (1) Drop Ophthalmic [**Hospital1 **] (2
+times a day).
+3. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Two (2) Puff Inhalation Q4H (every 4 hours) as needed for
+wheeze.
+4. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+5. Pravastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+7. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO at bedtime.
+8. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+9. Zetia 10 mg Tablet Sig: One (1) Tablet PO once a day.
+10. Warfarin 4 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 700**] - [**Location (un) 701**]
+
+Discharge Diagnosis:
+primary:
+Left frontotemporal intraparenchymal hemorrhage and subarachnoid
+hemorrhage.
+Generalized seizure
+Retroperitoneal hematoma
+Left MCA infarct
+.
+Secondary:
+Coronary Artery Disease
+Mechanical Mitral Valve
+Hypertension
+
+
+Discharge Condition:
+Awake, oriented to person, location, and year.  Tangential
+speech, dysarthric, but fluent language.  Naming and repetition
+intact, follows commands.  EOMI, right lower facial droop,
+tongue midline.  No pronator drift, 5/5 strength in upper
+extremities bilaterally, [**4-2**] in lower extremity bilaterally.
+Upgoing toe on R.
+
+
+Discharge Instructions:
+You were admitted for seizures and intracranial hemorrhage. You
+required intubation to assist your breathing. When your
+bloodthinner was stopped, you had a stroke. You then had a large
+hematoma requiring surgery. You will go to a rehab facility to
+help build back your strength and skills.
+.
+Please continue your medications as prescribed and follow up
+with Dr. [**Last Name (STitle) **] (neurology) as well as Dr. [**Last Name (STitle) **] (vascular)
+as directed.  Return to the Emergency Department immediately for
+any new weakness or numbness, difficulty speaking, visual
+changes, lightheadedness, or shortness of breath.
+
+Followup Instructions:
+[**2147-8-17**] 2:00
+Vascular Surgery; [**First Name11 (Name Pattern1) 1112**] [**Last Name (NamePattern4) 2604**], MD
+Phone:[**Telephone/Fax (1) 1237**]
+.
+[**2147-9-6**]  03:30p
+Neurology; [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD.  ([**Telephone/Fax (1) 7394**].  [**Hospital1 18**] [**Hospital Ward Name **],
+[**Hospital Ward Name 23**] Building
+
+
+

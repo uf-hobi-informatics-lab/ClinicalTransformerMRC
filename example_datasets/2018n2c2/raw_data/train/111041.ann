@@ -1,0 +1,208 @@
+T1	Drug 6984 6991	Aspirin
+T2	Strength 6992 6996	81mg
+T3	Drug 7689 7699	folic acid
+T4	Strength 7700 7704	1 mg
+T5	Form 7725 7731	Tablet
+T6	Route 7732 7734	PO
+T7	Form 7655 7661	Tablet
+T8	Frequency 7665 7668;7669 7684	BID (2 times a day)
+T9	Route 7662 7664	PO
+T10	Drug 6867 6874	Crestor
+T11	Strength 6875 6879	40mg
+T12	Drug 7061 7070	Proventil
+T13	Drug 6934 6939	Lasix
+T14	Strength 6940 6944	20mg
+T15	Drug 7004 7019	Ferrous sulfate
+T16	Strength 7020 7025	325mg
+T17	Frequency 7026 7031;7032 7037	twice daily
+T18	Drug 6887 6897	Lisinopril
+T19	Strength 6898 6902	10mg
+T20	Drug 6952 6962;6963 6971	metoprolol tartrate
+T21	Strength 6972 6976	25mg
+T22	Strength 7543 7548	20 mg
+T23	Form 7569 7575	Tablet
+T24	Route 7576 7578	PO
+T25	Drug 7532 7541;7541 7542	furosemid e
+T26	Drug 7598 7613	ferrous sulfate
+T28	Strength 7120 7125	81 mg
+T29	Form 7170 7176;7176 7200	Tablet , Delayed Release (E.C.)
+T30	Route 7201 7203	PO
+T31	Drug 7112 7118;7118 7119	aspiri n
+T32	Drug 6131 6137	Ativan
+T33	Drug 6773 6779	Keflex
+T34	Drug 7222 7234	rosuvastatin
+T35	Strength 7235 7240	20 mg
+T36	Form 7261 7267	Tablet
+T37	Route 7268 7270	PO
+T38	Drug 7289 7308	metoprolol tartrate
+T39	Strength 7309 7314	25 mg
+T40	Form 7331 7337	Tablet
+T41	Dosage 7327 7330	0.5
+T42	Route 7338 7340	PO
+T43	Drug 7871 7881	lisinopril
+T44	Strength 7882 7886	5 mg
+T45	Form 7907 7913	Tablet
+T46	Frequency 7917 7923;7924 7927	once a day
+T47	Route 7914 7916	PO
+T48	Drug 6910 6919	Synthroid
+T49	Strength 6920 6926	137mcg
+T50	Drug 7039 7049	Folic acid
+T51	Strength 7050 7053	1mg
+T52	Frequency 6880 6885	daily
+T53	Frequency 6903 6908	daily
+T54	Frequency 6927 6932	daily
+T55	Frequency 6945 6950	daily
+T56	Frequency 6977 6982	daily
+T57	Frequency 6997 7002	daily
+T58	Frequency 7054 7059	daily
+T59	Route 7071 7078	inhaler
+T60	Frequency 7079 7082	prn
+T61	Form 7126 7156	Tablet, Delayed Release (E.C.)
+T62	Dosage 7162 7169	One (1)
+T63	Frequency 7204 7217	DAILY (Daily)
+T64	Form 7241 7247	Tablet
+T65	Dosage 7253 7260	Two (2)
+T66	Frequency 7271 7276;7277 7284	DAILY (Daily)
+T67	Form 7315 7321	Tablet
+T68	Frequency 7341 7347;7348 7360	BID (2 times a day)
+T69	Drug 7365 7371	Keflex
+T70	Strength 7372 7378	500 mg
+T71	Form 7379 7386	Capsule
+T72	Dosage 7392 7399	One (1)
+T73	Form 7400 7407	Capsule
+T74	Route 7408 7410	PO
+T75	Frequency 7411 7423;7424 7427	four times a day
+T76	Duration 7428 7439	for 10 days
+T77	Drug 7462 7475	levothyroxine
+T78	Strength 7476 7483	137 mcg
+T79	Form 7484 7490	Tablet
+T80	Dosage 7496 7503	One (1)
+T81	Form 7504 7510	Tablet
+T82	Route 7511 7513	PO
+T83	Frequency 7514 7519;7520 7527	DAILY (Daily)
+T84	Form 7549 7555	Tablet
+T85	Dosage 7561 7568	One (1)
+T86	Frequency 7579 7592	DAILY (Daily)
+T87	Form 7635 7641	Tablet
+T88	Dosage 7647 7654	One (1)
+T89	Form 7705 7711	Tablet
+T90	Dosage 7717 7724	One (1)
+T91	Frequency 7735 7748	DAILY (Daily)
+T92	Drug 7754 7771	albuterol sulfate
+T93	Strength 7772 7794	2.5 mg /3 mL (0.083 %)
+T95	Dosage 7826 7833	One (1)
+T96	Route 7835 7845	Inhalation
+T97	Frequency 7846 7865	Q4H (every 4 hours)
+T98	Form 7887 7893	Tablet
+T99	Dosage 7899 7906	One (1)
+T100	Drug 7933 7946	acetaminophen
+T101	Strength 7947 7953	325 mg
+T102	Dosage 7966 7973	Two (2)
+T103	Form 7954 7960	Tablet
+T104	Form 7974 7980	Tablet
+T105	Route 7981 7983	PO
+T106	Frequency 7984 7987;7988 8013	Q4H (every 4 hours) as needed
+T107	Frequency 8018 8028	pain/fever
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Strength-Drug Arg1:T4 Arg2:T3
+R3	Form-Drug Arg1:T5 Arg2:T3
+R4	Route-Drug Arg1:T6 Arg2:T3
+R5	Form-Drug Arg1:T7 Arg2:T26
+R6	Frequency-Drug Arg1:T8 Arg2:T26
+R7	Route-Drug Arg1:T9 Arg2:T26
+R8	Strength-Drug Arg1:T11 Arg2:T10
+R9	Strength-Drug Arg1:T14 Arg2:T13
+R10	Strength-Drug Arg1:T16 Arg2:T15
+R11	Frequency-Drug Arg1:T17 Arg2:T15
+R12	Strength-Drug Arg1:T19 Arg2:T18
+R13	Strength-Drug Arg1:T21 Arg2:T20
+R14	Strength-Drug Arg1:T22 Arg2:T25
+R15	Form-Drug Arg1:T23 Arg2:T25
+R16	Route-Drug Arg1:T24 Arg2:T25
+R18	Strength-Drug Arg1:T28 Arg2:T31
+R19	Form-Drug Arg1:T29 Arg2:T31
+R20	Route-Drug Arg1:T30 Arg2:T31
+R21	Strength-Drug Arg1:T35 Arg2:T34
+R22	Form-Drug Arg1:T36 Arg2:T34
+R23	Route-Drug Arg1:T37 Arg2:T34
+R24	Strength-Drug Arg1:T39 Arg2:T38
+R25	Form-Drug Arg1:T40 Arg2:T38
+R26	Dosage-Drug Arg1:T41 Arg2:T38
+R27	Route-Drug Arg1:T42 Arg2:T38
+R28	Strength-Drug Arg1:T44 Arg2:T43
+R29	Form-Drug Arg1:T45 Arg2:T43
+R30	Frequency-Drug Arg1:T46 Arg2:T43
+R31	Route-Drug Arg1:T47 Arg2:T43
+R32	Strength-Drug Arg1:T49 Arg2:T48
+R33	Strength-Drug Arg1:T51 Arg2:T50
+R34	Frequency-Drug Arg1:T60 Arg2:T12
+R35	Route-Drug Arg1:T59 Arg2:T12
+R36	Frequency-Drug Arg1:T58 Arg2:T50
+R37	Frequency-Drug Arg1:T57 Arg2:T1
+R38	Frequency-Drug Arg1:T56 Arg2:T20
+R39	Frequency-Drug Arg1:T55 Arg2:T13
+R40	Frequency-Drug Arg1:T54 Arg2:T48
+R41	Frequency-Drug Arg1:T53 Arg2:T18
+R42	Frequency-Drug Arg1:T52 Arg2:T10
+R43	Frequency-Drug Arg1:T66 Arg2:T34
+R44	Dosage-Drug Arg1:T65 Arg2:T34
+R45	Form-Drug Arg1:T64 Arg2:T34
+R46	Frequency-Drug Arg1:T63 Arg2:T31
+R47	Dosage-Drug Arg1:T62 Arg2:T31
+R48	Form-Drug Arg1:T61 Arg2:T31
+R49	Frequency-Drug Arg1:T68 Arg2:T38
+R50	Form-Drug Arg1:T67 Arg2:T38
+R51	Duration-Drug Arg1:T76 Arg2:T69
+R52	Frequency-Drug Arg1:T75 Arg2:T69
+R53	Route-Drug Arg1:T74 Arg2:T69
+R54	Form-Drug Arg1:T73 Arg2:T69
+R55	Dosage-Drug Arg1:T72 Arg2:T69
+R56	Form-Drug Arg1:T71 Arg2:T69
+R57	Strength-Drug Arg1:T70 Arg2:T69
+R58	Frequency-Drug Arg1:T83 Arg2:T77
+R59	Route-Drug Arg1:T82 Arg2:T77
+R60	Form-Drug Arg1:T81 Arg2:T77
+R61	Dosage-Drug Arg1:T80 Arg2:T77
+R62	Form-Drug Arg1:T79 Arg2:T77
+R63	Strength-Drug Arg1:T78 Arg2:T77
+R64	Frequency-Drug Arg1:T86 Arg2:T25
+R65	Dosage-Drug Arg1:T85 Arg2:T25
+R66	Form-Drug Arg1:T84 Arg2:T25
+R67	Dosage-Drug Arg1:T88 Arg2:T26
+R68	Form-Drug Arg1:T87 Arg2:T26
+R69	Frequency-Drug Arg1:T91 Arg2:T3
+R70	Dosage-Drug Arg1:T90 Arg2:T3
+R71	Form-Drug Arg1:T89 Arg2:T3
+R72	Frequency-Drug Arg1:T97 Arg2:T92
+R73	Route-Drug Arg1:T96 Arg2:T92
+R74	Dosage-Drug Arg1:T95 Arg2:T92
+R76	Strength-Drug Arg1:T93 Arg2:T92
+R77	Dosage-Drug Arg1:T99 Arg2:T43
+R78	Form-Drug Arg1:T98 Arg2:T43
+R79	Frequency-Drug Arg1:T107 Arg2:T100
+R80	Frequency-Drug Arg1:T106 Arg2:T100
+R81	Route-Drug Arg1:T105 Arg2:T100
+R82	Form-Drug Arg1:T104 Arg2:T100
+R83	Dosage-Drug Arg1:T102 Arg2:T100
+R84	Form-Drug Arg1:T103 Arg2:T100
+R85	Strength-Drug Arg1:T101 Arg2:T100
+T108	ADE 6095 6104	confusion
+T109	Reason 7441 7457	sternal drainage
+T110	Route 7808 7820	Nebulization
+T111	Drug 7629 7633	iron
+T112	Strength 7623 7628	60 mg
+T113	Drug 5726 5732	PRBC's
+T114	Reason 5736 5766	maintain a hematocrit near 30%
+T116	Duration 6761 6769	ten days
+R86	Strength-Drug Arg1:T112 Arg2:T111
+R87	Reason-Drug Arg1:T114 Arg2:T113
+T27	Strength 7614 7621	300  mg
+R17	Strength-Drug Arg1:T27 Arg2:T26	
+R75	Route-Drug Arg1:T110 Arg2:T92	
+T94	Form 7795 7803	Solution
+R88	Form-Drug Arg1:T94 Arg2:T92	
+R89	ADE-Drug Arg1:T108 Arg2:T32	
+R90	Duration-Drug Arg1:T116 Arg2:T33	
+T115	Reason 6666 6674	drainage
+R91	Reason-Drug Arg1:T115 Arg2:T33	
+R92	Reason-Drug Arg1:T109 Arg2:T69	

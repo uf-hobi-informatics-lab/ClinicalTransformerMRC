@@ -1,0 +1,53 @@
+T1	Drug 2554 2564	Lisinopril
+T2	Strength 2571 2576	81 mg
+T3	Drug 2522 2530	Atenolol
+T4	Drug 2533 2540	Lipitor
+T5	Drug 481 487	Versed
+T6	Drug 2543 2551	Protonix
+T7	Reason 467 475	sedation
+T8	Drug 653 659	Narcan
+T9	Strength 660 667	400 mcg
+T10	Route 668 670	IM
+T11	Drug 675 685	Flumazanil
+T12	Strength 686 692	200 mg
+T14	Drug 1899 1909	Flumazinal
+T15	Drug 1914 1920	Narcan
+T17	Drug 2567 2570	ASA
+T18	Frequency 2577 2582	daily
+R1	Reason-Drug Arg1:T7 Arg2:T5
+R2	Route-Drug Arg1:T10 Arg2:T8
+R3	Strength-Drug Arg1:T9 Arg2:T8
+R5	Strength-Drug Arg1:T12 Arg2:T11
+R8	Frequency-Drug Arg1:T18 Arg2:T17
+R9	Strength-Drug Arg1:T2 Arg2:T17
+T25	ADE 1830 1835	Apnea
+T26	ADE 1836 1843	Hypoxia
+T27	Reason 1836 1843	Hypoxia
+T28	Drug 2263 2270	BP meds
+T29	Reason 2219 2222	HTN
+T30	Strength 488 491	3.5
+T31	Drug 493 501	Fentanyl
+T32	Strength 502 504	75
+T33	Drug 510 519	Phenergen
+T34	Strength 520 522	25
+T35	ADE 542 548	apneic
+R10	Strength-Drug Arg1:T32 Arg2:T31
+R11	Strength-Drug Arg1:T34 Arg2:T33
+R18	Reason-Drug Arg1:T29 Arg2:T28
+T16	Reason 1830 1835	Apnea
+T24	Drug 1857 1865	sedation
+R6	ADE-Drug Arg1:T26 Arg2:T24	
+R7	ADE-Drug Arg1:T25 Arg2:T24	
+R16	Reason-Drug Arg1:T27 Arg2:T14	
+R17	Reason-Drug Arg1:T27 Arg2:T15	
+R19	Reason-Drug Arg1:T16 Arg2:T14	
+R20	Reason-Drug Arg1:T16 Arg2:T15	
+R21	Strength-Drug Arg1:T30 Arg2:T5	
+R12	ADE-Drug Arg1:T35 Arg2:T5	
+R13	ADE-Drug Arg1:T35 Arg2:T33	
+R22	ADE-Drug Arg1:T35 Arg2:T31	
+T21	Reason 542 548	apneic
+R23	Reason-Drug Arg1:T21 Arg2:T8	
+R24	Reason-Drug Arg1:T21 Arg2:T11	
+T13	Route 693 695	IV
+R4	Route-Drug Arg1:T13 Arg2:T11	

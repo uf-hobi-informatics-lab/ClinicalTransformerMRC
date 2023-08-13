@@ -1,0 +1,198 @@
+T1	Reason 1000 1018	pulmonary embolism
+R1	Reason-Drug Arg1:T1 Arg2:T2
+T2	Drug 1060 1068	Coumadin
+T3	Drug 1089 1095	Plavix
+T4	Drug 164 175	Penicillins
+T5	Drug 178 190	Tetracycline
+T6	Drug 193 205	Erythromycin
+T7	Drug 2596 2609	neosynephrine
+T8	Reason 2614 2624	BP control
+R2	Reason-Drug Arg1:T8 Arg2:T7
+T9	Drug 2675 2688	neosynephrine
+T10	Drug 2703 2712	lopressor
+T11	Reason 2717 2728	tachycardia
+R3	Reason-Drug Arg1:T11 Arg2:T10
+T12	Reason 2809 2814	fever
+R4	Reason-Drug Arg1:T12 Arg2:T13
+R5	Reason-Drug Arg1:T12 Arg2:T14
+R6	Reason-Drug Arg1:T12 Arg2:T15
+T13	Drug 2843 2848	cipro
+T14	Drug 2850 2860	vancomycin
+T15	Drug 2866 2872	flagyl
+T16	Reason 2930 2943	resp distress
+R7	Reason-Drug Arg1:T16 Arg2:T17
+T17	Drug 2964 2969	Lasix
+T18	Drug 3173 3195	narcotic pain medicine
+T19	Drug 3204 3219	benzodiazepines
+T20	Drug 3632 3639	Aspirin
+T21	Strength 3640 3646	325 mg
+R8	Strength-Drug Arg1:T21 Arg2:T20
+T22	Form 3647 3653	Tablet
+R9	Form-Drug Arg1:T22 Arg2:T20
+T23	Dosage 3659 3666	One (1)
+R10	Dosage-Drug Arg1:T23 Arg2:T20
+T24	Form 3667 3673	Tablet
+R11	Form-Drug Arg1:T24 Arg2:T20
+T25	Route 3674 3676	PO
+R12	Route-Drug Arg1:T25 Arg2:T20
+T26	Frequency 3677 3690	DAILY (Daily)
+R13	Frequency-Drug Arg1:T26 Arg2:T20
+T27	Drug 3695 3706	Clopidogrel
+T28	Strength 3707 3712	75 mg
+R14	Strength-Drug Arg1:T28 Arg2:T27
+T29	Form 3713 3719	Tablet
+R15	Form-Drug Arg1:T29 Arg2:T27
+T30	Dosage 3725 3732	One (1)
+R16	Dosage-Drug Arg1:T30 Arg2:T27
+T31	Form 3733 3739	Tablet
+R17	Form-Drug Arg1:T31 Arg2:T27
+T32	Route 3740 3742	PO
+R18	Route-Drug Arg1:T32 Arg2:T27
+T33	Frequency 3743 3748;3749 3756	DAILY (Daily)
+R19	Frequency-Drug Arg1:T33 Arg2:T27
+T34	Drug 3761 3772	Venlafaxine
+T35	Strength 3773 3779	100 mg
+R20	Strength-Drug Arg1:T35 Arg2:T34
+T36	Form 3780 3786	Tablet
+R21	Form-Drug Arg1:T36 Arg2:T34
+T37	Dosage 3792 3799	One (1)
+R22	Dosage-Drug Arg1:T37 Arg2:T34
+T38	Form 3800 3806	Tablet
+R23	Form-Drug Arg1:T38 Arg2:T34
+T39	Route 3807 3809	PO
+R24	Route-Drug Arg1:T39 Arg2:T34
+T40	Frequency 3810 3815;3816 3823	DAILY (Daily)
+R25	Frequency-Drug Arg1:T40 Arg2:T34
+T41	Drug 3828 3839	Mirtazapine
+T42	Strength 3840 3845	30 mg
+R26	Strength-Drug Arg1:T42 Arg2:T41
+T43	Form 3846 3852	Tablet
+R27	Form-Drug Arg1:T43 Arg2:T41
+T44	Dosage 3858 3861	1.5
+R28	Dosage-Drug Arg1:T44 Arg2:T41
+T45	Form 3862 3869	Tablets
+R29	Form-Drug Arg1:T45 Arg2:T41
+T46	Route 3870 3872	PO
+R30	Route-Drug Arg1:T46 Arg2:T41
+T47	Frequency 3873 3888	HS (at bedtime)
+R31	Frequency-Drug Arg1:T47 Arg2:T41
+T48	Drug 3894 3907	Diltiazem HCl
+T49	Strength 3908 3913	60 mg
+R32	Strength-Drug Arg1:T49 Arg2:T48
+T50	Form 3914 3920	Tablet
+R33	Form-Drug Arg1:T50 Arg2:T48
+T51	Dosage 3926 3933	One (1)
+R34	Dosage-Drug Arg1:T51 Arg2:T48
+T52	Form 3934 3940	Tablet
+R35	Form-Drug Arg1:T52 Arg2:T48
+T53	Route 3941 3943	PO
+R36	Route-Drug Arg1:T53 Arg2:T48
+T54	Frequency 3944 3950;3951 3963	TID (3 times a day)
+R37	Frequency-Drug Arg1:T54 Arg2:T48
+T56	Drug 3968 3978	Gabapentin
+T57	Strength 3979 3985	300 mg
+R39	Strength-Drug Arg1:T57 Arg2:T56
+T58	Form 3986 3993	Capsule
+R40	Form-Drug Arg1:T58 Arg2:T56
+T59	Dosage 3999 4006	Two (2)
+R41	Dosage-Drug Arg1:T59 Arg2:T56
+T60	Form 4007 4014	Capsule
+R42	Form-Drug Arg1:T60 Arg2:T56
+T61	Route 4015 4017	PO
+R43	Route-Drug Arg1:T61 Arg2:T56
+T62	Frequency 4018 4024;4025 4037	BID (2 times a day)
+R44	Frequency-Drug Arg1:T62 Arg2:T56
+T63	Drug 4042 4052	Famotidine
+T64	Strength 4053 4058	20 mg
+R45	Strength-Drug Arg1:T64 Arg2:T63
+T65	Form 4059 4065	Tablet
+R46	Form-Drug Arg1:T65 Arg2:T63
+T66	Dosage 4071 4078	One (1)
+R47	Dosage-Drug Arg1:T66 Arg2:T63
+T67	Form 4079 4085	Tablet
+R48	Form-Drug Arg1:T67 Arg2:T63
+T68	Route 4086 4088	PO
+R49	Route-Drug Arg1:T68 Arg2:T63
+T69	Frequency 4089 4103;4104 4110	Q12H (every 12 hours)
+R50	Frequency-Drug Arg1:T69 Arg2:T63
+T70	Drug 4115 4124	Bisacodyl
+T71	Strength 4125 4130	10 mg
+R51	Strength-Drug Arg1:T71 Arg2:T70
+T72	Form 4131 4142	Suppository
+R52	Form-Drug Arg1:T72 Arg2:T70
+T73	Dosage 4148 4155	One (1)
+R53	Dosage-Drug Arg1:T73 Arg2:T70
+T74	Form 4156 4167	Suppository
+R54	Form-Drug Arg1:T74 Arg2:T70
+T75	Route 4168 4174	Rectal
+R55	Route-Drug Arg1:T75 Arg2:T70
+T76	Frequency 4175 4200	HS (at bedtime) as needed
+R56	Frequency-Drug Arg1:T76 Arg2:T70
+T77	Reason 4205 4217	constipation
+R57	Reason-Drug Arg1:T77 Arg2:T70
+T78	Drug 4259 4278	Metoprolol Tartrate
+T79	Strength 4279 4284	50 mg
+R58	Strength-Drug Arg1:T79 Arg2:T78
+T80	Form 4285 4291	Tablet
+R59	Form-Drug Arg1:T80 Arg2:T78
+T81	Dosage 4297 4304	Two (2)
+R60	Dosage-Drug Arg1:T81 Arg2:T78
+T82	Form 4305 4311	Tablet
+R61	Form-Drug Arg1:T82 Arg2:T78
+T83	Route 4312 4314	PO
+R62	Route-Drug Arg1:T83 Arg2:T78
+T84	Frequency 4315 4318;4319 4334	TID (3 times a day)
+R63	Frequency-Drug Arg1:T84 Arg2:T78
+T85	Drug 4340 4353	Acetaminophen
+T86	Strength 4354 4360	325 mg
+R64	Strength-Drug Arg1:T86 Arg2:T85
+T87	Form 4361 4367	Tablet
+R65	Form-Drug Arg1:T87 Arg2:T85
+T88	Dosage 4373 4380	Two (2)
+R66	Dosage-Drug Arg1:T88 Arg2:T85
+T89	Form 4381 4387	Tablet
+R67	Form-Drug Arg1:T89 Arg2:T85
+T90	Route 4388 4390	PO
+R68	Route-Drug Arg1:T90 Arg2:T85
+T91	Frequency 4391 4394;4395 4420	Q4H (every 4 hours) as needed
+R69	Frequency-Drug Arg1:T91 Arg2:T85
+T92	Reason 4425 4429	pain
+R70	Reason-Drug Arg1:T92 Arg2:T85
+T93	Drug 4441 4456	Docusate Sodium
+T94	Strength 4457 4463	100 mg
+R71	Strength-Drug Arg1:T94 Arg2:T93
+T95	Form 4464 4471	Capsule
+R72	Form-Drug Arg1:T95 Arg2:T93
+T96	Dosage 4477 4484	One (1)
+R73	Dosage-Drug Arg1:T96 Arg2:T93
+T97	Form 4485 4492	Capsule
+R74	Form-Drug Arg1:T97 Arg2:T93
+T98	Route 4493 4495	PO
+R75	Route-Drug Arg1:T98 Arg2:T93
+T99	Frequency 4496 4499;4500 4515	BID (2 times a day)
+R76	Frequency-Drug Arg1:T99 Arg2:T93
+T100	Drug 4554 4569	Codeine Sulfate
+T101	Strength 4570 4575	15 mg
+R77	Strength-Drug Arg1:T101 Arg2:T100
+T102	Form 4576 4582	Tablet
+R78	Form-Drug Arg1:T102 Arg2:T100
+T103	Dosage 4588 4595	One (1)
+R79	Dosage-Drug Arg1:T103 Arg2:T100
+T104	Form 4596 4602	Tablet
+R80	Form-Drug Arg1:T104 Arg2:T100
+T105	Route 4603 4605	PO
+R81	Route-Drug Arg1:T105 Arg2:T100
+T106	Frequency 4606 4611;4612 4631	every 4-6 hours as needed
+R82	Frequency-Drug Arg1:T106 Arg2:T100
+T107	Reason 4636 4640	pain
+R83	Reason-Drug Arg1:T107 Arg2:T100
+T108	Reason 866 892	post myocardial infarction
+R84	Reason-Drug Arg1:T108 Arg2:T110
+R85	Reason-Drug Arg1:T108 Arg2:T111
+T109	Reason 927 933	stents
+R86	Reason-Drug Arg1:T109 Arg2:T111
+R87	Reason-Drug Arg1:T109 Arg2:T110
+T110	Drug 952 959	aspirin
+T111	Drug 964 970	Plavix
+T55	Reason 4430 4435	fever
+R38	Reason-Drug Arg1:T55 Arg2:T85	

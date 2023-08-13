@@ -1,0 +1,437 @@
+Admission Date:  [**2180-10-15**]              Discharge Date:   [**2180-11-10**]
+
+Date of Birth:  [**2145-7-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Compazine / Zosyn
+
+Attending:[**Last Name (NamePattern1) 1167**]
+Chief Complaint:
+Nausea, labored breathing
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+endocardial biopsy
+
+
+History of Present Illness:
+35yF with multiple medical problems (including SLE, restrictive
+lung disease, global cardiomyopathy with severely depressed
+systolic function, nephrotic syndrome), with recent admission
+[**Date range (1) 68983**] for nausea, vomiting, and diarrhea, re-admitted with
+shortness of breath, tachycardia, and persistent nausea.
+
+Her symptoms began in [**Month (only) **] (after a recent
+hospitalization), when she developed diarrhea (which she relates
+to her metoprolol). The diarrhea (multiple times daily,
+non-bloody, brown in color) initially improved but then worsened
+again. She then developed nausea, vomiting, and dry heaves,
+without abdominal pain, and was admitted on [**10-10**]. She also
+reported worsening shortness of breath, 3 pillow orthopnea, and
+episodes of paroxysmal nocturnal dyspnea. She was felt to be
+intravascularly dry, so she was given IV fluids. She had a
+thorough workup for causes of her diarrhea (infectious,
+structural, medication related etc.) and was scheduled for GI
+follow up on [**10-16**]. During the admission, an echocardiogram was
+performed, demonstrating worsening systolic function (EF
+15-20%), but she was felt to be intravascularly dry, so her
+Lasix was held. Given the patient's concern that her diarrhea
+started at the same time as metoprolol (75mg daily), this
+medication was also stopped (and switched to carvedilol 3.125mg
+[**Hospital1 **]). She was to have close follow up with her cardiologist. She
+had acute on chronic renal failure which returned to close to
+baseline (1.5) with IV fluids; she had a renal biopsy during
+that admission, the results of which are still pending. Her
+Imuran was initially held during the last hospitalization but
+was restarted after a conversation with her [**Hospital1 112**] rheumatologist.
+During that hospitalization, her nausea was not fully explained,
+but there was a possibility that restarting her Imuran may have
+contributed.
+
+Her presentation today is similar. She has nausea and dry heaves
+(non-bloody, non-bilious), along with worsening shortness of
+breath/PND/orthopnea. Her husband (who follows her vitals
+closely) has noted increased blood pressures and heart rates
+since she was discharged from the hospital. Given her worsened
+nausea and tachycardia to the 120's, he brought her to the
+hospital. She denies any history of blood clot (but had IUFD at
+21wks recently).
+
+In the ED, triage vitals were T97.6F, HR 124, BP 126/109, RR 18,
+Sat 100%. She was given 4mg IV ondansteron x 2, in addition to
+ceftriaxone and azithromycin given an equivocal chest x-ray. She
+was transferred to the floor for further evaluation. Her
+respiratory rate was noted to be as high as 33.
+
+On review of systems, she reports nausea and vomiting, as well
+as shortness for breath and orthopnea as above. Diarrhea is
+unchanged. She denies fevers, chills, chest pain (but perhaps
+some chest "heaviness"), palpitations, pleuritic chest pain,
+cough, weakness, numbness, tingling, abdominal pain,
+constipation, hematemesis, hematochezia, urinary symptoms.
+
+Past Medical History:
+- SLE: diagnosed in [**2168**], manifested by kidney disease
+(membranous nephropathy by report of biopsy), facial rash,
+Sjogren's syndrome, Raynaud's phenomenon, and pleuritis
+- Gastritis
+- Restrictive lung disease: followed by Dr. [**Last Name (STitle) **], noted to
+be moderate to severe on PFTs completed 5/[**2179**].
+- History of pancytopenia associated with varicella zoster
+infection
+- History of persistent thrombocytopenia
+- Baseline proteinuria (Cr 0.8-0.9 pre-pregnancy)
+- Intrauterine fetal demise [**7-/2180**] (at gestational age ~21wks)
+- Right- and left-sided cardiomyopathy (EF estimated 15-20% in
+[**9-/2180**])
+
+
+Social History:
+Patient is a computer programer in [**Location (un) 745**] and married. She was
+accompanied at presentation by her husband [**Name (NI) **] and sister. She
+denies tobacco or EtOH.
+
+
+Family History:
+Adopted
+
+Physical Exam:
+Vitals: T94.5F (oral, repeat axillary temp was 95.4F), BP
+120/94, HR 120, RR 40, Sat 95%RA
+General: Moon facies, chronically ill-appearing, tachypneic, in
+mild respiratory distress; malar rash present
+HEENT: EOMI, PERRL, anicteric, OP clear
+Heart: Tachycardic without murmurs
+Lungs: Clear to auscultation bilaterally, no crackles
+appreciated
+Back: No CVA tenderness, no spinal tenderness
+Abd: Soft, non-tender, non-distended, + bowel sounds, no
+hepatosplenomegaly
+Extremities: No clubbing, cyanosis; 1+ DP pulses bilaterally; 2+
+pitting edema in feet to mid-shin bilaterally (L>R)
+Neuro: A&O x 3
+
+Pertinent Results:
+Urine: Yellow, Hazy, SpecGr 1.022, pH 6.0, Sm leuk, Sm blood,
+500 prot, [**1-20**] RBC, few bacteria, 0-2 epi
+
+Na 133   K 4.3   Cl 101   HCO3 18   BUN 33   Creat 1.4   Gluc
+100
+
+CK: 13  MB: Notdone  Trop-T: 0.04
+
+ALT: 29   AST: 34   AP: 121   Tbili: 0.3
+Lip: 64
+
+proBNP: [**Numeric Identifier 68984**]
+
+WBC 5.6
+N:81.3 L:12.8 M:5.3 E:0.4 Bas:0.2
+Hgb 12.1
+Hct 37.5
+Plt 137
+MCV 96
+
+PT: 11.7  PTT: 24.4  INR: 1.0
+
+CXR [**10-15**] PA/Lat (prelim): Retrocardiac opacification which may
+represent atelectasis vs. pneumonia; bibasilar effusions and
+increased hilar infiltrates suggestive of volume overload;
+stable moderate cardiomegaly.
+
+ECG [**10-15**]: Sinus tachycardia. Leftward axis, normal intervals.
+TWF in I, II, V5-V6 (interpreted as pseudonormalization in ED,
+but unimpressive).
+
+[**Month/Year (2) **] [**10-11**]: The left atrium is elongated. No atrial septal
+defect is seen by 2D or color Doppler. The right atrial pressure
+is indeterminate. Left ventricular wall thicknesses are normal.
+The left ventricular cavity is mildly dilated. There is severe
+global left ventricular hypokinesis (LVEF = 15-20 %). No masses
+or thrombi are seen in the left ventricle. There is no
+ventricular septal defect. RV with severe global free wall
+hypokinesis. There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve leaflets are
+structurally normal. There is no mitral valve prolapse. Moderate
+(2+) mitral regurgitation is seen. There is mild pulmonary
+artery systolic hypertension. There is no pericardial effusion.
+Compared with the prior study (images reviewed) of [**2180-7-24**], the
+LV cavity size has increased and the LVEF is slightly lower
+(LVEF OVERestimated on prior study). RV dysfunction is now more
+prominent.
+.
+The left atrium is elongated. Left ventricular wall thicknesses
+and cavity size are normal. There is moderate global left
+ventricular hypokinesis. Quantitative (biplane) LVEF = 33 %.
+Right ventricular chamber size is normal with borderline normal
+free wall systolic function. The diameters of aorta at the
+sinus, ascending and arch levels are normal. The aortic valve
+leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic regurgitation. The mitral valve leaflets
+are structurally normal. There is no mitral valve prolapse.
+Moderate (2+) mitral regurgitation is seen. There is mild
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+.
+[**Year (4 digits) **] [**2180-11-6**]
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity is mildly dilated. There is moderate to
+severe global left ventricular hypokinesis (LVEF = 30 %). Right
+ventricular chamber size is normal. with borderline normal free
+wall function. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve leaflets are mildly thickened. There is no
+mitral valve prolapse. There is moderate thickening of the
+mitral valve chordae. Moderate to severe (3+) mitral
+regurgitation is seen. Moderate [2+] tricuspid regurgitation is
+seen. There is moderate pulmonary artery systolic hypertension.
+Significant pulmonic regurgitation is seen. There is no
+pericardial effusion.
+
+[**Month/Day/Year **] [**2180-11-9**]
+Compared with the prior study (images reviewed) of [**2180-11-6**],
+left ventricular cavity size is smaller, global systolic
+function is improved (quantitative biplane LVEF 30% on review of
+prior study), and the severity of mitral regurgitation and
+estimated pulmonary artery systolic pressure are reduced.
+
+
+Brief Hospital Course:
+35yF with multiple medical problems (including SLE, restrictive
+lung disease, global cardiomyopathy with severely depressed
+systolic function, nephrotic syndrome), with recent admission
+[**Date range (1) 68983**] for nausea, vomiting, and diarrhea, admitted with
+shortness of breath, tachycardia, and persistent nausea.
+.
+#) Cardiomyopathy: Pt was initially admitted to the hospitalist
+service but transferred for cath and endocardial biopsy in the
+setting of worsening EF.  Her cardiomyopathy was thought to be
+due to lupus.  Peripartum cardiomyopathy was also considered
+however given the timing of onset and biopsy showing immune
+complexes seen on endocardial biopsy, lupus cardiomyopathy was
+thought to be more likely.  She was treated with steroids,
+cytoxan, plasmaphoresis, IVIG and supportive care, and improved
+from an EF of 15 to 33%.  It is unclear which therapy led to
+improvement.  She did require temporary CCU transfer for
+milrinone given worsening EF, however was weaned after a few
+days and transferred back to the floor in stable condition.  Her
+mitral regurgitation and hypertension also contributed to her
+poor forward flow, and htn improved with diuresis, hydralazine,
+lisinopril and amlodipine.
+.
+#) sCHF, volume overload: On admission, pt was clearly
+tachypneic but satting well on room air. Reported 3 pillow
+orthopnea and paroxysmal noctural dyspnea, in the setting of
+recent d/c Lasix and IVF resuscitation, LE edema also suggested
+fluid overload.  BNP extremely elevated at 65,187.  She also had
+non-specific sxs concerning for HF including throat tightness
+and GI sxs.  Her sxs improved with diuresis and symptomatic
+management and she was discharged on oral torsemide.  She was
+also treated with BP control and bblocker therapy.  Given her
+SOB and LE edema R>L, a LE US was performed and showed no LE
+clot, therefore PE was thought to be unlikely.
+.
+#) SLE. Pt diagnosed in [**2168**], manifested by kidney disease
+previously membranous nephropathy, facial rash, Sjogren's
+syndrome, Raynaud's phenomenon, and pleuritis.  Previously
+followed by Dr. [**Last Name (STitle) 68981**] at B&W, however has requested to transfer
+her care to [**Hospital1 18**] after this admission.  Initially contined on
+Plaquenil and Imuran, as well as prednisone.  Plaquenil dc'd per
+rheumatology recs.  Cardiomyopathy and renal failure on current
+admission were felt to be manifestation of underlying lupus.
+Rheumatology was consulted and recommended aggressive therapy
+with steriods, cytoxan and plasmapheresis.  Received solumedrol
+1g daily x 3 followed by solumedrol 30mg IV q12hrs, which was
+uptitrated to 60 q 12 hrs and subseuquently tapered and she was
+ultimately discharged on prednisone 60mg orally daily.  She was
+also placed on atovaquone PCP prophylaxis in the setting of
+immunosuppression.  She recieved 1 dose of cytoxan 750mg on [**10-20**]
+with mesna, cell counts with nadir on [**11-5**].  Prior to cytoxan,
+she received 7.5mg Lupron for ovarian protection with plans to
+pursue egg harvesting for fertility as an outpatient.  Received
+5 cycles of plasmapheresis.  3 doses of IVIG was also
+administered given that pts HF continued to worsen during the
+hospital stay.  Additional plasmaphoreis was considered but held
+due to her continued improvement.
+.
+#) Nausea/diarrhea. Initially thought secondary to restarting
+Imuran, however pt and husband attributed to bblocker therapy.
+Most likely due to gut edema in the setting of right HF.  GI was
+consulted and agreed however recommended ruling out infectious
+etiology given her immunosuppression; w/u was negative. She
+improved with symptomatic tx and treatment of her HH.
+.
+#) thrombocytopenia: Pt bleeding from HD site [**10-21**], improved
+with Cryo, Platelets, and Surgicel. Patient developed
+thrombocytopenia with nadir of 68, likely multifactorial related
+to dilution, imunnosupression, and possibly pheresis.  Heme
+consulted and recommended removing ASA, NSAIDs, all heparin
+products, f/u LFTs, fibrinogen.  Platelet drop was too quick to
+be related to Cytoxan and likelihood of developping 4T score is
+3. HIT ab negative. Fibrinogen nomralized. Thrombocytopenia
+quickly improved, however then fluctuated in the setting of
+cytoxan use.  IgG and IgM ACA negative, so unlikely to have
+prothrombotic state.
+.
+#) Acute on chronic RF: Pt with h/o SLE Nephritis. Pt previously
+with membranous nephropathy on prior biopsy.  She had repeat
+biopsy showing type 3,4,5 lupus nephritis.  Worsening renal
+failure with creatinine increased to 3.7 up from 1.4 on
+admission.  Urine lytes indicative of prerenal ischemia (FeUrea
+< 0.02%) +/- evolving ATN  likely from poor cardiac output/
+cardiorenal syndrome.  renal U/S show's no obstruction.   While
+her renal function showed some initial worsening with diuresis,
+diuresis was continued due to continued volume overload, and
+creatinine remained stable.
+.
+# HTN: BPs improved with uptitration of hydralazine and addition
+of lisinopril.  Pt concerned that hydralazine may be causing
+joint pain.  Given this and her improved renal function,
+lisinopril was uptitrated and hydralazine discontinued.  Blood
+pressures stable
+.
+# Anemia:  Likely due to acute renal disease, cytoxan therapy.
+Pt was given one unit of PRBCs while in patient and started on
+epo with good improvement in her crit.
+.
+# Joint pain: ? medication side effect (IVIG, hydralazine) vs
+lupus flare, however pt has never had joint pain with lupus
+flares in the past.  Hydralazine was discontinued, symptomatic
+relief with tylenol, PT.
+
+Medications on Admission:
+Pantoprazole 40 mg po BID
+Prednisone 15 mg qam and 5 mg qpm
+Vitamin D 400 units daily
+Calcium 500 mg twice daily
+Ferrous sulfate 325 mg once daily (not continued last admission)
+Multivitamin one tablet once daily (not continued last
+admission)
+Cyanocobalamin 1000 mcg injection once a month (not listed at
+last admission)
+Folic acid 1mg daily
+Furosemide 40 mg by mouth once daily (held after admission)
+Plaquenil 200 mg by mouth once daily
+Metoprolol 75 mg XL by mouth daily at bedtime (changed to
+carvedilol)
+Carvedilol 3.125mg [**Hospital1 **]
+Imuran 50 mg daily
+
+Discharge Medications:
+1. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID (3 times a day).
+3. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: 2.5 Tablets
+PO DAILY (Daily).
+4. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for pain: please do not exceed 3000mg/day.
+5. Atovaquone 750 mg/5 mL Suspension Sig: Two (2) 5ml teaspoons
+PO DAILY (Daily).
+Disp:*300 ml* Refills:*2*
+6. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Epoetin Alfa 4,000 unit/mL Solution Sig: One (1) injection
+Injection QMOWEFR ([**Hospital1 766**] -Wednesday-Friday).
+Disp:*12 injections* Refills:*2*
+8. Carvedilol 12.5 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+Disp:*120 Tablet(s)* Refills:*2*
+9. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO BID
+(2 times a day).
+Disp:*300 ML(s)* Refills:*2*
+10. Amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+11. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+12. Prednisone 20 mg Tablet Sig: Three (3) Tablet PO once a day.
+Disp:*90 Tablet(s)* Refills:*0*
+13. Hydrocortisone 2.5 % Cream Sig: One (1) Appl Rectal Q DAY
+().
+Disp:*1 tube* Refills:*2*
+14. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+15. Torsemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary
+Systemic Lupus Erythematosus Associated Cardiomyopathy.
+.
+Secondary
+Systemic Lupus Erythematosus
+Hypertension
+Persistent Thrombocytopenia
+
+
+Discharge Condition:
+stable, good, baseline ambulatory and mental status
+
+
+Discharge Instructions:
+You were admitted to the hospital because you were having nausea
+shortness of breath. You were found to have a lupus induced
+cardiomyopathy causing heart failure. You received
+immunosuppressive medications to control your immune system and
+your heart function improved as shown on serial echos. You
+received diuretics to remove the fluid that accumulated due to
+the heart failure, and medications to control your blood
+pressure.
+.
+The following changes were made to your medications.
+We STOPPED:
+plaquenil
+.
+We changed to:
+carvedilol 25mg twice a day
+vitamin D 1000mg daily
+.
+ We added:
+lisinopril 20mg daily
+torsemide 20mg twice a day
+hydrocortisone 2.5% rectal cream 1 application per rectum daily
+with rectal pain
+spironolactone 25mg daily
+amlodipine 10mg daily
+ferrous sulphate 325mg daily
+erythropoeitin Alfa 4000 unit SC injection MWF
+atovaquone suspension 1500mg daily while on prednisone
+nyastatin 5ml p.o [**Hospital1 **] as needed for oral thrush
+.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+1.Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 4900**], MD Phone:[**Telephone/Fax (1) 2226**]
+Date/Time:[**2180-11-13**] 8:00
+.
+2.MD: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5700**]
+Specialty: PCP
+[**Name Initial (PRE) 2897**]/ Time: Thursday, [**11-24**] at 3:15pm
+Location: [**Apartment Address(1) 68985**], [**Location (un) 583**], MA
+Phone number: [**Telephone/Fax (1) 31923**]
+.
+3.Cardiology [**Telephone/Fax (1) **] Lab
+Specialty: Cardiology
+Date/ Time: [**Last Name (LF) 766**], [**11-21**] at 3:00pm
+Location: [**Location (un) **], [**Hospital Ward Name 23**] Bldg [**Location (un) **], [**Location (un) 86**], MA
+Phone number: [**Telephone/Fax (1) 62**]
+.
+4.MD: Dr. [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) 437**]
+Specialty: Cardiology
+Date/ Time: [**Last Name (LF) 766**], [**11-21**] at 4:00pm
+Location: [**Location (un) **], [**Hospital Ward Name 23**] Bldg [**Location (un) **], [**Location (un) 86**], MA
+Phone number: [**Telephone/Fax (1) 62**]
+
+
+

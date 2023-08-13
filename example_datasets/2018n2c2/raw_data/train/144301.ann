@@ -1,0 +1,166 @@
+T1	Strength 1048 1055	1400 mg
+R1	Strength-Drug Arg1:T1 Arg2:T2
+T2	Drug 1056 1068	Fosphenytoin
+T3	Strength 1070 1075	10 mg
+R2	Strength-Drug Arg1:T3 Arg2:T4
+T4	Drug 1076 1084	Diazepam
+T5	Drug 1109 1115	Ativan
+T6	Reason 1272 1303;1304 1313	non small cell lung cancer lung carcinoma
+R3	Reason-Drug Arg1:T6 Arg2:T8
+T7	Drug 166 176	Integrilin
+T8	Drug 1822 1834	premetrexate
+T9	Drug 4845 4858	dexamethasone
+T10	Strength 4869 4872	4mg
+R4	Strength-Drug Arg1:T10 Arg2:T9
+T11	Frequency 4873 4878	Q6hrs
+R5	Frequency-Drug Arg1:T11 Arg2:T9
+T13	Reason 4893 4898	edema
+R6	Reason-Drug Arg1:T13 Arg2:T9
+T14	Strength 4966 4969	2mg
+R7	Strength-Drug Arg1:T14 Arg2:T9
+T15	Frequency 4970 4975	Q6hrs
+R8	Frequency-Drug Arg1:T15 Arg2:T9
+T16	Strength 4991 4994	2mg
+R9	Strength-Drug Arg1:T16 Arg2:T9
+T17	Frequency 4995 5002	Q12 hrs
+R10	Frequency-Drug Arg1:T17 Arg2:T9
+T18	Duration 5003 5012	for 1 day
+R11	Duration-Drug Arg1:T18 Arg2:T9
+T19	ADE 5047 5056	confusion
+R12	ADE-Drug Arg1:T19 Arg2:T21
+T20	ADE 5061 5082	visual hallucinations
+R13	ADE-Drug Arg1:T20 Arg2:T21
+T21	Drug 5125 5133	steroids
+T22	Drug 5613 5622	magnesium
+T23	Drug 5657 5667	neutraphos
+T24	Dosage 5668 5669	1
+R14	Dosage-Drug Arg1:T24 Arg2:T23
+T25	Form 5670 5676	packet
+R15	Form-Drug Arg1:T25 Arg2:T23
+T26	Frequency 5677 5681	Qday
+R16	Frequency-Drug Arg1:T26 Arg2:T23
+T27	Reason 5686 5697	phos of 2.4
+R17	Reason-Drug Arg1:T27 Arg2:T23
+T28	Drug 5735 5744	mag oxide
+T29	Strength 5745 5750	800mg
+R18	Strength-Drug Arg1:T29 Arg2:T28
+T30	Drug 6099 6105	Keppra
+T31	Strength 6106 6112	500 mg
+R19	Strength-Drug Arg1:T31 Arg2:T30
+T32	Drug 6133 6144	Hydroxyzine
+T33	Drug 6148 6159	Methimazole
+T34	Drug 6163 6173	Metoprolol
+T35	Drug 6177 6187	Gabapentin
+T36	Drug 6191 6197	Ativan
+T37	Strength 6198 6202	1 mg
+R20	Strength-Drug Arg1:T37 Arg2:T36
+T38	Frequency 6203 6206	tid
+R21	Frequency-Drug Arg1:T38 Arg2:T36
+T39	Drug 6210 6219	Oxycodone
+T40	Strength 6220 6225	10 mg
+R22	Strength-Drug Arg1:T40 Arg2:T39
+T41	Frequency 6226 6229	Q2h
+R23	Frequency-Drug Arg1:T41 Arg2:T39
+T42	Strength 6233 6238	25 mg
+R24	Strength-Drug Arg1:T42 Arg2:T43
+T43	Drug 6239 6247	Fentanyl
+T44	Form 6248 6255	patches
+R25	Form-Drug Arg1:T44 Arg2:T43
+T45	Strength 6259 6263	5 mg
+R26	Strength-Drug Arg1:T45 Arg2:T46
+T46	Drug 6264 6274	Dronabinol
+T47	Frequency 6275 6279	QDay
+R27	Frequency-Drug Arg1:T47 Arg2:T46
+T48	Drug 6308 6325	Heparin (Porcine)
+T49	Strength 6326 6339	5,000 unit/mL
+R28	Strength-Drug Arg1:T49 Arg2:T48
+T50	Form 6340 6348	Solution
+R29	Form-Drug Arg1:T50 Arg2:T48
+T51	Dosage 6354 6365	5000 (5000)
+R30	Dosage-Drug Arg1:T51 Arg2:T48
+T52	Form 6366 6371	units
+R31	Form-Drug Arg1:T52 Arg2:T48
+T53	Route 6372 6374	SC
+R32	Route-Drug Arg1:T53 Arg2:T48
+T54	Form 6375 6384	Injection
+R33	Form-Drug Arg1:T54 Arg2:T48
+T55	Frequency 6385 6388	TID
+R34	Frequency-Drug Arg1:T55 Arg2:T48
+T56	Duration 6405 6416	for 1 weeks
+R35	Duration-Drug Arg1:T56 Arg2:T48
+T57	Drug 6421 6434	LeVETiracetam
+T58	Strength 6435 6443	1,000 mg
+R36	Strength-Drug Arg1:T58 Arg2:T57
+T59	Form 6444 6450	Tablet
+R37	Form-Drug Arg1:T59 Arg2:T57
+T60	Dosage 6456 6463	One (1)
+R38	Dosage-Drug Arg1:T60 Arg2:T57
+T61	Form 6464 6470	Tablet
+R39	Form-Drug Arg1:T61 Arg2:T57
+T62	Route 6471 6473	PO
+R40	Route-Drug Arg1:T62 Arg2:T57
+T63	Frequency 6474 6477	BID
+R41	Frequency-Drug Arg1:T63 Arg2:T57
+T64	Drug 6498 6517	Metoprolol Tartrate
+T65	Strength 6518 6523	25 mg
+R42	Strength-Drug Arg1:T65 Arg2:T64
+T66	Form 6524 6530	Tablet
+R43	Form-Drug Arg1:T66 Arg2:T64
+T67	Form 6547 6553	Tablet
+R44	Form-Drug Arg1:T67 Arg2:T64
+T68	Route 6554 6556	PO
+R45	Route-Drug Arg1:T68 Arg2:T64
+T69	Frequency 6557 6560	BID
+R46	Frequency-Drug Arg1:T69 Arg2:T64
+T70	Drug 6581 6595	Ranitidine HCl
+T71	Strength 6596 6602	150 mg
+R47	Strength-Drug Arg1:T71 Arg2:T70
+T72	Form 6603 6609	Tablet
+R48	Form-Drug Arg1:T72 Arg2:T70
+T73	Dosage 6615 6622	One (1)
+R49	Dosage-Drug Arg1:T73 Arg2:T70
+T74	Form 6623 6629	Tablet
+R50	Form-Drug Arg1:T74 Arg2:T70
+T75	Route 6630 6632	PO
+R51	Route-Drug Arg1:T75 Arg2:T70
+T76	Frequency 6633 6636	BID
+R52	Frequency-Drug Arg1:T76 Arg2:T70
+T77	Drug 6657 6668	Neutra-Phos
+T78	Form 6701 6717	Powder in Packet
+R53	Form-Drug Arg1:T78 Arg2:T77
+T79	Dosage 6723 6730	One (1)
+R54	Dosage-Drug Arg1:T79 Arg2:T77
+T80	Form 6731 6737	packet
+R55	Form-Drug Arg1:T80 Arg2:T77
+T81	Route 6738 6740	PO
+R56	Route-Drug Arg1:T81 Arg2:T77
+T82	Frequency 6741 6746	DAILY
+R57	Frequency-Drug Arg1:T82 Arg2:T77
+T83	Frequency 6759 6765	2 days
+R58	Frequency-Drug Arg1:T83 Arg2:T77
+T84	Drug 6770 6783	Acetaminophen
+T85	Strength 6784 6790	650 mg
+R59	Strength-Drug Arg1:T85 Arg2:T84
+T86	Form 6791 6797	Tablet
+R60	Form-Drug Arg1:T86 Arg2:T84
+T87	Dosage 6803 6810	One (1)
+R61	Dosage-Drug Arg1:T87 Arg2:T84
+T88	Form 6811 6817	Tablet
+R62	Form-Drug Arg1:T88 Arg2:T84
+T89	Route 6818 6820	PO
+R63	Route-Drug Arg1:T89 Arg2:T84
+T90	Frequency 6821 6831;6832 6850	Q6H (every 6 hours) as needed
+R64	Frequency-Drug Arg1:T90 Arg2:T84
+T91	Reason 6855 6860	fever
+R65	Reason-Drug Arg1:T91 Arg2:T84
+T92	Reason 7141 7149	seizures
+R66	Reason-Drug Arg1:T92 Arg2:T93
+T93	Drug 7181 7187	keppra
+T94	Reason 838 845	seizure
+R67	Reason-Drug Arg1:T94 Arg2:T4
+R68	Reason-Drug Arg1:T94 Arg2:T2
+R69	Reason-Drug Arg1:T94 Arg2:T5
+T12	Reason 5638 5644	Mg 1.5
+R70	Reason-Drug Arg1:T12 Arg2:T22	
+T95	Reason 6864 6868	pain
+R71	Reason-Drug Arg1:T95 Arg2:T84	

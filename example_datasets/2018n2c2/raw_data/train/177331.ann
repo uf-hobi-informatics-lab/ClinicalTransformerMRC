@@ -1,0 +1,88 @@
+T1	Drug 129 137	Fentanyl
+T2	Drug 7397 7404	aspirin
+T3	Drug 6026 6035;6035 6049	Oxycodone -Acetaminophen
+T4	Drug 5766 5772	Tricor
+T5	Drug 5773 5778	Zocor
+T6	Drug 7406 7415	Ibuprofen
+T7	Drug 5807 5829	Fenofibrate Micronized
+T8	Strength 5830 5836	145 mg
+T9	Form 5857 5863	Tablet
+T10	Route 5864 5866	PO
+T11	Drug 8056 8064	Coumadin
+T12	Strength 6146 6151	40 mg
+T13	Form 6152 6158;6158 6182	Tablet , Delayed Release (E.C.)
+T14	Drug 6133 6144;6144 6145	Pantoprazol e
+T15	Drug 7382 7388	Motrin
+T16	Strength 5892 5897	40 mg
+T17	Form 5918 5924	Tablet
+T18	Route 5925 5927	PO
+T19	Drug 5880 5890;5890 5891	Simvastati n
+T20	Drug 5946 5965	Metoprolol Tartrate
+T21	Strength 5966 5971	25 mg
+T22	Form 5992 5998	Tablet
+T23	Frequency 6002 6005;6006 6021	BID (2 times a day)
+T24	Route 5999 6001	PO
+T25	Drug 7390 7395	Advil
+T26	Drug 5757 5765	Coumadin
+T27	Reason 6124 6128	pain
+T28	Drug 118 126	Novocain
+T29	Drug 5628 5633	PRBCs
+T30	Dosage 5617 5618;5619 5624	2 units
+T31	Form 5837 5843	Tablet
+T32	Dosage 5849 5856	One (1)
+T33	Frequency 5867 5872	daily
+T34	Form 5898 5904	Tablet
+T35	Dosage 5910 5917	One (1)
+T36	Frequency 5928 5933;5934 5941	DAILY (Daily)
+T37	Form 5972 5978	Tablet
+T38	Dosage 5984 5991	One (1)
+T39	Strength 6050 6063	5-325 mg/5 mL
+T40	Form 6064 6072	Solution
+T41	Dosage 6078 6086	5-10 MLs
+T42	Route 6087 6089	PO
+T43	Frequency 6090 6119	Q4H (every 4 hours) as needed
+T44	Dosage 6188 6191;6192 6195	One (1)
+T45	Form 6196 6226	Tablet, Delayed Release (E.C.)
+T46	Route 6227 6229	PO
+T47	Frequency 6230 6251	Q24H (every 24 hours)
+T48	Drug 7503 7516;7517 7528	pain medicine (narcotics)
+T49	ADE 7539 7551	constipation
+T50	Drug 7785 7789;7790 7798	pain medicine
+R1	Strength-Drug Arg1:T8 Arg2:T7
+R2	Form-Drug Arg1:T9 Arg2:T7
+R3	Route-Drug Arg1:T10 Arg2:T7
+R4	Strength-Drug Arg1:T12 Arg2:T14
+R5	Form-Drug Arg1:T13 Arg2:T14
+R6	Strength-Drug Arg1:T16 Arg2:T19
+R7	Form-Drug Arg1:T17 Arg2:T19
+R8	Route-Drug Arg1:T18 Arg2:T19
+R9	Strength-Drug Arg1:T21 Arg2:T20
+R10	Form-Drug Arg1:T22 Arg2:T20
+R11	Frequency-Drug Arg1:T23 Arg2:T20
+R12	Route-Drug Arg1:T24 Arg2:T20
+R13	Dosage-Drug Arg1:T30 Arg2:T29
+R14	Frequency-Drug Arg1:T33 Arg2:T7
+R15	Dosage-Drug Arg1:T32 Arg2:T7
+R16	Form-Drug Arg1:T31 Arg2:T7
+R17	Frequency-Drug Arg1:T36 Arg2:T19
+R18	Dosage-Drug Arg1:T35 Arg2:T19
+R19	Form-Drug Arg1:T34 Arg2:T19
+R20	Form-Drug Arg1:T37 Arg2:T20
+R21	Dosage-Drug Arg1:T38 Arg2:T20
+R22	Reason-Drug Arg1:T27 Arg2:T3
+R23	Frequency-Drug Arg1:T43 Arg2:T3
+R24	Route-Drug Arg1:T42 Arg2:T3
+R25	Dosage-Drug Arg1:T41 Arg2:T3
+R26	Form-Drug Arg1:T40 Arg2:T3
+R27	Strength-Drug Arg1:T39 Arg2:T3
+R28	Frequency-Drug Arg1:T47 Arg2:T14
+R29	Dosage-Drug Arg1:T44 Arg2:T14
+R30	Form-Drug Arg1:T45 Arg2:T14
+R31	Route-Drug Arg1:T46 Arg2:T14
+T51	Drug 7344 7373	anti-inflammatory medications
+T52	Reason 7730 7734	Pain
+T53	Drug 1253 1268	anti-coagulated
+T54	Reason 1212 1231	Atrial fibrillation
+R32	Reason-Drug Arg1:T54 Arg2:T53
+R33	ADE-Drug Arg1:T49 Arg2:T48	
+R34	Reason-Drug Arg1:T52 Arg2:T50	

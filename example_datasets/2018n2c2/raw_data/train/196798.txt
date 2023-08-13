@@ -1,0 +1,667 @@
+Admission Date:  [**2167-4-28**]              Discharge Date:   [**2167-7-2**]
+
+Date of Birth:  [**2114-1-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2181**]
+Chief Complaint:
+Transferred from OSH with hypoxic respiratory failure
+
+Major Surgical or Invasive Procedure:
+Intubation
+Tunneled HD line placement
+hemodialysis
+PICC placement, PICC removal
+
+History of Present Illness:
+This is a 53 year-old woman with history of CAD, CHF, copd on
+home oxygen, pulm hypertension, polysubstance abuse who
+presented to OSH earlier today ([**4-28**]) with altered mental
+status. As per records, patient presented after her VNA noted
+medical non-compliance and apparent overuse of sedating
+medications and summoned EMS. When patient arrived at OSH, the
+patient was somewhat confused and hypoxic to high 80's on 3
+liters. (Unclear baseline requirement but on home oxygen). Also
+tachycardic to 100, tachypneic to mid 20's and hypertensive to
+160's. She had low grade fevers to 99. She was felt to be in
+congestive heart failure, was noted to have hyperkalemia, and
+apparently new renal failure with creatinine in 6's. A central
+line was placed but then the patient became agitated,
+self-extracted the femoral line. Serial haldol, benadryl and
+ativan x3 were not effective in sedating her and therefore the
+patient was intubated for airway protection. The femoral line
+was replaced. The patient had a NG tube placed, was given
+kayxelate, calcium gluconate, bicarb, insulin, and glucose for
+hyperkalemia, las well as lasix for CHF. She was given a dose of
+levoquin for UTI/possible pneumonia. The patient had an anion
+gap acidosis and there was concern for ethylene glycol because
+"urate crystals" were noted in the urine.
+.
+She was noted to have coffee grounds by NGT.
+.
+The patient was transferred to [**Hospital1 18**] ER. In our ER, received a
+tox consult, renal consult, GI consult and CXR. The CXR
+confirmed CHF. Flomipazole was given for possible ethylene
+glycol intoxication. Renal recommended: no dialysis, give
+bicarb. GI recommended: protonix, ffp and vitamin K. Tox: no
+other reccs.
+.
+Vitamin K 10 subcut, 2 units FFP, protonix, insulin, dextrose,
+calcium gluconate, Kaexelate and bicarb given.
+.
+
+
+Past Medical History:
+(per OSH records)
+1. COPD-on 4L O2 by NC at home
+2. Pulmonary Hypertension
+3. CAD
+4. CHF--diastolic dysfunction
+5. Anxiety
+6. Polysubstance Abuse
+7. PVD s/p L AKA
+
+
+Social History:
+Lives alone in [**Doctor Last Name **], has a visiting nurse.
+
+Family History:
+unknown
+
+Physical Exam:
+ADMISSION EXAM
+VS: Temp: 97.5 BP:154/65 HR:89 RR:24 100%O2sat
+VENT: AC 550x24, fio2 of 1, peep of 10.
+I/O: 150/400 in our emergency department
+general: intubated, sedated
+HEENT: Pupils equal, minimally responsive, anicteric, MMM, op
+without lesions, no supraclavicular or cervical lymphadenopathy
+
+lungs: Crackles [**12-9**] way up
+heart: RR, S1 and S2 wnl, no murmurs, rubs or gallops
+appreciated but difficult to appreciate
+abdomen: nd, +b/s, soft, nt, no masses or hepatosplenomegaly
+extremities: no cyanosis, clubbing or edema. Left AKA
+skin/nails: no rashes/no jaundice/
+neuro: intubated, sedated
+
+
+Pertinent Results:
+[**2167-4-28**] 08:30PM BLOOD
+-WBC-19.5* RBC-4.94 HGB-13.1 HCT-41.0 MCV-83 MCH-26.5* MCHC-31.9
+RDW-18.5* NEUTS-83.7* BANDS-0 LYMPHS-10.3* MONOS-5.7 EOS-0.2
+BASOS-0.1
+PT-28.5* PTT-30.6 INR(PT)-3.0*  PLT SMR-HIGH PLT COUNT-449*;
+HYPOCHROM-1+ ANISOCYT-2+ POIKILOCY-NORMAL MACROCYT-NORMAL
+MICROCYT-NORMAL POLYCHROM-1+
+-ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG
+tricyclic-POS  OSMOLAL-313*
+cTropnT-0.08*
+CK(CPK)-231*
+GLUCOSE-101 UREA N-105* CREAT-6.5* SODIUM-130* POTASSIUM-6.8*
+CHLORIDE-98 TOTAL CO2-16* ANION GAP-23*
+[**2167-4-28**] 08:39PM   GLUCOSE-92 LACTATE-1.3 K+-6.3*
+.
+[**2167-4-28**] 09:00PM URINE
+EOS-NEGATIVE; RBC-[**5-17**]* WBC-21-50* BACTERIA-MANY YEAST-NONE
+EPI-[**5-17**]; BLOOD-MOD NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-TR
+BILIRUBIN-SM UROBILNGN-NEG PH-5.0 LEUK-SM; COLOR-Yellow
+APPEAR-Hazy SP [**Last Name (un) 155**]-1.020
+[**2167-4-28**] 09:00PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-POS
+cocaine-NEG amphetmn-NEG mthdone-NEG; OSMOLAL-376
+[**2167-4-28**] 09:35PM   TYPE-ART PO2-60* PCO2-45 PH-7.23* TOTAL
+CO2-20* BASE XS--8
+[**2167-4-28**] 10:55PM   UREA N-109* CREAT-6.5* SODIUM-135
+POTASSIUM-6.2* CHLORIDE-102 TOTAL CO2-17* ANION GAP-22*
+.
+[**2167-5-30**]  WBC-9.3  Hgb-11.0* Hct-34.3* MCV-86 MCH-27.6 MCHC-32.0
+RDW-23.8* Plt Ct-314
+[**2167-6-10**] WBC-13.1*  Hgb-9.3* Hct-30.1* MCV-93 MCH-28.5
+MCHC-30.8* RDW-24.0* Plt Ct-425
+[**2167-6-23**]  WBC-19.0*  Hgb-10.7* Hct-34.2* MCV-91 MCH-28.2
+MCHC-31.1 RDW-22.1* Plt Ct-640*
+[**2167-6-24**]  WBC-18.0*Hgb-10.7* Hct-32.8* MCV-87 MCH-28.5 MCHC-32.6
+RDW-21.6* Plt Ct-578*
+[**2167-6-27**]  WBC-16.7*  Hgb-11.0* Hct-35.7* MCV-91 MCH-28.2
+MCHC-30.9* RDW-21.2* Plt Ct-482*
+[**2167-6-28**]  WBC-19.0*  Hgb-11.4* Hct-36.3 MCV-91 MCH-28.5
+MCHC-31.4 RDW-20.9* Plt Ct-503*
+.
+MICRO:
+-Urine cultures ([**4-28**], [**5-1**], [**5-6**]):  No growth.
+.
+-Sputum ([**4-29**]):  3+ gram positive cocci in pairs and clusters.
+-Sputum ([**5-1**]):  1+ yeast.
+.
+-Blood ([**4-30**], [**5-1**], [**5-6**], [**5-15**], [**5-18**], [**6-22**]):  Negative.
+-Blood ([**6-24**], off antibx): no growth to date.
+-Blood ([**5-14**]): One bottle with staph coagulase negative.
+.
+-Catheter tip ([**5-6**]):  No growth.
+-Catheter tip ([**5-13**]): No growth.
+-Catheter tip ([**5-22**], [**5-26**], [**6-20**]): No growth.
+.
+-Hemodialysis catheter blood cx ([**6-18**]): No growth.
+.
+-Stool ([**5-8**], [**5-10**], [**5-11**], [**5-31**], [**6-27**]):  C. diff. negative.
+.
+-Blood ([**5-22**]): RPR Negative.
+.
+[**4-30**] ECHO
+The left atrium is normal in size. The right atrium is
+moderately dilated.
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular
+cavity size is normal. Overall left ventricular systolic
+function is normal
+(LVEF>55%). The aortic valve leaflets (3) are mildly thickened.
+There is no
+aortic valve stenosis. Mild (1+) aortic regurgitation is seen.
+The mitral
+valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened. There is
+moderate pulmonary
+artery systolic hypertension. There is a trivial/physiologic
+pericardial
+effusion.
+.
+[**5-1**] CT TORSO
+IMPRESSION:
+1. No bowel obstruction is identified. Small bowel and large
+bowel loops appear unremarkable.
+2. Bilateral increased interstitial markings and septal
+thickening is suggestive of presence of the heart failure. The
+heart is also mildly enlarged.
+3. Small bilateral pleural effusions and dependent atelectatic
+changes are noted at both lung bases. Infiltrate/infection
+cannot be ruled out. Small pericardial effusion is also noted.
+4. A 4-mm nodule is noted within the anterior portion of the
+right middle lobe. Pathologically enlarged right paratracheal
+node measures 13 mm in the short axis.
+5. Diverticulosis with no evidence of diverticulitis.
+6. The aorta demonstrates severe stenosis below the renal
+arteries. No aneurysmal dilatation is noted.
+7. Small right kidney with normal sized left kidney. No
+hydronephrosis or stones are identified.
+.
+[**5-1**] CT HEAD
+1. No acute intracranial abnormality.
+2. Chronic infarcts in the right cerebellum and centrum
+semiovale.
+3. Sinus disease involving left maxillary and sphenoid sinuses.
+.
+[**5-2**] EEG
+IMPRESSION: This is an abnormal EEG due to the presence of
+probable
+periodic lateralizing epileptiform discharges (i.e., PLEDs)
+involving
+the right hemisphere which could indicate a subcortical
+abnormality
+involving this area. The presence of a diffusely slow background
+and
+disorganized background is consistent with a mild to moderate
+encephalopathy of toxic, anoxic, or metabolic etiology. The
+occasional
+sharp waves can be a sign of cortical irritability, but clinical
+
+correlation would need to be provided. No evidence for ongoing
+seizures
+is seen.
+.
+[**5-19**] ECHO/Bubble study:
+Focused study to assess for patent foramen ovale. Images were
+obtained at
+rest, with cough and post-valsalva release with injection of
+agitated saline.
+No evidence for an atrial septal defect or patent foramen ovale
+was
+identified. There is symmetric left ventricular hypertrophy with
+preserved
+global systolic function. No pericardial effusion is seen.
+.
+[**5-25**] MR spine:  1. Multilevel degenerative changes of the lower
+lumbar spine, most pronounced at the L4-5 and the L5-S1 levels
+respectively.2. Type [**First Name9 (NamePattern2) **] [**Last Name (un) 13425**] changes of the L4 and L5 vertebral
+bodies respectively. 3. No evidence of epidural abscess.
+.
+[**6-10**] Chest CTA:1. No definite evidence of pulmonary embolus. 2.
+Cardiomegaly, pleural effusions, and pulmonary edema, all
+consistent with congestive heart failure.3. Right upper and
+right middle lobe pulmonary nodules, little change since [**2167-5-1**]. Six-month followup chest CT is recommended to assess
+stability.4. Mediastinal lymphadenopathy, likely reactive.
+.
+[**6-15**] ECHO bubble: Saline contrast study performed to assess for
+intracardiac shunt. No passage of agitated saline is seen into
+the left heart is identified. The left ventricular cavity is
+normal in size. There appears to be global hypokinesis that is
+more pronounced/worse that the study of [**2167-5-19**].
+.
+[**6-19**] ECHO: The left atrium is elongated. The right atrium is
+moderately dilated. The estimated right atrial pressure is [**4-16**]
+mmHg. Left ventricular wall thicknesses and cavity size are
+normal. There is moderate to severe global left ventricular
+hypokinesis (LVEF = 30 %). Systolic function of apical segments
+is relatively preserved. No masses or thrombi are seen in the
+left ventricle. The right ventricular cavity is moderately
+dilated with mild globalfree wall hypokinesis. The aortic valve
+leaflets are mildly thickened. Mild to moderate ([**12-9**]+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild (1+) mitral regurgitation is seen. There is
+moderate pulmonary artery systolic hypertension. There is a
+trivial/physiologic pericardial effusion. Compared with the
+prior study (images reviewed) of [**2167-4-30**], global left
+ventricular systolic function is more depressed and the right
+ventricular cavity is mildly dilated and hypokinetic. The
+estimated pulmonary artery systolic pressure is higher.
+.
+[**6-22**] CT OF THE CHEST WITHOUT IV CONTRAST: There is no axillary
+lymphadenopathy. There is pretracheal lymphadenopathy measuring
+up to 1.5 cm. This is unchanged. There are small bilateral
+effusions. These are stable. Again noted is an ovoid nodule in
+the apex of the right lung measuring 1.2 x 0.5 cm. This is
+stable in appearance. There are tiny nodules in the right lung.
+These are again stable. There is diffuse septal thickening which
+is unchanged. In the presence of cardiomegaly this is consistent
+with CHF.
+CT OF THE ABDOMEN WITHOUT IV CONTRAST: The liver is without
+focal lesions. The gallbladder has been removed. Spleen,
+pancreas, adrenal glands are unremarkable. The right kidney is
+atrophic. The left kidney has some bulging of the contour at mid
+pole measuring about 1.6 cm. This is difficult to evaluate on
+the prior study as there is significant artifact from the
+patient's body touching the gantry but is likely present. There
+is no retroperitoneal lymphadenopathy. Small and large bowel are
+normal.
+CT OF THE PELVIS WITHOUT IV CONTRAST: The uterus is normal in
+size and contains some calcified fibroids. There is
+diverticulosis of the sigmoid colon. There is no adjacent
+inflammatory fat stranding. There is no free fluid in the
+pelvis. No pelvic adenopathy is noted. On bone windows, there
+are degenerative changes involving the lumbar spine. IMPRESSION:
+1. No findings to explain the patient's symptoms. The
+examination is essentially unchanged in comparison to prior
+studies.
+2. Interstitial prominence and small bilateral pleural effusions
+with cardiomegaly are consistent with CHF. Again this is stable.
+3. Mediastinal adenopathy unchanged.
+.
+[**6-23**] RUQ US:1. No focal fluid collections. 2. Atrophic right
+kidney consistent with chronic renal failure.
+.
+
+[**2167-6-30**]
+4:18p
+Other Blood Chemistry:
+HBsAg: Negative
+HBs-Ab: Negative
+HBc-Ab: Negative
+
+[**2167-4-29**] 05:41PM
+Report Comment:
+Source: Line-hemodialysis
+HEPATITIS
+Hepatitis B Surface Antigen NEGATIVE
+Hepatitis B Surface Antibody POSITIVE
+Hepatitis B Virus Core Antibody NEGATIVE
+HEPATITIS C SEROLOGY
+Hepatitis C Virus Antibody POSITIVE
+
+
+Brief Hospital Course:
+DISCHARGE SUMMARY (as of [**2167-5-27**])
+Assessment and Plan:
+This is a 53 year old woman with coronary artery disease,
+congestive heart failure, copd, pulmonary hypertension, s/p L
+AKA who is oxygen dependent on nasal canula 4 liters at home,
+and polysubstance abuse who presented to [**Hospital3 35813**] Center
+in [**State 792**]with altered mental status, hypoxia, and
+agitation.  She was intubated for airway protection and
+transferred to [**Hospital1 18**].  Course complicated by anuric renal
+failure requiring dialysis.
+.
+1)Mental Status change:
+Most likely multifactorial, as patient with previous
+polysubstance abuse.  Chronic small vessel disease noted on head
+CT.  EEG negative for seizure activity.  Per family, patient
+lives alone and able to care for herself and perform activities
+of daily living.
+On admission, toxicology screen revealed opiates and tricyclics,
+and by medical notes on transfer, patient had been using more
+sedating medications than normal.  Neurology evaluated patient
+and vitamin B12 and folate levels were normal.  She received
+thiamine.  TSH level was elevated to 8 and her T4 was only very
+slightly below normal.  Thus, thyroid function was not
+attributed to altered mental status.  An EEG revealed
+encephalopathy, but no seizures.  CT head revealed chronic small
+vessel disease.  LP and MRI were deferred.
+-Upon extubation, patient slowly became more alert, first with
+purposeful eye tracking and then by following simple commands.
+She received Haldol and Ativan, which sedated her profoundly for
+several days. Then, after extubation, she began to have
+conversations but with frequent outbursts with cursing at times,
+poor attention and short term memory.  She became febrile on
+[**2167-5-7**], which was concerning for a line infection, and was
+treated initially with Vanco/Zosyn changed to Vanco/Meropenem
+plan for 3 day course complete [**2167-5-9**]. C. diff negative x3.  Her
+head CT was unchanged.
+On [**5-13**], patient had her PICC line and tunneled HD line placed
+and developed fevers within 12 hours.  Only one blood culture
+from [**5-14**] revealed one bottle of staph coagulase negative
+organisms.  Treated with ten day course of vancomycin (per HD
+protocol) through [**5-23**].
+-Lexapro was restarted on [**2167-5-12**], but held on [**5-22**].
+Psychiatry continued to follow patient and for continued
+outbursts  recommended haldol 0.5mg PO/IV three times daily.  As
+above, concern that heavy sedatives with ativan and haldol cause
+profound sedation.  She required soft wrist restraints for
+prevention of line removal. Pt was transferred to the MICU on
+[**6-2**] for respiratory compromise (see below).
+-Upon arriving at the floor on [**6-5**] the patient was AOx3, but
+with residual confusion, impulse control issues, and aggitation.
+ Her course was complicated by recurrent episodes of aggitation
+and anxiety which were hard to control.  She perseverated on her
+medications, her course, and her dietary restrictions.  Psych
+was consulted and attempted to help control these outbursts
+without using benzodiazepems.  She often complained of dyspnea,
+but requested ativan as treatment. She was transferred to the
+MICU for low O2 saturation, where she was diuresed for
+congestive heart failure/volume overload. She was transferred
+back to the floor on [**6-15**], where she continued to be anxious and
+take off her O2 mask. Psych recommended continuing standing
+haldol as well as 100mg neurontin qhs. Benzodiazepines were
+avoided. This combination had a calming effect and the patient
+was significantly less agitated without being over-sedated,
+thought to be back to her baseline mental status.  Remained at
+baseline mental status for the rest of the hospitalization
+.
+2) Respiratory Compromise:
+At outside hospital, patient was hypoxic to high 80's on 3L.  At
+home, she requires 4L nasal canula.  Patient has history of
+COPD, CHF, and pulmonary hypertension per outside notes.
+Intubated on transfer and thought that congestive heart failure
+contributed to hypoxemic event.  No clear pneumonia.  Patient
+was aggressively diuresed via hemodialysis.  She was extubated
+on [**5-7**].  Hypoxia seems out of proportion to edema
+demonstrated on imaging.  TTE was negative for patent foramen
+ovale.
+.
+On [**2167-6-1**], the patient triggered for hypoxia 68% on 6 liters
+(the patient formerly had been 90-92% on 6 liters. On recheck,
+the O2 sat was 88% and then 90-91% on 6 liters without
+intervention. The patient was scheduled to have HD as scheduled
+on [**2167-6-2**].
+.
+At HD, the HD catheter was noted to be nonfunctioning. TPA was
+tried without success. Then, the patient was found to be hypoxic
+to 75% at HD with ABG 7.53/26/44 0on a 40% venti mask.  On a
+NRB, the patient's saturations improved to 97% and a repeat gas
+was 7/53/27/58.
+.
+The patient denied any chest pain and says the shortness of
+breath was not acute in onset but had been developing over the
+past few days. However, her SBP was noted to be 188-216 during
+HD and the patient was given her am BP meds as a result.  CXR
+indicated volume overload and pt. was thought to have had acute
+pulmonary edema [**1-9**] hypertension and inability to dialyze.  Pt
+was transferred to MICU and had temporary femoral HD line
+initially placed, then tunneled HD line placed by IR [**6-3**].  She
+had 7L removed during MICU course with improvement of
+oxygenation and was sent back to floor [**6-5**].
+.
+While on the floor she was maintained on 6L of NC.  She did
+occasionally complain of dyspnea and anxiety, however it was
+hard to differentiate this from her psychiatric issues, as she
+was often breathing at a normal rate and sat'ing in the mid 90s
+while complaining.  She generally maintained saturations from
+88-95%.  She did have at least two desat's into the low 80s at
+night, but responded within minutes to reassurance and haldol
+without changing any pulmonary medications or oxygen.  On [**6-9**]
+she had an episode of somlenence and increased confusion after
+her Haldol had been increased to 2mg/dose and her NC O2 dropped
+to 4L.  SHe was somlenent but arousable, and still oriented to
+self  She recovered mental status quickly after a 50% venti mask
+was placed, and was then seen by the MICU staff. She was
+transferred again to the MICU at that point, and again was
+diuresed aggressively with good result. Repeat TTE again showed
+no patent foramen ovale/shunt. CTA was negative for PE.
+.
+She was transferred back to the floor on [**6-15**], where she
+continued to required 6-8 L O2 and occasionally desat'd in
+setting of anxiety. An echo [**6-19**] showed evidence of worsening
+CHF (EF 30% now, was >55% in [**Month (only) **]), which would explain
+continued increased oxygen requirement and SOB, with evidence of
+pulmonary edema on CXR. In conjunction with the renal team, the
+patient required almost daily HD or ultrafiltration to draw off
+fluid. Attempts were made with medications to balance the need
+for afterload reduction with supporting a blood pressure which
+could tolerate volume loss through dialysis. This primarily
+involved decreasing the patient's betablocker and verapamil dose
+significantly, while maintaining isosorbide nitrate. The patient
+was witnessed several times eating high salty foods, and being
+non-compliant with the fluid restriction which complicated
+attempts to manage her volume status. With aggressive HD, as
+well as improved management of her anxiety and aggitation
+(above) the patient gradually was weaned down to her baseline
+requirement of 4L O2 on nasal cannula.
+.
+3) Anuric renal failure:  ATN likely from TCA/opiate overdose.
+Outside hospital records revealed creatinine of 4.0 in [**Month (only) 958**]
+[**2166**].  On admission, anuric.  She was hyperkalemic, so initially
+received kayxelate, calcium gluconate, insulin, and
+bicarbonated.  No ECG changes.  Renal ultrasound negative for
+obstruction.  Received aggressive hemodialysis sessions. There
+was concern that tunneled dialysis line infected, but as she was
+not rigoring and did not ever develop fever or hypotension
+except when on dialysis, believed that filter on hemodialysis
+machine may have caused adverse reaction.  Asaghi filter used on
+[**5-22**] with good effect.
+.
+Management of the patient's volume status was complicated by
+dietary noncompliance and aggitation. After requiring 2 MICU
+transfers from the floor due to decreased oxygen saturation from
+pulmonary edema, we were finally able to dialyze her
+sufficiently to bring her back to baseline oxygen requirement.
+We monitored her intake carefully and impressed upon her the
+importance of dietary compliance. Adding neurontin to her
+anxiety regimen helped calm her and she became more compliant
+with our management strategy and was less likely to take off her
+oxygen support.  Renal recommends performing a 24 hour urine
+collection after one month to re-evaluate her renal status.
+.
+4) Cardiovascular:
+--Ischemia: History of coronary artery disease.  As outpatient,
+on aspirin but no beta blocker or ace-inhibitor.  ECG without
+ischemic changes and initial cardiac enzymes negative. Continued
+aspirin and added beta blocker.
+--Pump: Evidence of pulmonary edema and congestive heart failure
+on admission.  As anuric, removed excess fluid with
+hemodialysis.
+--Rhythm: Remained in sinus rhythm.  Started on beta blockade.
+--Hypertension:  Severely elevated blood pressures.  Started
+amlodipine, metoprolol, and isorbide.  Goal blood pressure <170,
+but due to longstanding hypertension, developed worsened mental
+status when blood pressures less than 140.  Most likely due to
+hypoperfusion.  In setting of hypotensive episodes during
+dialysis, held antihypertensives on mornings of dialysis. Over
+the course of hospitalization, we adjusted her bp medications
+according to what was tolerated during dialysis. On discharge,
+she is taking isosorbide mononitrate 30mg SR and toprol XL 100mg
+q day.
+.
+5) GI:
+On admission, apparent UGI bleeding.  Coffee grounds in NGT but
+this was in setting of supratherapeutic INR. Subsequently
+resolved status post reversal of INR.  Treated with IV (and then
+po) protonix.  Her serial hematocrits remained stable.
+Abdominal CT on [**5-1**] unremarkable. Diverticulosis was noted on
+subsequent abdominal CT (as above).
+.
+6) Infectious Disease:
+On admission, received levofloxacin, but then broadened to zosyn
+and vancomycin for UTI.  Completed seven day course on [**5-5**].
+Shortly after discontinuation of antibiotics, was transiently
+febrile, so started meropenem and vancomycin on [**5-7**] for 3 day
+course.
+PICC line was placed and tunneled HD line placed on [**5-13**].
+Febrile shortly after line placed (1/4 bottles with staph
+coagulase negative), so started ten day course of vancomycin
+that was completed on [**5-23**]. New PICC placed [**6-3**] for
+antibiotics and question of infection.
+On [**6-17**] ID was consulted for rising leukocytosis. Bacillus
+species grew from [**6-19**] PICC blood cx, pt was started on cefepime
+for bacteremia on [**6-20**] (initial culture result said GNR) and
+PICC was d/c'd. Was discovered on [**6-23**] that bacillus likely was
+a contaminant. Pt has been afebrile, but given persistently high
+WBC, there was concern for infection or other etiology. [**6-18**]
+culture from HD catheter had no growtn. C. Diff was negative.
+Antibiotics were discontinued on [**6-23**] given no organism isolated
+and patient being afebrile. Subsequent culture from [**6-24**] showed
+no growth to date. Can consider other cause of leukocytosis:
+patient was not on systemic steroids so that is unlikely to be a
+cause. Patient had mediastinal lymphadenopathy and lung nodules,
+which could suggest a malignant cause. Recommend working up
+malignancy as outpatient given that patient is clinically stable
+and would benefit from rehab placement.
+.
+7) Depression:
+On outpatient lexapro.  Restarted during hospitalization, but
+discontinued, per psychiatry, on [**5-22**].
+.
+8) Prophylaxis:
+Patient on SC heparin (was on coumadin as outpatient, but
+unclear reason), lansoprazole, bowel regimen, and thiamine.
+.
+9) Access:
+PICC placed on [**5-13**], but removed [**5-22**].  Tunneled
+hemodialysis catheter placed on [**5-13**].  PICC placed [**6-3**],
+removed [**6-21**].
+.
+10) FEN:
+Initially on tubefeeds.  Speech and swallow evaluation on [**5-18**] cleared patient for thin liquids and pureed solids.
+Aspiration precautions. Eventually advanced to regular renal
+diet. Occasionally was hyponatremic, thought due to excess free
+water ingestion.  Was kept on fluid restriction 1L/day, with
+varying effect as patient would sometimes obtain water/fluids
+when the nurse was not looking.
+.
+11) Rash:
+Patient noted to have morbilliform rash on trunk and flank on
+evening of [**5-25**].  Most likely result of drug reaction.
+Potentially vancomycin.  Started on hydrocortisone cream, sarna
+lotion, and triamcinolone cream. Resolved. Pt also noted to have
+intragluteal irritation with sattelite lesions, likely yeast
+infection. Started on miconazole powder.
+.
+12) Code:
+Full.  Confirmed with daughter. (in the past patient had said
+she wanted to be DNR/DNI but then reversed this).
+.
+Communication:
+Daughter, [**Name (NI) **] - [**Telephone/Fax (1) 72819**].
+.
+Dispo:
+To    . Has outpatient HD slot at [**Location (un) 37361**] for MWF.
+
+
+Medications on Admission:
+Unsure of doses--from [**Hospital1 **] records
+1.Aspirin
+2.Hydralazine
+3.Imdur
+4.Amytriptyline
+5.Lexapro
+6.Ativan
+7.Advair
+8.Combivent
+9.Albuterol
+10. Lasix
+11. Coumadin
+12. Cardizem
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY (Daily).
+2. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette [**Hospital1 **]: [**12-9**]
+Drops Ophthalmic PRN (as needed).
+3. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+4. Docusate Sodium 100 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO BID (2
+times a day) as needed: hold for diarrhea.
+5. Senna 8.6 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO BID (2 times a
+day) as needed: hold for diarrhea.
+6. Lactulose 10 g/15 mL Syrup [**Last Name (STitle) **]: Thirty (30) ML PO Q8H (every
+8 hours) as needed: hold for diarrhea.
+7. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution [**Last Name (STitle) **]: One (1)
+Inhalation Q4H (every 4 hours) as needed for wheezing.
+8. Acetaminophen 325 mg Tablet [**Last Name (STitle) **]: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+9. Thiamine HCl 100 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY
+(Daily).
+10. B Complex-Vitamin C-Folic Acid 1 mg Capsule [**Last Name (STitle) **]: One (1) Cap
+PO DAILY (Daily).
+
+12. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device [**Last Name (STitle) **]:
+One (1) inh, Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+13. Budesonide 0.25 mg/2 mL Solution for Nebulization [**Hospital1 **]: One
+(1) neb Inhalation [**Hospital1 **] (2 times a day).
+14. Nystatin 100,000 unit/mL Suspension [**Hospital1 **]: Five (5) ML PO QID
+(4 times a day).
+15. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr
+[**Hospital1 **]: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+16. Haloperidol 1 mg Tablet [**Hospital1 **]: One (1) Tablet PO Q4-6H (every
+4 to 6 hours) as needed for anxiety or aggitation.
+17. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution [**Hospital1 **]: One (1)
+neb ih Inhalation Q6H (every 6 hours) as needed.
+18. Tramadol 50 mg Tablet [**Hospital1 **]: One (1) Tablet PO Q12H (every 12
+hours) as needed.
+19. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated [**Hospital1 **]:
+One (1) Adhesive Patch, Medicated Topical Q24H (every 24 hours).
+
+20. Ipratropium Bromide 0.02 % Solution [**Hospital1 **]: One (1) neb
+Inhalation Q6H (every 6 hours) as needed.
+21. Haloperidol 2 mg Tablet [**Hospital1 **]: One (1) Tablet PO TID (3 times
+a day).
+22. Zolpidem 5 mg Tablet [**Hospital1 **]: 1-2 Tablets PO HS (at bedtime).
+23. Miconazole Nitrate 2 % Powder [**Hospital1 **]: One (1) Appl Topical QID
+(4 times a day) as needed.
+24. Sevelamer 400 mg Tablet [**Hospital1 **]: One (1) Tablet PO TID W/MEALS
+(3 TIMES A DAY WITH MEALS).
+25. Gabapentin 100 mg Capsule [**Hospital1 **]: One (1) Capsule PO HS (at
+bedtime): hold for oversedation.
+26. Toprol XL 100mg Tablet [**Hospital1 **]: One (1) Tablet PO once a day
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Banister House
+
+Discharge Diagnosis:
+congestive heart failure ,  acute on chronic renal failure
+
+Discharge Condition:
+ Discharge to Banister house in [**Hospital1 789**], RI, stable,
+afebrile, good po intake, wheelchair bound [**1-9**] amputation
+
+Discharge Instructions:
+please seek medical attention for shortness of breath, chest
+pain, dizzyness, headache
+
+Please  take your medications as prescribed.
+
+Followup Instructions:
+Please get a repeat chest CT in 6 months to monitor the R upper
+and middle pulmonary nodules.
+.
+Please get a 24 hour urine test to evaluate your kidney in one
+month
+
+
+
+Completed by:[**2167-7-2**]

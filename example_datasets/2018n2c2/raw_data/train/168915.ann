@@ -1,0 +1,99 @@
+T1	Drug 162 173	Penicillins
+T2	Drug 176 184	Levaquin
+T3	Drug 187 203	Dextromethorphan
+T4	Drug 222 230	Actigall
+T5	Drug 233 242	Zithromax
+T6	Drug 2910 2913	IVF
+T8	Drug 3161 3169	Dilaudid
+T9	Reason 3174 3178	pain
+R2	Reason-Drug Arg1:T9 Arg2:T8
+T10	Drug 3224 3232	fentanyl
+T11	ADE 3252 3256	rash
+R3	ADE-Drug Arg1:T11 Arg2:T12
+T12	Drug 3262 3270	Dilaudid
+T13	Reason 3309 3313	pain
+R4	Reason-Drug Arg1:T13 Arg2:T10
+T14	Reason 3393 3397	pain
+R5	Reason-Drug Arg1:T14 Arg2:T15
+T15	Drug 3416 3423	Roxicet
+T16	Route 3954 3965	intravenous
+R6	Route-Drug Arg1:T16 Arg2:T17
+T17	Drug 3966 3971	fluid
+T18	Drug 5015 5026	antibiotics
+T19	Reason 5059 5070	Prophylaxis
+R7	Reason-Drug Arg1:T19 Arg2:T21
+T20	Route 5093 5105	subcutaneous
+R8	Route-Drug Arg1:T20 Arg2:T21
+T21	Drug 5106 5113	heparin
+T22	Drug 5693 5703	Lisinopril
+T23	Strength 5704 5709	10 mg
+R9	Strength-Drug Arg1:T23 Arg2:T22
+T24	Frequency 5710 5715	daily
+R10	Frequency-Drug Arg1:T24 Arg2:T22
+T25	Drug 5718 5727	Metformin
+T26	Strength 5728 5735	1000 mg
+R11	Strength-Drug Arg1:T26 Arg2:T25
+T27	Drug 5755 5767	Pioglitazone
+T28	Strength 5768 5773	15 mg
+R12	Strength-Drug Arg1:T28 Arg2:T27
+T29	Frequency 5774 5779	daily
+R13	Frequency-Drug Arg1:T29 Arg2:T27
+T30	Drug 5782 5792	Sertraline
+T31	Strength 5793 5798	50 mg
+R14	Strength-Drug Arg1:T31 Arg2:T30
+T32	Frequency 5799 5804	daily
+R15	Frequency-Drug Arg1:T32 Arg2:T30
+T33	Drug 5807 5826	Vitamin supplements
+T34	Drug 5855 5878	oxycodone-acetaminophen
+T35	Strength 5879 5892	5-325 mg/5 mL
+R16	Strength-Drug Arg1:T35 Arg2:T34
+T36	Form 5893 5901	Solution
+R17	Form-Drug Arg1:T36 Arg2:T34
+T37	Dosage 5907 5915	5-10 MLs
+R18	Dosage-Drug Arg1:T37 Arg2:T34
+T38	Route 5916 5918	PO
+R19	Route-Drug Arg1:T38 Arg2:T34
+T39	Frequency 5919 5949	every four (4) hours as needed
+R20	Frequency-Drug Arg1:T39 Arg2:T34
+T40	Reason 5954 5958	pain
+R21	Reason-Drug Arg1:T40 Arg2:T34
+T41	Drug 5992 6007	docusate sodium
+T42	Strength 6008 6018	50 mg/5 mL
+R22	Strength-Drug Arg1:T42 Arg2:T41
+T43	Form 6019 6025	Liquid
+R23	Form-Drug Arg1:T43 Arg2:T41
+T44	Dosage 6031 6042	Ten (10) ml
+R24	Dosage-Drug Arg1:T44 Arg2:T41
+T45	Route 6043 6045	PO
+R25	Route-Drug Arg1:T45 Arg2:T41
+T46	Frequency 6046 6053;6054 6067	twice a day as needed
+R26	Frequency-Drug Arg1:T46 Arg2:T41
+T47	Reason 6072 6084	constipation
+R27	Reason-Drug Arg1:T47 Arg2:T41
+T48	Drug 6115 6124	metformin
+T49	Strength 6125 6133	1,000 mg
+R28	Strength-Drug Arg1:T49 Arg2:T48
+T50	Form 6134 6140	Tablet
+R29	Form-Drug Arg1:T50 Arg2:T48
+T51	Dosage 6146 6153	One (1)
+R30	Dosage-Drug Arg1:T51 Arg2:T48
+T52	Form 6154 6160	Tablet
+R31	Form-Drug Arg1:T52 Arg2:T48
+T53	Route 6161 6163	PO
+R32	Route-Drug Arg1:T53 Arg2:T48
+T54	Frequency 6164 6175	twice a day
+R33	Frequency-Drug Arg1:T54 Arg2:T48
+T55	Drug 6194 6204	lisinopril
+T56	Route 6206 6210	Oral
+R34	Route-Drug Arg1:T56 Arg2:T55
+T57	Drug 6214 6224	sertraline
+T58	Route 6226 6230	Oral
+R35	Route-Drug Arg1:T58 Arg2:T57
+T59	Drug 6234 6241	Lipitor
+T60	Route 6243 6247	Oral
+R36	Route-Drug Arg1:T60 Arg2:T59
+T61	Drug 6251 6256	Actos
+T62	Route 6258 6262	Oral
+R37	Route-Drug Arg1:T62 Arg2:T61
+T7	Route 3158 3160	IV
+R1	Route-Drug Arg1:T7 Arg2:T8	

@@ -1,0 +1,384 @@
+T1	Route 10004 10006	PO
+R1	Route-Drug Arg1:T1 Arg2:T221
+T2	Frequency 10007 10010	TID
+R2	Frequency-Drug Arg1:T2 Arg2:T221
+T3	Drug 10031 10041	Calcitriol
+T4	Strength 10042 10050	0.25 mcg
+R3	Strength-Drug Arg1:T4 Arg2:T3
+T5	Form 10051 10058	Capsule
+R4	Form-Drug Arg1:T5 Arg2:T3
+T6	Dosage 10064 10067;10068 10071	One (1)
+R5	Dosage-Drug Arg1:T6 Arg2:T3
+T7	Form 10072 10079	Capsule
+R6	Form-Drug Arg1:T7 Arg2:T3
+T8	Route 10080 10082	PO
+R7	Route-Drug Arg1:T8 Arg2:T3
+T9	Frequency 10083 10088	DAILY
+R8	Frequency-Drug Arg1:T9 Arg2:T3
+T10	Drug 10101 10113	Pantoprazole
+T11	Strength 10114 10119	40 mg
+R9	Strength-Drug Arg1:T11 Arg2:T10
+T12	Form 10120 10143	Tablet, Delayed Release
+R10	Form-Drug Arg1:T12 Arg2:T10
+T13	Dosage 10156 10159;10160 10163	One (1)
+R11	Dosage-Drug Arg1:T13 Arg2:T10
+T14	Form 10164 10187	Tablet, Delayed Release
+R12	Form-Drug Arg1:T14 Arg2:T10
+T15	Route 10195 10197	PO
+R13	Route-Drug Arg1:T15 Arg2:T10
+T16	Frequency 10198 10202;10203 10219	Q24H (every 24 hours)
+R14	Frequency-Drug Arg1:T16 Arg2:T10
+T17	Drug 10225 10233	Ursodiol
+T18	Strength 10234 10240	300 mg
+R15	Strength-Drug Arg1:T18 Arg2:T17
+T19	Form 10241 10248	Capsule
+R16	Form-Drug Arg1:T19 Arg2:T17
+T20	Dosage 10254 10257;10258 10261	Two (2)
+R17	Dosage-Drug Arg1:T20 Arg2:T17
+T21	Form 10262 10269	Capsule
+R18	Form-Drug Arg1:T21 Arg2:T17
+T22	Route 10270 10272	PO
+R19	Route-Drug Arg1:T22 Arg2:T17
+T23	Frequency 10273 10276	BID
+R20	Frequency-Drug Arg1:T23 Arg2:T17
+T24	Drug 10298 10307	Albuterol
+T25	Strength 10308 10324	90 mcg/Actuation
+R21	Strength-Drug Arg1:T25 Arg2:T24
+T26	Form 10325 10332	Aerosol
+R22	Form-Drug Arg1:T26 Arg2:T24
+T27	Dosage 10338 10341;10342 10345	One (1)
+R23	Dosage-Drug Arg1:T27 Arg2:T24
+T28	Route 10347 10357	Inhalation
+R24	Route-Drug Arg1:T28 Arg2:T24
+T29	Frequency 10358 10373	every 4-6 hours
+R25	Frequency-Drug Arg1:T29 Arg2:T24
+T30	Drug 10379 10388	Vitamin D
+T31	Strength 10389 10400	50,000 unit
+R26	Strength-Drug Arg1:T31 Arg2:T30
+T32	Form 10401 10408	Capsule
+R27	Form-Drug Arg1:T32 Arg2:T30
+T33	Dosage 10414 10417;10418 10421	One (1)
+R28	Dosage-Drug Arg1:T33 Arg2:T30
+T34	Form 10422 10429	Capsule
+R29	Form-Drug Arg1:T34 Arg2:T30
+T35	Route 10430 10432	PO
+R30	Route-Drug Arg1:T35 Arg2:T30
+T36	Frequency 10433 10439;10440 10444	once a week
+R31	Frequency-Drug Arg1:T36 Arg2:T30
+T37	Drug 10450 10460	Clonazepam
+T38	Strength 10461 10467	0.5 mg
+R32	Strength-Drug Arg1:T38 Arg2:T37
+T39	Form 10468 10474	Tablet
+R33	Form-Drug Arg1:T39 Arg2:T37
+T40	Dosage 10480 10483;10484 10487	One (1)
+R34	Dosage-Drug Arg1:T40 Arg2:T37
+T41	Form 10488 10494	Tablet
+R35	Form-Drug Arg1:T41 Arg2:T37
+T42	Route 10495 10497	PO
+R36	Route-Drug Arg1:T42 Arg2:T37
+T43	Frequency 10498 10509;10510 10525	three times a day as needed
+R37	Frequency-Drug Arg1:T43 Arg2:T37
+T44	Reason 10530 10537	anxiety
+R38	Reason-Drug Arg1:T44 Arg2:T37
+T45	ADE 10558 10570	oversedation
+R39	ADE-Drug Arg1:T45 Arg2:T37
+T46	Drug 10576 10598	Vancomycin in Dextrose
+T47	Strength 10599 10609	1 g/200 mL
+R40	Strength-Drug Arg1:T47 Arg2:T46
+T48	Dosage 10610 10619	Piggyback
+R41	Dosage-Drug Arg1:T48 Arg2:T46
+T49	Dosage 10625 10632;10633 10637	One (1) gram
+R42	Dosage-Drug Arg1:T49 Arg2:T46
+T50	Route 10638 10649	Intravenous
+R43	Route-Drug Arg1:T50 Arg2:T46
+T51	Frequency 10651 10655;10656 10672	Q48H (every 48 hours)
+R44	Frequency-Drug Arg1:T51 Arg2:T46
+T52	Drug 10678 10684	Epogen
+T53	Strength 10685 10699	10,000 unit/mL
+R45	Strength-Drug Arg1:T53 Arg2:T52
+T54	Form 10700 10708	Solution
+R46	Form-Drug Arg1:T54 Arg2:T52
+T55	Dosage 10714 10717;10718 10721	One (1)
+R47	Dosage-Drug Arg1:T55 Arg2:T52
+T56	Route 10722 10731	injection
+R48	Route-Drug Arg1:T56 Arg2:T52
+T57	Route 10732 10741	Injection
+R49	Route-Drug Arg1:T57 Arg2:T52
+T58	Frequency 10742 10753	once a week
+R50	Frequency-Drug Arg1:T58 Arg2:T52
+T59	Reason 10996 11018	cervical osteomyelitis
+R51	Reason-Drug Arg1:T59 Arg2:T61
+T60	Duration 11022 11029	chronic
+R52	Duration-Drug Arg1:T60 Arg2:T61
+T61	Drug 11030 11040	vancomycin
+T62	Drug 11609 11612	IVF
+T63	Frequency 11613 11621	each day
+R53	Frequency-Drug Arg1:T63 Arg2:T62
+T64	Reason 11757 11772	kidney function
+R54	Reason-Drug Arg1:T64 Arg2:T65
+T65	Drug 11814 11824	lisinopril
+T66	Drug 11904 11914	amlodipine
+T67	Drug 11919 11924	lasix
+T68	Reason 11942 11969	weight increases > 3 pounds
+R55	Reason-Drug Arg1:T68 Arg2:T69
+T69	Drug 12021 12026	lasix
+T70	Reason 12221 12230	infection
+R56	Reason-Drug Arg1:T70 Arg2:T71
+R57	Reason-Drug Arg1:T70 Arg2:T73
+T71	Drug 12247 12252	zosyn
+T72	Drug 12254 12265	antibiotics
+T73	Drug 12282 12292	vancomycin
+T74	Drug 165 174	Compazine
+T75	Drug 177 189	Methotrexate
+T76	Drug 192 203	Ceftazidime
+T77	Drug 2421 2426	Vanco
+T78	Drug 2431 2436	zosyn
+T79	Drug 2466 2471	vanco
+T80	Frequency 2472 2475	qod
+R58	Frequency-Drug Arg1:T80 Arg2:T79
+T82	Reason 3041 3054	Osteomyelitis
+R59	Reason-Drug Arg1:T82 Arg2:T83
+T83	Drug 3067 3077	Vancomycin
+T84	Reason 3441 3453	Chronic Pain
+R60	Reason-Drug Arg1:T84 Arg2:T85
+T85	Drug 3455 3463	Fentanyl
+T86	Strength 3464 3470	50 mcg
+R61	Strength-Drug Arg1:T86 Arg2:T85
+T87	Form 3471 3476	Patch
+R62	Form-Drug Arg1:T87 Arg2:T85
+T88	Drug 3507 3514	Steroid
+T89	ADE 3523 3535	Osteoporosis
+R63	ADE-Drug Arg1:T89 Arg2:T88
+T90	Drug 6746 6751	vanco
+T91	Frequency 6776 6779	qod
+R64	Frequency-Drug Arg1:T91 Arg2:T90
+T92	Frequency 6783 6785	qd
+R65	Frequency-Drug Arg1:T92 Arg2:T90
+T93	Drug 6791 6796	zosyn
+T94	Drug 695 705	vancomycin
+T95	Duration 715 722	4 years
+R66	Duration-Drug Arg1:T95 Arg2:T94
+T96	Drug 7265 7275	vancomycin
+T97	Drug 7400 7405	zosyn
+T98	Drug 7431 7441	vancomycin
+T99	Strength 7734 7739	500cc
+R67	Strength-Drug Arg1:T99 Arg2:T100
+T100	Drug 7740 7743	IVF
+T101	Form 7744 7751	boluses
+R68	Form-Drug Arg1:T101 Arg2:T100
+T102	Duration 7769 7775	48 hrs
+R69	Duration-Drug Arg1:T102 Arg2:T100
+T103	Drug 7781 7788	BP meds
+T104	Reason 7871 7876;7877 7885	blood pressure
+R70	Reason-Drug Arg1:T104 Arg2:T105
+T105	Drug 7919 7929	lisinopril
+T106	Drug 7960 7967	norvasc
+T107	Drug 7972 7977	lasix
+T108	Drug 8730 8757	Polysaccharide Iron Complex
+T109	Strength 8758 8764	150 mg
+R71	Strength-Drug Arg1:T109 Arg2:T108
+T110	Drug 8785 8797	Pantoprazole
+T111	Strength 8798 8803	40 mg
+R72	Strength-Drug Arg1:T111 Arg2:T110
+T112	Frequency 8804 8808	q 24
+R73	Frequency-Drug Arg1:T112 Arg2:T110
+T113	Drug 8812 8825	Ascorbic Acid
+T114	Strength 8826 8832	500 mg
+R74	Strength-Drug Arg1:T114 Arg2:T113
+T115	Frequency 8833 8838	daily
+R75	Frequency-Drug Arg1:T115 Arg2:T113
+T116	Drug 8842 8859	Calcium Carbonate
+T117	Strength 8860 8867	1500 mg
+R76	Strength-Drug Arg1:T117 Arg2:T116
+T118	Frequency 8868 8873	daily
+R77	Frequency-Drug Arg1:T118 Arg2:T116
+T119	Drug 8877 8887	Calcitriol
+T120	Strength 8888 8896	0.25 mcg
+R78	Strength-Drug Arg1:T120 Arg2:T119
+T121	Frequency 8897 8902	daily
+R79	Frequency-Drug Arg1:T121 Arg2:T119
+T122	Drug 8906 8920	Ergocalciferol
+T123	Drug 8922 8932	Vitamin D2
+T124	Strength 8934 8945	50,000 unit
+R80	Strength-Drug Arg1:T124 Arg2:T122
+R81	Strength-Drug Arg1:T124 Arg2:T123
+T125	Frequency 8946 8950	q wk
+R82	Frequency-Drug Arg1:T125 Arg2:T122
+R83	Frequency-Drug Arg1:T125 Arg2:T123
+T126	Drug 8954 8964	Lisinopril
+T127	Strength 8965 8970	20 mg
+R84	Strength-Drug Arg1:T127 Arg2:T126
+T128	Frequency 8971 8976	daily
+R85	Frequency-Drug Arg1:T128 Arg2:T126
+T129	Drug 8980 8990	Furosemide
+T130	Strength 8991 8996	20 mg
+R86	Strength-Drug Arg1:T130 Arg2:T129
+T131	Frequency 8997 9002	daily
+R87	Frequency-Drug Arg1:T131 Arg2:T129
+T132	Drug 9006 9014	Zolpidem
+T133	Strength 9015 9019	5 mg
+R88	Strength-Drug Arg1:T133 Arg2:T132
+T134	Frequency 9020 9023	qhs
+R89	Frequency-Drug Arg1:T134 Arg2:T132
+T135	Drug 9028 9039	Risperidone
+T136	Strength 9040 9047	0.25 mg
+R90	Strength-Drug Arg1:T136 Arg2:T135
+T137	Drug 9069 9079	Dronabinol
+T138	Strength 9080 9084	5 mg
+R91	Strength-Drug Arg1:T138 Arg2:T137
+T139	Frequency 9085 9088	tid
+R92	Frequency-Drug Arg1:T139 Arg2:T137
+T140	Drug 9093 9102	Glutamine
+T141	Strength 9103 9107	10 g
+R93	Strength-Drug Arg1:T141 Arg2:T140
+T142	Frequency 9108 9111	tid
+R94	Frequency-Drug Arg1:T142 Arg2:T140
+T143	Drug 9116 9126	Amlodipine
+T144	Strength 9127 9133	2.5 mg
+R95	Strength-Drug Arg1:T144 Arg2:T143
+T145	Frequency 9134 9139	q 2pm
+R96	Frequency-Drug Arg1:T145 Arg2:T143
+T146	Drug 9144 9152	Ursodiol
+T147	Strength 9153 9159	600 mg
+R97	Strength-Drug Arg1:T147 Arg2:T146
+T148	Drug 9181 9194	Acetaminophen
+T149	Strength 9195 9201	325 mg
+R98	Strength-Drug Arg1:T149 Arg2:T148
+T150	Frequency 9202 9205	prn
+R99	Frequency-Drug Arg1:T150 Arg2:T148
+T151	Drug 9210 9220	Clonazepam
+T152	Strength 9221 9227	0.5 mg
+R100	Strength-Drug Arg1:T152 Arg2:T151
+T153	Frequency 9228 9235	tid prn
+R101	Frequency-Drug Arg1:T153 Arg2:T151
+T154	Drug 9240 9249	Albuterol
+T155	Route 9250 9255	inhal
+R102	Route-Drug Arg1:T155 Arg2:T154
+T156	Frequency 9256 9262	q6 prn
+R103	Frequency-Drug Arg1:T156 Arg2:T154
+T157	Drug 9267 9276	Lorazepam
+T158	Strength 9277 9281	1 mg
+R104	Strength-Drug Arg1:T158 Arg2:T157
+T159	Frequency 9282 9289	qhs prn
+R105	Frequency-Drug Arg1:T159 Arg2:T157
+T160	Drug 9294 9299	Opium
+T161	Form 9300 9308	Tincture
+R106	Form-Drug Arg1:T161 Arg2:T160
+T162	Strength 9309 9317	10 mg/mL
+R107	Strength-Drug Arg1:T162 Arg2:T160
+T163	Form 9318 9326	Tincture
+R108	Form-Drug Arg1:T163 Arg2:T160
+T164	Dosage 9332 9335;9336 9340	Ten (10)
+R109	Dosage-Drug Arg1:T164 Arg2:T160
+T165	Form 9341 9345	Drop
+R110	Form-Drug Arg1:T165 Arg2:T160
+T166	Route 9346 9348	PO
+R111	Route-Drug Arg1:T166 Arg2:T160
+T167	Frequency 9349 9354;9355 9358	Q4-6H prn
+T168	Drug 9363 9377	Vancomycin HCl
+T169	Strength 9378 9385	1000 mg
+R112	Strength-Drug Arg1:T169 Arg2:T168
+T171	Frequency 9389 9393	Q48H
+R114	Frequency-Drug Arg1:T171 Arg2:T168
+T172	Drug 9398 9404	Zofran
+T173	Strength 9410 9414	8 mg
+R115	Strength-Drug Arg1:T173 Arg2:T172
+T175	Frequency 9418 9429	Q8H:PRN PRN
+R117	Frequency-Drug Arg1:T175 Arg2:T172
+T176	Drug 9434 9446	Epoetin Alfa
+T177	Strength 9447 9461	10,000 unit/mL
+R118	Strength-Drug Arg1:T177 Arg2:T176
+T178	Frequency 9462 9465	qwk
+R119	Frequency-Drug Arg1:T178 Arg2:T176
+T179	Drug 9494 9521	Polysaccharide Iron Complex
+T180	Strength 9522 9528	150 mg
+R120	Strength-Drug Arg1:T180 Arg2:T179
+T181	Form 9529 9536	Capsule
+R121	Form-Drug Arg1:T181 Arg2:T179
+T182	Dosage 9542 9545;9546 9549	One (1)
+R122	Dosage-Drug Arg1:T182 Arg2:T179
+T183	Form 9550 9557	Capsule
+R123	Form-Drug Arg1:T183 Arg2:T179
+T184	Route 9558 9560	PO
+R124	Route-Drug Arg1:T184 Arg2:T179
+T185	Frequency 9561 9564;9565 9580	BID (2 times a day)
+R125	Frequency-Drug Arg1:T185 Arg2:T179
+T186	Drug 9585 9602	Calcium Carbonate
+T187	Strength 9603 9609	500 mg
+R126	Strength-Drug Arg1:T187 Arg2:T186
+T188	Form 9610 9626	Tablet, Chewable
+R127	Form-Drug Arg1:T188 Arg2:T186
+T189	Dosage 9632 9637;9638 9641	Three (3)
+R128	Dosage-Drug Arg1:T189 Arg2:T186
+T190	Form 9642 9658	Tablet, Chewable
+R129	Form-Drug Arg1:T190 Arg2:T186
+T191	Route 9659 9661	PO
+R130	Route-Drug Arg1:T191 Arg2:T186
+T192	Frequency 9662 9667;9668 9675	DAILY (Daily)
+R131	Frequency-Drug Arg1:T192 Arg2:T186
+T193	Drug 9680 9688	Zolpidem
+T194	Strength 9689 9693	5 mg
+R132	Strength-Drug Arg1:T194 Arg2:T193
+T195	Form 9694 9700	Tablet
+R133	Form-Drug Arg1:T195 Arg2:T193
+T196	Dosage 9706 9709;9710 9713	One (1)
+R134	Dosage-Drug Arg1:T196 Arg2:T193
+T197	Form 9714 9720	Tablet
+R135	Form-Drug Arg1:T197 Arg2:T193
+T198	Route 9721 9723	PO
+R136	Route-Drug Arg1:T198 Arg2:T193
+T199	Frequency 9724 9726;9727 9739	HS (at bedtime)
+R137	Frequency-Drug Arg1:T199 Arg2:T193
+T200	Drug 9745 9756	Risperidone
+T201	Strength 9757 9764	0.25 mg
+R138	Strength-Drug Arg1:T201 Arg2:T200
+T202	Form 9765 9771	Tablet
+R139	Form-Drug Arg1:T202 Arg2:T200
+T203	Dosage 9777 9780;9781 9784	One (1)
+R140	Dosage-Drug Arg1:T203 Arg2:T200
+T204	Form 9785 9791	Tablet
+R141	Form-Drug Arg1:T204 Arg2:T200
+T205	Route 9792 9794	PO
+R142	Route-Drug Arg1:T205 Arg2:T200
+T206	Frequency 9795 9798	BID
+R143	Frequency-Drug Arg1:T206 Arg2:T200
+T207	Drug 9819 9832	Ascorbic Acid
+T208	Strength 9833 9839	500 mg
+R144	Strength-Drug Arg1:T208 Arg2:T207
+T209	Form 9840 9846	Tablet
+R145	Form-Drug Arg1:T209 Arg2:T207
+T210	Dosage 9852 9855;9856 9859	One (1)
+R146	Dosage-Drug Arg1:T210 Arg2:T207
+T211	Form 9860 9866	Tablet
+R147	Form-Drug Arg1:T211 Arg2:T207
+T212	Route 9867 9869	PO
+R148	Route-Drug Arg1:T212 Arg2:T207
+T213	Frequency 9870 9875	DAILY
+R149	Frequency-Drug Arg1:T213 Arg2:T207
+T214	Drug 9888 9898	Dronabinol
+T215	Strength 9899 9905	2.5 mg
+R150	Strength-Drug Arg1:T215 Arg2:T214
+T216	Form 9906 9913	Capsule
+R151	Form-Drug Arg1:T216 Arg2:T214
+T217	Dosage 9919 9922;9923 9926	Two (2)
+R152	Dosage-Drug Arg1:T217 Arg2:T214
+T218	Form 9927 9934	Capsule
+R153	Form-Drug Arg1:T218 Arg2:T214
+T219	Route 9935 9937	PO
+R154	Route-Drug Arg1:T219 Arg2:T214
+T220	Frequency 9938 9941	TID
+R155	Frequency-Drug Arg1:T220 Arg2:T214
+T221	Drug 9962 9971	Glutamine
+T222	Strength 9972 9976	10 g
+R156	Strength-Drug Arg1:T222 Arg2:T221
+T223	Form 9977 9983	Packet
+R157	Form-Drug Arg1:T223 Arg2:T221
+T224	Dosage 9989 9992;9993 9996	One (1)
+R158	Dosage-Drug Arg1:T224 Arg2:T221
+T225	Form 9997 10003	Packet
+R159	Form-Drug Arg1:T225 Arg2:T221
+R160	Reason-Drug Arg1:T70 Arg2:T72	
+T81	Route 9386 9388	IV
+R113	Route-Drug Arg1:T81 Arg2:T168	
+T170	Route 9415 9417	IV
+R116	Route-Drug Arg1:T170 Arg2:T172	

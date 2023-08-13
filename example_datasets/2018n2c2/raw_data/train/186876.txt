@@ -1,0 +1,328 @@
+Admission Date:  [**2152-7-25**]              Discharge Date:   [**2152-8-2**]
+
+
+Service: MEDICINE
+
+Allergies:
+Levofloxacin / Nitrofurantoin / Sulfa(Sulfonamide Antibiotics) /
+Penicillins / NSAIDS (Non-Steroidal Anti-Inflammatory Drug) /
+lansoprazole / Tomato / Celery / Egg White / Beef Containing
+Products / Strawberry / Potato Starch / peppers / oranges
+
+Attending:[**First Name3 (LF) 2782**]
+Chief Complaint:
+respiratory disress
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Ms. [**Known lastname **] is a [**Age over 90 **] yo lady with a history of COPD, CHF,
+alzheimer's and expressive aphasia, who presented from her
+nursing home to the ED in respiratory distress on [**2152-7-26**] about
+1.5 hours after eating her lunch. She has had an episode of
+aspiration about one year ago as well as urosepsis a few months
+ago. In the ED, her vitals were T 98.9F, HR 130, BP 158/66, RR
+40 and O2 sat of 91% on RL. A chest xray taken showed widespread
+coarse reticular opacities but no signs of consolidation. She
+was given solumedrol given her history of COPD. She was also
+started on IV Vancomycine and Aztreonam (due to a PCN allergy)
+as well as metronidazole. She was also given 1L Normal Saline
+for alactate of 4.7.  EKG showed sinus tachycardia. She was then
+admitted to the MICU for further care.
+
+In the MICU, her Aztreonam was dc'ed, and she was started on
+cefepime instead. She was also started on an insulin sliding
+scale. Her lactate returned to 1.3, and her cre and WBC trended
+down as well (WBC 26). Her IV fluids were tricky since any flow
+>75cc/hr led to hypertension with sbp int he 170's. However, she
+was able to tolerate small boluses of fluids. A straight cath
+performed also showed purulent liquid, though her urine cultures
+from [**2152-7-25**] were negative. After a few hours in the MICU, she
+was transferred to the floor.
+
+Review of systems:
+Limited by patient's mental status
+
+
+Past Medical History:
+-alzheimers
+-expressive aphasia
+-dysphagia
+-aspiration pneumonia in past
+-colon CA
+-asthma/COPD
+-osteoporosis
+-lumbar laminectomy
+-UTI
+-anemia
+-DM
+-CHF (EF: 67% in [**2142**])
+-Hx of MI (last known in [**2148**])
+
+Social History:
+Nursing home resident
+Per her son, she was a 40 pack year smoker. No current Etoh or
+drugs. Has 3 children, including a son who is a dermatologist at
+[**Hospital1 **], who are all very involved in her care.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Admission Exam:
+General: Pt appeared uncomfortable, laying in bed.
+Pulm: tachypnic, shallow somewhat labored breaths. diffuse
+coarse crackles heard throughout, bilaterally. Some bronchial
+sounds at the apex bilaterally along with mild wheezes.
+
+Discharge Exam
+VS: 98.2, 130-160/58-100, 18-24, 95% on RA
+General: Frail elderly woman resting comfortably in no acute
+distress
+HEENT: Right eyelid closed intermittently. Sclera anicteric,
+nasal canula in place
+Neck: supple, moist
+CV: regular, no longer tachycardic.
+Lungs: Coarse crackles along leftlung base. Otherwise, clear
+(much improved since admission). Mildly tachypneic with somewhat
+shallow breathing and occasional use of accessory muscles when
+alert. Not when sleeping.
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+GU: no foley (d/c'ed on [**2152-7-29**])
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema. lower extremities contracted
+Neuro: CNII-XII grossly intact, extremities contracted
+
+
+Pertinent Results:
+Labs on Admission:
+
+[**2152-7-25**] 09:10PM   LACTATE-4.3*
+[**2152-7-25**] 08:22PM URINE  COLOR-Straw APPEAR-Hazy SP [**Last Name (un) 155**]-1.008
+[**2152-7-25**] 08:22PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-30
+GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-LG
+[**2152-7-25**] 08:22PM URINE  RBC-59* WBC->182* BACTERIA-MOD
+YEAST-NONE EPI-0
+[**2152-7-25**] 08:22PM URINE  MUCOUS-RARE
+[**2152-7-25**] 03:20PM   LACTATE-4.7*
+[**2152-7-25**] 03:00PM   GLUCOSE-248* UREA N-29* CREAT-0.9 SODIUM-131*
+POTASSIUM-4.8 CHLORIDE-93* TOTAL CO2-24 ANION GAP-19
+[**2152-7-25**] 03:00PM   estGFR-Using this
+[**2152-7-25**] 03:00PM   cTropnT-0.01
+[**2152-7-25**] 03:00PM   WBC-12.8* RBC-4.46 HGB-12.0 HCT-38.4 MCV-86
+MCH-26.9* MCHC-31.2 RDW-14.9
+[**2152-7-25**] 03:00PM   NEUTS-83.2* LYMPHS-12.0* MONOS-1.9* EOS-2.6
+BASOS-0.4
+[**2152-7-25**] 03:00PM   PLT COUNT-427
+[**2152-7-25**] 03:00PM   PT-11.5 PTT-28.2 INR(PT)-1.1
+
+Labs on Medicine floor:
+[**2152-8-1**] 07:30AM BLOOD WBC-6.5 RBC-3.80* Hgb-10.4* Hct-33.2*
+MCV-87 MCH-27.4 MCHC-31.3 RDW-15.5 Plt Ct-347
+[**2152-8-1**] 07:30AM BLOOD Glucose-106* UreaN-11 Creat-0.7 Na-141
+K-3.2* Cl-108 HCO3-23 AnGap-13
+[**2152-8-1**] 07:30AM BLOOD Calcium-8.4 Phos-2.2* Mg-1.7
+[**2152-7-31**] 07:10PM BLOOD Lactate-1.1
+[**2152-7-28**] 04:40PM BLOOD CK(CPK)-36
+[**2152-7-28**] 07:50AM BLOOD CK(CPK)-36
+[**2152-7-28**] 04:40PM BLOOD CK-MB-3 cTropnT-0.06*
+[**2152-7-28**] 07:50AM BLOOD CK-MB-3 cTropnT-0.06*
+[**2152-7-25**] 03:00PM BLOOD cTropnT-0.01
+
+CXR ([**7-28**]):
+
+FINDINGS:  In comparison with study of [**7-25**], the diffuse
+bilateral pulmonary opacifications are less prominent.  Some of
+this may reflect the PA rather than AP frontal view.  Blunting
+of the costophrenic angles is consistent with bilateral pleural
+effusions with some compressive atelectasis at the bases.
+
+CXR ([**7-25**]):
+FINDINGS:  As compared to the previous radiograph, there is a
+mild increase in the diameter of the pulmonary vessels,
+potentially indicative of mild fluid overload.  In addition, the
+atelectasis at the left lung base has increased in extent and
+there is blunting of the left costophrenic sinus, potentially
+caused by a small left pleural effusion.  No cardiomegaly.
+Unchanged tortuosity of the thoracic aorta.  No pneumothorax.
+
+EKG: [**2152-6-30**]:
+Sinus rhythm and occasional atrial ectopy. Low limb lead
+voltage. Prior
+anteroseptal myocardial infarction. Compared to the previous
+tracing
+of [**2152-7-26**] the axis is more rightward, atrial ectopy has
+appeared. Otherwise, no diagnostic interim change.
+
+MICRO:
+ MRSA SCREEN (Final [**2152-7-27**]):
+      POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS
+
+Urine Cx, Blood Cx - negative
+
+Discharge Labs:
+
+[**2152-8-1**] 07:30AM BLOOD WBC-6.5 RBC-3.80* Hgb-10.4* Hct-33.2*
+MCV-87 MCH-27.4 MCHC-31.3 RDW-15.5 Plt Ct-347
+[**2152-8-2**] 07:45AM BLOOD Na-144 K-4.0 Cl-111*
+[**2152-8-1**] 07:30AM BLOOD Calcium-8.4 Phos-2.2* Mg-1.7
+
+Brief Hospital Course:
+Ms. [**Known lastname **] is a [**Age over 90 **]F with a history of COPD, alzheimer's dementia,
+and aspiration who presented from her nursing home in acute
+respiratory distress after eating lunch.
+
+SIRS 4 PROGRESS NOTE [**2152-7-29**]
+Assessment and Plan:
+Ms. [**Known lastname **] is a [**Age over 90 **]F with a history of COPD, alzheimer's dementia,
+and aspiration who presented from her nursing home in acute
+respiratory distress after eating lunch.
+
+# Respiratory Distress: Possibly secondary to aspiration, which
+is consistent with the presentation 1.5 hours after lunch.
+Initial CXR showed multiple reticular opacities but no
+consolidations. Repeat CXR showed less prominant bilateral
+opacifications, though there is possible bilateral pleural
+effusions with some compressed atelectasis at the bases.
+Initially on Vancomycin and Cefepime, switched to IV Ceftriaxone
+to treat UTI since pna was unlikely. IVF was at 40cc/ml for the
+last 3 days of her hospitalization. PO trial of thick liquids
+started on [**2152-7-29**], which pt tolerated well. Lungs sounded a lot
+clearer with residual right base crackles. Pt breathing
+comfortably at 94% O2 sat on room air.
+
+# Abnormal EKG - Admission EKG read yesterday by Cardiology, who
+was concerned about possible acute event. However, EKG compared
+with one in [**2142**], which also showed similar changes. Troponins
+elevated at 0.06 x 2 but did not trend up, likely from transient
+ischemia due to increased cardiac demand [**12-30**] infection. No signs
+of acute cardiac event. Medical management with beta blocker,
+asa discussed with family, who declined due to allergy to asa
+and desire for minimal medication.  Patient did tolerate
+beta-blocker (metoprolol 6.25mg) for one dose and seemed to perk
+up afterwards, but given difficulty in administration here in
+the hospital (took patient an hour to swallow pill) did not
+continue.  Can be considered as outpatient.
+
+# Sepsis: Resolved. Likely secondary to a UTI. Grossly positive
+UA though urine culture was negative, PMH of recurrent UTIs,
+recent admission to [**Hospital3 **] with urosepsis from
+multi-drug resistant E.coli, necessitating treatment with
+primaxin. Straight cath in MICU drained purulent material. Urine
+culture showed no growth, but per pt's son, pt had already
+received IV abx at that time. Plan to complete 7 day course of
+ceftriaxone on [**2152-8-3**].
+
+# Volume status: Tenuous. Per MICU and patient's son, patient
+become hypotensive with no fluids but rapidly becomes
+hypertensive (up to sbp of 170's)if fluids given too fast. At
+present appears to respond well to slow small fluid boluses, at
+a rate of 75-100cc/hr. Was continued on IVF at 40cc/hr per pts
+son as an amount that she has tolerated well in the past.
+
+# Diabetes Mellitus Type II: Started on ISS on [**2152-7-26**], but NPO,
+became hypoglycemic and ISS was downtitrated in the MICU.
+Changed to regular insulin sliding. Glucose stable. Januvia held
+while inpatient and continued to use reduced dose insulin
+slididng scale.  Can restart Januvia on d/c.
+
+# Sacral pressure ulcer: Wound care recs - Plan:  Pressure
+redistribution measures, turn and reposition every 1-2 hrs off
+back. Limit sit time to 1 hr at time and sit on a pressure
+redist cushion.
+Protect intact skin midback and coccyx area with Critic aid
+Clear
+daily and prn or every 3rd cleansing.
+
+# Pruritus: pt developed agitated pruritus starting about 15
+minutes after her cefepime infusion two days ago. Resolved on
+switch to ceftriaxone.
+
+# Hypokalemia: Resolved after repletion.
+
+#General - PT discontinued because it was too rigorous. Followed
+their initial recs of OOBx3 per day.
+.
+Transitional Issues
+- Encourage PO intake
+- Completion of ceftriaxone 1gm q24 hrs - last dose on [**2152-8-3**]
+- Consideration of maintenance fluids
+- Consider beta blocker (per pt's family, pt seemed to perk up
+after single dose of metoprolol 6.25mg PO. Systolic BP decreased
+to 120's, HR in 70's, Respiration rate to 16-20).
+
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from  NH records.
+1. Januvia *NF* (sitaGLIPtin) 25 mg Oral daily
+2. Potassium Chloride 10 mEq PO DAILY Duration: 24 Hours
+Hold for K >
+3. Multivitamins 1 TAB PO DAILY
+4. Sodium Chloride Nasal 1 SPRY NU DAILY
+5. Acetaminophen 650 mg PO Q4H:PRN pain
+6. Bisacodyl 10 mg PR HS:PRN consitpation
+
+
+Discharge Medications:
+1. Bisacodyl 10 mg PR HS:PRN consitpation
+2. Acetaminophen 650 mg PO Q4H:PRN pain
+3. Januvia *NF* (sitaGLIPtin) 25 mg Oral daily
+4. Multivitamins 1 TAB PO DAILY
+5. Potassium Chloride 10 mEq PO DAILY Duration: 24 Hours
+Hold for K >
+6. Sodium Chloride Nasal 1 SPRY NU DAILY
+7. CeftriaXONE 1 gm IV Q24H Duration: 2 Doses
+Last day is [**8-3**]
+8. Docusate Sodium (Liquid) 100 mg PO BID
+9. Polyethylene Glycol 17 g PO DAILY:PRN constipation
+give this once now and then every other day if pt does not have
+a bowel movement every other day after that.
+10. Triamcinolone Acetonide 0.025% Ointment 1 Appl TP DAILY rash
+
+please apply to rash on back once daily thin layer thx
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+South Cover Manor
+
+Discharge Diagnosis:
+bacterial Urinary tract infection
+COPD
+Dementia
+NSTEMI
+
+
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+Mental Status: Confused - always.
+
+
+Discharge Instructions:
+Mrs [**Known lastname **], you were admitted to [**Hospital1 18**] due to concern for a
+respiratory infection. You were found to have a urine infection.
+ A chest xray showed no evidence of a pneumonia, so we think its
+more likely that a urinary infection was causing your worsening
+status. You were given antibiotics and for a few days we didn't
+give you any food by mouth and gave it instead through your IV.
+When you had improved and were eating small amounts of food
+again, you were discharged back to [**Hospital3 **].
+
+You will need 2 more days of ceftriaxone for your urinary
+infection
+
+Followup Instructions:
+You will be discharged back to [**Hospital3 **] and should continue
+care under your prior outpatient doctors.
+
+
+
+Completed by:[**2152-8-3**]

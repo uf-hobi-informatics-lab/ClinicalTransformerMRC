@@ -1,0 +1,22 @@
+T1	Drug 282 288	Motrin
+T2	Drug 799 805	Keppra
+T3	Drug 676 682	Keppra
+T4	Strength 683 688	250mg
+T5	Drug 478 484	Keppra
+T6	Drug 727 733	Keppra
+T7	Strength 734 739	250mg
+R1	Strength-Drug Arg1:T4 Arg2:T3
+R2	Strength-Drug Arg1:T7 Arg2:T6
+T8	Frequency 696 714	morning of Tuesday
+T9	Frequency 747 767	morning of Wednesday
+T10	Frequency 813 834	afternon of Wednesday
+T11	Drug 357 376	Seizure Medications
+T13	Duration 502 510	two days
+T15	Reason 665 672	seizure
+R4	Duration-Drug Arg1:T13 Arg2:T5	
+R5	Reason-Drug Arg1:T15 Arg2:T3	
+R6	Frequency-Drug Arg1:T8 Arg2:T3	
+R7	Frequency-Drug Arg1:T9 Arg2:T6	
+R8	Frequency-Drug Arg1:T10 Arg2:T2	
+R9	Reason-Drug Arg1:T15 Arg2:T6	
+R10	Reason-Drug Arg1:T15 Arg2:T2	

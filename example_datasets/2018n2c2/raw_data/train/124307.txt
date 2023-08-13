@@ -1,0 +1,312 @@
+Admission Date:  [**2198-4-30**]              Discharge Date:   [**2198-5-2**]
+
+Date of Birth:  [**2119-9-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Morphine Sulfate / Codeine / Shellfish Derived / Vancomycin /
+Zosyn / lisinopril
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+throat swelling
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+78 year old female with history of acute myelofibrosis with
+panmyelosis (a rare form of acute leukemia), neutropenic, recent
+admission for mild pancreatitis as well as neutropenic fever
+after experimental chemotherapy cycle (C1D1 [**2198-4-5**], now C1D26),
+now transfered from [**Hospital1 1474**] ED with tongue and anterior neck
+swelling. Patient reports having aphthous ulcers in her mouth
+for several days secondary to chemotherapy, and had begun using
+glycerin (FIRST) mouthwash, after which she noted tongue and
+anterior neck swelling this morning. She has used this product
+in the past, but not for at least a year. She noticed soon after
+using that the bottle was expired. Patient is also on lisinopril
+for hypertension, which she has been on long-term. She was
+started on allopurinol two weeks ago. Patient noted no chest or
+abdominal pain, rashes or pruritus. She did note some dyspnea at
+the time, but no specific sensation of throat closing. She did
+notice some symptoms of drooling. She also had some nausea, but
+did not vomit. She had not eaten anything that morning. This
+type of reaction and symptomatology has never occurred before.
+She presented initially to [**Hospital1 1474**] ED where she was given
+benadryl, famotidine, IV methylprednisolone, and an epinephrine
+pen injection, after which symptoms of dyspnea dramatically
+improved, per patient report. She was then transfered to [**Hospital1 18**]
+for further management. Her tongue was still noted to be swollen
+on arrival, though she has not had any throat tightness or
+stridor symptoms.
+.
+In the ED, initial VS were: T 98.2 P 72 BP 164/72 R 16 Sat 98%
+2L. Patient was given no further medications in the [**Hospital1 18**] ED.
+Patient's hematologist/oncologist Dr. [**Last Name (STitle) **] was contact[**Name (NI) **] in
+the [**Name (NI) **] and requests Allergy consult for patient on arrival to
+[**Hospital Unit Name 153**].
+.
+On the floor, patient reports that her tongue swelling has
+decreased considerably. She reports no dyspnea, throat tightness
+or current drooling. She has no nausea at this time.
+.
+Review of systems:
+(+) nausea and dry heaves
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denied cough. Denied chest pain or tightness,
+palpitations. Denied vomiting, diarrhea, constipation or
+abdominal pain. No recent change in bowel or bladder habits. No
+dysuria. Denied arthralgias or myalgias.
+.
+
+
+Past Medical History:
+ONCOLOGIC HISTORY:
+Acute myelofibrosis with panmyelosis:
+- [**12/2195**]: presented with pancytopenia. Bone marrow biopsy at OSH
+
+showed >40% blasts. Subsequent bone marrow biopsy done at [**Hospital1 18**]
+
+showed acute myelofibrosis with panmyelosis, a rare form of
+acute leukemia, versus acute megakaryoblastic leukemia with
+acute myelofibrosis. The patholgy report favors the former given
+
+CD34 positive expression on blast cells.
+- [**2196-1-12**]: started on decitabine
+- [**2197-6-19**]: repeat bone marrow biopsy showed ~50% cellularity
+(previously 20%), 5% blasts by CD4 staining, grade [**1-26**] fibrosis
+
+(fibrosis essentially unchanged from previous), with
+normal-appearing megakaryocytes. Her chemo cycle duration was
+increased from every 28 days to 42 days.
+- [**10-1**]: acute cholecystitis sp ERCP with cocnurrent klebsiella
+
+bacteremia, had lap chole on [**11-1**].
+- [**2197-12-30**]: restarted decitabine after prolonged discontinuation
+secondary to cholecystectomy (completed 9 total cycles)
+- [**3-19**]: admitted for febrile neutropenia with no source
+identified.
+- [**2198-4-5**] RAD001 5 mg po
+- [**2198-4-6**] Start PKC412 50 mg po bid
+.
+OTHER PMH:
+1. Acute cholecystitis s/p ERCP with concurrent Klebsiella
+bacteremia [**10-1**] treated with perc cholecystostomy placement.
+2. laparoscopic cholecystectomy [**2197-11-1**]
+3. CoNS BSI [**9-1**] - treated with daptomycin for 10 day course
+4. History of endometrial cancer s/p TAH-BSO - [**2168**]
+5. Hypertension [**2156**]'s
+6. L knee replacement -[**2186**]
+7. R knee replacement - [**2187**]
+8. R eye macular degenerative disease - [**2192**]
+9. L eye cataract - [**2195**]
+10. Bilateral knee replacements
+
+
+Social History:
+Lives in [**Hospital1 1474**] by herself. Works for her daughter doing
+"computer work".
+Tobacco: none
+EtOH: social, occasional glass of wine
+IVDU: none
+.
+
+
+Family History:
+Daughter is s/p lumpectomy (?breast cancer). Father died at 41 &
+brother died at 50, both from bone cancer.
+
+
+Physical Exam:
+Physical Exam Admission:
+General: Alert, oriented, no acute distress, appears
+comfortable, pleasant
+HEENT: Sclera anicteric, tongue mildly swollen, uvula is visible
+without tongue depression, MMM, punctate hemorrhagic lesions
+over underside of tongue
+Neck: supple, JVP not elevated, no LAD in cervical or
+supraclavicular chains, no inspiratory or expiratory stridor
+Lungs: Clear to auscultation bilaterally, with no wheezes,
+rales, rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+.
+Physical Exam Discharge:
+HEENT: Sclera anicteric, tongue not swollen, uvula is visible
+without tongue depression, MMM, punctate hemorrhagic lesions
+over underside of tongue
+
+Pertinent Results:
+[**2198-4-30**] 01:10PM BLOOD WBC-1.2* RBC-3.53* Hgb-10.2* Hct-28.5*
+MCV-81* MCH-29.1 MCHC-35.9* RDW-16.6* Plt Ct-21*
+[**2198-5-1**] 02:54AM BLOOD WBC-1.1* RBC-3.17* Hgb-9.2* Hct-25.9*
+MCV-82 MCH-28.9 MCHC-35.4* RDW-16.1* Plt Ct-13*
+[**2198-4-30**] 01:10PM BLOOD Neuts-10* Bands-4 Lymphs-66* Monos-10
+Eos-0 Baso-0 Atyps-2* Metas-0 Myelos-0 Blasts-8*
+[**2198-4-30**] 01:10PM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL
+Macrocy-NORMAL Microcy-1+ Polychr-NORMAL
+[**2198-5-1**] 02:54AM BLOOD PT-13.9* PTT-27.3 INR(PT)-1.2*
+[**2198-5-1**] 02:54AM BLOOD Plt Ct-13*
+[**2198-5-1**] 02:54AM BLOOD Gran Ct-240*
+[**2198-4-30**] 01:10PM BLOOD Glucose-217* UreaN-24* Creat-0.9 Na-136
+K-3.4 Cl-103 HCO3-22 AnGap-14
+[**2198-5-1**] 02:54AM BLOOD Glucose-169* UreaN-28* Creat-0.8 Na-137
+K-3.7 Cl-104 HCO3-24 AnGap-13
+[**2198-5-1**] 02:54AM BLOOD ALT-24 AST-31 LD(LDH)-434* AlkPhos-105
+TotBili-0.3
+[**2198-4-30**] 01:10PM BLOOD Iron-130
+[**2198-4-30**] 01:10PM BLOOD calTIBC-242* Ferritn-5110* TRF-186*
+[**2198-5-1**] 02:54AM BLOOD C4-40
+[**2198-5-1**] 02:54AM BLOOD TRYPTASE-PND
+
+
+Brief Hospital Course:
+78F with history of acute myelofibrosis with panmyelosis (a rare
+form of acute leukemia), neutropenic, recent admission for mild
+pancreatitis as well as neutropenic fever after experimental
+chemotherapy cycle(C1D8 of Protocol 08-269 A Phase I (RAD001
+PKC412, day 1=[**2198-4-5**], last dose [**2198-4-12**]), now presenting with
+tongue and anterior neck swelling likely [**1-24**] lisinopril allergy
+
+#. Tongue/neck swelling/Allergy to ACEI: Most likely allergic
+reaction to ACEI (was on lisinopril).  Less likely etiologies
+would be her study drug for myelofibrosis.  Patient received IV
+steroids, benadryl and famotidine with improvement in symptoms,
+and was switched to a PO regimen of prednisone 60 mg for a total
+of 3 days..  Did not have stridor nor require intubation.
+Allergy was consulted and felt that swelling likely [**1-24**] ACEI so
+lisinopril was dc'ed and she is not to take ACEI or [**Last Name (un) **] in the
+future.  It was also recommended that she receive her study drug
+under observation such as in the infusion clnic to monitor for
+possible reaction.  Tryptase was sent to evaluate for C1
+esterase inhibitor deficiency and is still pending.
+
+#. Hypertension: Given likely allergy to lisinopril, it was
+stopped.  Home metoprolol was continued at 50 mg [**Hospital1 **] and
+amlodipine 5mg daily started to help better control BP, as she
+had SBP 150-160s.
+
+#. Myelofibrosis with panmyelosis: on C1D26 or experimental
+chemotherapy regimen. Recommenedation that pt should receive
+experimental medications while observed as above. Continued
+prophylactic levofloxacin and valacyclovir as well as home dose
+allopurinol. Transfused 1 unit platelets and 1 unit of PRBC
+during admission
+
+Code: confirmed full code during admission
+
+Contact: son [**Name (NI) **] [**Name (NI) 9449**] [**Telephone/Fax (1) 80770**]
+
+
+
+Medications on Admission:
+Lisinopril 10 mg PO daily
+Metoprolol tartrate 50 mg PO BID
+Allopurinol 200 mg PO daily
+Omeprazole 20 mg PO BID
+Valacyclovir 500 mg PO daily
+Prochlorperazine 5 mg PO Q6h PRN nausea
+Levofloxacin 500 mg PO daily
+Lorazepam 0.5 mg PO Q8h PRN nausea, anxiety
+Acetaminophen 325-650 mg PO PRN headache
+
+
+Discharge Medications:
+1. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. allopurinol 100 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).
+4. valacyclovir 500 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. prednisone 20 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily) for 1 days: take all three tablets on [**5-3**].
+Disp:*3 Tablet(s)* Refills:*0*
+6. prochlorperazine maleate 5 mg Tablet Sig: One (1) Tablet PO
+every six (6) hours as needed for nausea.
+7. levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours).
+8. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO every eight
+(8) hours as needed for nausea, anxiety.
+9. diphenhydramine HCl 25 mg Capsule Sig: One (1) Capsule PO Q6H
+(every 6 hours) as needed for puritis, throat itching, throat
+swelling.
+Disp:*30 Capsule(s)* Refills:*0*
+10. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+11. EpiPen 0.3 mg/0.3 mL Pen Injector Sig: One (1)
+Intramuscular PRN as needed for anaphylaxis, allergic reaction.
+Disp:*1 EpiPen* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Tongue Swelling
+
+Secondary Diagnosis:
+Leukemia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Ms. [**Known lastname 9449**],
+You were admitted to the intensive care unit with swelling of
+your tongue and neck.  It is possible that this was from your
+study medication or it may have been due to the blood pressure
+medication Lisinopril that you had been taking.  You should no
+longer take lisinopril just in case the swelling was from this
+medication.  Your symptoms improved with medications and
+steroids.
+
+The following medications were changed this admission:
+1. STOP LISINOPRIL - you should never take this medication
+again.  You should not take medications in this class (ace
+inhibitors or angiotensin receptor blockers).
+2. Please START Prednisone 60mg daily for 1 more day.
+3. Please START amlodipine 5mg daily for your blood pressure.
+4. Please START benadryl as needed if you develop throat
+tightness, lip swelling.
+
+Please keep your followup appointments with Dr. [**Last Name (STitle) **] and your
+primary care physician.
+
+Followup Instructions:
+Please keep your followup appointments as listed below.
+
+Department: BMT/ONCOLOGY UNIT
+When: THURSDAY [**2198-5-3**] at 9:30 AM [**Telephone/Fax (1) 447**]
+Building: Fd [**Hospital Ward Name 1826**] Building ([**Hospital Ward Name 1826**]/[**Hospital Ward Name 1827**] Complex) [**Location (un) 3971**]
+Campus: EAST    Best Parking: Main Garage
+
+Department: HEMATOLOGY/BMT
+When: THURSDAY [**2198-5-3**] at 11:00 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 7779**], MD [**Telephone/Fax (1) 3241**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST    Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: THURSDAY [**2198-5-3**] at 11:00 AM
+With: N [**Telephone/Fax (1) 22**]
+Building: [**Hospital6 29**] [**Location (un) 24**]
+Campus: EAST    Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+
+Completed by:[**2198-5-2**]

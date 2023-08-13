@@ -1,0 +1,43 @@
+T1	Drug 167 173	Iodine
+T2	Drug 374 380	Plavix
+T3	Drug 385 392	Aspirin
+T4	Frequency 393 398	daily
+R1	Frequency-Drug Arg1:T4 Arg2:T3
+R2	Frequency-Drug Arg1:T4 Arg2:T2
+T5	ADE 6673 6696	intracranial hemorrhage
+R3	ADE-Drug Arg1:T5 Arg2:T6
+T60	Reason 6673 6696	intracranial hemorrhage
+R4	Reason-Drug Arg1:T60 Arg2:T7
+T6	Drug 6706 6721	anticoagulation
+T7	Drug 6798 6807	platelets
+T8	Drug 7696 7704	mannitol
+T9	Drug 7952 7960	morphine
+T10	Reason 7965 7972	comfort
+R5	Reason-Drug Arg1:T10 Arg2:T9
+T11	Drug 8033 8040	janumet
+T12	Strength 8041 8051	50mg/500mg
+R6	Strength-Drug Arg1:T12 Arg2:T11
+T13	Drug 8053 8059	Plavix
+T14	Strength 8060 8065	75 mg
+R7	Strength-Drug Arg1:T14 Arg2:T13
+T15	Drug 8067 8076	diltiazem
+T16	Strength 8077 8083	300 mg
+R8	Strength-Drug Arg1:T16 Arg2:T15
+T17	Drug 8085 8095	cilostazol
+T18	Strength 8096 8101	50 mg
+R9	Strength-Drug Arg1:T18 Arg2:T17
+T19	Drug 8103 8111	Cymbalta
+T20	Strength 8112 8117	30 mg
+R10	Strength-Drug Arg1:T20 Arg2:T19
+T21	Drug 8119 8126	aspirin
+T22	Strength 8127 8132	81 mg
+R11	Strength-Drug Arg1:T22 Arg2:T21
+T23	Drug 8134 8139	Zetia
+T24	Strength 8140 8145	10 mg
+R12	Strength-Drug Arg1:T24 Arg2:T23
+T25	Drug 8147 8158	simvastatin
+T26	Strength 8159 8164	80 mg
+R13	Strength-Drug Arg1:T26 Arg2:T25
+T27	Drug 8166 8176	cilostazol
+T28	Strength 8177 8182	50 mg
+R14	Strength-Drug Arg1:T28 Arg2:T27

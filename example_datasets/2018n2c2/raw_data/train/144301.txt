@@ -1,0 +1,209 @@
+Admission Date:  [**2147-9-23**]              Discharge Date:   [**2147-9-28**]
+
+Date of Birth:  [**2089-10-3**]             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies:
+Integrilin
+
+Attending:[**First Name3 (LF) 5167**]
+Chief Complaint:
+seizures
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Ms [**Known lastname 51136**] is aged 57 and is a RHW with metastatic lung
+cancer. At around 5:30 pm, she fell while walking to her
+bathroom
+at home, and hit the left side of her head. After she fell,
+according to her daughter [**Name (NI) **] whom I contact[**Name (NI) **] by telephone,
+she had a seizure that lasted a minute, when she came round, she
+talked to her daughter and had another seizure which lasted a
+minute. She was taken to [**Location (un) 47**] [**Hospital3 1280**] and at the CT
+scanner she had another seizure. According to her daughters, she
+had not had seizures in the past. They also mentioned that their
+mother was having difficult swallowing some of her medications.
+At [**Location (un) 47**], she received 1400 mg Fosphenytoin, 10 mg
+Diazepam,
+she also received some Ativan.
+
+Review of systems: difficult to obtain as the Ms [**Known lastname 51136**] is
+actively having seizures.
+
+
+Past Medical History:
+1. metastatic (stage IV) non small cell lung cancer lung
+carcinoma, with a met to the right frontal area of the brain.
+For her cancer which was diagnosed in [**2134**], she has received the
+following:
+(1) a surgical resection by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D. on [**2146-10-26**],
+(2) and stereotactic radiosurgery to the resection cavity on
+[**2146-11-15**] to 1,800 cGy at 82% isodose line, and
+(3) completed whole brain cranial irradiation on [**2147-5-9**] at
+[**Hospital 47**] [**Hospital6 **].
+(4) She has completed 3 cycles of premetrexate.
+Her neuro-oncologist is Dr [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 724**], and her lung oncologist is Dr
+[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **].
+
+
+Social History:
+She was smoking 1 pack of cigarettes per day for
+40 years.  She does not drink alcohol or use illicit drugs. Her
+power of attorney is her daughter [**Name (NI) **] (cell: [**Telephone/Fax (1) 51225**]).
+
+Family History:
+Her mother died of lung cancer (she was a
+smoker).  Her father died of colon cancer and a myocardial
+infarction.  Her 2 sisters are healthy.  She has 2 daughters;
+one
+has sarcoidosis, renal problem, and nephrolithiasis.  Another
+daughter has hepatitis and asthma.
+
+
+Physical Exam:
+Vitals: T 97.5, HR 104, BP 157/84, RR 14, SpO2 100% on a
+non-rebreather
+General: pale, alopecia, bump on the left side of the head.
+Neck: supple
+Resp: Poor air entry at the bases
+CVS: quiet but distinct S1+2
+GI: hepatomegaly, soft obese abdomen with normal bowel sounds.
+
+Neurological Exam
+Mental Status: unobtainable, tries to [**Doctor Last Name **] sounds, but appears
+to be actively seizing.
+Cranial nerves: has corneals, a gag, normal dolls eyes movement.
+PERRL 3-2 mm b/l. Fundi difficult to visualize, eyes constantly
+moving due to nystagmus and resting gaze is to the left.
+Sensory/Motor: actively and symmetrically withdraws all four
+limbs away from noxious stimuli. Tone is increased in all four
+limbs. Plantars are upgoing bilaterally.
+Rest of the examination could not be performed.
+
+
+Pertinent Results:
+CT brain with and without contrast: Right frontal enhancing
+lesion and two lesions in the left cerebellum, corresponding to
+sites of known lesions as seen on MR [**8-18**]. No new lesions
+identified. However, there is increased vasogenic edema in the
+right frontal lobe. No significant mass effect seen.
+
+Brief Hospital Course:
+Neuro - Initially admitted to the [**Hospital 2571**] transferred to the step
+down unit on [**9-25**] then to the floor on [**9-27**].  Mental status
+improved.  On discharge neurologic exam - oriented to month/year
+and only one day off on date, oriented to person and place.
+Baseline very slight L hemiparesis but did have full strength
+bilat FEs, IPs, and ankle dorsiflexion on am of discharge.
+
+MRI showed 1.Acute left subdural hematoma, measuring up to 5 mm
+in maximal thickness, layering over the left cerebral convexity
+with very slight mass effect on
+subjacent gyri and up to 4 mm rightward shift of the septum
+pellucidum.
+2. Minor acute subarachnoid hemorrhage at the bifrontovertex,
+likely post-
+traumatic.
+3. No significant change in the right frontal metastatic lesion,
+with larger
+adjacent zone of vasogenic edema, particularly caudally.
+4. Treated left cerebellar hemispheric metastases, unchanged,
+with no new
+lesion seen.
+5. Stable dural enhancement, likely treatment-related.
+6. Persistent fluid opacification of the mastoid air cells.
+
+Very subtle subdural adn subarachnoid hemorrhages likely
+traumatic from fall with seizures.
+
+Treated with dexamethasone initially 4mg Q6hrs for increased
+edema.  After discussion with neuro-oncology given tapered [**9-26**]
+to 2mg Q6hrs, [**9-27**] to 2mg Q12 hrs for 1 day then off.
+
+On [**9-26**] had some confusion and visual hallucinations (spiders
+and ants), likely related to the steroids.  [**9-27**] hallucinations
+resolved and did not recur.
+
+Physical therapy and occupational therapy evaluated during
+admission, recommended a brief rehabilitation hospitalization
+prior to going home.  Goal is definitely home for her.
+
+FEN/GI - Speech and swallowing evaluated her, initially purree
+diet with nectar thick liquids recommended on [**9-27**] advanced to
+ground solids and thin liquids with 1:1 supervision.
+Electrolytes generally stable, gave one time replacement of
+magnesium [**9-27**] for Mg 1.5 and started neutraphos 1 packet Qday
+for phos of 2.4.  9/18 Mg 1.3, gave one more dose of mag oxide
+800mg with plan to repeat electrolytes in rehab.  Increased
+urine output [**2055-9-24**] then slowed down, likely diuresis from
+fluids in the ICU.  Sodium remained within normal limits.
+
+CV/Resp - Stable throughout.
+
+ID - CXR with known mass, no evidence of pneumonia.  UA
+negative.  No infectious concerns.
+
+
+
+
+Medications on Admission:
+Medications:
+1. Keppra 500 mg [**Hospital1 **]
+2. Hydroxyzine
+3. Methimazole
+4. Metoprolol
+5. Gabapentin
+6. Ativan 1 mg tid
+7. Oxycodone 10 mg Q2h
+8. 25 mg Fentanyl patches
+9. 5 mg Dronabinol QDay
+
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)
+units SC Injection TID (3 times a day) for 1 weeks.
+2. LeVETiracetam 1,000 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+3. Metoprolol Tartrate 25 mg Tablet Sig: [**1-11**] Tablet PO BID (2
+times a day).
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+5. Neutra-Phos [**Telephone/Fax (3) 4228**] mg Powder in Packet Sig: One (1)
+packet PO DAILY (Daily) for 2 days.
+6. Acetaminophen 650 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for fever or pain.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 9464**] Rehab
+
+Discharge Diagnosis:
+seizures
+metastatic lung cancer
+small subdural and subarachnoid hemorrhages
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You were admitted to the hospital due to seizures.  Your
+anti-seizure medication keppra was increased during admission.
+You will be going to a rehabilitation hospital for a short stay
+for physical and occupational therapy then home from there.
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 19895**], MD Phone:[**0-0-**] Date/Time:[**2147-9-28**]
+11:30
+
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 724**], neurooncology, on [**11-9**] at 3:00pm.
+
+
+

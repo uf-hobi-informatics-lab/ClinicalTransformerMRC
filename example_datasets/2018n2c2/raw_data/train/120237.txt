@@ -1,0 +1,169 @@
+Admission Date:  [**2136-7-18**]              Discharge Date:   [**2136-8-1**]
+
+
+Service: MEDICINE
+
+Allergies:
+Pronestyl / Quinidine / Clonidine / A.C.E Inhibitors /
+Spironolactone / Flagyl / Levaquin / Compazine / Keflex
+
+Attending:[**First Name3 (LF) 443**]
+Chief Complaint:
+Decreasing hematocrit, right thigh hematoma and decreased urine
+output.
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+PT is an 86 y.o female with h.o CAD, systolic CHF, AS/AR, afib,
+s/p pacemaker, HL, DM, dementia, s/p CEA who was recently
+admitted on [**7-4**] to the [**Hospital Unit Name 153**] then transferred to [**Hospital Ward Name 121**] 3/[**Hospital1 **]
+service.
+.
+At [**Name (NI) 16962**], pt was found to have a HCT of 21, 27 2 days ago and and
+INR of 4.7. Pt was given 1u PRBCs and 2 units of FFP. Pt was
+also noted to have a K of 5.6 for which she was given 10 units
+of reg insulin SC, 1 amp bicarb, D50, kayexylate. Pt was also
+noted to have a Ck of 529, MB 60, index 11.3, and troponin of
+30.18. R.femoral line was placed. Vitals noted to be T 97, BP
+108/55, finger stick 155.
+.
+Pt's daughter reports that she felt her mother was more "weak",
+"pale" and had decreased urine output. Pt and daughter deny
+recent trauma or falls. Of note, pt c/o L.hip pain at last admit
+and plan films were neg for fx.
+.
+Currently pt denies pain, LH/dizziness, headache, chest
+pain/palpitations, SOB, abd pain/N/V/D/C, joint pain, rash.
+.
+On review of symptoms, - stroke, -TIA, +deep venous
+thrombosis/L.arm, -pulmonary embolism, bleeding at the time of
+surgery, myalgias, joint pains, cough, hemoptysis, black stools
+or red stools. She denies recent fevers, chills or rigors. He
+denies exertional buttock or calf pain. All of the other review
+of systems were negative.
+
+
+Past Medical History:
+1.  CAD - s/p PCI with BMS [**8-20**]
+2.  CHF (LVEF 25% 10/06)
+3.  Rheumatic, multivalvular disease (mod AS, mod-severe AR)
+4.  Afib
+5.  CHB s/p pacemaker placement
+6.  IDDM
+7.  Hyperlipidemia
+8.  Dementia
+9.  HTN
+10. h/o GI bleed
+11. Hypothyroidism
+12. Temporal arteritis
+13. s/p R CEA
+14. chronic c. diff colitis
+15. CKD - b/l Cr. ~1.6
+
+Brief Hospital Course:
+Pt is an 86 year old female with a history of CAD, CHF, s/p
+pacemaker implantation, who presented with a left thigh
+hematoma, HCT drop and elevated INR, with acute renal failure.
+She was admitted to the CCU on [**2136-7-18**].
+
+#Acute renal failure: The patient had a baseline Cr of 1.4-2.0.
+was 1.4 on [**7-15**]. Likely etiology is ATN (muddy-brown casts).
+Pt's daughter reporting poor urine output at home. There was no
+suspicion of obstructive physiology.  The Patient's fluid status
+was initially unclear. She appeared to be dry and was given
+fluid however she did not make urine appropriate to the fluid
+bolus.  She became fluid overloaded and diuresis was attempted.
+She did not respond well to Lasix and continued to retain fluid.
+ Nephrology was consulted and recommended holding Lasix and that
+the only remaining treatment options for her was dialysis.
+Lasix drip was attempted for fluid removal as family did not
+want to put patient on dialysis.  The patient's creatinine
+continued to rise and was 4.1 on [**7-29**].
+.
+# CAD: Pt with a h/o MI, s/p stenting [**2128**] to LAD. Originally
+report was that pt had a Troponin of 30 at [**Year (4 digits) 16962**]. However, trop T
+on admission was 1.40. Elevated enzymes could have been due to a
+cardiac event but it was felt that the patient was a poor
+candidate for any intervention.  ECG was unchanged and the
+patient was without cardiac symptoms. Cardiac enzymes trended
+down over admission.
+.
+# CHF: The patient had a history of Systolic HF. Last echo with
+EF 15-20%. The pati net initially received fluid boluses to help
+determine etiology of renal failure, however she was unable to
+remove volume and not candidate for dialysis.  Patient comfort
+made main goal of therapy.
+.
+# A-FIB: The patient had a history of afib and was s/p pacemaker
+placement.She was vpaced (VVI) at the time of admission. Her
+Pacer rate increased to attempt to help cardiac output however
+this did not have an effect on urine output.
+.
+# Anemia: The patient had a history of anemia. Baseline HCT
+34-38 but was noted to be 22 on admission. Likely etiology is
+from suspected bleed-in the area of the L.thigh, likely
+spontaneous in the setting of supratherapeutic INR. CT
+abd/pelvis/L.thigh ruled out RP and rectus sheath bleed, thigh
+hematoma seen. The patient was not transfused blood as
+hematocrit stabilized and patient already in heart failure.
+.
+#history of C.diff- The patient was initially continued on her
+suppressive vancomycin therapy, but was stopped with negative
+C.diff toxins.
+.
+# Pain/Palliation/End of life: A family meeting was held on [**7-29**]
+and the options/goals of care were discussed.  It was felt that
+the patient's renal failure required dialysis and the family was
+clear that this was not a therapy they wished to pursue.  It was
+agreed that patient would stop medications that were only
+present because of long term benefit and that patient comfort
+would be the goal of care.  Patient moving towards CMO, no oral
+medications and the patient was started on Dilaudid for pain
+control.  She was continued on telemetry for family comfort.
+Over the next 3 days, the patient's mental status declined and
+she became less responsive.  On [**8-1**], the patient was surrounded
+by her daughters and care givers when she was noted to become
+asystolic. No intervention was attempted.  The patient appeared
+to die peacefully and without pain.  She was pronounced dead at
+4:24pm.
+
+Medications on Admission:
+ASA 81 mg daily
+CALCIUM-CHOLECALCIFEROL 500 mg (1,250 mg)-400 unit- [**Unit Number **] daily
+CALCITONIN 200 U 1 spray once a day
+CARVEDILOL 6.25 mg [**Hospital1 **]
+COUMADIN 5 mg daily
+DIGOXIN .0625 mg daily
+DONEPEZIL 10 mg daily
+FERROUS SULFATE 325 mg daily
+FUROSEMIDE 60 mg daily
+INSULIN NPH - 12 units once a day
+INSULIN LISPRO [HUMALOG] daily before breakfast per SS
+LATANOPROST [XALATAN] - 0.005 % - 1 drop both eyes at bedtime
+LEVOTHYROXINE 112 mcg daily
+LIPITOR 10 mg daily
+LOSARTAN 25 mg daily
+METOLAZONE 2.5 mg daily
+POTASSIUM CHLORIDE 70 mEq
+PROTONIX 40 mg daily
+SACCHAROMYCES BOULARDII - 500 mg [**Hospital1 **]
+SERTRALINE [ZOLOFT] 75 mg qHS
+VANCOMYCIN 250 mg daily (was increased to 250 mg QID)
+.
+
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Cardiopulmonary Arrest
+Systolic Heart Failure
+Renal Failure
+
+Discharge Condition:
+Expired
+
+
+Completed by:[**2136-8-3**]

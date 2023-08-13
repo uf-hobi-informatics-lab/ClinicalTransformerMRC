@@ -1,0 +1,346 @@
+T1	ADE 10163 10171;10172 10177	dark red urine
+R1	ADE-Drug Arg1:T1 Arg2:T2
+R2	ADE-Drug Arg1:T1 Arg2:T3
+R3	ADE-Drug Arg1:T1 Arg2:T5
+T2	Drug 10192 10198	Plavix
+T3	Drug 10200 10207	Heparin
+T4	Route 10208 10211	gtt
+R4	Route-Drug Arg1:T4 Arg2:T3
+T5	Drug 10213 10216	ASA
+T6	Strength 10217 10220	325
+R5	Strength-Drug Arg1:T6 Arg2:T5
+T7	Reason 10461 10464	UTI
+R6	Reason-Drug Arg1:T7 Arg2:T8
+T8	Drug 10474 10479	Cipro
+T9	Drug 10738 10743	Cipro
+T10	Strength 10744 10750	250 mg
+R7	Strength-Drug Arg1:T10 Arg2:T9
+T11	Duration 10752 10758	7 days
+R8	Duration-Drug Arg1:T11 Arg2:T9
+T12	Reason 10763 10784	complicated cysistits
+R9	Reason-Drug Arg1:T12 Arg2:T9
+T13	Drug 1136 1142	Plavix
+T14	Drug 11442 11454	Beta-blocker
+T15	Drug 11455 11461	Statin
+T16	Drug 11462 11469	Aspirin
+T17	Drug 1182 1188	Plavix
+T18	Drug 12064 12071	Aspirin
+T19	Strength 12072 12078	325 mg
+R10	Strength-Drug Arg1:T19 Arg2:T18
+T20	Frequency 12079 12084	Daily
+R11	Frequency-Drug Arg1:T20 Arg2:T18
+T21	Drug 12087 12106	Hydrochlorothiazide
+T22	Strength 12107 12112	25 mg
+R12	Strength-Drug Arg1:T22 Arg2:T21
+T23	Frequency 12113 12118	Daily
+R13	Frequency-Drug Arg1:T23 Arg2:T21
+T24	Drug 12121 12132	Clopidogrel
+T25	Strength 12133 12138	75 mg
+R14	Strength-Drug Arg1:T25 Arg2:T24
+T26	Frequency 12139 12144	Daily
+R15	Frequency-Drug Arg1:T26 Arg2:T24
+T27	Drug 12167 12176	Verapamil
+T28	Strength 12177 12183	180 mg
+R16	Strength-Drug Arg1:T28 Arg2:T27
+T29	Form 12184 12201	Sustained Release
+R17	Form-Drug Arg1:T29 Arg2:T27
+T30	Frequency 12202 12207	Daily
+R18	Frequency-Drug Arg1:T30 Arg2:T27
+T31	Drug 12210 12222	Atorvastatin
+T32	Strength 12223 12228	40 mg
+R19	Strength-Drug Arg1:T32 Arg2:T31
+T33	Frequency 12229 12234	Daily
+R20	Frequency-Drug Arg1:T33 Arg2:T31
+T34	Drug 12237 12247	Tamsulosin
+T35	Strength 12248 12254	0.4 mg
+R21	Strength-Drug Arg1:T35 Arg2:T34
+T36	Form 12255 12257	ER
+R22	Form-Drug Arg1:T36 Arg2:T34
+T37	Frequency 12258 12261	qhs
+R23	Frequency-Drug Arg1:T37 Arg2:T34
+T38	Drug 12264 12272	Claritin
+T39	Strength 12273 12278	10 mg
+R24	Strength-Drug Arg1:T39 Arg2:T38
+T40	Frequency 12279 12284	Daily
+R25	Frequency-Drug Arg1:T40 Arg2:T38
+T41	Drug 12287 12310	Oxycodone-Acetaminophen
+T42	Strength 12311 12319	5-325 mg
+R26	Strength-Drug Arg1:T42 Arg2:T41
+T43	Frequency 12320 12323	q4h
+R27	Frequency-Drug Arg1:T43 Arg2:T41
+T44	Reason 12328 12341	torn ACL pain
+R28	Reason-Drug Arg1:T44 Arg2:T41
+T45	Drug 12344 12352	Pyridium
+T46	Strength 12353 12359	100 mg
+R29	Strength-Drug Arg1:T46 Arg2:T45
+T47	Frequency 12360 12363	tid
+R30	Frequency-Drug Arg1:T47 Arg2:T45
+T48	Reason 12368 12372	pain
+R31	Reason-Drug Arg1:T48 Arg2:T45
+T49	Drug 12375 12381	Colace
+T50	Drug 12409 12419	tamsulosin
+T51	Strength 12420 12426	0.4 mg
+R32	Strength-Drug Arg1:T51 Arg2:T50
+T52	Form 12427 12453	Capsule, Ext Release 24 hr
+R33	Form-Drug Arg1:T52 Arg2:T50
+T53	Dosage 12459 12466	One (1)
+R34	Dosage-Drug Arg1:T53 Arg2:T50
+T54	Form 12467 12493	Capsule, Ext Release 24 hr
+R35	Form-Drug Arg1:T54 Arg2:T50
+T55	Route 12494 12496	PO
+R36	Route-Drug Arg1:T55 Arg2:T50
+T56	Frequency 12497 12499	HS
+R37	Frequency-Drug Arg1:T56 Arg2:T50
+T57	Drug 12517 12540	oxycodone-acetaminophen
+T58	Strength 12541 12549	5-325 mg
+R38	Strength-Drug Arg1:T58 Arg2:T57
+T59	Form 12550 12556	Tablet
+R39	Form-Drug Arg1:T59 Arg2:T57
+T60	Dosage 12562 12569	One (1)
+R40	Dosage-Drug Arg1:T60 Arg2:T57
+T61	Form 12570 12576	Tablet
+R41	Form-Drug Arg1:T61 Arg2:T57
+T62	Route 12577 12579	PO
+R42	Route-Drug Arg1:T62 Arg2:T57
+T63	Frequency 12580 12605	every 4-6 hours as needed
+R43	Frequency-Drug Arg1:T63 Arg2:T57
+T64	Reason 12610 12614	pain
+R44	Reason-Drug Arg1:T64 Arg2:T57
+T65	Drug 12651 12666	docusate sodium
+T66	Strength 12667 12673	100 mg
+R45	Strength-Drug Arg1:T66 Arg2:T65
+T67	Form 12674 12681	Capsule
+R46	Form-Drug Arg1:T67 Arg2:T65
+T68	Dosage 12687 12694	One (1)
+R47	Dosage-Drug Arg1:T68 Arg2:T65
+T69	Form 12695 12702	Capsule
+R48	Form-Drug Arg1:T69 Arg2:T65
+T70	Route 12703 12705	PO
+R49	Route-Drug Arg1:T70 Arg2:T65
+T71	Frequency 12706 12709	BID
+R50	Frequency-Drug Arg1:T71 Arg2:T65
+T72	Drug 12730 12738	Claritin
+T73	Strength 12739 12744	10 mg
+R51	Strength-Drug Arg1:T73 Arg2:T72
+T74	Form 12745 12751	Tablet
+R52	Form-Drug Arg1:T74 Arg2:T72
+T75	Dosage 12757 12764	One (1)
+R53	Dosage-Drug Arg1:T75 Arg2:T72
+T76	Form 12765 12771	Tablet
+R54	Form-Drug Arg1:T76 Arg2:T72
+T77	Route 12772 12774	PO
+R55	Route-Drug Arg1:T77 Arg2:T72
+T78	Frequency 12775 12785	once a day
+R56	Frequency-Drug Arg1:T78 Arg2:T72
+T79	Drug 12790 12805	docusate sodium
+T80	Strength 12806 12812	100 mg
+R57	Strength-Drug Arg1:T80 Arg2:T79
+T81	Form 12813 12820	Capsule
+R58	Form-Drug Arg1:T81 Arg2:T79
+T82	Dosage 12826 12833	One (1)
+R59	Dosage-Drug Arg1:T82 Arg2:T79
+T83	Form 12834 12841	Capsule
+R60	Form-Drug Arg1:T83 Arg2:T79
+T84	Route 12842 12844	PO
+R61	Route-Drug Arg1:T84 Arg2:T79
+T85	Frequency 12845 12848	BID
+R62	Frequency-Drug Arg1:T85 Arg2:T79
+T86	Drug 12869 12876	aspirin
+T87	Strength 12877 12882	81 mg
+R63	Strength-Drug Arg1:T87 Arg2:T86
+T88	Form 12883 12913	Tablet, Delayed Release (E.C.)
+R64	Form-Drug Arg1:T88 Arg2:T86
+T89	Dosage 12919 12926	One (1)
+R65	Dosage-Drug Arg1:T89 Arg2:T86
+T90	Form 12927 12957	Tablet, Delayed Release (E.C.)
+R66	Form-Drug Arg1:T90 Arg2:T86
+T91	Route 12958 12960	PO
+R67	Route-Drug Arg1:T91 Arg2:T86
+T92	Frequency 12961 12966	DAILY
+R68	Frequency-Drug Arg1:T92 Arg2:T86
+T93	Drug 12979 12991	atorvastatin
+T94	Strength 12992 12997	20 mg
+R69	Strength-Drug Arg1:T94 Arg2:T93
+T95	Form 12998 13004	Tablet
+R70	Form-Drug Arg1:T95 Arg2:T93
+T96	Dosage 13010 13017	One (1)
+R71	Dosage-Drug Arg1:T96 Arg2:T93
+T97	Form 13018 13024	Tablet
+R72	Form-Drug Arg1:T97 Arg2:T93
+T98	Route 13025 13027	PO
+R73	Route-Drug Arg1:T98 Arg2:T93
+T99	Frequency 13028 13033	DAILY
+R74	Frequency-Drug Arg1:T99 Arg2:T93
+T100	Drug 13046 13056	amiodarone
+T101	Strength 13057 13063	200 mg
+R75	Strength-Drug Arg1:T101 Arg2:T100
+T102	Form 13064 13070	Tablet
+R76	Form-Drug Arg1:T102 Arg2:T100
+T103	Dosage 13076 13083	Two (2)
+R77	Dosage-Drug Arg1:T103 Arg2:T100
+T104	Form 13084 13090	Tablet
+R78	Form-Drug Arg1:T104 Arg2:T100
+T105	Route 13091 13093	PO
+R79	Route-Drug Arg1:T105 Arg2:T100
+T106	Frequency 13094 13097	BID
+R80	Frequency-Drug Arg1:T106 Arg2:T100
+T107	Drug 13151 13170	metoprolol tartrate
+T108	Strength 13171 13176	50 mg
+R81	Strength-Drug Arg1:T108 Arg2:T107
+T109	Form 13177 13183	Tablet
+R82	Form-Drug Arg1:T109 Arg2:T107
+T110	Dosage 13189 13196	One (1)
+R83	Dosage-Drug Arg1:T110 Arg2:T107
+T111	Form 13197 13203	Tablet
+R84	Form-Drug Arg1:T111 Arg2:T107
+T112	Route 13204 13206	PO
+R85	Route-Drug Arg1:T112 Arg2:T107
+T113	Frequency 13207 13210	BID
+R86	Frequency-Drug Arg1:T113 Arg2:T107
+T114	Drug 13232 13246	spironolactone
+T115	Strength 13247 13252	25 mg
+R87	Strength-Drug Arg1:T115 Arg2:T114
+T116	Form 13253 13259	Tablet
+R88	Form-Drug Arg1:T116 Arg2:T114
+T118	Dosage 13265 13272	One (1)
+R89	Dosage-Drug Arg1:T118 Arg2:T114
+T119	Form 13273 13279	Tablet
+R90	Form-Drug Arg1:T119 Arg2:T114
+T120	Route 13280 13282	PO
+R91	Route-Drug Arg1:T120 Arg2:T114
+T121	Frequency 13283 13289;13290 13293	once a day
+R92	Frequency-Drug Arg1:T121 Arg2:T114
+T122	Duration 13294 13304	for 5 days
+R93	Duration-Drug Arg1:T122 Arg2:T114
+T123	Drug 13341 13354	acetaminophen
+T124	Strength 13355 13361	325 mg
+R94	Strength-Drug Arg1:T124 Arg2:T123
+T125	Form 13362 13368	Tablet
+R95	Form-Drug Arg1:T125 Arg2:T123
+T126	Dosage 13374 13377	1-2
+R96	Dosage-Drug Arg1:T126 Arg2:T123
+T127	Form 13378 13385	Tablets
+R97	Form-Drug Arg1:T127 Arg2:T123
+T128	Route 13386 13388	PO
+R98	Route-Drug Arg1:T128 Arg2:T123
+T129	Frequency 13389 13401;13402 13418	Q4H (every 4 hours) as needed
+R99	Frequency-Drug Arg1:T129 Arg2:T123
+T130	Reason 13423 13427	pain
+R100	Reason-Drug Arg1:T130 Arg2:T123
+T131	Drug 13438 13452	ranitidine HCl
+T132	Strength 13453 13459	150 mg
+R101	Strength-Drug Arg1:T132 Arg2:T131
+T133	Form 13460 13466	Tablet
+R102	Form-Drug Arg1:T133 Arg2:T131
+T134	Dosage 13472 13479	One (1)
+R103	Dosage-Drug Arg1:T134 Arg2:T131
+T135	Form 13480 13486	Tablet
+R104	Form-Drug Arg1:T135 Arg2:T131
+T136	Route 13487 13489	PO
+R105	Route-Drug Arg1:T136 Arg2:T131
+T137	Frequency 13490 13493	BID
+R106	Frequency-Drug Arg1:T137 Arg2:T131
+T138	Drug 13581 13592	fluconazole
+T139	Strength 13593 13599	200 mg
+R107	Strength-Drug Arg1:T139 Arg2:T138
+T140	Form 13600 13606	Tablet
+R108	Form-Drug Arg1:T140 Arg2:T138
+T141	Dosage 13612 13619	One (1)
+R109	Dosage-Drug Arg1:T141 Arg2:T138
+T142	Form 13620 13626	Tablet
+R110	Form-Drug Arg1:T142 Arg2:T138
+T143	Route 13627 13629	PO
+R111	Route-Drug Arg1:T143 Arg2:T138
+T144	Frequency 13630 13640	once a day
+R112	Frequency-Drug Arg1:T144 Arg2:T138
+T145	Duration 13641 13651	for 7 days
+R113	Duration-Drug Arg1:T145 Arg2:T138
+T146	ADE 13884 13900	Thrombocytopenia
+R114	ADE-Drug Arg1:T146 Arg2:T147
+T147	Drug 13922 13933	Integrillin
+T148	Drug 1708 1715	aspirin
+T149	Drug 173 184	Penicillins
+T150	Drug 187 197	Lisinopril
+T151	Drug 1916 1923	Heparin
+T152	Route 1924 1927	gtt
+R115	Route-Drug Arg1:T152 Arg2:T151
+T153	Drug 1929 1935	Plavix
+T154	Drug 1946 1951	Nitro
+T155	Route 1952 1955	gtt
+R116	Route-Drug Arg1:T155 Arg2:T154
+T156	Reason 1968 1972	pain
+R117	Reason-Drug Arg1:T156 Arg2:T154
+T157	Drug 200 206	Diovan
+T158	Drug 209 218	Metformin
+T159	Drug 221 231	Integrilin
+T160	Drug 7379 7385	Plavix
+T161	Drug 7524 7531	Heparin
+T162	Route 7532 7535	gtt
+R118	Route-Drug Arg1:T162 Arg2:T161
+T163	Drug 7544 7550	plavix
+T164	Reason 7567 7577	chest pain
+R119	Reason-Drug Arg1:T164 Arg2:T165
+T165	Drug 7598 7603	Nitro
+T166	Route 7604 7607	gtt
+R120	Route-Drug Arg1:T166 Arg2:T165
+T167	Drug 7643 7654	Integrillin
+T168	Route 7655 7658	gtt
+R121	Route-Drug Arg1:T168 Arg2:T167
+T169	Drug 7663 7671	Morphine
+T171	Reason 7721 7741	recurrent chest pain
+R123	Reason-Drug Arg1:T171 Arg2:T169
+T172	Drug 7772 7777	Nitro
+T173	Route 7778 7781	gtt
+R124	Route-Drug Arg1:T173 Arg2:T172
+T174	Drug 7987 7994	Heparin
+T175	Route 7995 7998	gtt
+R125	Route-Drug Arg1:T175 Arg2:T174
+T176	Drug 8003 8014	Integrillin
+T177	Route 8015 8018	gtt
+R126	Route-Drug Arg1:T177 Arg2:T176
+T178	Drug 8083 8089	Plavix
+T179	Drug 8191 8202	Integrillin
+T180	Route 8203 8206	gtt
+R127	Route-Drug Arg1:T180 Arg2:T179
+T182	Drug 8493 8497	PRBC
+T183	Reason 8502 8508	anemia
+R129	Reason-Drug Arg1:T183 Arg2:T182
+T184	Drug 8612 8619	Heparin
+T185	Route 8620 8623	gtt
+R130	Route-Drug Arg1:T185 Arg2:T184
+T186	ADE 8767 8783	Thrombocytopenia
+R131	ADE-Drug Arg1:T186 Arg2:T187
+T187	Drug 8841 8852	Integrillin
+T188	Drug 8928 8939	integrillin
+T189	ADE 8948 8964	thrombocytopenia
+R132	ADE-Drug Arg1:T189 Arg2:T188
+T190	Drug 9120 9131	Integrillin
+T191	Route 9132 9136	drip
+R133	Route-Drug Arg1:T191 Arg2:T190
+T192	Dosage 9204 9211	3 units
+R134	Dosage-Drug Arg1:T192 Arg2:T193
+T193	Drug 9215 9224	platelets
+T194	Drug 930 936	Plavix
+T195	Drug 9350 9357	Heparin
+T196	Route 9358 9361	gtt
+R135	Route-Drug Arg1:T196 Arg2:T195
+T197	Strength 937 942	75 mg
+R136	Strength-Drug Arg1:T197 Arg2:T194
+T198	Frequency 943 948	daily
+R137	Frequency-Drug Arg1:T198 Arg2:T194
+T199	Drug 963 970	Aspirin
+T200	Dosage 9700 9706	1 unit
+R138	Dosage-Drug Arg1:T200 Arg2:T201
+T201	Drug 9707 9711	PRBC
+T202	Drug 9755 9763	platelet
+T203	Form 9764 9776	transfusions
+R139	Form-Drug Arg1:T203 Arg2:T202
+T204	Reason 9785 9801	thrombocytopenia
+R140	Reason-Drug Arg1:T204 Arg2:T202
+T205	Drug 9843 9854	integrillin
+T206	ADE 9863 9879	thrombocytopenia
+R141	ADE-Drug Arg1:T206 Arg2:T205
+T117	Route 7672 7674	IV
+R122	Route-Drug Arg1:T117 Arg2:T169	
+T170	Reason 13428 13432	temp
+R128	Reason-Drug Arg1:T170 Arg2:T123	

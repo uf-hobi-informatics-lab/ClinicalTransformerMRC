@@ -1,0 +1,22 @@
+T1	Strength 7632 7638	1 unit
+T2	Drug 8822 8835	cod liver oil
+T3	Drug 8792 8800	citracal
+T4	Drug 7642 7654	packed cells
+T5	Drug 7667 7676	platelets
+T6	Drug 7688 7695	albumin
+T7	Drug 7711 7723	cryo intraop
+T8	Strength 7701 7707	1 unit
+T9	Strength 7656 7663	2 units
+T10	Strength 7678 7684	500-cc
+T11	Drug 8808 8815	mycelox
+R1	Strength-Drug Arg1:T1 Arg2:T4
+R2	Strength-Drug Arg1:T9 Arg2:T5
+R3	Strength-Drug Arg1:T10 Arg2:T6
+R4	Strength-Drug Arg1:T8 Arg2:T7
+T12	Drug 9322 9329	prograf
+T13	Reason 7577 7604	orthotopic liver transplant
+T14	Strength 8801 8804	600
+T15	Frequency 8816 8820	5x/d
+R5	Strength-Drug Arg1:T14 Arg2:T3	
+R6	Frequency-Drug Arg1:T15 Arg2:T11	
+R7	Reason-Drug Arg1:T13 Arg2:T4	

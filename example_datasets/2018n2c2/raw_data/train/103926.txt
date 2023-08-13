@@ -1,0 +1,465 @@
+Admission Date:  [**2167-4-9**]              Discharge Date:   [**2167-4-20**]
+
+
+Service: MEDICINE
+
+Allergies:
+Codeine / Vasotec / Cortisporin / Ciloxan / Atenolol
+
+Attending:[**Last Name (NamePattern1) 1171**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization, mechanical intubation, continuous
+[**Last Name (un) **]-venous hemofiltration
+
+History of Present Illness:
+85 year old woman with hx of CAD s/p prior PTCA, pVD, DM2, htn,
+chol and anemia presented to NWH on [**2167-4-8**] with unstable
+angina. Her EKG was described as unchanged from prior. Her labs
+were notable for Trop0.06. BNP 234. creat 1.3 on arrival
+(baseline 1.2).
+Her evaluation there was notable for cardiac enzymes as above.
+She was felt to be in mild congestive heart failure after 1 unit
+of pRBCS which she received for a Hct of 26. She received 2
+doses of lasix. She was started on a heparin gtt (not listed in
+discharge meds. She did have small amount of blood on her toilet
+tissue thought secondary to hemorrhoidal bleed. She did receive
+a 2nd unit of PRBCs. A TTE (prelim only) LAE, preserved LVEF,
+mild MR/TR.
+.
+She describes her baseline at chronic stable angina with chest
+pressure at similar level of exertion such as walking [**5-17**] block
+of level ground. However over the past month she noted a
+decreased threshhold for her discomfort now after only 1 flight
+of stairs. On the day prior to her admission she had the similar
+sensation of chest pressure while at rest. It lasted for ~2
+hours and improved with nitroglycerin. She had recurrent event
+at 1:30pm on the 25th so she presented to the hospital. She
+states her weight has been stable. She has chronic venous stasis
+and has had new lower extremity swelling over the past few
+weeks. She has no orthopnea or PND.
+
+.
+On floor, patient was feeling short of breath with walking to
+the bathroom but otherwise feeling well. She has no current
+chest pain.
+.
+On review of systems, she denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools. She has been having small amount of blood on the toilet
+tissue over the past few weeks. She denies recent fevers, chills
+or rigors. She has exertional leg pain at 4 blocks of walking.
+All of the other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of paroxysmal
+nocturnal dyspnea, orthopnea, palpitations, syncope or
+presyncope.
+
+Past Medical History:
+# s/p inferior wall NQWMI in [**2157**], s/p cardiac catheterization
+in  [**2157**] with PTCA of RCA (RCA mid-vessel total occlusion ->
+PTCA with grade C dissection -> TIMI 3 flow, no stent);
+complicated by dissection and pseudoaneurysm
+#. Type 2 diabetes - HgA1C 7.3% [**2166-11-12**]
+- complicated by neuropathy
+#. Hypertension
+#. Hyperlipidemia
+#. Peripheral [**Year (4 digits) 1106**] disease
+#. Asthma
+#. Chronic kidney disease baseline 1.1-1.2
+#. GERD
+#. Hyperparathyroidism
+#. Osteoarthritis
+#. B12 deficiency anemia
+#. Appendectomy
+#. Bladder suspension
+#. Right meniscectomy in [**2161-1-11**]
+#. Excision of benign breast mass times two
+
+Social History:
+The patient currently lives in [**Location 107641**] with her [**Age over 90 **] year old
+Husband. She has 1 son who lives in [**Name (NI) 701**]. At baseline she
+walks with a cane, she is otherwise independent in all ADl
+although looking to get an aid to help clean soon.
+Tobacco: None
+ETOH: None
+Illicits: None
+
+
+Family History:
+Non-Contributory
+
+Physical Exam:
+VS: 98.7 148/62 74 20 93%3L
+wt. 96kg
+GENERAL: obese elderly female in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 10cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. [**3-20**] MR murmur. No thrills, lifts. No S3
+or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. crackles at left base
+greater than right.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominal bruits. external
+hemorrhoids. red blood (heme+) in rectal vault.
+EXTREMITIES: No c/c/e. right femoral bruit.
+SKIN: +stasis dermatitis. no ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP trace PT trace
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP trace PT trace
+Neuro:
+-MS a,ox3. coherent response to interview.
+-CN II-XII intact (pupils reactive, EOMI, face symmetric,
+palate/tongue midline)
+-Motor moving all 4 extremities symmetrically
+-[**Last Name (un) **] light touch intact to face/hands/feet
+
+Pertinent Results:
+[**2167-4-9**] 10:40PM   GLUCOSE-141* UREA N-65* CREAT-1.6* SODIUM-142
+POTASSIUM-4.9 CHLORIDE-107 TOTAL CO2-23 ANION GAP-17
+[**2167-4-9**] 10:40PM   CK(CPK)-150*
+[**2167-4-9**] 10:40PM   CK-MB-6 cTropnT-0.07*
+[**2167-4-9**] 10:40PM   WBC-9.6# RBC-2.84* HGB-9.4* HCT-26.9* MCV-95
+MCH-33.2* MCHC-35.1* RDW-14.6
+[**2167-4-9**] 10:40PM   PLT COUNT-220
+[**2167-4-9**] 10:40PM   PT-13.4 PTT-36.9* INR(PT)-1.1
+.
+STUDIES OF RELEVANCE IN CHRONOLOGICAL ORDER:
+
+[**2167-4-9**] CXR:
+Lungs clear, mild pulmonary engorgement and top normal heart
+size suggest
+borderline cardiac decompensation, but there is no edema or
+appreciable
+pleural effusion.
+
+[**2167-4-10**] Card Cath:
+COMMENTS:
+1.  Coronary angiography in this right-dominant system revealed:
+
+--the LMCA had no angiographically apparent disease.
+--the LAD had a proximal <50% stenosis.
+--the LCX had no angiographically apparent disease.
+--the RCA had an ostial >90% stenosis.
+2.  Limited resting hemodynamics revealed severely elevated
+left-sided
+filling pressures, with LVEDP 30 mmHg.  There was mild systemic
+arterial
+systolic hypertension with SBP 149 mmHg.  There was no gradient
+across
+the aortic valve upon pullback of the angled pigtail catheter
+from LV to
+ascending aorta.
+3.  Successful PTCA and stenting of the ostial RCA with two
+overlapping
+bare metal stents - Minivision (2.5x15mm distally; 2.5x12mm
+proximally)
+postdilated with a 2.75mm balloon. Final angiography
+demonstrated no
+angiographically apparent dissection, no residual stenosis and
+TIMI III
+flow throughout the vesel (See PTCA comments).
+4.  Successful closure of the right femoral arteriotomy site
+with a 6F
+Angioseal closure device.
+
+FINAL DIAGNOSIS:
+1.  Significant one coronary artery disease.
+2.  Successful PTCA and stenting of the ostial RCA with two
+overlapping
+bare metal stents.
+3.  Successful clousre of the right femoral arteriotomy site
+with a 6F
+Angioseal closure device.
+
+[**2167-4-11**] ECHO:
+The left atrium is mildly dilated. The right atrium is
+moderately dilated. Left ventricular wall thicknesses and cavity
+size are normal. There is mild regional left ventricular
+systolic dysfunction with mild basal and mid-anterior septal
+hypokinesis, distal septal akinesis and probable apical
+hypokinesis. The remaining segments contract normally (LVEF =
+40-45%). Right ventricular chamber size and free wall motion are
+normal. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. There is no
+mitral valve prolapse. Moderate (2+) mitral regurgitation is
+seen. There is mild pulmonary artery systolic hypertension.
+There is no pericar
+dial effusion.
+
+IMPRESSION: Normal right ventricular systolic function. Mild
+regional left ventricular systolic dysfunction, c/w CAD.
+Moderate mitral regurgitation. Mild pulmonary hypertension.
+
+[**2167-4-11**]:
+IMPRESSION: CT A and P
+1. Multifocal consolidations may represent pneumonia, however
+pulmonary
+hemorrhage in the setting of hyperdense, and likely hemorrhagic,
+effusions
+should be considered.
+2. Retained renal contrast with vicarious excretion via the
+gallbladder, all
+consistent with renal failure.
+3. Fibroid uterus.
+
+[**2167-4-13**] CT Chest:
+Followup of a patient with bilateral pleural
+effusion, consolidations, and known pneumothorax.
+
+COMPARISON: CT abdomen from [**2167-4-11**] and multiple chest
+radiographs
+obtained in the interval between [**4-9**] and [**2167-4-13**].
+
+TECHNIQUE: Unenhanced MDCT of the chest was obtained from
+thoracic inlet to upper abdomen with subsequent 1.25- and 5-mm
+collimation axial images reviewed in conjunction with coronal
+and sagittal reformats.
+
+FINDINGS:
+Extensive widespread consolidations involve mostly the right
+upper lobe, right middle lobe, and right lower lobe but also are
+seen in left lower lobe and left apex. The consolidations are
+relatively high in density (the left upper lobe consolidation is
+about 57 Hounsfield units in density), as are the right middle
+lobe and lower lobe consolidations (ranging up to 50 Hounsfield
+units). The comparison of the lung bases with a recent CT
+abdomen from [**2167-4-3**] demonstrates interval progression
+of the consolidations in the right middle and right lower lobe.
+The bilateral pleural effusion, although did not increase
+significantly in size, is still of high density (up to 46
+Hounsfield units) in the lower portions of the lungs suggesting
+sedimentation effect.
+
+The mediastinal lymph nodes are enlarged ranging up to 16 mm in
+right lower paratracheal area and might be reactive. Extensive
+coronary calcifications are noted. The heart size is mildly
+enlarged. There is no significant pericardial effusion.
+
+Minimal left pneumothorax is demonstrated, 2A:31, seen in the
+anterior
+mediastinum giving the patient's supine position and might
+correspond to an apical pneumothorax demonstrated on the upright
+chest radiograph obtained the same day earlier at 09:09 a.m.
+Although the comparison between the chest CT and chest
+radiograph is difficult, the size of the pneumothorax is most
+likely unchanged and is small.
+
+The imaged portion of the upper abdomen demonstrates fat density
+left adrenal lesion, -19 Hounsfield units, consistent with
+lipoma. The rest is
+unremarkable within the limitations of this non-enhanced study.
+Again note is made of the presence of contrast enhancement of
+the kidneys consistent with known failure and retained excretion
+of contrast. Contrast is also
+demonstrated in the renal pelvis. The vicarious excretion of the
+distended
+gallbladder is again noted. The bladder is at least 5 cm in
+diameter,
+although no wall thickening or surrounding abnormalities are
+seen.
+
+There are no [**Year (4 digits) 500**] lesions worrisome for malignancy. Degenerative
+changes are seen.
+
+IMPRESSION:
+1. Extensive bilateral consolidations, right more than left, of
+high density that might be consistent with multifocal
+hemorrhage. The differential diagnosis in the presence of renal
+failure might include vasculitis. Hemorrhagic pneumonia might be
+considered in appropriate clinical setup.
+2. Small left apical pneumothorax, most likely unchanged
+compared to prior
+chest radiograph.
+3. Bilateral grossly unchanged pleural effusions, high in
+density that might also contain an element of hemorrhage.
+4. Extensive coronary calcifications.
+5. Still present contrast enhancement of kidneys and vicarious
+excretion of contrast the gallbladder consistent with known
+renal failure.
+
+
+
+
+Brief Hospital Course:
+85-year-old woman with a history of coronary artery disease s/p
+BMS x 2 in RCA on [**2167-4-10**], with post-cath course complicated by
+pulmonary edema, contrast-induced nephropathy requiring CCU stay
+with transition to cardiac service.
+
+1) Unstable angina/CAD: Patient's typical anginal pain was
+occurring at rest and had ST depressions in V4-6. Given concern
+for ongoing bleeding cath was deferred until [**4-10**]. Cardiac
+catheterization demonstrated 90% occlusion of ostial RCA which
+was stented with two overlapping bare metal stents. Her chest
+pain occurred intermittently since the PCI with intermittent ST
+depressions in V4-V6. Nitro gtt was temporarily started for the
+pain, and she remained pain free after it was discontinued.
+Cardiac markers were mildly elevated, likely demand ischemia
+from anemia, and CK-MB was negative. She was treated with
+aspirin, statin, and plavix. Patient's metoprolol was restarted
+once she stabilized.
+
+2) Acute on chronic diastolic heart failure: Felt to be
+secondary to RBC transfusions at OSH. She had an ongoing O2
+requirement and desatted to 85% RA on am of [**4-11**], for which she
+was transferred to the CCU and lasix gtt was started. Fluid was
+initially removed via CVVH (as below), although once UOP
+improved, she was successfully diuresed with IV furosemide.
+
+3) Acute on chronic CKD: FENa 6%, likely contrast nephropathy.
+Her [**Last Name (un) **] was held. Renal was consulted for poor UOP while on
+lasix drip and high dose diuril. Her creatinine rose and she was
+started on CVVH via L IJ line. After a few days, her UOP picked
+up and responded well to 40mg IV furosemide boluses, so the CVVH
+line was removed.
+
+4) Anemia: Given concern for RP bleed related to cath, she had
+CT abd, which showed bilat ?hemothoraces, but no RP bleed. Other
+source could be GI bleed from external hemorrhoids. She received
+1 unit of pRBCs and her hematocrit remained stable.
+
+5) Pneumonia: Patient had frequent coughing associated with
+desaturations. CT chest was concerning for atypical pneumonia
+vs. alveolar hemorrhage, although pulm consult favored the
+former. ANCA and anti-GBM were negative. She received a 5 day
+course of azithromycin and a brief course of prednisone for
+possible diffuse alveolar hemorrhage (one day each at 60mg,
+40mg, 20mg, 10mg). Her cough greatly improved.
+
+6) Diabetes mellitus: Initially on glargine, although changed to
+insulin gtt in the CCU due to highly elevated (300s) sugars in
+the setting of steroids. She was transitioned back to glargine
+as the steroids were rapidly tapered.
+
+Medications on Admission:
+
+Home Meds:
+Amlodopine 5mg daily
+atorvastatin 20 mg daily
+furosemide 40mg [**Hospital1 **]
+glimepiride 4 mg daily
+humalog insulin sliding scale
+imdur 60 mg [**Hospital1 **]
+lidoderm patch [**Hospital1 **]
+nitroglycerin spray prn
+pentoxifylline SR 400 mg TID with meals
+diovan 320 mg daily
+aspirin 325 mg dialy
+calcium +D 600/200 units [**Hospital1 **]
+cyanocobalamin (unknown dose)
+multivitamin daily
+Omega 3 fatty acids 1000 mg daily
+.
+Meds on transfer:
+amaryl 4 mg daily
+calcium +d [**Hospital1 **]
+centrum daily
+diovan 160 mg daily
+aspirin 325 mg daily
+fish oil daily
+isodil 40 mg q8hours
+lasix 40 mg [**Hospital1 **]
+lipitor 20 mg daily
+lopressor 25 mg q6
+nitrostat prn
+norvasc 10 mg [**Hospital1 **]
+protonix 40 mg IV daily
+tylenol prn
+vitamin b12 daily
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed.
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*0*
+4. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Cyanocobalamin 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+7. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+9. Lidoderm  Topical
+10. Nitroglycerin  Sublingual
+11. Pentoxifylline 400 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO three times a day: with meals.
+12. Calcium 600 with Vitamin D3 600 mg(1,500mg) -200 unit Tablet
+Sig: One (1) Tablet PO twice a day.
+13. Omega-3 Fatty Acids 1,000 mg Capsule Sig: One (1) Capsule PO
+once a day.
+14. Valsartan 80 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company 1519**]
+
+Discharge Diagnosis:
+Coronary Artery Disease
+Angina
+Pulmonary Edema
+Contrast Induced Nephropathy
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+ You were admitted for cardiac catheterization and stent
+placement in the setting of unstable angina. You required ICU
+level care for pulmonary edema and contrast-induced nephropathy.
+.
+Please take all your medications as prescribed.
+.
+Please follow-up with your providors as below.
+.
+Please return if you have any further chest pain or shortness of
+breath.
+.
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.
+
+
+Followup Instructions:
+#You will need to see Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 216**] (your PCP) ([**Telephone/Fax (1) 250**])
+within one week of discharge. Please call to make this
+appointment. At that time, please bring-in your daily weights
+and ask your doctor to determine if he feels your Lasix needs to
+be restarted. You may note that we have just restarted your [**Last Name (un) **]
+(Valsartan). You are no longer on Isosorbide Dinitrate s/p your
+intervention.
+.
+#You will need to see Dr. [**Last Name (STitle) **] (your cardiologist) within
+two week of discharge. Please call to make this appointment. Ask
+him to review your blood pressure and medications.
+.
+
+#Provider:  [**Name10 (NameIs) **] DENSITY TESTING Phone:[**Telephone/Fax (1) 4586**]
+Date/Time:[**2167-4-27**] 9:00
+.
+#Provider: [**Name10 (NameIs) 706**] Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2167-4-27**] 10:00
+.
+#Provider: [**Name10 (NameIs) **] LAB Phone:[**Telephone/Fax (1) 1237**] Date/Time:[**2167-5-4**]
+9:30
+
+
+
+Completed by:[**2167-5-18**]

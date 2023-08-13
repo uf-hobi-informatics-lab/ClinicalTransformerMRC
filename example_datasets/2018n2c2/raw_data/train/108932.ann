@@ -1,0 +1,273 @@
+T2	Drug 10165 10176	Fluconazole
+T3	Drug 10196 10207	antibiotics
+T4	Reason 10259 10273	abdominal pain
+R2	Reason-Drug Arg1:T4 Arg2:T8
+R3	Reason-Drug Arg1:T4 Arg2:T7
+R4	Reason-Drug Arg1:T4 Arg2:T6
+T6	Drug 10342 10350	Dilaudid
+T7	Drug 10352 10358	Ativan
+T8	Drug 10363 10372	Ketorolac
+T9	Dosage 11370 11377	2 units
+R8	Dosage-Drug Arg1:T9 Arg2:T10
+T10	Drug 11381 11385	pRBC
+T11	Reason 11390 11398	HCT 23.4
+R9	Reason-Drug Arg1:T11 Arg2:T10
+T13	Drug 11506 11512	fluids
+T14	Drug 11518 11526	Dilaudid
+T15	Form 11527 11530	PCA
+R11	Form-Drug Arg1:T15 Arg2:T14
+T16	Reason 11535 11547	pain control
+R12	Reason-Drug Arg1:T16 Arg2:T14
+T17	Reason 11583 11598	low grade fever
+R13	Reason-Drug Arg1:T17 Arg2:T20
+R14	Reason-Drug Arg1:T17 Arg2:T21
+R15	Reason-Drug Arg1:T17 Arg2:T19
+T19	Drug 11627 11637	Vancomycin
+T20	Drug 11639 11644	Zosyn
+T21	Drug 11649 11660	Fluconazole
+T22	Reason 11753 11757	pain
+R19	Reason-Drug Arg1:T22 Arg2:T23
+T23	Drug 11778 11786	Dilaudid
+T24	Form 11787 11790	PCA
+R20	Form-Drug Arg1:T24 Arg2:T23
+T25	Drug 11825 11840	pain medication
+T26	Route 11903 11907	oral
+R21	Route-Drug Arg1:T26 Arg2:T27
+T27	Drug 11908 11916	Dilaudid
+T28	Drug 11971 11987	pain medications
+T29	Drug 12019 12027	Dilaudid
+T30	Route 12028 12030	PO
+R22	Route-Drug Arg1:T30 Arg2:T29
+T31	Frequency 12031 12034	Q4H
+R23	Frequency-Drug Arg1:T31 Arg2:T29
+T33	Drug 13049 13059	Vancomycin
+T34	Frequency 13062 13069	14 days
+R25	Frequency-Drug Arg1:T34 Arg2:T33
+T36	Drug 13091 13098	Toradol
+T37	Reason 13103 13115	pain control
+R27	Reason-Drug Arg1:T37 Arg2:T36
+T38	Reason 13764 13790	STAPHYLOCOCCUS EPIDERMIDIS
+R28	Reason-Drug Arg1:T38 Arg2:T40
+T40	Drug 13816 13826	Vancomycin
+T41	Duration 13827 13838	for 14 days
+R30	Duration-Drug Arg1:T41 Arg2:T40
+T43	Drug 13985 13996	Fluconazole
+T44	Duration 13997 14008	for 14 days
+R33	Duration-Drug Arg1:T44 Arg2:T43
+T46	Drug 14039 14050	antibiotics
+T47	Route 14277 14279	PO
+R35	Route-Drug Arg1:T47 Arg2:T48
+R36	Route-Drug Arg1:T47 Arg2:T49
+T48	Drug 14280 14291	Fluconazole
+T49	Drug 14296 14305	Augmentin
+T50	Route 14375 14377	PO
+R37	Route-Drug Arg1:T50 Arg2:T51
+T51	Drug 14378 14381	Abx
+T52	Duration 14382 14393	for 10 days
+R38	Duration-Drug Arg1:T52 Arg2:T51
+T53	Dosage 14711 14718	6 units
+R39	Dosage-Drug Arg1:T53 Arg2:T54
+T54	Drug 14722 14726	pRBC
+T55	Reason 14829 14840	Prophylaxis
+R40	Reason-Drug Arg1:T55 Arg2:T57
+T56	Route 14863 14875	subcutaneous
+R41	Route-Drug Arg1:T56 Arg2:T57
+T57	Drug 14876 14883	heparin
+T58	Drug 15358 15363	Xanax
+T59	Strength 15364 15365	1
+R42	Strength-Drug Arg1:T59 Arg2:T58
+T60	Drug 15370 15378	Fioricet
+T61	Frequency 15379 15382	PRN
+R43	Frequency-Drug Arg1:T61 Arg2:T60
+T62	Drug 15384 15393	oxycodone
+T63	Strength 15394 15399	10 mg
+R44	Strength-Drug Arg1:T63 Arg2:T62
+T64	Frequency 15400 15403	qid
+R45	Frequency-Drug Arg1:T64 Arg2:T62
+T65	Drug 15432 15441	lidocaine
+T66	Strength 15442 15459	5 %(700 mg/patch)
+R46	Strength-Drug Arg1:T66 Arg2:T65
+T67	Form 15460 15485	Adhesive Patch, Medicated
+R47	Form-Drug Arg1:T67 Arg2:T65
+T68	Dosage 15491 15498	One (1)
+R48	Dosage-Drug Arg1:T68 Arg2:T65
+T69	Form 15499 15524	Adhesive Patch, Medicated
+R49	Form-Drug Arg1:T69 Arg2:T65
+T70	Route 15525 15532	Topical
+R50	Route-Drug Arg1:T70 Arg2:T65
+T71	Frequency 15533 15546	DAILY (Daily)
+R51	Frequency-Drug Arg1:T71 Arg2:T65
+T72	Duration 15547 15552;15553 15558	for 2 weeks
+R52	Duration-Drug Arg1:T72 Arg2:T65
+T73	Drug 15614 15623	acyclovir
+T75	Form 15628 15636	Ointment
+R54	Form-Drug Arg1:T75 Arg2:T73
+T76	Dosage 15642 15649	One (1)
+R55	Dosage-Drug Arg1:T76 Arg2:T73
+T77	Form 15650 15654	Appl
+R56	Form-Drug Arg1:T77 Arg2:T73
+T78	Route 15655 15662	Topical
+R57	Route-Drug Arg1:T78 Arg2:T73
+T79	Drug 15713 15723	alprazolam
+T80	Strength 15724 15728	1 mg
+R58	Strength-Drug Arg1:T80 Arg2:T79
+T81	Form 15729 15735	Tablet
+R59	Form-Drug Arg1:T81 Arg2:T79
+T82	Dosage 15741 15748	One (1)
+R60	Dosage-Drug Arg1:T82 Arg2:T79
+T83	Form 15749 15755	Tablet
+R61	Form-Drug Arg1:T83 Arg2:T79
+T84	Route 15756 15758	PO
+R62	Route-Drug Arg1:T84 Arg2:T79
+T85	Frequency 15759 15773;15774 15788	TID (3 times a day) as needed
+R63	Frequency-Drug Arg1:T85 Arg2:T79
+T86	Reason 15793 15800	anxiety
+R64	Reason-Drug Arg1:T86 Arg2:T79
+T87	Drug 15805 15818	acetaminophen
+T88	Strength 15819 15825	500 mg
+R65	Strength-Drug Arg1:T88 Arg2:T87
+T89	Form 15826 15832	Tablet
+R66	Form-Drug Arg1:T89 Arg2:T87
+T90	Dosage 15838 15845	Two (2)
+R67	Dosage-Drug Arg1:T90 Arg2:T87
+T91	Form 15846 15852	Tablet
+R68	Form-Drug Arg1:T91 Arg2:T87
+T92	Route 15853 15855	PO
+R69	Route-Drug Arg1:T92 Arg2:T87
+T93	Frequency 15856 15862;15863 15875	BID (2 times a day)
+R70	Frequency-Drug Arg1:T93 Arg2:T87
+T94	Drug 15880 15890	gabapentin
+T95	Strength 15891 15897	300 mg
+R71	Strength-Drug Arg1:T95 Arg2:T94
+T96	Form 15898 15905	Capsule
+R72	Form-Drug Arg1:T96 Arg2:T94
+T97	Dosage 15911 15918	One (1)
+R73	Dosage-Drug Arg1:T97 Arg2:T94
+T98	Form 15919 15926	Capsule
+R74	Form-Drug Arg1:T98 Arg2:T94
+T99	Route 15927 15929	PO
+R75	Route-Drug Arg1:T99 Arg2:T94
+T100	Frequency 15930 15935;15936 15943	DAILY (Daily)
+R76	Frequency-Drug Arg1:T100 Arg2:T94
+T101	Drug 15981 15994	hydromorphone
+T102	Strength 15995 15999	2 mg
+R77	Strength-Drug Arg1:T102 Arg2:T101
+T103	Form 16000 16006	Tablet
+R78	Form-Drug Arg1:T103 Arg2:T101
+T104	Dosage 16012 16015	1-2
+R79	Dosage-Drug Arg1:T104 Arg2:T101
+T105	Form 16016 16023	Tablets
+R80	Form-Drug Arg1:T105 Arg2:T101
+T106	Route 16024 16026	PO
+R81	Route-Drug Arg1:T106 Arg2:T101
+T107	Frequency 16027 16039;16040 16056	Q4H (every 4 hours) as needed
+R82	Frequency-Drug Arg1:T107 Arg2:T101
+T108	Reason 16061 16065	pain
+R83	Reason-Drug Arg1:T108 Arg2:T101
+T109	Drug 16103 16130	amoxicillin-pot clavulanate
+T110	Strength 16131 16141	500-125 mg
+R84	Strength-Drug Arg1:T110 Arg2:T109
+T111	Form 16142 16148	Tablet
+R85	Form-Drug Arg1:T111 Arg2:T109
+T112	Dosage 16154 16161	One (1)
+R86	Dosage-Drug Arg1:T112 Arg2:T109
+T113	Form 16162 16168	Tablet
+R87	Form-Drug Arg1:T113 Arg2:T109
+T114	Route 16169 16171	PO
+R88	Route-Drug Arg1:T114 Arg2:T109
+T115	Frequency 16172 16193	Q12H (every 12 hours)
+R89	Frequency-Drug Arg1:T115 Arg2:T109
+T116	Duration 16194 16205	for 10 days
+R90	Duration-Drug Arg1:T116 Arg2:T109
+T117	Drug 16242 16253	fluconazole
+T118	Strength 16254 16260	200 mg
+R91	Strength-Drug Arg1:T118 Arg2:T117
+T119	Form 16261 16267	Tablet
+R92	Form-Drug Arg1:T119 Arg2:T117
+T120	Dosage 16273 16280	Two (2)
+R93	Dosage-Drug Arg1:T120 Arg2:T117
+T121	Form 16281 16287	Tablet
+R94	Form-Drug Arg1:T121 Arg2:T117
+T122	Route 16288 16290	PO
+R95	Route-Drug Arg1:T122 Arg2:T117
+T123	Frequency 16291 16301	once a day
+R96	Frequency-Drug Arg1:T123 Arg2:T117
+T124	Duration 16302 16313	for 10 days
+R97	Duration-Drug Arg1:T124 Arg2:T117
+T125	Drug 16350 16360	ZOFRAN ODT
+T126	Strength 16361 16365	4 mg
+R98	Strength-Drug Arg1:T126 Arg2:T125
+T127	Form 16366 16388	Tablet, Rapid Dissolve
+R99	Form-Drug Arg1:T127 Arg2:T125
+T128	Dosage 16394 16401	One (1)
+R100	Dosage-Drug Arg1:T128 Arg2:T125
+T129	Drug 164 194	Sulfa(Sulfonamide Antibiotics)
+T130	Form 16402 16409;16410 16424	Tablet, Rapid Dissolve
+R101	Form-Drug Arg1:T130 Arg2:T125
+T131	Route 16425 16427	PO
+R102	Route-Drug Arg1:T131 Arg2:T125
+T132	Frequency 16428 16459	every eight (8) hours as needed
+R103	Frequency-Drug Arg1:T132 Arg2:T125
+T133	Reason 16464 16470	nausea
+R104	Reason-Drug Arg1:T133 Arg2:T125
+T134	Drug 16524 16529	Xanax
+T135	Strength 16530 16534	1 mg
+R105	Strength-Drug Arg1:T135 Arg2:T134
+T136	Form 16535 16541	Tablet
+R106	Form-Drug Arg1:T136 Arg2:T134
+T137	Dosage 16547 16554	One (1)
+R107	Dosage-Drug Arg1:T137 Arg2:T134
+T138	Form 16555 16561	Tablet
+R108	Form-Drug Arg1:T138 Arg2:T134
+T139	Route 16562 16564	PO
+R109	Route-Drug Arg1:T139 Arg2:T134
+T140	Frequency 16565 16582;16583 16592	three times a day as needed
+R110	Frequency-Drug Arg1:T140 Arg2:T134
+T141	Reason 16597 16604	anxiety
+R111	Reason-Drug Arg1:T141 Arg2:T134
+T142	Drug 4160 4171	Fluconazole
+T143	Drug 4330 4341	Fluconazole
+T144	Drug 5203 5214	clindamycin
+T145	Drug 5489 5500	CLINDAMYCIN
+T146	Drug 5520 5532	ERYTHROMYCIN
+T147	Drug 5551 5561	GENTAMICIN
+T148	Drug 5582 5594	LEVOFLOXACIN
+T149	Drug 5613 5622	OXACILLIN
+T150	Drug 5644 5656	TETRACYCLINE
+T151	Drug 5675 5685	VANCOMYCIN
+T153	Drug 9043 9049	fluids
+T155	Drug 9057 9062	Zosyn
+T156	Drug 9068 9076	Dilaudid
+T157	Form 9077 9080	PCA
+R114	Form-Drug Arg1:T157 Arg2:T156
+T158	Reason 9085 9097	pain control
+R115	Reason-Drug Arg1:T158 Arg2:T156
+T159	Reason 9455 9481	STAPHYLOCOCCUS EPIDERMIDIS
+R116	Reason-Drug Arg1:T159 Arg2:T160
+T160	Drug 9483 9493	Vancomycin
+T1	Route 9040 9042	IV
+T5	Route 9054 9056	IV
+R1	Route-Drug Arg1:T1 Arg2:T153	
+R5	Route-Drug Arg1:T5 Arg2:T155	
+T12	Route 9494 9496	Iv
+R6	Route-Drug Arg1:T12 Arg2:T160	
+T18	Route 10162 10164	IV
+R7	Route-Drug Arg1:T18 Arg2:T2	
+T32	Route 10339 10341	IV
+R10	Route-Drug Arg1:T32 Arg2:T6	
+R16	Route-Drug Arg1:T32 Arg2:T7	
+R17	Route-Drug Arg1:T32 Arg2:T8	
+T35	Route 11503 11505	IV
+R18	Route-Drug Arg1:T35 Arg2:T13	
+T39	Route 11624 11626	IV
+R24	Route-Drug Arg1:T39 Arg2:T19	
+T42	Route 13046 13048	IV
+R26	Route-Drug Arg1:T42 Arg2:T33	
+T45	Route 13088 13090	IV
+R29	Route-Drug Arg1:T45 Arg2:T36	
+T74	Route 13813 13815	IV
+R31	Route-Drug Arg1:T74 Arg2:T40	
+T152	Route 13982 13984	IV
+R32	Route-Drug Arg1:T152 Arg2:T43	
+T154	Route 14036 14038	IV
+R34	Route-Drug Arg1:T154 Arg2:T46	

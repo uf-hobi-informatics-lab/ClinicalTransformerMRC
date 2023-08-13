@@ -1,0 +1,424 @@
+Admission Date:  [**2114-12-18**]              Discharge Date:   [**2115-1-2**]
+
+Date of Birth:  [**2045-12-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Codeine
+
+Attending:[**First Name3 (LF) 4282**]
+Chief Complaint:
+ fatigue
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+HPI: The patient is a 69 yo woman with h/o recently diagnosed
+MDS ([**4-9**]), azacytodine chemotherapy, day 15 presently cycle 5.
+Presented to clinic for scheduled NP follow up visit s/p
+C5 Azacitidine; arrived feeling extremely weak, quite pale,
+shivering; describes 4 days of these sx, including diarrhea; no
+
+n/v, states taking large amounts of po fluids, non productive
+cough with fever to 102. She had received 3U PRBC prior to a 3
+week trip in mediterranean. Presented to clinic fatigued, with
+non-productive cough, but has been afebrile, without evidence of
+respiratory distress.
+.
+
+
+Past Medical History:
+ PAST ONCOLOGIC HISTORY:
+--Presented to ER in [**2114-1-1**] with shortness of breath and
+
+fever secondary to pneumonia. Hemoglobin and hematocrit levels
+were 4.9 mg/dl and 14.2%, respectively, with MCV = 122 at the
+time. Required several red cell transfusions between [**1-8**] and
+[**4-9**].
+--Bone marrow biopsy on [**2114-4-26**] showed "hypercellular erythroid
+
+dominant bone marrow with dyserythropoiesis and ringed
+sideroblast consistent with myelodysplastic syndrome best
+classified as RARS. Cytogenetics revealed trisomy 8. IPSS
+intermediate-1 risk score.
+--Began Procrit 40,000 units weekly [**2114-5-1**] with increase of
+dose
+to 60,000 units weekly with no improvement in her red cell
+transfusion requirement.
+--Received Cycle 1 azacitidine chemotherapy [**2114-7-9**] through
+[**2114-7-13**]. Cycle 2 administered [**Date range (1) 97986**]; delayed by one week
+
+due to neutropenia. Cycle 3 administered [**Date range (1) 97987**]; again
+delayed by one week due to neutropenia. Cycle 4 administered
+.
+PAST MEDICAL HISTORY:
+s/p pericarditis 4 years ago
+Bilateral [**Hospital1 15309**] neuroma
+h/o migraines that resolved 2 years ago
+s/p plantar fasciitis L foot
+s/p shingles
+s/p multiple skin cancers removed by either dermatologists, Dr.
+[**Last Name (STitle) **], or Dr. [**Last Name (STitle) 22342**]
+s/p tonsillectomy.
+Pericarditis
+
+
+Social History:
+Lives alone by herself in Collidge Corner in a condominium. No
+known family members. [**Name (NI) **] lots of friends who live nearby. 1
+pack cig per day active smoker for approx 50 years.
+
+
+Family History:
+Father passed away of PNA.
+
+Physical Exam:
+PHYSICAL EXAM: Vs: Tc: 98.7 hr: 100 BP: 106/51
+.
+General: comfortable.
+Skin: very pale, warm, dry, without ecchymosis, erythema,
+petechiae or rash.
+HEENT: sclera anicteric, conjunctiva very pale. Oropharynx pale
+
+pink, moist, without mucositis, erythema or thrush.
+Lungs: breathing easily with occasional dry cough, able to talk
+
+in full sentences; dullness to percussion at L base; diminished
+
+coarse breath sounds at R base with inspiratory and expiratory
+crackles. Remainder of lung fields clear.
+Cardiac: heart rate regular in rate and rhythm, without murmur,
+
+rub or gallop.
+Extremities: symmetrical, trace edema bilaterally from feet to
+mid-calf bilaterally. No erythema or tenderness.
+
+
+Pertinent Results:
+[**2114-12-18**] 09:00PM   HBsAg-NEGATIVE HBs Ab-NEGATIVE HBc
+Ab-NEGATIVE IgM HAV-NEGATIVE
+[**2114-12-18**] 09:00PM   Smooth-NEGATIVE
+[**2114-12-18**] 09:00PM   [**Doctor First Name **]-POSITIVE *
+[**2114-12-18**] 09:00PM   HCV Ab-NEGATIVE
+[**2114-12-18**] 08:50AM   UREA N-22* CREAT-1.1 SODIUM-130*
+POTASSIUM-3.7 CHLORIDE-97 TOTAL CO2-21* ANION GAP-16
+[**2114-12-18**] 08:50AM   ALT(SGPT)-191* AST(SGOT)-230* LD(LDH)-343*
+ALK PHOS-89 TOT BILI-0.7
+[**2114-12-18**] 08:50AM   HAPTOGLOB-176
+[**2114-12-18**] 08:50AM   WBC-0.8*# RBC-1.53*# HGB-4.5*# HCT-13.6*#
+MCV-89 MCH-29.4 MCHC-33.1 RDW-21.4*
+[**2114-12-18**] 08:50AM   NEUTS-42.8* LYMPHS-53.5* MONOS-1.5* EOS-0.9
+BASOS-1.3
+[**2114-12-18**] 08:50AM   PLT SMR-VERY LOW PLT COUNT-74*#
+[**2114-12-18**] 08:50AM   RET AUT-2.5
+.
+Micro: DIRECT INFLUENZA A ANTIGEN TEST (Final [**2114-12-19**]):
+      Negative for Influenza A.
+
+   DIRECT INFLUENZA B ANTIGEN TEST (Final [**2114-12-19**]):
+      Negative for Influenza B.
+
+[**2114-12-19**]: Liver US.
+.
+IMPRESSION:
+1. No intra- or extra-hepatic biliary duct dilatation.
+2. Small amount of free perihepatic fluid.
+3. Collapsed gallbladder with wall edema and small amount of
+pericholecystic
+fluid. These findings could be due to a variery of chronic
+conditions
+including hypoalbuminemia, chf, or can be seen in hepatitis.
+There is no
+evidence to suggest acute inflammation.
+.
+CXR: [**2114-12-18**]
+Very severe heterogeneous opacification has developed in the
+left upper lobe.  Left lower lobe was collapsed in [**Month (only) 1096**], now
+reexpanded and densely consolidated. There may be left hilar
+adenopathy and small left pleural effusion. Overall, findings
+are consistent with extensive pneumonia though under the
+appropriate clinical circumstances, this could be infiltrated
+malignancy. Small region of ground-glass opacity in the right
+apex persists since the chest CT done on [**2114-1-13**].
+Mild-to-moderate cardiomegaly is longstanding and right lung
+shows some mild vascular redistribution but I do not believe
+pulmonary edema is playing any role.
+.
+-[**2114-12-21**] TTE: The left atrium is mildly dilated. Left
+ventricular wall thicknessis is normal. There is normal cavity
+size and regional/global systolic function (LVEF >55%). The
+estimated cardiac index is normal (>=2.5L/min/m2). Doppler
+parameters are most consistent with Grade II (moderate) left
+ventricular diastolic dysfunction. The right ventricular cavity
+is mildly dilated with normal free wall contractility. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. There is no mitral
+valve prolapse. Moderate (2+) mitral regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension. There
+is no pericardial effusion.
+
+-[**2114-12-24**] CT chest:
+1. Multifocal pneumonia, comparable in extent to the appearance
+on the chest radiograph, [**12-23**], which has progressed since
+[**12-18**]. Small bilateral pleural effusions are also
+comparable and not of sufficient size to suggest empyema. There
+are no characteristics of the widespread pulmonary infection, to
+permit discriminating among possible causes: virus, bacteria, or
+fungus.
+2. Minimal increase in size and number of mediastinal lymph
+nodes, presumably reactive. More substantial left hilar
+adenopathy cannot be excluded, but if present, is not
+obstructive, and is equally likely to be reactive.
+3. New tiny right middle lobe lung nodule.
+4. Small pleural and pericardial effusions could be sympathetic
+to infection, or residual from prior cardiogenic edema
+
+-[**2114-12-27**] CT head
+No acute intracranial hemorrhage. No acute intracranial process
+
+-[**2114-12-30**] MRI/MRA
+Multiple areas of restricted diffusion are seen in both cerebral
+hemispheres involving frontal, parietal and occipital lobes. No
+focal acute infarcts are seen within the posterior fossa. The
+distribution is in the watershed region in the left frontal
+lobe, but otherwise, it is in the cortical and subcortical
+region of both cerebral hemispheres. There is no acute
+hemorrhage identified. There is no mass effect, midline shift or
+hydrocephalus. Mild-to-moderate brain atrophy is seen.
+IMPRESSION:
+1. Multiple small acute cortical and subcortical infarcts
+including infarct in the left frontal watershed distribution as
+described above. Mild diffuse decreased signal within the bony
+structures of the head could be due to marrow hyperplasia or
+infiltration and clinical correlation recommended.
+MRA OF THE NECK: Neck MRA shows normal flow in carotid and
+vertebral arteries without stenosis or occlusion.
+  IMPRESSION: Normal MRA of the neck.
+MRA HEAD: Head MRA demonstrates normal flow in the arteries of
+anterior and posterior circulation.
+  IMPRESSION: Normal MRA of the head
+
+-[**2115-1-1**] TTE Bubble Study: No atrial septal defect or patent
+foramen ovale is seen by 2D, color Doppler or saline contrast
+with maneuvers
+
+-[**2115-1-1**] CSF: WBC: 2 (x2 tubes)
+TP 28
+Gluc 51
+LDH 31
+
+-[**2115-1-2**] EEG: Pending at time of discharge
+
+Labs on day of discharge:
+WBC 4.4
+Hct 21.9
+Plt 221
+
+Na 138
+K 4.3
+Cl 109
+HCO3 26
+BUN 16
+Creat 0.7
+Gluc 73
+
+ALT 37
+AST 81
+AP 158
+TBil 0.2
+Alb 2.0
+
+
+Brief Hospital Course:
+69 yo with myelodysplastic syndrome (RARS), presently D15C5
+azacitidine presenting with fever, neutropenia, profound anemia,
+diarrhea and cough with fever, lung exam concerning for PNA.
+.
+Respiratory Distress: Patient presented with profound anemia
+likely secondary to her MDS. She received 5 UPRBC with
+improvement of her HCT from 13.6 on admission to 23.2. She
+developed respitratory distress likely secondary to combined
+insult of her pneumonia and volume overload for which she
+triggered. She was found to be in flash pulmonary edema. She
+received supportive therapy. Her respiratory status improved and
+she was transferred to the floor. She was started on albuterol
+nebulizer treatement for possible bronchospasm, but this may not
+need to be continued at the rehabilitation facility.
+.
+PNA/recurrent fevers: She had presented to clinic where she was
+found to be febrile to 102 and neutropenic. a CXR showed a Left
+lower lobe pneumonia. She was started on vancomycin and
+cefepime. A DFA was negative. Blood cultures were negative. In
+the interim, the patient was managed with meropenem,
+voriconazole, azithromycin, and vancomcyin in the setting of
+recurrent fevers and night sweats. She was discharged after
+being afebrile for 1-2 days, with a short course of meropenem to
+be completed.
+.
+MDS/Anemia: She has a history of sideroblastic anemia for which
+she is on azacitidine. She received 5 units of pRBC over the
+first 2 days of her hospitalization. There was a consideration,
+given the recurrent fevers and night sweats, that the patient
+had a hematologic etiology, perhaps transformation to AML.  A
+smear was obtained and was unremarkable, so bone marrow biopsy
+was deferred. She received a unit of pRBC on the day of
+discharge, which she completed prior to transfer to
+rehabilitation.
+.
+Altered mental status/right hand-wrist weakness: The patient
+developed right hand/wrist weakness on [**12-26**]. The patient also
+developed attention/cognitive deficits. An MR head was obtained
+which showed a likely watershed infarct in the left frontal
+cortex, with multiple focal lesions in both hemispheres. LP was
+negative for meningitis. TTE bubble study was negative for PFO
+or ASD. EEG was performed with results pending at time of
+discharge. Her mental status improved considerably and she had a
+clear thought process, and was consistently oriented to her
+name, the name of her hospital, and the month/year.
+.
+LFT elevation: Hepatitis serologies were negative, as were
+smooth Antibodies. She did have a positive [**Doctor First Name **] with titer
+pending. Hepatic US showed Small amount of free perihepatic
+fluid, collapsed gallbladder with wall edema, and small amount
+of pericholecystic fluid. LFTs were improved by day of
+discharge.
+.
+Neutropenic Fever: Her neutropenia was likely secondary to her
+chemotherapy. She was placed on neutropenic precautions and her
+ANC was trended.  Her neutropenia resolved with periodic dosing
+of neupogen. She had had no fevers for 1-2 days prior to
+discharge. Per ID recommendations, she was discharged on
+meropenem, to be continued for six days following discharge.
+.
+Prophylaxis: She did not receive heparin SQ prophylactically
+given the contraindication posed by her azacitidine therapy.  As
+her platelet count remained normal, and there was no evidence of
+intracranial hemorrhage on imaging, SC heparin was given for DVT
+prophylaxis.
+
+Medications on Admission:
+PROCHLORPERAZINE MALEATE - 10 mg Tablet - 1 Tablet(s) by mouth
+every 6 hours as needed for nausea
+ZOLMITRIPTAN [ZOMIG] - (Prescribed by Other Provider) - Dosage
+uncertain
+
+Medications - OTC
+ASPIRIN [ASPIRIN [**Hospital1 **]] - (Prescribed by Other Provider;
+OTC) - 81 mg Tablet, Chewable - one Tablet(s) by mouth once a
+day
+ERGOCALCIFEROL (VITAMIN D2) [VITAMIN D] - (Prescribed by Other
+Provider) - 1,000 unit Tablet - 1 Tablet(s) by mouth once a day
+
+MULTIVITAMIN - (Prescribed by Other Provider) - Capsule - 1cap
+Capsule(s) by mouth once daily
+OMEGA-3 FATTY ACIDS [FISH OIL] - (Prescribed by Other Provider)
+
+- Dosage uncertain
+VITAMIN E - (Prescribed by Other Provider) - Dosage uncertain
+.
+ALLERGIES: Codeine
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO
+Q6H (every 6 hours) as needed for nAUSEA .
+3. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6
+hours) as needed for cough.
+4. Benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day) as needed for cough.
+5. Meropenem 500 mg Recon Soln Sig: One (1) dose Intravenous
+every six (6) hours for 6 days: Last doses on [**2115-1-8**].
+6. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) Treatment Inhalation every four (4)
+hours as needed for sob/wheeze.
+7. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q8H (every 8
+hours) as needed for PRN FEVER.
+8. Cholecalciferol (Vitamin D3) 1,000 unit Tablet Sig: One (1)
+Tablet PO once a day.
+9. Omega-3 Fish Oil 1,000-5 mg-unit Capsule Sig: One (1) Capsule
+PO once a day.
+10. Vitamin E 400 unit Capsule Sig: One (1) Capsule PO once a
+day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 459**] for the Aged - MACU
+
+Discharge Diagnosis:
+Primary
+Multifocal Pneumonia
+Febrile neutropenia
+Left frontal watershed cerebral infarct
+Myelodysplastic syndrome
+
+Secondary
+s/p pericarditis 4 years ago
+Bilateral [**Hospital1 15309**] neuroma
+h/o migraines that resolved 2 years ago
+s/p plantar fasciitis L foot
+s/p shingles
+s/p multiple skin cancers removed by either dermatologists, Dr.
+[**Last Name (STitle) **], or Dr. [**Last Name (STitle) 22342**]
+s/p tonsillectomy.
+Pericarditis
+
+
+Discharge Condition:
+Medically stable for discharge to rehabilitation facility.
+
+Discharge Instructions:
+You were admitted to the hospital because you were fatigued and
+having fevers. You were found to have a pneumonia treated with
+antibiotics. You also received blood transfusions. Your
+breathing initially improved, however your lungs became
+overloaded with fluid and you went to the intensive care unit.
+Your breathing improved and you came back to the regular floor.
+.
+You coninued to have difficulty with your breathing and
+continued to have fevers so procedures were done to sample your
+lung fluid to culture and remove some of the fluid, which did
+not show obvious infection. Your pnuemonia was treated with
+antibiotics. You also developed some mild confusion and right
+hand weakness, due to a stroke, which was seen on MRI. A lumbar
+puncture did not show any infection of your cerebrospinal fluid.
+You had an EEG exam to look for seizure activity, the final
+results of which were pending at the time of discharge.
+.
+The following changes were made to your medications:
+-You were started on MEROPENEM, an intravenous antibiotic. You
+will have an IV line placed at the rehabilitation facility to
+receive this medication. You will continue to take this for six
+days post-discharge, with your last doses on [**2115-1-8**].
+-Added Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every
+6 hours) as needed for cough.
+-Added Benzonatate 100 mg Capsule, One Capsule by mouth 3 times
+a day
+-Added Acetaminophen 325-650 mg by mouth every eight hours as
+needed for fever; PLEASE DO NOT EXCEED 2000MG/ DAY
+-Added Albuterol 0.083% Nebulizer to be inhaled every four
+hours, as needed for shortness of breath or wheeze
+.
+Please return to the hospital or call your doctor if you feel
+faint, light headed, experience nausea, vomiting, constipation,
+headache, blurry vision, weight loss, night sweats, chest pain,
+abdominal pain, shortness of breath, muscle aches, joint aches,
+fever, blood in your stool or urine, or any other symptoms that
+are concerning to you.
+
+Followup Instructions:
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3014**], RN & [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 647**], MD
+
+Phone:[**Telephone/Fax (1) 22**]
+
+Date/Time:[**2115-1-10**] 1:30
+
+
+

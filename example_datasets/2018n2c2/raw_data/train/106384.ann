@@ -1,0 +1,235 @@
+T1	Drug 10111 10119	coumadin
+T2	Drug 10191 10198	Lovenox
+T3	Route 10206 10214	injected
+R1	Route-Drug Arg1:T3 Arg2:T2
+T4	Frequency 10215 10226	twice daily
+R2	Frequency-Drug Arg1:T4 Arg2:T2
+T5	Drug 10799 10806	lovenox
+T6	Route 10807 10817	injections
+R3	Route-Drug Arg1:T6 Arg2:T5
+T7	Frequency 10818 10829	twice a day
+R4	Frequency-Drug Arg1:T7 Arg2:T5
+T8	Drug 10877 10885	coumadin
+T9	Drug 10960 10967	lovenox
+T10	Route 10968 10978	injections
+R5	Route-Drug Arg1:T10 Arg2:T9
+T11	Drug 11557 11565	coumadin
+T12	Drug 11806 11813	lovenox
+T13	Route 11814 11824	injections
+R6	Route-Drug Arg1:T13 Arg2:T12
+T14	Drug 2016 2021	SLNTG
+T16	Dosage 2022 2024	X3
+T17	Drug 2041 2046	Nitro
+T18	Form 2047 2050	gtt
+R9	Form-Drug Arg1:T18 Arg2:T17
+T19	Reason 2063 2065	CP
+R10	Reason-Drug Arg1:T19 Arg2:T17
+T20	Drug 2155 2160	nitro
+T21	Form 2161 2164	gtt
+R11	Form-Drug Arg1:T21 Arg2:T20
+T22	Dosage 2174 2177	500
+R12	Dosage-Drug Arg1:T22 Arg2:T23
+T23	Drug 2181 2183	NS
+T24	Dosage 2190 2192	1L
+R13	Dosage-Drug Arg1:T24 Arg2:T25
+T25	Drug 2193 2195	NS
+T26	Form 2196 2201	bolus
+R14	Form-Drug Arg1:T26 Arg2:T25
+T27	Dosage 2318 2324	500 cc
+R15	Dosage-Drug Arg1:T27 Arg2:T28
+T28	Drug 2325 2327	NS
+T29	Drug 2367 2375	dopamine
+T30	Strength 2376 2382	20 mcg
+R16	Strength-Drug Arg1:T30 Arg2:T29
+T31	Reason 3064 3067	PAF
+R17	Reason-Drug Arg1:T31 Arg2:T32
+T32	Drug 3072 3080	coumadin
+T33	Drug 3090 3101	propafenone
+T34	Drug 3400 3412	chemotherapy
+T35	Reason 5708 5711	PAF
+R18	Reason-Drug Arg1:T35 Arg2:T36
+T36	Drug 5715 5723	coumadin
+T37	Reason 598 601	PAF
+R19	Reason-Drug Arg1:T37 Arg2:T38
+T38	Drug 606 614	coumadin
+T39	Drug 6438 6443	nitro
+T40	Drug 6660 6672	Beta blocker
+T41	Drug 6674 6681	aspirin
+T42	Drug 6683 6689	statin
+T43	Drug 6711 6719	coumadin
+T44	Drug 6845 6852	lovenox
+T45	Drug 7066 7074	couadmin
+T46	Drug 7333 7344	propafenone
+T47	Drug 7385 7392	lovenox
+T48	ADE 7453 7464	Hypotension
+R20	ADE-Drug Arg1:T48 Arg2:T49
+T49	Drug 7508 7513	nitro
+T50	Form 7514 7517	gtt
+R21	Form-Drug Arg1:T50 Arg2:T49
+T51	Drug 7536 7544	dopamine
+T52	Route 7545 7549	drip
+R22	Route-Drug Arg1:T52 Arg2:T51
+T53	Reason 7556 7570	SBP in the 40s
+R23	Reason-Drug Arg1:T53 Arg2:T51
+T54	Drug 8125 8132	aspirin
+T55	Drug 8180 8191	propafenone
+T56	Strength 8192 8198	150 mg
+R24	Strength-Drug Arg1:T56 Arg2:T55
+T57	Frequency 8199 8204	b.i.d
+R25	Frequency-Drug Arg1:T57 Arg2:T55
+T58	Drug 8206 8213	aspirin
+T59	Strength 8214 8220	325 mg
+R26	Strength-Drug Arg1:T59 Arg2:T58
+T60	Drug 8221 8227	Cozaar
+T61	Strength 8228 8233	50 mg
+R27	Strength-Drug Arg1:T61 Arg2:T60
+T62	Drug 8234 8241	Levoxyl
+T63	Strength 8242 8249	112 mcg
+R28	Strength-Drug Arg1:T63 Arg2:T62
+T64	Frequency 8250 8255	daily
+R29	Frequency-Drug Arg1:T64 Arg2:T62
+T65	Drug 8256 8264	Prilosec
+T66	Strength 8265 8270	20 mg
+R30	Strength-Drug Arg1:T66 Arg2:T65
+T67	Drug 8271 8276	Zocor
+T68	Strength 8277 8282	20 mg
+R31	Strength-Drug Arg1:T68 Arg2:T67
+T69	Drug 8283 8293	metoprolol
+T70	Strength 8294 8299	50 mg
+R32	Strength-Drug Arg1:T70 Arg2:T69
+T71	Frequency 8300 8305	b.i.d
+R33	Frequency-Drug Arg1:T71 Arg2:T69
+T72	Drug 8307 8315	Coumadin
+T73	Strength 8316 8320	3 mg
+R34	Strength-Drug Arg1:T73 Arg2:T72
+T74	Frequency 8321 8326	daily
+R35	Frequency-Drug Arg1:T74 Arg2:T72
+T75	Drug 8354 8362	Losartan
+T76	Strength 8363 8368	50 mg
+R36	Strength-Drug Arg1:T76 Arg2:T75
+T77	Form 8369 8375	Tablet
+R37	Form-Drug Arg1:T77 Arg2:T75
+T78	Dosage 8381 8388	One (1)
+R38	Dosage-Drug Arg1:T78 Arg2:T75
+T79	Form 8389 8395	Tablet
+R39	Form-Drug Arg1:T79 Arg2:T75
+T80	Route 8396 8398	PO
+R40	Route-Drug Arg1:T80 Arg2:T75
+T81	Frequency 8399 8404	DAILY
+R41	Frequency-Drug Arg1:T81 Arg2:T75
+T82	Drug 8417 8424	Aspirin
+T83	Strength 8425 8431	325 mg
+R42	Strength-Drug Arg1:T83 Arg2:T82
+T84	Form 8432 8438	Tablet
+R43	Form-Drug Arg1:T84 Arg2:T82
+T85	Dosage 8444 8451	One (1)
+R44	Dosage-Drug Arg1:T85 Arg2:T82
+T86	Form 8452 8458	Tablet
+R45	Form-Drug Arg1:T86 Arg2:T82
+T87	Route 8459 8461	PO
+R46	Route-Drug Arg1:T87 Arg2:T82
+T88	Frequency 8462 8467	DAILY
+R47	Frequency-Drug Arg1:T88 Arg2:T82
+T89	Drug 8480 8491	Propafenone
+T90	Strength 8492 8498	150 mg
+R48	Strength-Drug Arg1:T90 Arg2:T89
+T91	Form 8499 8505	Tablet
+R49	Form-Drug Arg1:T91 Arg2:T89
+T92	Dosage 8511 8518	One (1)
+R50	Dosage-Drug Arg1:T92 Arg2:T89
+T93	Form 8519 8525	Tablet
+R51	Form-Drug Arg1:T93 Arg2:T89
+T94	Route 8526 8528	PO
+R52	Route-Drug Arg1:T94 Arg2:T89
+T95	Frequency 8529 8532	BID
+R53	Frequency-Drug Arg1:T95 Arg2:T89
+T96	Drug 8553 8561	Prilosec
+T97	Strength 8562 8567	20 mg
+R54	Strength-Drug Arg1:T97 Arg2:T96
+T98	Form 8568 8598	Capsule, Delayed Release(E.C.)
+R55	Form-Drug Arg1:T98 Arg2:T96
+T99	Dosage 8604 8611	One (1)
+R56	Dosage-Drug Arg1:T99 Arg2:T96
+T100	Form 8612 8642	Capsule, Delayed Release(E.C.)
+R57	Form-Drug Arg1:T100 Arg2:T96
+T101	Route 8643 8645	PO
+R58	Route-Drug Arg1:T101 Arg2:T96
+T102	Frequency 8646 8656	once a day
+R59	Frequency-Drug Arg1:T102 Arg2:T96
+T103	Drug 8661 8672	Simvastatin
+T104	Strength 8673 8678	10 mg
+R60	Strength-Drug Arg1:T104 Arg2:T103
+T105	Form 8679 8685	Tablet
+R61	Form-Drug Arg1:T105 Arg2:T103
+T106	Dosage 8691 8698	Two (2)
+R62	Dosage-Drug Arg1:T106 Arg2:T103
+T107	Form 8699 8705	Tablet
+R63	Form-Drug Arg1:T107 Arg2:T103
+T108	Route 8706 8708	PO
+R64	Route-Drug Arg1:T108 Arg2:T103
+T109	Frequency 8709 8714	DAILY
+R65	Frequency-Drug Arg1:T109 Arg2:T103
+T110	Drug 8727 8746	Metoprolol Tartrate
+T111	Strength 8747 8752	50 mg
+R66	Strength-Drug Arg1:T111 Arg2:T110
+T112	Form 8753 8759	Tablet
+R67	Form-Drug Arg1:T112 Arg2:T110
+T113	Dosage 8765 8772	One (1)
+R68	Dosage-Drug Arg1:T113 Arg2:T110
+T114	Form 8773 8779	Tablet
+R69	Form-Drug Arg1:T114 Arg2:T110
+T115	Route 8780 8782	PO
+R70	Route-Drug Arg1:T115 Arg2:T110
+T116	Frequency 8783 8786	BID
+R71	Frequency-Drug Arg1:T116 Arg2:T110
+T117	Drug 8807 8820	Levothyroxine
+T118	Strength 8821 8828	112 mcg
+R72	Strength-Drug Arg1:T118 Arg2:T117
+T119	Form 8829 8835	Tablet
+R73	Form-Drug Arg1:T119 Arg2:T117
+T120	Dosage 8841 8848	One (1)
+R74	Dosage-Drug Arg1:T120 Arg2:T117
+T121	Form 8849 8855	Tablet
+R75	Form-Drug Arg1:T121 Arg2:T117
+T122	Route 8856 8858	PO
+R76	Route-Drug Arg1:T122 Arg2:T117
+T123	Frequency 8859 8864	DAILY
+R77	Frequency-Drug Arg1:T123 Arg2:T117
+T124	Drug 8877 8885	Warfarin
+T125	Strength 8886 8890	1 mg
+R78	Strength-Drug Arg1:T125 Arg2:T124
+T126	Form 8891 8897	Tablet
+R79	Form-Drug Arg1:T126 Arg2:T124
+T127	Dosage 8903 8912	Three (3)
+R80	Dosage-Drug Arg1:T127 Arg2:T124
+T128	Form 8913 8919	Tablet
+R81	Form-Drug Arg1:T128 Arg2:T124
+T129	Route 8920 8922	PO
+R82	Route-Drug Arg1:T129 Arg2:T124
+T130	Frequency 8923 8930	DAILY16
+R83	Frequency-Drug Arg1:T130 Arg2:T124
+T131	Drug 8954 8964	Enoxaparin
+T132	Strength 8965 8977	80 mg/0.8 mL
+R84	Strength-Drug Arg1:T132 Arg2:T131
+T133	Form 8978 8985	Syringe
+R85	Form-Drug Arg1:T133 Arg2:T131
+T134	Dosage 8991 8998	One (1)
+R86	Dosage-Drug Arg1:T134 Arg2:T131
+T135	Form 8999 9006	syringe
+R87	Form-Drug Arg1:T135 Arg2:T131
+T136	Route 9007 9019	Subcutaneous
+R88	Route-Drug Arg1:T136 Arg2:T131
+T137	Frequency 9038 9051	2 times a day
+R89	Frequency-Drug Arg1:T137 Arg2:T131
+T138	Drug 9070 9077	lovenox
+T139	Route 9078 9088	injections
+R90	Route-Drug Arg1:T139 Arg2:T138
+T140	Drug 9124 9132	coumadin
+T141	Drug 9404 9412	coumadin
+T142	Drug 9454 9461	lovenox
+T143	Route 9462 9472	injections
+R91	Route-Drug Arg1:T143 Arg2:T142
+T144	Reason 9629 9659	Paroxysmal atrial fibrillation
+R92	Reason-Drug Arg1:T144 Arg2:T145
+T145	Drug 9663 9671	coumadin
+R93	Reason-Drug Arg1:T31 Arg2:T33	

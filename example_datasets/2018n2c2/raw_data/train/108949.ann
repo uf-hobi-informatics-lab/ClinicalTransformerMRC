@@ -1,0 +1,4 @@
+T2	Drug 1223 1232	Metformin
+T3	Drug 283 297	Ace Inhibitors
+T4	Reason 1085 1103	Insulin resistance
+R1	Reason-Drug Arg1:T4 Arg2:T2	

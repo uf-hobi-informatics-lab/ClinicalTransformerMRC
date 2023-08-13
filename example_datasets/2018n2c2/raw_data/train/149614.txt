@@ -1,0 +1,446 @@
+Admission Date:  [**2113-6-20**]              Discharge Date:   [**2113-6-24**]
+
+Date of Birth:  [**2032-10-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfonamides / Nortriptyline / Ultram / Diltiazem / Ace
+Inhibitors / Norvasc / Percocet / Zetia / Cymbalta
+
+Attending:[**First Name3 (LF) 2186**]
+Chief Complaint:
+Dypsnea.
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+80 y.o. F h/o COPD, diastolic CHF, HTN, s/p PPM for Mobitz II,
+AAA s/p repair, RAS s/p stent, MRSA bacteremia, presenting with
+4 days increasing dyspnea. Began with URI symptoms of rhinorrhea
+and cough increasingly productive of gree/yellow sputum. Denies
+fevers or night sweats, admits chills once or twice. Daughter
+with whom she lives had cold several days before patient's onset
+of symptoms. Ms. [**Known lastname 12056**] states she had worsening SOB. Saw PCP
+yesterday, who added Flovent to her COPD regimen and started
+treatment for UTI with Levaquin 250mg PO daily. He also checked
+a CXR which had no infiltrate. This morning, dyspnea worsened,
+daughter describes patient as "gasping for air", brought to the
+ED.
+
+In the ED, initial VS T: 98.2F, BP 177/96, HR: 90, RR: 30, SaO2:
+89% RA. Noted to have bilateral expiratory wheezing with
+increased respiratory effort. She was given SoluMedrol 125mg IV,
+combivent nebs, and covered for possible COPD flare with
+vancomycin 1gm IV, CTX 1gm IV, and Azithromycin 500mg PO. She
+received ASA 325mg. Wbc 9.1 with 84% PMN, lactate 3.1. BNP
+>70,000 (baseline 30,000). Repeat CXR done which showed no
+infiltrate, no evidence of pulmonary edema. Ddimer was positive,
+and she had a CTA, which demonstrated no evidence of PE or
+dissection, but showed peribronchial opacities potentially
+concerning for early multifocal PNA.
+
+
+Past Medical History:
+1) Vasculopathy--has history of AAA, s/p endovascular AAA repair
+
+(AAA was 4.7 cm) in [**2109-1-3**]. In [**2112-7-12**] under aortogram,
+celiac balloon angioplasty and stent, superior mesenteric artery
+stent. She was noted to have endovascular leak in [**10-10**] and
+underwent open AAA
+repair and RAS stent placed.
+-# s/p Rt. SFA-TPT vein graft [**10-5**]
+-Carotid disease. Asymptomatic. Rt. 60-69% Lt. 40-59%
+2) Cardiac conduction disease
+--s/p post operative AF [**8-6**]
+--s/p SVT s/p ablation [**4-7**]
+-- h/o Mobitz II block s/p pacemaker
+-- diastolic CHF
+3) COPD, [**8-/2112**] PFTs with FEV 1.16 FVC 1.86 0.53 FEV/FVC ratio
+63 (92% predicted)
+4) Hypertension on multiple agents
+5) hypercholestremia
+6) Hiatal hernia with reflux/Gastritis/GERD
+7) CRI baseline creatinine 1.3-1.5
+8) anemia
+9) MRSA urine/blood [**11-8**] subsequent to RAS - was on vanc, but
+recently changed to doxycycline chronically
+
+Other Surgical history:
+10) s/p ovarian cyst ecxision with appendectomy [**4-/2059**]
+11) s/p CCY [**2-/2080**]
+12) s/p spinal surgery [**6-/2085**]
+13) s/p spinal fusion [**8-6**]
+
+
+Social History:
+The patient lives at home with a daughter in [**Name (NI) 4628**],
+previously a homemaker. Tobacco: 60 years x 2PPD: 120 pk-yr,
+quit [**2096**]. ETOH: None. Illicits: None
+
+Family History:
+Noncontributory
+
+Physical Exam:
+T: 98.3 BP: 177/89 HR: 89 RR: 22 SaO2: 98% 2L NC
+Gen: Elderly Caucasian female, lying comfortably in bed, using
+accessory muscles to breathe, speaking in partial sentences.
+Oriented, answers questions appropriately
+HEENT: PERRL, EOMI, oropharynx clear
+Neck: Supple, no LAD or thyromegaly, JVP not elevated
+CV: RRR, no m/r/g
+Chest: Distant breath sounds, no wheezing auscultated, decent
+air movement and chest expansion, mild bibasilar rales
+Abd: Soft, NT/ND, pain (old) over left flank, +BS
+Extr: Trace LE edema, R>L, trace DPs bilaterally, no calf
+tenderness
+Neuro: A&Ox3, 5/5 strength throughout, sensation intact to LT
+
+
+Pertinent Results:
+ADMISSION LABS:
+================
+       12.4
+ 9.1 >-------< 357
+       39.5
+
+MCV 97  Neuts 84.2  Lymphs 13.4  Monos 1.9  Eos 0.1  Baso 0.4
+PT 23.5  PTT 34.3  INR 2.3
+
+ 145   106   36
+-----|-----|-----< 154
+ 4.4    23   1.2
+
+CK 184  MB 9  Trop 0.04
+BNP >70,000
+D-dimer 1390
+
+Lactate 3.2
+
+UA: BLOOD-MOD NITRITE-NEG PROTEIN-100 GLUCOSE-NEG KETONE-15
+BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-SM, RBC-[**3-8**]* WBC-[**3-8**]
+BACTERIA-FEW YEAST-NONE EPI-[**3-8**]
+
+PERTINENT LABS DURING HOSPITALIZATION:
+======================================
+WBC trend: 9.1 - 8.5 - 6.9 - 5.4 - 7.3
+Cr trend: 1.2 - 1.3 - 1.3 - 1.1 - 1.1
+
+Lactate trend: 3.2 - 2.5 - 2.2
+INR trend: 2.3 - 2.3 - 5.3 - 7.2 - 3.5
+
+CK 184 - 177
+MB 9 - 10
+Trop 0.04 - 0.05
+
+MICROBIOLOGY:
+=============
+[**6-20**] BCx: NGTD
+
+[**6-20**] URINE CULTURE (Final [**2113-6-22**]):
+      KLEBSIELLA PNEUMONIAE.    10,000-100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CEFUROXIME------------    16 I
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------   128 R
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----     2 S
+
+[**6-21**] Legionella Urinary Ag: negative
+
+STUDIES:
+========
+[**6-19**] CXR (PA & LATERAL)
+IMPRESSION: No evidence of acute cardiopulmonary process.
+
+[**6-20**] EKG
+Atrial fibrillation or possible flutter
+Left ventricular hypertrophy
+Q-Tc interval appears prolonged but is difficult to measure
+Diffuse ST-T wave abnormalities
+These findings are nonspecific but clinical correlation is
+suggested
+Since previous tracing of the same date, ventricular rate faster
+
+
+[**6-20**] EKG
+Atrial fibrillation or possible flutter
+Left ventricular hypertrophy
+Q-Tc interval appears prolonged but is difficult to measure
+Diffuse ST-T wave abnormalities
+These findings are nonspecific but clinical correlation is
+suggested
+Since previous tracing of [**2113-5-10**], ventricular paced rhythm
+absent
+
+[**6-20**] CXR (PORTABLE)
+FINDINGS: There is minimal interval change. The left-sided dual
+pacemaker
+with leads terminating in the right atrium and right ventricle
+remains
+unchanged. Cardiomegaly is moderate and stable. The tortuous
+aorta is
+unchanged. The lungs are slightly hyperinflated but there is no
+infiltrate. There is some linear atelectasis at the bases. There
+is no pleural effusion or pneumothorax.
+IMPRESSION: No evidence of acute cardiopulmonary process.
+
+[**6-20**] CTA CHEST W&W/O C&RECONS, NON-CORONARY
+IMPRESSION:
+1. No evidence of PE or acute aortic syndrome.
+2. Multiple patchy opacities in a bronchovascular pattern seen
+as in
+bilateral lungs, which are concerning for an early multifocal
+pneumonia with adjacent adenopathy, likely reactive.
+
+[**6-21**] EKG
+Atrial fibrillation
+Diffuse ST-T wave abnormalities with prolonged Q-Tc interval -
+cannot exclude in part ischemia - clinical correlation is
+suggested
+Since previous tracing of [**2113-6-20**], QRS voltages less prominent
+and further ST-T wave changes present
+
+Brief Hospital Course:
+MICU SUMMARY:
+==============
+Ms. [**Known lastname 12056**] is an 80 y.o. F with COPD, diastolic CHF, HTN, s/p PPM
+for Mobitz II, AAA s/p repair, RAS s/p stent, MRSA bacteremia,
+presenting with 4 days of increasing dyspnea that was preceded
+with rhinorrhea and productive cough of green/yellow sputum. She
+denied fevers/night sweats, but admits to chills 1-2x. Her
+daughter who lives with her also had a cold several days prior
+to the patient's onset of symptoms. She had increasing SOB and
+saw her PCP the day PTA, who gave her Flovent and started her on
+Levaquin for a UTI. A CXR was negative at PCP's office. The
+morning of ICU admission, the patient was "gasping for air" and
+brought to the ED by her daughter.
+
+In the ED, VS notable for BP 177/96, RR 30 and O2 sat 89% RA.
+Noted to have bilateral expiratory wheezing with increased
+respiratory effort. Given SoluMedrol 125 mg IV, Combivent nebs,
+and covered for COPD flare with vancomycin 1 gm IV, CTX 1 gm IV,
+and Azithromycin 500 mg po. Of note, BNP >70,000 (baseline
+30,000). CXR showed no infiltrate, no pulmonary edema. D-dimer
+was positive, CTA did not show PE or dissection, but showed
+peribronchial opacities, concerning for early multifocal PNA.
+
+In the MICU, she was continued on broad spectrum
+antibiotics(Vancomycin/Zosyn/Azithromycin). She also received
+Lasix on admission. She was switched to po prednisone for COPD
+exacerbation. EP was consulted for changing EKG with new TWI in
+II, III, AVF, which was thought to be T wave memory from pacer
+placement. EP recommended keeping her I=O and correctly lytes,
+no plan for DCCV until pt medically stable. She was transferred
+to the medicine floor for further management.
+
+MEDICINE FLOOR COURSE:
+=======================
+# ? Multifocal Pneumonia:  Concerning for pneumonia on CT.
+Urine legionella was negative.  She never produced a sputum
+culture.  She remained afebrile without leukocytosis. On
+transfer from MICU, her broad spectrum antibiotics were changed
+to azithromycin and ceftriaxone and then she was switched to
+Levofloxacin for CAP and completed her course while in the
+hospital.  Blood cultures remained negative.
+
+# COPD: She continued to have wheezing throughout lung fields
+and was intermittently tachypneic.  She was switched to po
+prednisone and a taper was started and will be completed after
+discharge.  Atrovent and albuterol nebs were given standing.
+She was also continued on azithromycin.  Her supplemental oxygen
+was weaned.  PT evaluated the patient, and with ambulation, her
+O2 sats remained in the mid 90's.
+
+# Supratherapeutic INR: Likely secondary to antibiotics. Her
+Coumadin was held.  She will follow up with her PCP and have an
+INR check.
+
+# Diastolic CHF: Exam with bibasilar crackles c/w some mild
+pulmonary edema in setting of known diastolic dysfunction. Her
+home dose of Lasix was continued.
+
+# Hypertension: Her home regimen was continued with good control
+of her BPs.
+
+# AFib: Rate well controlled with metoprolol. Scheduled for
+outpatient elective cardioversion, but was cancelled due to her
+hospitalization.  Coumadin was held while INR was
+supratherapeutic.
+
+# New TWI: Noted on EKGs. As discussed above, EP believed the
+TWI were due to pacer maker and did not recommend any
+intervention during this hospitalization.
+
+# UTI: Urine grew out Klebsiella susceptible to ceftriaxone.
+She completed her 3 day course of ceftriaxone while in the
+hospital.
+
+# h/o MRSA bacteremia: She was on vancomycin upon transfer to
+the Medicine floor.  After vancomycin was stopped, she was
+restarted on her doxycycline suppressive therapy.
+
+# Hyperlipidemia: Continued Statin.
+
+# Code: Full Code, confirmed with patient
+.
+# Contact: Daughter - [**Name (NI) 2048**] [**Telephone/Fax (1) 26798**]
+
+# Dispo: Home with services and close follow up with PCP.
+
+Medications on Admission:
+MEDICATIONS ON ADMISSION:
+From OMR
+ALBUTEROL SULFATE - Nebulization 1 neb q6h as needed
+ATORVASTATIN - 80mg by mouth once a day
+CLONIDINE - 0.2mg by mouth twice a day
+CLOPIDOGREL - 75mg by mouth once a day
+DOXYCYCLINE - 100mg every twelve (12) hours
+ESOMEPRAZOLE 40mg by mouth once a day
+FLUTICASONE - 110 mcg/Actuation Aerosol - 2 puffs twice a day
+FUROSEMIDE 20mg by mouth once a day for edema
+HYDRALAZINE - 50mg by mouth three times a day
+VICODIN - 5 mg-500 mg - [**1-4**] Tablet(s) by mouth q6 hours as
+needed ISOSORBIDE DINITRATE - 30mg by mouth three times a day
+LEVOFLOXACIN 250mg by mouth once a day x 7 days (started [**6-19**])
+METOPROLOL - 50mg by mouth three times a day
+WARFARIN - 2mg qHS S/W/Fr, 4mg qHS M/T/Th/Sa
+
+MEDICATIONS ON TRANSFER:
+Acetaminophen 325-650 mg po q6 hours prn
+Albuterol 0.083% 1 nebulizer IH q6 hours
+Albuterol 0.083% 1 nebulizer IH q2 hours prn
+Atorvastatin 80 mg po daily
+Azithromycin 250 mg po q24 hours (day 1 = [**2113-6-20**])
+Clonidine 0.2 mg po BID
+Clopdiogrel 75 mg po daily
+Hydralazine 50 mg po q8 hours
+Ipratropium Bromide 1 neb IH q6 hours
+Isosorbide Mononitrate 30 mg po daily
+Metoprolol Tartrate 50 mg po TID
+Pantoprazole 40 mg po q24 hours
+Zosyn 2.25 g IV q6 hours (day 1 = [**2113-6-20**])
+Prednisone 30 mg po daily
+Vancomycin 1 gm IV q48 hours (day 1 = [**2113-6-20**])
+Coumadin 2 mg po 3 x week
+Coumadin 4 mg po 4 x week
+
+
+Discharge Medications:
+1. Atorvastatin 40 mg Tablet [**Month/Day/Year **]: Two (2) Tablet PO DAILY
+(Daily).
+2. Clonidine 0.1 mg Tablet [**Month/Day/Year **]: Two (2) Tablet PO BID (2 times a
+day).
+3. Clopidogrel 75 mg Tablet [**Month/Day/Year **]: One (1) Tablet PO DAILY
+(Daily).
+4. Doxycycline Hyclate 100 mg Capsule [**Month/Day/Year **]: One (1) Capsule PO
+Q12H (every 12 hours).
+5. Esomeprazole Magnesium 40 mg Capsule, Delayed Release(E.C.)
+[**Month/Day/Year **]: One (1) Capsule, Delayed Release(E.C.) PO once a day.
+6. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization [**Month/Day/Year **]: One (1) treatment Inhalation every 4-6 hours
+as needed for wheezing.
+7. Furosemide 20 mg Tablet [**Month/Day/Year **]: One (1) Tablet PO DAILY (Daily).
+
+8. Hydralazine 50 mg Tablet [**Month/Day/Year **]: One (1) Tablet PO Q8H (every 8
+hours).
+9. Fluticasone 110 mcg/Actuation Aerosol [**Month/Day/Year **]: Two (2) puffs
+Inhalation twice a day.
+10. Metoprolol Tartrate 50 mg Tablet [**Month/Day/Year **]: One (1) Tablet PO TID
+(3 times a day).
+11. Ipratropium Bromide 0.02 % Solution [**Month/Day/Year **]: One (1) treatment
+Inhalation Q6H (every 6 hours).
+12. Docusate Sodium 100 mg Capsule [**Month/Day/Year **]: One (1) Capsule PO BID
+(2 times a day) as needed for constipation.
+13. Prednisone 10 mg Tablet [**Month/Day/Year **]: As directed Tablet PO DAILY
+(Daily) for 9 days: Please take two tablets (20 mg) once daily X
+3 days ([**6-25**], [**6-26**], [**6-27**]) then one tablet (10 mg) once daily X 3
+days ([**6-28**], [**6-29**], [**6-30**]). Then, take [**1-4**] tablet (5 mg) once daily
+X 3 days ([**7-1**], [**7-2**], [**7-3**]) then stop.
+Disp:*11 Tablet(s)* Refills:*0*
+14. Isosorbide Dinitrate 30 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO
+three times a day.
+15. Acetaminophen 325 mg Tablet [**Month/Year (2) **]: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain: total acetaminophen dose 4 g daily.
+16. Senna 8.6 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Acute on chronic diastolic heart failure exacerbation
+Chronic obstructive pulmonary disease flare
+
+Secondary Diagnosis:
+Hypertension
+Peripheral vascular disease
+Hypercholesterolemia
+Stage 3 chronic kidney disease
+
+
+Discharge Condition:
+Afebrile, normotensive, comfortable on room air, room air oxygen
+saturation 100%
+
+
+Discharge Instructions:
+You have been evaluated for your shortness of breath. You were
+treated for heart failure, COPD, and pneumonia. Your breathing
+improved. You were evaluated by physical therapy who feel that
+you can return home with home physical therapy.
+
+Please continue your home medications as prescribed.  Your new
+medication is prednisone. Please take this as directed.   We
+have held your coumadin as your lab level was too high.  You
+need to have this checked at your doctor's office on [**Hospital 766**],
+[**6-26**].
+
+Please keep all your medical appointments.
+Please call your physician or return to the emergency if you
+experience any of the following symptoms: fever > 101, chills,
+nausea or vomiting with inability to keep down liquids or by
+mouth medications, shortness of breath, chest pain, or any other
+concerns.
+
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+
+Followup Instructions:
+Please follow up with your primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **],
+on [**Last Name (LF) 766**], [**6-26**] at 12:45 pm. Call [**Telephone/Fax (1) 1144**] if there is a
+problem with this appointment. Please have your INR checked at
+this appointment.
+
+Please keep these other already-scheduled appointments:
+Provider: [**First Name11 (Name Pattern1) 4952**] [**Last Name (NamePattern4) 10591**], MD Phone:[**Telephone/Fax (1) 10590**]
+Date/Time:[**2113-7-3**] 1:00
+Provider: [**Name10 (NameIs) 251**] [**Last Name (NamePattern4) 252**], M.D. Phone:[**Telephone/Fax (1) 253**]
+Date/Time:[**2113-9-11**] 9:15
+Provider: [**Last Name (NamePattern4) **]. [**First Name (STitle) **] [**Doctor Last Name **] Phone:[**Telephone/Fax (1) 1142**]
+Date/Time:[**2113-9-25**] 10:15
+
+
+
+Completed by:[**2113-6-25**]

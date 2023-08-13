@@ -1,0 +1,248 @@
+T6	Reason 10399 10429;10430 10447	recurrent stage IIIC papillary serous ovarian CA
+R1	Reason-Drug Arg1:T6 Arg2:T7
+R2	Reason-Drug Arg1:T6 Arg2:T8
+R3	Reason-Drug Arg1:T6 Arg2:T9
+R4	Reason-Drug Arg1:T6 Arg2:T10
+T7	Drug 10469 10480	carboplatin
+T8	Drug 10482 10493	gemcitabine
+T9	Drug 10495 10506	bevacizumab
+T10	Drug 10508 10515	avastin
+T11	Drug 11153 11160	heparin
+T12	Route 11161 11164	gtt
+R5	Route-Drug Arg1:T12 Arg2:T11
+T13	Drug 11441 11448	heparin
+T14	Reason 11589 11595	anemia
+R6	Reason-Drug Arg1:T14 Arg2:T17
+T15	Dosage 11647 11648	2
+R7	Dosage-Drug Arg1:T15 Arg2:T17
+T16	Form 11649 11654	units
+R8	Form-Drug Arg1:T16 Arg2:T17
+T17	Drug 11655 11660	pRBCs
+T18	Reason 11667 11676	HCT of 18
+R9	Reason-Drug Arg1:T18 Arg2:T17
+T19	Reason 11693 11696	UTI
+R10	Reason-Drug Arg1:T19 Arg2:T20
+R11	Reason-Drug Arg1:T19 Arg2:T21
+R12	Reason-Drug Arg1:T19 Arg2:T22
+R13	Reason-Drug Arg1:T19 Arg2:T23
+T20	Drug 12057 12061	vanc
+T21	Drug 12062 12070	cefepime
+T22	Drug 12133 12141	cefepime
+T23	Drug 12445 12453	cefepime
+T24	Reason 12739 12753;12754 12760	staphylococcus aureus
+R14	Reason-Drug Arg1:T24 Arg2:T26
+T25	Route 12790 12794	oral
+R15	Route-Drug Arg1:T25 Arg2:T26
+T26	Drug 12795 12804	augmentin
+T27	Duration 12825 12831	14 day
+R16	Duration-Drug Arg1:T27 Arg2:T26
+T28	Drug 1283 1287	Vanc
+T29	Drug 1288 1296	Cefepime
+T30	Reason 12906 12913	E. coli
+R17	Reason-Drug Arg1:T30 Arg2:T32
+T31	Route 12941 12945	oral
+R18	Route-Drug Arg1:T31 Arg2:T32
+T32	Drug 12946 12959	ciprofloxacin
+T33	Duration 12980 12986	14 day
+R19	Duration-Drug Arg1:T33 Arg2:T32
+T34	Route 13052 13056	oral
+R20	Route-Drug Arg1:T34 Arg2:T35
+T35	Drug 13057 13068	antibiotics
+T36	Drug 1307 1311	APAP
+T37	Dosage 13403 13404	2
+R21	Dosage-Drug Arg1:T37 Arg2:T39
+T38	Form 13405 13410	units
+R22	Form-Drug Arg1:T38 Arg2:T39
+T39	Drug 13411 13416	pRBCs
+T40	Reason 13489 13495	Anemia
+R23	Reason-Drug Arg1:T40 Arg2:T41
+T41	Drug 13700 13707	avastin
+T42	Drug 1384 1391	Heparin
+T43	Dosage 13869 13870	2
+R24	Dosage-Drug Arg1:T43 Arg2:T45
+T44	Form 13870 13871	U
+R25	Form-Drug Arg1:T44 Arg2:T45
+T45	Drug 13872 13878	PRBC's
+T46	Route 1392 1395	gtt
+R26	Route-Drug Arg1:T46 Arg2:T42
+T47	ADE 13945 13961	Thrombocytopenia
+R27	ADE-Drug Arg1:T47 Arg2:T48
+R28	ADE-Drug Arg1:T47 Arg2:T50
+T48	Drug 13985 13990	chemo
+T49	Drug 14044 14049	chemo
+T50	Drug 14150 14157	heparin
+T51	Route 14158 14161	gtt
+R29	Route-Drug Arg1:T51 Arg2:T50
+T52	Reason 14167 14215	Recurrent stage IIIC papillary serous ovarian CA
+R30	Reason-Drug Arg1:T52 Arg2:T53
+R31	Reason-Drug Arg1:T52 Arg2:T55
+R32	Reason-Drug Arg1:T52 Arg2:T56
+T53	Drug 14237 14248	carboplatin
+T54	Reason 1424 1426	PE
+R33	Reason-Drug Arg1:T54 Arg2:T42
+T55	Drug 14250 14261	gemcitabine
+T56	Drug 14263 14274	bevacizumab
+T57	Drug 14276 14283	avastin
+T58	Reason 14290 14293	HTN
+R34	Reason-Drug Arg1:T58 Arg2:T59
+R35	Reason-Drug Arg1:T58 Arg2:T63
+T59	Drug 14315 14325	lisinopril
+T60	Strength 14326 14329	5mg
+R36	Strength-Drug Arg1:T60 Arg2:T59
+T61	Frequency 14330 14335	daily
+R37	Frequency-Drug Arg1:T61 Arg2:T59
+T63	Drug 14429 14439	lisinopril
+T64	Drug 14501 14511	Lisinopril
+T65	Strength 14512 14515	5mg
+R38	Strength-Drug Arg1:T65 Arg2:T64
+T66	Route 14516 14518	PO
+R39	Route-Drug Arg1:T66 Arg2:T64
+T67	Frequency 14519 14524	daily
+R40	Frequency-Drug Arg1:T67 Arg2:T64
+T68	Drug 14525 14534	Vitamin D
+T69	Drug 14535 14541	Colace
+T70	Drug 14570 14585	docusate sodium
+T71	Strength 14586 14592	100 mg
+R41	Strength-Drug Arg1:T71 Arg2:T70
+T72	Form 14593 14600	Capsule
+R42	Form-Drug Arg1:T72 Arg2:T70
+T73	Dosage 14606 14613	One (1)
+R43	Dosage-Drug Arg1:T73 Arg2:T70
+T74	Form 14614 14621	Capsule
+R44	Form-Drug Arg1:T74 Arg2:T70
+T75	Route 14622 14624	PO
+R45	Route-Drug Arg1:T75 Arg2:T70
+T77	Frequency 14625 14631;14632 14644	BID (2 times a day)
+T78	Drug 14649 14659	lisinopril
+T79	Strength 14660 14664	5 mg
+R48	Strength-Drug Arg1:T79 Arg2:T78
+T80	Form 14665 14671	Tablet
+R49	Form-Drug Arg1:T80 Arg2:T78
+T81	Dosage 14677 14684	One (1)
+R50	Dosage-Drug Arg1:T81 Arg2:T78
+T82	Form 14685 14691	Tablet
+R51	Form-Drug Arg1:T82 Arg2:T78
+T83	Route 14692 14694	PO
+R52	Route-Drug Arg1:T83 Arg2:T78
+T84	Frequency 14695 14708	DAILY (Daily)
+R53	Frequency-Drug Arg1:T84 Arg2:T78
+T85	Drug 14714 14724	Vitamin D3
+T86	Route 14726 14730	Oral
+R54	Route-Drug Arg1:T86 Arg2:T85
+T87	Drug 14734 14747	ciprofloxacin
+T88	Strength 14748 14754	500 mg
+R55	Strength-Drug Arg1:T88 Arg2:T87
+T89	Form 14755 14761	Tablet
+R56	Form-Drug Arg1:T89 Arg2:T87
+T90	Dosage 14767 14774	One (1)
+R57	Dosage-Drug Arg1:T90 Arg2:T87
+T91	Form 14775 14781	Tablet
+R58	Form-Drug Arg1:T91 Arg2:T87
+T92	Route 14782 14784	PO
+R59	Route-Drug Arg1:T92 Arg2:T87
+T93	Frequency 14785 14789;14790 14806	Q12H (every 12 hours)
+R60	Frequency-Drug Arg1:T93 Arg2:T87
+T94	Duration 14807 14818	for 11 days
+R61	Duration-Drug Arg1:T94 Arg2:T87
+T95	Drug 14880 14907	amoxicillin-pot clavulanate
+T96	Strength 14908 14918	875-125 mg
+R62	Strength-Drug Arg1:T96 Arg2:T95
+T97	Form 14919 14925	Tablet
+R63	Form-Drug Arg1:T97 Arg2:T95
+T98	Dosage 14931 14938	One (1)
+R64	Dosage-Drug Arg1:T98 Arg2:T95
+T99	Form 14939 14945	Tablet
+R65	Form-Drug Arg1:T99 Arg2:T95
+T100	Route 14946 14948	PO
+R66	Route-Drug Arg1:T100 Arg2:T95
+T101	Frequency 14949 14970	Q12H (every 12 hours)
+R67	Frequency-Drug Arg1:T101 Arg2:T95
+T102	Duration 14971 14982	for 11 days
+R68	Duration-Drug Arg1:T102 Arg2:T95
+T103	Drug 15044 15049	senna
+T104	Strength 15050 15056	8.6 mg
+R69	Strength-Drug Arg1:T104 Arg2:T103
+T105	Form 15057 15063	Tablet
+R70	Form-Drug Arg1:T105 Arg2:T103
+T106	Dosage 15069 15076	One (1)
+R71	Dosage-Drug Arg1:T106 Arg2:T103
+T107	Form 15077 15083	Tablet
+R72	Form-Drug Arg1:T107 Arg2:T103
+T108	Route 15084 15086	PO
+R73	Route-Drug Arg1:T108 Arg2:T103
+T109	Frequency 15087 15101;15102 15116	BID (2 times a day) as needed
+R74	Frequency-Drug Arg1:T109 Arg2:T103
+T110	Reason 15121 15133	constipation
+R75	Reason-Drug Arg1:T110 Arg2:T103
+T111	Drug 15170 15194	polyethylene glycol 3350
+T112	Strength 15195 15202	17 gram
+R76	Strength-Drug Arg1:T112 Arg2:T111
+T113	Form 15203 15219	Powder in Packet
+R77	Form-Drug Arg1:T113 Arg2:T111
+T114	Dosage 15225 15228;15229 15232	One (1)
+R78	Dosage-Drug Arg1:T114 Arg2:T111
+T115	Form 15233 15249	Powder in Packet
+R79	Form-Drug Arg1:T115 Arg2:T111
+T116	Route 15250 15252	PO
+R80	Route-Drug Arg1:T116 Arg2:T111
+T117	Frequency 15253 15276	DAILY (Daily) as needed
+R81	Frequency-Drug Arg1:T117 Arg2:T111
+T118	Reason 15281 15293	constipation
+R82	Reason-Drug Arg1:T118 Arg2:T111
+T119	Drug 1543 1546	TPA
+T120	Drug 15989 16000	antibiotics
+T121	Drug 16062 16067;16068 16080	blood transfusions
+T122	Drug 16113 16126	blood thinner
+T123	Reason 16144 16180	a potential blood clot in your lungs
+R83	Reason-Drug Arg1:T123 Arg2:T122
+T124	Reason 16255 16265	blood clot
+R84	Reason-Drug Arg1:T124 Arg2:T125
+T125	Drug 16275 16288	blood thinner
+T126	Drug 16333 16338	blood
+T127	Form 16339 16350	transfusion
+R85	Form-Drug Arg1:T127 Arg2:T126
+T128	Reason 16379 16388	infection
+R86	Reason-Drug Arg1:T128 Arg2:T130
+R87	Reason-Drug Arg1:T128 Arg2:T133
+R88	Reason-Drug Arg1:T128 Arg2:T135
+T129	Route 16446 16457	intravenous
+R89	Route-Drug Arg1:T129 Arg2:T130
+T130	Drug 16458 16469	antibiotics
+T131	Route 16498 16502	oral
+R90	Route-Drug Arg1:T131 Arg2:T133
+T132	Drug 165 175	Bactrim DS
+T133	Drug 16503 16514	antibiotics
+T134	Route 16555 16559	oral
+R91	Route-Drug Arg1:T134 Arg2:T135
+T135	Drug 16560 16571	antibiotics
+T136	Drug 16714 16723	Augmentin
+T137	Drug 16746 16759	Ciprofloxacin
+T138	Drug 16782 16787	Senna
+T139	Drug 16792 16811	Polyethylene glycol
+T140	Reason 16824 16840	move your bowels
+R92	Reason-Drug Arg1:T140 Arg2:T138
+R93	Reason-Drug Arg1:T140 Arg2:T139
+T141	Drug 2484 2489	Taxol
+T142	Drug 2536 2541	Taxol
+T143	Drug 2589 2594	Taxol
+T144	Drug 2640 2645	Taxol
+T145	Drug 2692 2697	Taxol
+T146	Drug 2745 2750	Taxol
+T147	Reason 405 453	recurrent stage IIIC papillary serous ovarian CA
+R94	Reason-Drug Arg1:T147 Arg2:T148
+R95	Reason-Drug Arg1:T147 Arg2:T149
+R96	Reason-Drug Arg1:T147 Arg2:T150
+T148	Drug 475 486	carboplatin
+T149	Drug 488 499	gemcitabine
+T150	Drug 501 512	bevacizumab
+T151	Drug 514 521	avastin
+T152	Reason 8305 8321	ESCHERICHIA COLI
+R97	Reason-Drug Arg1:T152 Arg2:T153
+T153	Drug 8356 8365	Cefazolin
+T154	Strength 8432 8434	2g
+R98	Strength-Drug Arg1:T154 Arg2:T153
+T155	Frequency 8435 8443	every 8h
+R99	Frequency-Drug Arg1:T155 Arg2:T153
+T156	Drug 8454 8466	Piperacillin
+T157	Drug 8467 8477	Tazobactam
+R46	Frequency-Drug Arg1:T77 Arg2:T70	

@@ -1,0 +1,40 @@
+T1	Drug 1088 1099	antibiotics
+T2	Drug 1101 1109	levophed
+T3	Form 1110 1113	gtt
+R1	Form-Drug Arg1:T3 Arg2:T2
+T4	Reason 1117 1128	maintain BP
+R2	Reason-Drug Arg1:T4 Arg2:T2
+T5	Drug 1441 1449	pressors
+T6	Reason 1467 1480	hyperglycemia
+R3	Reason-Drug Arg1:T6 Arg2:T7
+T7	Drug 1495 1502	insulin
+T8	Drug 1585 1588	abx
+T100	Strength 1675 1682	2 units
+T10	Drug 1686 1690	pRBC
+T11	Drug 1945 1952	Bactrim
+T12	Drug 1957 1968	Fluconazole
+T13	Drug 1999 2007	Coumadin
+T14	Drug 2166 2174	Coumadin
+T15	Drug 2315 2323	Warfarin
+T16	Drug 285 299	Nitrofurantoin
+T17	Drug 315 319	Iron
+T18	Drug 322 329	Calcium
+T20	Drug 550 556	fluids
+T21	Reason 783 809	hyperglycemia with FS 470s
+R7	Reason-Drug Arg1:T21 Arg2:T23
+R8	Reason-Drug Arg1:T21 Arg2:T26
+T23	Drug 861 866	fluid
+T24	Form 867 872	bolus
+R10	Form-Drug Arg1:T24 Arg2:T23
+T25	Route 882 884	SC
+R11	Route-Drug Arg1:T25 Arg2:T26
+T26	Drug 885 892	insulin
+R4	Strength-Drug Arg1:T100 Arg2:T10	
+T9	Dosage 874 876	2L
+T27	Drug 877 879	LR
+R5	Dosage-Drug Arg1:T9 Arg2:T27	
+R12	Reason-Drug Arg1:T21 Arg2:T27	
+T19	Route 547 549	IV
+R6	Route-Drug Arg1:T19 Arg2:T20	
+T22	Route 858 860	IV
+R9	Route-Drug Arg1:T22 Arg2:T23	

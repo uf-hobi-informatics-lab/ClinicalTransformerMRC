@@ -1,0 +1,314 @@
+Admission Date:  [**2181-5-13**]              Discharge Date:   [**2181-5-17**]
+
+Date of Birth:  [**2100-1-5**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2181**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+81 yo M with DMII, CKD, HTN, h/o DVT, recent admission for
+altered mental status and hypoglycemia, presenting with
+shortness of breath, wheezing, and confusion. During the past
+few days, patient has had worsening shortness of breath and
+wheezing. Has known diagnosis of asthma. Also agitated and not
+taking good PO.
+.
+In the ED, initial vital signs were T 98.3 BP 122/42 HR 120 RR
+26 Sat 99%/8L. Exam was notable for moaning, tachycardia, poor
+air movement, and bilateral wheezes. EKG unremarkable. Labs
+notable for elevated troponin, acute renal failure. In the ED,
+the patient became hypotensive, with systolics in the 60s. Given
+2L NS with improvement in BP. The patient was also given
+vancomycin 1 gm IV, Zosyn 4.5 gm IV (despite known penicillin
+allergy), methylprednisolone 125 mg IV, Tylenol 650 mg PR,
+magnesium 2gm IV, and ASA 300 mg PR. Vital signs on transfer T
+99 HR 91 BP 95/48 RR 12 97%/4L NC.
+
+Past Medical History:
+DMII
+CKD stage III
+HTN
+DVT
+Sacral wound
+Asthma
+Hyperparathyroidism
+osteoporosis
+B12 deficiency
+
+Social History:
+Has a temporary guardian, attorney [**Name (NI) **] [**Name (NI) **] [**Telephone/Fax (3) 88981**]. Friend, [**Name (NI) **] [**Name (NI) 30106**] aka [**Last Name (un) **], was made HCP
+([**Telephone/Fax (1) 88979**]).
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+ADMISSION EXAM
+Gen: Agitated. Not cooperative with nursing care.
+HEENT: MMM no mucosal bleeding
+CV: RRR no MRG
+RESP: diffuse expiratory wheezes
+CHEST: Pt with firm, slightly mobile mass around the R breast.
+ABD: soft NT ND no masses
+EXT: no edema
+Skin: stage 2 decubitus ulcers on sacrum and scrotum.
+Neuro: Moving all extremities. Speaking. Not oriented.
+
+DISCHARGE EXAM
+VS: Tc 97.3 Tm 98.3 122/70 71 18 100%RA
+GEN: cooperative, calm, alert, oriented to person, place, "it's
+the 1st or the 2nd", thought it was [**2196**], knows the president
+HEENT: MMM, poor dentition, EOMI, no erythema
+NECK: supple, no JVD
+CV: RRR, no M/R/G, noraml S1, S2
+LUNG: diffuse wheezes throughout, no rales
+ABD: soft, NT/ND, +BS, no R/G, no HSM
+EXT: warm, no lower extremity edema, decreasing edema in left
+upper extremity
+NEURO: CN II-XII intact, non-focal
+GU: Foley catheter in place
+SKIN: stage 2 decubitus ulcers on sacrum and scrotum; no
+erythema, exudate or signs of infection.
+
+
+Pertinent Results:
+# LABORATORY DATA
+
+Admission labs:
+[**2181-5-13**] 02:43PM BLOOD WBC-8.1 RBC-2.96* Hgb-8.4* Hct-26.8*
+MCV-91 MCH-28.3 MCHC-31.2 RDW-15.3 Plt Ct-419#
+[**2181-5-13**] 02:43PM BLOOD Neuts-53.5 Lymphs-30.4 Monos-7.8 Eos-7.9*
+Baso-0.5
+[**2181-5-13**] 02:43PM BLOOD PT-45.2* PTT-43.9* INR(PT)-4.7*
+[**2181-5-13**] 02:43PM BLOOD Fibrino-423*
+[**2181-5-13**] 02:43PM BLOOD Glucose-79 UreaN-45* Creat-3.5*# Na-146*
+K-5.1 Cl-113* HCO3-18* AnGap-20
+[**2181-5-13**] 02:43PM BLOOD ALT-15 AST-29 LD(LDH)-322* CK(CPK)-139
+AlkPhos-42 TotBili-0.2
+[**2181-5-13**] 11:13PM BLOOD CK-MB-12* MB Indx-7.7* cTropnT-0.63*
+[**2181-5-13**] 02:43PM BLOOD cTropnT-0.90*
+[**2181-5-13**] 02:43PM BLOOD CK-MB-8
+[**2181-5-13**] 02:43PM BLOOD Calcium-7.6* Phos-5.7*# Mg-2.2
+[**2181-5-13**] 02:43PM BLOOD Hapto-270*
+[**2181-5-13**] 02:54PM BLOOD Lactate-1.3
+
+Discharge Labs
+[**2181-5-17**] 09:55AM BLOOD PT-26.7* PTT-37.1* INR(PT)-2.6*
+
+# IMAGING
+
+[**5-13**] CHEST XRAY (Portable AP)
+IMPRESSION: New bibasilar patchy opacities which could represent
+aspiration or pneumonia.
+
+# MICROBIOLOGY
+
+[**5-17**] GRAM STAIN (Final [**2181-5-17**]):
+      <10 PMNs and >10 epithelial cells/100X field.
+      Gram stain indicates extensive contamination with upper
+respiratory
+      secretions. Bacterial culture results are invalid.
+
+[**5-13**] URINE CULTURE (Final [**2181-5-14**]):    NO GROWTH.
+[**5-13**] MRSA SCREEN (Final [**2181-5-16**]):    No MRSA isolated
+[**5-13**] Blood Culture, Routine: Pending
+
+Brief Hospital Course:
+81 yo M with DMII, CKD, HTN, DVT, asthma, presents with
+shortness of breath, wheezing, agitation, and confusion.
+.
+# Dyspnea: Secondary to bronchospasm from reactive airways
+disease and pneumonia seen on CXR. He received albuterol
+nebulizer treatments and a 3-day burst of steroids (Solu-Medrol
+x 1 dose, prednisone 40mg daily x 2 doses) for his bronchospasm,
+as well as broad spectrum antibiotics (vancomycin, cefepime and
+azithromycin) for HCAP. He was switched to levofloxacin upon
+transfer to the floor and his symptoms continued to improve.  He
+was continued on his home Advair and singulair. Satting 100% on
+room air at time of discharge.
+.
+# Hypotension: He was briefly hypotensive in the ER in setting
+of hypovolemia due to poor PO intake.  His hypotension was
+fluid-responsive, and there were no further episodes of
+hypotension in the ICU or on the floor.
+.
+# h/o DVT: Patient is on coumadin at home and presented with
+supratherapeutic INR, 5.6. Coumadin was held throughout
+admission and his INR was 2.6 on discharge. He will need close
+monitoring of his INR in the context of taking antibiotics.
+.
+# Acute on chronic renal failure: Likely pre-renal given low
+urine chloride and bland urine sediment.  His creatinine
+improved with hydration.
+.
+# Delirium: Patient was intermittently confused and agitated,
+however he was generally redirectable. Likely related to
+steroids, infection and starting levofloxacin. Steroids were
+stopped after 3-day burst and patient has 2 doses of
+levofloxacin remaining. Did not receive any sedating medications
+while in-house.
+.
+# Elevated troponin: His troponins were elevated in the setting
+of renal failure with mild CK-MB elevation that was flat.  His
+EKGs were reassuring against ACS and the patient denied any
+chest pain.
+.
+# Stage 2 ulcers: On sacrum and scrotum. Managed with frequent
+cleaning and dressing changes. No evidence of infection.
+.
+# DM2: Patient had recent admission for hypoglycemia. Glipizide
+was held while in house. His fingersticks were monitored, and he
+was on insulin sliding scale while in the hospital. He
+intermittently refused insulin, however, his blood glucose was
+controlled in the 100s-200s.
+.
+# DVT Prophylaxis: Systemic anticoagulation (supratherapeutic
+INR throughout admission).
+.
+# Communication: Has temporary guardian [**Name (NI) **] [**Name (NI) **]
+[**Telephone/Fax (3) 88982**]. Friend, [**Name (NI) **] [**Name (NI) 30106**] (aka [**Last Name (un) **]),
+was made health care proxy during this admission.
+.
+# Code status: Full code (discussed with patient & HCP).
+
+Medications on Admission:
+Singulair 10 mg daily
+albuterol inhaler PRN
+oxycodone 10 mg Q4H PRN severe pain
+lisinopril 5 mg daily
+zinc sulfate 220 mg daily
+vitamin C 500 mg daily
+Coumadin 5 mg daily
+aspirin 325 mg daily
+ferrous sulfate 325 mg daily
+Flonase 2 sprays each nostril daily
+vitamin B12 1000 mg monthly (due [**5-24**])
+Fosamax 70 mg weekly
+vitamin D 800 units daily
+Cardura 4 mg daily
+Advair 250/50 1 puff [**Hospital1 **]
+colace 100 mg [**Hospital1 **]
+lactulose 30 mL daily
+albuterol nebs Q6H PRN wheezing or SOB
+multivitamin with mineral 1 tab daily
+senna 8.6 mg daily PRN constipation
+dulcolax 10 mg suppository PRN constiaption
+fleet enema PRN constipation
+acetaminophen 650 mg Q4H PRN pain or fever
+glipizide XL 5 mg daily
+
+Discharge Medications:
+1. Singulair 10 mg Tablet Sig: One (1) Tablet PO once a day.
+2. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) neb Inhalation every 4-6 hours as
+needed for shortness of breath or wheezing.
+3. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO every four (4)
+hours as needed for severe pain.
+4. lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.
+5. zinc sulfate 220 mg Tablet Sig: One (1) Tablet PO once a day.
+6. ascorbic acid 500 mg Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO once a day.
+7. Coumadin 5 mg Tablet Sig: One (1) Tablet PO once a day:
+8. aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+9. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1)
+Tablet PO once a day.
+10. Flonase 50 mcg/Actuation Spray, Suspension Sig: Two (2)
+sprays Nasal once a day.
+11. Vitamin B-12 1,000 mcg Tablet Sig: One (1) Tablet PO once a
+month: next dose due [**5-24**].
+12. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.
+13. Vitamin D-3 400 unit Tablet, Chewable Sig: [**12-17**] Tablet,
+Chewables PO once a day.
+14. Cardura 4 mg Tablet Sig: One (1) Tablet PO once a day.
+15. Advair Diskus 250-50 mcg/dose Disk with Device Sig: One (1)
+puff Inhalation twice a day.
+16. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day:
+HOLD FOR LOOSE STOOLS.
+17. lactulose 10 gram/15 mL Solution Sig: Thirty (30) mL PO once
+a day: HOLD FOR LOOSE STOOLS.
+18. multivitamin with minerals     Tablet Sig: One (1) Tablet PO
+once a day.
+19. senna 8.6 mg Tablet Sig: 1-2 Tablets PO once a day as needed
+for constipation.
+20. bisacodyl 10 mg Suppository Sig: One (1) suppository Rectal
+once a day as needed for constipation.
+21. Fleet Enema 19-7 gram/118 mL Enema Sig: One (1) enema Rectal
+once a day as needed for constipation.
+22. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every [**3-21**]
+hours as needed for fever or pain.
+23. glipizide 5 mg Tablet Extended Rel 24 hr Sig: One (1) Tablet
+Extended Rel 24 hr PO once a day.
+24. ammonium lactate 12 % Lotion Sig: One (1) Appl Topical [**Hospital1 **]
+(2 times a day): to affected area.
+25. Outpatient Lab Work
+Check BUN & Cr on [**Last Name (LF) 766**], [**5-21**] and send information to
+patient's PCP.
+26. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO q48h
+(every fourty-eight (48) hours) for 4 days: Due for two more
+doses: on [**5-12**]. Tablet(s)
+27. Outpatient Lab Work
+Check INR on [**Last Name (LF) 2974**], [**5-18**] and adjust coumadin dose
+accordingly.
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] Healthcare Center - [**Location (un) **]
+
+Discharge Diagnosis:
+Primary diagnoses:
+# Healthcare associated pneumonia
+# Asthma exacerbation
+
+Secondary diagnoses:
+# Type II diabetes mellitus
+# Delirium
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+
+Discharge Instructions:
+# You were admitted to the hospital for shortness of breath and
+agitation. You were found to have pneumonia as well as worsening
+of your asthma. You received nebs, steroids and antibiotics and
+your breathing improved.
+
+# You were also found to have worsening of your kidney function.
+This improved with IV fluids.
+
+# Your INR was very high, so we stopped your coumadin. It is
+very important that you have your INR checked frequently to make
+sure that it doesn't get too high. The antibiotics that you are
+currently on can also increase your INR, so it needs to be
+checked [**Location (un) 2974**], [**5-18**].
+
+# We made the following changes to your medications:
+- STARTED Levaquin (levofloxacin) 750mg every other day, last
+dose [**5-21**]
+
+# It is important that you complete your course of antibiotics.
+
+# It is important that you keep all of your follow up
+appointments and your medications as prescribed.
+
+Followup Instructions:
+You should follow up with your PCP (Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 9192**],
+[**Telephone/Fax (1) 64911**]) in the next 1 week.
+
+
+Completed by:[**2181-5-18**]

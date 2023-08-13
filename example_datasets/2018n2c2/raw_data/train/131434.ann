@@ -1,0 +1,345 @@
+T2	Drug 10019 10025	fluids
+T4	Drug 10033 10044	antibiotics
+T5	Drug 10152 10162	Vancomycin
+T6	Duration 10163 10178	for 5 more days
+R3	Duration-Drug Arg1:T6 Arg2:T5
+T7	Drug 10186 10196	Gentamycin
+T8	Duration 10197 10212	for 2 more days
+R4	Duration-Drug Arg1:T8 Arg2:T7
+T9	Drug 10220 10233	Ciprofloxacin
+T10	Duration 10234 10249	for 2 more days
+R5	Duration-Drug Arg1:T10 Arg2:T9
+T11	Drug 10257 10280	Guaifensin with codeine
+T13	Frequency 10281 10294	QHS as needed
+R6	Frequency-Drug Arg1:T13 Arg2:T11
+T14	Reason 10299 10304	cough
+R7	Reason-Drug Arg1:T14 Arg2:T11
+T15	Drug 10312 10323	Benzonatate
+T16	Frequency 10341 10350	as needed
+R8	Frequency-Drug Arg1:T16 Arg2:T15
+T17	Reason 10355 10360	cough
+R9	Reason-Drug Arg1:T17 Arg2:T15
+T18	Drug 10454 10465	antibiotics
+T19	Duration 10469 10475	5 days
+R10	Duration-Drug Arg1:T19 Arg2:T18
+T21	Drug 1595 1599	vanc
+T22	Drug 1600 1603	ctx
+T23	Drug 1604 1611	azithro
+T24	Drug 1638 1641	pcn
+T25	Drug 165 176	Penicillins
+T26	ADE 1655 1660	hives
+R11	ADE-Drug Arg1:T26 Arg2:T24
+T27	Drug 1678 1681	ctx
+T28	Reason 448 451	PNA
+R12	Reason-Drug Arg1:T28 Arg2:T30
+T29	Route 465 467	PO
+R13	Route-Drug Arg1:T29 Arg2:T30
+T30	Drug 468 476	levoflox
+T31	Reason 5400 5403	PNA
+R14	Reason-Drug Arg1:T31 Arg2:T33
+T32	Route 5412 5414	PO
+R15	Route-Drug Arg1:T32 Arg2:T33
+T33	Drug 5415 5423	levoquin
+T34	Reason 5483 5506	resistent bacterial PNA
+R16	Reason-Drug Arg1:T34 Arg2:T36
+R17	Reason-Drug Arg1:T34 Arg2:T38
+R18	Reason-Drug Arg1:T34 Arg2:T39
+R19	Reason-Drug Arg1:T34 Arg2:T40
+R20	Reason-Drug Arg1:T34 Arg2:T41
+R21	Reason-Drug Arg1:T34 Arg2:T42
+R22	Reason-Drug Arg1:T34 Arg2:T43
+R23	Reason-Drug Arg1:T34 Arg2:T44
+T36	Drug 5528 5539	antibiotics
+T37	Route 5573 5575	PO
+R32	Route-Drug Arg1:T37 Arg2:T36
+T38	Drug 5597 5601	Vanc
+T39	Drug 5602 5605	ctx
+T40	Drug 5606 5613	azithro
+T41	Drug 5635 5639	vanc
+T42	Drug 5640 5649	meropenem
+T43	Drug 5650 5654	gent
+T44	Drug 5655 5662	azithro
+T45	Drug 5954 5965	antibiotics
+T46	Drug 5994 6003	meropenem
+T47	Drug 6005 6015	gentamicin
+T48	Drug 6017 6027	vancomycin
+T49	Drug 6198 6205	mucinex
+T50	Drug 6210 6217	codeine
+T54	Drug 6269 6279	antibiotic
+T55	Drug 6292 6296	vanc
+T56	Duration 6313 6328	for 5 more days
+R35	Duration-Drug Arg1:T56 Arg2:T55
+T57	Drug 6330 6340	gentamycin
+T58	Duration 6357 6374	for two more days
+R36	Duration-Drug Arg1:T58 Arg2:T57
+T59	Drug 6379 6392	ciprofloxacin
+T60	Duration 6409 6424	for 2 more days
+R37	Duration-Drug Arg1:T60 Arg2:T59
+T61	Drug 6451 6463	azithromycin
+T62	Drug 6475 6484	meropenem
+T63	Reason 6508 6520	Hyponatremia
+R38	Reason-Drug Arg1:T63 Arg2:T66
+T64	Reason 6561 6572	dehydration
+R39	Reason-Drug Arg1:T64 Arg2:T66
+T66	Drug 6608 6611	IVF
+T67	Reason 6639 6658	Renal Insufficiency
+R40	Reason-Drug Arg1:T67 Arg2:T69
+T69	Drug 6745 6748	IVR
+T70	Reason 6779 6790	Tachycardia
+R41	Reason-Drug Arg1:T70 Arg2:T72
+T72	Drug 6867 6870	IVF
+T73	ADE 6875 6883	Diarrhea
+R42	ADE-Drug Arg1:T73 Arg2:T74
+T74	Drug 6912 6915	ABx
+T75	Drug 7106 7119	ACE inhibitor
+T76	Drug 7124 7130	statin
+T77	Reason 7204 7208	GERD
+R43	Reason-Drug Arg1:T77 Arg2:T78
+T78	Drug 7225 7231	nexium
+T79	Route 7647 7651	PICC
+R44	Route-Drug Arg1:T79 Arg2:T80
+T80	Drug 7686 7697	antibiotics
+T81	Reason 780 783	CAP
+R45	Reason-Drug Arg1:T81 Arg2:T111
+R46	Reason-Drug Arg1:T81 Arg2:T141
+T82	Drug 7803 7815	levofloxacin
+T83	Strength 7816 7822	750 mg
+R47	Strength-Drug Arg1:T83 Arg2:T82
+T84	Form 7823 7829	Tablet
+R48	Form-Drug Arg1:T84 Arg2:T82
+T85	Dosage 7835 7842	One (1)
+R49	Dosage-Drug Arg1:T85 Arg2:T82
+T86	Form 7843 7849	Tablet
+R50	Form-Drug Arg1:T86 Arg2:T82
+T87	Route 7850 7852	PO
+R51	Route-Drug Arg1:T87 Arg2:T82
+T88	Frequency 7853 7857	Q24H
+R52	Frequency-Drug Arg1:T88 Arg2:T82
+T89	Duration 7876 7886	for 6 days
+R53	Duration-Drug Arg1:T89 Arg2:T82
+T90	Drug 7922 7929	aspirin
+T91	Strength 7930 7935	81 mg
+R54	Strength-Drug Arg1:T91 Arg2:T90
+T92	Form 7936 7952	Tablet, Chewable
+R55	Form-Drug Arg1:T92 Arg2:T90
+T93	Dosage 7958 7965	One (1)
+R56	Dosage-Drug Arg1:T93 Arg2:T90
+T94	Form 7966 7982	Tablet, Chewable
+R57	Form-Drug Arg1:T94 Arg2:T90
+T95	Route 7983 7985	PO
+R58	Route-Drug Arg1:T95 Arg2:T90
+T96	Frequency 7986 7991	DAILY
+R59	Frequency-Drug Arg1:T96 Arg2:T90
+T97	Drug 8004 8012	atenolol
+T98	Strength 8013 8018	25 mg
+R60	Strength-Drug Arg1:T98 Arg2:T97
+T99	Form 8019 8025	Tablet
+R61	Form-Drug Arg1:T99 Arg2:T97
+T100	Dosage 8031 8038	One (1)
+R62	Dosage-Drug Arg1:T100 Arg2:T97
+T101	Form 8039 8045	Tablet
+R63	Form-Drug Arg1:T101 Arg2:T97
+T102	Route 8046 8048	PO
+R64	Route-Drug Arg1:T102 Arg2:T97
+T103	Frequency 8049 8054	DAILY
+R65	Frequency-Drug Arg1:T103 Arg2:T97
+T104	Drug 8067 8077	lisinopril
+T105	Strength 8078 8082	5 mg
+R66	Strength-Drug Arg1:T105 Arg2:T104
+T106	Form 8083 8089	Tablet
+R67	Form-Drug Arg1:T106 Arg2:T104
+T107	Dosage 8095 8102	One (1)
+R68	Dosage-Drug Arg1:T107 Arg2:T104
+T108	Form 8103 8109	Tablet
+R69	Form-Drug Arg1:T108 Arg2:T104
+T109	Route 8110 8112	PO
+R70	Route-Drug Arg1:T109 Arg2:T104
+T110	Frequency 8113 8118	DAILY
+R71	Frequency-Drug Arg1:T110 Arg2:T104
+T111	Drug 813 825	levofloxacin
+T112	Drug 8133 8145	lansoprazole
+T113	Strength 8146 8151	30 mg
+R72	Strength-Drug Arg1:T113 Arg2:T112
+T114	Form 8152 8182	Capsule, Delayed Release(E.C.)
+R73	Form-Drug Arg1:T114 Arg2:T112
+T115	Dosage 8188 8191;8192 8195	One (1)
+R74	Dosage-Drug Arg1:T115 Arg2:T112
+T116	Form 8196 8226	Capsule, Delayed Release(E.C.)
+R75	Form-Drug Arg1:T116 Arg2:T112
+T117	Route 8227 8229	PO
+R76	Route-Drug Arg1:T117 Arg2:T112
+T118	Frequency 8230 8241	twice a day
+R77	Frequency-Drug Arg1:T118 Arg2:T112
+T119	Drug 8246 8257	simvastatin
+T120	Strength 8258 8263	40 mg
+R78	Strength-Drug Arg1:T120 Arg2:T119
+T122	Form 8264 8270	Tablet
+R80	Form-Drug Arg1:T122 Arg2:T119
+T123	Dosage 8276 8283	One (1)
+R81	Dosage-Drug Arg1:T123 Arg2:T119
+T124	Form 8284 8290	Tablet
+R82	Form-Drug Arg1:T124 Arg2:T119
+T125	Route 8291 8293	PO
+R83	Route-Drug Arg1:T125 Arg2:T119
+T126	Frequency 8294 8299	DAILY
+R84	Frequency-Drug Arg1:T126 Arg2:T119
+T127	Drug 8312 8340	dextromethorphan-guaifenesin
+T128	Strength 8341 8355	10-100 mg/5 mL
+R85	Strength-Drug Arg1:T128 Arg2:T127
+T129	Form 8356 8361	Syrup
+R86	Form-Drug Arg1:T129 Arg2:T127
+T130	Dosage 8367 8371;8372 8378	Five (5) ML
+R87	Dosage-Drug Arg1:T130 Arg2:T127
+T131	Route 8379 8381	PO
+R88	Route-Drug Arg1:T131 Arg2:T127
+T133	Frequency 8382 8411	Q6H (every 6 hours) as needed
+R90	Frequency-Drug Arg1:T133 Arg2:T127
+T134	Reason 8416 8421	cough
+R91	Reason-Drug Arg1:T134 Arg2:T127
+T135	Drug 8478 8485	aspirin
+T136	Strength 8486 8491	81 mg
+R92	Strength-Drug Arg1:T136 Arg2:T135
+T137	Form 8492 8508	Tablet, Chewable
+R93	Form-Drug Arg1:T137 Arg2:T135
+T138	Route 850 852	PO
+R94	Route-Drug Arg1:T138 Arg2:T141
+T139	Dosage 8514 8521	One (1)
+R95	Dosage-Drug Arg1:T139 Arg2:T135
+T140	Form 8522 8538	Tablet, Chewable
+R96	Form-Drug Arg1:T140 Arg2:T135
+T141	Drug 853 865	levofloxacin
+T142	Route 8539 8541	PO
+R97	Route-Drug Arg1:T142 Arg2:T135
+T143	Frequency 8542 8547	DAILY
+R98	Frequency-Drug Arg1:T143 Arg2:T135
+T144	Drug 8560 8566	Nexium
+T145	Strength 8567 8572	40 mg
+R99	Strength-Drug Arg1:T145 Arg2:T144
+T147	Form 8573 8603	Capsule, Delayed Release(E.C.)
+R101	Form-Drug Arg1:T147 Arg2:T144
+T148	Dosage 8609 8616	One (1)
+R102	Dosage-Drug Arg1:T148 Arg2:T144
+T150	Form 8617 8647	Capsule, Delayed Release(E.C.)
+R104	Form-Drug Arg1:T150 Arg2:T144
+T151	Route 8648 8650	PO
+R105	Route-Drug Arg1:T151 Arg2:T144
+T152	Frequency 8651 8661	once a day
+R106	Frequency-Drug Arg1:T152 Arg2:T144
+T153	Drug 8666 8676	lisinopril
+T154	Strength 8677 8681	5 mg
+R107	Strength-Drug Arg1:T154 Arg2:T153
+T155	Form 8682 8688	Tablet
+R108	Form-Drug Arg1:T155 Arg2:T153
+T156	Dosage 8694 8701	One (1)
+R109	Dosage-Drug Arg1:T156 Arg2:T153
+T157	Form 8702 8708	Tablet
+R110	Form-Drug Arg1:T157 Arg2:T153
+T158	Route 8709 8711	PO
+R111	Route-Drug Arg1:T158 Arg2:T153
+T159	Frequency 8712 8722	once a day
+R112	Frequency-Drug Arg1:T159 Arg2:T153
+T160	Drug 8727 8738	simvastatin
+T161	Strength 8739 8744	40 mg
+R113	Strength-Drug Arg1:T161 Arg2:T160
+T162	Form 8745 8751	Tablet
+R114	Form-Drug Arg1:T162 Arg2:T160
+T163	Dosage 8757 8764	One (1)
+R115	Dosage-Drug Arg1:T163 Arg2:T160
+T164	Form 8765 8771	Tablet
+R116	Form-Drug Arg1:T164 Arg2:T160
+T165	Route 8772 8774	PO
+R117	Route-Drug Arg1:T165 Arg2:T160
+T166	Frequency 8775 8785	once a day
+R118	Frequency-Drug Arg1:T166 Arg2:T160
+T167	Drug 8790 8801	benzonatate
+T168	Strength 8802 8808	100 mg
+R119	Strength-Drug Arg1:T168 Arg2:T167
+T169	Form 8809 8816	Capsule
+R120	Form-Drug Arg1:T169 Arg2:T167
+T170	Dosage 8822 8829	One (1)
+R121	Dosage-Drug Arg1:T170 Arg2:T167
+T171	Form 8830 8837	Capsule
+R122	Form-Drug Arg1:T171 Arg2:T167
+T172	Route 8838 8840	PO
+R123	Route-Drug Arg1:T172 Arg2:T167
+T173	Frequency 8841 8844	TID
+R124	Frequency-Drug Arg1:T173 Arg2:T167
+T174	Drug 8898 8917	codeine-guaifenesin
+T175	Strength 8918 8932	10-100 mg/5 mL
+R125	Strength-Drug Arg1:T175 Arg2:T174
+T176	Form 8933 8938	Syrup
+R126	Form-Drug Arg1:T176 Arg2:T174
+T178	Dosage 8944 8952	5-10 MLs
+R128	Dosage-Drug Arg1:T178 Arg2:T174
+T180	Route 8953 8955	PO
+R130	Route-Drug Arg1:T180 Arg2:T174
+T182	Frequency 8959 8976	bedtime as needed
+R132	Frequency-Drug Arg1:T182 Arg2:T174
+T183	Reason 8981 8986	cough
+R133	Reason-Drug Arg1:T183 Arg2:T174
+T184	ADE 9050 9056	sleepy
+R134	ADE-Drug Arg1:T184 Arg2:T174
+T185	Drug 9090 9107	vancomycin in D5W
+T186	Strength 9108 9121	1 gram/200 mL
+R135	Strength-Drug Arg1:T186 Arg2:T185
+T187	Form 9122 9131	Piggyback
+R136	Form-Drug Arg1:T187 Arg2:T185
+T189	Dosage 9137 9149	One (1) gram
+R138	Dosage-Drug Arg1:T189 Arg2:T185
+T191	Route 9150 9161	Intravenous
+R140	Route-Drug Arg1:T191 Arg2:T185
+T193	Frequency 9162 9167	Q 12H
+R142	Frequency-Drug Arg1:T193 Arg2:T185
+T194	Duration 9185 9195	for 5 days
+R143	Duration-Drug Arg1:T194 Arg2:T185
+T195	Drug 9227 9237	gentamicin
+T196	Strength 9238 9246	40 mg/mL
+R144	Strength-Drug Arg1:T196 Arg2:T195
+T197	Form 9247 9255	Solution
+R145	Form-Drug Arg1:T197 Arg2:T195
+T201	Route 9283 9292	Injection
+R149	Route-Drug Arg1:T201 Arg2:T195
+T202	Frequency 9293 9297	Q24H
+R150	Frequency-Drug Arg1:T202 Arg2:T195
+T203	Duration 9315 9325	for 2 days
+R151	Duration-Drug Arg1:T203 Arg2:T195
+T204	Drug 9357 9370	ciprofloxacin
+T205	Strength 9371 9377	750 mg
+R152	Strength-Drug Arg1:T205 Arg2:T204
+T206	Form 9378 9384	Tablet
+R153	Form-Drug Arg1:T206 Arg2:T204
+T207	Dosage 9390 9397	One (1)
+R154	Dosage-Drug Arg1:T207 Arg2:T204
+T208	Form 9398 9404	Tablet
+R155	Form-Drug Arg1:T208 Arg2:T204
+T209	Route 9405 9407	PO
+R156	Route-Drug Arg1:T209 Arg2:T204
+T210	Frequency 9408 9412	Q12H
+R157	Frequency-Drug Arg1:T210 Arg2:T204
+T211	Duration 9430 9440	for 2 days
+R158	Duration-Drug Arg1:T211 Arg2:T204
+T212	Drug 951 958	tylenol
+T214	Drug 9533 9544	antibiotics
+T215	Duration 9561 9567	5 days
+R160	Duration-Drug Arg1:T215 Arg2:T214
+T216	Reason 9974 9983	pneumonia
+R161	Reason-Drug Arg1:T216 Arg2:T4
+R162	Reason-Drug Arg1:T216 Arg2:T2
+T217	Reason 9988 9999	dehydration
+R163	Reason-Drug Arg1:T217 Arg2:T2
+T132	Strength 9261 9282	Five Hundred (500) mg
+R33	Strength-Drug Arg1:T132 Arg2:T195	
+T12	Reason 1478 1510;1511 1514	RLL PNA consistent with evolving PNA
+R34	Reason-Drug Arg1:T12 Arg2:T21	
+R89	Reason-Drug Arg1:T12 Arg2:T22	
+R100	Reason-Drug Arg1:T12 Arg2:T23	
+T1	Route 826 828	IV
+R1	Route-Drug Arg1:T1 Arg2:T111	
+T3	Route 9530 9532	IV
+R2	Route-Drug Arg1:T3 Arg2:T214	
+T20	Route 10016 10018	IV
+R24	Route-Drug Arg1:T20 Arg2:T2	
+T35	Route 10030 10032	IV
+R25	Route-Drug Arg1:T35 Arg2:T4	
+T51	Route 5525 5527	IV
+R26	Route-Drug Arg1:T51 Arg2:T36	

@@ -1,0 +1,505 @@
+Admission Date:  [**2195-10-28**]              Discharge Date:   [**2195-11-14**]
+
+Date of Birth:  [**2141-6-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (un) 2888**]
+Chief Complaint:
+Elevated creatinine
+
+Major Surgical or Invasive Procedure:
+[**2195-11-2**]: Right heart catheterization
+Dual chamber ICD placement
+
+
+History of Present Illness:
+Mr. [**Known lastname 49249**] is a 54 year old gentleman with HTN, DM2, CKD
+(baseline Cr 2.0-2.2), CAD s/p CABG [**2186**], as well as systolic
+and diastolic heart failure (EF had been as low as 20% but last
+known to be 40%), who was recently admitted to the [**Hospital1 18**]
+Cardiology service from clinic on [**2195-10-16**] for worsening dyspnea
+over 2 weeks. CHF exacerbation was in the setting of new
+inferior HK and he was diuresed with hopes of pursuing RHC/LHC.
+Hospital course was complicated by [**Last Name (un) **] (Cr>3.0), PIV-associated
+MSSA bacteremia (did not want [**Last Name (LF) **], [**First Name3 (LF) **] dc'ed on IV nafcillin x4
+weeks). RHC was done and showed elevated filling pressures, so
+he was transferred to the CCU for Milrinone to assist with Lasix
+gtt. Due to infection, he was only on milrinone for a few hours.
+He was transferred back to the floor and was diuresed well prior
+to discharge. He followed up in clinic on [**2195-10-27**] and was found
+to have creatinine elevated to 5.4 despite holding torsemide on
+[**10-22**] (took it [**10-27**]). He was admitted to [**Hospital1 1516**] for
+management of his [**Last Name (un) **].
+On interview this afternoon, he denies SOB at rest. He hasn't
+been walking much, but doesn't feel "crushing fatigue" now like
+he did before. He has been sitting to sleep, which he does think
+is worse than when he was admitted. His itchiness continues, but
+isn't worse than when in the hospital. He does endorse nausea,
+diarrhea (8 loose stools a day) which he reports started with
+the nafcillin. Denies fever, chills, abd pain. He reports "I
+don't do well with IVs. They always increase my creatinine
+regardless of what it is." He has been following the same diet
+and eating light. He reports poor intake of fluid as he's trying
+to avoid drinking a lot, "much less than 1L a day." His right
+eye seems like it has a swollen eyelid today, but he hasn't
+noticed. His wife reports that it always looks like this. No
+headache.
+Reports we weighed 219 today (recorded as 219.2), 215 yesterday,
+211 on discharge.
+On review of systems, he denies any prior history of stroke,
+TIA, pulmonary embolism, bleeding at the time of surgery,
+myalgias, joint pains, cough, hemoptysis, black stools or red
+stools. He denies recent fevers, chills or rigors. He denies
+exertional buttock or calf pain. All of the other review of
+systems were negative.
+
+Cardiac review of systems is notable for absence of chest pain,
+palpitations, syncope or presyncope. +Orthopnea, +PND
+
+Past Medical History:
+Hypertension
+Dyslipidemia
+Diabetes mellitus
+-retinopathy s/p laser surgery
+-peripheral neuropathy with ulcers
+Chronic kidney disease (baseline Cr 2.0-2.2)
+Coronary artery disease
+-s/p CABG in [**2186**] (LIMA-LAD, SVG-PDA, and radial-OM1-OM2)
+Congestive heart failure
+-[**4-/2195**]: B&WH admission with EF of 20% in CHF, improved to 40%
+on discharge
+Deep vein thrombosis x1 (s/p Warfarin in the past)
+s/p Right knee arthroscopy
+Iron deficiency anemia
+Gout
+
+Social History:
+-Home: Lives in [**Location **] with his wife. Married 20 years.
+-Occupation: Works as a financial planner, lawyer, runs a
+property company.
+-Tobacco: used to smoke one cigar daily since high school until
+stopping after CABG. No cigaretters.
+-EtOH: None
+-Illicits: None
+
+Family History:
+Mom had CABG in 60s.
+3 brothers all without heart disease or diabetes.
+Father with ?lymph cancer.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:
+VS: 97.6 - 144/77 - 74 - 20 - 95RA - BS304
+weight: 219.2 (on discharge [**2195-10-25**], 96kg (211 lbs)
+GENERAL: Alert, oriented x3. Sitting in bed with wife at
+bedside. No respiratory direstress.
+HEENT: MMM, R eye seems ptotic
+NECK: Supple with JVP 8-9 cm
+CARDIAC: PMI closer to midline w/ RV lift. RR, S1, S2 w/
+paradoxical splitting, S3. No murmur or rub.
+LUNGS: Mild crackled bilateral bases, no wheeze
+ABDOMEN: Softly distended. Abd aorta not enlarged by palpation.
+
+No abdominal bruits. BS present. +hepatojugular reflex
+EXTREMITIES/SKIN: severe stasis dermatitis with anterior
+weeping ulcers on lower extremities. also continues to have scab
+on
+lateral R thigh. Not grossly edematous (trace)
+NEURO: CN 2-12 intact, bilateral ue's and le's [**6-13**], finger
+extensors [**6-13**], no sensation to light touch from mid calf
+downwards (stable from last exam), no decreased sensation to
+touch in UEs.
+.
+DISCHARGE
+Afebrile, normotensive (SBP 130s-140s), non-tachycardic,
+non-tachypneic, saturating well on RA
+Exam same as above except:
+Chest: L upper chest- well-appearing, no mass palpated,
+appropriately tender
+Pulm: mild bibasilar crackles
+Ext: LE edema much improved, ulcers healing well
+
+Pertinent Results:
+ADMISSION LABS
+[**2195-10-28**] 05:35PM BLOOD WBC-6.8 RBC-3.80* Hgb-9.1* Hct-29.4*
+MCV-77* MCH-23.9* MCHC-30.9* RDW-18.8* Plt Ct-296
+[**2195-10-27**] 02:54PM BLOOD UreaN-105* Creat-5.4*# Na-128* K-4.7
+Cl-85* HCO3-27 AnGap-21
+[**2195-10-28**] 05:35PM BLOOD Glucose-261* UreaN-91* Creat-4.9* Na-132*
+K-3.7 Cl-88* HCO3-29 AnGap-19
+[**2195-10-28**] 05:35PM BLOOD Calcium-8.8 Phos-7.0*# Mg-3.0*
+.
+Imaging:
+[**11-11**] Echo
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is severely depressed (LVEF= 30 %). Right
+ventricular chamber size is normal. with borderline normal free
+wall function. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. Mild (1+) mitral regurgitation is seen. There is no
+pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2195-11-9**],
+left ventricular cavity size is smaller and overall ejection
+fraction has increased.
+
+[**2195-11-9**] Echo
+The left atrium is normal in size. Left ventricular wall
+thicknesses are normal. The left ventricular cavity is
+moderately dilated. There is severe global left ventricular
+hypokinesis (LVEF = 20 %). No masses or thrombi are seen in the
+left ventricle. There is no ventricular septal defect. The right
+ventricular cavity is mildly dilated with depressed free wall
+contractility. The diameters of aorta at the sinus, ascending
+and arch levels are normal. The aortic valve leaflets (3) are
+mildly thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Mild (1+) mitral
+regurgitation is seen. The left ventricular inflow pattern
+suggests a restrictive filling abnormality, with elevated left
+atrial pressure. The estimated pulmonary artery systolic
+pressure is normal. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2195-10-29**],
+biventricular systolic function has decreased.
+
+[**2195-11-2**] Cath
+COMMENTS:
+1. Right heart catheterization revealed severely elevated right
+and left
+sided filling pressures.  The mean RA pressure was severely
+elevated at
+18 mmHg, and the RVEDP was severely elevated at 22 mmHg.  There
+was
+severe pulmonary arterial hypertension with a PA pressure of
+80/33 mmHg
+and a mean PA pressure of 49 mmHg.  The mean wedge pressure was
+severely
+elevated at 32 mmHg.  The cardiac output and index were reduced
+at 4.3
+L/min and 2.0 L/min/m2.  The pulmonary vascular resistance was
+moderately elevated at 316 dyne-sec/cm5.
+2. Ultrasound of the right internal juggular vein suggested
+thrombus
+which is possibly related to the patient's right sided PICC
+line,
+however subsequent imaging indicated no thrombus but RIJ very
+medially
+displaced.
+
+
+FINAL DIAGNOSIS:
+1. Severely elevated right and left sided filling pressures.
+2. Severe pulmonary arterial hypertension.
+3. Reduced cardiac output/index.
+4. Moderately elevated PVR.
+5. Possible thrombus in the right internal jugular vein which
+was not
+confirmed by subsequent studies which showed RIJ very medially
+displaced.
+
+[**2195-11-13**] CXR
+Transvenous right atrial pacer and right ventricular pacer
+defibrillator leads
+are in standard positions.  Yesterday's mild pulmonary edema has
+resolved.
+There is no pneumothorax, pleural effusion or mediastinal
+widening.  Heart is
+top normal size, unchanged over the long term.  Also unchanged
+since at least
+[**10-19**] are fractures of the two uppermost sternal wires,
+which
+developed sometime after [**2186-4-26**] when non-fusion of the
+manubrium was
+already evident radiographically.
+
+[**11-12**] CXR
+FINDINGS:  In comparison with study of [**11-5**], there has been
+placement of an
+ICD device with the leads in the region of the right atrium and
+apex of the
+right ventricle.  Specifically, there is no evidence of
+pneumothorax.  Little
+change in the appearance of the heart and lungs.
+
+
+
+Persistent separation of the upper sternal fragments therefore
+does not
+suggest infection, but it is an explanation for fracture of the
+wires
+
+[**10-28**] CXR
+REASON FOR EXAMINATION:  Evaluation of the patient with systolic
+and diastolic
+heart failure.
+
+PA and lateral upright chest radiographs were reviewed in
+comparison to
+[**2195-10-23**].
+
+Heart size is enlarged in a globular manner, unchanged.
+Mediastinum is
+stable.  Multiple broken sternal wires are redemonstrated.
+
+As compared to the prior study, there is interval improvement in
+interstitial
+pulmonary edema, currently mild.  There is also improvement in
+more focal
+right upper lobe opacity.  Prominence of pulmonary arteries is
+demonstrated,
+most likely consistent with pulmonary hypertension.  No
+appreciable pleural
+effusion is seen.
+
+[**2195-10-28**] RENAL U/S
+IMPRESSION:  No hydronephrosis seen in either kidney.  Small
+right renal
+nonobstructing stone.
+.
+
+Discharge
+[**2195-11-13**] 04:00AM BLOOD WBC-7.1 RBC-3.28* Hgb-8.4* Hct-28.1*
+MCV-86 MCH-25.7* MCHC-30.0* RDW-23.2* Plt Ct-234
+[**2195-11-13**] 04:00AM BLOOD PT-15.2* PTT-37.4* INR(PT)-1.4*
+[**2195-11-14**] 05:00AM BLOOD Glucose-220* UreaN-74* Creat-3.3* Na-133
+K-3.5 Cl-91* HCO3-31 AnGap-15
+[**2195-11-14**] 05:00AM BLOOD Calcium-9.3 Phos-3.8 Mg-2.1
+
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE
+Mr. [**Known lastname 49249**] is a 54y/o gentleman with HTN, HLD, DM2, CKD
+(baseline Cr 2.0-2.2), CAD s/p CABG [**2186**] (LIMA-LAD, SVG-PDA, and
+radial-OM1-OM2) with systolic and diastolic heart failure, who
+was re-admitted from clinic for management of [**Last Name (un) **].
+
+#. Acute on chronic renal failure: Baseline Cr 2.1, presented
+last admission at 2.5, and presented at this admission with
+creatinine 5.4 in clinic. His renal function fluctuated, and he
+was initially managed with 40mg [**Hospital1 **] torsemide. However, he did
+not respond well and had worsening renal function. Accordingly,
+he underwent R heart cath, which showed severely elevated right
+and left sided filling pressures, severe pulmonary hypertension
+and depressed CO/CI. He was admitted to the CCU for milrinone
+drip and more aggressive diuresis.
+On admission, urine studies suggested pre-renal cause of [**Last Name (un) **]
+(FEurea 44% is indeterminate, FENa 0.86%).  Torsemide had been
+held between hospital admissions. Nephrology was consulted and
+recommended cefazolin to substitute for Nafcillin (though due to
+the short time period, they did not believe [**Last Name (un) **] was consistent
+with nafcillin-associated acute interstitial nephritis and urine
+eosinophils were positive. Sarna lotion and hydroxyzine were
+given for symptomatic relief of uremia-related pruritus. Pt's Cr
+trended down to mid 3s, plateaued and then steadily rised. After
+pt was switched from milrinone drip to dobutamine drip as well
+as optimized afterload reduction with hydralazine and Isordil,
+Cr consistently trended down. Upon discharge, Cr was 3.3.
+.
+#. Acute on chronic CHF: Due to continued weight gain and poor
+response, he underwent a R heart cath [see above]. Pt's beta
+blocker was restarted at a low dose and then later on
+discontinued as pt was in decompensated HF and later on put on
+dobutamine drip. Afterload reduction was successful while up
+titrating hydralazine and Isordil. Upon discharge, pt's BP was
+ranging 130-140. Heart failure team believed CHF is both related
+to significant dyssynchrony and contractility issues, both most
+likely related to ischemia. Pt was diuresed aggressively
+throughout course initially with Lasix drip and then
+transitioned to IV Lasix boluses with goal of [**3-12**].5L negative in
+24h using 120mg boluses. Pt was transitioned to 100mg Torsemide
+at discharge. Dyssynchrony component of HF was addressed with
+attempting to place CRT-D. Unfortunately, coronary sinus could
+not be accessed successfully and thus LV lead was not placed.
+Contractility was addressed with dobutamine drip which pt was
+discharged with. After starting dobutamine infusion, EF improved
+from 20 to 30% on TTE. Pt will need to followup with EP in order
+to access LV for appropriate resynchronization and will probably
+have a cardiac catheterization to assess coronaries.
+.
+#. Peripheral IV-associated MSSA bacteremia:
+- Changed nafcillin to cefazolin per ID recs; he underwent a [**Date Range **]
+this admission, which did not show any valvular vegetations. As
+a result, he underwent a shortened course of IV antibiotics (2
+weeks), which ended on [**2195-11-2**]. Pt remained afebrile and stable
+thereafter.
+.
+#. Loose stools
+- Recent hospital stay could raise concern for C. diff (pt
+nauseous, but no f/c). Per patient, he feels that loose stools
+began w/ nafcillin. Either way, may contribute to pre-renal
+cause of [**Last Name (un) **] (along with recent poor intake). Loose stools
+resolved after stopping nafcillin. In addition, he was c. diff
+negative.
+.
+.
+#. CAD s/p CABG
+Last cath in [**2191**] noted severe native 3VD with patent LIMA-LAD,
+
+SVG-PDA, and Radial-OM1-OM2. TTE on prior showed new inferior
+HK. He was continued on ASA, Pravastatin, and beta blocker
+(Metoprolol changed to Carvedilol). In the future he needs L
+heart catheterization in order to assess grafts/native vessels.
+Pt was continued on ASA and statin. Carvedilol was ultimately
+held given decompensated heart failure and pt put on dobutamine
+infusion.
+.
+#. Neuropathic & venous stasis ulcers: Pt was seen by wound care
+specialist during hospitalization. Ulcers appeared to heal more
+optimally when LE edema decreased with aggressive diuresis. Pt
+is to followup with PCP to continue DM management and may need
+referral to vascular surgery if ulcers persist or worsen.
+.
+#. Diabetes mellitus: Stable on ISS, and discharged with Lantus
+44u at bedtime with ISS.
+.
+# Iron deficiency anemia: Hct stable during last admission
+30-33. Iron studies showed low level of iron and pt was given 5
+days of ferric gluconate IV 125mg to replete iron deficit. Pt's
+anemia was stable thereafter and discharged with hct of 28.1.
+
+#Elevated INR: Pt's INR was elevated over 2 during hospital
+course without anticoagulation. This was attributed to Vitamin K
+deficiency secondary to antibiotic use, malnutrition and
+malabsorption from congested bowels related to decompensated
+CHF. DIC labs were not remarkable. Pt's elevated INR was
+refractory to PO Vit K which supported hypothesis of congestion
+in GI tract causing malabsorption issues. As pt's nutrition
+improved and preload reduction, INR trended down to 1.4 at time
+of discharge. Pt was followed by nutrition during stay and would
+benefit from outpt nutrition management.
+.
+>> TRANSITIONAL ISSUES
+- follow up with EP regarding CRT lead placement into LV
+- could benefit from ACEI once kidney function improves
+- readdress restarting carvedilol when HF better controlled off
+of dobutamine
+- f/u with PCP regarding lower extremity wounds, medication
+reconciliation and diabetes management
+- would benefit from outpt nutritional support (fluid
+restriction, diabetes)
+- would benefit from cardiac cath once kidney function stable
+and adequate to assess coronaries/ischemic disease related to
+heart failure
+- f/u with cardiology
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from webOMR.
+1. Nafcillin 2 g IV Q4H
+Four week course [**Date range (1) 49250**]
+2. Aspirin 81 mg PO DAILY
+3. Glargine 44 Units Bedtime
+aspart 22 Units Breakfast
+aspart 22 Units Lunch
+aspart 22 Units Dinner
+4. Pravastatin 80 mg PO DAILY
+5. Carvedilol 12.5 mg PO BID
+6. HydrALAzine 50 mg PO Q8H
+7. Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY
+8. Torsemide 60 mg PO BID
+held Torsemide on last discharge, from [**10-25**] onwards
+
+
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY
+2. Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY
+3. Pravastatin 80 mg PO DAILY
+4. HydrALAzine 75 mg PO Q8H
+please hold for SBP <100
+RX *hydralazine 50 mg 1.5 tablet(s) by mouth three times per day
+Disp #*45 Tablet Refills:*0
+5. Outpatient Lab Work
+For VNA to draw: On Tuesday [**2195-11-17**], please draw Na, K, BUN/Cre,
+Bicarb, Cl, glucose, Mg. Please fax results to: Dr. [**Last Name (STitle) **] at
+[**Telephone/Fax (1) 9825**]. Diagnosis: chronic systolic heart failure.
+
+6. DOBUTamine 5 mcg/kg/min IV DRIP INFUSION
+Please double concentrate if possible
+RX *dobutamine 500 mg/40 mL (12.5 mg/mL) IV DOBUTamine 5
+mcg/kg/min continous infusion Disp #*30 Bag Refills:*0
+7. Torsemide 100 mg PO DAILY
+Hold for SBP <90
+RX *torsemide 100 mg 1 tablet(s) by mouth daily Disp #*30 Tablet
+Refills:*0
+8. HydrOXYzine 25 mg PO Q6H pruritus
+pt may refuse
+RX *hydroxyzine HCl 25 mg 1 tablet by mouth Every 6 hours Disp
+#*120 Tablet Refills:*0
+9. Potassium Chloride 40 mEq PO DAILY
+RX *potassium chloride 20 mEq 2 tablets by mouth Daily Disp #*60
+Tablet Refills:*0
+10. Glargine 44 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+11. Heparin Flush (10 units/ml) 2 mL IV PRN Flush daily and as
+needed
+RX *heparin lock flush (porcine) [heparin lock flush] 10 unit/mL
+2mL to PICC line Flush daily and as needed Disp #*100 Milliliter
+Refills:*0
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Last Name (un) 6438**]
+
+Discharge Diagnosis:
+PRIMARY
+Acute on chronic kidney injury
+Acute on chronic systolic  heart failure
+
+SECONDARY
+MSSA bacteremia
+Type 2 diabetes
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. [**Known lastname 49249**],
+
+You were first readmitted to [**Hospital1 1170**] for worsened kidney function as well as worsening
+symptoms of heart failure.
+
+You were then tranferred to the CCU because you required
+medications to help your heart pump. You were first started on
+milrinone with minimal improvement and were then started on
+dobutamine.  You will go home on a continuous infusion of
+dobutamine. It is very important for you to follow up closely
+with your doctors and to take your medications as prescribed.
+
+While you were here we tried to place a CRT device, however
+there was difficulty placing one of the leads. You now have an
+ICD. You will need a different procedure in the future to place
+an additional lead on your heart for cardiac resynchronization.
+You will also need a cardiac catheterization as an outpatient.
+
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more
+than 3 lbs.
+
+It was a pleasure caring for you,
+Your [**Hospital1 18**] doctors
+
+Followup Instructions:
+Department: CARDIAC SERVICES
+When: WEDNESDAY [**2195-11-18**] at 10:40 AM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D. [**Telephone/Fax (1) 62**]
+Building: [**Hospital6 29**] [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Please call and schedule the following appointments:
+1) With Dr. [**Last Name (STitle) **] in the next week: [**Telephone/Fax (1) 62**]
+2) With your primary care doctor in the next week: JAKHRO,[**Telephone/Fax (1) **]
+A at [**Telephone/Fax (1) 49260**]
+
+
+

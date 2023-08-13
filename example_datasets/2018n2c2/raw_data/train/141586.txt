@@ -1,0 +1,335 @@
+Admission Date:  [**2121-5-7**]              Discharge Date:   [**2121-5-13**]
+
+
+Service: MEDICINE
+
+Allergies:
+Ace Inhibitors / Sulfa (Sulfonamide Antibiotics) / Fish Product
+Derivatives
+
+Attending:[**First Name3 (LF) 1928**]
+Chief Complaint:
+Fall with hematoma to right side of head
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+87 year-old woman with chronic atrial fibrillation on Coumadin,
+hypertension, hyperlipidemia, and recent left caudate lobe
+infarct who presents after unwitnessed fall and an INR of 20.
+Pt sustained two falls today while at home with PT/OT/VNA.
+First fall was witnessed with no head trauma or LOC.  Second
+fall was unwitnessed and caused hematoma to right side of head.
+Pt does not recall falling or events immediately preceding fall
+(she was using her cane). She denies dizziness, lightheadedness
+or aura prior to event. No chest pain, palpitations. She was
+able to put the hand to prevent hitting her head. She did not
+feel very fatigued afterward, there were no abnormal movements.
+She has rugs at home, but does not remember tripping.  After
+falling, pt's next memory is of daughter taking her to her
+primary care doctor, where she was found ot have an elevated INR
+and administered 10 mg of PO Vitamin K. Pt denies any changes to
+her medications including new antibiotics, changes in Coumadin
+dosage, diet, or supplements. She denies any current alcohol or
+social event.  She denies any fever, chills, diarrhea, nausea,
+vomit or other signs of infection. She takes her medications by
+herself and knows her Coumadin dose (2.5), but is unable to
+mention other medications. She lives in an [**Hospital3 **],
+where they do not supervise her in terms of her medications, but
+has a VNA. Pt was then transferred to [**Hospital1 18**] ER for further care.
+
+In the ER her initial VS: BP 131/53, HR 83, RR 18, 97.7. On
+physical exam she was A&OX3, had a hematoma in the right occiput
+and lower lip laceration of 0.5 cm. She had C-collar and had
+gross blood in the rectal vault. She had labs that were
+significant for INR of 20.2 with PTT of 71.4, HCT of 37.7 at her
+baseline. She underwent CT scan of the head and c-spine without
+any abnormality and CT scan of abdomen and pelvis without acute
+pathology. Patient was T&C and received 2 units of FFP. Her VS
+were stable throughout the ER course. She was admitted to the
+ICU for hemodynamic monitoring. GI was not called from the ER.
+
+Pt was recently hospitalized at [**Hospital1 18**] on [**2121-3-28**] for right
+facial and upper lip angioedema, as well as a recent fall.  Pt's
+daughter reports she was confused and altered from her baseline
+mental status on day prior to admission.  Angiogedema improved
+significantly with IV solumedrol and H1,H2 blockers.  A brain
+MRI was obtained due to h/o altered mental status in setting of
+fall, and was notable for an acute left caudate head infarct.
+MRA of the neck demonstrated a 50% stenosis of the left proximal
+internal carotid artery and 50% stenosis in both vertebral
+arteries in the V2 segment. The TTE on [**2121-3-31**] was negative for
+mural thrombus or cardiac source, but etiology of stroke felt
+most likely cardioembolic in setting of subtherapeutic INR.  Pt
+was discharged in stable condition to rehab.  On [**2121-4-12**], pt
+returned to [**Hospital1 18**] ED with transient dizziness, R arm and face
+weakness.  Head CT was negative for bleed, and neuro felt most
+her presentation was most likely due to recrudescence of prior
+caudate infarct in setting of mild dehydration.
+
+Past Medical History:
+- Left Caudate Head infarct
+- Angioedema: pruritis and periorbital and lip/tongue edema,
+previously intubated in MICU ([**12-16**]), etiology thought to be due
+to lisinospril, which was subsequenlty discontinued. Recurrence
+in [**3-19**] requiring MICU admission, managed with IV steroids and
+H1/H2 blockers, no intubation required.
+- Atrial fibrillation on Coumadin
+- Hypertension
+- Hyperlipidemia
+- Osteoporosis
+- Osteoarthritis
+- S/p right hip replacement
+- Eczema
+- Hayfever as a child
+
+Social History:
+She lives by herself in an [**Hospital3 **] in [**Street Address(2) **] in
+[**Location (un) **] MA. She cooks for herself often, has a VNA and home
+PT. Denies any current or past history of smoking or illegal
+substances. Drinks 1 cup of wine occasionally. Uses a walker.
+
+Family History:
+- Cousin with peanut allergy developed in his 80s.
+- No family history of asthma or eczema
+
+Physical Exam:
+VS: T 98.5, BP 146/61, HR 96, RR 16, O2-sat 91% RA
+GENERAL: Elderly-appearing woman in NAD, comfortable,
+appropriate
+HEENT: Hematoma over R occiput (8 cm aprox in diameter), PERRL,
+EOMI, sclerae anicteric, MMM, Dry blood over lower lip, good
+range of motion of both eyes.
+NECK: Supple, no thyromegaly, no JVD, no carotid bruits
+LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored,
+no accessory muscle use
+HEART: PMI non-displaced, irregular rate, no MRG, nl S1-S2
+ABDOMEN: NABS, soft/NT/ND, no masses or HSM, no
+rebound/guarding.
+EXTREMITIES: No edema, 2+ peripheral pulses (radials, DPs)
+SKIN: Ecchymosis extending from L forearm to L hand, nontender.
+Hyperpigmented lesion about 4mm on left nares.
+LYMPH: No cervical, axillary, or inguinal LAD
+NEURO: Awake, A&Ox3, CNs II-XII grossly intact, muscle strength
+[**6-11**] throughout, sensation grossly intact throughout, DTRs 2+ and
+symmetric, cerebellar exam intact, steady gait
+
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+[**2121-5-7**] 04:33PM BLOOD WBC-11.4*# RBC-4.39 Hgb-12.3 Hct-37.7
+MCV-86 MCH-28.1 MCHC-32.7 RDW-12.9 Plt Ct-293
+[**2121-5-7**] 04:33PM BLOOD PT-150* PTT-71.4* INR(PT)->20.2*
+[**2121-5-8**] 12:07AM BLOOD PT-27.6* PTT-35.2* INR(PT)-2.7*
+[**2121-5-7**] 04:33PM BLOOD Glucose-164* UreaN-45* Creat-1.4* Na-142
+K-3.9 Cl-103 HCO3-25 AnGap-18
+[**2121-5-8**] 12:07AM BLOOD Calcium-9.5 Phos-2.4* Mg-1.6
+[**2121-5-8**] 03:41AM BLOOD Albumin-3.7 Calcium-8.5 Phos-2.8 Mg-1.6
+[**2121-5-8**] 10:37AM BLOOD PT-18.7* INR(PT)-1.7*
+
+[**2121-5-7**]   Radiology CT HEAD W/O CONTRAST
+IMPRESSION: No acute intracranial process. Unchanged
+encephalomalacia and
+lacunar infarcts. Chronic microvascular ischemic disease.
+Ethmoidal
+opacification.
+
+[**2121-5-7**]   Radiology CT C-SPINE W/O CONTRAST
+IMPRESSION: No acute cervical fracture or malalignment.
+Multilevel degenerative changes. Small bilateral thyroid nodules
+which could be further evaluated on ultrasound if not previously
+and as clinically arranted.
+
+[**2121-5-7**]   Radiology CT TORSO With Contrast:
+IMPRESSION:
+1. Moderate compression of the L3 superior endplate, of
+uncertain chronicity.
+Recommend clinical correlation with site tenderness.
+2. No evidence of acute visceral injury in the chest, abdomen,
+or pelvis.
+3. 2-cm anterior left breast subcutaneous lesion, again seen.
+Correlation
+with mammogram continues to be recommended if not obtained since
+prior study.
+5. Diverticulosis without diverticulitis.
+6. Multinodular thyroid again seen. Continued follow-up per
+thyroid
+ultrasound ([**2121-3-31**]) recommendation.
+
+[**2121-5-7**]   Radiology HAND (AP, LAT & OBLIQUE
+IMPRESSION: Degenerative changes, as above. No definite acute
+fracture or
+dislocation.
+
+Discharge labs:
+
+[**2121-5-13**] 07:12AM BLOOD WBC-10.8 RBC-3.88* Hgb-11.5* Hct-34.2*
+MCV-88 MCH-29.7 MCHC-33.6 RDW-12.8 Plt Ct-314
+[**2121-5-13**] 07:12AM BLOOD PT-17.7* PTT-25.1 INR(PT)-1.6*
+
+Brief Hospital Course:
+87 year-old woman presents after falling down and hitting head,
+admitted with GIB and supratherapeutic INR to ICU.  INR was >20
+and was reversed with Vitamin K and 2 units of FFP.  Coumadin
+held.  HCT was stable so decision was made not to pursue
+colonoscopy.  Acute renal failure resolved with IVF.  The
+patient was transferred to the floor in stable condition for
+continued monitoring of HCT and INR.
+
+PROBLEM LIST:
+#. Supratherapeutic INR: Unclear exactly why INR went so high.
+Nutritional deficiency vs less efficient GI absorption of
+Vitamin K vs drug-drug interaction causing decreased metabolism
+of Coumadin.  She was reversed with Vitamin K and FFP and on
+discharge her INR was 1.6.  After discussion with her primary
+care provider, [**Name10 (NameIs) **] decision was made to restart coumadin at a
+lower dose of 1.5mg daily and to have VNA check daily INR until
+the levels are therapeutic.  After that, she may require INR
+checks twice a week until stable.
+
+#. Lower GI Bleed: No active bleeding after reversing
+anticoagulation. HCT stable Source most likely either
+diverticulosis or hemorrhoids bleeding in the setting of high
+INR.  After discussions with her PMD, she was restarted on
+coumadin at a lower dose at 1.5mg daily
+
+#. Atrial fibrillation: Metoprolol dose reduced because of
+bradycardia.  As above, her anticoagulation was held until
+discharge.  She will restart coumadin at a lower dose at 1.5mg
+daily.  She will need f/u regarding her HR and her BP.
+
+#. Falling down / Gait instability: PT consult to determine
+recommended level of home supervision
+
+#. Acute Kidney Injury [**3-11**] GIB resulting in hypovolemia.
+Resolved with IVF.
+
+#. Hypertension: On Metoprolol. Held Amlodipine.  Restart if
+needed for BP control
+
+#. Hyperlipidemia: Continue statin
+
+#. Angioedema: Continue Fexofenadine, Famotidine, and Prednisone
+
+#. Thyroid nodules incidentally seen on CT scan: F/u with PCP.
+[**Name10 (NameIs) **] [**Name Initial (NameIs) **] thyroid US on previous admission that recommended f/u
+imaging in 6 months.
+
+#. CT torso demonstrated breast nodule which should be follow up
+with mammography as an outpatient.
+
+#. Nose skin hyperpigmented skin lesion: Outpatient follow up
+
+#. DVT prophylaxis with pneumoboots
+
+#. Code status - DNR/DNI
+
+#. Contact - [**Name (NI) 553**] (daughter) [**Telephone/Fax (1) 79254**]
+
+Medications on Admission:
+Amlodipine 10 mg PO Daily
+Fexofenadine 60 mg PO BID
+Famotidine 20 mg PO BID
+Metoprolol 12.5 mg PO BID
+Prednisone 5 mg PO Every other day
+Simvastatin 20 mg PO Daily
+Vitamin D 1000 IU PO Daily
+Warfarin 3 mg PO Daily
+Oyster calcium 500 mg PO BID
+Alendronate 70 mg PO Weekly
+
+Discharge Medications:
+1. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24
+hours).
+2. Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+3. Prednisone 5 mg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY
+(Every Other Day).
+4. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+5. Vitamin D 1,000 unit Tablet Sig: One (1) Tablet PO once a
+day.
+6. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO BID (2 times a day).
+7. Alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week.
+
+8. Coumadin 1 mg Tablet Sig: 1.5 Tablets PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*0*
+9. Metoprolol Tartrate 25 mg Tablet Sig: 0.25 Tablet PO twice a
+day.
+Disp:*15 Tablet(s)* Refills:*0*
+10. Famotidine 20mg [**Hospital1 **]
+11. Fexofenadine 60mg [**Hospital1 **]
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 100**] Rehab Home Care
+
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+1. Supratherapeutic INR, corrected
+2. Lower gastrointestinal bleeding, stopped
+3. Atrial fibrillation
+4. Anemia from acute blood loss
+5. Acute kidney injury, resolved
+6. Thyroid nodule
+7. Breast nodule
+8. Gait instability
+
+SECONDARY DIAGNOSES:
+1. Hypertension
+2. Hyperlipidemia
+3. Angioedema
+4. History of left caudate infarct
+5. Osteoporosis
+6. Osteoarthritis s/p right hip replacement
+7. Eczema
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were admitted after falling down and hitting your head.  You
+were found to have an very elevated INR (>20) which is the
+reason you had GI bleeding.  CT scans were performed and you did
+not have any head or neck fractures.  Your INR was corrected
+with Vitamin K and transfusion of plasma.  Your bleeding stopped
+and your blood counts remained stable.
+
+We recommend that you stop taking Coumadin until [**2121-5-13**].  You
+should restart Coumadin at a lower dose of 1.5mg daily.  You
+should restart this tonight.  You will need to call your primary
+care provider's office at [**Telephone/Fax (1) 79255**] to get follow up
+appointmen with your Dr. [**Name (NI) **].
+
+CT scans showed incidental findings of thyroid nodule and breast
+nodule.  These issues should be addressed with your primary care
+physician.
+
+MEDICATION CHANGES:
+1. Restart coumadin 1.5mg daily.  You will need daily INRs drawn
+and these will be faxed to your primary care [**Provider Number 34259**]. DECREASE DOSE of Metoprolol to 6.25mg twice a day (The dose
+was decreased because your heart rate was too slow)
+3. STOP Amlodipine (This was stopped because your high blood
+pressure is not currently requiring this medication to be
+controlled)
+
+Followup Instructions:
+Name/NP: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+Location: [**Hospital1 **] SENIOR HEALTH
+Address: [**Street Address(2) **], [**Location (un) **],[**Numeric Identifier 809**]
+Phone: [**Telephone/Fax (1) 60246**]
+Appt: Tomorrow, [**5-14**] at 1:00pm.
+
+
+

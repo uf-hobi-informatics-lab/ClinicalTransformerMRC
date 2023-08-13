@@ -1,0 +1,131 @@
+T2	Drug 1154 1157	PPI
+T3	Dosage 1165 1167	2L
+R2	Dosage-Drug Arg1:T3 Arg2:T4
+T4	Drug 1168 1170	NS
+T5	Reason 1415 1441	Left frontoparietal stroke
+R3	Reason-Drug Arg1:T5 Arg2:T7
+R4	Reason-Drug Arg1:T5 Arg2:T8
+T7	Drug 1470 1473	ASA
+T8	Drug 1478 1484	plavix
+T9	Drug 165 176	Haloperidol
+T10	Drug 179 185	Valium
+T13	Drug 4281 4284	PPI
+T15	Drug 4318 4321	PPI
+T16	Route 4354 4356	PO
+R9	Route-Drug Arg1:T16 Arg2:T17
+T17	Drug 4357 4360	PPI
+T18	Drug 4503 4513	citalopram
+T19	Drug 4514 4524	olanzapine
+T20	Drug 4591 4600	trileptal
+T21	Reason 4612 4615	CVA
+R10	Reason-Drug Arg1:T21 Arg2:T22
+R11	Reason-Drug Arg1:T21 Arg2:T23
+T22	Drug 4628 4631	ASA
+T23	Drug 4633 4639	Plavix
+T24	Strength 4945 4950	0.4mg
+R12	Strength-Drug Arg1:T24 Arg2:T25
+T25	Drug 4951 4957	flomax
+T26	Frequency 4958 4963	daily
+R13	Frequency-Drug Arg1:T26 Arg2:T25
+T27	Reason 5093 5100	voiding
+R14	Reason-Drug Arg1:T27 Arg2:T25
+T28	Drug 5205 5212	zyprexa
+T29	Strength 5213 5217	25mg
+R15	Strength-Drug Arg1:T29 Arg2:T28
+T30	Frequency 5218 5226	at night
+R16	Frequency-Drug Arg1:T30 Arg2:T28
+T31	Drug 5227 5237	citalopram
+T32	Strength 5238 5242	10mg
+R17	Strength-Drug Arg1:T32 Arg2:T31
+T33	Frequency 5243 5253	once daily
+R18	Frequency-Drug Arg1:T33 Arg2:T31
+T34	Drug 5254 5263	trileptal
+T35	Strength 5264 5269	600mg
+R19	Strength-Drug Arg1:T35 Arg2:T34
+T36	Frequency 5270 5273	qhs
+R20	Frequency-Drug Arg1:T36 Arg2:T34
+T37	Drug 5279 5282	asa
+T38	Strength 5283 5288	325mg
+R21	Strength-Drug Arg1:T38 Arg2:T37
+T39	Frequency 5289 5299	once daily
+R22	Frequency-Drug Arg1:T39 Arg2:T37
+T40	Drug 5300 5309	bisacodyl
+T41	Frequency 5310 5325	every other day
+R23	Frequency-Drug Arg1:T41 Arg2:T40
+T42	Drug 5326 5332	detrol
+T43	Strength 5333 5336	1mg
+R24	Strength-Drug Arg1:T43 Arg2:T42
+T44	Drug 5354 5364	robitussin
+T45	Strength 5365 5370	1 tsp
+R25	Strength-Drug Arg1:T45 Arg2:T44
+T46	Frequency 5371 5374	QID
+R26	Frequency-Drug Arg1:T46 Arg2:T44
+T47	Drug 5375 5381	plavix
+T48	Strength 5382 5386	75mg
+R27	Strength-Drug Arg1:T48 Arg2:T47
+T49	Frequency 5387 5397	once daily
+R28	Frequency-Drug Arg1:T49 Arg2:T47
+T50	Drug 5398 5405	miralax
+T51	Frequency 5406 5416	once daily
+R29	Frequency-Drug Arg1:T51 Arg2:T50
+T52	Drug 5417 5424	spiriva
+T53	Drug 5425 5434	symbicort
+T54	Drug 5435 5442	vit b12
+T55	Drug 5468 5475	zyprexa
+T56	Strength 5476 5480	25mg
+R30	Strength-Drug Arg1:T56 Arg2:T55
+T57	Frequency 5481 5489	at night
+R31	Frequency-Drug Arg1:T57 Arg2:T55
+T58	Drug 5490 5500	citalopram
+T59	Strength 5501 5505	10mg
+R32	Strength-Drug Arg1:T59 Arg2:T58
+T60	Frequency 5506 5516	once daily
+R33	Frequency-Drug Arg1:T60 Arg2:T58
+T61	Drug 5517 5526	trileptal
+T62	Strength 5527 5532	600mg
+R34	Strength-Drug Arg1:T62 Arg2:T61
+T63	Frequency 5533 5536	qhs
+R35	Frequency-Drug Arg1:T63 Arg2:T61
+T64	Drug 5542 5545	asa
+T65	Strength 5546 5551	325mg
+R36	Strength-Drug Arg1:T65 Arg2:T64
+T66	Frequency 5552 5562	once daily
+R37	Frequency-Drug Arg1:T66 Arg2:T64
+T67	Drug 5563 5572	bisacodyl
+T68	Frequency 5573 5588	every other day
+R38	Frequency-Drug Arg1:T68 Arg2:T67
+T69	Drug 5589 5595	detrol
+T70	Strength 5596 5599	1mg
+R39	Strength-Drug Arg1:T70 Arg2:T69
+T71	Drug 5617 5627	robitussin
+T72	Strength 5628 5633	1 tsp
+R40	Strength-Drug Arg1:T72 Arg2:T71
+T73	Frequency 5634 5637	QID
+R41	Frequency-Drug Arg1:T73 Arg2:T71
+T74	Drug 5638 5644	plavix
+T75	Strength 5645 5649	75mg
+R42	Strength-Drug Arg1:T75 Arg2:T74
+T76	Frequency 5650 5660	once daily
+R43	Frequency-Drug Arg1:T76 Arg2:T74
+T77	Drug 5661 5668	miralax
+T78	Frequency 5669 5679	once daily
+R44	Frequency-Drug Arg1:T78 Arg2:T77
+T79	Drug 5680 5687	spiriva
+T80	Drug 5688 5697	symbicort
+T81	Drug 5698 5705	vit b12
+T82	Reason 6292 6297	yeast
+R45	Reason-Drug Arg1:T82 Arg2:T83
+T83	Drug 6308 6320	anti-fungals
+T84	Drug 6713 6719	Flomax
+T85	Strength 6720 6725	0.4mg
+R46	Strength-Drug Arg1:T85 Arg2:T84
+T86	Route 6726 6728	PO
+R47	Route-Drug Arg1:T86 Arg2:T84
+T87	Frequency 6729 6734	daily
+R48	Frequency-Drug Arg1:T87 Arg2:T84
+T1	Route 1151 1153	IV
+R1	Route-Drug Arg1:T1 Arg2:T2	
+T6	Route 4315 4317	IV
+R5	Route-Drug Arg1:T6 Arg2:T15	
+T11	Route 4278 4280	IV
+R6	Route-Drug Arg1:T11 Arg2:T13	

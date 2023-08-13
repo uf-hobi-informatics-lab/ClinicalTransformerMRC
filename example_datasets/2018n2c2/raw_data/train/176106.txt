@@ -1,0 +1,25 @@
+Name:  [**Known lastname 2170**], [**Known firstname **]                       Unit No:  [**Numeric Identifier 2171**]
+
+Admission Date:  [**2105-11-20**]     Discharge Date:  [**2105-11-27**]
+
+Date of Birth:   [**2030-11-10**]     Sex:  M
+
+Service:
+
+ADDENDUM TO HOSPITAL COURSE:  It was felt that the patient's
+seizures were caused by the combination of Ritalin and
+thalidomide.  These medications were discontinued and as
+stated previously, the patient was started on Phenytoin for
+prophylaxis.
+
+
+
+                          [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 2172**]
+
+Dictated By:[**Last Name (NamePattern1) 866**]
+
+MEDQUIST36
+
+D:  [**2105-11-27**]  14:35
+T:  [**2105-11-28**]  04:39
+JOB#:  [**Job Number 2173**]

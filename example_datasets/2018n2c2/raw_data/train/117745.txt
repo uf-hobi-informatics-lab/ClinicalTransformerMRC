@@ -1,0 +1,1105 @@
+Admission Date:  [**2192-7-29**]              Discharge Date:   [**2192-9-1**]
+
+Date of Birth:  [**2133-5-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Percocet
+
+Attending:[**First Name3 (LF) 603**]
+Chief Complaint:
+OSH transfer for evaluation and treatment of TTP
+
+Major Surgical or Invasive Procedure:
+Intubation and extubation
+Bone Marrow Biopsy
+HD line placed and removed
+Liver biopsy [**8-8**]
+
+
+History of Present Illness:
+Patient is a 59 yo male who recently was hospitalized at [**Hospital1 18**]
+after diagnosis of TTP. At that time no underlying cause could
+be identified, he was treated with plasmapharesis and steroids,
+and ultimately improved however remained HD dependant. On the
+day of presentation patient fellt ill, and "passed out". He was
+transferred to [**Hospital 945**] [**Hospital **] hospital.
+.
+In the OSH patient was found to be profoundly anemic and
+hypocoaguable. he was given 4 units of FFP and transferred to
+[**Hospital1 18**]
+.
+In the [**Hospital1 18**] ED, initial vs were: T 97.7 P 102 BP 134/92 R 22 O2
+sat 95%4L. ED discussed the case with BMT fellow, 125 solumedrol
+was given, 2 units of prbc were recomended by Heme fellow, non
+cont abd contrast for abd pain obtainedm, 2mg iv morphine, and
+10 mg of vit K given.
+.
+.
+Patient reports that he felt overall well up until the day of
+his presentation. He endorses no UOP over the past 8 hours. He
+denies any fever/chills, or diarrhea, but endorses nausea and
+abdominal pain.
+
+Past Medical History:
+- Asthma
+- Hypercholesterolemia
+- TTP unclear etiology
+- Renal failure, was on HD Tue/Th/Sat
+- Hemophagocytic lymphohistiocytosis
+
+Social History:
+Married and lives with his wife. [**Name (NI) **] retired from working as a
+case manager. He denies chemical exposure.
+- Tobacco: 25 pack year history, quit in [**2158**]
+- Alcohol: rare
+
+Family History:
+Throat cancer in mom and uncle.
+
+Physical Exam:
+Vitals: T: 98.6 BP: 135/86 P: 103 R: 30 O2:92%
+General: Alert, oriented, tired appearing
+HEENT: Sclera icteric, MMM, oropharynx with no ulcers or lesions
+Neck: supple, JVP moderately elevated, no LAD
+Lungs: Slight bibasilar crackles
+CV: Sinus rhythm, nl S1S2, no S3S4, no murmurs, rubs, gallops
+Abdomen:  soft, non tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding,
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis, with
+minimal dependent edema 1+ and pitting around the ankles
+Neuro: CN II-XII intact, Upper extremitites shoulder shrug,
+deltoid extension, bicep and tricep flexion and extension [**6-20**]
+b/l, lower extremities hip flexion, Knee flexion/extension,
+ankle flexion/dorsiflexion [**5-21**] b/l
+Psych: mood and attitude appropriate
+
+Pertinent Results:
+DATA FROM LAST ADMISSION:
+=========================
+Blood cultures - [**7-8**], [**7-10**], [**7-13**] - no growth
+CMV Ab - [**7-8**] - IgM negative, IgG positive
+Catheter Tip - [**7-13**] - no growth
+CMV Viral Load - negative
+.
+Leptospirosis - negative
+Lyme serologies - negative
+Sputum (OSH) - Pseudomanoas cultures, pan-sensitive to
+Levofloxacin, Meropenem, Ceftriaxone, Ceftazidime, R to
+Aztreonam
+Stool cultures - negative for Salmonella, Shigella, Yersinia,
+E. coli O157:H7 - negatve
+B Glucan - negative
+Galactomannan - negative
+HIV - negative
+.
+Urine Gonorrhea/Chlamydia PCR - negative
+Urine culture [**7-9**] - Enterococcus species (but contaminated
+sample), [**7-17**] - Coag Negative Staph
+Repeat urine cultures from [**7-12**], [**7-16**] negative
+.
+Hepatitis Titers:
+Hep B sAb - negative
+Hep B sAB - positive
+Hep C Ab  - negative
+Hep A IgG - positive, IgM - negative
+.
+Parvovirus IgG positive, IgM negative
+.
+[**2192-7-12**] 02:07PM BLOOD Parst S-NEGATIVE
+.
+[**2192-7-11**] 07:31PM BLOOD HERPES SIMPLEX (HSV) 2, IGG- negative
+[**2192-7-11**] 07:31PM BLOOD HERPES SIMPLEX (HSV) 1, IGG- postive
+.
+PPD normal from [**7-19**], read on [**7-21**]
+.
+Rheumatologic Work-up:
+Anti-GBM Ab: negative
+[**Doctor First Name **], ANCA - negative
+Ceruloplasm - negative
+.
+[**2192-7-8**] 11:24AM BLOOD Lupus-NEG
+[**2192-7-9**] 03:36AM BLOOD ACA IgG-4.1 ACA IgM-9.6
+[**2192-7-8**] 11:23AM BLOOD ANCA-NEGATIVE B
+[**2192-7-11**] 07:31PM BLOOD Smooth-NEGATIVE
+[**2192-7-8**] 02:38PM BLOOD [**Doctor First Name **]-NEGATIVE
+[**2192-7-11**] 07:31PM BLOOD IgG-780 IgM-75
+[**2192-7-10**] 04:39AM BLOOD C3-93 C4-13
+.
+Miscellaneous:
+ADAMTS13 Activity and Inhibitor: 38%
+[**2192-7-8**] 01:19AM BLOOD Fibrino-246
+.
+Serum Tox Screen:
+[**2192-7-8**] 12:40AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+.
+[**2192-7-12**] 01:01AM BLOOD COPPER (SERUM)- normal
+Hereditary Hemochromatosis: Negative
+.
+ADMISSION LABS:
+================
+[**2192-7-29**] 10:05PM BLOOD WBC-8.8 RBC-1.95*# Hgb-6.2*# Hct-17.8*#
+MCV-91 MCH-36.8*# MCHC-34.7 RDW-16.1* Plt Ct-53*#
+[**2192-7-29**] 10:05PM BLOOD Neuts-77* Bands-3 Lymphs-17* Monos-1*
+Eos-1 Baso-0 Atyps-1* Metas-0 Myelos-0 NRBC-1*
+[**2192-7-29**] 10:05PM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-1+
+Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL Schisto-1+
+Stipple-OCCASIONAL Tear Dr[**Last Name (STitle) 833**] [**Name (STitle) **]1+
+[**2192-7-29**] 10:05PM BLOOD PT-23.6* PTT-55.1* INR(PT)-2.2*
+[**2192-7-29**] 10:05PM BLOOD Fibrino-81*#
+[**2192-7-30**] 04:06AM BLOOD Fibrino-118*
+[**2192-7-30**] 04:06AM BLOOD FDP-[**Telephone/Fax (1) 14007**]*
+[**2192-7-30**] 04:06AM BLOOD QG6PD-11.5
+[**2192-8-2**] 04:55PM BLOOD Gran Ct-1044*
+[**2192-8-2**] 10:40PM BLOOD Gran Ct-1512*
+[**2192-8-3**] 03:00AM BLOOD Gran Ct-328*
+[**2192-7-30**] 04:06AM BLOOD Ret Aut-3.2
+[**2192-7-29**] 10:05PM BLOOD Glucose-94 UreaN-59* Creat-3.4*# Na-132*
+K-4.7 Cl-94* HCO3-18* AnGap-25*
+[**2192-7-29**] 10:05PM BLOOD ALT-262* AST-614* LD(LDH)-3850*
+AlkPhos-288* TotBili-17.6* DirBili-8.3* IndBili-9.3
+[**2192-7-31**] 02:56AM BLOOD ALT-1393* AST-2319* LD(LDH)-5860*
+AlkPhos-271* TotBili-30.7*
+[**2192-7-31**] 08:03PM BLOOD ALT-1652* AST-2896* AlkPhos-411*
+TotBili-27.1*
+[**2192-7-29**] 10:05PM BLOOD Lipase-211*
+[**2192-7-30**] 04:06AM BLOOD Lipase-585*
+[**2192-7-31**] 02:56AM BLOOD Lipase-2627*
+[**2192-7-31**] 01:37PM BLOOD Lipase-1399*
+[**2192-8-1**] 01:57AM BLOOD Lipase-669*
+[**2192-7-30**] 04:06AM BLOOD Calcium-8.2* Phos-4.0# Mg-1.5*
+[**2192-7-30**] 04:06AM BLOOD Hapto-73 Ferritn-[**Numeric Identifier 85484**]*
+[**2192-8-6**] 04:42AM BLOOD Ferritn-[**Numeric Identifier 85485**]*
+[**2192-7-30**] 04:06AM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE IgM
+HAV-NEGATIVE
+[**2192-7-31**] 09:03AM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE
+HBcAb-NEGATIVE IgM HBc-NEGATIVE IgM HAV-NEGATIVE
+[**2192-7-31**] 01:37PM BLOOD ANCA-NEGATIVE B
+[**2192-7-31**] 01:37PM BLOOD [**Doctor First Name **]-NEGATIVE
+[**2192-7-30**] 02:44PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2192-7-30**] 04:06AM BLOOD HCV Ab-NEGATIVE
+[**2192-7-30**] 04:24AM BLOOD Lactate-7.2*
+[**2192-7-30**] 09:15PM BLOOD freeCa-0.83*
+
+MICROBIOLOGY:
+==============
+
+
+# ASPERGILLUS GALACTOMANNAN ANTIGEN: NEGATIVE
+Test                          Result              Reference
+Range/Units
+ASPERGILLUS ANTIGEN           0.1                 <0.5
+(Sera with an Index <0.5 are considered to be negative)
+
+# B-GLUCAN- NO RESULT
+Test
+----
+Fungitell (tm) Assay for (1,3)-B-D-Glucans
+
+Results                                 Reference Ranges
+-------                                 ----------------
+No Result *                             Negative       Less than
+60 pg/mL
+                                        Indeterminate  60 - 79
+pg/mL
+                                        Positive       > OR
+equal to
+                                                       80 pg/mL
+# RUBEOLA ANTIBODY, IGM: NEGATIVE
+Test                          Result              Reference
+Range/Units
+MEASLES ANTIBODY, (IGM)       <1:10               <1:10 titer
+
+# ADENOVIRUS PCR: NEGATIVE (No DNA Detected)
+  	
+
+# HERPES 6 DNA PCR, QUANTITATIVE: <500
+
+#HERPES SIMPLEX VIRUS 1 AND 2 ANTIBODY IGM
+Test Name                   In Range     Out of Range
+Reference Range
+---------                   --------     ------------
+---------------
+Herpes Simplex Virus (HSV) [**2-18**] IgM Ab, IFA (Serum)
+  HSV 1 IgM, IFA             <1:20
+<1:20
+  HSV 2 IgM, IFA             <1:20
+<1:20
+
+Interpretive Criteria
+   <1:20       Antibody Not Detected
+   > or = 1:20 Antibody Detected
+
+#HERPES SIMPLEX (HSV) 1, IGG
+Test                          Result              Reference
+Range/Units
+HSV 1 IGG TYPE SPECIFIC AB    >5.00  H            index
+HSV 2 IGG TYPE SPECIFIC AB    <0.90               index
+
+# [**2192-7-30**] 4:03 am MRSA SCREEN    Nasal swab.
+   MRSA SCREEN (Final [**2192-8-1**]):    No MRSA isolated.
+
+# [**2192-7-30**] 4:06 am BLOOD CULTURE
+   Blood Culture, Routine (Final [**2192-8-5**]):    NO GROWTH.
+.
+.
+# [**2192-7-30**] 8:48 pm Blood (CMV AB)      Source: Line-aline.
+CMV IgG ANTIBODY (Final [**2192-7-31**]): POSITIVE FOR CMV IgG ANTIBODY
+BY EIA.
+                                   227 AU/ML.
+.
+.
+# [**2192-7-30**] 8:48 pm Blood (EBV)      Source: Line-aline.
+   [**Doctor Last Name **]-[**Doctor Last Name **] VIRUS VCA-IgG AB (Final [**2192-8-1**]):
+      Test canceled and patient credited due to a prior EBV
+panel sent on
+      [**2192-7-8**] indicating evidence of past infection (EBV
+VCA-IgG positive,
+      EBNA IgG positive and EBV VCA-IgM negative). A repeat
+panel is
+      unlikely to detect EBV reactivation. Serum will be held
+for 3months.
+.
+# [**2192-7-30**] 8:48 pm Immunology (CMV)      Source: Line-aline.
+ CMV Viral Load (Final [**2192-8-1**]):  650 copies/ml.
+.
+.
+# [**2192-7-30**] 11:11 pm
+      BLOOD CULTURE ( MYCO/F LYTIC BOTTLE)
+
+   BLOOD/FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+   BLOOD/AFB CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+
+
+# [**2192-7-30**] 10:15 pm SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT [**2192-8-2**]**
+
+   GRAM STAIN (Final [**2192-7-31**]):
+      [**12-10**] PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Final [**2192-8-2**]):
+      RARE GROWTH Commensal Respiratory Flora.
+.
+# [**2192-7-31**] 2:56 am BLOOD CULTURE ( MYCO/F LYTIC BOTTLE)
+      Source: Line-aline.
+
+   BLOOD/FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+   BLOOD/AFB CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED.
+
+.
+# [**2192-7-31**] 9:43 am
+      SEROLOGY/BLOOD      CHEM # 09480W [**7-31**].
+
+                            **FINAL REPORT [**2192-8-3**]**
+
+   VARICELLA-ZOSTER IgG SEROLOGY (Final [**2192-8-3**]):
+      POSITIVE BY EIA.
+      A positive IgG result generally indicates past exposure
+and/or
+      immunity.
+      ICTERIC SPECIMEN.
+      [**Month (only) **] EFFECT PATIENT RESULTS.
+      INTERPRET RESULTS WITH CAUTION.
+
+# [**2192-7-31**] 10:08 am Rapid Respiratory Viral Screen & Culture
+      Site: NASOPHARYNGEAL SWAB
+
+                            **FINAL REPORT [**2192-8-2**]**
+
+   Respiratory Viral Antigen Screen (Final [**2192-7-31**]):
+      Negative for Respiratory Viral Antigen.
+      Specimen screened for: Adeno, Parainfluenza 1, 2, 3,
+Influenza A, B,
+      and RSV by immunofluorescence.
+      Refer to respiratory viral culture for further
+information.
+
+   Respiratory Viral Culture (Final [**2192-8-2**]):
+      No respiratory viruses isolated.
+      Culture screened for Adenovirus, Influenza A & B,
+Parainfluenza type
+      1,2 & 3, and Respiratory Syncytial Virus..
+      Detection of viruses other than those listed above will
+only be
+      performed on specific request. Please call Virology at
+[**Telephone/Fax (1) 6182**]
+      within 1 week if additional testing is needed.
+
+#[**2192-7-31**] 3:29 pm IMMUNOLOGY      Source: Line-a-line.
+
+   HBV Viral Load (Final [**2192-8-2**]): HBV DNA not detected.
+.
+
+# [**2192-8-1**] 9:24 am URINE      Source: Catheter.
+
+  URINE CULTURE (Final [**2192-8-2**]):    NO GROWTH.
+.
+
+# [**2192-8-1**] 12:37 pm Immunology (CMV)      Source: Line-a-line.
+
+   CMV Viral Load (Final [**2192-8-3**]): CMV DNA not detected.
+.
+# [**2192-8-4**] 10:49 am BLOOD CULTURE      Source: Line-hd line SET
+#2.
+
+   Blood Culture, Routine (Pending):
+
+# [**2192-8-5**] 14:30
+EBV PCR, QUANTITATIVE, WHOLE BLOOD 	Results Pending
+
+# [**2192-8-6**] 11:32 am SPUTUM      Source: Expectorated.
+
+   GRAM STAIN (Final [**2192-8-6**]):
+      [**12-10**] PMNs and >10 epithelial cells/100X field.
+      Gram stain indicates extensive contamination with upper
+respiratory
+      secretions. Bacterial culture results are invalid.
+      PLEASE SUBMIT ANOTHER SPECIMEN.
+
+   RESPIRATORY CULTURE (Final [**2192-8-6**]):
+      TEST CANCELLED, PATIENT CREDITED.
+
+   FUNGAL CULTURE (Preliminary):
+      GRAM STAIN OF THIS SPECIMEN INDICATES CONTAMINATION WITH
+      OROPHARYNGEAL SECRETIONS AND INVALIDATES RESULTS.
+      Specimen is only screened for Cryptococcus species. New
+specimen is
+      recommended.
+
+#  CMV Viral Load (Final [**2192-8-29**]):
+      1,260 copies/ml.
+
+# [**2192-8-29**] 09:45AM BLOOD WBC-6.2 RBC-2.86* Hgb-9.0* Hct-26.5*
+MCV-92 MCH-31.4 MCHC-34.0 RDW-23.5* Plt Ct-63*
+
+# [**2192-8-29**] 03:20PM BLOOD Na-129* K-4.7 Cl-95*
+
+#[**2192-7-31**] 08:03PM BLOOD ALT-1652* AST-2896* AlkPhos-411*
+TotBili-27.1*
+ [**2192-8-29**] 09:45AM BLOOD ALT-202* AST-50* AlkPhos-466*
+TotBili-4.8*
+
+# [**2192-8-6**] 04:42AM BLOOD Ferritn-[**Numeric Identifier 85485**]*
+  [**2192-7-30**] 04:06AM BLOOD Hapto-73 Ferritn-[**Numeric Identifier 85484**]*
+
+# [**2192-8-29**] 09:45AM BLOOD Cyclspr-33*
+
+IMAGES/STUDIES:
+===============
+[**2192-7-29**]  10:07:34 PM
+
+Normal sinus rhythm. Possible left ventricular hypertrophy.
+Non-specific
+ST-T wave abnormalities. Compared to the previous tracing of
+[**2192-7-9**]
+QRS voltage in the left lateral leads has increased raising the
+possibility of
+left ventricular hypertrophy. Suggest clinical correlation and
+repeat tracing.
+
+ 	Intervals	Axes
+Rate	PR	QRS	QT/QTc	P	QRS	T
+96	136	82	350/413	66	62	91
+.
+#[**2192-8-1**]  2:32:34 PM
+
+Atrial fibrillation with rapid ventricular response. Left
+ventricular
+hypertrophy. Diffuse non-specific ST-T wave changes. Compared to
+the previous tracing of [**2192-7-29**] atrial fibrillation with a rapid
+ventricular response and diffuse ST-T wave flattening have
+appeared.
+TRACING #1
+
+ 	Intervals	Axes
+Rate	PR	QRS	QT/QTc	P	QRS	T
+108	0	88	[**Telephone/Fax (2) 85486**]0
+.
+#Atrial fibrillation with rapid ventricular response. Diffuse
+non-specific
+ST-T wave flattening. Compared to the previous tracing of
+[**2192-8-1**] no diagnostic interim change.
+TRACING #2
+
+ 	Intervals	Axes
+Rate	PR	QRS	QT/QTc	P	QRS	T
+115	0	86	342/438	0	67	80
+
+# CHEST (PA & LAT)	Study Date of [**2192-7-29**] 10:37 PMA double-lumen
+catheter is seen with tip in the lower SVC.
+Heart size is enlarged with the vascular pedicle more prominent
+than on [**2192-7-15**]. There is an ill-defined opacificity overlying the
+right mid lung.
+There is no pleural effusion or pneumothorax.
+
+IMPRESSION:
+1. New cardiomegaly and enlarged vascular pedicle, suggestive of
+fluid
+overload.
+
+2. Ill-defined opacity in the right mid lung could be pneumonia
+or pulmonary hemorrhage in the appropriate clinical context.
+.
+#PATHOLOGY:
+DIFFICULT CROSSMATCH AND/OR EVALUATION OF IRREGULAR
+ANTIBODIES	Study Date of [**2192-7-30**]
+
+(ICD9 CODE: 999.7)
+INDICATION FOR CONSULT:	DIFFICULT CROSSMATCH AND/OR EVALUATION
+OF IRREGULAR ANTIBODIES
+
+INDICATIONS FOR CONSULT:
+Difficult crossmatch and/or evaluation of irregular antibody (s)
+
+CLINICAL/LAB DATA: Mr. [**Known lastname 74316**] is a 59 year old male who was
+admitted
+with renal and hepatic dysfunction, as well as a picture
+concerning for
+sepsis/DIC. A blood sample was sent for type and screen.
+
+Laboratory Data:
+Patient ABO/Rh: Group O, Rh positive
+Antibody screen: Positive
+DAT: 3+ IgG, 1+ C3
+Eluate: panagglutination of all cells
+Antibody identity: Panagglutinating antibody ([**Hospital1 18**]); anti-Jkb
+identified by the American Red Cross reference laboratory after
+performing heterologous adsorption [required due to recent
+transfusion]
+Antigen phenotype: performed [**2192-7-8**]- E, K, Jkb, Fya,
+Fyb-antigen
+negative
+
+Transfusion history:
+7 non-reactive red cell transfusions during previous admission
+[**Date range (2) 85487**] (5 of 7 units retrospectively determined to be
+positive
+for Jkb)
+
+Previous non-reactive plasma transfusions: 123 (in setting of
+plasmapheresis)
+
+Previous non-reactive platelet transfusions: 2
+
+DIAGNOSIS, ASSESSMENT AND RECOMMENDATIONS: Mr. [**Known lastname 74316**] has a
+new
+diagnosis of Anti-Jkb antibody, in addition to his known warm
+autoantibody. Jkb-antigen is a member of the Kidd blood group
+system.
+Jkb-antibody is clinically significant and capable of causing
+hemolytic
+transfusion reactions. During his last admission [**Date range (2) 85487**],
+Mr.
+[**Known lastname 74316**] received 5 units of Jkb positive blood. These units
+will
+likely be cleared more quickly than Jkb negative units. The ICU
+team
+was made aware that delayed hemolysis could be taking place,
+although it
+will be difficult to assess in the face of his other lab
+abnormalities.
+In the future, Mr. [**Known lastname 74316**] should receive Jkb-antigen negative
+products
+for all red cell transfusions. Approximately 26% of all ABO
+compatible
+blood will be Jkb-antigen negative. A wallet card and a letter
+stating
+the above will be sent to the patient.
+.
+# ECHO [**2192-7-30**]:
+The left atrium is mildly dilated. No atrial septal defect is
+seen by 2D or color Doppler. There is mild symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. There is mild global left ventricular hypokinesis (LVEF
+= 40-45 %). There is no ventricular septal defect. with
+depressed free wall contractility. The ascending aorta is mildly
+dilated. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion and no aortic regurgitation.
+The mitral valve appears structurally normal with trivial mitral
+regurgitation. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2192-7-9**],
+biventricular systolic function now appears mildly depressed.
+.
+#CT OF THE ABDOMEN/PELVIS W/O INTRAVENOUS CONTRAST:
+
+In the visualized thorax, there is septal thickening in the left
+lower lobe that is consistent with pulmonary edema. Proximally
+there are small nodular densities. There is mild basilar
+atelectasis, worse on the left. There is no pleural effusion or
+pneumothorax. The visualized heart is normal in size with a
+trace pericardial effusion. Relative attenuation of the
+ventricles relative to muscle suggests anemia.
+
+Evaluation of the solid organs in the abdomen is limited without
+intravenous contrast. Calcific foci are seen within the liver
+and spleen suggesting prior granulomatous insult. A sliver of
+fluid is seen between the hepatic parenchyma and the gallbladder
+(series 2, image 25). There is no pericholecystic fat stranding.
+The pancreas and adrenals appear normal.
+There is a 1.7-cm diameter hypodensity within the lower pole of
+the left
+kidney and a second 1.2-cm hypodensity in the interpolar region,
+incompetely characterized. Abdominal loops of small bowel appear
+normal without distension or pericolonic fat stranding. There is
+moderate fecal loading of the large bowel. The appendix is not
+clearly visualized, but there are no secondary signs to suggest
+appendicitis. There is no abdominal free air, free fluid, or
+pathologic lymphadenopathy.
+
+Pelvic loops of bowel appear normal. The bladder and distal
+ureters appear
+normal. The prostate measures to 5 cm.
+
+MUSCULOSKELETAL: There is no suspicious osteolytic or
+osteoblastic lesion.
+Multilevel degenerative changes are seen with prominent
+Schmorl's nodes at
+L3-L4.
+
+IMPRESSION:
+1. Sliver of pericholecystic fluid adjacent to the hepatic wall
+may reflect
+liver pathology rather than acute cholecystitis given no
+definitive
+gallbladder wall edema or adjacent fat stranding. Nonetheless
+recommend US
+for further characterization.
+2. Left renal cysts are incompletely characterized. These can be
+evaluated
+concurrently with gallbladder
+3. Left lower lobe septal thickening and proximal nodularity are
+consistent
+with focal edema and an inflammatory/infectious process.
+3. Moderate fecal loading.
+4. Enlarged prostate.
+5. Anemia
+.
+# [**2192-7-30**] 2:17 PM
+LIVER OR GALLBLADDER US (SINGL; DUPLEX DOPP ABD/PEL)
+Comparison is made to prior CT examination
+dated [**2192-7-30**]. The echotexture of the liver is unremarkable
+except for a
+1.1-cm slightly hyperechoic lesion in segment VIII of the liver.
+A similarly hyperechoic region is seen more medially in segment
+VIII. This measures 1.3 cm. These areas do not demonstrate color
+flow consistent with hemangiomas. There is gallbladder wall
+edema; however, the gallbladder is not distended. There are no
+stones in the gallbladder. No pericholecystic fluid is noted.
+The gallbladder wall edema causes wall thickening up to 6.5 mm.
+On color flow and Doppler images, there is normal flow in the
+main portal vein. Adequate flow is also identified in the left
+portal vein. There is normal flow visualized in the hepatic
+veins, although it was difficult to obtain waveforms as the
+patient was unable to hold his breath for a sufficiently long
+period of time.
+
+IMPRESSION:
+1. Portal vein and its branches as well as hepatic veins are
+patent.
+
+2. Gallbladder wall edema, the presence of a non-distended
+gallbladder most
+consistent with hypoalbuminemia or liver disease.
+
+3. Too small hyperechoic lesions in the liver are most
+consistent with
+hemangiomas.
+.
+# [**2192-8-4**] 4:08 AM CHEST (PORTABLE AP)
+Cardiomediastinal contours are unchanged. Lungs are grossly
+clear
+except for a patchy area of opacity in the left retrocardiac
+region, which has slightly improved when compared to an earlier
+radiograph of 15th at 5:43 a.m. This is most likely atelectasis
+and less likely an infectious pneumonia.
+.
+# [**2192-8-6**] 11:15 AM CHEST (PORTABLE AP):
+New poorly well-defined round opacities and right mid and left
+lower lung, concerning for infection such as septic emboli or
+fungal
+organisms. Consider chest CT for confirmation and further
+characterization.
+.
+# [**2192-8-6**] CT CHEST W/O CONTRAST:
+There has been partial resolution of the diffuse ground-glass
+opacities since the previous CT with residual well-demarcated
+ground-glass opacities which are predominantly in the right
+upper lobe (2.27) and the right lung base, to a lesser extent.
+The appearances of these abnormalities are similar to the
+previous CT with no newly affected areas. Pleural surfaces are
+smooth with no pleural effusion. Linear atelectasis is new and
+mild in the lower lobes bilaterally with thickening of the left
+major fissure due to mild atelectasis.
+
+Several lung cysts which were accentuated by the ground-glass
+opacities in the prior study are now separate to the lung
+abnormality; these may represent sequelae of previous
+hemorrhage, i.e. prior hematoceles. Paraseptal emphysema is
+mild.
+
+The pulmonary artery is enlarged at 37 mm, slightly larger than
+on the
+previous study suggesting pulmonary arterial hypertension. The
+caliber of the aorta and heart size is normal,no pericardial
+effusion. Relative hypodensity in the cardiac [**Doctor Last Name 1754**] in
+comparison to the myocardium suggests anemia.
+
+Although this examination was not designed for subdiaphragmatic
+evaluation.
+review of the upper abdominal organs is unremarkable. Punctate
+calcification in the liver and spleen in addition to several
+calcified mediastinal lymph nodes suggest prior granulomatous
+exposure.
+
+No destructive or sclerotic bone lesions are concerning for
+malignancy.
+
+IMPRESSION:
+
+1)Partial resolution of the diffuse ground-glass opacities which
+are
+predominantly in the right upper lobe and right lower lobe to a
+lesser extent. These abnormalities appear to have cleared over
+several intervening chest radiographs and suggest recurrent
+pulmonary hemorrhage, particularly given the coexistent
+thrombocytopenia, other causes such as infection (PCP) are less
+likely.
+
+2)Liver, splenic and mediastinal lymph node calcifications
+suggest prior
+granulomatous exposure.
+.
+# [**2192-8-6**] CT HEAD W/O CONTRAST:
+There is no intracranial hemorrhage, edema, mass effect, or
+other
+CT sign of acute major vascular territorial infarction. The
+ventricles and
+sulci are normal in size and configuration.
+
+There are fluid levels within the left maxillary, right frontal
+and bilateral sphenoid sinuses, as well as complete
+opacification of left frontal sinus. Aeration of the ethmoid air
+cells has improved since the prior study. Wall thickening in the
+sphenoid and possibly also frontal sinuses suggests chronic
+sinusitis. High-density material within the paranasal sinuses
+suggests inspissated secretions, hemorrhagic secretions, or
+fungal colonization. It is not clear whether there are
+postsurgical changes in the incompletely evaluated nasal cavity.
+
+IMPRESSION:
+1. No intracranial hemorrhage or evidence of other acute
+intracranial
+abnormalities.
+2. Chronic sinusitis. Fluid in the paranasal sinuses may
+indicate the
+presence of an acute component. High density contents within the
+sinuses may reflect inspissated secretions, hemorrhagic
+secretions, or fungal
+colonization.
+
+Labs results on 2 days prior to discharge:
+[**2192-9-1**]
+10:22a
+Na 132 K4.9 Cl100 Cl 100  Bun 35  K 4.9 HCO3 100 creat 1
+Ca: 7.9 Mg: 1.8 P: 3.0
+CWBC 7.8 HCT 27.6 plts 60
+
+[**2192-8-31**] Cyclspr: 70
+ALT: 245 AP: 466 Tbili: 5.3 Alb: 2.7
+AST: 50
+
+
+Brief Hospital Course:
+# HLH:
+Clinical scenario consistent with HLH.  Pt was admitted with
+severe anemia and thrombocytopenia. He has had 4 days of ATG,
+which was stopped early due to neutropenia - he later received
+the 5th dose when neutropenia resolved. Pt was also placed on
+high dose IV steriods, initially solumedrol 120mg [**Hospital1 **] that were
+ultimately tapered to prednisone 40mg [**Hospital1 **] by beginning of [**Month (only) 205**].
+Only possible cause of HLH that could be identified was ? of CMV
+infection with two different viral load tests showing positive
+viral load. Pt ended up getting two bone marrow biopsies ([**7-9**]
+and [**8-14**]) which both showed evidence of some hemophagycytosis.
+The liver biopsy on [**8-8**] showed no evidence of malignancy,
+necrosis, or infections. The pathology present was predominantly
+cholestatic and most consistent with drug induced changes. Pt
+was held off other chemotherapeutic regimens for the first 6
+weeks of the hospitalization because of his combined renal
+failure and liver cholestasis. Once pt recovered renal function
+and was declared by nephrology to no longer required
+hemodialysis, he was started on low dose cyclosporine 50 mg [**Hospital1 **]
+on the evening of [**8-23**]. Initial trough value was very low (<30)
+two days later.  His cyclosporine was gradually increased in
+dose with the most recent dose being 175mg po BID. Cyclosporine
+goal trough is 150-200 and should next be checked on [**2192-9-2**] and
+should be checked every 48 hrs.  Lab results should be faxed
+every 48 hrs as soon as test results come back to Dr. [**Last Name (STitle) **]
+[**Telephone/Fax (1) 638**] and to Dr. [**Last Name (STitle) 85488**] [**Telephone/Fax (1) 85489**].  Along with these
+you can fax CBC and chem 10 pls obtain as detailed on order
+sheet. Pt started on standing magnesium given cyclosporine
+results in magnesium wasting. Pt is also on predisone 40mg [**Hospital1 **].
+
+Throughout admission pt continued to show evidence of red cell
+and plt destruction on laboratory data (hgb/plts would drift
+down, haptoglobin low, retics high). Initially numerous PRBC and
+platelet transfusions were needed to stabilize pt while in the
+ICU. Once he recovered enough to be on the floor, pt was
+intermittently given PRBCs when his Hct was low enough that
+there was concern for it causing symptoms. He only received plts
+on the floor one time per IR before they pulled out the HD
+catheter. He was followed closely by hematology while in the
+hospital who recommend the following treatment for his HLH:
+
+Unfortunately with HLH the patient's prognosis over the next
+year is very poor.
+
+# Sepsis/DIC: Mr. [**Known lastname 74316**] presented with hypotension, elevated
+WBC, elevated lactate, decreased haptoglobin, elevated PT/PTT,
+and elevated fibrinogen. No clear infectious source, possible
+liver or lung. Upon presentation pt was treated empirically with
+meropenem, levofloxacin from HAP with GN coverage since pt had
+been hospitalized and was on immunosuppression. He ultimately
+completed a 14 day course of meropenem. Culture data was
+ultimately all negative with the only positive micro test being
+a low CMV VL. ID started pt on Gancyclovir for ppx, and initial
+Acyclovir was stopped. Pt then suffered from neutropenia thought
+possible related to Gancyclovir vs ATG. Repeat CMV VLs were
+negative and Gancyclovir was stopped. Histo was negative so also
+okay to stop Ambisome. Pt had been on bactrim as an outpatient
+for PCP prophylaxis while on steroids, but this was changed to
+atovaquone due patients liver injury and concerns for bactrim
+involvement. Later in hospital course, pt was restarted on
+acyclovir for prophylaxis while on the steroids. Repeat CMV VL
+from [**2192-8-22**] was positive for 1,630 copies and he was restarted
+on Valganciclovir 900 mg PO BID with a plan for 3 weeks of
+treatment total after discharge. His CBC will need to be
+monitored daily to look for neutropenia, but has remained stable
+after 4 days of treatment.
+
+# Respiratory failure: Electively intubated on [**7-30**] and
+extubated on [**8-3**].  Post extubation maintained oxygen sats on
+nasal cannula and then on room air. Throughout admission pt
+continued to have cough, occasionally productive, and somewhat
+congested chest, but no evidence of infection was found and pt
+was not treated with Abx for PNA after initial presentation. Pt
+has hx of asthma and was previously on Advair. So neb tx and
+advair were given throughout hospitalization. Pt had CT of chest
+for f/u of new poorly well-defined round opacities and right mid
+and left lower lung, concerning for infection such as septic
+emboli or fungal. CT scans shows areas of opacity overall
+improving when compared to prior image in [**Month (only) 116**]. As per above, ID
+added Atovaquone for PCP [**Name9 (PRE) **] given that Bactrim can cause BM
+suppression and liver damage.
+
+# ATRIAL FIBRILLATION (AFIB): Pt developed A-fib on [**8-1**] which
+then resolved on [**8-4**]. This was likely related infection and
+respiratory distress. He was started on metoprolol 25mg [**Hospital1 **], he
+converted to sinus. Currently NSR. Metoprolol 25mg PO BID was
+continued throughout admission although pt did not have any more
+incidences of documented afib while on hospital.
+
+# Elevated LFTs: Uncertain about etiology initially, but after
+liver bx results were final the leading likelyhood is
+cholestatic drug induced liver injury [**3-20**] to bactrim. Overall
+improvement in LFT??????s, but t.bili was significantly elevated (38
+at one point). Tbili slowly came down over course of the next
+month although ALT and Alk phos remained stably somewhat
+elevated. The LFT improvement that was noted initially dis seem
+to correlate with ATG treatment.
+
+# Anemia: Hemolyzing. Schistocytes previously seen on smear.
+Hemophagocytosis seen in BM. Pt was intermittently transfused as
+noted above when Hct would get around 21 or when there was
+concern that pt was getting symptomatic from his anemia. Epogen
+was given with HD while pt was on dialysis. Once dialysis was
+discontinued, it was given MWF (4k units). As pt clinically
+stabilized, he was kept in the hospital by the concern that he
+continued to show evidence of red cell destruction.
+
+# Thrombocytopenia: Pt required plt transfusions in the ICU as
+initially his plts were low and somewhat labile. He was also
+transfused for liver biopsy. Once the patient was stable enough
+for the floor his plts ranged from 20k-80k. On the floor he was
+transfused plts once when IR took out the HD cath, but otherwise
+his transfusion parameter was set at spontaneous bleeding. The
+exact etiology of the low plts was never completely clear but it
+is likely multifactorial and related to HLH, medications, and
+overall health.
+
+# Neutropenia: Pt became neutropnic after 4 doses of ATG and 2
+doses of Gancyclovir which may have caused BM suppression.
+Counts quickly resolving after stopping offending meds. Once
+count improved pt was given last dose of ATG. Gancyclovir was
+kept off until [**8-24**] when a repeat CMV viral load was again
+suddenly positive. Low dose gancyclovir was restarted and WBC
+counts should be monitored daily.  Pt was then swtiched to
+Galvancyclovir as per ID and his WBC have been monitored and
+have been stable.  Will monitor his WBC while in [**Hospital 3782**] rehab to
+watch for recurrence of the neutropenia
+
+# Coagulopathy: Related to liver disease, infection, HLH. Pt did
+not need FFP. Pt was given vit K x 3 days early in admission.
+INR was stable around 1 for most of admission.
+
+# Renal failure: Received CVVHx 3 days. This was stopped on
+[**8-2**]. He then had microfiltration on the same day to help with
+diureses for extubation.  He was started on HD [**8-4**]. Stayed on
+HD until [**8-18**] with slow improvement of kidney function. After HD
+was stopped, Cr was observed for a few days and when it
+continued to show improvement down below 2, and pt continued to
+make very good urine output, his HD line was pulled by IR on
+[**8-23**]. Renal followed throughout course of disease and helped
+manage electrolytes and guide HD therapy.
+
+#Hyponatremia: Mr. [**Known lastname 74316**] developed hyponatremia on [**2192-8-28**]
+when he was autodiuresis after his kidney recovered from his
+ARF. His hyponatremia and autodiuresis is likely also related to
+poor glc control. He made up to 6.5L of urine 3 days prior to
+discharge. PLEASE FLUID RESTRICT TO 2.5L daily as his sodium
+improved with free water fluid restriction.
+
+# Hypertension: Pt had elevated BP that was worse with ATG
+infusion. He initially required Nitro drip for better BP
+control. This was discontinued quickly once control was achieved
+and he was restarted on his home dose of amlodipine 7.5mg which
+was then increased dose to 10mg Qday. HD also helped with BP
+control. Some additional control was provided by the metoprolol
+on which the patient was kept to control Afib.
+
+#Hyperglycemia: Pt not a diabetic, but glucose was elevated in
+the setting of high dose steroids and tube feeds. Managed with
+NPH of varying AM and PM doses with humalog ISS. Once tube feeds
+were stopped and oral intake restarted he again had to adjust
+NPH and ISS to keep sugars in an acceptable range. He is being
+discharged on NPH and an ISS.
+
+# Delerium: After patient was transferred to the floor from the
+ICU he developed delirium over the first weekend which
+manifested as inappropriate and sometimes violent actions with
+pt attempting to hit staff and spitting on staff. Pt had to be
+restrained with leather restraints for parts of two days because
+he was able to break out of the soft restraints despite his
+deconditioning. The first night this occurred pt had to be given
+haloperidol and ativan. Psych was then involved in care and
+recommended giving quitiapene QHs with extra prn doses as
+needed. Pt was on this regimen, with slow tapering of the QHs
+dose for the next two weeks, although delirium never again was
+an issue. Pt was intermittently mildly depressed about his body
+weakness and how long he had been in the hospital.
+.
+# Lung nodule: New poorly well-defined round opacities and right
+mid and left lower lung, concerning for infection such as septic
+emboli or fungal organisms. Chest CT  showed areas of opacity
+overall improving when compared to prior image in [**Month (only) 116**] (when he
+was previously admitted for what was thought to be TTP). This
+was thought to be related to prior pulmonary hemorrhage that is
+now resolving. Nodule will need follow-up as an outpatient after
+discharge.
+
+# HA: Early in admission, pt c/o bilateral frontal HA with no
+focal neurological deficits found on exam, however this was a
+new finding and given low platelet count this was concerning for
+head bleed. Head CT showed no IC bleeding or other acute
+process. HA resolved over next few days and was not an issue for
+the rest of admission.
+
+# Chest pain: pt had two episodes of epigastric pain which
+raised concerns for chest pain. At each time EKGs were
+unremarkable and cardiac enzymes did not show evidence of acute
+MI (although troponin was stably elevated in context of renal
+failure). Pt described pain as not unlike the GERD pain he
+occasionally had in the past, and both times pain seemed to
+resolve with a GI cocktail.
+
+# Insomnia: He had difficulty with sleeping during his hospital
+course and was started on trazodone qhs with good effect.
+
+Medications on Admission:
+1. Pantoprazole 40 mg PO once a day.
+2. Zyprexa 5 mg PO at bedtime: while on steroids.
+3. Fexofenadine 60 mg PO BID
+4. Sulfamethoxazole-Trimethoprim 800-160 mg One Tablet PO MWF
+5. Montelukast 10 mg PO DAILY
+6. Prednisone 50 mg PO DAILY
+7. Fluticasone-Salmeterol 500-50 [**Hospital1 **]
+8. B Complex-Vitamin C-Folic Acid 1 mg Capsule
+9. Calcium Acetate 667 mg Capsule Sig: Two (2) Capsule PO TID
+W/MEALS
+10. Amlodipine 7.5 mg PO DAILY
+11. Docusate Sodium 100 mg PO BID
+12. Polyethylene Glycol as needed for constipation.
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+2. Folic Acid 1 mg Tablet Sig: Five (5) Tablet PO DAILY (Daily).
+
+3. Morphine 15 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for pain: hold for sedation or RR<12.
+4. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation every four (4) hours as
+needed for wheeze.
+5. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily):
+hold for SBP<110.
+6. Atovaquone 750 mg/5 mL Suspension Sig: Two (2) servings
+(total 1500mg) PO DAILY (Daily).
+7. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+8. Tramadol 50 mg Tablet Sig: 0.5 Tablet PO Q6H (every 6 hours)
+as needed for moderate pain.
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours) as
+needed for GERD  symptoms.
+10. Labs and heme follow up
+Most recent dose being 175mg po BID. Cyclosporine goal trough is
+150-200 and should next be checked on [**2192-9-2**] and should be
+checked every 48 hrs. Check 1/2 hr prior to AM dose but give am
+dose after. Lab results including CBC and chem 10 should be
+faxed every 48 hrs as soon as test results come back to Dr.
+[**Last Name (STitle) **] [**Telephone/Fax (1) 638**] and to Dr. [**Last Name (STitle) 85488**] [**Telephone/Fax (1) 85489**].
+11. Follow up
+Needs transportation arranged for appointment at [**Hospital3 328**]
+with Dr. [**Last Name (STitle) 85490**] on [**2192-9-3**] at 1:15pm
+Needs transportation arranged for appointment with Dr.
+[**Last Name (STitle) **]/[**Last Name (STitle) 85488**] at [**Hospital3 **] on [**9-6**] at 2:30pm
+Needs transportation arranged for Infectious Disease appointment
+at [**Hospital3 **] on [**2192-9-13**]
+12. CMV viral load
+Plase check CMV viral viral load each Thursday, pls check CBC
+three x a week and chem 7 every other day for the next week and
+then once weekly.
+
+Pls fax CMV viral load and three x a week CBC and once a week to
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] infectious disease at [**Hospital1 **] or her RNS
+at ([**Telephone/Fax (1) 1353**]
+All questions regarding outpatient antibiotics should be
+directed to the infectious disease R.Ns. at ([**Telephone/Fax (1) 1354**]
+
+13. Cyclosporine Modified 25 mg Capsule Sig: Three (3) Capsule
+PO Q12H (every 12 hours).
+14. Cyclosporine Modified 100 mg Capsule Sig: One (1) Capsule PO
+Q12H (every 12 hours).
+15. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day): hold loose stool.
+16. Epoetin Alfa 4,000 unit/mL Solution Sig: One (1) dose
+Injection QMOWEFR (Monday -Wednesday-Friday).
+17. Maalox
+15ml po TID prn for gerd sx
+18. Ondansetron 8 mg IV Q8H:PRN Nausea
+19. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+20. Insulin
+pls continue attached insulin SS, AM NPH increased from 26-28 to
+start on [**2192-9-2**]
+21. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for Constipation.
+22. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) as needed for Delerium and Agitation: has not been
+needing recently.
+23. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+DAILY (Daily) as needed for pruritis.
+24. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed for insomnia.
+25. Valganciclovir 450 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day): last dose expected to be [**2192-9-15**] unless told
+otherwise by infectious disease doctor.
+26. Magnesium 300 mg Capsule Sig: One (1) Capsule PO twice a
+day: pls increase dosing if magnesium is low.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 5503**] [**Hospital **] Hospital - [**Location (un) 5503**]
+
+Discharge Diagnosis:
+Primary Diagnosis:
+-Hemophagocytic lymphohistiocytosis
+-Acute on chronic renal failure
+-Liver failure due to drug rxn
+-Cytomegalovirus
+
+Secondary Diagnosis:
+- Asthma
+- Allergies
+- Hypercholesterolemia
+
+
+Discharge Condition:
+Alert and oriented x3
+Unable to ambulate independently
+Full code
+
+
+Discharge Instructions:
+Mr. [**Known lastname 74316**] as you know you had a difficult hospital course but
+we are very pleased that you are well enough now to go to rehab.
+ You originally came in with low blood pressure, bleeding, renal
+failure, liver failure, and hemolysis (destruction of your red
+blood cells and platelets.  You required intubation in the
+intensive care unit and transfusions of blood and platelets.
+Your liver biopsy ultimately showed your liver problems were due
+to a drug reaction, likely bactrim so you were changed from
+bactrim to atovaquone. Your liver has been slowly recovering.
+Your kidney function has improved and you no longer require
+hemodialysis. You are urinating a lot as a result of your
+improved renal function which caused your sodium levels to
+decrease. This improved with getting IV fluids.
+
+You had 2 bone marrow biopsies that ultimately diagnosed
+hemophagocytic lymphohistiocytosis which as you know is a very
+serious disease. You were originally treated with ATG and
+steroids but later switched to cyclosporine.  Our hematologists
+will give your rehab advice on how to continue treatment with
+cyclosporine. You are also going to [**Hospital3 328**] on Monday for a
+second opinion which we encourage you to do. You have this
+appointment on [**2192-9-3**].
+
+You currently have an infection called CMV which is being
+treated with valgancyclovir which you will continue atleast
+until [**2192-9-15**].
+
+PLEASE TAKE ONLY THOSE MEDICATIONS FOUND ON THE ATTACHED LIST
+
+Followup Instructions:
+Please let Mrs. [**Known lastname 74316**] and the inpatient team know that I have
+arranged for Mr. [**Known lastname 74316**] to be seen at [**Company 2860**] by [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 85491**]
+(expert in HLH wrote the uptodate card) on [**2192-9-3**] at 1:15, [**Location (un) **] of [**Hospital3 328**] Phone: [**Telephone/Fax (1) 85492**]
+
+.
+*We are working on an appointment for you to be seen in our
+Dermatology department.  The office will contact you with an
+appointment.  Please call ([**Telephone/Fax (1) 8132**] if you do not hear from
+them.
+
+Department: HEMATOLOGY/ONCOLOGY
+When: THURSDAY [**2192-9-6**] at 2:30 PM
+With: [**First Name8 (NamePattern2) 25**] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 22**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: THURSDAY [**2192-9-6**] at 2:30 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 647**], MD [**Telephone/Fax (1) 22**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: INFECTIOUS DISEASE
+When: THURSDAY [**2192-9-13**] at 11:30 AM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 10000**], MD [**Telephone/Fax (1) 457**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Hospital 1422**]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+
+

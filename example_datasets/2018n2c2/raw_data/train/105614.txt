@@ -1,0 +1,371 @@
+Admission Date:  [**2113-6-15**]              Discharge Date:   [**2113-6-20**]
+
+Date of Birth:  [**2031-6-5**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Vancomycin
+
+Attending:[**First Name3 (LF) 425**]
+Chief Complaint:
+infected PPM
+
+Major Surgical or Invasive Procedure:
+lead and pacemaker extraction
+Temporary pacer
+Pacer insertion left chest
+
+
+History of Present Illness:
+Mr [**Known lastname **] is an 82-yo man with complete heart block s/p dual
+chamber [**Company **] pacemaker [**10/2101**] with RV lead revision [**2-/2112**]
+and recent device infection in [**1-/2113**], hypertension,
+dyslipidemia, GERD, and BPH, who presented today with continued
+device infection for lead and device extraction. The procedure
+was prolonged due to significant fibrosis of the pacer leads,
+and he was noted to have purulent material that was extracted
+and sent to the microbiology lab for analysis. Given his history
+of complete heart block and hypotension with his ventricular
+escape rhythm, a temporary screw-in external pacemaker was
+placed in the right IJ. Intra-operative TEE was unremarkable,
+but he did require Neosynephrine in the OR for hypotension that
+was thought to be due to the prolonged anesthesia. Given the
+significant infection, the wound was left open, to close by
+secondary intention, with plan to treat with IV antibiotics over
+the weekend and re-implant a pacemaker next week.
+.
+With regards to the recent device infection in [**2113-1-12**],
+this was initially treated with IV vancomycin, but that was
+discontinued due to development of fever and rash. He was
+instead treated with a full course of IV linezolid. The site was
+noted to have significantly improved, and he was seen in [**Hospital **]
+clinic at the end of [**Month (only) 404**] at which point the site was
+considered to be healed. Per the patient, the site was stable
+for over 3 months, but he then developed a new area of erythema
+over the left lateral aspect of the pocket, with blistering. He
+was seen for this complaint in [**Hospital **] clinic on [**2113-6-7**]. He denies
+any fevers or chills but has been experiencing pain at the
+pacemaker site with his usual activity. His WBC was 5.1 with a
+normal differential on [**2113-6-12**], and he was admitted today for
+lead and device extraction for continued infection versus new
+pocket site infection.
+.
+On arrival to the CCU, the patient was hypotensive with SBP in
+the 60s. He received a 200cc NS IVF bolus with improvement to
+the 90s. He complains of left-sided chest pain as well as pain
+and tingling in his fingers bilaterally, left worse than right.
+There is no weakness or numbness of the hands. The pains are
+intermittent. ECG showed V-pacing at 60 bpm. STAT TTE showed no
+obvious effusion or depressed ventricular function, and STAT CXR
+was also unremarkable. His external pacemaker rate was increased
+from 60 to 80 bpm. IV Linezolid was started for possible
+septicemia. He did not require any further IVF or vasopressor
+support.
+.
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. All of the other review of systems were
+negative.
+.
+Cardiac review of systems is notable for absence of dyspnea on
+exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+palpitations, syncope or presyncope.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: +Diabetes, +Dyslipidemia, +Hypertension
+
+2. CARDIAC HISTORY:
+-CABG: None.
+-PERCUTANEOUS CORONARY INTERVENTIONS: None.
+-PACING/ICD: [**2101**] ([**Company 1543**] Sensi SEDR01)
+3. OTHER PAST MEDICAL HISTORY:
+* Complete heart block status post initial permanent pacemaker
+implantation in [**2101**] with subsequent RV lead revision and
+generator change in [**2112-2-12**] (Dual Chamber [**Company 1543**]
+Sensia SEDR01).
+* Device infection in [**2113-1-12**], initially treated with IV
+vancomycin, which was discontinued due to development of fever
+and rash. Then treated with full course of IV linezolid.
+* Hypertension.
+* Hyperlipidemia.
+* GERD.
+* BPH.
+
+
+Social History:
+He is married with five grown children. He does not smoke and
+drinks only on occasion. No illicit drug use. He is a retired
+landscaper.
+
+Family History:
+His father died of emphysema, and his mother had diabetes. All
+five grown children are well and healthy. No family history of
+early MI, arrhythmia, cardiomyopathies, or sudden cardiac death;
+otherwise non-contributory.
+
+Physical Exam:
+VS: T= 95.8F, BP= 68/43, HR= 60, RR= 18, O2 sat= 100% 4L NC.
+GENERAL: WD/WN elderly man in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NC/AT. PERRL/EOMI. Sclera anicteric. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. MMM, OP clear.
+NECK: Supple, JVP not measurable [**2-13**] RIJ temporary pacer.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RRR, normal S1-S2, but muffled heart sounds. No m/r/g.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NT/ND. No HSM or tenderness. No abdominial
+bruits.
+EXTREMITIES: WWP, no c/c/e. No femoral bruits.
+SKIN: No rashes or lesions.
+NEURO: Awake, A&Ox3, moving all extremities appropriately.
+PULSES:
+Right: Femoral 2+ DP 1+ Radial 1+
+Left: Femoral 2+ DP 1+ Radial 1+
+
+
+Pertinent Results:
+[**2113-6-15**] 05:51PM BLOOD WBC-10.9# RBC-3.32* Hgb-10.0* Hct-29.6*
+MCV-89 MCH-30.1 MCHC-33.8 RDW-13.8 Plt Ct-202
+[**2113-6-15**] 05:51PM BLOOD PT-14.7* PTT-28.7 INR(PT)-1.3*
+[**2113-6-15**] 05:51PM BLOOD Glucose-137* UreaN-20 Creat-0.8 Na-141
+K-3.7 Cl-111* HCO3-20* AnGap-14
+[**2113-6-15**] 05:51PM BLOOD Calcium-7.6* Phos-2.9 Mg-1.6
+[**2113-6-20**] 09:00AM BLOOD WBC-7.8 RBC-3.29* Hgb-10.0* Hct-29.4*
+MCV-89 MCH-30.4 MCHC-34.1 RDW-14.2 Plt Ct-222
+[**2113-6-19**] 06:20AM BLOOD PT-12.7 PTT-21.8* INR(PT)-1.1
+[**2113-6-20**] 09:00AM BLOOD Glucose-169* UreaN-23* Creat-1.0 Na-139
+K-4.4 Cl-102 HCO3-29 AnGap-12
+[**2113-6-19**] 06:20AM BLOOD Calcium-9.1 Phos-4.1 Mg-2.0
+
+[**2113-6-15**] 1:45 pm SWAB      LEFT SHOULDER.
+   GRAM STAIN (Final [**2113-6-15**]):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+   WOUND CULTURE (Preliminary):
+      SENSITIVITIES REQUESTED BY DR. [**First Name (STitle) 488**] .
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    RARE GROWTH.
+   ANAEROBIC CULTURE (Final [**2113-6-19**]):    NO ANAEROBES ISOLATED.
+
+
+Blood Cx [**6-16**] and [**6-17**] NGTD
+
+ECHO [**6-15**]
+The left atrium is markedly dilated. The left atrium is
+elongated. No spontaneous echo contrast or thrombus is seen in
+the body of the left atrium or left atrial appendage. No atrial
+septal defect is seen by 2D or color Doppler. Left ventricular
+wall thicknesses and cavity size are normal. There is moderate
+global left ventricular hypokinesis (LVEF = 35 - 40 %). The
+right ventricle displays mild to m oderate global free wall
+hypokinesis. There are complex (>4mm) atheroma in the aortic
+arch. There are complex (>4mm) atheroma in the descending
+thoracic aorta. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Trivial mitral regurgitation is seen. The tricuspid
+leaflets and pulmonic leaflets are not well seen. There is a
+trivial/physiologic pericardial effusion. Dr. [**Last Name (STitle) **] was
+notified in person of the results in the operating room at the
+time of the study.
+
+After lead extraction, there were no significant changes and no
+signs of an enlarging pericardial effusion.
+
+ECHO [**6-15**]
+There is symmetric left ventricular hypertrophy. The left
+ventricular cavity is very small. Left ventricular systolic
+function is hyperdynamic (EF>75%). There is no pericardial
+effusion.
+
+CXR: [**2113-6-20**]
+Since yesterday, right-sided dual-chamber pacemaker still ends
+in expected
+position. There is no pneumothorax. Small bilateral pleural
+effusion
+increased, still tiny. Hyperinflation is unchanged. The
+cardiomediastinal
+silhouette is stable. There is no other change.
+
+ECG:
+Baseline artifact. Sinus or atrial paced or ventricular paced
+rhythm.
+Since the previous tracing of [**2113-1-23**] atrial pacing is probably
+new at a faster
+rate.
+
+
+Brief Hospital Course:
+82-yo man with complete heart block s/p dual chamber pacemaker
+with RV lead revision and recent device infection who presented
+with continued device infection for lead and device extraction,
+found to have significant infection of the pacer pocket and lead
+fibrosis, now s/p external temporary pacemaker placement and
+awaiting treatment with IV antibiotics prior to re-implantation
+of permanent pacemaker.
+.
+# Infected pacemaker - He was seen for this complaint in [**Hospital **]
+clinic on [**2113-6-7**]. He denies any fevers or chills but has been
+experiencing pain at the pacemaker site with his usual activity.
+His WBC was 5.1 with a normal differential on [**2113-6-12**], and he was
+admitted on [**6-15**] for lead and device extraction. On arrival to
+the CCU, the patient was hypotensive with SBP in the 60s. He
+received a 200cc NS IVF bolus with improvement to the 90s. He
+complained of left-sided chest pain as well as pain and tingling
+in his fingers bilaterally, left worse than right. There is no
+weakness or numbness of the hands. The pains are intermittent.
+ECG showed V-pacing at 60 bpm. STAT TTE showed no obvious
+effusion or depressed ventricular function, CXR was also
+unremarkable. His external pacemaker rate was increased from 60
+to 80 bpm. He was started on IV Linezolid. He did not require
+any further IVF or vasopressor support.  The patient underwent
+pacer and lead extraction on [**2113-6-15**] without complication. A
+temporary pacer was also placed after removal.  The patient
+remained stable and blood cx were NGTD.  He was seen by ID who
+recommended 2 weeks of linezolid from pacer extraction [**2113-6-15**].
+The patient had a new pacemaker placed on [**2113-6-19**] without
+complication.  CXR showed no PTX and leads in proper position.
+His wound culture eventually grew coag-neg staph.  The patient
+will have both ID and EP follow-up with weekly labs.   The
+patient remained afebrile and pacemaker was working properly.
+
+# complete heart block (rhythm) - See above for management of
+pacemaker. The patient had his lead and pacer extracted on
+[**2113-6-15**]. A temporary external pacemaker in right IJ was placed.
+He was monitored on tele. A new pacemaker was placed on [**2113-6-19**]
+without complication.
+
+# coronaries - The patient has no known CAD or findings of CAD
+on ECG.  He remained chest pain free. He was continued on home
+ASA.
+.
+# pump - The patient had an intra-op EF 35-40% with moderate
+global LV hypokinesis. He remained clinically euvolemic.
+
+# hypertension - The patient's anti-hypertensives were intially
+held secondary to his hypotension.  Once his pressures had
+stabilzed he was restarted on lisinopril 10mg and home
+metoprolol succinate 12.5mg at the time of discharge.
+
+# dyslipidemia - stable, continued home statin
+.
+# diabetes - stable, continued home Actos and ISS. He was also
+continued on a diabetic diet.
+
+# GERD - stable, continued home H2B
+
+# BPH - His flomax was initally held secondary to hypotension,
+but restarted once stable.
+
+Medications on Admission:
+Lisinopril 20mg daily
+Lovastatin 20mg daily
+Metoprolol succinate 12.5mg daily
+Actos 15mg daily
+Zantac 150mg daily PRN
+Flomax 0.4mg daily
+Aspirin 325 mg daily
+Vitamin C 500mg daily
+Vitamin B12 500mcg daily
+Glucosamine-Chondroitin 500mg-400mg daily
+Loratadine 10mg QHS
+Multivitamin daily
+Aleve 220mg daily PRN
+Vitamin E 400unit daily
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Tylenol 325 mg Tablet Sig: 1-2 Tablets PO four times a day as
+needed for pain.
+3. Lovastatin 20 mg Tablet Sig: One (1) Tablet PO daily ().
+4. Pioglitazone 15 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily) as needed for indigestion.
+6. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: 0.5 Tablet Sustained Release 24 hr PO once a day.
+7. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. Vitamin E 400 unit Tablet Sig: One (1) Tablet PO once a day.
+
+9. Cyanocobalamin 500 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. Loratadine 10 mg Tablet Sig: One (1) Tablet PO at bedtime.
+11. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+13. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+14. Outpatient Lab Work
+Please draw CBC on [**2113-6-27**] when pt comes to see Dr. [**Last Name (STitle) **],
+call results to the ID fellow Dr. [**Last Name (STitle) **] at [**Telephone/Fax (1) 432**]
+15. Outpatient Lab Work
+Please check CBC by VNA on [**2113-7-4**] and call results to ID
+fellow, Dr. [**Last Name (STitle) **] at [**Hospital1 18**] at [**Telephone/Fax (1) 432**].
+16. Linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every
+12 hours) for 9 days: last day [**2113-6-28**].
+Disp:*18 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Community VNA, [**Location (un) 8545**]
+
+Discharge Diagnosis:
+Complete Heart Block
+Pacemaker site infection
+
+
+Discharge Condition:
+stable.
+
+
+Discharge Instructions:
+You had a pacemaker pocket infection that necessitated the
+pacemaker to be removed and another pacemaker was placed on the
+right side of your chest. You are on Linezolid antibiotic to
+treat this infection. You will be seen by Dr. [**Last Name (STitle) **] in 1
+week to look at the new pacemaker and the old pacemaker site.
+While you are on the antibiotics, you will need to have weekly
+labs checked. This can be done by the VNA. A plastic surgeon saw
+your left chest wound. They feel that it will heal well and
+deferred care to Dr. [**Last Name (STitle) **].
+New medicines:
+1. Linezolid: an antibiotic to treat the pocket infection.
+Please follow the dietary restrictions given to you by Dr.
+[**Last Name (STitle) **].
+2. Please decrease your Lisinopril to 10 mg at night. This may
+be increased again by Dr. [**Last Name (STitle) **].
+.
+Please do not take any showers until Dr. [**Last Name (STitle) **] tells you to.
+You may take a bath and wash your hair but don't get the pacer
+dressings wet. If the dressings fall off, cover with dry sterile
+gauze and tape. NO lifting more than 5 pounds with your right
+arm, no lifting that arm over your head.
+.
+Please call Dr. [**Last Name (STitle) **] if you have any fevers, chills,
+sweating, increasing redness or pain at either pacer site, light
+headedness, chest pain or any other worrying symptoms.
+
+Followup Instructions:
+DEVICE CLINIC Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2113-6-27**] 11:00
+.
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1008**], M.D. Phone:[**Telephone/Fax (1) 62**]
+Date/Time:[**2113-6-27**] 12:20
+.
+Primary Care:
+PCP: [**Name10 (NameIs) **],[**Name11 (NameIs) 20**] [**Name Initial (NameIs) **]. Phone: [**Telephone/Fax (1) 77179**] Date/Time: Please
+make an appt to be seen in [**2-14**] weeks.
+
+
+
+Completed by:[**2113-6-20**]

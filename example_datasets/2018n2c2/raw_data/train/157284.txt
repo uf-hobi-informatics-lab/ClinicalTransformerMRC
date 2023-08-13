@@ -1,0 +1,350 @@
+Admission Date:  [**2121-4-12**]              Discharge Date:   [**2121-4-17**]
+
+Date of Birth:  [**2048-8-25**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ibuprofen / Codeine / Pulmicort / Aspirin / Erythromycin Base
+
+Attending:[**First Name3 (LF) 1363**]
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mrs. [**Known lastname 25006**] is a 72 year old female with a history of stage
+IIIA carcinosarcoma of the uterus, stage I mucinous carcinoma of
+the ovary, rheumatoid arthritis and hypertrophic cardiomyopathy
+with aortic stenosis who presents with hypotension.  The patient
+states that she has had SBP in the upper 80s to 90s for the past
+month.  Yesterday, her VNA noted that she was hypotensive into
+the 80s and the patient felt lightheaded.  She went to the
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].  At the OSH ED she had erythema noted around her
+ankles bilaterally and low grade temps, but no leukocytosis.
+She was found to be in acute renal failure with a creatinine of
+2.2.  In the ED she received IVFs at 1/2 NS at 100 cc/hr with
+blood pressures improving to the 90s (which is her baseline);
+she was mentating well.  She was empirically covered with Zosyn.
+ Her CXR was clear, however she was mildly hypoxemic after
+receiving IVF for her hypotension.  Normally, she does not have
+an oxygen requirement and is 96 - 97% on room air, however she
+was noted to be 88-89%, with ABG showing: 7.39/39/57/24 on room
+air.  V/Q scan and LENIs were obtained given hypoxia and were
+negative. Zosyn was stopped and she was started on cefepime and
+vancomycin. Serial troponins were also negative.  BNP 371.  This
+evening she was receiving 1/2NS at 100 cc/hr prior to transfer.
+.
+On arrival to the ICU the patient was comfortable and denied any
+shortness of breath.  She has had increasing bilateral lower
+extremity edema for the past two months.  She believes the
+redness in her legs came on suddenly yesterday, but does recall
+having similar redness in her legs toward the end of her
+chemotherapy several years ago.
+.
+Review of sytems:
+(+) Per HPI, + chills after chemo for a few hours, resolved.
+(-) Denies fever. Denies headache, sinus tenderness, rhinorrhea
+or congestion. Denied cough, shortness of breath. Denied chest
+pain or tightness, palpitations. Denied nausea, vomiting,
+diarrhea, constipation or abdominal pain. No recent change in
+bowel or bladder habits. No dysuria. Denied arthralgias or
+myalgias.
+
+
+Past Medical History:
+# History of a stage IIIA carcinosarcoma of the uterus and a
+stage I mucinous carcinoma of the ovary.  The patient underwent
+an optimal cytoreductive surgery in [**10/2116**] followed by six
+cycles of Taxol and carboplatin in 02/[**2117**].  Followed by Dr.
+[**Last Name (STitle) 34319**] [**Name (STitle) **] of onc and Dr. [**First Name8 (NamePattern2) 402**] [**Last Name (NamePattern1) **] of
+
+OB/GYN.  Currently undergoing carboplatin therapy, on cycle 2
+and received last dose [**2121-4-10**].
+# Uterine duplication
+# Congenitally absent left kidney
+# Hypertension
+# Hypercholesterolemia
+# Rheumatoid arthritis
+# Polycythemia
+# Aortic stenosis
+# Hypertrophic cardiomyopathy
+
+Surgical: repair of deviated septum and reduction of nasal
+turbinates
+
+
+Social History:
+Lives alone.  Independent with most ADLs.  Has a house cleaner
+who comes once a week and a visiting nurse a couple of times a
+week.  Never smoked.  Drinks ETOH rarely. Denies recreational
+drugs.
+
+
+Family History:
+First cousin: breast cancer. No family hx of ovarian or colon
+cancer.
+
+Physical Exam:
+Vitals: T: 100.4 BP: 120/50 P: 101 R: 18 O2: 97% 2L NC
+General: Elderly caucasian female in no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, no LAD
+Lungs: Bibasilar crackles, no wheezes, or ronchi
+CV: Tachycardic, regular rhythm, normal S1 + S2, harsh [**5-20**]
+systolic murmur heard throughout.
+Abdomen:  soft, non-tender, non-distended, decreased bowel
+sounds
+GU: no foley
+Ext: Bilateral lower legs are warm and erythematous.  2+ pitting
+edema almost to the knees bilaterally.  2+ pedal pulses.
+***********
+On discharge: bibasilar crackles faint, 4/6 SEM harsh throughout
+precordium but most at RUSB and LUSB, 2+ pitting edema to knees
+b/l, shins mildly erythematous diffuse, compression stockings in
+place.
+
+
+Pertinent Results:
+Admission Labs:
+[**2121-4-12**] 08:21PM BLOOD WBC-11.7* RBC-3.59* Hgb-10.1* Hct-30.2*
+MCV-84 MCH-28.0 MCHC-33.3 RDW-16.7* Plt Ct-137*#
+[**2121-4-12**] 08:21PM BLOOD PT-15.2* PTT-24.5 INR(PT)-1.3*
+[**2121-4-12**] 08:21PM BLOOD Glucose-118* UreaN-32* Creat-1.3* Na-137
+K-3.6 Cl-103 HCO3-24 AnGap-14
+[**2121-4-12**] 08:21PM BLOOD ALT-15 AST-31 AlkPhos-71 TotBili-0.5
+[**2121-4-12**] 08:21PM BLOOD Calcium-8.3* Phos-3.0 Mg-1.4*
+.
+Discharge labs:
+[**2121-4-17**] 07:00AM BLOOD WBC-11.4* RBC-3.29* Hgb-9.3* Hct-28.1*
+MCV-85 MCH-28.2 MCHC-33.1 RDW-16.7* Plt Ct-209
+[**2121-4-17**] 07:00AM BLOOD Glucose-84 UreaN-21* Creat-0.8 Na-138
+K-4.1 Cl-100 HCO3-31 AnGap-11
+.
+CA-125: 746
+.
+[**4-13**] CXR:
+Severe cardiac enlargement has increased, consistent with
+progressive
+cardiomegaly and/or pericardial effusion. The most significant
+change has
+been the great increase in size of multiple large pulmonary
+nodules. There is no good evidence for pneumonia and none for
+pulmonary edema, nor is pleural effusion substantial.
+.
+[**4-14**] Echo:
+IMPRESSION: Small, hypertrophied, hyperdynamic left ventricle.
+There is a severe resting LVOT gradient. The aortic valve is
+severely thickened with significant stenosis (unable to estimate
+valve are due to difficulty in measuring LVOT diameter and
+presence of LVOT obstruction). Mild to moderate mitral
+regurgitation. Small, circumferential effusion without evidence
+of tamponade.
+Compared with the prior study (images reviewed) of [**2121-2-3**],
+the findings are similar.
+.
+[**4-14**] ECG:
+Sinus tachycardia with atrial premature beats and ST-T wave
+abnormalities.
+Since the previous tracing of [**2121-2-17**] the rate is faster and the
+QRS voltage in lead aVL is less prominent with a more vertical
+axis. ST-T wave abnormalities are more prominent. Clinical
+correlation is suggested.
+.
+[**4-16**] CTA:
+1. Interval progression with larger pulmonary metastases,
+adenopathy and new hepatic metastasis.
+2. No pulmonary embolism or acute aortic syndrome.
+2. Mild pulmonary artery dilation with moderate pericardial
+effusion.
+
+Brief Hospital Course:
+Mrs. [**Known lastname 25006**] is a 72 year old female with stage IIIA
+carcinosarcoma of the uterus and a stage I mucinous carcinoma of
+the ovary undergoing carboplatin chemotherapy who presents with
+hypotension.
+
+# Hypotension - Etiology remained unclear. Differential
+diagnosis included sepsis (perhaps [**3-18**] cellulitis of LE's, but
+without other obvious infectious source), hypovolemia (but
+appeared volume overloaded on exam), CHF with 3rd spacing of
+volume but intravascular volume depletion, versus medication
+(chemotherapy) side effect.  Differential also included
+pericardial effusion and tamponade - ruled out by TTE. With
+treatment of CHF (diuresis with one-time doses of lasix) and of
+cellulitis (with antibiotics), saw patient's BP improve.
+Antihypertensives held during hospitalization and on discharge.
+Appears patient's baseline SBP is in the 90s. Patient ambulated
+without lightheadedness.
+.
+# Hypoxia - Developed in OSH ED after she received IVF for her
+hypotension; in the setting of AS and hypertrophic
+cardiomyopathy, likely became volume overloaded. Was voume
+overloaded on exam, with crackles, peripheral edema, weight
+elevation, BNP elevation. Other possibilites include worsening
+of HOCM, or worsened diffuse pulmonary metastasis as seen on CT
+in [**2121-2-14**] which may have further reduced pulmonary
+reserve. With diuresis, patient's oxygen requirement resolved,
+albeit slowly. CTA was done to rule out PE - negative for PE.
+Patient ambulated without SOB and without desaturation. In fact,
+SpO2 improved with ambulation, so perhaps there was an
+atelectatic component (heard as crackles at the bases perhaps)
+that improved with opening up of airways upon ambulation.
+.
+# Cellulitis - Bilateral erythema and warmth of lower legs on
+exam.  Could be cellulitis vs. hyperemia from edema vs. reaction
+to chemotherapy medications (patient reports redness in legs
+previously when on this chemotherapy regimen). Patient treated
+with vancomycin and then keflex. Patient diuresed with lasix
+one-time doses.
+.
+# Acute renal failure - Baseline creatinine around 1 and 1.0 on
+[**4-10**].  Was 2.2 at OSH and became 1.3 after getting IV hydration.
+Seemed pre-renal etiology given improvement in creatinine w/ IV
+fluids; then patient was diuresed for CHF/volume overload
+concern, and Cr continued to improve down to 0.8.
+.
+# Tachycardic runs - appear to be SVT (narrow complex, regular,
+no P waves, came on/off suddenly), seen intermittently and
+asymptomatic. Ruled out PE with CTA.
+.
+# Normocytic Anemia - Was 32.8 at OSH; after receiving fluids
+HCT has fallen further to 30. Baseline is 35 - 40. Not
+clinically bleeding. Perhaps due to chemotherapy.
+.
+# Thrombocytopenia - 137 down from 700 earlier. Likely  related
+to marrow suppression from chemotherapy.
+.
+# Asthma history? - continued home regimen of singulair,
+fluticasone prn, and formulary exchange maxair with albuterol.
+.
+# Hypercholesterolemia - patient no longer taking fenofibrate
+d/t concern for possible side effects.  Takes fluvastatin every
+other day - formulary exchanged with pravastatin.
+.
+# Uterine & Ovarian cancer - plan for next chemotherapy on
+Thursday [**4-24**], as an inpatient, due to concerns for side
+effects and desire for o/n monitoring.
+.
+Code:  DNR/DNI noted in chart on [**2121-4-10**] at oncology visit.
+Confirmed with patient.
+.
+Brother is HCP ([**Telephone/Fax (1) 34320**]
+
+Medications on Admission:
+Fluticasone [Flonase] prn
+Fluvastatin [Lescol] 20 mg every other day
+Furosemide 20 mg daily
+HYZAAR (HCTZ/Losartan) 100-25MG QAM
+Montelukast [Singulair] 10 mg QHS
+Pantoprazole 40 mg daily
+Pirbuterol [Maxair Autohaler]
+Potassium Chloride [K-Tab] 10 mEq daily
+Prochlorperazine Maleate 10 mg [**Hospital1 **] after chemotherapy
+Verapamil 120 mg Cap,24 hr Sust Release daily (dose recently
+decreased from 240 mg daily)
+Calcium-Vitamin D3-Vitamin K [Viactiv]
+Docusate Sodium 100 mg daily
+Loratadine [Claritin] 10 mg daily
+Multi-Vitamin daily
+
+
+Discharge Medications:
+1. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: Two (2)
+Spray Nasal [**Hospital1 **] (2 times a day) as needed for nasal stuffiness.
+
+2. Fluvastatin 20 mg Capsule Sig: One (1) Capsule PO every other
+day.
+3. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day.
+4. Montelukast 10 mg Tablet Sig: One (1) Tablet PO at bedtime.
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. Maxair Autohaler 200 mcg/Inhalation Aerosol Breath Activated
+Inhalation
+7. K-Tab 10 mEq Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO once a day.
+8. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO
+twice a day: after chemotherapy.
+9. Viactiv  Oral
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+11. Claritin 10 mg Tablet Sig: One (1) Tablet PO once a day.
+12. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+13. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q12H
+(every 12 hours) for 3 days: Take until Saturday night.
+Disp:*5 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **] VNA
+
+Discharge Diagnosis:
+Hypoxia
+Volume (fluid) overload
+Carcinosarcoma of the uterus
+Mucinous carcinoma of the ovary
+Cellulitis
+Hypotension
+
+
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - Independent
+
+
+Discharge Instructions:
+You were admitted to the hospital with low oxygen, low blood
+pressure, and leg redness/swelling. We believe that your
+symptoms were due to fluid overload, so you were diuresed with
+lasix and your breathing (oxygen level) improved. We ruled out a
+clot in the lungs, and did an echocardiogram to show that your
+heart function was similar to previously. We are treating you
+for a skin infection of the legs, with antibiotics, and your
+legs are improving in terms of their redness, pain, and
+swelling. It is unclear why your blood pressure was low, but
+with diuresis (fluid removal) and treatment of infection, your
+blood pressure improved up to baseline.
+.
+You spent time in the ICU, and then on the regular oncology
+floor.
+.
+On discharge, you were walking well without a need for oxygen,
+your blood pressure had improved/elevated, and your leg symptoms
+were improving.
+.
+The following changes were made to your medication regimen:
+- take Keflex (cephalexin), an antibiotic, twice a day until the
+evening of [**4-19**]
+- do NOT take your Hyzaar (HCTZ/Losartan) or Verapamil, until
+next week when you see your cardiologist or come to the hospital
+for chemotherapy (we are holding these medications temporarily
+because of your borderline-low blood pressure)
+.
+Please call your doctor or return to the hospital if you develop
+chest pain, shortness of breath, weight gain greater than 2
+pounds, palpitations, difficulty breathing, abdominal pain,
+worsening leg swelling/redness/pain, lightheadedness.
+
+Followup Instructions:
+Please come to [**Hospital1 18**] and go to the [**Location (un) 436**] of the [**Hospital Ward Name 1950**]
+building on Thursday [**4-24**], at approximately 9 AM. Please
+present to the Oncology front desk. You will then have
+chemotherapy that day, and spend that night overnight in the
+hospital.
+.
+Please remember to see your cardiologist, at the following
+previously-scheduled appointment:
+Provider: [**First Name11 (Name Pattern1) 2053**] [**Last Name (NamePattern4) 2761**], MD Phone:[**Telephone/Fax (1) 62**]
+Date/Time:[**2121-4-21**] 1:40
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD, [**MD Number(3) 1368**]
+
+Completed by:[**2121-4-20**]

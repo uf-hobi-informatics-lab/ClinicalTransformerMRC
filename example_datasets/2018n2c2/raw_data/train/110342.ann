@@ -1,0 +1,88 @@
+T1	Drug 7662 7673	Cefpodoxime
+T2	Drug 7073 7084	Ceftriaxone
+T3	Drug 5258 5267	OXACILLIN
+T4	Drug 8331 8343	azithromycin
+T5	Drug 5134 5145	CLINDAMYCIN
+T6	Drug 7085 7097	Azithromycin
+T7	Reason 7114 7117	CAP
+T8	Drug 7632 7643	Ceftriaxone
+T9	Drug 8348 8359	cefpodoxime
+T10	Strength 10162 10168	250 mg
+T11	Duration 10180 10192	for two days
+T12	Frequency 10169 10175;10176 10179	once a day
+T13	Drug 10149 10160;10160 10161	azithromyci n
+T15	Strength 10098 10104	200 mg
+T16	Duration 10117 10129	for two days
+T17	Frequency 10105 10112;10113 10116	twice a day
+T18	Drug 10086 10096;10096 10097	cefpodoxim e
+T19	Drug 5289 5301;5301 5307	TRIMETHOPRIM /SULFA
+T20	Drug 5227 5239	LEVOFLOXACIN
+T21	Drug 5165 5177	ERYTHROMYCIN
+T22	Drug 8688 8699	Cefpodoxime
+T23	Strength 8700 8706	100 mg
+T24	Duration 8759 8769	for 3 days
+T25	Route 8734 8736	PO
+T26	Drug 5196 5206	GENTAMICIN
+T27	Drug 8064 8070	fluids
+T28	Duration 8310 8315	7 day
+T29	Form 8707 8713	Tablet
+T30	Dosage 8719 8726	Two (2)
+T31	Form 8727 8733	Tablet
+T32	Frequency 8737 8748;8749 8758	Q12H (every 12 hours)
+T33	Drug 8806 8818	Azithromycin
+T34	Strength 8819 8825	250 mg
+T35	Form 8826 8832	Tablet
+T36	Dosage 8838 8845	One (1)
+T37	Form 8846 8852	Tablet
+T38	Route 8853 8855	PO
+T39	Frequency 8856 8866	once a day
+T40	Duration 8867 8877	for 2 days
+T41	Reason 9312 9321	pneumonia
+T42	Drug 9327 9339	antiobiotics
+R1	Strength-Drug Arg1:T10 Arg2:T13
+R2	Duration-Drug Arg1:T11 Arg2:T13
+R3	Frequency-Drug Arg1:T12 Arg2:T13
+R4	Strength-Drug Arg1:T15 Arg2:T18
+R5	Duration-Drug Arg1:T16 Arg2:T18
+R6	Frequency-Drug Arg1:T17 Arg2:T18
+R7	Strength-Drug Arg1:T23 Arg2:T22
+R8	Duration-Drug Arg1:T24 Arg2:T22
+R9	Route-Drug Arg1:T25 Arg2:T22
+R10	Reason-Drug Arg1:T7 Arg2:T6
+R11	Reason-Drug Arg1:T7 Arg2:T2
+R13	Duration-Drug Arg1:T28 Arg2:T9
+R14	Duration-Drug Arg1:T28 Arg2:T4
+R15	Form-Drug Arg1:T29 Arg2:T22
+R16	Dosage-Drug Arg1:T30 Arg2:T22
+R17	Form-Drug Arg1:T31 Arg2:T22
+R18	Frequency-Drug Arg1:T32 Arg2:T22
+R19	Strength-Drug Arg1:T34 Arg2:T33
+R20	Duration-Drug Arg1:T40 Arg2:T33
+R21	Form-Drug Arg1:T35 Arg2:T33
+R22	Dosage-Drug Arg1:T36 Arg2:T33
+R23	Form-Drug Arg1:T37 Arg2:T33
+R24	Route-Drug Arg1:T38 Arg2:T33
+R25	Frequency-Drug Arg1:T39 Arg2:T33
+R26	Reason-Drug Arg1:T41 Arg2:T42
+T43	Drug 7913 7921	contrast
+T44	ADE 7922 7933	nephropathy
+T45	Form 8780 8786;8786 8789	Tablet (s)
+T46	Drug 512 516	meds
+T47	Reason 471 473	TB
+T48	Duration 547 556	for 9 mos
+T49	ADE 7824 7843	Elevated creatinine
+T50	Form 8887 8896	Tablet(s)
+T51	Drug 9068 9072	drug
+T52	Reason 9035 9047	tuberculosis
+T55	Drug 10073 10084	antibiotics
+R27	Reason-Drug Arg1:T47 Arg2:T46
+R28	Duration-Drug Arg1:T48 Arg2:T46
+R29	Reason-Drug Arg1:T52 Arg2:T51
+R30	ADE-Drug Arg1:T44 Arg2:T43
+R31	ADE-Drug Arg1:T49 Arg2:T43	
+T56	Reason 7824 7843	Elevated creatinine
+R32	Reason-Drug Arg1:T56 Arg2:T27	
+R33	Form-Drug Arg1:T45 Arg2:T22	
+R34	Form-Drug Arg1:T50 Arg2:T33	
+T14	Route 8061 8063	IV
+R12	Route-Drug Arg1:T14 Arg2:T27	

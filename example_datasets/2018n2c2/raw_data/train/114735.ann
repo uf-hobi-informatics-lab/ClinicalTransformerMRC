@@ -1,0 +1,175 @@
+T1	Strength 7888 7894	200 mg
+T2	Dosage 7927 7928	1
+T3	Route 7939 7947	by mouth
+T4	Drug 1371 1377	Ativan
+T5	Strength 1378 1381	1mg
+T6	Strength 8469 8475	100 mg
+T7	Form 8476 8483	Capsule
+T8	Route 8499 8507	by mouth
+T9	Drug 6299 6307	dilantin
+T10	Drug 8336 8349;8350 8358	LEVETIRACETAM [KEPPRA]
+T11	Strength 8361 8367	500 mg
+T12	Form 8379 8385;8385 8388	Tablet (s)
+T13	Dosage 8377 8378	1
+T14	Route 8389 8397	by mouth
+T15	Drug 1473 1484	Ceftriaxone
+T16	Drug 10180 10193	Carbamazepine
+T17	Strength 10194 10199;10199 10205	400mg /600mg
+T18	Drug 7322 7332	vancomycin
+T19	Drug 719 731	Azithromycin
+T20	Drug 1246 1254	Atropine
+T21	Drug 10212 10218	Keppra
+T22	Strength 10219 10225;10225 10232	1500mg /2000mg
+T23	Drug 8422 8431;8432 8466	PHENYTOIN SODIUM EXTENDED [DILANTIN KAPSEAL]
+T25	Drug 6185 6193	dilantin
+T26	Drug 1707 1713	Ativan
+T27	Drug 7858 7871;7872 7885	CARBAMAZEPINE [TEGRETOL XR]
+T28	Form 7929 7935;7935 7938	Tablet (s)
+T29	Drug 7982 7994	FEXOFENADINE
+T30	Strength 7997 8002	60 mg
+T31	Form 8014 8020;8020 8023	Tablet (s)
+T32	Dosage 8012 8013	1
+T33	Frequency 8033 8044;8045 8047;8048 8054	twice a day as needed
+T34	Route 8024 8032	by mouth
+T35	Drug 10292 10300	Lamictal
+T36	Strength 10301 10305	25mg
+T37	Drug 9780 9790	vancomycin
+T38	Drug 2043 2057	hydrocortisone
+T39	Drug 10239 10248	Phenytoin
+T40	Strength 10249 10254;10254 10260	150mg /100mg
+T41	Drug 1036 1043	Azithro
+T42	Strength 1237 1242	0.5mg
+T43	Reason 1197 1208	bradycardia
+T44	Reason 1304 1309;1310 1321	grand mal seizure
+T45	Drug 1489 1497	Levoquin
+T46	Reason 1503 1506	PNA
+T47	Reason 1510 1516	sepsis
+T49	Strength 1714 1717	1mg
+T50	Reason 2002 2029	contact dermatitis in groin
+T51	Drug 6210 6222	Carbamazepin
+T52	Reason 7333 7344	emperically
+T53	Frequency 7948 7953	2/day
+T54	Form 7895 7919;7920 7924	Tablet Sustained Release 12hr
+T55	Form 8003 8009	Tablet
+T56	Drug 8172 8186	HYDROCORTISONE
+T57	Strength 8189 8194	2.5 %
+T58	Form 8195 8200	Cream
+T59	Frequency 8229 8236;8237 8250	twice a day as needed
+T60	Form 8368 8374	Tablet
+T61	Frequency 8398 8403	6/day
+T62	Frequency 8508 8513	2/day
+T63	Drug 8573 8602	TIMOLOL MALEATE [TIMOPTIC-XE]
+T64	Strength 8605 8610	0.5 %
+T65	Form 8611 8631	Gel Forming Solution
+T66	Dosage 8634 8635	1
+T67	Form 8636 8640	drop
+T68	Route 8641 8650	right eye
+T69	Frequency 8651 8655	q AM
+T70	Drug 8675 8685	BACITRACIN
+T71	Strength 8688 8701	500 unit/gram
+T72	Form 8702 8710	Ointment
+T73	Frequency 8719 8729	once daily
+T74	Drug 8738 8756	CARBAMIDE PEROXIDE
+T75	Strength 8759 8764	6.5 %
+T76	Form 8765 8770	Drops
+T77	Dosage 8773 8789	one dropper full
+T78	Route 8793 8801	each ear
+T79	Frequency 8802 8817	daily as needed
+T80	Reason 8822 8829	ear wax
+T81	Frequency 10206 10211	am/pm
+T82	Frequency 10233 10238	am/pm
+T83	Frequency 10261 10266	am/pm
+T84	Strength 10350 10354	25mg
+T85	Frequency 10355 10365	every week
+T86	Strength 10393 10398	150mg
+R1	Strength-Drug Arg1:T5 Arg2:T4
+R2	Strength-Drug Arg1:T11 Arg2:T10
+R3	Form-Drug Arg1:T12 Arg2:T10
+R4	Dosage-Drug Arg1:T13 Arg2:T10
+R5	Route-Drug Arg1:T14 Arg2:T10
+R6	Strength-Drug Arg1:T17 Arg2:T16
+R7	Strength-Drug Arg1:T22 Arg2:T21
+R8	Strength-Drug Arg1:T30 Arg2:T29
+R9	Form-Drug Arg1:T31 Arg2:T29
+R10	Dosage-Drug Arg1:T32 Arg2:T29
+R11	Frequency-Drug Arg1:T33 Arg2:T29
+R12	Route-Drug Arg1:T34 Arg2:T29
+R13	Strength-Drug Arg1:T36 Arg2:T35
+R14	Strength-Drug Arg1:T40 Arg2:T39
+R15	Reason-Drug Arg1:T43 Arg2:T20
+R16	Strength-Drug Arg1:T42 Arg2:T20
+R17	Reason-Drug Arg1:T44 Arg2:T4
+R18	Reason-Drug Arg1:T47 Arg2:T15
+R19	Reason-Drug Arg1:T47 Arg2:T45
+R20	Reason-Drug Arg1:T46 Arg2:T15
+R21	Reason-Drug Arg1:T46 Arg2:T45
+R23	Strength-Drug Arg1:T49 Arg2:T26
+R24	Reason-Drug Arg1:T50 Arg2:T38
+R25	Reason-Drug Arg1:T52 Arg2:T18
+R26	Form-Drug Arg1:T55 Arg2:T29
+R27	Frequency-Drug Arg1:T59 Arg2:T56
+R28	Form-Drug Arg1:T58 Arg2:T56
+R29	Strength-Drug Arg1:T57 Arg2:T56
+R30	Form-Drug Arg1:T60 Arg2:T10
+R31	Frequency-Drug Arg1:T61 Arg2:T10
+R32	Frequency-Drug Arg1:T69 Arg2:T63
+R33	Route-Drug Arg1:T68 Arg2:T63
+R34	Form-Drug Arg1:T67 Arg2:T63
+R35	Dosage-Drug Arg1:T66 Arg2:T63
+R36	Form-Drug Arg1:T65 Arg2:T63
+R37	Strength-Drug Arg1:T64 Arg2:T63
+R38	Frequency-Drug Arg1:T73 Arg2:T70
+R39	Form-Drug Arg1:T72 Arg2:T70
+R40	Strength-Drug Arg1:T71 Arg2:T70
+R41	Reason-Drug Arg1:T80 Arg2:T74
+R42	Frequency-Drug Arg1:T79 Arg2:T74
+R43	Route-Drug Arg1:T78 Arg2:T74
+R44	Dosage-Drug Arg1:T77 Arg2:T74
+R45	Form-Drug Arg1:T76 Arg2:T74
+R46	Strength-Drug Arg1:T75 Arg2:T74
+R47	Strength-Drug Arg1:T86 Arg2:T35
+R48	Frequency-Drug Arg1:T85 Arg2:T35
+R49	Strength-Drug Arg1:T84 Arg2:T35
+R50	Frequency-Drug Arg1:T83 Arg2:T39
+R51	Frequency-Drug Arg1:T82 Arg2:T21
+R52	Frequency-Drug Arg1:T81 Arg2:T16
+T87	Reason 648 653	cough
+T89	Drug 4999 5007	CONTRAST
+T90	Reason 4989 4991	CT
+T91	Drug 5166 5174	CONTRAST
+T94	ADE 6293 6298	toxic
+T95	Reason 8059 8067	rhinitis
+T96	Reason 8069 8077	sneezing
+T97	Route 8212 8228	areas of redness
+T98	Drug 9573 9584	antibiotics
+T99	Reason 9863 9872	infection
+T100	Drug 9998 10022	anti-seizure medications
+T101	Reason 9919 9926	seizure
+T105	Reason 998 1006	diarrhea
+T106	ADE 6239 6266	increased seizure frequency
+T107	Reason 8279 8283	rash
+R53	Reason-Drug Arg1:T90 Arg2:T89
+R54	Reason-Drug Arg1:T101 Arg2:T100
+R55	ADE-Drug Arg1:T106 Arg2:T9	
+R56	ADE-Drug Arg1:T94 Arg2:T9	
+R57	Reason-Drug Arg1:T87 Arg2:T19	
+R58	Reason-Drug Arg1:T105 Arg2:T41	
+R59	Strength-Drug Arg1:T1 Arg2:T27	
+R60	Form-Drug Arg1:T54 Arg2:T27	
+R61	Dosage-Drug Arg1:T2 Arg2:T27	
+R62	Form-Drug Arg1:T28 Arg2:T27	
+R63	Route-Drug Arg1:T3 Arg2:T27	
+R64	Frequency-Drug Arg1:T53 Arg2:T27	
+R65	Reason-Drug Arg1:T95 Arg2:T29	
+R66	Reason-Drug Arg1:T96 Arg2:T29	
+R67	Route-Drug Arg1:T97 Arg2:T56	
+R68	Reason-Drug Arg1:T107 Arg2:T56	
+R69	Strength-Drug Arg1:T6 Arg2:T23	
+R70	Form-Drug Arg1:T7 Arg2:T23	
+R72	Route-Drug Arg1:T8 Arg2:T23	
+R73	Frequency-Drug Arg1:T62 Arg2:T23	
+R75	Reason-Drug Arg1:T99 Arg2:T37	
+T24	Reason 1672 1693	rolled back right eye
+R71	Reason-Drug Arg1:T24 Arg2:T26	
+T88	Reason 1636 1650;1651 1665	rhythmic right shoulder jerks
+R74	Reason-Drug Arg1:T88 Arg2:T26	

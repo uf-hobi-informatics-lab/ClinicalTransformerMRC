@@ -1,0 +1,241 @@
+T1	Reason 1329 1332;1333 1340	INR of 2.97
+R1	Reason-Drug Arg1:T1 Arg2:T2
+T2	Drug 1354 1363	vitamin K
+T3	Strength 1364 1369	10 mg
+R2	Strength-Drug Arg1:T3 Arg2:T2
+T5	Drug 1574 1577	FFP
+T6	Drug 423 431	coumadin
+T7	Reason 433 441	parox AF
+R4	Reason-Drug Arg1:T7 Arg2:T6
+T8	Reason 5327 5344	INR was corrected
+R5	Reason-Drug Arg1:T8 Arg2:T9
+R6	Reason-Drug Arg1:T8 Arg2:T10
+R7	Reason-Drug Arg1:T8 Arg2:T11
+T9	Drug 5350 5359	vitamin K
+T10	Drug 5371 5381	Profilnine
+T11	Drug 5386 5389	FFP
+T12	Drug 5825 5828	ASA
+T13	Strength 5829 5831	81
+R8	Strength-Drug Arg1:T13 Arg2:T12
+T14	Frequency 5832 5834	qd
+R9	Frequency-Drug Arg1:T14 Arg2:T12
+T15	Drug 5858 5866	coumadin
+T16	Drug 5908 5916	coumadin
+T17	Drug 5918 5921	ASA
+T18	Drug 6049 6057	Coumadin
+T19	Strength 6058 6061	5mg
+R10	Strength-Drug Arg1:T19 Arg2:T18
+T20	Frequency 6062 6065	qhs
+R11	Frequency-Drug Arg1:T20 Arg2:T18
+T21	Strength 6090 6094	7 mg
+R12	Strength-Drug Arg1:T21 Arg2:T18
+T22	Frequency 6095 6098	qhs
+R13	Frequency-Drug Arg1:T22 Arg2:T18
+T23	Drug 6099 6102	ASA
+T24	Strength 6103 6108	81 mg
+R14	Strength-Drug Arg1:T24 Arg2:T23
+T25	Frequency 6109 6111	qd
+R15	Frequency-Drug Arg1:T25 Arg2:T23
+T26	Drug 6113 6123	Metoprolol
+T27	Strength 6124 6129	25 mg
+R16	Strength-Drug Arg1:T27 Arg2:T26
+T28	Drug 6148 6157	verapamil
+T29	Strength 6158 6161	240
+R17	Strength-Drug Arg1:T29 Arg2:T28
+T30	Frequency 6162 6164	qd
+R18	Frequency-Drug Arg1:T30 Arg2:T28
+T31	Drug 6166 6176	lisinopril
+T32	Strength 6177 6179	20
+R19	Strength-Drug Arg1:T32 Arg2:T31
+T33	Frequency 6180 6182	qd
+R20	Frequency-Drug Arg1:T33 Arg2:T31
+T34	Drug 6184 6194	Furosemide
+T35	Strength 6195 6200	20 mg
+R21	Strength-Drug Arg1:T35 Arg2:T34
+T36	Frequency 6201 6203	qd
+R22	Frequency-Drug Arg1:T36 Arg2:T34
+T37	Drug 6204 6222	Sinemet/ carbidopa
+T38	Strength 6224 6231	25/ 100
+R23	Strength-Drug Arg1:T38 Arg2:T37
+T39	Frequency 6232 6235	tid
+R24	Frequency-Drug Arg1:T39 Arg2:T37
+T40	Drug 6236 6243	Aricept
+T41	Strength 6244 6248	5 mh
+R25	Strength-Drug Arg1:T41 Arg2:T40
+T42	Frequency 6249 6251	qd
+R26	Frequency-Drug Arg1:T42 Arg2:T40
+T43	Drug 6253 6259	Celexa
+T44	Strength 6260 6262	20
+R27	Strength-Drug Arg1:T44 Arg2:T43
+T45	Frequency 6263 6265	qd
+R28	Frequency-Drug Arg1:T45 Arg2:T43
+T46	Drug 6267 6274	Bactrim
+T48	Strength 6278 6285	100/ 80
+R30	Strength-Drug Arg1:T48 Arg2:T46
+T49	Drug 6287 6315	Tolterodine (antimuscarinic)
+T50	Strength 6316 6319	7.5
+R31	Strength-Drug Arg1:T50 Arg2:T49
+T51	Frequency 6320 6322	qd
+R32	Frequency-Drug Arg1:T51 Arg2:T49
+T52	Drug 6323 6326	MVI
+T53	Drug 6355 6374	Metoprolol Tartrate
+T54	Strength 6375 6380	25 mg
+R33	Strength-Drug Arg1:T54 Arg2:T53
+T55	Form 6381 6387	Tablet
+R34	Form-Drug Arg1:T55 Arg2:T53
+T56	Dosage 6393 6400	One (1)
+R35	Dosage-Drug Arg1:T56 Arg2:T53
+T57	Form 6401 6407	Tablet
+R36	Form-Drug Arg1:T57 Arg2:T53
+T58	Route 6408 6410	PO
+R37	Route-Drug Arg1:T58 Arg2:T53
+T59	Frequency 6411 6414	BID
+R38	Frequency-Drug Arg1:T59 Arg2:T53
+T60	Drug 6435 6445	Lisinopril
+T61	Strength 6446 6451	20 mg
+R39	Strength-Drug Arg1:T61 Arg2:T60
+T62	Form 6452 6458	Tablet
+R40	Form-Drug Arg1:T62 Arg2:T60
+T63	Dosage 6464 6471	One (1)
+R41	Dosage-Drug Arg1:T63 Arg2:T60
+T64	Form 6472 6478	Tablet
+R42	Form-Drug Arg1:T64 Arg2:T60
+T65	Route 6479 6481	PO
+R43	Route-Drug Arg1:T65 Arg2:T60
+T66	Frequency 6482 6495	DAILY (Daily)
+R44	Frequency-Drug Arg1:T66 Arg2:T60
+T67	Drug 6501 6511	Furosemide
+T68	Strength 6512 6517	20 mg
+R45	Strength-Drug Arg1:T68 Arg2:T67
+T69	Form 6518 6524	Tablet
+R46	Form-Drug Arg1:T69 Arg2:T67
+T70	Dosage 6530 6537	One (1)
+R47	Dosage-Drug Arg1:T70 Arg2:T67
+T71	Form 6538 6544	Tablet
+R48	Form-Drug Arg1:T71 Arg2:T67
+T72	Route 6545 6547	PO
+R49	Route-Drug Arg1:T72 Arg2:T67
+T73	Frequency 6548 6561	DAILY (Daily)
+R50	Frequency-Drug Arg1:T73 Arg2:T67
+T74	Drug 6567 6585	Carbidopa-Levodopa
+T75	Strength 6586 6595	25-100 mg
+R51	Strength-Drug Arg1:T75 Arg2:T74
+T76	Form 6596 6602	Tablet
+R52	Form-Drug Arg1:T76 Arg2:T74
+T77	Form 6603 6620	Sustained Release
+R53	Form-Drug Arg1:T77 Arg2:T74
+T78	Dosage 6626 6633	One (1)
+R54	Dosage-Drug Arg1:T78 Arg2:T74
+T79	Form 6634 6640	Tablet
+R55	Form-Drug Arg1:T79 Arg2:T74
+T80	Route 6641 6643	PO
+R56	Route-Drug Arg1:T80 Arg2:T74
+T81	Frequency 6644 6663	TID (3 times a day)
+R57	Frequency-Drug Arg1:T81 Arg2:T74
+T82	Drug 6668 6677	Donepezil
+T83	Strength 6678 6682	5 mg
+R58	Strength-Drug Arg1:T83 Arg2:T82
+T84	Form 6683 6689	Tablet
+R59	Form-Drug Arg1:T84 Arg2:T82
+T85	Dosage 6695 6702	One (1)
+R60	Dosage-Drug Arg1:T85 Arg2:T82
+T86	Form 6703 6709	Tablet
+R61	Form-Drug Arg1:T86 Arg2:T82
+T87	Route 6710 6712	PO
+R62	Route-Drug Arg1:T87 Arg2:T82
+T88	Frequency 6713 6728	HS (at bedtime)
+R63	Frequency-Drug Arg1:T88 Arg2:T82
+T89	Drug 6734 6744	Citalopram
+T90	Strength 6745 6750	20 mg
+R64	Strength-Drug Arg1:T90 Arg2:T89
+T91	Form 6751 6757	Tablet
+R65	Form-Drug Arg1:T91 Arg2:T89
+T92	Dosage 6763 6770	One (1)
+R66	Dosage-Drug Arg1:T92 Arg2:T89
+T93	Form 6771 6777	Tablet
+R67	Form-Drug Arg1:T93 Arg2:T89
+T94	Route 6778 6780	PO
+R68	Route-Drug Arg1:T94 Arg2:T89
+T95	Frequency 6781 6794	DAILY (Daily)
+R69	Frequency-Drug Arg1:T95 Arg2:T89
+T96	Drug 6800 6829	Trimethoprim-Sulfamethoxazole
+T97	Strength 6830 6839	80-400 mg
+R70	Strength-Drug Arg1:T97 Arg2:T96
+T98	Form 6840 6846	Tablet
+R71	Form-Drug Arg1:T98 Arg2:T96
+T99	Dosage 6852 6859	One (1)
+R72	Dosage-Drug Arg1:T99 Arg2:T96
+T100	Form 6860 6866	Tablet
+R73	Form-Drug Arg1:T100 Arg2:T96
+T101	Route 6867 6869	PO
+R74	Route-Drug Arg1:T101 Arg2:T96
+T102	Frequency 6870 6883	DAILY (Daily)
+R75	Frequency-Drug Arg1:T102 Arg2:T96
+T103	Drug 6888 6899	Tolterodine
+T104	Strength 6900 6904	1 mg
+R76	Strength-Drug Arg1:T104 Arg2:T103
+T105	Form 6905 6911	Tablet
+R77	Form-Drug Arg1:T105 Arg2:T103
+T106	Dosage 6917 6924	One (1)
+R78	Dosage-Drug Arg1:T106 Arg2:T103
+T107	Form 6925 6931	Tablet
+R79	Form-Drug Arg1:T107 Arg2:T103
+T108	Route 6932 6934	PO
+R80	Route-Drug Arg1:T108 Arg2:T103
+T109	Frequency 6935 6938	BID
+R81	Frequency-Drug Arg1:T109 Arg2:T103
+T110	Drug 6959 6969	Famotidine
+T111	Strength 6970 6975	20 mg
+R82	Strength-Drug Arg1:T111 Arg2:T110
+T112	Form 6976 6982	Tablet
+R83	Form-Drug Arg1:T112 Arg2:T110
+T113	Dosage 6988 6995	One (1)
+R84	Dosage-Drug Arg1:T113 Arg2:T110
+T114	Form 6996 7002	Tablet
+R85	Form-Drug Arg1:T114 Arg2:T110
+T115	Route 7003 7005	PO
+R86	Route-Drug Arg1:T115 Arg2:T110
+T116	Frequency 7006 7009	BID
+R87	Frequency-Drug Arg1:T116 Arg2:T110
+T117	Drug 7031 7038	Aspirin
+T118	Strength 7039 7044	81 mg
+R88	Strength-Drug Arg1:T118 Arg2:T117
+T119	Form 7045 7061	Tablet, Chewable
+R89	Form-Drug Arg1:T119 Arg2:T117
+T120	Dosage 7067 7074	One (1)
+R90	Dosage-Drug Arg1:T120 Arg2:T117
+T121	Form 7075 7091	Tablet, Chewable
+R91	Form-Drug Arg1:T121 Arg2:T117
+T122	Route 7092 7094	PO
+R92	Route-Drug Arg1:T122 Arg2:T117
+T123	Frequency 7095 7100;7101 7108	DAILY (Daily)
+R93	Frequency-Drug Arg1:T123 Arg2:T117
+T124	Drug 7148 7156	coumadin
+T125	Drug 7184 7192	Coumadin
+T126	Drug 7223 7232	Verapamil
+T127	Strength 7233 7239	240 mg
+R94	Strength-Drug Arg1:T127 Arg2:T126
+T128	Form 7240 7264	Tablet Sustained Release
+R95	Form-Drug Arg1:T128 Arg2:T126
+T129	Dosage 7270 7277	One (1)
+R96	Dosage-Drug Arg1:T129 Arg2:T126
+T130	Form 7278 7302	Tablet Sustained Release
+R97	Form-Drug Arg1:T130 Arg2:T126
+T131	Route 7303 7305	PO
+R98	Route-Drug Arg1:T131 Arg2:T126
+T132	Frequency 7306 7316	once a day
+R99	Frequency-Drug Arg1:T132 Arg2:T126
+T133	Reason 7562 7591	Paroxysmal atrial fibrilation
+R100	Reason-Drug Arg1:T133 Arg2:T134
+T134	Drug 7605 7613	coumadin
+T135	Drug 7956 7964	coumadin
+T136	Drug 8261 8269	coumadin
+T137	ADE 8306 8316	hemorrhage
+R101	ADE-Drug Arg1:T137 Arg2:T136
+T138	Drug 8319 8326	Aspirin
+T139	Drug 8358 8366	Coumadin
+T140	Drug 8450 8457	Aspirin
+T141	Frequency 6071 6089	Tuesday and Friday
+R102	Frequency-Drug Arg1:T141 Arg2:T18	
+T4	Route 1370 1372	iv
+R3	Route-Drug Arg1:T4 Arg2:T2	

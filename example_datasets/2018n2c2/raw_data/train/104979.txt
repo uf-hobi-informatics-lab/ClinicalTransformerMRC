@@ -1,0 +1,190 @@
+Admission Date:  [**2168-8-10**]              Discharge Date:   [**2168-8-22**]
+
+Date of Birth:  [**2100-3-21**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Penicillins / Tetracycline / Erythromycin Base / Latex
+
+Attending:[**First Name3 (LF) 1481**]
+Chief Complaint:
+nausea/vomiting/diaphoresis
+
+Major Surgical or Invasive Procedure:
+Exploratory laparotomy, lysis of adhesions.
+
+
+History of Present Illness:
+68 F presents to [**Hospital1 **] ED with nausea, vomiting, diaphoresis and
+distended abdomen after recent laparoscopic assisted right
+colectomy on [**2168-8-2**].  She was discharged from [**Hospital1 18**] on [**2168-8-6**]
+after in stable condition.  She was
+doing well, tolerating a regular diet until yesterday when she
+developed the aforementioned symptoms.
+
+
+Past Medical History:
+Her past medical history is notable for heart disease, status
+post myocardial infarction in [**2167-8-28**].  She had some stents
+placed and was on aspirin and Plavix.  She was also noted to
+have
+pulmonary embolism around this time and has been started on
+Coumadin and since then, her Plavix has been discontinued.  She
+also has a history of hypertension and diabetes.
+
+Past surgeries include a lumbar fusion, tonsillectomy, deviated
+septum repair, appendectomy, cholecystectomy, hysterectomy and
+bladder suspension as well as several orthopedic surgeries
+include rotator cuff surgery and arthroscopies.  The patient
+does
+not smoke or drink.  She is retired and lives with her husband.
+There is a history of colon cancer in her father.  [**Name (NI) **] mother
+died of a myocardial infarction.
+
+Review of systems is notable for a history of interstitial
+cystitis and arthritis as well as remote history of depression.
+
+Social History:
+Lives with husband
+Active lifestyle- regularly goes to gym
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+Afebrile, VSS
+Alert, oriented x 3, NAD
+RRR
+CTAB
+Abdomen soft, appropriately mildly tender, steristrips in place
+LE warm, no edema
+
+
+Brief Hospital Course:
+Ms. [**Known lastname 2784**] presented to ED on [**8-10**] with nausea, vomiting,
+diaphoresis and distended abdomen.  She received an exploratory
+laporatomy with lysis of adhesions for a small bowel obstruction
+that was found to be the cause of her symptoms.  See Dr. [**Name (NI) 45689**] operative note for details.
+
+Patient was intubated in the ED d/t inability to protect airway
+and aspiration.  Bronchoscopy was performed after surgery and
+she was found to have very little aspiration contents in her
+lower airways. She was admitted to the ICU after surgery d/t
+intubation and need for neosynephrine for BP control.  While in
+the ICU she was successfull weaned off neosynephrine, and
+required lopressor for tachycardia.  She had a drop in her Hct
+to 24 and required one unit of blood.  She spiked a fever so was
+given a treatment of cipro, vancomycin, and flagyl.  She was
+successfuly extubated on POD 5 and experienced resp distress
+that responded with Lasix.
+
+She was transferred out of the unit on POD 6.  She had episodes
+of non-responsiveness on the floor for which she received
+several cardiac work-ups, psychiatry saw her and recommended
+discontinuing her narcotic pain medicine and her
+benzodiazepines.  She also had a work-up with Neurology which
+included a 24 hour EEG, MRI and MRA of her head, and several lab
+tests.  All of these were negative.
+
+At the time of discharge, she was stable and no longer
+experiencing these episodes of non-responsiveness. Neurology and
+her primary team felt that she was able to return to home.
+Physical therapy saw the patient and recommended home PT.
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Venlafaxine 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Mirtazapine 30 mg Tablet Sig: 1.5 Tablets PO HS (at bedtime).
+
+5. Diltiazem HCl 60 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+6. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO BID (2
+times a day).
+7. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours).
+8. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+HS (at bedtime) as needed for constipation.
+Disp:*20 Suppository(s)* Refills:*0*
+9. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO TID
+(3 times a day).
+10. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H
+(every 4 hours) as needed for pain/fever.
+11. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+12. Codeine Sulfate 15 mg Tablet Sig: One (1) Tablet PO every
+4-6 hours as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 1474**] VNA
+
+Discharge Diagnosis:
+small bowel obstruction
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Discharge Instructions:
+Please call your doctor or return to the ER for any of the
+following:
+* You experience new chest pain, pressure, squeezing or
+tightness.
+* New or worsening cough or wheezing.
+* If you are vomiting and cannot keep in fluids or your
+medications.
+* You are getting dehydrated due to continued vomiting,
+diarrhea or other reasons. Signs of dehydration include dry
+mouth, rapid heartbeat or feeling dizzy or faint when standing.
+* You see blood or dark/black material when you vomit or have a
+bowel movement.
+* Your pain is not improving within 8-12 hours or not gone
+within 24 hours. Call or return immediately if your pain is
+getting worse or is changing location or moving to your chest or
+back.
+
+*Avoid lifting objects > 5lbs until your follow-up appointment
+with the surgeon.
+
+*Avoid driving or operating heavy machinery while taking pain
+medications.
+* You have shaking chills, or a fever greater than 101.5 (F)
+degrees or 38(C) degrees.
+* Any serious change in your symptoms, or any new symptoms that
+concern you.
+* Please resume all regular home medications and take any new
+meds as ordered.
+* Continue to ambulate several times per day.
+
+Incision Care:
+-Your steri-strips will fall off on their own. Please remove any
+
+remaining strips 7-10 days after surgery.
+-You may shower, and wash surgical incisions.
+-Avoid swimming and baths until your follow-up appointment.
+-Please call the doctor if you have increased pain, swelling,
+redness, or drainage from the incision sites.
+
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) **] in [**1-29**] weeks.  Please call
+[**Telephone/Fax (1) 2981**] to make appointment.
+
+Please contact your PCP for [**Name Initial (PRE) **] outpatient MRI of your spine.
+Neurology recommended this because they feel it is possible that
+a bulging disc could be contributing to your generalized
+weakness
+
+
+Completed by:[**2168-8-22**]

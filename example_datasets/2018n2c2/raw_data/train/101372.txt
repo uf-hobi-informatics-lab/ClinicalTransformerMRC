@@ -1,0 +1,294 @@
+Admission Date:  [**2130-10-2**]              Discharge Date:   [**2130-10-4**]
+
+Date of Birth:  [**2085-9-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 5810**]
+Chief Complaint:
+Stridor
+
+Major Surgical or Invasive Procedure:
+mechanical ventilation
+Extubation
+
+
+History of Present Illness:
+Ms. [**Known lastname 87445**] is a 45F with schizoaffective disorder,
+polysubstance dependence, and SAH s/p coiling L MCA aneurysm
+[**2130-7-2**] and repeat coiling for recannalization on [**9-20**], [**2129**] who initially presented to OSH ED with sore throat x 1
+week.  Neck X-ray was performed and revealed possible thickened
+epiglottis but she left the ED AMA prior to finalized [**Location (un) 1131**].
+She then returned to the OSH ED at approximately 10pm with new
+onset stridor and hoarseness. She was also noted to be altered
+with slurred speech and there was concern for intoxication. She
+was intubated with a 7-0 ETT for airway protection with emesis
+noted post-intubation.  CT neck reportedly revealed thickened
+epiglottis and CT head was negative for acute process. She
+received Ceftriaxone, Decadron 10mg IV, and was transferred here
+by [**Location (un) 7622**]. She received pancuronium, 4mg IV versed, 4mg IV
+ativan at OSH. Labs there remarkable for ABG 7.40/53/75, WBC
+4.6.
+
+In [**Hospital1 18**] ED, initial vs were: 98.6 77 101/76 16 96%. She was
+given propofol for sedation. CXR confirmed ETT placement. ENT
+was consulted and epiglottis was visualized and felt to be
+slightly inflamed. They recommended continuing dex 10mg IV q8
+and antibiotics and plan for extubation when has cuff leak.
+Neurosurgery was also notified. VS prior to transfer: 98.6
+113/74 72 16 100% on AC FiO2 100% Vt500 RR16 PEEP 5.
+
+On the floor, she is intubated and sedated.
+
+Past Medical History:
+- Asthma
+- h/o polysubstance abuse
+- ADHD
+- Depression/anxiety vs bipolar disorder
+- Schizoaffective disorder
+- s/p overdose [**2125**] c/b respiratory failure
+- SAH s/p coiling L MCA aneurysm [**7-/2130**] with recannalization on
+MRI and repeat coiling [**2130-9-20**]
+
+Social History:
+- originally from [**Male First Name (un) **]; has a son and a daughter but no
+contact info at time of admission
+- Tobacco:  denied at osh - per her nephew, she was a heavy
+smoker in past
+- Alcohol:  denied at osh
+after extubation here, denied any substance use, reported only
+taking prescribed medications
+
+Family History:
+unable to otbain at time of admission
+
+Physical Exam:
+Physical Exam on Arrival to ICU:
+VS: Tcurrent: 36.2 ??????C, HR: 79, BP 104/70, RR 18, O2Sat 98% on
+CMV/Assist. PEEP 5, FiO2 50%, RR 18, ABG: 7.51/41/205//9
+General: Intubated, sedated
+HEENT: Sclera anicteric, MMM, oropharynx clear, PERRL, 2mm
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally with crackles R base,
+no wheezes or ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: foley draining clear yellow urine
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Skin: No lesions or rashes.
+
+Pertinent Results:
+[**2130-10-2**] 02:05AM BLOOD WBC-11.1* RBC-3.59* Hgb-11.4* Hct-34.4*
+MCV-96 MCH-31.9 MCHC-33.2 RDW-13.3 Plt Ct-279
+[**2130-10-2**] 05:52AM BLOOD WBC-9.3 RBC-3.65* Hgb-11.8* Hct-35.4*
+MCV-97 MCH-32.3* MCHC-33.3 RDW-13.1 Plt Ct-281
+[**2130-10-2**] 05:52AM BLOOD Neuts-91.1* Lymphs-7.1* Monos-1.0*
+Eos-0.3 Baso-0.5
+[**2130-10-3**] 04:37AM BLOOD WBC-15.7*# RBC-3.67* Hgb-11.6* Hct-35.0*
+MCV-95 MCH-31.8 MCHC-33.3 RDW-12.8 Plt Ct-286
+[**2130-10-2**] 02:05AM BLOOD PT-12.7 PTT-24.1 INR(PT)-1.1
+[**2130-10-3**] 04:37AM BLOOD PT-12.6 PTT-123.1* INR(PT)-1.1
+[**2130-10-2**] 02:05AM BLOOD Fibrino-335
+[**2130-10-2**] 05:52AM BLOOD Glucose-167* UreaN-10 Creat-0.6 Na-141
+K-4.1 Cl-101 HCO3-29 AnGap-15
+[**2130-10-2**] 03:00AM BLOOD ALT-12 AST-18 LD(LDH)-157 AlkPhos-75
+TotBili-0.2
+[**2130-10-2**] 02:05AM BLOOD Lipase-22
+[**2130-10-2**] 05:52AM BLOOD Calcium-9.5 Phos-2.7 Mg-2.1 Iron-66
+[**2130-10-2**] 05:52AM BLOOD calTIBC-326 Ferritn-21 TRF-251
+[**2130-10-2**] 03:00AM BLOOD VitB12-393 Folate-9.5
+[**2130-10-2**] 07:36PM BLOOD Vanco-5.2*
+[**2130-10-2**] 02:05AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-POS Tricycl-NEG
+[**2130-10-2**] 03:14AM BLOOD Type-ART Temp-37.0 Rates-/16 Tidal V-500
+FiO2-100 pO2-205* pCO2-41 pH-7.51* calTCO2-34* Base XS-9
+AADO2-488 REQ O2-80 -ASSIST/CON Intubat-INTUBATED Comment-GREEN
+TOP
+[**2130-10-2**] 01:54PM BLOOD Type-ART Rates-/16 Tidal V-450 PEEP-5
+FiO2-40 pO2-137* pCO2-48* pH-7.39 calTCO2-30 Base XS-3
+Intubat-INTUBATED Vent-CONTROLLED
+[**2130-10-2**] 12:13PM BLOOD Lactate-4.4*
+[**2130-10-2**] 01:54PM BLOOD Lactate-2.2*
+
+HISTORY: Epiglottitis with intubation, to assess for acute
+abnormality.
+
+FINDINGS:
+
+In comparison with the study of [**10-2**], the endotracheal and
+nasogastric tubes
+have been removed. The atelectatic streak in the left mid zone
+has cleared.
+
+At the current time, there is no evidence of acute pneumonia or
+vascular
+congestion or pleural effusion.
+
+
+
+Brief Hospital Course:
+Assessment and Plan: 44 year old woman with schizoaffective
+disorder and SAH s/p coiling L MCA aneurysm transferred from OSH
+with with epiglottitis and resp distress now intubated.
+.
+#. Epiglottitis/Hypercarbic Respiratory Failure: Patient
+initially presented to OSH with sore throat and was found to
+have imaging (Neck X ray and CT per report) consistent with
+epiglottitis. ABG also consistent with hypercarbia and
+respiratory acidosis with concomitant metabolic alkalosis. She
+left OSH ED and subsequently presented with stridor and was
+intubated for airway protection. Epiglottitis can be caused by
+thermal or inhalational injury but is more commonly caused by
+infection. The most common bacterial causes include H flu, strep
+pneumo, beta hemolytic strep and staph aureus but viral causes
+are also possible.  Patient was intially treated with decadron
+and empiric ceftriaxne. She was on insulin ss while on steroids.
+Rapid resp viral panel sent, antigen was negative, viral
+cultures pending at the time of discharge; blood cx sent and
+were no growth. Patient was evaluated by ENT with laryngoscopy
+while intubated and again after extubation. Initial impression
+was that epiglottis was mildly inflamed.  After she was
+extubated, she had another endoscopic exam and was noted to have
+some vocal cord dysfunction, improved with relaxation techniques
+and no obvious epiglottitis. Patient was transferred to the
+floor on [**10-3**] and continued to do well. Still had a sore throat,
+but no wheezing or shortness of breath, no dysphagia. ENT also
+recommended increasing omprazole to 40 mg daily. Have scheduled
+outpt ENT follow-up
+.
+# PEA cardiac arrest- this occured while in ICU, patients pulse
+returned after 1 minute or so of chest compressions. Etiology
+was felt to be possibly secondary to biting the tube versus
+related to propofol. Patient had some pleuritic chest pain
+related to chest compressions later in hospital course, treated
+with ibuprofen, tylenol and one dose oxycodone. patient has
+oxycodone at home still for headaches and continue to take these
+as needed for chest pain as well.
+
+#. Anemia: HCT at current baseline 30-32 with high normal MCV.
+.
+#. h/o SAH and MCA aneurysm s/p coiling [**2130-7-2**] and repeat
+coiling [**2130-9-1**]: Neurosurgery aware. No current active
+issues
+- continue aspirin 325mg PO daily , has f/u scheduled with
+Neurosurgery.
+.
+#. Asthma: Continue albuterol prn (MDI while intubated) although
+no current wheezing on exam
+.
+#. Schizoaffective disorder:
+- continued home seroquel
+- restarted home benzos, trazodone and gabapentin
+.
+#. h/o Polysubstance abuse: had urine tox positive for benzos
+(gets these rx), amphetamines (on adderal) and barbiturates (on
+butalbital for migraines). Denied current substance use.
+
+#. ADHD: Held adderal in icu, restarted prior to discharge.
+
+
+Medications on Admission:
+1. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+
+6 hours) as needed for pain fever.
+2. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+3. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. gabapentin 300 mg Capsule Sig: One (1) Capsule PO HS (at
+bedtime).
+5. clonazepam 1 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+6. lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for anxiety.
+7. trazodone 50 mg Tablet Sig: Three (3) Tablet PO HS (at
+bedtime).
+8. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed for wheeze.
+9. amphetamine-dextroamphetamine 5 mg Tablet Sig: Four (4)
+Tablet PO bid ().
+10. quetiapine 100 mg Tablet Sig: One (1) Tablet PO QAM (once a
+day (in the morning)).
+11. quetiapine 100 mg Tablet Sig: Three (3) Tablet PO QHS (once
+a day (at bedtime)).
+
+
+Discharge Medications:
+1. quetiapine 50 mg Tablet Sig: Two (2) Tablet PO QAM (once a
+day (in the morning)).
+2. quetiapine 50 mg Tablet Sig: Six (6) Tablet PO QHS (once a
+day (at bedtime)).
+3. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Six (6) Puff Inhalation Q6H (every 6 hours) as needed for
+wheezing.
+4. clonazepam 1 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+5. lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for anxiety.
+6. acetaminophen 500 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for pain.
+7. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+8. ibuprofen 400 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8
+hours) as needed for pain.
+9. amphetamine-dextroamphetamine 5 mg Capsule, Sust. Release 24
+hr Sig: Four (4) Capsule, Sust. Release 24 hr PO bid ().
+10. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every [**5-9**]
+hours.
+11. trazodone 50 mg Tablet Sig: Three (3) Tablet PO ONCE (Once).
+
+12. gabapentin 300 mg Capsule Sig: One (1) Capsule PO HS (at
+bedtime).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Vocal cord dysfunction
+Epiglottitis
+Cardiac arrest
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted with wheezing and difficulty breathing and
+required intubation. You also had a cardiac arrest which lasted
+a short period with return of your heart beat with cpr/chest
+compressions. The likely cause of the wheezing was vocal cord
+dysfunction, although a viral illness and or gastric reflux may
+have been contributing. There was initially concern about
+epiglottitis (inflammation of the epiglottis), but this only
+mildly inflamed when they looked with a camera in your throat.
+You will need to take a higher dose of omeprazole (40mg) and
+will need to follow-up with ENT and pcp as scheduled. You should
+continue your other outpatient medications as you did previously
+
+Followup Instructions:
+Name: [**Last Name (LF) **], [**First Name3 (LF) **] V. MD
+Address: [**Location (un) 3881**],[**Apartment Address(1) 3882**], [**Location (un) **],[**Numeric Identifier 3883**]
+Phone: [**Telephone/Fax (1) 2349**]
+Appointment: Friday [**2130-10-6**] 1:30pm
+
+Name: [**Last Name (LF) 1447**],[**First Name7 (NamePattern1) 1569**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+Location: [**Location (un) **] FAMILY PRACTICE
+Address: [**Street Address(2) 75551**] [**Apartment Address(1) 87446**], [**Location (un) **],[**Numeric Identifier 75553**]
+Phone: [**Telephone/Fax (1) 44915**]
+Appointment: Wednesday [**2130-10-11**] 2:00pm
+
+
+

@@ -1,0 +1,172 @@
+Admission Date:  [**2187-8-15**]              Discharge Date:   [**2187-8-22**]
+
+Date of Birth:  [**2143-11-3**]             Sex:   F
+
+Service: EMERGENCY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2565**]
+Chief Complaint:
+1-2days jaudice, nausea and mild RUQ on palpation on [**2187-8-15**]
+
+Major Surgical or Invasive Procedure:
+ERCP with stent placement was performed on [**2187-8-16**]
+
+History of Present Illness:
+This a 43 year old female with metastatic breast cancer, to
+liver, lung, brain, and bone who presented with 1-2days jaudice,
+nausea and mild RUQ on palpation on [**2187-8-15**]. In the ED, a RUQ U/S
+was unable to identify the CBD but it did show dilatation of the
+pancreatic duct which was suspcious for CBD stone. ERCP with
+stent placement was performed on [**2187-8-16**]. Patient was treated
+with IV Ciprofloxacin and stable on the OMED service until the
+early am of [**2187-8-19**] when patient was found to be hypotensive to
+SBP 70s, hypothermic to 95, with a rising lactate of 4.2.
+Patient received 3L IVF boluses and blood pressure remained
+fluid responsive.
+.
+Patient reported feeling the worst of her stay this am but
+denies localizing symptoms. She denies RUQ pain, fevers, chills,
+nausea, vomiting, cough, urinary urgency or frequency, dysuria,
+or SOB. No HA or confusion. Of note, she has chronic back pain
+that is unchanged from baseline.
+.
+
+Onc History:
+Recurrent breast CA dx'd [**2181**] tx'd w/ lumpectomy/XRT/ CA.
+[**7-17**]: XRT for osseous disease. She then rec'd wkly taxol/[**Doctor Last Name **]/
+herceptin until markers went down to normal range. She was on
+q3w Herceptin from [**12/2184**] - [**4-/2186**], when she developed brain
+mets and consented to trial 06-356 combining Lapatinib 1000mg QD
+with whole brain radiation then Lapatinib with weekly Herceptin.
+She progressed and was changed to Xeloda- Lapatanib
+w/progression. After cyberknife she was tx'd w/
+Herceptin/Navelbine for 4 doses. Recent Brain MRI shows 2 small
+new lesions for which she had Cyberknife tx.
+In [**Month (only) 116**] she Avastin/ Gemzar therapy but developed thigh pain and
+impending femur fx was discovered requiring surgery and XRT to
+right leg. Recent MRI with 3 new small brain lesions, s/p
+cyberknife to brain [**6-19**]. Known L4 compression fracture, being
+evaluated for XRT.
+
+
+Past Medical History:
+Breast cancer - as above
+S/p cholecystectomy
+Chronic Back Pain L4 compression fracture
+
+Social History:
+She lives with her husband and two children.
+Previously worked as a hostess. Tob: 20 pack-yr, quit 10 yrs ago
+
+
+Family History:
+PGM had breast cancer in her 70s
+Mother and Father have hyperlipidemia
+
+Physical Exam:
+Vitals: T: 97.3 BP:138/49 HR:112 RR:26 O2Sat: 98% on 4L
+
+GEN: Chronically ill appearing female, hirsuit, obese
+HEENT: EOMI, PERRL, + sclera icterous, no epistaxis or
+rhinorrhea, DMM
+NECK: unable to assess JVD [**1-13**] neck girth, carotid pulses brisk,
+no bruits, no cervical lymphadenopathy, trachea midline
+COR: Tachy, regular, HS distant no M/G/R, normal S1 S2, radial
+pulses +1
+PULM: Expiratory wheezes, BS distant, decreased BS at right base
+
+ABD: Soft, +RUQ TTP, ND, +BS, no rebound or guarding
+EXT: 2+ pitting edema to sacrum. No C/E, no palpable cords
+NEURO: alert, oriented to person, place, and time. Attention
+intact - spells world backwards. CN II ?????? XII grossly intact.
+Moves all 4 extremities. Generalized weakness but strength 4+/5
+in upper and lower extremities. Patellar DTR +1. Plantar reflex
+downgoing. Unable to assess gait.
+SKIN: + jaundice, no cyanosis, or gross dermatitis. +
+ecchymoses.
+
+
+Pertinent Results:
+On Admission:
+
+[**2187-8-15**] 03:05PM   WBC-2.6* RBC-2.92* HGB-9.2* HCT-27.6* MCV-95#
+MCH-31.7 MCHC-33.4 RDW-20.8*
+[**2187-8-15**] 03:05PM   NEUTS-47* BANDS-21* LYMPHS-10* MONOS-16*
+EOS-4 BASOS-0 ATYPS-0 METAS-1* MYELOS-1* NUC RBCS-1*
+[**2187-8-15**] 03:05PM   PLT SMR-VERY LOW PLT COUNT-71*
+[**2187-8-15**] 03:05PM   GLUCOSE-63* UREA N-11 CREAT-0.3* SODIUM-136
+POTASSIUM-3.0* CHLORIDE-93* TOTAL CO2-31 ANION GAP-15
+[**2187-8-15**] 03:05PM   ALT(SGPT)-49* AST(SGOT)-101* ALK PHOS-747*
+TOT BILI-15.8* DIR BILI-12.2* INDIR BIL-3.6
+[**2187-8-15**] 03:05PM   ALBUMIN-2.7* CALCIUM-8.3* PHOSPHATE-3.6
+MAGNESIUM-1.8
+[**2187-8-15**] 03:05PM   LIPASE-145*
+[**2187-8-15**] 03:15PM   LACTATE-2.3*
+
+RUQ ultrasound - Limited examination, but no evidence of biliary
+ductal
+dilatation.
+
+
+Brief Hospital Course:
+On transfer to the [**Hospital Unit Name 153**]
+# Hypotension - Patient met SIRS criteria with T < 96 and SBP<70
+on the floor prior to transfer which resolved with 3L IVF bolus
+and broadening of antibitoics to include vancomycin and zosyn.
+Likely source is biliary duct obstruction but also has
+long-standin effusion and line as possible sources. Patient with
+right porta-cath as only access. No central venous line placed
+as patient's goal of care were clarified. Initially on pressors
+and IV fluid boluses to maintain adequate MAP and urine output.
+decision to d/c once clear that patient was CMO given widely
+metastatic breast CA.  Patient was started on IV morphine drip.
+Antibiotics were continued for comfort. Other unnecessary
+medications/diagnostic studies were discontinued. family was all
+around and present and patient passed away [**2187-8-21**].
+
+Medications on Admission:
+Oxycontin 10mg [**Hospital1 **]
+Oxycodone 5mg PRN
+.
+Meds on transfer:
+Ciprofloxacin  400mg IV Q12H
+Albuterol nebs Q6H prn
+Chlorhexidine oral rinse [**Hospital1 **]
+Colace 100mg [**Hospital1 **]
+Heparin SC TID
+Hydrocortisone 100mg IV Q8H
+Ipratropium Neb Q6H prn
+Magnesium sliding scale
+Oxycontin 10mg [**Hospital1 **]
+Oxycodone 5mg Q4H prn
+Pantoprazole 40mg po Q24H
+Zosyn 4.5mg IV Q8H day#1 [**8-19**]
+Potassium sliding scale
+Prochlorperazine 10mg Q6H prn
+Senna 1 tab po BID
+Vancomycin 1000 mg IV Q 12H D#1 [**8-19**]
+
+
+Discharge Medications:
+NA
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+metastatic breast cancer
+
+Discharge Condition:
+death
+
+Discharge Instructions:
+NA
+
+Followup Instructions:
+NA
+
+
+Completed by:[**2187-8-22**]

@@ -1,0 +1,323 @@
+T1	Drug 1072 1082	ranitidine
+T2	Strength 1083 1089	150 mg
+R1	Strength-Drug Arg1:T2 Arg2:T1
+T3	Frequency 1090 1095	b.i.d
+R2	Frequency-Drug Arg1:T3 Arg2:T1
+T4	Drug 1195 1203	protonix
+T5	Strength 1204 1206	40
+R3	Strength-Drug Arg1:T5 Arg2:T4
+T7	Dosage 1211 1212	1
+R5	Dosage-Drug Arg1:T7 Arg2:T4
+T8	Reason 1670 1675	TIA's
+R6	Reason-Drug Arg1:T8 Arg2:T9
+T9	Drug 1680 1686	plavix
+T10	Drug 390 398	Coumadin
+T11	Drug 403 409	Plavix
+T12	Reason 411 429	s/p mechanical MVR
+R7	Reason-Drug Arg1:T12 Arg2:T11
+R8	Reason-Drug Arg1:T12 Arg2:T10
+T13	Drug 4256 4264	Coumadin
+T14	Drug 4269 4275	Plavix
+T15	Reason 4277 4295	s/p mechanical MVR
+R9	Reason-Drug Arg1:T15 Arg2:T13
+R10	Reason-Drug Arg1:T15 Arg2:T14
+T16	ADE 4379 4399	supratherapeutic INR
+R11	ADE-Drug Arg1:T16 Arg2:T13
+R12	ADE-Drug Arg1:T16 Arg2:T14
+T17	Dosage 5092 5098	1 unit
+R13	Dosage-Drug Arg1:T17 Arg2:T18
+T18	Drug 5102 5107	blood
+T19	Reason 5113 5129	anti-coagulation
+R14	Reason-Drug Arg1:T19 Arg2:T21
+R15	Reason-Drug Arg1:T19 Arg2:T20
+T20	Drug 5135 5141	Plavix
+T21	Drug 5146 5154	Coumadin
+T22	Drug 5213 5221	coumadin
+T23	Drug 5229 5236	heparin
+T24	Drug 5272 5278	plavix
+T25	Reason 5735 5760	Mechanical MV replacement
+R16	Reason-Drug Arg1:T25 Arg2:T26
+R17	Reason-Drug Arg1:T25 Arg2:T32
+R18	Reason-Drug Arg1:T25 Arg2:T33
+T26	Drug 5818 5826	Coumadin
+T27	Strength 5828 5833	5.5mg
+R19	Strength-Drug Arg1:T27 Arg2:T26
+T28	Drug 5893 5909	anti-coagulation
+T29	Drug 5932 5947	anticoagulation
+T30	Drug 5999 6006	heparin
+T31	Route 6007 6011	drip
+R21	Route-Drug Arg1:T31 Arg2:T30
+T32	Drug 6068 6076	Coumadin
+T33	Drug 6083 6090	heparin
+T34	Route 6091 6095	drip
+R22	Route-Drug Arg1:T34 Arg2:T33
+T35	Reason 6193 6214	CAD s/p 1 vessel CABG
+R23	Reason-Drug Arg1:T35 Arg2:T36
+T36	Drug 6241 6253	beta blocker
+T37	Reason 6418 6423	TIA's
+R24	Reason-Drug Arg1:T37 Arg2:T39
+R25	Reason-Drug Arg1:T37 Arg2:T38
+T38	Drug 6428 6434	plavix
+T39	Drug 6437 6443	Plavix
+T40	Drug 6547 6554	Lipitor
+T41	Strength 6555 6557	80
+R26	Strength-Drug Arg1:T41 Arg2:T40
+T42	Drug 6558 6564	Plavix
+T43	Strength 6565 6567	75
+R27	Strength-Drug Arg1:T43 Arg2:T42
+T44	Drug 6568 6579	Maxalt ML T
+T45	Strength 6580 6582	10
+R28	Strength-Drug Arg1:T45 Arg2:T44
+T46	Frequency 6583 6586	prn
+R29	Frequency-Drug Arg1:T46 Arg2:T44
+T47	Reason 6587 6595	migraine
+R30	Reason-Drug Arg1:T47 Arg2:T44
+T48	Drug 6596 6607	Amoxicillin
+T49	Frequency 6608 6611	prn
+R31	Frequency-Drug Arg1:T49 Arg2:T48
+T50	Reason 661 684	hree black tarry stools
+R32	Reason-Drug Arg1:T50 Arg2:T177
+T51	Reason 6612 6618	dental
+R33	Reason-Drug Arg1:T51 Arg2:T48
+T52	Drug 6619 6627	Atenolol
+T53	Strength 6628 6632	12.5
+R34	Strength-Drug Arg1:T53 Arg2:T52
+T54	Drug 6633 6644	Alendronate
+T55	Strength 6645 6647	70
+R35	Strength-Drug Arg1:T55 Arg2:T54
+T56	Drug 6648 6654	EpiPen
+T57	Frequency 6655 6658	prn
+R36	Frequency-Drug Arg1:T57 Arg2:T56
+T58	Reason 6659 6663	fish
+R37	Reason-Drug Arg1:T58 Arg2:T56
+T59	Drug 6664 6670	Ambien
+T60	Strength 6671 6673	10
+R38	Strength-Drug Arg1:T60 Arg2:T59
+T61	Frequency 6674 6677	qhs
+R39	Frequency-Drug Arg1:T61 Arg2:T59
+T62	Drug 6678 6686	Coumadin
+T63	Strength 6687 6690	5.5
+R40	Strength-Drug Arg1:T63 Arg2:T62
+T64	Frequency 6691 6710	everyday except Sat
+R41	Frequency-Drug Arg1:T64 Arg2:T62
+T65	Strength 6728 6731	4mg
+R42	Strength-Drug Arg1:T65 Arg2:T62
+T66	Drug 6732 6740	Skelaxin
+T67	Strength 6741 6744	800
+R43	Strength-Drug Arg1:T67 Arg2:T66
+T68	Frequency 6745 6748	qhs
+R44	Frequency-Drug Arg1:T68 Arg2:T66
+T69	Drug 6749 6755	Zantac
+T70	Strength 6756 6761	150mg
+R45	Strength-Drug Arg1:T70 Arg2:T69
+T71	Drug 6797 6807	Maxalt-MLT
+T72	Strength 6813 6818	10 mg
+R46	Strength-Drug Arg1:T72 Arg2:T71
+T73	Route 6819 6823	Oral
+R47	Route-Drug Arg1:T73 Arg2:T71
+T74	Frequency 6824 6833	daily prn
+R48	Frequency-Drug Arg1:T74 Arg2:T71
+T75	Reason 6834 6842	migraine
+R49	Reason-Drug Arg1:T75 Arg2:T71
+T76	Drug 6843 6856	Oxymetazoline
+T77	Dosage 6857 6858	1
+R50	Dosage-Drug Arg1:T77 Arg2:T76
+T78	Form 6859 6863	SPRY
+R51	Form-Drug Arg1:T78 Arg2:T76
+T79	Route 6864 6866	NU
+R52	Route-Drug Arg1:T79 Arg2:T76
+T80	Drug 6884 6893	Lorazepam
+T81	Strength 6894 6901	0.25 mg
+R53	Strength-Drug Arg1:T81 Arg2:T80
+T83	Frequency 6905 6909	ONCE
+R55	Frequency-Drug Arg1:T83 Arg2:T80
+T84	Drug 6914 6926	Pantoprazole
+T85	Strength 6927 6934	8 mg/hr
+R56	Strength-Drug Arg1:T85 Arg2:T84
+T87	Form 6938 6946	INFUSION
+R58	Form-Drug Arg1:T87 Arg2:T84
+T88	Drug 6975 6986	Rizatriptan
+T89	Strength 6987 6992	10 mg
+R59	Strength-Drug Arg1:T89 Arg2:T88
+T90	Form 6993 6999	Tablet
+R60	Form-Drug Arg1:T90 Arg2:T88
+T91	Dosage 7005 7012	One (1)
+R61	Dosage-Drug Arg1:T91 Arg2:T88
+T92	Form 7013 7019	Tablet
+R62	Form-Drug Arg1:T92 Arg2:T88
+T93	Route 7020 7022	PO
+R63	Route-Drug Arg1:T93 Arg2:T88
+T94	Frequency 7023 7035;7036 7045	daily prn () as needed
+R64	Frequency-Drug Arg1:T94 Arg2:T88
+T95	Reason 7050 7058	migraine
+R65	Reason-Drug Arg1:T95 Arg2:T88
+T96	Drug 7063 7075	Atorvastatin
+T97	Strength 7076 7081	40 mg
+R66	Strength-Drug Arg1:T97 Arg2:T96
+T98	Form 7082 7088	Tablet
+R67	Form-Drug Arg1:T98 Arg2:T96
+T99	Dosage 7094 7101	Two (2)
+R68	Dosage-Drug Arg1:T99 Arg2:T96
+T100	Form 7102 7108	Tablet
+R69	Form-Drug Arg1:T100 Arg2:T96
+T101	Route 7109 7111	PO
+R70	Route-Drug Arg1:T101 Arg2:T96
+T102	Frequency 7112 7117;7118 7125	DAILY (Daily)
+R71	Frequency-Drug Arg1:T102 Arg2:T96
+T103	Drug 7130 7138	Zolpidem
+T104	Strength 7139 7143	5 mg
+R72	Strength-Drug Arg1:T104 Arg2:T103
+T105	Form 7144 7150	Tablet
+R73	Form-Drug Arg1:T105 Arg2:T103
+T106	Dosage 7156 7163	Two (2)
+R74	Dosage-Drug Arg1:T106 Arg2:T103
+T107	Form 7164 7170	Tablet
+R75	Form-Drug Arg1:T107 Arg2:T103
+T108	Route 7171 7173	PO
+R76	Route-Drug Arg1:T108 Arg2:T103
+T109	Frequency 7174 7189	HS (at bedtime)
+R77	Frequency-Drug Arg1:T109 Arg2:T103
+T110	Drug 7195 7203	Warfarin
+T111	Strength 7204 7208	5 mg
+R78	Strength-Drug Arg1:T111 Arg2:T110
+T112	Form 7209 7215	Tablet
+R79	Form-Drug Arg1:T112 Arg2:T110
+T113	Strength 7221 7227	5.5 mg
+R80	Strength-Drug Arg1:T113 Arg2:T110
+T114	Frequency 7228 7250	every day but Saturday
+R81	Frequency-Drug Arg1:T114 Arg2:T110
+T115	Strength 7252 7255	4mg
+R82	Strength-Drug Arg1:T115 Arg2:T110
+T116	Frequency 7259 7267	Saturday
+R83	Frequency-Drug Arg1:T116 Arg2:T110
+T117	Form 7269 7276	Tablets
+R84	Form-Drug Arg1:T117 Arg2:T110
+T118	Route 7277 7279	PO
+R85	Route-Drug Arg1:T118 Arg2:T110
+T119	Frequency 7280 7298	Once Daily at 4 PM
+R86	Frequency-Drug Arg1:T119 Arg2:T110
+T120	Strength 7300 7305	5.5mg
+R87	Strength-Drug Arg1:T120 Arg2:T110
+T121	Frequency 7306 7319;7320 7328	every day but Saturday
+R88	Frequency-Drug Arg1:T121 Arg2:T110
+T122	Frequency 7333 7341	saturday
+T123	Strength 7347 7350	4mg
+R90	Strength-Drug Arg1:T123 Arg2:T110
+T124	Drug 7357 7363	Plavix
+T125	Strength 7364 7369	75 mg
+R91	Strength-Drug Arg1:T125 Arg2:T124
+T126	Form 7370 7376	Tablet
+R92	Form-Drug Arg1:T126 Arg2:T124
+T127	Dosage 7382 7389	One (1)
+R93	Dosage-Drug Arg1:T127 Arg2:T124
+T128	Form 7390 7396	Tablet
+R94	Form-Drug Arg1:T128 Arg2:T124
+T129	Route 7397 7399	PO
+R95	Route-Drug Arg1:T129 Arg2:T124
+T130	Frequency 7400 7410	once a day
+R96	Frequency-Drug Arg1:T130 Arg2:T124
+T131	Drug 7415 7423	Atenolol
+T132	Strength 7424 7429	25 mg
+R97	Strength-Drug Arg1:T132 Arg2:T131
+T133	Form 7430 7436	Tablet
+R98	Form-Drug Arg1:T133 Arg2:T131
+T134	Dosage 7442 7445	0.5
+R99	Dosage-Drug Arg1:T134 Arg2:T131
+T135	Form 7446 7452	Tablet
+R100	Form-Drug Arg1:T135 Arg2:T131
+T136	Route 7453 7455	PO
+R101	Route-Drug Arg1:T136 Arg2:T131
+T137	Frequency 7456 7469	DAILY (Daily)
+R102	Frequency-Drug Arg1:T137 Arg2:T131
+T138	Drug 7474 7485	Alendronate
+T139	Strength 7486 7491	70 mg
+R103	Strength-Drug Arg1:T139 Arg2:T138
+T140	Form 7492 7498	Tablet
+R104	Form-Drug Arg1:T140 Arg2:T138
+T141	Dosage 7504 7511	One (1)
+R105	Dosage-Drug Arg1:T141 Arg2:T138
+T142	Form 7512 7518	Tablet
+R106	Form-Drug Arg1:T142 Arg2:T138
+T143	Route 7519 7521	PO
+R107	Route-Drug Arg1:T143 Arg2:T138
+T144	Frequency 7522 7533	once a week
+R108	Frequency-Drug Arg1:T144 Arg2:T138
+T145	Drug 7539 7545	EpiPen
+T146	Strength 7546 7559	0.3 mg/0.3 mL
+R109	Strength-Drug Arg1:T146 Arg2:T145
+T147	Form 7560 7572	Pen Injector
+R110	Form-Drug Arg1:T147 Arg2:T145
+T148	Dosage 7578 7585	One (1)
+R111	Dosage-Drug Arg1:T148 Arg2:T145
+T149	Route 7587 7600	Intramuscular
+R112	Route-Drug Arg1:T149 Arg2:T145
+T150	Frequency 7601 7621	once a day as needed
+R113	Frequency-Drug Arg1:T150 Arg2:T145
+T151	Reason 7626 7637	anaphylaxis
+R114	Reason-Drug Arg1:T151 Arg2:T145
+T152	Drug 7642 7650	Skelaxin
+T153	Strength 7651 7657	800 mg
+R115	Strength-Drug Arg1:T153 Arg2:T152
+T154	Form 7658 7664	Tablet
+R116	Form-Drug Arg1:T154 Arg2:T152
+T155	Dosage 7670 7677	One (1)
+R117	Dosage-Drug Arg1:T155 Arg2:T152
+T156	Form 7678 7684	Tablet
+R118	Form-Drug Arg1:T156 Arg2:T152
+T157	Route 7685 7687	PO
+R119	Route-Drug Arg1:T157 Arg2:T152
+T158	Frequency 7688 7698	at bedtime
+R120	Frequency-Drug Arg1:T158 Arg2:T152
+T159	Drug 7704 7715	Clopidogrel
+T160	Strength 7716 7721	75 mg
+R121	Strength-Drug Arg1:T160 Arg2:T159
+T161	Form 7722 7728	Tablet
+R122	Form-Drug Arg1:T161 Arg2:T159
+T162	Dosage 7734 7741	One (1)
+R123	Dosage-Drug Arg1:T162 Arg2:T159
+T163	Form 7742 7748	Tablet
+R124	Form-Drug Arg1:T163 Arg2:T159
+T164	Route 7749 7751	PO
+R125	Route-Drug Arg1:T164 Arg2:T159
+T165	Frequency 7752 7757;7758 7765	DAILY (Daily)
+R126	Frequency-Drug Arg1:T165 Arg2:T159
+T166	Drug 7771 7785	Ranitidine HCl
+T167	Strength 7786 7792	150 mg
+R127	Strength-Drug Arg1:T167 Arg2:T166
+T168	Form 7793 7800	Capsule
+R128	Form-Drug Arg1:T168 Arg2:T166
+T169	Dosage 7806 7813	One (1)
+R129	Dosage-Drug Arg1:T169 Arg2:T166
+T170	Form 7814 7821	Capsule
+R130	Form-Drug Arg1:T170 Arg2:T166
+T171	Route 7822 7824	PO
+R131	Route-Drug Arg1:T171 Arg2:T166
+T172	Frequency 7825 7830;7831 7836	twice a day
+R132	Frequency-Drug Arg1:T172 Arg2:T166
+T173	Reason 8108 8147;8148 8159	status post mechanical Mechanical valve replacement
+R133	Reason-Drug Arg1:T173 Arg2:T174
+T174	Drug 8175 8183	coumadin
+T175	Reason 8231 8257	Transient ischemic attacks
+R134	Reason-Drug Arg1:T175 Arg2:T176
+T176	Drug 8262 8268	plavix
+T177	Drug 863 870	MiraLax
+T178	Drug 8884 8892	Coumadin
+T179	Drug 9059 9067	Coumadin
+T180	Strength 9095 9100	5.5mg
+R135	Strength-Drug Arg1:T180 Arg2:T179
+T181	Frequency 9101 9114;9115 9123	every day but Saturday
+R136	Frequency-Drug Arg1:T181 Arg2:T179
+T182	Frequency 9128 9136	Saturday
+R137	Frequency-Drug Arg1:T182 Arg2:T179
+T183	Strength 9142 9145	4mg
+R138	Strength-Drug Arg1:T183 Arg2:T179
+T184	Reason 998 1018	peptic ulcer disease
+R139	Reason-Drug Arg1:T184 Arg2:T1
+R140	Reason-Drug Arg1:T184 Arg2:T4
+R20	Frequency-Drug Arg1:T122 Arg2:T110	
+T6	Route 1207 1209	IV
+R4	Route-Drug Arg1:T6 Arg2:T4	
+T82	Route 6902 6904	IV
+R54	Route-Drug Arg1:T82 Arg2:T80	
+T86	Route 6935 6937	IV
+R57	Route-Drug Arg1:T86 Arg2:T84	

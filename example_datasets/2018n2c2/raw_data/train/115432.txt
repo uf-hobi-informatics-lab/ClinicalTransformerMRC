@@ -1,0 +1,419 @@
+Admission Date:  [**2172-9-22**]              Discharge Date:   [**2172-10-13**]
+
+Date of Birth:  [**2093-3-7**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Insulin,Beef
+
+Attending:[**First Name3 (LF) 2736**]
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+Intubation, Artic Sun cooling protocol, hemodialysis
+
+History of Present Illness:
+Patient is a 79 year-old Russian male with a past medical
+history significant for multivessel CAD s/p MI '[**45**], s/p OM PCI
+to LCX '[**60**], s/p BMS to D1 of LAD '[**66**] with stable exertional
+angina, atrial fibrillation on coumadin, diastolic heart
+failure, PVD, hypertension, hyperlipidemia, DM2, long history of
+medication non-compliance presented with CHF exacerbation,
+elevated INR, now transferred to CCU due to asymptommatic
+hypotension during diuresis.
+.
+Per patient, had N/V/Diarrhea 3 days ago reported to be
+self-resolving.  After resolution, noted worsening LE edema,
+orthopnea, fatigue and decreased PO intake.  No PO intake since
+illness.  On day of admission, he was so weak that he crawled to
+phone to be brought to ED.  In the ED was found to have slow
+atrial fibrillation, unchanged EKG.  CXR with e/o of pulmonary
+edema and right sided pleural effusion.  INR was 19.  Due to
+back bruise, CT scan done which was negative for RP bleed.
+However, did note moderate pericardial effusion.  Echo with no
+tamponade physiology. Recieved 10 mg Vitamin K to reverse INR,
+Lasix 80 mg IV with 75 cc UOP and admitted to the floor.
+.
+Overnight, he was placed on lasix gtt with subsequent
+hypotension this morning.  Urine output total 261 cc in 12
+hours.  Lasix gtt was discotninued and blood pressures improved
+to mid-90's, however, no urine output.  Blood pressure slowly
+declined to mid-80's off the lasix gtt and now transferred to
+CCU.
+.
+ROS: Denies fever, chills, night sweats, headache, vision
+changes, rhinorrhea, congestion, sore throat, cough, chest pain,
+abdominal pain, constipation, BRBPR, melena, hematochezia,
+dysuria.
+.
+Cardiac review of systems is notable for absence of chest pain,
+paroxysmal nocturnal dyspnea, orthopnea, palpitations, syncope
+or presyncope.
+
+
+Past Medical History:
+-- Multivessel CAD - s/p MI '[**45**], s/p OM PCI to LCX '[**60**], s/p BMS
+
+to D1 of LAD '[**66**]; stable exertional angina, rare with climbing
+hills, stairs;
+MIBI ETT in [**2166**] - anignal symptoms with no ischemic changes,
+52% predicted max HR
+-- Chronic AF - on warfarin
+-- Diastolic HF - orthopnea, paroxysmal nocturnal dyspnea,
+exertional dyspnea; Echo in [**2166**] - mild MR, normal EF; normal
+spirometry testing in [**2168**]
+-- PVD - calf claudication bilaterally
+-- Hypertension - normally 161-170/80 mmHg at home
+-- Dyslipidemia - most recent cholesterol 98, LDL 46
+-- Diabetes. Most recent A1c was 7.7
+-- Proteinuria
+-- Chronic anemia
+-- BPH
+-- H/o TB.
+-- Medication noncompliance.
+-- asthma
+-- DVT [**2170**] while on coumadin
+
+Social History:
+Retired electrician, widowed, has no children, lives alone in
+[**Location (un) 86**]. He quit smoking many years ago and does not drink
+alcohol nor use other drugs. He has had occupational lead
+exposure.
+
+Family History:
+[**Name (NI) **] CA - father
+
+Physical Exam:
+Admission physical exam:
+VS: T= Afebrile BP= 108/61 HR= 51 RR= 18 O2 sat= 92%  pulsus
+[**8-5**]
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: left eye conjunctiva injected, [**Last Name (un) **], MMM (but lips appear
+dry).
+NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+pallor or cyanosis of the oral mucosa. No xanthalesma.
+NECK: Supple with JVP of *** cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+.
+Discharge physical exam
+deceased
+
+Pertinent Results:
+Admission labs:
+[**2172-9-22**] 02:30PM BLOOD WBC-5.0 RBC-3.07* Hgb-9.1* Hct-27.9*
+MCV-91 MCH-29.7 MCHC-32.7 RDW-16.9* Plt Ct-321
+[**2172-9-22**] 02:30PM BLOOD Neuts-81.7* Lymphs-13.0* Monos-4.0
+Eos-0.9 Baso-0.4
+[**2172-9-22**] 02:30PM BLOOD PT-150* PTT-71.6* INR(PT)-19.2*
+[**2172-9-29**] 10:55AM BLOOD Fibrino-481*
+[**2172-9-28**] 12:50PM BLOOD Thrombn-14.8*
+[**2172-9-22**] 02:30PM BLOOD Glucose-360* UreaN-83* Creat-2.5* Na-139
+K-4.2 Cl-101 HCO3-27 AnGap-15
+[**2172-9-22**] 02:30PM BLOOD ALT-7 AST-13 AlkPhos-173* TotBili-2.1*
+[**2172-10-2**] 06:00AM BLOOD ALT-184* AST-383* AlkPhos-129
+TotBili-3.5*
+[**2172-9-22**] 02:30PM BLOOD Lipase-35
+[**2172-9-22**] 02:30PM BLOOD CK-MB-3 proBNP-4878*
+[**2172-9-22**] 02:30PM BLOOD cTropnT-0.13*
+[**2172-9-22**] 05:05PM BLOOD cTropnT-0.13*
+[**2172-9-23**] 12:00PM BLOOD CK-MB-4 cTropnT-0.12*
+[**2172-9-30**] 07:20AM BLOOD CK-MB-9 proBNP-7367*
+[**2172-9-30**] 11:37PM BLOOD CK-MB-15* MB Indx-1.8 cTropnT-0.15*
+[**2172-9-22**] 02:30PM BLOOD Albumin-3.1* Calcium-9.3 Phos-4.6* Mg-2.5
+[**2172-9-29**] 07:30AM BLOOD TotProt-6.0* Calcium-8.5 Phos-6.1*#
+Mg-2.5
+[**2172-10-3**] 06:03AM BLOOD Hapto-93
+[**2172-9-29**] 10:55AM BLOOD D-Dimer-<150
+[**2172-9-23**] 12:00PM BLOOD TSH-3.3
+[**2172-10-4**] 06:22AM BLOOD Cortsol-15.4
+[**2172-9-30**] 11:43PM BLOOD Lactate-10.8* K-4.9
+.
+[**2172-9-30**] 11:37PM BLOOD WBC-8.3 RBC-2.66* Hgb-7.8* Hct-25.2*
+MCV-95 MCH-29.3 MCHC-31.0 RDW-17.3* Plt Ct-285
+[**2172-10-4**] 06:22AM BLOOD PT-17.0* PTT-44.0* INR(PT)-1.5*
+[**2172-10-3**] 06:03AM BLOOD Ret Aut-3.5*
+[**2172-10-1**] 11:48AM BLOOD Glucose-256* UreaN-94* Creat-5.0* Na-140
+K-4.5 Cl-101 HCO3-14* AnGap-30*
+[**2172-10-4**] 05:25PM BLOOD Glucose-125* UreaN-87* Creat-4.8* Na-139
+K-3.8 Cl-105 HCO3-14* AnGap-24*
+[**2172-10-4**] 06:22AM BLOOD ALT-102* AST-184* TotBili-7.9*
+[**2172-10-4**] 06:43AM BLOOD Glucose-110* Lactate-1.6
+[**2172-9-23**] 06:59AM URINE Hours-RANDOM UreaN-241 Creat-73 Na-82
+K-37 Cl-80
+[**2172-9-24**] 08:00AM URINE Blood-LG Nitrite-POS Protein-300
+Glucose-NEG Ketone-TR Bilirub-MOD Urobiln-1 pH-5.5 Leuks-LG
+[**2172-9-24**] 08:00AM URINE RBC->182* WBC-151* Bacteri-MANY
+Yeast-NONE Epi-0
+[**2172-9-24**] 08:00AM URINE Color-Red Appear-Cloudy Sp [**Last Name (un) **]-1.020
+[**2172-9-30**] 11:00PM ASCITES WBC-250* RBC-[**Numeric Identifier **]* Polys-18*
+Lymphs-12* Monos-0 Mesothe-5* Macroph-65*
+[**2172-9-30**] 11:00PM ASCITES TotPro-3.3 Glucose-167 LD(LDH)-185
+Amylase-20 Albumin-1.8
+[**2172-9-30**] 11:00PM PERICARDIAL FLUID WBC-5000* RBC-[**Numeric Identifier 110831**]*
+Polys-7* Lymphs-83* Monos-5* Macro-5*
+[**2172-9-30**] 11:00PM PERICARDIAL FLUID TotProt-4.8 Glucose-144
+LD(LDH)-2680 Amylase-16 Albumin-2.2
+[**2172-9-30**] 11:00PM PERICARDIAL FLUID ADENOSINE DEAMINASE,
+FLUID-PND
+.
+DISCHARGE LABS: N/A
+.
+MICROBIOLOGY
+[**2172-9-22**] Urine Cx: SKIN AND/OR GENITAL CONTAMINATION.
+[**2172-9-23**] MRSA screen: No MRSA isolated.
+[**2172-9-24**] Urine Cx: ENTEROCOCCUS SP..    >100,000 ORGANISMS/ML..
+
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    10,000-100,000
+ORGANISMS/ML.
+               ENTEROCOCCUS SP.
+                             |          STAPHYLOCOCCUS,
+COAGULASE NEGATIVE
+                             |          |
+AMPICILLIN------------   <=2 S
+GENTAMICIN------------            <=0.5 S
+LEVOFLOXACIN----------              =>8 R
+NITROFURANTOIN--------  <=16 S     <=16 S
+OXACILLIN-------------              =>4 R
+TETRACYCLINE----------  =>16 R        8 I
+VANCOMYCIN------------     1 S        1 S
+
+[**2172-9-30**] ASCITES
+GRAM STAIN (Final [**2172-10-1**]): NO POLYMORPHONUCLEAR LEUKOCYTES
+SEEN.
+                             NO MICROORGANISMS SEEN.
+FLUID CULTURE (Final [**2172-10-4**]):    NO GROWTH.
+ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+ACID FAST SMEAR (Final [**2172-10-1**]): NO ACID FAST BACILLI SEEN ON
+DIRECT SMEAR.
+ACID FAST CULTURE (Preliminary):
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+[**2172-9-30**] PERICARDIAL FLUID
+GRAM STAIN (Final [**2172-10-1**]): 1+ POLYMORPHONUCLEAR LEUKOCYTES.
+                             NO MICROORGANISMS SEEN.
+FLUID CULTURE (Final [**2172-10-4**]):    NO GROWTH.
+ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+ACID FAST SMEAR (Final [**2172-10-1**]): NO ACID FAST BACILLI SEEN ON
+CONCENTRATED SMEAR.
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+ACID FAST CULTURE (Preliminary):
+
+[**2172-9-30**] PERICARDIAL FLUID CULTURE: pending
+[**2172-9-30**] ASCITIC FLUID CULTURE: pending
+.
+IMAGING:
+- [**2172-9-22**] ECHO: FOCUSED STUDY: Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. Overall left ventricular systolic function is low
+normal (LVEF 50-55%). The right ventricular cavity is mildly
+dilated with normal free wall contractility. The aortic valve
+leaflets are mildly thickened (?#). Trace aortic regurgitation
+is seen. The mitral valve leaflets are mildly thickened. Mild to
+moderate ([**12-29**]+) mitral regurgitation is seen. There is a small
+to moderate sized pericardial effusion. The effusion appears
+circumferential. No right atrial diastolic collapse is seen. No
+echocardiographic evidence of tamponade physiology. Compared
+with the findings of the prior study (images reviewed) of
+[**2171-11-6**], the pericardial effusion is new. Left ventricular
+function appears less vigorous. The severity of mitral
+regurgitation is increased.
+.
+[**2172-9-22**] CHEST (PORTABLE AP): Portable semi-upright chest
+radiograph demonstrates an interval increase in right basilar
+opacity, which likely represents a component of pleural
+effusion. Superimposed atelectasis and/or consolidation is not
+excluded. The heart size is moderately enlarged. The mediastinal
+contours are notable only for calcification of the aortic arch.
+The pulmonary vasculature is within normal limits.
+.
+[**2172-9-22**] CT ABD & PELVIS W/O CONTRAST:
+LUNG BASES: Granulomata are seen within the lungs bilaterally.
+There is a
+large right and small left pleural effusion with a density of
+simple fluid.  Compressive atelectasis is seen at the right
+greater than left lower lobes.  There is a moderate-sized
+pericardial effusion, with the attenuation of slightly complex
+fluid ([**Doctor Last Name **] 15-30). There is coronary arterial calcification, and
+the heart is moderately enlarged.
+ABDOMEN: Evaluation of the abdominal viscera is limited by lack
+of
+intravenous contrast. The liver is grossly unremarkable, without
+intrahepatic biliary ductal dilatation. The spleen is normal
+appearing with note made of marked splenic arterial
+calcification. The adrenals are normal bilaterally.  The
+pancreas demonstrates coarse calcification as noted previously,
+consistent with diagnosis of chronic pancreatitis, with atrophy
+of the distal body and tail. Within the body of the pancreas,
+there is a 1.8 cm ovoid soft tissue focus which is more dense
+than the surrounding gland and is stable compared with multiple
+priors. A calcification is seen within the wall of the
+gallbladder which was not seen on the prior which is likely a
+non-dependent or adherent stone. The gallbladder is otherwise
+unremarkable. The kidneys are atrophic and there is perinephric
+stranding. There is no hydronephrosis and there are no stones,
+though note is made of diffuse vascular calcification.
+Paraesophageal lymphadenopathy is noted, increased in size
+compared with
+prior, and likely reactive. The stomach is collapsed and not
+well evaluated.  Loops of small bowel are normal in caliber and
+enhancement. There is fecalization of distal loops of ileum.
+There is a moderate amount of abdominal ascites. There is no
+intraperitoneal free air. The aorta is
+calcified along its course, though normal in caliber. There is a
+small
+fluid-filled periumbilical hernia. There is no retroperitoneal
+hematoma.
+There is a fluid-filled left inguinal hernia. There is diffuse
+body wall
+stranding compatible with anasarca.
+PELVIS: The bladder is normal appearing. The prostate and
+seminal vesicles
+are unremarkable. The rectum is normal. The [**Doctor Last Name 499**] is normal. The
+appendix
+is normal. There is haziness of the central mesentery and
+retroperitoneum,
+which is likely resulting from similar process from the
+patient's ascites.
+BONE WINDOWS: There is multilevel degenerative change of the
+thoracolumbar
+spine, but no concerning lytic or blastic osseous lesions.
+.
+[**2172-9-23**] ECHO (TTE): The left atrium is mildly dilated. Left
+ventricular wall thicknesses and cavity size are normal. There
+is mild global left ventricular hypokinesis (LVEF = 45-50 %).
+Right ventricular chamber size and free wall motion are normal.
+The diameters of aorta at the sinus, ascending and arch levels
+are normal. The aortic valve leaflets are mildly thickened (?#).
+There is no aortic valve stenosis. Trace aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. There is
+mild pulmonary artery systolic hypertension. There is a small to
+moderate sized pericardial effusion. The effusion appears
+circumferential. There are no echocardiographic signs of
+tamponade.
+IMPRESSION: Moderate pericardial effusion with no echo signs of
+tamponade. Mild symmetric left ventricular hypertrophy with mild
+global left ventricular hypokinesis. Mild pulmonary
+hypertrension.
+Compared with the prior study (images reviewed) of [**2171-11-6**],
+the pericardial effusion is new. Left ventricular function is
+now mildly depressed. Estimated pulmonary artery pressures are
+similar.
+.
+[**2172-9-23**] ABDOMEN U.S. (COMPLETE STUDY):  Study is technically
+limited. The liver is grossly normal without focal lesion or
+intra- or extra-hepatic biliary ductal dilatation. Moderate
+volume ascites is noted. The gallbladder is minimally distended
+without wall thickening or edema. There may be a small tiny
+adherent stone. The common bile duct is not dilated measuring 3
+mm. Pancreas and aorta are not well seen due to overlying bowel
+gas. The imaged IVC is unremarkable. The spleen is top normal in
+size measuring 12.1 cm. There is no hydronephrosis, stone or
+mass bilaterally with the right kidney measuring 10.7 cm and the
+left kidney
+measuring 10.8 cm.
+
+Pericardial fluid:
+NEGATIVE FOR MALIGNANT CELLS.
+
+MRI Head
+. Multiple punctate foci of restricted diffusion in the left
+cerebellar
+hemisphere which represent small acute infarcts in the left
+posterior inferior cerebellar artery territory. These are likely
+of embolic or hypoxic etiology. MRA was not performed but major
+flow voids are grossly patent.
+
+TTE [**10-12**] There is mild symmetric left ventricular hypertrophy
+with normal cavity size and global systolic function (LVEF>55%).
+Due to suboptimal technical quality, a focal wall motion
+abnormality cannot be fully excluded. Right ventricular chamber
+size and free wall motion are normal. The aortic valve leaflets
+are mildly thickened (?#). There is a very small circumferential
+pericardial effusion without RA or RV diastolic collapse. There
+are very prominent left pleural and right pleural effusions as
+well as ascites.
+
+
+Brief Hospital Course:
+79M with CAD, diastolic CHF (EF 50-55%), afib on Coumadin
+admitted with volume overload in setting of N/V at home x 3
+days, found to have INR 19 with no bleeding complications and
+moderate pericardial effusion with no tamponade physiology
+transferred to CCU for hypotension in setting of diuresis. He
+was stabilized and went to the floor. On the floor, the patient
+was unwilling to participate in most aspects of care. He took
+off his telemetry leads, then was found unresponsive by a nurse
+and was found to be in PEA arrest, likely secondary to cardiac
+tamonade. There was a prolonged amount of time without a pulse.
+He was taken back to the CCU, where he underwent intubation and
+cooling protocol. Off of sedation, there was evidence of
+extensive neurologic damage, and a poor functional recovery was
+expected. Because of underlying kidney failure and uremia, he
+received hemodialysis to achieve a BUN less than upon admission
+(when he was mentating well). Because of poor renal clearance,
+serum benzos remained positive. He was given flumazenil to
+reverse any effect they may be having, and there was a minimal
+response. Ethics was involved and after extensive discussion
+with all available contacts, it was decided to make the patient
+CMO. The patient expired several hours later on [**2172-10-13**].
+
+
+Medications on Admission:
+HOME MEDICATIONS:
+warfarin 3 mg daily
+Lipitor 40 mg/day
+cilostazol 50 mg [**Hospital1 **]
+Vitamin B12
+doxazosin 4 mg qhs,
+Lasix 40 mg/day
+ImDur 90 mg/day
+insulin
+lisinopril 5 mg daily
+Toprol XL 100 mg/day
+NTG prn
+aspirin 81 mg/day
+Protonix 40 mg/day
+iron
+.
+MEDICATIONS ON TRANSFER
+- Metolazone 2.5 mg [**Hospital1 **]
+- Lasix 15 mg/h IV gtt
+- Tylenol 325-650 mg q6h prn pain
+- ASA 81 mg daily
+- Pantoprazole 40 mg q24h
+- Insulin sliding scale
+- Atorvastatin 20 mg daily
+
+Discharge Medications:
+not applicable
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+expired
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+not applicable
+
+Followup Instructions:
+not applicable
+
+

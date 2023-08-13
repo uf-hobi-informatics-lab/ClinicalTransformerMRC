@@ -1,0 +1,131 @@
+T1	Drug 6209 6220	Simvastatin
+T2	Form 6239 6243	pill
+T3	Drug 5571 5579	dopamine
+T4	Drug 1095 1104	Lopressor
+T5	Strength 1118 1122	1 mg
+T7	Drug 5256 5266	Integrilin
+T8	Drug 7054 7073	hydrochlorothiazide
+T9	Drug 6993 7005	Atorvastatin
+T10	Strength 7006 7010	80mg
+T11	Drug 6670 6677	aspirin
+T12	Drug 6813 6819	Plavix
+T13	Drug 1054 1062	Morphine
+T15	Drug 5343 5351	dopamine
+T16	Drug 5283 5291	dopamine
+T17	Drug 7079 7086	Aspirin
+T18	Strength 7087 7092	325mg
+T19	Drug 936 943	heparin
+T20	Strength 953 963	4200 units
+T21	Drug 1321 1331	Integrilin
+T22	Drug 5228 5234	Plavix
+T23	Drug 6968 6974;6975 6977	Toprol XL
+T24	Frequency 6978 6982;6983 6988	once daily
+T25	Drug 112 119	Aspirin
+T26	Drug 7027 7038	simvastatin
+T27	Drug 6712 6719	aspirin
+T28	Drug 1340 1348	Dopamine
+T29	Drug 7103 7113	Lisinopril
+T30	Strength 7114 7117	5mg
+T31	Reason 1357 1368	hypotension
+T32	Reason 5298 5310	elevated SBP
+T33	Reason 5408 5419	hypotension
+T34	Reason 5621 5632	hypotension
+T35	Dosage 944 949	bolus
+T36	Drug 972 983	Integrillin
+T37	Dosage 984 989	bolus
+T39	Route 1013 1027	sublinqual gtt
+T40	Dosage 1011 1012	2
+T41	Dosage 1070 1072	2L
+T42	Drug 1073 1075	NS
+T43	ADE 1128 1148	b/p dropped to 96/48
+T44	Route 1332 1335	gtt
+T45	Route 1349 1352	gtt
+T46	Drug 5183 5186	ASA
+T47	Drug 5247 5253	statin
+T48	Duration 5267 5275	x 18 hrs
+T49	Drug 5321 5333	beta blocker
+T50	Dosage 5394 5399	bolus
+T51	Drug 5400 5403	IVF
+T52	Drug 5428 5432	ACEI
+T53	Dosage 5607 5612	bolus
+T54	Drug 5644 5656	beta blocker
+T55	Drug 5613 5616	IVF
+T56	Reason 5808 5822	Hyperlipidemia
+T57	ADE 5494 5505	Hypotension
+T58	Reason 5494 5505	Hypotension
+T59	Drug 5834 5840	statin
+T60	Drug 5859 5863	hctz
+T61	Drug 5874 5886	beta blocker
+T62	Reason 5846 5849	HTN
+T63	Frequency 5920 5923	prn
+T64	Drug 5916 5919	IVF
+T65	Dosage 5910 5915	bolus
+T66	Drug 5967 5970	PPI
+T67	Reason 5962 5965	PPX
+T68	Drug 6122 6125	ASA
+T69	ADE 6129 6144	facial swelling
+T70	ADE 6144 6152	/itching
+T71	Drug 6178 6182	Hctz
+T72	Drug 6376 6379	ASA
+T73	Frequency 7011 7016	daily
+T74	Frequency 7093 7098	daily
+T75	Frequency 7118 7123	daily
+R1	Form-Drug Arg1:T2 Arg2:T1
+R2	Strength-Drug Arg1:T5 Arg2:T4
+R4	Strength-Drug Arg1:T10 Arg2:T9
+R6	Strength-Drug Arg1:T18 Arg2:T17
+R7	Strength-Drug Arg1:T20 Arg2:T19
+R8	Frequency-Drug Arg1:T24 Arg2:T23
+R9	Strength-Drug Arg1:T30 Arg2:T29
+R10	Dosage-Drug Arg1:T41 Arg2:T42
+R12	Dosage-Drug Arg1:T40 Arg2:T36
+R13	Route-Drug Arg1:T39 Arg2:T36
+R14	ADE-Drug Arg1:T43 Arg2:T4
+R15	Reason-Drug Arg1:T31 Arg2:T28
+R16	Route-Drug Arg1:T44 Arg2:T21
+R17	Route-Drug Arg1:T45 Arg2:T28
+R18	Duration-Drug Arg1:T48 Arg2:T7
+R19	Reason-Drug Arg1:T33 Arg2:T51
+R20	Reason-Drug Arg1:T34 Arg2:T55
+R21	Reason-Drug Arg1:T58 Arg2:T3
+R22	Reason-Drug Arg1:T62 Arg2:T61
+R23	Frequency-Drug Arg1:T63 Arg2:T64
+R24	Dosage-Drug Arg1:T65 Arg2:T64
+R25	Dosage-Drug Arg1:T53 Arg2:T55
+R26	Dosage-Drug Arg1:T50 Arg2:T51
+R27	Dosage-Drug Arg1:T37 Arg2:T36
+R28	Dosage-Drug Arg1:T35 Arg2:T19
+R29	Reason-Drug Arg1:T67 Arg2:T66
+R30	ADE-Drug Arg1:T69 Arg2:T68
+R31	ADE-Drug Arg1:T70 Arg2:T68
+R32	Frequency-Drug Arg1:T73 Arg2:T9
+R33	Frequency-Drug Arg1:T74 Arg2:T17
+R34	Frequency-Drug Arg1:T75 Arg2:T29
+T76	Reason 900 915;916 921	STE in inferior leads
+T77	Reason 5078 5081	CAD
+T79	Reason 5905 5908	FEN
+T80	Strength 1046 1050	2 mg
+T81	Drug 1880 1888	OTC meds
+T84	Drug 5539 5551	vasodilators
+T86	Drug 5768 5780	beta blocker
+T90	Form 6201 6205	pill
+T93	Frequency 6851 6860	every day
+T94	Duration 6861 6873;6874 6879	for the next month
+T95	Duration 6907 6926	for at least 1 year
+R36	Reason-Drug Arg1:T76 Arg2:T19	
+R37	Strength-Drug Arg1:T80 Arg2:T13	
+R38	Reason-Drug Arg1:T77 Arg2:T46	
+R39	Reason-Drug Arg1:T77 Arg2:T22	
+R40	Reason-Drug Arg1:T32 Arg2:T49	
+R41	ADE-Drug Arg1:T57 Arg2:T84	
+R35	Reason-Drug Arg1:T56 Arg2:T59	
+R42	Reason-Drug Arg1:T79 Arg2:T64	
+R43	Form-Drug Arg1:T90 Arg2:T71	
+R44	Frequency-Drug Arg1:T93 Arg2:T12	
+R45	Duration-Drug Arg1:T94 Arg2:T12	
+R46	Duration-Drug Arg1:T95 Arg2:T12	
+T6	Route 1063 1065	IV
+R3	Route-Drug Arg1:T6 Arg2:T13	
+T14	Route 1105 1107	IV
+R5	Route-Drug Arg1:T14 Arg2:T4	
+T38	Drug 2058 2060	O2

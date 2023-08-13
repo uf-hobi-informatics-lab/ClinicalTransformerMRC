@@ -1,0 +1,396 @@
+T1	Form 10001 10008	Capsule
+R1	Form-Drug Arg1:T1 Arg2:T227
+T2	Dosage 10014 10021	One (1)
+R2	Dosage-Drug Arg1:T2 Arg2:T227
+T3	Form 10022 10025	Cap
+R3	Form-Drug Arg1:T3 Arg2:T227
+T4	Route 10026 10028	PO
+R4	Route-Drug Arg1:T4 Arg2:T227
+T5	Frequency 10029 10042	DAILY (Daily)
+R5	Frequency-Drug Arg1:T5 Arg2:T227
+T6	Drug 10047 10058	Simvastatin
+T7	Strength 10059 10064	10 mg
+R6	Strength-Drug Arg1:T7 Arg2:T6
+T8	Form 10065 10071	Tablet
+R7	Form-Drug Arg1:T8 Arg2:T6
+T9	Dosage 10077 10084	One (1)
+R8	Dosage-Drug Arg1:T9 Arg2:T6
+T10	Form 10085 10091	Tablet
+R9	Form-Drug Arg1:T10 Arg2:T6
+T11	Route 10092 10094	PO
+R10	Route-Drug Arg1:T11 Arg2:T6
+T12	Frequency 10095 10100;10101 10108	DAILY (Daily)
+R11	Frequency-Drug Arg1:T12 Arg2:T6
+T13	Drug 10113 10135	Isosorbide Mononitrate
+T14	Strength 10136 10141	30 mg
+R12	Strength-Drug Arg1:T14 Arg2:T13
+T15	Form 10142 10171	Tablet Sustained Release 24HR
+R13	Form-Drug Arg1:T15 Arg2:T13
+T16	Dosage 10177 10184	One (1)
+R14	Dosage-Drug Arg1:T16 Arg2:T13
+T17	Form 10185 10214	Tablet Sustained Release 24HR
+R15	Form-Drug Arg1:T17 Arg2:T13
+T18	Route 10215 10217	PO
+R16	Route-Drug Arg1:T18 Arg2:T13
+T19	Frequency 10218 10231	DAILY (Daily)
+R17	Frequency-Drug Arg1:T19 Arg2:T13
+T20	Drug 10236 10248	Prazosin HCl
+T21	Strength 10249 10253	1 mg
+R18	Strength-Drug Arg1:T21 Arg2:T20
+T22	Form 10254 10261	Capsule
+R19	Form-Drug Arg1:T22 Arg2:T20
+T23	Dosage 10267 10274	One (1)
+R20	Dosage-Drug Arg1:T23 Arg2:T20
+T24	Form 10275 10282	Capsule
+R21	Form-Drug Arg1:T24 Arg2:T20
+T25	Route 10283 10285	PO
+R22	Route-Drug Arg1:T25 Arg2:T20
+T26	Frequency 10286 10297;10298 10315	QHS (once a day (at bedtime))
+R23	Frequency-Drug Arg1:T26 Arg2:T20
+T27	Drug 10320 10339	Magnesium Hydroxide
+T28	Strength 10340 10351	400 mg/5 mL
+R24	Strength-Drug Arg1:T28 Arg2:T27
+T29	Form 10352 10362	Suspension
+R25	Form-Drug Arg1:T29 Arg2:T27
+T30	Dosage 10368 10379;10380 10382	Thirty (30) ML
+R26	Dosage-Drug Arg1:T30 Arg2:T27
+T31	Route 10383 10385	PO
+R27	Route-Drug Arg1:T31 Arg2:T27
+T32	Frequency 10386 10425	QHS (once a day (at bedtime)) as needed
+R28	Frequency-Drug Arg1:T32 Arg2:T27
+T33	Drug 10430 10438	Protonix
+T34	Strength 10439 10444	40 mg
+R29	Strength-Drug Arg1:T34 Arg2:T33
+T35	Form 10445 10475	Tablet, Delayed Release (E.C.)
+R30	Form-Drug Arg1:T35 Arg2:T33
+T36	Dosage 10481 10488	One (1)
+R31	Dosage-Drug Arg1:T36 Arg2:T33
+T37	Form 10489 10519	Tablet, Delayed Release (E.C.)
+R32	Form-Drug Arg1:T37 Arg2:T33
+T38	Route 10520 10522	PO
+R33	Route-Drug Arg1:T38 Arg2:T33
+T39	Frequency 10523 10533	once a day
+R34	Frequency-Drug Arg1:T39 Arg2:T33
+T40	Drug 10538 10557	Ipratropium Bromide
+T41	Strength 10558 10562	0.02 
+R35	Strength-Drug Arg1:T41 Arg2:T40
+T42	Form 10565 10573	Solution
+R36	Form-Drug Arg1:T42 Arg2:T40
+T43	Dosage 10579 10586	One (1)
+R37	Dosage-Drug Arg1:T43 Arg2:T40
+T44	Form 10587 10596	treatment
+R38	Form-Drug Arg1:T44 Arg2:T40
+T45	Route 10597 10607	Inhalation
+R39	Route-Drug Arg1:T45 Arg2:T40
+T46	Frequency 10608 10637	Q8H (every 8 hours) as needed
+R40	Frequency-Drug Arg1:T46 Arg2:T40
+T47	Drug 10642 10654	Epoetin Alfa
+T48	Strength 10655 10669	10,000 unit/mL
+R41	Strength-Drug Arg1:T48 Arg2:T47
+T49	Form 10670 10678	Solution
+R42	Form-Drug Arg1:T49 Arg2:T47
+T50	Dosage 10684 10696	10,000 units
+R43	Dosage-Drug Arg1:T50 Arg2:T47
+T51	Form 10697 10706	Injection
+R44	Form-Drug Arg1:T51 Arg2:T47
+T52	Frequency 10707 10741	QMOWEFR (Monday -Wednesday-Friday)
+R45	Frequency-Drug Arg1:T52 Arg2:T47
+T53	Dosage 10826 10835	5000 unit
+R46	Dosage-Drug Arg1:T53 Arg2:T47
+T54	Frequency 10836 10840	week
+R47	Frequency-Drug Arg1:T54 Arg2:T47
+T55	Drug 10860 10877	Albuterol Sulfate
+T56	Strength 10878 10884;10884 10885	0.083  %
+R48	Strength-Drug Arg1:T56 Arg2:T55
+T57	Form 10886 10894	Solution
+R49	Form-Drug Arg1:T57 Arg2:T55
+T58	Dosage 10900 10907	One (1)
+R50	Dosage-Drug Arg1:T58 Arg2:T55
+T59	Form 10908 10917	treatment
+R51	Form-Drug Arg1:T59 Arg2:T55
+T60	Route 10918 10928	Inhalation
+R52	Route-Drug Arg1:T60 Arg2:T55
+T61	Frequency 10929 10958	Q6H (every 6 hours) as needed
+R53	Frequency-Drug Arg1:T61 Arg2:T55
+T62	Drug 10964 10979	Docusate Sodium
+T63	Strength 10980 10986	100 mg
+R54	Strength-Drug Arg1:T63 Arg2:T62
+T64	Form 10987 10994	Capsule
+R55	Form-Drug Arg1:T64 Arg2:T62
+T65	Dosage 11000 11007	One (1)
+R56	Dosage-Drug Arg1:T65 Arg2:T62
+T66	Form 11008 11015	Capsule
+R57	Form-Drug Arg1:T66 Arg2:T62
+T67	Route 11016 11018	PO
+R58	Route-Drug Arg1:T67 Arg2:T62
+T68	Frequency 11019 11022;11023 11038	BID (2 times a day)
+R59	Frequency-Drug Arg1:T68 Arg2:T62
+T69	Drug 11070 11074	iron
+T70	Drug 11111 11130	Ipratropium Bromide
+T71	Strength 11131 11135	0.02 
+R60	Strength-Drug Arg1:T71 Arg2:T70
+T72	Form 11138 11146	Solution
+R61	Form-Drug Arg1:T72 Arg2:T70
+T73	Dosage 11152 11159	One (1)
+R62	Dosage-Drug Arg1:T73 Arg2:T70
+T74	Form 11160 11169	treatment
+R63	Form-Drug Arg1:T74 Arg2:T70
+T75	Route 11170 11180	Inhalation
+R64	Route-Drug Arg1:T75 Arg2:T70
+T76	Frequency 11181 11210	Q8H (every 8 hours) as needed
+R65	Frequency-Drug Arg1:T76 Arg2:T70
+T77	Drug 11216 11228	Levofloxacin
+T78	Strength 11229 11235	250 mg
+R66	Strength-Drug Arg1:T78 Arg2:T77
+T79	Form 11236 11242	Tablet
+R67	Form-Drug Arg1:T79 Arg2:T77
+T80	Dosage 11248 11255	One (1)
+R68	Dosage-Drug Arg1:T80 Arg2:T77
+T81	Form 11256 11262	Tablet
+R69	Form-Drug Arg1:T81 Arg2:T77
+T82	Route 11263 11265	PO
+R70	Route-Drug Arg1:T82 Arg2:T77
+T83	Frequency 11266 11270;11271 11287	Q48H (every 48 hours)
+R71	Frequency-Drug Arg1:T83 Arg2:T77
+T84	Duration 11288 11298	for 5 days
+R72	Duration-Drug Arg1:T84 Arg2:T77
+T85	Drug 11304 11323	Amlodipine Besylate
+T86	Strength 11324 11328	5 mg
+R73	Strength-Drug Arg1:T86 Arg2:T85
+T87	Form 11329 11335	Tablet
+R74	Form-Drug Arg1:T87 Arg2:T85
+T88	Dosage 11341 11348	Two (2)
+R75	Dosage-Drug Arg1:T88 Arg2:T85
+T89	Form 11349 11355	Tablet
+R76	Form-Drug Arg1:T89 Arg2:T85
+T90	Route 11356 11358	PO
+R77	Route-Drug Arg1:T90 Arg2:T85
+T91	Frequency 11359 11364;11365 11372	DAILY (Daily)
+R78	Frequency-Drug Arg1:T91 Arg2:T85
+T92	Drug 11378 11398	Levothyroxine Sodium
+T93	Strength 11399 11405	50 mcg
+R79	Strength-Drug Arg1:T93 Arg2:T92
+T94	Form 11406 11412	Tablet
+R80	Form-Drug Arg1:T94 Arg2:T92
+T95	Dosage 11418 11425	One (1)
+R81	Dosage-Drug Arg1:T95 Arg2:T92
+T96	Form 11426 11432	Tablet
+R82	Form-Drug Arg1:T96 Arg2:T92
+T97	Route 11433 11435	PO
+R83	Route-Drug Arg1:T97 Arg2:T92
+T98	Frequency 11436 11449	DAILY (Daily)
+R84	Frequency-Drug Arg1:T98 Arg2:T92
+T99	Drug 11455 11470	Hydralazine HCl
+T100	Strength 11471 11476	50 mg
+R85	Strength-Drug Arg1:T100 Arg2:T99
+T101	Dosage 11477 11483	Tablet
+R86	Dosage-Drug Arg1:T101 Arg2:T99
+T102	Dosage 11489 11492	1.5
+R87	Dosage-Drug Arg1:T102 Arg2:T99
+T103	Form 11493 11500	Tablets
+R88	Form-Drug Arg1:T103 Arg2:T99
+T104	Route 11501 11503	PO
+R89	Route-Drug Arg1:T104 Arg2:T99
+T105	Frequency 11504 11514;11515 11523	Q6H (every 6 hours)
+R90	Frequency-Drug Arg1:T105 Arg2:T99
+T106	Drug 11529 11541	Prazosin HCl
+T107	Strength 11542 11546	2 mg
+R91	Strength-Drug Arg1:T107 Arg2:T106
+T108	Form 11547 11554	Capsule
+R92	Form-Drug Arg1:T108 Arg2:T106
+T109	Dosage 11560 11567	One (1)
+R93	Dosage-Drug Arg1:T109 Arg2:T106
+T110	Form 11568 11575	Capsule
+R94	Form-Drug Arg1:T110 Arg2:T106
+T111	Route 11576 11578	PO
+R95	Route-Drug Arg1:T111 Arg2:T106
+T112	Frequency 11579 11588;11589 11608	QHS (once a day (at bedtime))
+R96	Frequency-Drug Arg1:T112 Arg2:T106
+T113	Drug 11698 11707	synthroid
+T114	Strength 11726 11732	25 mcg
+R97	Strength-Drug Arg1:T114 Arg2:T113
+T115	Drug 11738 11745	Insulin
+T116	Drug 11755 11762	insulin
+T117	Dosage 11763 11776	sliding scale
+R98	Dosage-Drug Arg1:T117 Arg2:T116
+T118	Drug 11789 11796	insulin
+T119	Frequency 11797 11800	QID
+R99	Frequency-Drug Arg1:T119 Arg2:T118
+T120	Dosage 11810 11817	2 units
+R100	Dosage-Drug Arg1:T120 Arg2:T118
+T121	Dosage 11826 11833	4 units
+R101	Dosage-Drug Arg1:T121 Arg2:T118
+T122	Dosage 11842 11849	6 units
+R102	Dosage-Drug Arg1:T122 Arg2:T118
+T123	Dosage 11858 11865	8 units
+R103	Dosage-Drug Arg1:T123 Arg2:T118
+T124	Dosage 11874 11882	10 units
+R104	Dosage-Drug Arg1:T124 Arg2:T118
+T125	Dosage 11898 11911	sliding scale
+R105	Dosage-Drug Arg1:T125 Arg2:T118
+T126	Dosage 11935 11943	one unit
+R106	Dosage-Drug Arg1:T126 Arg2:T118
+T127	Reason 5580 5602	primary hypothyroidism
+R107	Reason-Drug Arg1:T127 Arg2:T129
+R108	Reason-Drug Arg1:T127 Arg2:T131
+T128	Drug 560 568	atropine
+T129	Drug 5622 5631	Synthroid
+T130	Strength 5632 5642	112mcg/day
+R109	Strength-Drug Arg1:T130 Arg2:T129
+T131	Drug 5814 5823	synthroid
+T132	Strength 5827 5833	50 mcg
+R110	Strength-Drug Arg1:T132 Arg2:T131
+T133	Strength 5888 5894	25 mcg
+R111	Strength-Drug Arg1:T133 Arg2:T131
+T134	Reason 5969 5983	hypothyroidism
+R112	Reason-Drug Arg1:T134 Arg2:T136
+T135	Drug 611 614	IVF
+T136	Drug 6332 6341	Synthroid
+T137	Reason 6427 6441	hypothyroidism
+R113	Reason-Drug Arg1:T137 Arg2:T138
+T138	Drug 6493 6502	synthroid
+T139	Reason 6695 6707	Pancytopenia
+R114	Reason-Drug Arg1:T139 Arg2:T141
+T140	Dosage 685 692	2 units
+R115	Dosage-Drug Arg1:T140 Arg2:T144
+T141	Drug 6875 6881	Epogen
+T142	Dosage 6883 6903	5000 or 20,000 units
+R116	Dosage-Drug Arg1:T142 Arg2:T141
+T143	Frequency 6904 6908	week
+R117	Frequency-Drug Arg1:T143 Arg2:T141
+T144	Drug 693 698	PRBCs
+T145	Reason 703 709	anemia
+R118	Reason-Drug Arg1:T145 Arg2:T144
+T146	Drug 711 715	Vanc
+T147	Drug 720 728	Levaquin
+T148	Drug 7251 7254	Epo
+T149	Dosage 7258 7270	40,000 units
+R119	Dosage-Drug Arg1:T149 Arg2:T148
+T150	Frequency 7271 7279	per week
+R120	Frequency-Drug Arg1:T150 Arg2:T148
+T151	Reason 742 748	sepsis
+R121	Reason-Drug Arg1:T151 Arg2:T146
+R122	Reason-Drug Arg1:T151 Arg2:T147
+T152	Dosage 7684 7691	2 units
+R123	Dosage-Drug Arg1:T152 Arg2:T153
+T153	Drug 7692 7697	PRBCs
+T154	Drug 7807 7810	ASA
+T155	Reason 7890 7893	DM2
+R124	Reason-Drug Arg1:T155 Arg2:T158
+R127	Reason-Drug Arg1:T155 Arg2:T164
+R128	Reason-Drug Arg1:T155 Arg2:T167
+R129	Reason-Drug Arg1:T155 Arg2:T168
+T156	Drug 7910 7914	RISS
+T158	Drug 7918 7927	glyburide
+T159	Reason 7958 7970	hyponatremic
+R131	Reason-Drug Arg1:T159 Arg2:T160
+T160	Drug 8017 8020	D5W
+T161	Route 8021 8025	drip
+R132	Route-Drug Arg1:T161 Arg2:T160
+T162	Drug 8035 8039	RISS
+T164	Drug 8101 8108	insulin
+T165	Route 8239 8243	oral
+R134	Route-Drug Arg1:T165 Arg2:T166
+T166	Drug 8244 8256	hypoglycemic
+T167	Drug 8292 8301	glyburide
+T168	Drug 8328 8337	Glipizide
+T169	Reason 8683 8686	CAD
+R135	Reason-Drug Arg1:T169 Arg2:T172
+R136	Reason-Drug Arg1:T169 Arg2:T173
+T170	Drug 8698 8701	ASA
+T171	Drug 8738 8744	statin
+T172	Drug 8754 8756	BB
+T173	Drug 8818 8830	beta blocker
+T174	Reason 8837 8840	CHF
+R137	Reason-Drug Arg1:T174 Arg2:T175
+T175	Drug 9134 9139	Lasix
+T176	Strength 9140 9144	40mg
+R138	Strength-Drug Arg1:T176 Arg2:T175
+T178	Reason 9171 9178	overdry
+R140	Reason-Drug Arg1:T178 Arg2:T179
+T179	Drug 9234 9236	NS
+T180	Dosage 9237 9244	boluses
+R141	Dosage-Drug Arg1:T180 Arg2:T179
+T181	Reason 9288 9295	LLL pna
+R142	Reason-Drug Arg1:T181 Arg2:T182
+T182	Drug 9363 9371	Levaquin
+T183	Duration 9374 9379	7days
+R143	Duration-Drug Arg1:T183 Arg2:T182
+T184	Reason 9448 9451	HTN
+R144	Reason-Drug Arg1:T184 Arg2:T185
+R145	Reason-Drug Arg1:T184 Arg2:T187
+R146	Reason-Drug Arg1:T184 Arg2:T189
+T185	Drug 9463 9471	prazosin
+T186	Strength 9486 9490	2 mg
+R147	Strength-Drug Arg1:T186 Arg2:T187
+T187	Drug 9491 9499	prasozin
+T188	Frequency 9500 9502;9503 9508	at night
+R148	Frequency-Drug Arg1:T188 Arg2:T187
+T189	Drug 9525 9536	Hydralazine
+T190	Drug 9550 9554	ACEI
+T191	Drug 9582 9584	BB
+T192	Drug 9724 9727	ASA
+T193	Strength 9728 9731	325
+R149	Strength-Drug Arg1:T193 Arg2:T192
+T194	Frequency 9732 9734	qd
+R150	Frequency-Drug Arg1:T194 Arg2:T192
+T195	Drug 9735 9743	protonix
+T196	Strength 9744 9746	40
+R151	Strength-Drug Arg1:T196 Arg2:T195
+T197	Frequency 9747 9749	qd
+R152	Frequency-Drug Arg1:T197 Arg2:T195
+T198	Drug 9750 9757	lipitor
+T199	Strength 9758 9760	10
+R153	Strength-Drug Arg1:T199 Arg2:T198
+T200	Frequency 9761 9763	qd
+R154	Frequency-Drug Arg1:T200 Arg2:T198
+T201	Drug 9764 9773	glyburide
+T202	Strength 9774 9777	2.5
+R155	Strength-Drug Arg1:T202 Arg2:T201
+T203	Frequency 9778 9781	qam
+R156	Frequency-Drug Arg1:T203 Arg2:T201
+T204	Drug 9782 9790	iso mono
+T205	Strength 9791 9793	30
+R157	Strength-Drug Arg1:T205 Arg2:T204
+T206	Frequency 9794 9796	qd
+R158	Frequency-Drug Arg1:T206 Arg2:T204
+T207	Drug 9797 9803	zoloft
+T208	Strength 9804 9806	50
+R159	Strength-Drug Arg1:T208 Arg2:T207
+T209	Frequency 9807 9809	qd
+R160	Frequency-Drug Arg1:T209 Arg2:T207
+T210	Drug 9810 9813	MOM
+T211	Drug 9814 9820	epogen
+T212	Dosage 9822 9828	20,000
+R161	Dosage-Drug Arg1:T212 Arg2:T211
+T213	Frequency 9829 9833	week
+R162	Frequency-Drug Arg1:T213 Arg2:T211
+T214	Dosage 9837 9841	5000
+R163	Dosage-Drug Arg1:T214 Arg2:T211
+T215	Frequency 9842 9846	week
+R164	Frequency-Drug Arg1:T215 Arg2:T211
+T216	Drug 9847 9855	prazosin
+T217	Strength 9856 9859	1mg
+R165	Strength-Drug Arg1:T217 Arg2:T216
+T218	Frequency 9860 9862	qd
+R166	Frequency-Drug Arg1:T218 Arg2:T216
+T219	Drug 9891 9901	Alprazolam
+T220	Strength 9902 9909	0.25 mg
+R167	Strength-Drug Arg1:T220 Arg2:T219
+T221	Form 9910 9916	Tablet
+R168	Form-Drug Arg1:T221 Arg2:T219
+T222	Dosage 9922 9929	One (1)
+R169	Dosage-Drug Arg1:T222 Arg2:T219
+T223	Form 9930 9936	Tablet
+R170	Form-Drug Arg1:T223 Arg2:T219
+T224	Route 9937 9939	PO
+R171	Route-Drug Arg1:T224 Arg2:T219
+T225	Frequency 9940 9951;9952 9969	QHS (once a day (at bedtime))
+R172	Frequency-Drug Arg1:T225 Arg2:T219
+T226	Duration 9970 9979	as needed
+R173	Duration-Drug Arg1:T226 Arg2:T219
+T227	Drug 9984 9996	Multivitamin
+R174	Reason-Drug Arg1:T169 Arg2:T171	
+R175	Reason-Drug Arg1:T169 Arg2:T170	
+T157	Route 9145 9147	IV
+R125	Route-Drug Arg1:T157 Arg2:T175	

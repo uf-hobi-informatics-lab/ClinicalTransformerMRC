@@ -1,0 +1,260 @@
+Admission Date:  [**2123-11-4**]              Discharge Date:   [**2123-11-16**]
+
+Date of Birth:  [**2044-3-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Inderal / Morphine
+
+Attending:[**First Name3 (LF) 898**]
+Chief Complaint:
+post-op bleeding after tooth extraction
+
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+79 yo woman with history of a-fib, CHF s/p bioprosthetic mitral
+and s/p tricuspid valve annuloplasty, who initially was admitted
+to [**11-4**] after she presented to ED with persistent bleeding
+following L tooth extractions and posterior superior palate I
+and D. Patient initially had INR elevated to 2.1 secondary to
+warfarin use for atrial fibrillation. In ED ENT was consulted
+and pt was packed to help control bleeding. Her INR was reversed
+with vitamin K, 2 units FFP and her INR now is 1.1. She was
+hypotensive with SBP in 80's on admission and was admitted to
+the ICU. Hct was 21 on admission (baseline 30) and the patient
+required 3 units of PRBCs on [**11-4**]. Her Hct has been stable at
+28-29 x more than 24 hours and she was called out from the ICU
+today.
+.
+Pt currently denies any feelings of light-headedness, no chest
+pain or difficulty breathing. Denies pain in her mouth, no
+recent fevers or chills. Further ROS negative.
+
+
+Past Medical History:
+- MVR in [**2089**], [**2101**], [**2114**] last with bioprosthetic valve
+- Severe pulmonary HTN
+- TR
+- Right-sided heart failure
+- Chronic AF
+- CVA x 2
+- HTN
+- Mild renal insuff, hyperkalemia
+- Anemia - Last c-scope >10 years ago - had a few polyps removed
+
+- Aorto-Femoral bypass
+- Last Echo [**1-15**]: EF >65%, mild LVH, severe Pulmonary HTN and
+(4+) TR, 1+ MR/AR.
+
+
+Social History:
+Lives alone, children nearby. 6 children and 12 grandchildren.
+Born in [**Country 4754**] but moved to the US at a young age. Denies tob,
+
+ETOH, IVDU. Walks with a cane.
+
+
+Family History:
+n/c
+
+Physical Exam:
+GEN: awake, alert, thin, NAD
+HEENT: atraumatic, anicteric, gauze in mouth, no active bleeding
+
+NECK: no LAD, no JVP
+CV: [**3-15**] holosystolic murmur heard throughout, irregularly
+irregular
+LUNGS: mild crackles at bases, good air movement, no accessory
+muscle use
+ABD: soft, nt, non-distended, nabs
+EXT: warm, dry. Trace edema B/L, chronic venous stasis
+pigmentation changes. Some eccymoses on UE
+NEURO: A/O x3, answers questions appropriately, follows commands
+
+
+
+Pertinent Results:
+[**2123-11-3**] 10:50AM   PT-24.6* PTT-35.8* INR(PT)-2.5*
+[**2123-11-3**] 10:50AM   WBC-4.8 RBC-3.54* HGB-10.0* HCT-29.8* MCV-84
+MCH-28.4 MCHC-33.7 RDW-16.6*
+[**2123-11-3**] 10:40PM   PT-26.6* PTT-35.7* INR(PT)-2.7*
+[**2123-11-3**] 10:40PM   WBC-4.9 RBC-3.24* HGB-9.0* HCT-27.1* MCV-83
+MCH-27.7 MCHC-33.2 RDW-16.6*
+[**2123-11-3**] 10:40PM   GLUCOSE-120* UREA N-90* CREAT-2.5* SODIUM-134
+POTASSIUM-4.5 CHLORIDE-96 TOTAL CO2-27 ANION GAP-16
+[**2123-11-4**] 06:07AM   FIBRINOGE-304
+[**2123-11-4**] 06:07AM   NEUTS-75.7* LYMPHS-14.3* MONOS-7.3 EOS-1.9
+BASOS-0.8
+[**2123-11-4**] 06:07AM   WBC-3.1* RBC-2.54* HGB-7.1* HCT-21.3* MCV-84
+MCH-28.2 MCHC-33.5 RDW-16.6*
+[**2123-11-4**] 06:07AM   CALCIUM-9.1 PHOSPHATE-4.1 MAGNESIUM-2.7*
+[**2123-11-4**] 06:07AM   GLUCOSE-93 UREA N-91* CREAT-2.3* SODIUM-137
+POTASSIUM-4.5 CHLORIDE-100 TOTAL CO2-31 ANION GAP-11
+[**2123-11-4**] 09:40AM   HCT-22.8*
+[**2123-11-4**] 07:34PM   HCT-28.4*
+.
+CHEST (PORTABLE AP)  [**2123-11-4**] 2:39 AM
+FINDINGS: There is stable cardiomegaly. Elevation of right
+hemidiaphragm persists. There is chronic pleural thickening on
+the right, with right basilar atelectasis and small pleural
+effusion present. There are no consolidations. Pulmonary
+vascularity is normal.
+IMPRESSION: No radiographic evidence of congestive heart
+failure. Right chronic pleural thickening. Small right-sided
+pleural effusion, probably unchanged. Right basilar atelectasis.
+.
+EKG- HR 86 Probable atrial fibrillation with multifocal PVCs or
+aberrant ventricular
+conduction
+Right axis deviation
+Right bundle branch block
+Low QRS voltages in limb leads
+.
+CHEST (PA & LAT)  [**2123-11-14**] 1:56 PM
+Bilateral pleural effusions and bibasilar atelectasis. Pneumonia
+is not excluded.
+Cardiomegaly, unchanged.
+Mild kyphotic angulation at a mid thoracic level. Finding may be
+better assessed with dedicated thoracic spine radiographs, if
+clinically indicated. No fracture is seen.
+
+
+Brief Hospital Course:
+79 yo female with h/o a Atrial Fibrillation, s/p bioprosthetic
+mitral valve replacement, admitted with post-op bleeding
+following dental extraction and palate I and D two days prior to
+the admission in the setting of being anticoagulated (INR in
+therapeutic range).
+.
+# Bleeding: Post-op due to anticoagulation with warfarin use for
+atrial fibrillation. Bleeding started on [**11-2**], increased [**11-3**]
+in ED packed and pressure applied. INR 2.7, and hematocrit 27,
+SBP in the 80's to 90's.  Hematocrit lowest at 21 on admission.
+Bleeding from posterior palate Incision and drainage site.
+Bleeding resolved with no events in the ICU. HD stable. Last
+transfusion on [**2123-11-4**]. Received 2 units of FFP, one unit of
+PRBC, fluid boluses and vitamin K. To medicine floor at
+Hematocrit stable [**11-6**], but that night encountered bleeding
+from I&D site, Afrin spray applied and pressure with resolution,
+no PRBC's given, hematocrit 27.7. No further bleeding during
+course of admission. Coumadin restarted [**11-10**] as per instruction
+with Dr. [**First Name (STitle) **], and Dr. [**Last Name (STitle) **]. 3 mg initial dose, given risk for
+stroke in patient with A-fibb. As per wishes of patient and
+family, patient remained in house until incision site appeared
+healed, INR increased and no evidence of bleed. Discharged with
+follow-up by cardiology and her oral surgeon. Clindamycin 450 PO
+Q6 for abscess stopped after IV then PO course for 10 days.
+Coumadin increased to 5 mg on discharge.
+.
+# Atrial fibrillation: Rate control with beta-blocker. Continue
+Statin/ beta-blocker. Held Coumadin until [**11-10**] when restarted
+given decreasing concern of rebleed. In discussion with Dr.
+[**Name (NI) **], pt's Cardiologist in regards to anticoagulation.
+.
+# CHF: EF >65% in 1/[**2123**]. Continued beta-blocker. Restarted
+[**Year (4 digits) 11573**] per outpatient dose 4 days into admission. Had been held
+in MICU given hypotension. Fluids also given. Held Aldactone
+during admission given elevated potassium and hypotension. With
+increasing work of breathing 3 days prior to discharge, evidence
+of increasing overload on CXR, [**Year (4 digits) 11573**] given. Pt stable on 40 PO
+[**Year (4 digits) 11573**] and resuming 25 Aldacton [**Hospital1 **] at discharge with follow-up
+in the heart failure clinic.
+.
+# Hypotension: likely secondary to hypovolemia. Fluids given on
+admission. Stopped as evidence of overload. Baseline low normal.
+.
+# CRI: Creatinine slowly trending up. Baseline ranging from
+1.9-3.0. Stable as baseline at discharge. Continued renal diet
+
+.
+# FEN: Soft diet given abscess site tenuous for rebleed.
+.
+# Contact: Daughter [**First Name8 (NamePattern2) 26941**] [**Name (NI) 1356**] [**Telephone/Fax (1) 26942**]
+
+
+Medications on Admission:
+[**Telephone/Fax (1) 11573**] 40 mg twice a day
+Toprol-XL 25 mg daily
+spironolactone 50 mg daily
+Lipitor 10 mg daily
+Omeprazole 20 mg twice a day
+Ferrous Sulfate
+Coumadin 2.5 mg
+Carafate 1 gram qid
+
+Discharge Medications:
+1. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Calcium Acetate 667 mg Capsule Sig: Two (2) Capsule PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+4. Sucralfate 1 g Tablet Sig: One (1) Tablet PO QID (4 times a
+day).
+5. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+6. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+8. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+9. Coumadin 5 mg Tablet Sig: One (1) Tablet PO at bedtime: until
+discussion with outpatient provider.
+[**Name10 (NameIs) 357**] check INR in two days.
+Disp:*10 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary: bleeding from palate abcess I&D and tooth extraction
+site
+
+Secondary: CHF
+           CRI
+           thrombocytopenia
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You were admitted with a bleed from an incision and drainage
+site. Youe were transfused and have not had bleeding from your
+mouth since [**11-6**].
+-Please take all medications as you previously had in addition
+to the increased dose of coumadin to 5 mg pending repeat INR
+check and follow up with your doctor.
+-Please check coumadin level [**First Name8 (NamePattern2) **] [**Hospital1 882**] labs, as previously
+had with next check in two days.
+-Please maintain follow up appointments.
+-Please return to the hospital if you are experiencing shortness
+of breath, weight gain, bleeding, chest pain, fainting, swelling
+or any other symptoms concerning to you.
+
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 3070**], unable to be
+reached, please call for an appointment.
+
+Please have INR checked in two days, with information faxed to
+Dr. [**Last Name (STitle) 10865**] office. via [**Hospital1 882**] lab. Contact[**Name (NI) **] Dr.[**Name (NI) 19264**]
+office with recs. [**First Name8 (NamePattern2) 870**] [**Last Name (NamePattern1) **], M.D. Phone:[**Telephone/Fax (1) 9486**]
+
+Please follow up with Dr. [**First Name (STitle) 437**] in the heart failure clinic
+[**Telephone/Fax (1) 3512**]. They have been contact[**Name (NI) **] and are awaiting
+confirmation. Please call if you have not received confirmation
+within one day.
+.
+Please contact your oral surgeon. Dr. [**Last Name (STitle) 10166**] for follow-up on
+abcess site, and bleed.
+
+
+

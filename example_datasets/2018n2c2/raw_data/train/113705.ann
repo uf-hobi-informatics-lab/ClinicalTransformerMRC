@@ -1,0 +1,385 @@
+T1	Drug 16342 16354	pantoprazole
+T2	Frequency 16355 16360;16361 16366	twice daily
+T3	Strength 14227 14233	800 mg
+T4	Form 14245 14251;14251 14254	Tablet (s)
+T5	Dosage 14243 14244	5
+T6	Drug 14729 14738	erlotinib
+T7	Strength 14739 14744	25 mg
+T8	Form 14765 14771	Tablet
+T9	Route 14772 14774	PO
+T10	Drug 13847 13857	CALCITRIOL
+T11	Strength 13862 13870	0.25 mcg
+T12	Form 13883 13890;13890 13893	Capsule (s)
+T13	Dosage 13881 13882	1
+T14	Route 13894 13902	by mouth
+T15	Strength 14103 14110	150 mcg
+T16	Form 14122 14128;14128 14131	Tablet (s)
+T17	Dosage 14120 14121	1
+T18	Route 14132 14140	by mouth
+T19	Drug 2094 2104	kayexalate
+T20	Drug 15127 15135	zolpidem
+T21	Strength 15136 15141	10 mg
+T22	Form 15162 15168	Tablet
+T23	Route 15169 15171	PO
+T24	Drug 11801 11813	Pantoprazole
+T25	Drug 13341 13351	kayexalate
+T26	Drug 14405 14412;14412 14438	CAMPHOR -MENTHOL [SARNA ANTI-ITCH]
+T27	Form 14375 14381;14381 14384	Tablet (s)
+T28	Frequency 14394 14400;14401 14404	once a day
+T29	Route 14385 14393	by mouth
+T30	Drug 12578 12585	vicodin
+T31	Drug 165 171	Flagyl
+T32	Drug 13474 13481	Tarceva
+T33	Drug 1135 1142	toradol
+T34	Route 596 606	injections
+T35	Drug 174 180	Iodine
+T36	Drug 13743 13750	Vicodin
+T37	Strength 14013 14018	25 mg
+T38	Form 14030 14036;14036 14039	Tablet (s)
+T39	Dosage 14028 14029	1
+T40	Route 14040 14048	by mouth
+T41	Drug 14195 14214;14215 14224	SEVELAMER CARBONATE [RENVELA]
+T42	Form 14175 14181	tablet
+T43	Frequency 14182 14186;14187 14193	once weekly
+T44	Drug 14814 14825	fluticasone
+T45	Strength 14826 14832;14832 14842	50 mcg /Actuation
+T46	Form 14843 14848;14848 14860	Spray , Suspension
+T47	Drug 13625 13632	Tarceva
+T48	Duration 15312 15323	for 6 weeks
+T49	Frequency 15284 15288;15289 15305	Q12H (every 12 hours)
+T50	Route 15281 15283	PO
+T51	Drug 10557 10563	epogen
+T52	Drug 14276 14284	ZOLPIDEM
+T53	Strength 14287 14291	5 mg
+T54	Drug 9797 9802	DDAVP
+T55	Drug 15418 15430;15430 15443	hydrocodone- acetaminophen
+T56	Form 15469 15476	Tablets
+T57	Dosage 15465 15468	1-2
+T58	Drug 16200 16211	epinephrine
+T59	Drug 15567 15578;15579 15582	hydroxyzine HCl
+T60	Strength 15583 15588	25 mg
+T61	Form 15609 15615	Tablet
+T62	Route 15616 15618	PO
+T63	Strength 15200 15205	40 mg
+T64	Form 15206 15212;15212 15236	Tablet , Delayed Release (E.C.)
+T65	Drug 15187 15198;15198 15199	pantoprazol e
+T66	Drug 14292 14312;14312 14322	B COMPLEX-VITAMIN C- FOLIC ACID
+T67	Strength 14357 14363	0.8 mg
+T68	Form 14364 14370	Tablet
+T69	Drug 15066 15075	valsartan
+T70	Strength 15076 15081	80 mg
+T71	Form 15102 15108	Tablet
+T72	Frequency 15112 15118;15119 15122	once a day
+T73	Route 15109 15111	PO
+T74	Drug 12126 12133	vicodin
+T75	Drug 14562 14572	calcitriol
+T76	Strength 14573 14581	0.25 mcg
+T77	Form 14603 14610	Capsule
+T78	Route 14611 14613	PO
+T79	Drug 484 491	Tarceva
+T80	Drug 13928 13940;13941 13949	EPOETIN ALFA [EPOGEN]
+T81	Strength 13954 13964;13964 13967	4,000 unit /mL
+T82	Drug 1777 1787	kayexalate
+T83	Drug 13991 14000;14001 14010	ERLOTINIB [TARCEVA]
+T84	Drug 14653 14665	epoetin alfa
+T85	Strength 14666 14676;14676 14679	4,000 unit /mL
+T86	Form 14703 14712	Injection
+T87	Reason 1734 1743;1744 1756	potassium was elevated
+T88	Drug 2545 2554	erlotinib
+T89	Drug 9713 9720	aspirin
+T90	Drug 14965 14984	sevelamer carbonate
+T91	Strength 14985 14991	800 mg
+T92	Form 15013 15019	Tablet
+T93	Route 15020 15022	PO
+T94	Drug 11129 11141	desmopressin
+T95	Drug 1147 1154	vicodin
+T96	Drug 13695 13707	Pantoprazole
+T97	Strength 13708 13712	40mg
+T98	Duration 13730 13741	for 6 weeks
+T99	Reason 15514 15518	pain
+T100	Reason 15653 15660	itching
+T101	Reason 475 480	NSCLC
+T102	Drug 592 595	EPO
+T103	Dosage 615 630	4000-6000 units
+T104	Drug 744 747	EPO
+T105	Drug 892 895	EPO
+T106	Drug 919 922	EPO
+T107	Reason 951 976	severe symptomatic anemia
+T108	Drug 1600 1603	IVF
+T109	Dosage 1619 1625	500 cc
+T110	Reason 2536 2541	NSCLC
+T111	Drug 9674 9679	NSAID
+T112	ADE 9636 9650	gastric ulcers
+T113	Reason 9636 9650	gastric ulcers
+T114	Drug 9698 9701	PPI
+T115	Drug 9724 9729	NSAID
+T116	Drug 9770 9775	PRBCs
+T117	ADE 10251 10274	bleeding gastric ulcers
+T118	Drug 10295 10300	NSAID
+T119	Frequency 10550 10556	weekly
+T120	Drug 10667 10670	epo
+T121	Drug 10696 10702	tordol
+T122	Dosage 10685 10686	1
+T123	Drug 10739 10744	NSAID
+T124	Dosage 11104 11110	1 unit
+T125	Drug 11114 11118	pRBC
+T126	Reason 11066 11083	hct dropped to 22
+T127	Drug 11184 11187	PPI
+T128	Route 11188 11191	gtt
+T129	Dosage 11196 11207	1 more unit
+T130	Drug 11208 11212	pRBC
+T131	Dosage 11568 11575	2 units
+T132	Drug 11576 11581	pRBCS
+T133	Route 11829 11831	PO
+T134	Frequency 11832 11835	BID
+T135	Duration 11870 11881	for 6 weeks
+T136	Reason 12556 12560	pain
+T137	Reason 13410 13424	Hypothyroidism
+T138	Drug 13441 13454	levothyroxine
+T139	Reason 13464 13469	NSCLC
+T140	Duration 13751 13761	for 3 days
+T141	Form 13871 13878	Capsule
+T142	Frequency 13903 13908;13909 13927	three times a week (MWF)
+T143	Form 13968 13976	Solution
+T144	Dosage 13979 13983	6000
+T145	Frequency 13984 13990	weekly
+T146	Form 14019 14025	Tablet
+T147	Frequency 14049 14051;14052 14076	Q3 days on an empty stomach
+T148	Drug 14077 14100	LEVOTHYROXINE [LEVOXYL]
+T149	Form 14111 14117	Tablet
+T150	Frequency 14142 14152	once a day
+T151	Form 14234 14240	Tablet
+T152	Route 14255 14257;14258 14263	by mouth
+T153	Frequency 14264 14275	TID w/ food
+T154	Dosage 14373 14374	1
+T155	Strength 14441 14452	0.5 %-0.5 %
+T156	Form 14453 14459	Lotion
+T157	Frequency 14480 14489	as needed
+T158	Reason 14494 14498	itch
+T159	Frequency 14499 14524;14525 14534	three to four times daily as needed
+T160	Form 14582 14589	Capsule
+T161	Dosage 14595 14602	One (1)
+T162	Frequency 14614 14621;14622 14648	QMOWEFR (Monday -Wednesday-Friday)
+T163	Form 14680 14688	Solution
+T164	Dosage 14694 14701	One (1)
+T165	Frequency 14713 14724	once a week
+T166	Form 14745 14751	Tablet
+T167	Dosage 14757 14764	One (1)
+T168	Frequency 14775 14790;14791 14809	QMOWEFR (Monday -Wednesday-Friday)
+T169	Dosage 14866 14873	One (1)
+T170	Route 14874 14879	Nasal
+T171	Frequency 14880 14891	twice a day
+T172	Drug 14896 14909	levothyroxine
+T173	Strength 14910 14917	150 mcg
+T174	Form 14918 14925	Capsule
+T175	Dosage 14931 14938	One (1)
+T176	Form 14939 14946	Capsule
+T177	Route 14947 14949	PO
+T178	Frequency 14950 14956;14957 14960	once a day
+T179	Form 14992 14998	Tablet
+T180	Dosage 15004 15012	Five (5)
+T181	Frequency 15023 15026;15027 15061	TID W/MEALS (3 TIMES A DAY WITH MEALS)
+T182	Form 15082 15088	Tablet
+T183	Dosage 15094 15101	One (1)
+T184	Form 15142 15148	Tablet
+T185	Dosage 15154 15161	One (1)
+T186	Frequency 15172 15182	at bedtime
+T187	Dosage 15242 15245;15246 15249	One (1)
+T188	Form 15250 15280	Tablet, Delayed Release (E.C.)
+T189	Frequency 15346 15356	once daily
+T190	Strength 15444 15452	5-500 mg
+T191	Form 15453 15459	Tablet
+T192	Route 15477 15479	PO
+T193	Frequency 15480 15509	Q6H (every 6 hours) as needed
+T194	Duration 15519 15529	for 3 days
+T195	Form 15589 15595	Tablet
+T196	Dosage 15601 15608	One (1)
+T197	Frequency 15619 15624;15625 15648	every six (6) hours as needed
+T198	Drug 15714 15719	NSAID
+T199	ADE 15728 15742	Gastric Ulcers
+T200	ADE 16170 16176	ulcers
+T201	Duration 16410 16423	for six weeks
+T202	Frequency 16450 16460	once daily
+R1	Frequency-Drug Arg1:T2 Arg2:T1
+R2	Strength-Drug Arg1:T7 Arg2:T6
+R3	Form-Drug Arg1:T8 Arg2:T6
+R4	Route-Drug Arg1:T9 Arg2:T6
+R5	Strength-Drug Arg1:T11 Arg2:T10
+R6	Form-Drug Arg1:T12 Arg2:T10
+R7	Dosage-Drug Arg1:T13 Arg2:T10
+R8	Route-Drug Arg1:T14 Arg2:T10
+R9	Strength-Drug Arg1:T21 Arg2:T20
+R10	Form-Drug Arg1:T22 Arg2:T20
+R11	Route-Drug Arg1:T23 Arg2:T20
+R12	Form-Drug Arg1:T27 Arg2:T66
+R13	Frequency-Drug Arg1:T28 Arg2:T66
+R14	Route-Drug Arg1:T29 Arg2:T66
+R15	Route-Drug Arg1:T34 Arg2:T102
+R16	Strength-Drug Arg1:T45 Arg2:T44
+R17	Form-Drug Arg1:T46 Arg2:T44
+R18	Duration-Drug Arg1:T48 Arg2:T65
+R19	Frequency-Drug Arg1:T49 Arg2:T65
+R20	Route-Drug Arg1:T50 Arg2:T65
+R21	Strength-Drug Arg1:T53 Arg2:T52
+R22	Form-Drug Arg1:T56 Arg2:T55
+R23	Dosage-Drug Arg1:T57 Arg2:T55
+R24	Strength-Drug Arg1:T60 Arg2:T59
+R25	Form-Drug Arg1:T61 Arg2:T59
+R26	Route-Drug Arg1:T62 Arg2:T59
+R27	Strength-Drug Arg1:T63 Arg2:T65
+R28	Form-Drug Arg1:T64 Arg2:T65
+R29	Strength-Drug Arg1:T67 Arg2:T66
+R30	Form-Drug Arg1:T68 Arg2:T66
+R31	Strength-Drug Arg1:T70 Arg2:T69
+R32	Form-Drug Arg1:T71 Arg2:T69
+R33	Frequency-Drug Arg1:T72 Arg2:T69
+R34	Route-Drug Arg1:T73 Arg2:T69
+R35	Strength-Drug Arg1:T76 Arg2:T75
+R36	Form-Drug Arg1:T77 Arg2:T75
+R37	Route-Drug Arg1:T78 Arg2:T75
+R38	Strength-Drug Arg1:T81 Arg2:T80
+R39	Strength-Drug Arg1:T85 Arg2:T84
+R40	Form-Drug Arg1:T86 Arg2:T84
+R41	Strength-Drug Arg1:T91 Arg2:T90
+R42	Form-Drug Arg1:T92 Arg2:T90
+R43	Route-Drug Arg1:T93 Arg2:T90
+R44	Strength-Drug Arg1:T97 Arg2:T96
+R45	Duration-Drug Arg1:T98 Arg2:T96
+R46	Reason-Drug Arg1:T101 Arg2:T79
+R47	Dosage-Drug Arg1:T103 Arg2:T102
+R48	Reason-Drug Arg1:T107 Arg2:T106
+R49	Dosage-Drug Arg1:T109 Arg2:T108
+R50	Reason-Drug Arg1:T87 Arg2:T82
+R51	Reason-Drug Arg1:T110 Arg2:T88
+R52	ADE-Drug Arg1:T113 Arg2:T111
+R53	Reason-Drug Arg1:T113 Arg2:T114
+R54	ADE-Drug Arg1:T117 Arg2:T118
+R55	Frequency-Drug Arg1:T119 Arg2:T51
+R56	Dosage-Drug Arg1:T122 Arg2:T121
+R57	Reason-Drug Arg1:T126 Arg2:T94
+R58	Reason-Drug Arg1:T126 Arg2:T125
+R59	Dosage-Drug Arg1:T124 Arg2:T125
+R60	Route-Drug Arg1:T128 Arg2:T127
+R61	Dosage-Drug Arg1:T131 Arg2:T132
+R62	Duration-Drug Arg1:T135 Arg2:T24
+R63	Frequency-Drug Arg1:T134 Arg2:T24
+R64	Route-Drug Arg1:T133 Arg2:T24
+R65	Reason-Drug Arg1:T136 Arg2:T30
+R66	Reason-Drug Arg1:T137 Arg2:T138
+R67	Reason-Drug Arg1:T139 Arg2:T32
+R68	Reason-Drug Arg1:T139 Arg2:T47
+R69	Duration-Drug Arg1:T140 Arg2:T36
+R70	Frequency-Drug Arg1:T142 Arg2:T10
+R71	Form-Drug Arg1:T141 Arg2:T10
+R72	Frequency-Drug Arg1:T145 Arg2:T80
+R73	Dosage-Drug Arg1:T144 Arg2:T80
+R74	Form-Drug Arg1:T143 Arg2:T80
+R75	Dosage-Drug Arg1:T154 Arg2:T66
+R76	Form-Drug Arg1:T156 Arg2:T26
+R77	Frequency-Drug Arg1:T159 Arg2:T26
+R78	Reason-Drug Arg1:T158 Arg2:T26
+R79	Frequency-Drug Arg1:T157 Arg2:T26
+R80	Strength-Drug Arg1:T155 Arg2:T26
+R81	Frequency-Drug Arg1:T162 Arg2:T75
+R82	Dosage-Drug Arg1:T161 Arg2:T75
+R83	Form-Drug Arg1:T160 Arg2:T75
+R84	Frequency-Drug Arg1:T165 Arg2:T84
+R85	Dosage-Drug Arg1:T164 Arg2:T84
+R86	Form-Drug Arg1:T163 Arg2:T84
+R87	Frequency-Drug Arg1:T168 Arg2:T6
+R88	Dosage-Drug Arg1:T167 Arg2:T6
+R89	Form-Drug Arg1:T166 Arg2:T6
+R90	Frequency-Drug Arg1:T171 Arg2:T44
+R91	Route-Drug Arg1:T170 Arg2:T44
+R92	Dosage-Drug Arg1:T169 Arg2:T44
+R93	Frequency-Drug Arg1:T178 Arg2:T172
+R94	Strength-Drug Arg1:T173 Arg2:T172
+R95	Form-Drug Arg1:T176 Arg2:T172
+R96	Route-Drug Arg1:T177 Arg2:T172
+R97	Dosage-Drug Arg1:T175 Arg2:T172
+R98	Form-Drug Arg1:T174 Arg2:T172
+R99	Frequency-Drug Arg1:T181 Arg2:T90
+R100	Dosage-Drug Arg1:T180 Arg2:T90
+R101	Form-Drug Arg1:T179 Arg2:T90
+R102	Dosage-Drug Arg1:T183 Arg2:T69
+R103	Form-Drug Arg1:T182 Arg2:T69
+R104	Frequency-Drug Arg1:T186 Arg2:T20
+R105	Dosage-Drug Arg1:T185 Arg2:T20
+R106	Form-Drug Arg1:T184 Arg2:T20
+R107	Form-Drug Arg1:T188 Arg2:T65
+R108	Dosage-Drug Arg1:T187 Arg2:T65
+R109	Frequency-Drug Arg1:T189 Arg2:T65
+R110	Duration-Drug Arg1:T194 Arg2:T55
+R111	Reason-Drug Arg1:T99 Arg2:T55
+R112	Frequency-Drug Arg1:T193 Arg2:T55
+R113	Route-Drug Arg1:T192 Arg2:T55
+R114	Form-Drug Arg1:T191 Arg2:T55
+R115	Strength-Drug Arg1:T190 Arg2:T55
+R116	Reason-Drug Arg1:T100 Arg2:T59
+R117	Frequency-Drug Arg1:T197 Arg2:T59
+R118	Dosage-Drug Arg1:T196 Arg2:T59
+R119	Form-Drug Arg1:T195 Arg2:T59
+R120	ADE-Drug Arg1:T199 Arg2:T198
+R121	Duration-Drug Arg1:T201 Arg2:T1
+R122	Frequency-Drug Arg1:T202 Arg2:T1
+T203	Reason 1007 1030	excruciating flank pain
+T204	Drug 9810 9818	platelet
+T205	Form 9819 9830	transfusion
+T206	Reason 9835 9851	uremic platelets
+T207	Reason 10323 10382	Acute Blood Loss Anemia due to Gastric Ulcers with Bleeding
+T208	Reason 12075 12096	left sided plank pain
+T211	Frequency 13482 13498	every three days
+T212	Route 14475 14479	skin
+T213	Drug 16085 16091	tordol
+T214	Route 16187 16196	injection
+T215	Reason 16226 16241	bleeding ulcers
+T216	Drug 16302 16320	blood transfusions
+T217	Reason 16269 16277	bleeding
+T218	Drug 16723 16730	epoetin
+T223	Frequency 585 591	weekly
+T224	Reason 530 548	symptomatic anemia
+T226	ADE 2046 2077	large dark brown bowel movement
+T227	Reason 12001 12011	Flank Pain
+T228	Reason 13287 13299	Hyperkalemia
+R123	Form-Drug Arg1:T205 Arg2:T204
+R124	Reason-Drug Arg1:T206 Arg2:T204
+R125	Reason-Drug Arg1:T217 Arg2:T216
+R126	Reason-Drug Arg1:T224 Arg2:T102	
+R127	Frequency-Drug Arg1:T223 Arg2:T102	
+R128	Reason-Drug Arg1:T203 Arg2:T33	
+R129	Reason-Drug Arg1:T203 Arg2:T95	
+R130	ADE-Drug Arg1:T226 Arg2:T19	
+R131	Reason-Drug Arg1:T113 Arg2:T116	
+R132	Reason-Drug Arg1:T113 Arg2:T54	
+R133	Reason-Drug Arg1:T113 Arg2:T204	
+R134	Reason-Drug Arg1:T207 Arg2:T51	
+R135	Dosage-Drug Arg1:T129 Arg2:T130	
+R136	Reason-Drug Arg1:T126 Arg2:T130	
+R137	Reason-Drug Arg1:T227 Arg2:T74	
+R138	Reason-Drug Arg1:T208 Arg2:T74	
+R139	Reason-Drug Arg1:T228 Arg2:T25	
+R140	Frequency-Drug Arg1:T211 Arg2:T32	
+R141	Strength-Drug Arg1:T37 Arg2:T83	
+R142	Form-Drug Arg1:T146 Arg2:T83	
+R143	Frequency-Drug Arg1:T147 Arg2:T83	
+R144	Dosage-Drug Arg1:T39 Arg2:T83	
+R145	Form-Drug Arg1:T38 Arg2:T83	
+R146	Route-Drug Arg1:T40 Arg2:T83	
+R147	Strength-Drug Arg1:T15 Arg2:T148	
+R148	Form-Drug Arg1:T149 Arg2:T148	
+R149	Dosage-Drug Arg1:T17 Arg2:T148	
+R150	Form-Drug Arg1:T16 Arg2:T148	
+R151	Route-Drug Arg1:T18 Arg2:T148	
+R152	Frequency-Drug Arg1:T150 Arg2:T148	
+R153	Frequency-Drug Arg1:T43 Arg2:T148	
+R154	Form-Drug Arg1:T42 Arg2:T148	
+R155	Frequency-Drug Arg1:T153 Arg2:T41	
+R156	Route-Drug Arg1:T152 Arg2:T41	
+R157	Form-Drug Arg1:T4 Arg2:T41	
+R158	Dosage-Drug Arg1:T5 Arg2:T41	
+R159	Form-Drug Arg1:T151 Arg2:T41	
+R160	Strength-Drug Arg1:T3 Arg2:T41	
+R161	Route-Drug Arg1:T212 Arg2:T26	
+R162	ADE-Drug Arg1:T200 Arg2:T213	
+R163	Route-Drug Arg1:T214 Arg2:T58	
+R164	Reason-Drug Arg1:T215 Arg2:T58	

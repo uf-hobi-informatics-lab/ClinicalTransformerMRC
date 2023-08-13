@@ -1,0 +1,210 @@
+T1	Drug 13313 13323	raloxifene
+T2	Strength 13324 13329	60 mg
+T3	Form 13350 13356	Tablet
+T4	Route 13357 13359	PO
+T5	Drug 12418 12425	calcium
+T6	Drug 11398 11412	glycopyrrolate
+T7	Drug 10685 10693	propofol
+T8	Drug 10763 10777	glycopyrrolate
+T9	Drug 10701 10711	rocuronium
+T10	Drug 12430 12439	vitamin D
+T11	Drug 719 727	propofol
+T12	Drug 11320 11335	succinylcholine
+T13	Drug 13067 13078	sumatriptan
+T14	Strength 13079 13083	50mg
+T15	Drug 13373 13390	calcium carbonate
+T16	Strength 13407 13415	1,250 mg
+T17	Form 13417 13423	Tablet
+T18	Drug 10713 10721	fentanyl
+T19	Drug 11356 11363	esmolol
+T20	Drug 735 745	rocuronium
+T21	Drug 929 936	esmolol
+T22	Drug 13156 13166	alprazolam
+T23	Strength 13167 13174	0.25 mg
+T24	Form 13195 13201	Tablet
+T25	Route 13202 13204	PO
+T26	Drug 13474 13495	sumatriptan succinate
+T27	Strength 13496 13501	50 mg
+T28	Form 13522 13528	Tablet
+T29	Route 13529 13531	PO
+T30	Drug 11048 11056	dopamine
+T31	Drug 9961 9968	aspirin
+T32	Drug 11306 11314	propofol
+T33	Drug 747 755	fentanyl
+T34	Drug 12975 12985	alprazolam
+T35	Strength 12986 12992	0.25mg
+T36	Drug 1640 1650	alprazolam
+T37	Strength 1651 1657	0.25mg
+T38	Drug 12406 12416	raloxifene
+T39	Drug 12477 12485	nicotine
+T40	Form 12486 12491	patch
+T41	Drug 13049 13055	evista
+T42	Strength 13056 13060	60mg
+T43	Drug 1404 1413	cefazolin
+T44	Strength 13391 13397	500 mg
+T45	Reason 12997 13004	anxiety
+T46	Reason 13230 13237	anxiety
+T47	Drug 729 733	succ
+T48	Drug 868 881	glycopyrolate
+T49	Reason 940 948;949 951	decrease HR
+T50	Strength 1397 1400	1gm
+T52	Drug 9970 9981	betablocker
+T53	Drug 9983 9989	statin
+T54	Drug 10695 10699	succ
+T55	Drug 10783 10796	neosynephrine
+T56	ADE 11212 11223	Bradycardia
+T57	ADE 11381 11392	tachycardic
+T58	Reason 12377 12389	Osteoporosis
+T59	Reason 12444 12457	Tobacco abuse
+T60	Frequency 12993 12996	prn
+T61	Frequency 13061 13066	daily
+T62	Frequency 13084 13087	prn
+T63	Drug 13088 13110	calcium with vitamin D
+T64	Strength 13111 13127	1250mg/1000units
+T65	Frequency 13205 13215;13216 13225	once a day as needed
+T66	Form 13175 13181	Tablet
+T67	Dosage 13187 13194	One (1)
+T68	Drug 13242 13252	Vitamin D2
+T69	Strength 13253 13264	50,000 unit
+T70	Form 13265 13272	Capsule
+T71	Dosage 13278 13285	One (1)
+T72	Form 13286 13293	Capsule
+T73	Route 13294 13296	PO
+T74	Frequency 13297 13303;13304 13308	once a week
+T75	Form 13330 13336	Tablet
+T76	Dosage 13342 13349	One (1)
+T77	Frequency 13360 13365	daily
+T78	Dosage 13429 13432;13433 13436	One (1)
+T79	Form 13437 13443	Tablet
+T80	Route 13444 13446	PO
+T81	Frequency 13447 13469	Q 24H (Every 24 Hours)
+T82	Form 13502 13508	Tablet
+T83	Dosage 13514 13521	One (1)
+T84	Frequency 13532 13552	once a day as needed
+T85	Reason 13557 13565	migraine
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Form-Drug Arg1:T3 Arg2:T1
+R3	Route-Drug Arg1:T4 Arg2:T1
+R4	Strength-Drug Arg1:T14 Arg2:T13
+R5	Strength-Drug Arg1:T16 Arg2:T15
+R6	Form-Drug Arg1:T17 Arg2:T15
+R7	Strength-Drug Arg1:T23 Arg2:T22
+R8	Form-Drug Arg1:T24 Arg2:T22
+R9	Route-Drug Arg1:T25 Arg2:T22
+R10	Strength-Drug Arg1:T27 Arg2:T26
+R11	Form-Drug Arg1:T28 Arg2:T26
+R12	Route-Drug Arg1:T29 Arg2:T26
+R13	Strength-Drug Arg1:T35 Arg2:T34
+R14	Strength-Drug Arg1:T37 Arg2:T36
+R15	Form-Drug Arg1:T40 Arg2:T39
+R16	Strength-Drug Arg1:T42 Arg2:T41
+R17	Strength-Drug Arg1:T44 Arg2:T15
+R18	Reason-Drug Arg1:T49 Arg2:T21
+R20	Strength-Drug Arg1:T50 Arg2:T43
+R21	ADE-Drug Arg1:T56 Arg2:T32
+R22	ADE-Drug Arg1:T56 Arg2:T12
+R23	ADE-Drug Arg1:T57 Arg2:T6
+R24	Reason-Drug Arg1:T58 Arg2:T38
+R25	Reason-Drug Arg1:T58 Arg2:T5
+R26	Reason-Drug Arg1:T58 Arg2:T10
+R27	Reason-Drug Arg1:T59 Arg2:T39
+R28	Frequency-Drug Arg1:T60 Arg2:T34
+R29	Reason-Drug Arg1:T45 Arg2:T34
+R30	Frequency-Drug Arg1:T61 Arg2:T41
+R31	Frequency-Drug Arg1:T62 Arg2:T13
+R32	Strength-Drug Arg1:T64 Arg2:T63
+R33	Form-Drug Arg1:T66 Arg2:T22
+R34	Dosage-Drug Arg1:T67 Arg2:T22
+R35	Frequency-Drug Arg1:T65 Arg2:T22
+R36	Reason-Drug Arg1:T46 Arg2:T22
+R37	Strength-Drug Arg1:T69 Arg2:T68
+R38	Form-Drug Arg1:T70 Arg2:T68
+R39	Dosage-Drug Arg1:T71 Arg2:T68
+R40	Form-Drug Arg1:T72 Arg2:T68
+R41	Route-Drug Arg1:T73 Arg2:T68
+R42	Frequency-Drug Arg1:T74 Arg2:T68
+R43	Form-Drug Arg1:T75 Arg2:T1
+R44	Frequency-Drug Arg1:T77 Arg2:T1
+R45	Dosage-Drug Arg1:T78 Arg2:T15
+R46	Form-Drug Arg1:T79 Arg2:T15
+R47	Route-Drug Arg1:T80 Arg2:T15
+R48	Frequency-Drug Arg1:T81 Arg2:T15
+R49	Form-Drug Arg1:T82 Arg2:T26
+R50	Dosage-Drug Arg1:T83 Arg2:T26
+R51	Frequency-Drug Arg1:T84 Arg2:T26
+R52	Reason-Drug Arg1:T85 Arg2:T26
+T86	Reason 12775 12784	pneumonia
+T87	Drug 288 298	anesthesia
+T88	ADE 266 277	Hypotension
+T89	Drug 648 657	sedatives
+T90	ADE 596 607	hypotensive
+T91	ADE 612 623	bradycardic
+T92	Reason 662 672	intubation
+T93	Drug 703 713	anesthesia
+T97	Reason 887 901	HRs recovering
+T98	Dosage 1311 1315	2.5L
+T99	Drug 1316 1318	LR
+T100	Drug 1323 1336	neosynephrine
+T101	Frequency 1351 1364	every 1/2hour
+T102	Duration 1365 1376	for 3 doses
+T103	Drug 1822 1829	alcohol
+T104	Drug 4932 4940	CONTRAST
+T105	Reason 4917 4927	CT ABDOMEN
+T106	Drug 5372 5380	contrast
+T107	Reason 5381 5383	CT
+T108	Drug 6109 6119	anesthesia
+T109	Reason 6120 6127;6128 6137	for the procedure
+T110	ADE 6232 6245	ST depression
+T111	Drug 6439 6449	anesthesia
+T112	Drug 6492 6502	anesthesia
+T113	ADE 6771 6801	cardiac event during induction
+T114	Drug 6813 6823	anesthesia
+T115	Reason 9932 9955	coronary artery disease
+T116	Drug 10628 10654	medications for induction.
+T117	ADE 10572 10602;10603 10606	hypotensive as low as systolic 60s
+T118	Drug 10757 10761	IVFs
+T120	Reason 10540 10551	Hypotension
+T121	Reason 10838 10844;10845 10854	Volume depletion
+T122	Drug 11003 11008	fluid
+T123	Dosage 11009 11016	boluses
+T124	Drug 10953 10958	fluid
+T126	Drug 12695 12706	antibiotics
+T127	Drug 13669 13679	anesthesia
+T128	ADE 13628 13639	hypotension
+T129	ADE 13644 13655	bradycardia
+T130	Drug 14082 14092	anesthesia
+T131	Reason 14026 14049	radiofrequency ablation
+T132	ADE 14059 14072	complications
+T133	Drug 13005 13014	vitaminD2
+T134	Strength 13016 13022	1.25mg
+T135	Frequency 13037 13048	once weekly
+R53	Strength-Drug Arg1:T134 Arg2:T133
+R54	Frequency-Drug Arg1:T135 Arg2:T133
+R55	ADE-Drug Arg1:T88 Arg2:T87
+R56	ADE-Drug Arg1:T90 Arg2:T89
+R57	ADE-Drug Arg1:T91 Arg2:T89
+R58	Reason-Drug Arg1:T92 Arg2:T89
+R59	Frequency-Drug Arg1:T101 Arg2:T99
+R60	Frequency-Drug Arg1:T101 Arg2:T100
+R61	Dosage-Drug Arg1:T98 Arg2:T99
+R62	Duration-Drug Arg1:T102 Arg2:T99
+R63	Reason-Drug Arg1:T105 Arg2:T104
+R64	Reason-Drug Arg1:T107 Arg2:T106
+R65	Reason-Drug Arg1:T109 Arg2:T108
+R66	ADE-Drug Arg1:T110 Arg2:T108
+R67	ADE-Drug Arg1:T113 Arg2:T114
+R68	ADE-Drug Arg1:T117 Arg2:T116
+R69	Reason-Drug Arg1:T120 Arg2:T118
+R70	Reason-Drug Arg1:T121 Arg2:T118
+R71	Dosage-Drug Arg1:T123 Arg2:T122
+R72	Reason-Drug Arg1:T121 Arg2:T124
+R73	Reason-Drug Arg1:T120 Arg2:T122
+R74	Reason-Drug Arg1:T86 Arg2:T126
+R75	ADE-Drug Arg1:T129 Arg2:T127
+R76	ADE-Drug Arg1:T128 Arg2:T127
+R77	Reason-Drug Arg1:T131 Arg2:T130
+R78	ADE-Drug Arg1:T132 Arg2:T130
+R79	Reason-Drug Arg1:T97 Arg2:T21	
+R80	Reason-Drug Arg1:T115 Arg2:T31	
+T51	Route 1401 1403	iv
+R19	Route-Drug Arg1:T51 Arg2:T43	

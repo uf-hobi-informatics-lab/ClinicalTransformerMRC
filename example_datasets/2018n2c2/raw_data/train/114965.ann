@@ -1,0 +1,83 @@
+T1	Drug 7552 7562	prednisone
+T2	Strength 7563 7568	7.5mg
+T3	Drug 10272 10279	Aspirin
+T4	Drug 5967 5975	Dilantin
+T5	Drug 8323 8331	dilantin
+T6	Drug 6660 6668	decadron
+T7	Drug 5895 5909	Hydrocortisone
+T8	Strength 7162 7167	200mg
+T9	Drug 10281 10286	Advil
+T10	Drug 10345 10351;10352 10367	Keppra (Levetiracetam)
+T11	Drug 10264 10270	Motrin
+T12	Drug 8793 8807	Hydrocortisone
+T13	Strength 8808 8812	50mg
+T14	Frequency 8813 8815	Q8
+T15	Drug 6106 6112	ativan
+T16	Drug 8475 8483	benadryl
+T17	Drug 7840 7848	Dilantin
+T18	Drug 8833 8843	prednisone
+T19	Strength 8844 8849	7.5mg
+T20	Drug 6626 6640	hydrocortisone
+T21	Drug 7464 7475	cabergoline
+T22	Strength 7476 7481	0.5mg
+T23	Drug 7657 7665	Dilantin
+T24	Strength 5960 5966	1 gram
+T25	Drug 7535 7548	dexamethasone
+T26	Drug 7089 7097	Dilantin
+T27	Drug 8371 8377	Keppra
+T28	Drug 6004 6012	dilantin
+T29	Drug 169 177	Dilantin
+T30	Drug 8440 8454	hydrocortisone
+T31	Form 8455 8460	cream
+T32	Route 8470 8474	Oral
+T33	Drug 10292 10301	Ibuprofen
+T34	Drug 10116 10124;10125 10133	Docusate (Colace)
+T35	Drug 8379 8387	Dilantin
+T36	Drug 7627 7635	Dilantin
+T37	Strength 7645 7650	500mg
+T38	ADE 10028 10040	constipation
+T40	Dosage 5976 5981	bolus
+T41	Reason 6061 6070	aggitated
+T42	Strength 7080 7085	500mg
+T43	Dosage 7067 7074	bolused
+T44	Frequency 7569 7574	daily
+T45	Dosage 7636 7641	bolus
+T46	ADE 8278 8293	total body rash
+T47	Frequency 8484 8487	PRN
+T48	Drug 8779 8787	steroids
+T49	Frequency 8850 8855	daily
+T50	Drug 10147 10171	narcotic pain medication
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Strength-Drug Arg1:T8 Arg2:T26
+R3	Strength-Drug Arg1:T13 Arg2:T12
+R4	Frequency-Drug Arg1:T14 Arg2:T12
+R5	Strength-Drug Arg1:T19 Arg2:T18
+R6	Strength-Drug Arg1:T22 Arg2:T21
+R7	Strength-Drug Arg1:T24 Arg2:T4
+R8	Form-Drug Arg1:T31 Arg2:T30
+R9	Route-Drug Arg1:T32 Arg2:T16
+R10	Strength-Drug Arg1:T37 Arg2:T36
+R11	Dosage-Drug Arg1:T40 Arg2:T4
+R12	Reason-Drug Arg1:T41 Arg2:T15
+R13	Strength-Drug Arg1:T42 Arg2:T26
+R14	Dosage-Drug Arg1:T43 Arg2:T26
+R15	Frequency-Drug Arg1:T44 Arg2:T1
+R16	Dosage-Drug Arg1:T45 Arg2:T36
+R17	ADE-Drug Arg1:T46 Arg2:T5
+R18	Frequency-Drug Arg1:T47 Arg2:T16
+R19	Frequency-Drug Arg1:T49 Arg2:T18
+T51	Drug 5842 5850	cortisol
+T55	Reason 8408 8412	rash
+T56	Drug 9573 9586	pain medicine
+T57	Drug 9995 10008;10009 10017	narcotic pain medicine
+T59	Drug 10228 10255	anti-inflammatory medicines
+T64	Route 8425 8434	topically
+T66	Dosage 8767 8778	stress dose
+R20	Route-Drug Arg1:T64 Arg2:T30	
+R21	Reason-Drug Arg1:T55 Arg2:T30	
+R22	Reason-Drug Arg1:T55 Arg2:T16	
+R23	ADE-Drug Arg1:T46 Arg2:T35	
+R24	Dosage-Drug Arg1:T66 Arg2:T48	
+R25	ADE-Drug Arg1:T38 Arg2:T57	
+T39	Reason 10028 10040	constipation
+R26	Reason-Drug Arg1:T39 Arg2:T34	

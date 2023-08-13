@@ -1,0 +1,198 @@
+T1	Drug 3976 3980	doxy
+T2	Drug 13193 13201	Cefepime
+T3	Drug 14730 14737	Lovenox
+T4	Strength 14738 14743	90 mg
+T5	Frequency 14744 14748	Q12H
+T6	Strength 14359 14363	2 mg
+T7	Frequency 14364 14368	Q12H
+T8	Drug 14348 14357;14357 14358	Tizanidin e
+T9	Drug 14223 14231	Morphine
+T10	Strength 14232 14236	2 mg
+T12	Drug 14613 14619;14620 14624	Maalox plus
+T13	Form 14628 14630	mL
+T14	Dosage 14625 14627	30
+T15	Strength 14504 14509	10 mg
+T16	Route 14510 14514	oral
+T17	Drug 14494 14503	Bisacodyl
+T18	Drug 14115 14125	Metoprolol
+T19	Strength 14126 14133	12.5 mg
+T20	Frequency 14137 14140	BID
+T21	Route 14134 14136	PO
+T22	Drug 14372 14381	Lorazepam
+T23	Strength 14426 14432	8.6 mg
+T24	Form 14437 14441	tabs
+T25	Dosage 14433 14436	two
+T26	Drug 167 178	Vincristine
+T27	Drug 4394 4401	lovenox
+T28	Drug 1584 1597	nortriptyline
+T29	Strength 1653 1658	50 mg
+T31	Strength 14269 14274	20 mg
+T32	Drug 14258 14267;14267 14268	Citalopra m
+T33	Drug 14643 14654	Ondansetron
+T34	Strength 14655 14659	4 mg
+T36	Drug 11734 11742	Decadron
+T37	Drug 14525 14534	Lactulose
+T38	Form 14538 14540	mL
+T39	Dosage 14535 14537	30
+T40	Strength 14155 14160	20 mg
+T41	Frequency 14164 14167	BID
+T42	Route 14161 14163	PO
+T43	Drug 14144 14153;14153 14154	Furosemid e
+T44	Drug 14787 14799	Clotrimazole
+T45	Strength 14800 14805	10 mg
+T46	Frequency 14806 14809	QID
+T47	Drug 2631 2642	vincristine
+T48	Strength 14295 14300	50 mg
+T49	Drug 14284 14294	Pregabalin
+T50	Drug 2157 2168	ceftazidime
+T51	Drug 3542 3553	Vincristine
+T52	Drug 3417 3427	cytarabine
+T53	Form 14705 14707	mL
+T54	Dosage 14702 14704	10
+T55	Drug 2170 2180	daptomycin
+T56	Drug 14814 14824	Miconazole
+T57	Route 14825 14832	topical
+T58	Drug 12511 12520	Acyclovir
+T59	Drug 14181 14194	Nitroglycerin
+T60	Strength 14195 14201	0.3 mg
+T61	Drug 14566 14579	Acetaminophen
+T62	Strength 14580 14586	650 mg
+T63	Drug 3692 3700	neupogen
+T64	Drug 4205 4216	vincristine
+T65	Drug 14321 14334	Nortriptyline
+T66	Strength 14335 14340	25 mg
+T67	Drug 3966 3971	cipro
+T68	Drug 2186 2198	azithromycin
+T69	Drug 13178 13188	Vancomycin
+T70	Drug 1662 1677	diphenhydramine
+T71	Drug 14463 14478	Docusate sodium
+T72	Strength 14479 14485	100 mg
+T73	Frequency 14486 14489	TID
+T74	Reason 14209 14219	chest pain
+T75	Reason 14244 14254	chest pain
+T76	Reason 1631 1648	dystonic reaction
+T77	Reason 2073 2103	pseudomonas infection of stage
+T78	ADE 2631 2663	vincristine toxic polyneuropathy
+T79	Drug 3409 3412	MTX
+T80	Drug 3534 3540	HD MTX
+T81	Reason 3930 3952	Mycoplasma hominis PNA
+T82	Reason 4343 4346	DVT
+T83	Duration 4373 4390	at least 6 months
+T84	Reason 12525 12528	HSV
+T85	Route 14202 14204	SL
+T86	Frequency 14275 14280	DAILY
+T87	Frequency 14341 14344	QHS
+T88	Drug 14390 14409	Polyethylene glycol
+T89	Frequency 14410 14415	DAILY
+T90	Frequency 14205 14208	PRN
+T91	Frequency 14240 14243	PRN
+T92	Frequency 14382 14385	PRN
+T93	Drug 14420 14425	Senna
+T94	Frequency 14515 14520	DAILY
+T95	Frequency 14541 14548	Q6H:PRN
+T96	Reason 14549 14561	constipation
+T97	Frequency 14587 14594	Q4H:PRN
+T98	Reason 14603 14608	fever
+T99	Frequency 14631 14638	Q4H:PRN
+T100	Frequency 14663 14670	Q6H:PRN
+T101	Reason 14671 14677	nausea
+T102	Drug 14682 14701	Magnesium hydroxide
+T103	Frequency 14708 14715	Q6H:PRN
+T104	Reason 14716 14725	dyspepsia
+T105	Drug 14763 14776	Multivitamins
+T106	Frequency 14777 14782	DAILY
+T107	Frequency 14833 14840	QID:PRN
+R1	Strength-Drug Arg1:T4 Arg2:T3
+R2	Frequency-Drug Arg1:T5 Arg2:T3
+R3	Strength-Drug Arg1:T6 Arg2:T8
+R4	Frequency-Drug Arg1:T7 Arg2:T8
+R5	Strength-Drug Arg1:T10 Arg2:T9
+R7	Form-Drug Arg1:T13 Arg2:T12
+R8	Dosage-Drug Arg1:T14 Arg2:T12
+R9	Strength-Drug Arg1:T15 Arg2:T17
+R10	Route-Drug Arg1:T16 Arg2:T17
+R11	Strength-Drug Arg1:T19 Arg2:T18
+R12	Frequency-Drug Arg1:T20 Arg2:T18
+R13	Route-Drug Arg1:T21 Arg2:T18
+R14	Strength-Drug Arg1:T31 Arg2:T32
+R15	Strength-Drug Arg1:T34 Arg2:T33
+R17	Form-Drug Arg1:T38 Arg2:T37
+R18	Dosage-Drug Arg1:T39 Arg2:T37
+R19	Strength-Drug Arg1:T40 Arg2:T43
+R20	Frequency-Drug Arg1:T41 Arg2:T43
+R21	Route-Drug Arg1:T42 Arg2:T43
+R22	Strength-Drug Arg1:T45 Arg2:T44
+R23	Frequency-Drug Arg1:T46 Arg2:T44
+R24	Strength-Drug Arg1:T48 Arg2:T49
+R25	Route-Drug Arg1:T57 Arg2:T56
+R26	Strength-Drug Arg1:T60 Arg2:T59
+R27	Strength-Drug Arg1:T62 Arg2:T61
+R28	Strength-Drug Arg1:T66 Arg2:T65
+R29	Strength-Drug Arg1:T72 Arg2:T71
+R30	Frequency-Drug Arg1:T73 Arg2:T71
+R31	Strength-Drug Arg1:T29 Arg2:T70
+R33	Reason-Drug Arg1:T77 Arg2:T68
+R34	Reason-Drug Arg1:T77 Arg2:T55
+R35	Reason-Drug Arg1:T77 Arg2:T50
+R36	ADE-Drug Arg1:T78 Arg2:T47
+R37	Reason-Drug Arg1:T81 Arg2:T67
+R38	Reason-Drug Arg1:T81 Arg2:T1
+R39	Reason-Drug Arg1:T82 Arg2:T27
+R40	Duration-Drug Arg1:T83 Arg2:T27
+R41	Reason-Drug Arg1:T84 Arg2:T58
+R42	Route-Drug Arg1:T85 Arg2:T59
+R43	Reason-Drug Arg1:T74 Arg2:T59
+R44	Reason-Drug Arg1:T75 Arg2:T9
+R45	Frequency-Drug Arg1:T86 Arg2:T32
+R46	Frequency-Drug Arg1:T87 Arg2:T65
+R47	Frequency-Drug Arg1:T89 Arg2:T88
+R48	Frequency-Drug Arg1:T90 Arg2:T59
+R49	Frequency-Drug Arg1:T91 Arg2:T9
+R50	Frequency-Drug Arg1:T92 Arg2:T22
+R51	Strength-Drug Arg1:T23 Arg2:T93
+R52	Dosage-Drug Arg1:T25 Arg2:T93
+R53	Form-Drug Arg1:T24 Arg2:T93
+R54	Frequency-Drug Arg1:T94 Arg2:T17
+R55	Frequency-Drug Arg1:T95 Arg2:T37
+R56	Reason-Drug Arg1:T96 Arg2:T37
+R57	Frequency-Drug Arg1:T97 Arg2:T61
+R58	Reason-Drug Arg1:T98 Arg2:T61
+R59	Frequency-Drug Arg1:T100 Arg2:T33
+R60	Frequency-Drug Arg1:T99 Arg2:T12
+R61	Reason-Drug Arg1:T101 Arg2:T33
+R62	Dosage-Drug Arg1:T54 Arg2:T102
+R63	Form-Drug Arg1:T53 Arg2:T102
+R64	Frequency-Drug Arg1:T103 Arg2:T102
+R65	Reason-Drug Arg1:T104 Arg2:T102
+R66	Frequency-Drug Arg1:T106 Arg2:T105
+R67	Frequency-Drug Arg1:T107 Arg2:T56
+T110	Drug 3391 3403	chemotherapy
+T111	Route 3379 3390	intrathecal
+T112	Drug 3351 3361	hyper-CVAD
+T113	ADE 3613 3627	polyneuropathy
+T114	Reason 3669 3681	pancytopenia
+T117	Reason 4284 4307	paraneoplastic syndrome
+T118	Drug 4763 4772	methadone
+T119	Reason 4710 4728	Diffuse Joint Pain
+T120	ADE 4119 4146	Lower extremity paraparesis
+T121	Dosage 11724 11733	high-dose
+T122	Drug 11951 11963	chemotherapy
+T123	Route 11939 11950	intrathecal
+T124	Reason 13058 13067	Pneumonia
+R68	Route-Drug Arg1:T111 Arg2:T110
+R71	Reason-Drug Arg1:T119 Arg2:T118
+R72	Route-Drug Arg1:T123 Arg2:T122
+R73	Reason-Drug Arg1:T76 Arg2:T70	
+R74	ADE-Drug Arg1:T113 Arg2:T51	
+R75	Reason-Drug Arg1:T114 Arg2:T63	
+R76	ADE-Drug Arg1:T120 Arg2:T64	
+R77	Reason-Drug Arg1:T124 Arg2:T69	
+R78	Reason-Drug Arg1:T124 Arg2:T2	
+T11	Route 1659 1661	IV
+R6	Route-Drug Arg1:T11 Arg2:T70	
+T30	Route 14237 14239	IV
+R16	Route-Drug Arg1:T30 Arg2:T9	
+T35	Route 14660 14662	IV
+R32	Route-Drug Arg1:T35 Arg2:T33	
+T108	Reason 14595 14599	pain
+R69	Reason-Drug Arg1:T108 Arg2:T61	

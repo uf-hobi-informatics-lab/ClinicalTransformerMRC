@@ -1,0 +1,309 @@
+Admission Date:  [**2107-6-26**]              Discharge Date:   [**2107-6-30**]
+
+Date of Birth:  [**2069-9-13**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2290**]
+Chief Complaint:
+Hypotension
+
+Major Surgical or Invasive Procedure:
+Right Internal Jugular vein central line placement ([**2107-6-26**])
+
+
+History of Present Illness:
+37 yo F with PMHx panhypopit who was found hypotensive,
+hypoglycemic, bradycardic at home. She was found to have HR in
+the 20s on sofa unresponsive, lethargic, inital glc 21, bp 70's,
+HR 40's. She received 100mg thiamine, 1amp glucagon, 1amp
+dextrose in the field with rapid improvement in mental status.
+She was last seen by family in morning.
+.
+In the ED, 95.0 68 115/57 20 98%. Awake, following commands, not
+oriented on arrival. FS now 181.Labs notable for Na:133,
+Lactate:1.6. K 3.0  bicarb 18 Mg 1.4  INR: 1.4 WBC 2.8.
+Endocrine c/s: can give levothyroxine 75% IV of home dose about
+2 hours after Dex dose but sounds mostly like adrenal
+insufficiency. Tox scrren negative. Foley placed, Urine, urine
+tox sent. Given zosyn/vanco, Dexamethasone, Lorazepam 2mg/mL,
+Dextrose. On D5 maintenance. 2PIV, Right IJ placed. HR 30-60s,
+BP 80s-115s, temp to 33deg on bear hugger. QTc564. Vitals
+improved with temperature. CT head normal, CXR nml. Line in
+right place. Transfer VS 57 93/75 15 100%2L. QTc narrowed to
+505. Started on levo for SBP 83, 2mg Mag and 4L IVFs. Also given
+calcium gluconate. Had Ativan 1mg x2 for nausea/vomiting.
+.
+In the ICU, patient had an odd affect.  She was oriented but
+childlook.  She endorsed slight nausea and cough. Reports
+compliance with medication.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denies shortness of breath, or wheezing. Denies
+chest pain, chest pressure, palpitations, or weakness. Denies
+nausea, vomiting, diarrhea, constipation, abdominal pain, or
+changes in bowel habits. Denies dysuria, frequency, or urgency.
+Denies arthralgias or myalgias. Denies rashes or skin changes.
+
+
+Past Medical History:
+-TSS x2008 and again in [**2105**] (latter hospital course c/b
+hemorrhagic stroke and intermittant seizures.
+-h/o pituitary macro adenoma
+-h/o glucocortoid noncompliance resulting in crisis in the past
+-craniotomy in [**2095**] after head trauma after syncope
+-bipolar?
+
+
+Social History:
+Single, lives with 2 children, unemployed, smokes 1 pack
+cigarettes every 3 days for 10 years, drinks alcohol
+occasionally. Used marijuana in the past but quit 2 years ago.
+
+Family History:
+Mother with HL
+
+
+Physical Exam:
+Admission Physical Exam:
+VS: Temp: 96.6 BP: 87/54 HR:73 RR:19 O2sat  100% on 2L
+GEN:odd affect, comfortable, NAD
+HEENT: PERRL, EOMI, anicteric, MMM, op without lesions, no
+supraclavicular or cervical lymphadenopathy, no jvd, no carotid
+bruits, no thyromegaly or thyroid nodules
+RESP: CTA b/l with good air movement throughout
+CV: RR, S1 and S2 wnl, no m/r/g
+ABD: nd, +b/s, soft, nt, no masses or hepatosplenomegaly
+EXT: no c/c/e
+SKIN: no rashes/no jaundice/no splinters
+NEURO: AAOx3. Cn II-XII intact. 5/5 strength throughout. No
+sensory deficits to light touch appreciated. No pass-pointing on
+finger to nose. 2+DTR's-patellar and biceps
+
+
+Pertinent Results:
+[**2107-6-26**] 02:00PM BLOOD WBC-2.8* RBC-3.59* Hgb-9.9* Hct-31.2*
+MCV-87 MCH-27.7 MCHC-31.8 RDW-15.8* Plt Ct-242
+[**2107-6-27**] 01:58AM BLOOD WBC-8.0 RBC-3.05* Hgb-8.6* Hct-26.1*
+MCV-86 MCH-28.1 MCHC-32.8 RDW-15.8* Plt Ct-200
+
+[**2107-6-28**] 12:12AM BLOOD Hct-28.7*
+
+[**2107-6-29**] 05:34AM BLOOD WBC-10.7 RBC-3.11* Hgb-9.0* Hct-26.3*
+MCV-85 MCH-28.9 MCHC-34.2 RDW-16.1* Plt Ct-181
+
+[**2107-6-30**] 06:17AM BLOOD Hct-24.8*
+
+[**2107-6-26**] 03:45PM BLOOD PT-15.5* PTT-57.0* INR(PT)-1.4*
+[**2107-6-28**] 04:28AM BLOOD PT-13.2 PTT-31.9 INR(PT)-1.1
+
+[**2107-6-26**] 02:00PM BLOOD Glucose-206* UreaN-13 Creat-0.9 Na-132*
+K-4.9 Cl-102 HCO3-19* AnGap-16
+[**2107-6-27**] 08:38AM BLOOD Glucose-322* UreaN-6 Creat-0.9 Na-141
+K-4.2 Cl-115*
+
+[**2107-6-28**] 09:52AM BLOOD Na-148* K-3.6 Cl-120* HCO3-19* AnGap-13
+[**2107-6-30**] 06:17AM BLOOD Glucose-172* UreaN-7 Creat-0.7 Na-141
+K-3.7 Cl-112* HCO3-24 AnGap-9
+
+[**2107-6-27**] 08:38AM BLOOD Iron-28*
+[**2107-6-27**] 08:38AM BLOOD calTIBC-163* VitB12-1717* Folate-9.3
+Ferritn-149 TRF-125*
+[**2107-6-29**] 05:34AM BLOOD Hapto-104
+[**2107-6-29**] 05:34AM BLOOD Ret Aut-1.2
+[**2107-6-30**] 06:17AM BLOOD Ret Aut-1.1*
+
+[**2107-6-26**] 05:00PM BLOOD Albumin-3.0* Calcium-6.2* Phos-1.8*
+Mg-1.5*
+[**2107-6-29**] 05:34AM BLOOD Albumin-3.4* Calcium-8.1* Phos-2.4*
+Mg-2.5
+
+[**2107-6-26**] 02:00PM BLOOD TSH-<0.02*
+[**2107-6-27**] 08:38AM BLOOD Free T4-1.2
+
+[**2107-6-26**] 02:00PM BLOOD Cortsol-1.5*
+
+[**2107-6-26**] 02:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+[**2107-6-26**] 03:35PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-250 Ketone-80 Bilirub-NEG Urobiln-0.2 pH-5.5 Leuks-NEG
+[**2107-6-27**] 04:57AM URINE Osmolal-185
+
+[**2107-6-26**] 03:35PM URINE UCG-NEGATIVE
+
+Blood culture ([**2107-6-26**]): No growth
+
+CXR ([**2107-6-26**]): No acute intrathoracic process.
+
+CT Head without contrast ([**2107-6-26**]): No acute intracranial
+process. Mild right sphenoidal sinus disease. Mild age advanced
+atrophy. Please correlate clinically.
+
+TTE ([**2107-6-28**])
+The left atrium is normal in size. Left ventricular wall
+thickness, cavity size, and global systolic function are normal
+(LVEF>55%). Right ventricular chamber size and free wall motion
+are normal. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion and no aortic stenosis or
+aortic regurgitation. The mitral valve leaflets are mildly
+thickened. There is mild anterior leaflet mitral valve prolapse.
+Mild (1+) mitral regurgitation is seen. There is borderline
+pulmonary artery systolic hypertension. There is no pericardial
+effusion.
+
+Brief Hospital Course:
+37 year old female with past medical history of FSH producing
+macroadenoma s/p TSS x 2 complicated by panhypopituitarism for
+which she is on chronic prednisone and levothyroxine admitted
+with hypotension, hypoglycemia, hypothermia and bradycardia
+likely due to adrenal crisis.
+
+1. Adrenal crisis: Unsure of the precipitant. Could be medical
+noncompliance with past history even though patient and her
+sister report compliance.  It could also be precipitated by
+viral upper respiratory tract infection.  She was started on IV
+hydrocortisone in the MICU and transitioned to prednisone 20 mg
+po qdaily on discharge with help of endocrinology.
+
+She was empirically started on Vancomcyin/Zosyn to cover for
+bacterial infection precipitating adrenal crisis but they were
+discontinued on day 3 as blood cultures were negative x 48 hours
+and no source of infection noted on imaging and exam.  TTE, EKG
+and cardiac enzymes did not reveal any cardiac pathology.
+
+2. Hypernatremia: Likely due to central diabetes insipidus.
+Sodium returned to [**Location 213**] with DDAVP admission and urine output
+returend to  less than 200 cc/hr.  She was discharged on
+scheduled 0.1 mg of DDAVP at bedtime.  She was also instructed
+to drink to thirst.
+
+3. Panhypoptituitarism s/p TSS x 2 for pituitary macroadenoma.
+Continued on home levothyroxine 75 mcg po qdaily.
+Glucocorticoid replacement as above.  Currently not on any
+estrogen replacement which she could benefit from to prevent
+osteoporosis.
+
+4. Prolong QTc: Likely due to sinus bradycardia in setting of
+electrolyte imbalance. She does not report chest pain.
+
+5. FSH pituitary adenoma.  Follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 21721**] in 1
+week after discharge.  Defer to primary endocrinologist
+regarding imaging to determine there are any signs of growth of
+her adenoma
+
+6. Abnormal affect: Per baseline per patient's sister. Unsure of
+psychological component. Patient reports not being depressed or
+having ahedonia. CT head showed age advanced atrophy.  She
+refused to speak with social worker.
+
+7. Anemia: Iron studies showing anemia of chronic disease with
+concaminant iron deficiency anemia. S/p one unit of PRBC in
+MICU.  She was started on iron sulfate 325 mg po qdaily with
+retic count of 1.1 on discharge.
+
+8. Hyperglycemia: Likely due to increased steroids. Was treated
+with sliding scale insulin
+
+Follow up for PCP/endocrinology
+1. Taper steroids per Dr. [**Last Name (STitle) 21721**]
+2. Please consider estrogen replacement to help prevent
+osteoporosis
+3. Please consider MRI head to determine whether her diabetes
+insipidus is related to growth in her macroadenoma.
+4. Please check retic count 2 weeks after discharge ([**2107-7-15**])
+to determine whether she has a response to iron sulfate
+
+Medications on Admission:
+-synthroid 75mcg
+-prednisone 5mg daily
+
+
+Discharge Medications:
+1. levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. desmopressin 0.1 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+3. ferrous sulfate 300  mg (60 mg iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*10 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis
+1. Adrenal crisis
+2. Central diabetes insipidus
+
+Secondary Diagnosis
+1. Pituitary macroadenoma
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You were admitted to the hospital after being found at home with
+low blood pressure, low blood glucose and low heart rate thought
+to be due to adrenal crisis.  You were admitted to the medical
+intensive care unit and given stress dose steroids.
+
+You were also noted to have high sodium levels which were
+thought to be due to deficiency in another pituitary hormone
+called vasopression.  You were started on a medication called
+DESMOPRESSIN to replete this hormone which helped normalize your
+sodium levels.
+
+You were also started on iron as you were thought to be iron
+deficient causing you to have low blood count.
+
+FOLLOWING MEDICATION CHANGES WERE MADE TO YOUR MEDICAL REGIMEN
+START Desmopressin 0.1 mg by mouth every night to help with your
+sodium level and urinate less water
+START IRON 325 mg by mouth once a day to help with your blood
+count
+INCREASE PREDNISONE to 20 mg by mouth every day until you see
+Dr.  [**Last Name (STitle) **]
+
+Please discuss with your endocrinologist regarding further
+imaging of your brain with MRI to determine whether your
+pituitary adenoma is increasing in size.
+
+Followup Instructions:
+Name: [**Last Name (LF) **],[**First Name3 (LF) 65996**] M.
+Location: FAMILY MEDICINE AT BALL SQUARE
+Address: 645 [**Location (un) **], [**Hospital1 **],[**Numeric Identifier 87378**]
+Phone: [**Telephone/Fax (1) 84739**]
+Appt:  [**7-6**] a 2:30pm
+
+Name: [**Last Name (LF) **],[**First Name7 (NamePattern1) 15742**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+Location: [**Hospital6 9657**] HOSP
+Address: [**Hospital1 87379**], [**Location (un) **],[**Numeric Identifier 6425**]
+Phone: [**Telephone/Fax (1) 87380**]
+Appt:  [**7-25**] at 3pm
+NOTE-The office is working on a sooner appt for you.
+
+Dr. [**Last Name (STitle) **] (Colleague of Dr. [**Last Name (STitle) 21721**]
+[**Hospital6 **] Endocrinology Department
+[**Hospital1 **]
+[**Location (un) 551**]
+[**Location (un) 86**], [**Numeric Identifier 87381**]
+([**Telephone/Fax (1) 87382**]
+Tuesday [**2106-7-5**]:50 am
+
+
+

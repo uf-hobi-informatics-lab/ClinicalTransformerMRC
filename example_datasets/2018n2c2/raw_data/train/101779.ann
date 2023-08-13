@@ -1,0 +1,251 @@
+T1	Reason 10083 10094	hypotensive
+R1	Reason-Drug Arg1:T1 Arg2:T2
+R2	Reason-Drug Arg1:T1 Arg2:T3
+T2	Drug 10107 10115	pressors
+T3	Drug 10123 10126	IVF
+T4	Reason 1041 1070	strep viridans line infection
+R3	Reason-Drug Arg1:T4 Arg2:T86
+R4	Reason-Drug Arg1:T4 Arg2:T90
+T5	Drug 10416 10424	morphine
+T6	Route 10425 10429	drip
+R5	Route-Drug Arg1:T6 Arg2:T5
+T7	Reason 10486 10490	pain
+R6	Reason-Drug Arg1:T7 Arg2:T8
+R7	Reason-Drug Arg1:T7 Arg2:T5
+T8	Drug 10513 10521	morphine
+T9	Route 10522 10526	drip
+R8	Route-Drug Arg1:T9 Arg2:T8
+T10	Drug 10702 10710	dilaudid
+T11	Drug 10715 10721	ativan
+T12	Route 10722 10726	drip
+R9	Route-Drug Arg1:T12 Arg2:T11
+R10	Route-Drug Arg1:T12 Arg2:T10
+T13	Drug 10994 11021	Amoxicillin-Pot Clavulanate
+T14	Strength 11022 11032	500-125 mg
+R11	Strength-Drug Arg1:T14 Arg2:T13
+T15	Route 11033 11035	PO
+R12	Route-Drug Arg1:T15 Arg2:T13
+T16	Frequency 11036 11039	Q8H
+R13	Frequency-Drug Arg1:T16 Arg2:T13
+T17	Drug 11040 11046	Lantus
+T18	Dosage 11047 11050	50u
+R14	Dosage-Drug Arg1:T18 Arg2:T17
+T19	Frequency 11051 11056	daily
+R15	Frequency-Drug Arg1:T19 Arg2:T17
+T20	Drug 11057 11068	Humalog ISS
+T21	Drug 11069 11079	Gabapentin
+T22	Strength 11080 11086	300 mg
+R16	Strength-Drug Arg1:T22 Arg2:T21
+T23	Route 11087 11089	PO
+R17	Route-Drug Arg1:T23 Arg2:T21
+T24	Frequency 11090 11092	HS
+R18	Frequency-Drug Arg1:T24 Arg2:T21
+T25	Drug 11093 11102	Lactulose
+T26	Dosage 11103 11108	30 ML
+R19	Dosage-Drug Arg1:T26 Arg2:T25
+T27	Route 11109 11111	PO
+R20	Route-Drug Arg1:T27 Arg2:T25
+T28	Frequency 11112 11115	QID
+R21	Frequency-Drug Arg1:T28 Arg2:T25
+T29	Drug 11116 11125	Lorazepam
+T30	Strength 11126 11132	0.5 mg
+R22	Strength-Drug Arg1:T30 Arg2:T29
+T31	Form 11133 11139	Tablet
+R23	Form-Drug Arg1:T31 Arg2:T29
+T32	Route 11140 11142	PO
+R24	Route-Drug Arg1:T32 Arg2:T29
+T33	Frequency 11143 11146	Q4H
+R25	Frequency-Drug Arg1:T33 Arg2:T29
+T34	Drug 11147 11157	Filgrastim
+T35	Strength 11158 11172	480 mcg/1.6 mL
+R26	Strength-Drug Arg1:T35 Arg2:T34
+T36	Frequency 11173 11177	Q24H
+R27	Frequency-Drug Arg1:T36 Arg2:T34
+T37	Drug 11178 11187	Acyclovir
+T38	Strength 11188 11194	800 mg
+R28	Strength-Drug Arg1:T38 Arg2:T37
+T39	Route 11195 11197	PO
+R29	Route-Drug Arg1:T39 Arg2:T37
+T40	Frequency 11198 11201	Q8H
+R30	Frequency-Drug Arg1:T40 Arg2:T37
+T41	Drug 11202 11211	Methadone
+T42	Strength 11212 11216	30mg
+R31	Strength-Drug Arg1:T42 Arg2:T41
+T43	Route 11217 11219	PO
+R32	Route-Drug Arg1:T43 Arg2:T41
+T44	Frequency 11220 11223	QAM
+R33	Frequency-Drug Arg1:T44 Arg2:T41
+T45	Strength 11226 11230	20mg
+R34	Strength-Drug Arg1:T45 Arg2:T41
+T46	Route 11231 11233	PO
+R35	Route-Drug Arg1:T46 Arg2:T41
+T47	Frequency 11234 11238	NOON
+R36	Frequency-Drug Arg1:T47 Arg2:T41
+T48	Strength 11241 11245	30mg
+R37	Strength-Drug Arg1:T48 Arg2:T41
+T49	Route 11246 11248	PO
+R38	Route-Drug Arg1:T49 Arg2:T41
+T50	Frequency 11249 11252	QPM
+R39	Frequency-Drug Arg1:T50 Arg2:T41
+T51	Drug 11253 11264	Mirtazapine
+T52	Strength 11265 11270	30 mg
+R40	Strength-Drug Arg1:T52 Arg2:T51
+T53	Route 11271 11273	PO
+R41	Route-Drug Arg1:T53 Arg2:T51
+T54	Strength 11274 11276	HS
+R42	Strength-Drug Arg1:T54 Arg2:T51
+T55	Drug 11277 11285	Morphine
+T56	Strength 11286 11291	15 mg
+R43	Strength-Drug Arg1:T56 Arg2:T55
+T57	Route 11292 11294	PO
+R44	Route-Drug Arg1:T57 Arg2:T55
+T58	Frequency 11295 11302	Q4H prn
+R45	Frequency-Drug Arg1:T58 Arg2:T55
+T59	Drug 11303 11311	Nystatin
+T60	Form 11312 11322	Suspension
+R46	Form-Drug Arg1:T60 Arg2:T59
+T61	Dosage 11323 11324	5
+R47	Dosage-Drug Arg1:T61 Arg2:T59
+T62	Form 11325 11327	ML
+R48	Form-Drug Arg1:T62 Arg2:T59
+T63	Route 11328 11330	PO
+R49	Route-Drug Arg1:T63 Arg2:T59
+T64	Frequency 11331 11338	QID prn
+R50	Frequency-Drug Arg1:T64 Arg2:T59
+T65	Drug 11339 11349	Omeprazole
+T66	Strength 11350 11355	20 mg
+R51	Strength-Drug Arg1:T66 Arg2:T65
+T67	Route 11356 11358	PO
+R52	Route-Drug Arg1:T67 Arg2:T65
+T68	Frequency 11359 11364	DAILY
+R53	Frequency-Drug Arg1:T68 Arg2:T65
+T69	Drug 11365 11375	Prednisone
+T70	Strength 11376 11381	20 mg
+R54	Strength-Drug Arg1:T70 Arg2:T69
+T71	Route 11382 11384	PO
+R55	Route-Drug Arg1:T71 Arg2:T69
+T72	Frequency 11385 11390	daily
+R56	Frequency-Drug Arg1:T72 Arg2:T69
+T73	Drug 11391 11405	Spironolactone
+T74	Strength 11406 11412	100 mg
+R57	Strength-Drug Arg1:T74 Arg2:T73
+T75	Route 11413 11415	PO
+R58	Route-Drug Arg1:T75 Arg2:T73
+T76	Frequency 11416 11421	DAILY
+R59	Frequency-Drug Arg1:T76 Arg2:T73
+T77	Drug 11422 11433	Allopurinol
+T78	Strength 11434 11440	300 mg
+R60	Strength-Drug Arg1:T78 Arg2:T77
+T79	Route 11441 11443	PO
+R61	Route-Drug Arg1:T79 Arg2:T77
+T80	Frequency 11444 11449	DAILY
+R62	Frequency-Drug Arg1:T80 Arg2:T77
+T81	Drug 11450 11460	Furosemide
+T82	Strength 11461 11466	40 mg
+R63	Strength-Drug Arg1:T82 Arg2:T81
+T83	Route 11467 11469	PO
+R64	Route-Drug Arg1:T83 Arg2:T81
+T84	Frequency 11470 11475	DAILY
+R65	Frequency-Drug Arg1:T84 Arg2:T81
+T85	Drug 11476 11489	Acetaminophen
+T86	Drug 1149 1154	PCN G
+T87	Strength 11490 11496	650 mg
+R66	Strength-Drug Arg1:T87 Arg2:T85
+T88	Route 11497 11499	PO
+R67	Route-Drug Arg1:T88 Arg2:T85
+T89	Frequency 11500 11507	Q4H prn
+R68	Frequency-Drug Arg1:T89 Arg2:T85
+T90	Drug 1176 1185	augmentin
+T91	Drug 166 175	Compazine
+T92	Drug 1883 1894	ceftriaxone
+T93	Drug 1896 1901	vanco
+T94	Drug 1907 1916	acyclovir
+T95	Reason 1921 1939;1940 1948	empiric meningitis coverage
+R69	Reason-Drug Arg1:T95 Arg2:T92
+R70	Reason-Drug Arg1:T95 Arg2:T93
+R71	Reason-Drug Arg1:T95 Arg2:T94
+T96	Reason 2348 2370	lymphoblastic lymphoma
+R72	Reason-Drug Arg1:T96 Arg2:T99
+R73	Reason-Drug Arg1:T96 Arg2:T101
+R74	Reason-Drug Arg1:T96 Arg2:T102
+T97	Reason 386 399	HCV cirrhosis
+T98	Reason 415 437	lymphoblastic lymphoma
+R77	Reason-Drug Arg1:T98 Arg2:T105
+R78	Reason-Drug Arg1:T98 Arg2:T106
+T99	Drug 4232 4238	R-CHOP
+T100	Drug 4309 4321	chemotherapy
+T101	Drug 4356 4362	R-CHOP
+T102	Drug 4371 4382	vincristine
+T103	Reason 438 441	ALL
+R79	Reason-Drug Arg1:T103 Arg2:T105
+R80	Reason-Drug Arg1:T103 Arg2:T106
+T104	ADE 4412 4422	neuropathy
+R81	ADE-Drug Arg1:T104 Arg2:T102
+T105	Drug 445 454	rituximab
+T106	Drug 459 469	prednisone
+T107	Reason 5119 5147	acute lymphoblastic leukemia
+R82	Reason-Drug Arg1:T107 Arg2:T108
+R83	Reason-Drug Arg1:T107 Arg2:T114
+R84	Reason-Drug Arg1:T107 Arg2:T116
+R85	Reason-Drug Arg1:T107 Arg2:T120
+R86	Reason-Drug Arg1:T107 Arg2:T123
+R87	Reason-Drug Arg1:T107 Arg2:T124
+R88	Reason-Drug Arg1:T107 Arg2:T125
+T108	Drug 5178 5187	rituximab
+T109	Strength 5188 5193	500mg
+R89	Strength-Drug Arg1:T109 Arg2:T108
+T110	Duration 5204 5215	three doses
+R90	Duration-Drug Arg1:T110 Arg2:T108
+T111	Strength 5219 5224	100mg
+R91	Strength-Drug Arg1:T111 Arg2:T108
+T112	Strength 5226 5232	200 mg
+R92	Strength-Drug Arg1:T112 Arg2:T108
+T113	Strength 5238 5243	200mg
+R93	Strength-Drug Arg1:T113 Arg2:T108
+T114	Drug 5306 5315	rituximab
+T115	Strength 5316 5324	375mg/m2
+R94	Strength-Drug Arg1:T115 Arg2:T114
+T116	Drug 5326 5342	cyclophosphamide
+T117	Strength 5343 5351	750mg/m2
+R95	Strength-Drug Arg1:T117 Arg2:T116
+T118	Drug 5353 5364	doxorubicin
+T119	Strength 5365 5372	20mg/m2
+R96	Strength-Drug Arg1:T119 Arg2:T118
+T120	Drug 5378 5391	dexamethasone
+T121	Strength 5392 5396	20mg
+R97	Strength-Drug Arg1:T121 Arg2:T120
+T122	Drug 5657 5669	chemotherapy
+T123	Drug 5675 5684	rituximab
+T124	Drug 5689 5699	prednisone
+T125	Drug 5701 5710	Rituximab
+T126	Strength 5746 5751	100mg
+R98	Strength-Drug Arg1:T126 Arg2:T125
+T127	Strength 5790 5795	200mg
+R99	Strength-Drug Arg1:T127 Arg2:T125
+T128	Frequency 5796 5801	daily
+R100	Frequency-Drug Arg1:T128 Arg2:T125
+T129	Reason 611 620	back pain
+R101	Reason-Drug Arg1:T129 Arg2:T131
+R102	Reason-Drug Arg1:T129 Arg2:T132
+T130	Reason 650 659	back pain
+R103	Reason-Drug Arg1:T130 Arg2:T132
+R104	Reason-Drug Arg1:T130 Arg2:T131
+T131	Drug 707 715	morphine
+T132	Drug 719 728	methadone
+T133	ADE 884 890	fevers
+R105	ADE-Drug Arg1:T133 Arg2:T134
+T134	Drug 924 932	platelet
+T135	Form 933 944	transfusion
+R106	Form-Drug Arg1:T135 Arg2:T134
+T136	Reason 9935 9944;9945 9959	relapsing refractory ALL
+R107	Reason-Drug Arg1:T136 Arg2:T137
+R108	Reason-Drug Arg1:T136 Arg2:T138
+T137	Drug 9963 9973	prednisone
+T138	Drug 9978 9987	rituximab
+R75	Reason-Drug Arg1:T96 Arg2:T100	
+R76	Reason-Drug Arg1:T107 Arg2:T122	
+T139	ADE 6106 6123	diabetes mellitus
+T140	Drug 6090 6097	Steroid
+R109	ADE-Drug Arg1:T139 Arg2:T140	
+T141	Reason 5148 5156	lymphoma
+R110	Reason-Drug Arg1:T141 Arg2:T108	

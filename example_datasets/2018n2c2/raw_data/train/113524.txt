@@ -1,0 +1,169 @@
+Admission Date:  [**2124-1-14**]              Discharge Date:   [**2124-1-19**]
+
+Date of Birth:  [**2059-7-17**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 1505**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+emergency cabg x4 on [**2124-1-14**] (LIMA to LAD, SVG to ramus, SVG to
+OM, SVG to PDA
+
+
+History of Present Illness:
+64 year old male with history of chest pain intermittently since
+last summer. It increases with exertion and is resolved with
+rest. Had a + ETT on [**1-5**] and referred for cath today. He had a
+dye reaction? in the cath lab and received solumedrol at that
+time. He continued to have some chest pain in the cath lab and
+was referred emergently to Dr. [**Last Name (STitle) **] for CABG. Cath showed LM
+30%, LAD 80%, Ramus 90%, CX 70%, RCA 50%, EF 60%. Patient admits
+to having taken 40 mg oral prednisone the evening prior to cath
+for asthma flare.
+
+Past Medical History:
+asthma
+GERD
+hepatitis C at age 18
+HTN
+elev. chol
+
+Social History:
+married and lives with wife
+businessman
+one drink per day
+quit smoking 15 years ago, 35 pk/yr history
+
+Family History:
+father died of MI at 52, mother with CABG
+
+Physical Exam:
+HR 94  165/77   RR 17  5'7" 179#
+RRR S1 S2  no murmur
+CTAB
+soft, NT, ND
+grossly nonfocal neuro exam
+right fem art. line in place with 2+ bilat. fem pulses
++ DP/PT pulses
+
+Pertinent Results:
+[**2124-1-17**] 06:00AM BLOOD WBC-6.8 RBC-3.51* Hgb-10.5* Hct-27.9*
+MCV-80* MCH-29.9 MCHC-37.5* RDW-14.6 Plt Ct-103*
+[**2124-1-17**] 06:00AM BLOOD Plt Ct-103*
+[**2124-1-17**] 06:00AM BLOOD Fibrino-638*#
+[**2124-1-17**] 06:00AM BLOOD Glucose-111* UreaN-18 Creat-0.8 Na-133
+K-4.0 Cl-98 HCO3-26 AnGap-13
+[**2124-1-14**] 09:10AM BLOOD ALT-16 AST-15 AlkPhos-74 Amylase-76
+TotBili-0.3
+[**2124-1-14**] 09:10AM BLOOD WBC-10.6 RBC-3.31* Hgb-10.3* Hct-28.0*
+MCV-85 MCH-31.2 MCHC-36.8* RDW-12.8 Plt Ct-233
+[**2124-1-17**] 06:00AM BLOOD Calcium-8.2* Phos-2.1*
+[**2124-1-14**] 09:10AM BLOOD VitB12-417
+[**2124-1-14**] 09:10AM BLOOD Triglyc-27 HDL-46 CHOL/HD-2.7 LDLcalc-73
+
+Brief Hospital Course:
+Admitted for cath as above on [**1-14**] and taken to OR urgently for
+CABG by Dr. [**Last Name (STitle) **]. Transferred to CSRU in stable condition on
+titrated neo and propofol drips. Extubated in the early AM POD
+#1. Chest tubes were removed and lasix diuresis started along
+with beta blockade. Swan removed and transferred out to the
+floor on POD #2. Began to ambulate on the floor and made rapid
+progress. He went into afib briefly on [**1-17**], but converted to SR
+on lopressor and amiodarone. Pacing wires were removed on POD
+#4.  Prelim. CXR on [**1-19**] shows left pleural effusion. Patient is
+asymptomatic , no rales or wheezing, but has decreased BS at
+left lung base. He remained in SR and was discharged to home
+with VNA services on POD #5.
+
+Medications on Admission:
+adviar discus  500 mg/50 mg one puff [**Hospital1 **]
+lisinopril 20 mg daily
+[**Doctor First Name 130**] 180 mg daily
+ASA 325 mg daily
+plavix 75 mg daily ( had dose AM of admission)
+lovastatin 20 mg daily
+singulair 10 mg daily
+toprol XL 25 mg daily
+prevacid 30 mg daily
+prednisone 20 mg po prn asthma flare ( had 40 mg last PM)
+
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Disp:*1 Disk with Device(s)* Refills:*2*
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+8. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO once a day for 5 days.
+Disp:*10 Capsule, Sustained Release(s)* Refills:*0*
+9. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day) for 5 days;  then 400 mg daily for one week, then 200 mg
+daily ongoing.
+Disp:*80 Tablet(s)* Refills:*1*
+11. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day
+for 5 days.
+Disp:*5 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **] HOME CARE
+
+Discharge Diagnosis:
+CAD
+s/p cabg x4
+asthma
+HTN
+GERD
+Hepatitis C
+a fib
+elev. chol.
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+may shower over wounds and pat dry
+no lotions, creams or powders on any incision
+no driving for one month
+no lifting greater than 10 pounds for 10 weeks
+call for fever greater than 100, or wound drainage
+
+Followup Instructions:
+follow up with Dr. [**Last Name (STitle) 2912**] in [**1-21**] weeks
+follow up with Dr. [**Last Name (STitle) **] in 4 weeks
+follow up with Dr. [**Last Name (STitle) **] in [**12-20**] weeks
+
+
+
+Completed by:[**2124-1-19**]

@@ -1,0 +1,223 @@
+Admission Date:  [**2116-7-25**]              Discharge Date:   [**2116-7-28**]
+
+Date of Birth:  [**2077-2-1**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Pentostatin / Iodine; Iodine Containing / Linezolid
+
+Attending:[**Last Name (NamePattern1) 4377**]
+Chief Complaint:
+Hypotension, fever
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Ms. [**Known lastname 92191**] is a 39 year-old female with a history of NHL T-cell
+status post mini-allo-MUD BMT in [**12/2114**] complicated by grade 1
+skin GVHD now in remission, off CSA since [**6-/2115**], Prednisone
+[**2-/2116**], and Cellcept [**4-/2116**], who presents from the ED with
+hypotension, and fever.
+*
+She was recently evaluated in the Hem/[**Hospital **] clinic and a restaging
+PET scan was worrisome for two new bilateral foci of increased
+FDG uptake in the neck raising suspicion for recurrent FDG-avid
+lymphoma. She was therefore scheduled for a CT neck with
+contrast today for further evaluation. She pressented for her CT
+scan to [**Hospital1 18**], and underwent the study uneventfully. Following
+the procedure, she ate a hamburger with mayonnaise from the
+cafeteria, and walked home. When she arrived, she developed
+vague diffuse abdominal pain, then watery diarrhea X 3-4 times.
+She also endorses N/V, with emesis X multiple times. Around the
+same time, she also noted a new pruritic rash inside both her
+ankles, which susbsequently resolved. She called EMS, who came
+to her house, but for an unclear reason felt that she did not
+require further care. She subsequently presented to the ED for
+further evaluation. + chills and subjective fever, + flushing.
+Mild dry cough over past few days. She reports a [**12-20**]-week
+history of urinary frequency, no dysuria. ? Cloudy urine in past
+week, with right-sided back pain. Urine culture from [**7-22**]
+(hem/onc clinic) contaminated. No recent travel, no other
+unusual food. She lives in a boarding home, may have been in
+contact with other sick people.
+*
+In the ED, her initial vitals were T 104.2, HR 147, BP 91/39, RR
+18, Sat 98% RA. She was hydrated with 6.5 L NS, and given
+Vancomycin 1gm, Levofloxacin 500 mg IV, and Cefepime 2gm IV. She
+was also given HC 100 mg IV, and Benadryl 25 mg IV. Her blood
+pressure improved with the above therapy. A right IJ triple
+lumen was placed in sterile conditions. She is being admitted
+for further care.
+
+Past Medical History:
+1. Non-Hodgkin's T cell lymphoma, diagnosed in [**1-/2113**], s/p
+Rituximab with disease progression, s/p CHOP with evidence of
+progression after 3rd cycle, s/p Pentostatin, Rituxan c/b TTP,
+s/p mini-allo-MUD BMT in [**12/2114**] complicated by grade 1 skin
+GVHD, off CSA since [**6-/2115**], Prednisone since [**2-/2116**], Cellcept
+06/[**2115**].
+2. History of renal failure requiring HD secondary to CSA and
+lymphomatous infiltration.
+3. Hypercholesterolemia
+4. Depression
+5. Congenital abnormalities of the fingers, status post 2
+surgical interventions.
+6. Generalized arthralgias, followed by rheumatology, ?
+fibromyalgia
+7. Glaucoma
+8. History of VRE UTI.
+
+Social History:
+She lives in a boarding home, with 40 other co-residents. They
+share a kitchen and bathroom. She is a non-smoker. She currently
+lives in the apartments.  She denied use of tobacco or illicit
+drugs. She no longer drinks alcohol but formerly used socially.
+
+
+Family History:
+Her sister died at the age of 22 of lymphomatoid granulomatosis.
+She also had CNS lymphoma. Her father died of CLL after marrow
+transplantation for aplastic anemia at 62. Her mother died of
+stroke at the age of 65.
+
+Physical Exam:
+VITALS: T 98.9, BP 88/53, HR 94, RR 16, Sat 99% on 2L. CVP 10.
+Last SvO2 84%.
+GEN: In NAD.
+HEENT: MMM. Anicteric. PERRL. Mild bilateral tonsillar
+enlargement, with ? food residue versus exudate on right.
+Oropharynx otherwise unremarkable.
+NECK: No palpable cervical, axillary lymphadenopathy.
+RESP: CTAB, without adventitious sounds.
+CVS: RRR. Normal S1, S2. No S3, S4. No murmur or rub.
+GI: Obese abdomen. BS NA. Abdomen soft, non-tender. Mild right
+CVA tenderness.
+EXT: Without edema.
+INTEGUMENT: No rash. No flushing.
+
+Pertinent Results:
+[**2116-7-24**] 08:30PM   WBC-7.5 RBC-3.66* HGB-12.7 HCT-36.2 MCV-99*
+MCH-34.6* MCHC-35.1* RDW-13.7
+[**2116-7-24**] 08:30PM   NEUTS-50 BANDS-48* LYMPHS-1* MONOS-1* EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2116-7-24**] 08:30PM   PLT COUNT-248
+[**2116-7-24**] 08:30PM   CORTISOL-35.0*
+[**2116-7-24**] 08:30PM   HAPTOGLOB-147
+[**2116-7-24**] 08:30PM   CALCIUM-9.2 PHOSPHATE-1.6*# MAGNESIUM-1.5*
+[**2116-7-24**] 08:30PM   LIPASE-65*
+[**2116-7-24**] 08:30PM   ALT(SGPT)-29 AST(SGOT)-22 LD(LDH)-152 ALK
+PHOS-129* AMYLASE-91 TOT BILI-0.2
+[**2116-7-24**] 08:30PM   GLUCOSE-118* UREA N-18 CREAT-1.4* SODIUM-140
+POTASSIUM-3.6 CHLORIDE-103 TOTAL CO2-23 ANION GAP-18
+[**2116-7-24**] 08:48PM   LACTATE-4.0*
+[**2116-7-24**] 09:30PM   FIBRINOGE-340
+[**2116-7-24**] 09:30PM   PT-11.6 PTT-21.6* INR(PT)-1.0
+*
+EKG in ED: Sinus tachycardia, rate 129 bpm, indeterminate axis,
+old Qs in III, aVF, TW flattening in V2-6, no change versus
+prior.
+*
+RELEVANT IMAGING DATA:
+[**2116-7-24**] CXR portable: Again noted are staples from prior lung
+wedge resection on the right. There are very low lung volumes.
+No definite
+consolidations are seen. There is platelike atelectasis at the
+left lung base. The heart size is normal given technique. No
+layering pleural effusions are seen.
+*
+[**2116-7-24**] CT NECK W/ contrast: No abnormally enlarged nodes in
+the neck. The areas of increased uptake noted on PET scan could
+correspond to the region of the tonsils, which appear
+unremarkable on the CT scan. However, any interval change in
+their size could not be assessed due to lack of prior comparable
+studies.
+*
+[**2116-7-17**] PET SCAN: Two new bilateral foci of increased FDG
+uptake in neck raising raising suspicion for recurrent FDG-avid
+lymphoma. Other considerations would include granulomatous
+processes and reactive lymphadenopathy. The intensity is greater
+than usually seen but does not exclude reactive nodes. Recommend
+correlation with history of any recent infectious symptoms.
+
+Brief Hospital Course:
+ASSESSMENT AND PLAN: 39 yo female with history of T-cell NHL in
+remission with recent abnormal PET scan findings under further
+investigation, with fever, hypotension of 12-hour duration,
+responsive to IVF.
+*
+1) Fever, hypotension: Resolved after one night. Although her
+presentation most suggestive of severe sepsis, with elevated
+lactate and hypotension responsive to IVF resuscitation, the
+rapid resolution was more consistent with an anaphylactic
+reaction to IV contrast from the CT.  Dr. [**Last Name (STitle) 410**] has reported a
+similar admission where the patient presented with a septic
+picture which subsequently resolved without localizing a source.
+Sbe was treated with the sepsis protocol and broad-spectrum
+antibiotic coverage with cefepime and levofloxacin.
+Hydrocortisone was given in the emergency room, so [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 104**] stim
+test would have been useless.
+*
+2) T-cell NHL in remission: Recent PET findings were concerning
+for disease recurrence, although CT neck without
+lymphadenopathy. Her Acyclovir and Bactrim prophylaxis were both
+continued. There were no active heme/onc issues during this
+admission.
+*
+3) ARF: Creatinine up to 1.4 on admission, decreased to normal,
+suspect pre-renal physiology given elevated specific gravity and
+improvement with hydration.
+
+Medications on Admission:
+Acyclovir 400 mg PO TID
+Bactrim DS 1 tab PO QD 3x/week
+Protonix 40 mg PO QD
+Folic acid 1 mg PO QD
+Celexa 40 mg PO QD
+
+Discharge Medications:
+1. Acyclovir 200 mg Capsule Sig: Two (2) Capsule PO Q8H (every 8
+hours).
+2. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1)
+Tablet PO 3X/WEEK (MO,WE,FR).
+3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Tablet, Delayed Release (E.C.)(s)
+4. Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Zantac 150 mg Capsule Sig: One (1) Capsule PO every six (6)
+hours for 3 days.
+Disp:*12 Capsule(s)* Refills:*0*
+7. Diphenhydramine HCl 25 mg Tablet Sig: One (1) Tablet PO every
+six (6) hours for 3 days.
+Disp:*12 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary: Likely anaphylactic reaction to contrast
+Secondary: T-cell lymphoma
+
+
+Discharge Condition:
+Stable, afebrile.
+
+
+Discharge Instructions:
+Please take all of your medications as prescribed. If you
+experience any dizziness, fever, headache, nausea, vomiting,
+rash, or other concerning symptoms, please seek medical
+attention immediately. You have been prescribed Benadryl and
+Zantac to take every 6 hours until your appointment with Dr.
+[**First Name (STitle) **].
+
+Followup Instructions:
+Please follow up with Dr. [**First Name (STitle) **] on Thursday [**7-30**].
+
+
+

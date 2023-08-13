@@ -1,0 +1,123 @@
+T1	Drug 4420 4427	Lipitor
+T2	Strength 4409 4414	20 mg
+T3	Drug 2309 2320	Simethicone
+T4	Drug 2156 2166	Lisinopril
+T5	Strength 2167 2172	20 mg
+T6	Drug 4362 4371	Lopressor
+T7	Strength 4347 4353	400 mg
+T8	Drug 4299 4304	Imdur
+T9	Strength 4305 4310	20 mg
+T10	Frequency 4311 4317;4318 4321	once a day
+T11	Strength 2133 2139	325 mg
+T12	Drug 2125 2131;2131 2132	Aspiri n
+T13	Drug 1485 1491	Pepcid
+T14	Drug 529 542	Nitroglycerin
+T15	Drug 638 651	Nitroglycerin
+T16	Drug 4398 4408	Lisinopril
+T17	Drug 2326 2335	Lopressor
+T18	Strength 4447 4453	325 mg
+T19	Drug 4439 4445;4445 4446	Aspiri n
+T20	Drug 2141 2148	Lipitor
+T21	Strength 2149 2154	10 mg
+T22	Drug 2207 2215	Percocet
+T23	Drug 4323 4331	Dilantin
+T24	Drug 1448 1456	Benadryl
+T25	Drug 618 625	Aspirin
+T26	Drug 3389 3402	Nitroglycerin
+T27	Drug 4462 4475	Nitroglycerin
+T28	Form 4487 4494	tablets
+T29	Drug 1432 1437;1437 1443	Solu- Medrol
+T30	Strength 1422 1428	120 mg
+T31	Drug 627 633	Plavix
+T32	Drug 2238 2246;2247 2263	Dilantin extended release
+T33	Strength 2264 2270	400 mg
+T34	Drug 2294 2303	Compazine
+T35	Strength 2279 2285	300 mg
+T36	Drug 1272 1280	Dopamine
+T37	Drug 3636 3641;3641 3647	Solu- Medrol
+T38	Drug 1468 1480	Promethazine
+T39	Drug 2174 2179	Serax
+T40	Strength 1106 1111	40 mg
+T41	Drug 1115 1124	Protamine
+T42	Reason 1137 1154	stop the bleeding
+T43	Drug 1261 1267	fluids
+T45	ADE 1306 1330	upper body pruritic rash
+T46	ADE 1360 1371	anaphylaxis
+T48	Drug 1385 1398	dye Protamine
+T49	Frequency 2192 2205	q 8 hours prn
+T50	Dosage 2216 2219	1-2
+T51	Form 2220 2224	tabs
+T52	Frequency 2225 2236	q 4-6 hours
+T53	Frequency 2271 2277	q a.m.
+T54	Frequency 2286 2292	q p.m.
+T55	Strength 2336 2340;2341 2343	12.5 mg
+T56	Drug 3652 3657	Nitro
+T57	Strength 4332 4335;4336 4338	300 mg
+T58	Frequency 4339 4345	q p.m.
+T59	Frequency 4354 4360	q a.m.
+T60	Strength 4372 4379	12.5 mg
+T61	Frequency 4415 4418	q d
+T62	Strength 4428 4433	10 mg
+T63	Frequency 4434 4437	q d
+T64	Frequency 4454 4457	q d
+T65	Route 4476 4486	sublingual
+R1	Strength-Drug Arg1:T2 Arg2:T16
+R2	Strength-Drug Arg1:T5 Arg2:T4
+R3	Strength-Drug Arg1:T7 Arg2:T23
+R4	Strength-Drug Arg1:T9 Arg2:T8
+R5	Frequency-Drug Arg1:T10 Arg2:T8
+R6	Strength-Drug Arg1:T11 Arg2:T12
+R7	Strength-Drug Arg1:T18 Arg2:T19
+R8	Strength-Drug Arg1:T21 Arg2:T20
+R9	Form-Drug Arg1:T28 Arg2:T27
+R10	Strength-Drug Arg1:T30 Arg2:T29
+R11	Strength-Drug Arg1:T33 Arg2:T32
+R12	Strength-Drug Arg1:T35 Arg2:T32
+R13	Reason-Drug Arg1:T42 Arg2:T41
+R14	Strength-Drug Arg1:T40 Arg2:T41
+R16	ADE-Drug Arg1:T45 Arg2:T36
+R18	Frequency-Drug Arg1:T49 Arg2:T39
+R19	Frequency-Drug Arg1:T52 Arg2:T22
+R20	Form-Drug Arg1:T51 Arg2:T22
+R21	Dosage-Drug Arg1:T50 Arg2:T22
+R22	Frequency-Drug Arg1:T53 Arg2:T32
+R23	Frequency-Drug Arg1:T54 Arg2:T32
+R24	Strength-Drug Arg1:T55 Arg2:T17
+R25	Frequency-Drug Arg1:T59 Arg2:T23
+R26	Frequency-Drug Arg1:T58 Arg2:T23
+R27	Strength-Drug Arg1:T57 Arg2:T23
+R28	Strength-Drug Arg1:T60 Arg2:T6
+R29	Frequency-Drug Arg1:T61 Arg2:T16
+R30	Route-Drug Arg1:T65 Arg2:T27
+R31	Frequency-Drug Arg1:T64 Arg2:T19
+R32	Frequency-Drug Arg1:T63 Arg2:T1
+R33	Strength-Drug Arg1:T62 Arg2:T1
+T74	Duration 3687 3695	24 hours
+T77	Reason 1180 1191	hypotensive
+T78	Reason 436 467	chest pain radiating to the jaw
+T79	Frequency 652 655	prn
+T81	Frequency 2304 2307	prn
+T82	Frequency 2321 2324	prn
+T83	Reason 3348 3361	ST elevations
+T84	Reason 3613 3634	anaphylactic reaction
+T85	Frequency 4495 4498	prn
+R34	Reason-Drug Arg1:T78 Arg2:T25	
+R35	Reason-Drug Arg1:T78 Arg2:T31	
+R36	Reason-Drug Arg1:T78 Arg2:T15	
+R37	Frequency-Drug Arg1:T79 Arg2:T15	
+R38	Reason-Drug Arg1:T78 Arg2:T14	
+R17	ADE-Drug Arg1:T46 Arg2:T48	
+T47	Reason 1360 1371	anaphylaxis
+R39	Reason-Drug Arg1:T47 Arg2:T29	
+R40	Reason-Drug Arg1:T47 Arg2:T24	
+R41	Reason-Drug Arg1:T47 Arg2:T13	
+R42	Reason-Drug Arg1:T47 Arg2:T38	
+R43	Frequency-Drug Arg1:T81 Arg2:T34	
+R44	Frequency-Drug Arg1:T82 Arg2:T3	
+R45	Reason-Drug Arg1:T83 Arg2:T26	
+R46	Reason-Drug Arg1:T84 Arg2:T37	
+R47	Duration-Drug Arg1:T74 Arg2:T56	
+R48	Duration-Drug Arg1:T74 Arg2:T37	
+T44	Route 1258 1260	IV
+R15	Route-Drug Arg1:T44 Arg2:T43	
+T66	Drug 2612 2614	O2

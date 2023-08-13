@@ -1,0 +1,449 @@
+T1	Form 10000 10005	patch
+R1	Form-Drug Arg1:T1 Arg2:T259
+T2	Frequency 10006 10042	daily wear 12 hours on then take off
+R2	Frequency-Drug Arg1:T2 Arg2:T259
+T3	Drug 10043 10054	MIRTAZAPINE
+T5	Strength 10057 10062	15 mg
+R4	Strength-Drug Arg1:T5 Arg2:T3
+T6	Form 10063 10069	Tablet
+R5	Form-Drug Arg1:T6 Arg2:T3
+T7	Dosage 10072 10073	1
+R7	Dosage-Drug Arg1:T7 Arg2:T3
+T8	Form 10074 10083	Tablet(s)
+R8	Form-Drug Arg1:T8 Arg2:T3
+T9	Route 10084 10092	by mouth
+R10	Route-Drug Arg1:T9 Arg2:T3
+T10	Frequency 10093 10103	at bedtime
+R11	Frequency-Drug Arg1:T10 Arg2:T3
+T11	Drug 10104 10111	NADOLOL
+T13	Strength 10114 10119	40 mg
+R13	Strength-Drug Arg1:T13 Arg2:T11
+T14	Form 10120 10126	Tablet
+R14	Form-Drug Arg1:T14 Arg2:T11
+T15	Dosage 10129 10130	1
+R16	Dosage-Drug Arg1:T15 Arg2:T11
+T16	Form 10131 10140	Tablet(s)
+R17	Form-Drug Arg1:T16 Arg2:T11
+T17	Route 10141 10149	by mouth
+R19	Route-Drug Arg1:T17 Arg2:T11
+T18	Frequency 10150 10155	daily
+R20	Frequency-Drug Arg1:T18 Arg2:T11
+T19	Drug 10156 10164	NICOTINE
+T20	Strength 10167 10180	14 mg/24 hour
+R21	Strength-Drug Arg1:T20 Arg2:T19
+T21	Form 10181 10191	Patch 24hr
+R22	Form-Drug Arg1:T21 Arg2:T19
+T22	Dosage 10194 10195	1
+R23	Dosage-Drug Arg1:T22 Arg2:T19
+T23	Form 10196 10201	patch
+R24	Form-Drug Arg1:T23 Arg2:T19
+T24	Frequency 10202 10207	daily
+R25	Frequency-Drug Arg1:T24 Arg2:T19
+T25	Drug 10208 10220	PANTOPRAZOLE
+T26	Strength 10223 10228	40 mg
+R26	Strength-Drug Arg1:T26 Arg2:T25
+T27	Form 10229 10259	Tablet, Delayed Release (E.C.)
+R27	Form-Drug Arg1:T27 Arg2:T25
+T28	Dosage 10262 10263	1
+R28	Dosage-Drug Arg1:T28 Arg2:T25
+T29	Form 10264 10270	tablet
+R29	Form-Drug Arg1:T29 Arg2:T25
+T30	Route 10271 10273	PO
+R30	Route-Drug Arg1:T30 Arg2:T25
+T31	Frequency 10274 10285	twice a day
+R31	Frequency-Drug Arg1:T31 Arg2:T25
+T32	Drug 10286 10300	SPIRONOLACTONE
+T33	Drug 10302 10311	ALDACTONE
+T34	Strength 10315 10321	100 mg
+R32	Strength-Drug Arg1:T34 Arg2:T32
+T35	Form 10322 10328	Tablet
+R33	Form-Drug Arg1:T35 Arg2:T32
+T36	Dosage 10331 10334	1.5
+R34	Dosage-Drug Arg1:T36 Arg2:T32
+T37	Form 10335 10344	Tablet(s)
+R35	Form-Drug Arg1:T37 Arg2:T32
+T38	Route 10345 10347;10348 10353	by mouth
+R36	Route-Drug Arg1:T38 Arg2:T32
+T39	Frequency 10354 10364	once a day
+R37	Frequency-Drug Arg1:T39 Arg2:T32
+T40	Drug 10383 10398	FERROUS SULFATE
+T41	Strength 10401 10407	325 mg
+R38	Strength-Drug Arg1:T41 Arg2:T40
+T42	Strength 10409 10414	65 mg
+T43	Form 10416 10422	Tablet
+R39	Form-Drug Arg1:T43 Arg2:T40
+T44	Dosage 10425 10426	1
+R40	Dosage-Drug Arg1:T44 Arg2:T40
+T45	Form 10427 10436	Tablet(s)
+R41	Form-Drug Arg1:T45 Arg2:T40
+T46	Route 10437 10445	by mouth
+R42	Route-Drug Arg1:T46 Arg2:T40
+T47	Frequency 10446 10451	daily
+R43	Frequency-Drug Arg1:T47 Arg2:T40
+T48	Drug 10452 10463	HEXAVITAMIN
+T49	Form 10466 10472	Tablet
+R44	Form-Drug Arg1:T49 Arg2:T48
+T50	Dosage 10475 10476	1
+R45	Dosage-Drug Arg1:T50 Arg2:T48
+T51	Form 10477 10483	tablet
+R46	Form-Drug Arg1:T51 Arg2:T48
+T52	Frequency 10484 10489	daily
+R47	Frequency-Drug Arg1:T52 Arg2:T48
+T53	Drug 10490 10502	THIAMINE HCL
+T54	Strength 10505 10511	100 mg
+R48	Strength-Drug Arg1:T54 Arg2:T53
+T55	Form 10512 10518	Tablet
+R49	Form-Drug Arg1:T55 Arg2:T53
+T56	Dosage 10521 10528	1 (One)
+R50	Dosage-Drug Arg1:T56 Arg2:T53
+T57	Form 10529 10538	Tablet(s)
+R51	Form-Drug Arg1:T57 Arg2:T53
+T58	Route 10539 10547	by mouth
+R52	Route-Drug Arg1:T58 Arg2:T53
+T60	Drug 10588 10597	Lidocaine
+T61	Strength 10598 10615	5 %(700 mg/patch)
+R54	Strength-Drug Arg1:T61 Arg2:T60
+T62	Form 10616 10641	Adhesive Patch, Medicated
+R55	Form-Drug Arg1:T62 Arg2:T60
+T63	Dosage 10647 10654	One (1)
+R56	Dosage-Drug Arg1:T63 Arg2:T60
+T64	Form 10655 10680	Adhesive Patch, Medicated
+R57	Form-Drug Arg1:T64 Arg2:T60
+T65	Route 10681 10688	Topical
+R58	Route-Drug Arg1:T65 Arg2:T60
+T66	Frequency 10689 10702	DAILY (Daily)
+R59	Frequency-Drug Arg1:T66 Arg2:T60
+T67	Drug 10707 10716	Rifaximin
+T68	Strength 10717 10723	200 mg
+R60	Strength-Drug Arg1:T68 Arg2:T67
+T69	Form 10724 10730	Tablet
+R61	Form-Drug Arg1:T69 Arg2:T67
+T70	Dosage 10736 10745	Three (3)
+R62	Dosage-Drug Arg1:T70 Arg2:T67
+T71	Form 10746 10752	Tablet
+R63	Form-Drug Arg1:T71 Arg2:T67
+T72	Route 10753 10755	PO
+R64	Route-Drug Arg1:T72 Arg2:T67
+T73	Frequency 10756 10768;10769 10775	BID (2 times a day)
+R65	Frequency-Drug Arg1:T73 Arg2:T67
+T74	Drug 10813 10823	Folic Acid
+T75	Strength 10824 10828	1 mg
+R66	Strength-Drug Arg1:T75 Arg2:T74
+T76	Form 10829 10835	Tablet
+R67	Form-Drug Arg1:T76 Arg2:T74
+T77	Dosage 10841 10848	One (1)
+R68	Dosage-Drug Arg1:T77 Arg2:T74
+T78	Form 10849 10855	Tablet
+R69	Form-Drug Arg1:T78 Arg2:T74
+T79	Route 10856 10858	PO
+R70	Route-Drug Arg1:T79 Arg2:T74
+T80	Frequency 10859 10872	DAILY (Daily)
+R71	Frequency-Drug Arg1:T80 Arg2:T74
+T81	Drug 10878 10890	Pantoprazole
+T82	Strength 10891 10896	40 mg
+R72	Strength-Drug Arg1:T82 Arg2:T81
+T83	Form 10897 10927	Tablet, Delayed Release (E.C.)
+R73	Form-Drug Arg1:T83 Arg2:T81
+T84	Dosage 10933 10936;10937 10940	One (1)
+R74	Dosage-Drug Arg1:T84 Arg2:T81
+T85	Form 10941 10971	Tablet, Delayed Release (E.C.)
+R75	Form-Drug Arg1:T85 Arg2:T81
+T86	Route 10972 10974	PO
+R76	Route-Drug Arg1:T86 Arg2:T81
+T87	Frequency 10975 10996	Q12H (every 12 hours)
+R77	Frequency-Drug Arg1:T87 Arg2:T81
+T88	Drug 11001 11013	Thiamine HCl
+T89	Strength 11014 11020	100 mg
+R78	Strength-Drug Arg1:T89 Arg2:T88
+T90	Form 11021 11027	Tablet
+R79	Form-Drug Arg1:T90 Arg2:T88
+T91	Dosage 11033 11040	One (1)
+R80	Dosage-Drug Arg1:T91 Arg2:T88
+T92	Form 11041 11047	Tablet
+R81	Form-Drug Arg1:T92 Arg2:T88
+T93	Route 11048 11050	PO
+R82	Route-Drug Arg1:T93 Arg2:T88
+T94	Frequency 11051 11056;11057 11064	DAILY (Daily)
+R83	Frequency-Drug Arg1:T94 Arg2:T88
+T95	Drug 11069 11093	Multivitamin,Tx-Minerals
+T96	Form 11098 11104	Tablet
+R84	Form-Drug Arg1:T96 Arg2:T95
+T97	Dosage 11110 11117	One (1)
+R85	Dosage-Drug Arg1:T97 Arg2:T95
+T98	Form 11118 11124	Tablet
+R86	Form-Drug Arg1:T98 Arg2:T95
+T99	Route 11125 11127	PO
+R87	Route-Drug Arg1:T99 Arg2:T95
+T100	Frequency 11128 11141	DAILY (Daily)
+R88	Frequency-Drug Arg1:T100 Arg2:T95
+T101	Drug 11178 11185	Flonase
+T102	Strength 11186 11202	50 mcg/Actuation
+R89	Strength-Drug Arg1:T102 Arg2:T101
+T103	Form 11203 11220	Spray, Suspension
+R90	Form-Drug Arg1:T103 Arg2:T101
+T104	Dosage 11226 11233	One (1)
+R91	Dosage-Drug Arg1:T104 Arg2:T101
+T105	Route 11234 11239	Nasal
+R92	Route-Drug Arg1:T105 Arg2:T101
+T106	Frequency 11240 11251	twice a day
+R93	Frequency-Drug Arg1:T106 Arg2:T101
+T107	Drug 11256 11264	Nicotine
+T108	Strength 11265 11275	7 mg/24 hr
+R94	Strength-Drug Arg1:T108 Arg2:T107
+T109	Form 11276 11287	Patch 24 hr
+R95	Form-Drug Arg1:T109 Arg2:T107
+T110	Dosage 11293 11300	One (1)
+R96	Dosage-Drug Arg1:T110 Arg2:T107
+T111	Form 11301 11312	Patch 24 hr
+R97	Form-Drug Arg1:T111 Arg2:T107
+T112	Route 11313 11324	Transdermal
+R98	Route-Drug Arg1:T112 Arg2:T107
+T113	Frequency 11325 11338	DAILY (Daily)
+R99	Frequency-Drug Arg1:T113 Arg2:T107
+T114	Drug 11343 11357	Spironolactone
+T115	Strength 11358 11364	100 mg
+R100	Strength-Drug Arg1:T115 Arg2:T114
+T116	Form 11365 11371	Tablet
+R101	Form-Drug Arg1:T116 Arg2:T114
+T117	Dosage 11377 11384	Two (2)
+R102	Dosage-Drug Arg1:T117 Arg2:T114
+T118	Form 11385 11391	Tablet
+R103	Form-Drug Arg1:T118 Arg2:T114
+T119	Route 11392 11394	PO
+R104	Route-Drug Arg1:T119 Arg2:T114
+T120	Frequency 11395 11400;11401 11408	DAILY (Daily)
+R105	Frequency-Drug Arg1:T120 Arg2:T114
+T121	Drug 11446 11463	Calcium Carbonate
+T122	Strength 11464 11470	500 mg
+R106	Strength-Drug Arg1:T122 Arg2:T121
+T123	Form 11471 11487	Tablet, Chewable
+R107	Form-Drug Arg1:T123 Arg2:T121
+T124	Dosage 11493 11500	One (1)
+R108	Dosage-Drug Arg1:T124 Arg2:T121
+T125	Form 11501 11517	Tablet, Chewable
+R109	Form-Drug Arg1:T125 Arg2:T121
+T126	Route 11518 11520	PO
+R110	Route-Drug Arg1:T126 Arg2:T121
+T127	Frequency 11521 11534	DAILY (Daily)
+R111	Frequency-Drug Arg1:T127 Arg2:T121
+T128	Drug 11582 11591	Lactulose
+T129	Strength 11592 11605	10 gram/15 mL
+R112	Strength-Drug Arg1:T129 Arg2:T128
+T130	Form 11606 11614	Solution
+R113	Form-Drug Arg1:T130 Arg2:T128
+T131	Dosage 11620 11634	Thirty (30) ML
+R114	Dosage-Drug Arg1:T131 Arg2:T128
+T132	Route 11635 11637	PO
+R115	Route-Drug Arg1:T132 Arg2:T128
+T133	Frequency 11638 11657	every six (6) hours
+R116	Frequency-Drug Arg1:T133 Arg2:T128
+T134	Drug 11693 11708	Ferrous Sulfate
+T135	Strength 11709 11715	325 mg
+R117	Strength-Drug Arg1:T135 Arg2:T134
+T136	Strength 11717 11722	65 mg
+R118	Strength-Drug Arg1:T136 Arg2:T137
+T137	Drug 11723 11727	Iron
+T138	Form 11729 11735	Tablet
+R119	Form-Drug Arg1:T138 Arg2:T134
+T139	Dosage 11741 11748	One (1)
+R120	Dosage-Drug Arg1:T139 Arg2:T134
+T140	Form 11749 11755	Tablet
+R121	Form-Drug Arg1:T140 Arg2:T134
+T141	Route 11756 11758	PO
+R122	Route-Drug Arg1:T141 Arg2:T134
+T142	Frequency 11759 11769	once a day
+R123	Frequency-Drug Arg1:T142 Arg2:T134
+T143	Drug 11775 11785	Furosemide
+T144	Strength 11786 11791	40 mg
+R124	Strength-Drug Arg1:T144 Arg2:T143
+T145	Form 11792 11798	Tablet
+R125	Form-Drug Arg1:T145 Arg2:T143
+T146	Dosage 11804 11811	Two (2)
+R126	Dosage-Drug Arg1:T146 Arg2:T143
+T147	Form 11812 11818	Tablet
+R127	Form-Drug Arg1:T147 Arg2:T143
+T148	Route 11819 11821	PO
+R128	Route-Drug Arg1:T148 Arg2:T143
+T149	Frequency 11822 11827;11828 11835	DAILY (Daily)
+R129	Frequency-Drug Arg1:T149 Arg2:T143
+T150	Drug 11873 11891	Potassium Chloride
+T151	Strength 11892 11898	20 mEq
+R130	Strength-Drug Arg1:T151 Arg2:T150
+T152	Form 11899 11929	Tab Sust.Rel. Particle/Crystal
+R131	Form-Drug Arg1:T152 Arg2:T150
+T153	Dosage 11935 11942	Two (2)
+R132	Dosage-Drug Arg1:T153 Arg2:T150
+T154	Form 11943 11973	Tab Sust.Rel. Particle/Crystal
+R133	Form-Drug Arg1:T154 Arg2:T150
+T155	Route 11974 11976	PO
+R134	Route-Drug Arg1:T155 Arg2:T150
+T156	Frequency 11977 11987	once a day
+R135	Frequency-Drug Arg1:T156 Arg2:T150
+T157	Reason 12331 12353	hepatic encephalopathy
+R136	Reason-Drug Arg1:T157 Arg2:T159
+R137	Reason-Drug Arg1:T157 Arg2:T160
+T158	Reason 12358 12382	hepatocellular carcinoma
+R138	Reason-Drug Arg1:T158 Arg2:T160
+R139	Reason-Drug Arg1:T158 Arg2:T159
+T159	Drug 12411 12420	lactulose
+T160	Drug 12425 12434	Rifaximin
+T161	Drug 12515 12524	clonidine
+T162	Drug 12529 12536	nadolol
+T163	ADE 12550 12572	blood pressure was low
+R140	ADE-Drug Arg1:T163 Arg2:T161
+R141	ADE-Drug Arg1:T163 Arg2:T162
+T164	Drug 12594 12601	calcium
+T166	Drug 12664 12678	spironolactone
+T167	Strength 12682 12687	200mg
+R143	Strength-Drug Arg1:T167 Arg2:T166
+T168	Frequency 12688 12693	daily
+R144	Frequency-Drug Arg1:T168 Arg2:T166
+T170	Drug 12703 12721	lasix (furosemide)
+T172	Strength 12725 12729	80mg
+R146	Strength-Drug Arg1:T172 Arg2:T170
+T173	Frequency 12730 12735	daily
+R147	Frequency-Drug Arg1:T173 Arg2:T170
+T174	Reason 12749 12778	legs were swelling with fluid
+R148	Reason-Drug Arg1:T174 Arg2:T166
+R149	Reason-Drug Arg1:T174 Arg2:T170
+T175	Drug 12847 12856	rifaximin
+T176	Drug 1567 1572	zosyn
+T177	Drug 1577 1588	clindamycin
+T178	Reason 1610 1619	pneumonia
+R150	Reason-Drug Arg1:T178 Arg2:T176
+R151	Reason-Drug Arg1:T178 Arg2:T177
+T179	Drug 1668 1674	zantac
+T180	Reason 1679 1692	GI protection
+R152	Reason-Drug Arg1:T180 Arg2:T179
+T181	Dosage 1775 1778	1 L
+R153	Dosage-Drug Arg1:T181 Arg2:T182
+T182	Drug 1779 1781	NS
+T183	ADE 523 537	encephalopathy
+R154	ADE-Drug Arg1:T183 Arg2:T185
+T184	ADE 556 568	unresponsive
+R155	ADE-Drug Arg1:T184 Arg2:T185
+T185	Drug 593 602	oxycontin
+T186	ADE 6037 6058	altered mental status
+R156	ADE-Drug Arg1:T186 Arg2:T187
+T187	Drug 6130 6136	opioid
+T188	ADE 6137 6145	overdose
+R157	ADE-Drug Arg1:T188 Arg2:T187
+T189	ADE 6148 6162	Encephalopathy
+T190	Drug 6303 6309	opiate
+T191	ADE 6310 6318	toxicity
+R160	ADE-Drug Arg1:T191 Arg2:T190
+T192	Drug 6421 6430	lactulose
+T193	Drug 6784 6793	lorazepam
+T194	Reason 7074 7081	sedated
+R161	Reason-Drug Arg1:T194 Arg2:T195
+T195	Drug 7087 7095	propofol
+T196	Drug 7105 7110	zosyn
+T197	Reason 7139 7149;7150 7153	aspiration PNA
+R162	Reason-Drug Arg1:T197 Arg2:T196
+R163	Reason-Drug Arg1:T197 Arg2:T198
+T198	Drug 7175 7181	Unasyn
+T199	Dosage 7429 7431	2L
+R164	Dosage-Drug Arg1:T199 Arg2:T201
+T200	Route 7431 7433	NC
+R165	Route-Drug Arg1:T200 Arg2:T201
+T201	Drug 7434 7436	O2
+T202	Drug 7630 7636	unasyn
+T203	Drug 7660 7664	vanc
+T204	Drug 7665 7669	levo
+T205	Drug 7670 7675	zosyn
+T206	Drug 7728 7731	Abx
+T207	Drug 8223 8229	vit Kx
+T208	Dosage 8229 8230	1
+R166	Dosage-Drug Arg1:T208 Arg2:T207
+T209	Reason 8703 8725	Hx of heavy EtOH abuse
+R167	Reason-Drug Arg1:T209 Arg2:T211
+R168	Reason-Drug Arg1:T209 Arg2:T212
+T210	Strength 8774 8777	1mg
+R170	Strength-Drug Arg1:T210 Arg2:T211
+T211	Drug 8781 8787	ativan
+T212	Drug 8818 8824	ativan
+T213	Strength 8839 8844	0.5mg
+R171	Strength-Drug Arg1:T213 Arg2:T212
+T214	ADE 8947 8958	Hypotension
+T2150	Reason 8947 8958	Hypotension
+R173	Reason-Drug Arg1:T2150 Arg2:T217
+R174	Reason-Drug Arg1:T2150 Arg2:T220
+T215	Drug 9085 9091	opioid
+T216	ADE 9092 9100	toxicity
+R175	ADE-Drug Arg1:T216 Arg2:T215
+T217	Drug 9108 9111	IVF
+T218	Dosage 9112 9119	boluses
+R176	Dosage-Drug Arg1:T218 Arg2:T217
+T219	Dosage 9124 9129	bolus
+R177	Dosage-Drug Arg1:T219 Arg2:T220
+T220	Drug 9133 9140	albumin
+T221	Drug 9516 9519	PPI
+T222	Drug 9603 9612	CLONIDINE
+T223	Strength 9615 9621	0.1 mg
+R178	Strength-Drug Arg1:T223 Arg2:T222
+T224	Form 9622 9628	Tablet
+R179	Form-Drug Arg1:T224 Arg2:T222
+T225	Dosage 9631 9632	1
+R180	Dosage-Drug Arg1:T225 Arg2:T222
+T226	Form 9633 9639	tablet
+R181	Form-Drug Arg1:T226 Arg2:T222
+T227	Frequency 9640 9651	twice a day
+R182	Frequency-Drug Arg1:T227 Arg2:T222
+T229	Drug 9652 9672	FLUTICASONE [FLONASE
+T231	Strength 9676 9682	50 mcg
+T232	Form 9683 9700	Spray, Suspension
+R184	Form-Drug Arg1:T232 Arg2:T229
+T233	Dosage 9703 9704	1
+T234	Form 9705 9710	spray
+T235	Route 9711 9718	inhaled
+R187	Route-Drug Arg1:T235 Arg2:T229
+T236	Route 9728 9740	each nostril
+R188	Route-Drug Arg1:T236 Arg2:T229
+T237	Frequency 9741 9752	twice daily
+R189	Frequency-Drug Arg1:T237 Arg2:T229
+T238	Drug 9753 9763	FOLIC ACID
+T239	Strength 9766 9770	1 mg
+R190	Strength-Drug Arg1:T239 Arg2:T238
+T240	Form 9771 9777	Tablet
+R191	Form-Drug Arg1:T240 Arg2:T238
+T241	Dosage 9780 9781	1
+R192	Dosage-Drug Arg1:T241 Arg2:T238
+T242	Form 9782 9791	Tablet(s)
+R193	Form-Drug Arg1:T242 Arg2:T238
+T243	Route 9792 9800	by mouth
+R194	Route-Drug Arg1:T243 Arg2:T238
+T244	Frequency 9801 9811	once a day
+R195	Frequency-Drug Arg1:T244 Arg2:T238
+T246	Drug 9812 9829	FUROSEMIDE [LASIX
+T248	Strength 9833 9838	40 mg
+T249	Form 9839 9845	Tablet
+R197	Form-Drug Arg1:T249 Arg2:T246
+T250	Dosage 9848 9849	1
+T251	Form 9850 9859	Tablet(s)
+R199	Form-Drug Arg1:T251 Arg2:T246
+T252	Route 9860 9868	by mouth
+T254	Drug 9881 9890	LACTULOSE
+T255	Strength 9893 9906	10 gram/15 mL
+R202	Strength-Drug Arg1:T255 Arg2:T254
+T256	Form 9907 9914	Solutio
+R203	Form-Drug Arg1:T256 Arg2:T254
+T257	Dosage 9916 9921	30mls
+R204	Dosage-Drug Arg1:T257 Arg2:T254
+T258	Frequency 9922 9938	four times a day
+R205	Frequency-Drug Arg1:T258 Arg2:T254
+T259	Drug 9939 9948	LIDOCAINE
+T260	Strength 9951 9969	5 % (700 mg/patch)
+R206	Strength-Drug Arg1:T260 Arg2:T259
+T261	Form 9970 9995	Adhesive Patch, Medicated
+R207	Form-Drug Arg1:T261 Arg2:T259
+T262	Dosage 9998 9999	1
+R208	Dosage-Drug Arg1:T262 Arg2:T259
+R183	Strength-Drug Arg1:T248 Arg2:T246	
+R185	Dosage-Drug Arg1:T250 Arg2:T246	
+R186	Route-Drug Arg1:T252 Arg2:T246	
+R3	ADE-Drug Arg1:T189 Arg2:T190	
+R6	ADE-Drug Arg1:T214 Arg2:T215	
+R9	Strength-Drug Arg1:T231 Arg2:T229	
+R12	Dosage-Drug Arg1:T233 Arg2:T229	
+R15	Form-Drug Arg1:T234 Arg2:T229	
+R145	Strength-Drug Arg1:T42 Arg2:T40	

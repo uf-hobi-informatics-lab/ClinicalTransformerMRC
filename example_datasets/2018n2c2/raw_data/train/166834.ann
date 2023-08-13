@@ -1,0 +1,150 @@
+T1	Duration 10001 10007	10 day
+R1	Duration-Drug Arg1:T1 Arg2:T2
+R2	Duration-Drug Arg1:T1 Arg2:T3
+T2	Drug 10018 10027	augmentin
+T3	Drug 10032 10044	azithromycin
+T4	Drug 10474 10482	prilosec
+T5	Drug 10510 10522	Levofloxacin
+T6	Strength 10523 10529	750 mg
+R3	Strength-Drug Arg1:T6 Arg2:T5
+T7	Form 10530 10536	Tablet
+R4	Form-Drug Arg1:T7 Arg2:T5
+T9	Dosage 10542 10549	One (1)
+R6	Dosage-Drug Arg1:T9 Arg2:T5
+T10	Form 10550 10556	Tablet
+R7	Form-Drug Arg1:T10 Arg2:T5
+T11	Route 10557 10559	PO
+R8	Route-Drug Arg1:T11 Arg2:T5
+T12	Frequency 10560 10570	once a day
+R9	Frequency-Drug Arg1:T12 Arg2:T5
+T13	Duration 10571 10582	for 10 days
+R10	Duration-Drug Arg1:T13 Arg2:T5
+R11	Duration-Drug Arg1:T13 Arg2:T5
+T14	Drug 10619 10629	Omeprazole
+T15	Strength 10630 10635	20 mg
+R12	Strength-Drug Arg1:T15 Arg2:T14
+T16	Form 10636 10660	Capsule, Delayed Release
+R13	Form-Drug Arg1:T16 Arg2:T14
+T18	Dosage 10672 10679	One (1)
+R15	Dosage-Drug Arg1:T18 Arg2:T14
+T20	Form 10680 10704	Capsule, Delayed Release
+R17	Form-Drug Arg1:T20 Arg2:T14
+T21	Route 10711 10713	PO
+R18	Route-Drug Arg1:T21 Arg2:T14
+T22	Frequency 10714 10719	DAILY
+R19	Frequency-Drug Arg1:T22 Arg2:T14
+T23	Drug 10732 10747	Docusate Sodium
+T24	Strength 10748 10754	100 mg
+R20	Strength-Drug Arg1:T24 Arg2:T23
+T25	Form 10755 10762	Capsule
+R21	Form-Drug Arg1:T25 Arg2:T23
+T27	Dosage 10768 10775	One (1)
+R23	Dosage-Drug Arg1:T27 Arg2:T23
+T28	Form 10776 10783	Capsule
+R24	Form-Drug Arg1:T28 Arg2:T23
+T29	Route 10784 10786	PO
+R25	Route-Drug Arg1:T29 Arg2:T23
+T31	Frequency 10787 10793;10794 10816	BID (2 times a day) as needed
+R27	Frequency-Drug Arg1:T31 Arg2:T23
+T32	Reason 10821 10833	constipation
+R28	Reason-Drug Arg1:T32 Arg2:T23
+T34	Drug 10871 10894	Oxycodone-Acetaminophen
+T36	Strength 10895 10903	5-325 mg
+R29	Strength-Drug Arg1:T36 Arg2:T34
+T37	Form 10904 10910	Tablet
+R31	Form-Drug Arg1:T37 Arg2:T34
+T38	Dosage 10916 10919	1-2
+R32	Dosage-Drug Arg1:T38 Arg2:T34
+T39	Form 10920 10927	Tablets
+R34	Form-Drug Arg1:T39 Arg2:T34
+T40	Route 10928 10930	PO
+R36	Route-Drug Arg1:T40 Arg2:T34
+T42	Frequency 10931 10960	Q4H (every 4 hours) as needed
+R39	Frequency-Drug Arg1:T42 Arg2:T34
+T43	Reason 10965 10969	pain
+T44	Drug 11052 11061	Ibuprofen
+T45	Strength 11062 11068	600 mg
+R41	Strength-Drug Arg1:T45 Arg2:T44
+T46	Form 11069 11075	Tablet
+R42	Form-Drug Arg1:T46 Arg2:T44
+T48	Dosage 11081 11088	One (1)
+R44	Dosage-Drug Arg1:T48 Arg2:T44
+T49	Form 11089 11095	Tablet
+R45	Form-Drug Arg1:T49 Arg2:T44
+T50	Route 11096 11098	PO
+R46	Route-Drug Arg1:T50 Arg2:T44
+T52	Frequency 11099 11111;11112 11128	Q6H (every 6 hours) as needed
+R48	Frequency-Drug Arg1:T52 Arg2:T44
+T53	Reason 11133 11137	pain
+R49	Reason-Drug Arg1:T53 Arg2:T44
+T54	Drug 11737 11750;11751 11761	narcotic pain medication
+T55	ADE 11781 11787	drowsy
+R50	ADE-Drug Arg1:T55 Arg2:T54
+T56	Reason 2140 2144	GERD
+R51	Reason-Drug Arg1:T56 Arg2:T57
+T57	Drug 2165 2173	Prilosec
+T58	Dosage 6702 6704	6L
+R52	Dosage-Drug Arg1:T58 Arg2:T60
+T60	Drug 6708 6714	fluids
+T61	Strength 6759 6763	13mg
+R54	Strength-Drug Arg1:T61 Arg2:T63
+T63	Drug 6767 6775	morphine
+T64	ADE 6780 6797	RR went down to 8
+R56	ADE-Drug Arg1:T64 Arg2:T63
+T65	ADE 7357 7364	hypoxia
+R57	ADE-Drug Arg1:T65 Arg2:T68
+T66	ADE 7408 7419	atelectasis
+R58	ADE-Drug Arg1:T66 Arg2:T68
+T67	ADE 7424 7430	low RR
+R59	ADE-Drug Arg1:T67 Arg2:T68
+T68	Drug 7456 7464	morphine
+T69	Dosage 7884 7886	2L
+R60	Dosage-Drug Arg1:T69 Arg2:T70
+T70	Drug 7887 7893	oxygen
+T71	Route 7897 7909	nasal canula
+R61	Route-Drug Arg1:T71 Arg2:T70
+T72	Reason 8148 8160	post-op pain
+R62	Reason-Drug Arg1:T72 Arg2:T74
+T74	Drug 8181 8189	dilaudid
+T75	Form 8190 8193	PCA
+R64	Form-Drug Arg1:T75 Arg2:T74
+T76	Drug 8234 8244	bowel prep
+T77	ADE 8268 8279	dehydration
+R65	ADE-Drug Arg1:T77 Arg2:T76
+T78	Dosage 8322 8324	6L
+R67	Dosage-Drug Arg1:T78 Arg2:T80
+T80	Drug 8325 8329	IVFs
+T82	Dosage 8751 8757	1 unit
+T84	Drug 8761 8766	pRBCs
+T85	Dosage 8793 8794	2
+R70	Dosage-Drug Arg1:T85 Arg2:T87
+T86	Form 8795 8800	units
+R71	Form-Drug Arg1:T86 Arg2:T87
+T87	Drug 8804 8809	pRBCs
+T89	Drug 9192 9203	clindamycin
+T90	Reason 9233 9253	aspiration pneumonia
+R73	Reason-Drug Arg1:T90 Arg2:T89
+T91	Drug 9382 9393	clindamycin
+T92	Reason 9594 9614	aspiration pneumonia
+T93	Drug 9719 9730	Clindamycin
+T94	Drug 9752 9764	levofloxacin
+T95	Duration 9798 9806	24 hours
+R74	Duration-Drug Arg1:T95 Arg2:T97
+T97	Drug 9813 9825	levofloxacin
+T98	Route 9853 9855	po
+R76	Route-Drug Arg1:T98 Arg2:T99
+T99	Drug 9856 9868	levofloxacin
+T100	Route 9961 9963	po
+R77	Route-Drug Arg1:T100 Arg2:T101
+T101	Drug 9964 9976	levofloxacin
+R63	Dosage-Drug Arg1:T82 Arg2:T84	
+R5	Reason-Drug Arg1:T92 Arg2:T94	
+R14	Reason-Drug Arg1:T43 Arg2:T34	
+T8	Route 6705 6707	IV
+R16	Route-Drug Arg1:T8 Arg2:T60	
+T17	Route 6764 6766	IV
+R22	Route-Drug Arg1:T17 Arg2:T63	
+T19	Route 9189 9191	IV
+R26	Route-Drug Arg1:T19 Arg2:T89	
+T26	Route 9810 9812	IV
+R30	Route-Drug Arg1:T26 Arg2:T97	

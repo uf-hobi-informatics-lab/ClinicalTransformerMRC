@@ -1,0 +1,113 @@
+T1	Drug 171 179	fentanyl
+T2	Drug 182 191	midazolam
+T3	Dosage 4852 4853	3
+R1	Dosage-Drug Arg1:T3 Arg2:T4
+T4	Drug 4854 4858	PRBC
+T5	Form 4859 4871	transfusions
+R2	Form-Drug Arg1:T5 Arg2:T4
+T6	Form 5365 5369	unit
+R3	Form-Drug Arg1:T6 Arg2:T7
+T7	Drug 5373 5378	pRBCs
+T8	Drug 6077 6086	lorazepam
+T9	Drug 6838 6850	Pantoprazole
+T10	Strength 6851 6856	40 mg
+R4	Strength-Drug Arg1:T10 Arg2:T9
+T11	Route 6857 6859	PO
+R5	Route-Drug Arg1:T11 Arg2:T9
+T12	Frequency 6860 6864	Q24H
+R6	Frequency-Drug Arg1:T12 Arg2:T9
+T13	Drug 6869 6881	pantoprazole
+T14	Strength 6882 6887	40 mg
+R7	Strength-Drug Arg1:T14 Arg2:T13
+T15	Dosage 6888 6889	1
+R8	Dosage-Drug Arg1:T15 Arg2:T13
+T16	Form 6890 6896	Tablet
+R9	Form-Drug Arg1:T16 Arg2:T13
+T17	Route 6900 6908	by mouth
+R10	Route-Drug Arg1:T17 Arg2:T13
+T18	Frequency 6909 6914	daily
+R11	Frequency-Drug Arg1:T18 Arg2:T13
+T19	Drug 6946 6956	Tamsulosin
+T20	Strength 6957 6963	0.4 mg
+R12	Strength-Drug Arg1:T20 Arg2:T19
+T21	Route 6964 6966	PO
+R13	Route-Drug Arg1:T21 Arg2:T19
+T22	Frequency 6967 6972	DAILY
+R14	Frequency-Drug Arg1:T22 Arg2:T19
+T23	Drug 6977 6987	tamsulosin
+T24	Strength 6988 6994	0.4 mg
+R15	Strength-Drug Arg1:T24 Arg2:T23
+T25	Dosage 6995 6996	1
+R16	Dosage-Drug Arg1:T25 Arg2:T23
+T26	Form 6997 7004	Capsule
+R17	Form-Drug Arg1:T26 Arg2:T23
+T27	Route 7008 7016	by mouth
+R18	Route-Drug Arg1:T27 Arg2:T23
+T28	Frequency 7017 7022	daily
+R19	Frequency-Drug Arg1:T28 Arg2:T23
+T29	Drug 7055 7072	Ciprofloxacin HCl
+T30	Strength 7073 7079	250 mg
+R20	Strength-Drug Arg1:T30 Arg2:T29
+T31	Route 7080 7082	PO
+R21	Route-Drug Arg1:T31 Arg2:T29
+T32	Frequency 7083 7087	Q12H
+R22	Frequency-Drug Arg1:T32 Arg2:T29
+T33	Reason 7088 7091	UTI
+R23	Reason-Drug Arg1:T33 Arg2:T29
+T34	Drug 7092 7100	Duration
+T35	Duration 7102 7108	5 Days
+R24	Duration-Drug Arg1:T35 Arg2:T29
+T36	Drug 7112 7122	metoprolol
+T37	Drug 7126 7129	ASA
+T38	Strength 7130 7135	325mg
+R25	Strength-Drug Arg1:T38 Arg2:T37
+T39	Drug 7139 7149	lisinopril
+T40	Drug 7177 7189	Pantoprazole
+T41	Strength 7190 7195	40 mg
+R26	Strength-Drug Arg1:T41 Arg2:T40
+T42	Route 7196 7198	PO
+R27	Route-Drug Arg1:T42 Arg2:T40
+T43	Frequency 7199 7203	Q24H
+R28	Frequency-Drug Arg1:T43 Arg2:T40
+T44	Drug 7208 7220	pantoprazole
+T45	Strength 7221 7226	40 mg
+R29	Strength-Drug Arg1:T45 Arg2:T44
+T46	Dosage 7227 7228	1
+R30	Dosage-Drug Arg1:T46 Arg2:T44
+T47	Form 7229 7235	Tablet
+R31	Form-Drug Arg1:T47 Arg2:T44
+T48	Route 7239 7247	by mouth
+R32	Route-Drug Arg1:T48 Arg2:T44
+T49	Frequency 7248 7253	daily
+R33	Frequency-Drug Arg1:T49 Arg2:T44
+T50	Drug 7285 7295	Tamsulosin
+T51	Strength 7296 7302	0.4 mg
+R34	Strength-Drug Arg1:T51 Arg2:T50
+T52	Route 7303 7305	PO
+R35	Route-Drug Arg1:T52 Arg2:T50
+T53	Frequency 7306 7311	DAILY
+R36	Frequency-Drug Arg1:T53 Arg2:T50
+T54	Drug 7316 7326	tamsulosin
+T55	Strength 7327 7333	0.4 mg
+R37	Strength-Drug Arg1:T55 Arg2:T54
+T56	Dosage 7334 7335	1
+R38	Dosage-Drug Arg1:T56 Arg2:T54
+T57	Form 7336 7343	Capsule
+R39	Form-Drug Arg1:T57 Arg2:T54
+T58	Route 7347 7355	by mouth
+R40	Route-Drug Arg1:T58 Arg2:T54
+T59	Frequency 7356 7361	daily
+R41	Frequency-Drug Arg1:T59 Arg2:T54
+T60	Drug 7394 7411	Ciprofloxacin HCl
+T61	Strength 7412 7418	250 mg
+R42	Strength-Drug Arg1:T61 Arg2:T60
+T62	Route 7419 7421	PO
+R43	Route-Drug Arg1:T62 Arg2:T60
+T63	Frequency 7422 7426	Q12H
+R44	Frequency-Drug Arg1:T63 Arg2:T60
+T64	Reason 7427 7430	UTI
+R45	Reason-Drug Arg1:T64 Arg2:T60
+T65	Duration 7441 7447	5 Days
+R46	Duration-Drug Arg1:T65 Arg2:T60
+T66	Drug 7451 7461	lisinopril
+T67	Drug 7465 7475	metoprolol

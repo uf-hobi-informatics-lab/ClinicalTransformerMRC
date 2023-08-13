@@ -1,0 +1,175 @@
+Admission Date:  [**2192-9-24**]              Discharge Date:   [**2192-10-5**]
+
+Date of Birth:  [**2148-6-18**]             Sex:   M
+
+Service: [**Doctor First Name 147**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 695**]
+Chief Complaint:
+ESLD secondary to Hep C cirrhosis
+
+Major Surgical or Invasive Procedure:
+s/p Liver transplant cadaveric [**2192-9-24**]
+
+
+History of Present Illness:
+44 yo male with ESLD secondary to HCV cirrhosis
+
+Past Medical History:
+Hep C
+EtOH abuse
+HTN
+Portal HTN
+
+Social History:
+EtOH abuse
+
+Physical Exam:
+NAD
+AAO times 3
+PERRLA, EOMI
+RRR S1+S2
+CTA Bilat
+Soft, NT Mild Distention
+
+Pertinent Results:
+Pathology Examination
+DIAGNOSIS:
+Liver, native hepatectomy:
+1.  Established cirrhosis, trichrome stains evaluated.
+2.  Mild to moderate septal mononuclear inflammation with
+minimal lobular inflammation (grade [**1-13**] inflammation).
+3.  Mild predominantly macrovesicular steatosis.
+4.  Mild increase of iron in Kupffer-cells and hepatocytes seen
+on special stain.
+5.  Small cell dysplasia nodule with focal area suggestive of
+early evolving hepatocellular carcinoma.  The dysplastic nodule
+measures 1 cm in maximum dimension.
+6.  Negative vascular and biliary margins.
+7.  Chronic cholecystitis.
+
+[**2192-9-24**] 11:29AM BLOOD WBC-2.9*# RBC-3.21* Hgb-11.3* Hct-31.4*
+MCV-98 MCH-35.2* MCHC-36.0* RDW-14.8 Plt Ct-35*
+[**2192-9-24**] 11:29AM BLOOD PT-14.4* PTT-34.1 INR(PT)-1.3
+[**2192-9-24**] 11:29AM BLOOD Glucose-247* UreaN-16 Creat-0.9 Na-134
+K-4.0 Cl-100 HCO3-25 AnGap-13
+[**2192-9-24**] 11:29AM BLOOD ALT-30 AST-61* AlkPhos-218* TotBili-4.3*
+[**2192-9-24**] 09:16PM BLOOD ALT-2308* AST-4755* AlkPhos-84 Amylase-62
+TotBili-3.6* DirBili-2.8* IndBili-0.8
+
+[**2192-10-5**] 10:00AM BLOOD WBC-7.0 RBC-3.66* Hgb-11.4* Hct-32.6*
+MCV-89 MCH-31.1 MCHC-34.9 RDW-16.5* Plt Ct-68*
+[**2192-9-25**] 03:57AM BLOOD Glucose-256* UreaN-34* Creat-1.8* Na-139
+K-4.4 Cl-103 HCO3-19* AnGap-21*
+[**2192-9-25**] 10:33AM BLOOD Glucose-141* UreaN-38* Creat-2.2* Na-140
+K-4.5 Cl-104 HCO3-20* AnGap-21
+[**2192-9-25**] 01:45PM BLOOD Glucose-137* UreaN-42* Creat-2.5* Na-140
+K-4.8 Cl-105 HCO3-20* AnGap-20
+[**2192-9-26**] 05:25AM BLOOD Glucose-123* UreaN-65* Creat-3.7* Na-140
+K-4.9 Cl-102 HCO3-18* AnGap-25*
+[**2192-9-29**] 11:19AM BLOOD Glucose-197* UreaN-147* Creat-6.8* Na-141
+K-3.7 Cl-100 HCO3-18* AnGap-27*
+[**2192-9-29**] 05:34PM BLOOD Glucose-117* UreaN-148* Creat-7.1* Na-141
+K-3.6 Cl-100 HCO3-16* AnGap-29*
+[**2192-10-5**] 10:00AM BLOOD Glucose-199* UreaN-110* Creat-4.2* Na-136
+K-3.6 Cl-99 HCO3-21* AnGap-20
+[**2192-9-25**] 03:57AM BLOOD ALT-2859* AST-[**Numeric Identifier 47481**]* LD(LDH)-7535*
+AlkPhos-104 TotBili-4.6*
+[**2192-9-26**] 01:45AM BLOOD ALT-2615* AST-6009* AlkPhos-124*
+TotBili-3.3*
+[**2192-9-29**] 11:19AM BLOOD ALT-1179* AST-450* AlkPhos-174*
+TotBili-3.2*
+[**2192-10-5**] 10:00AM BLOOD ALT-191* AST-49* AlkPhos-199*
+TotBili-3.6*
+
+DUPLEX DOPP ABD/PEL  [**2192-9-25**] 9:08 AM
+IMPRESSION:
+1) Patent intrahepatic vasculature. Please note that no flow was
+noted in the retrohepatic vena cava but this was considered most
+likely technical since this was a portable study.
+2) 5.8 X 5.4 cm rounded hypoechoic structure abutting the vena
+cava has son[**Name (NI) 493**] features suggestive of a small hematoma.
+
+
+Brief Hospital Course:
+Pt admitted on [**2192-9-24**] for OLT secondary to h/o HCV cirrhosis.
+Pt taken to the OR for OLT and pt tol the procedure. [**Name (NI) **], pt
+transeferred to the SICU intubated and sedated. Pt did well in
+the immediate post-op period and was extubated on [**2192-9-25**]. Pt
+started on MMF 1000mg and a tapering dose of SM. However, pt's
+BUN/Cr began to increase on POD 2, with developement of ARF and
+oliguria. Pt clinically continued to improve. RUQ US and CT Scan
+with evidence of peri-hepatic hematoma and poss compression of
+IVC. Pt hydrated and hematoma watched. Oliguria began to resolve
+by POD 3 and pt transferred to the floor on POD 5. Pt continued
+MMF, SM tapered to 20mg prednisone and CSA 100 [**Hospital1 **] added and
+titrated to 125. Pt continued to improve, with resolving ARF. Pt
+started with PT and advancing diet. Pt tolerated full diet and
+did well in PT. Pt with new onset diabetes secondary to high
+dose steroids. [**Last Name (un) **] consulted and BS controlled. Pt mobilized
+fluid and decreased weight from 109 kg to 100kg by POD 9. Pt
+continued to do well and Pt d/c'd home with VNA for diabetic
+teaching on POD 11, [**2192-10-5**]
+
+Discharge Medications:
+1. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1)
+Tablet PO QD (once a day).
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Mycophenolate Mofetil 500 mg Tablet Sig: Two (2) Tablet PO
+BID (2 times a day).
+4. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+5. Prednisone 20 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+7. Fluconazole 200 mg Tablet Sig: Two (2) Tablet PO Q24H (every
+24 hours).
+8. Neoral 25 mg Capsule Sig: Five (5) Capsule PO every twelve
+(12) hours.
+9. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day.
+10. Valcyte 450 mg Tablet Sig: One (1) Tablet PO every other
+day.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Care Network VNA
+
+Discharge Diagnosis:
+End stage liver disease secondary to Hep C cirrhosis
+
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+Please return for all follow-up appointments
+Take all medications as directed
+Return to the ER for any increased pain, nausea and vomitting,
+shortness of breath, chest pain, significant weight gain or
+weight loss, or fevers
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **] [**Hospital **] CLINIC TRANSPLANT CENTER (NHB) Where:
+LM [**Hospital 5628**] CLINIC Phone:[**Telephone/Fax (1) 673**]
+Date/Time:[**2192-10-8**] 10:40
+Provider: [**Name10 (NameIs) **] [**Hospital **] CLINIC TRANSPLANT CENTER (NHB) Where:
+LM [**Hospital 5628**] CLINIC Phone:[**Telephone/Fax (1) 673**]
+Date/Time:[**2192-10-15**] 10:40
+Provider: [**Name10 (NameIs) **] [**Hospital **] CLINIC TRANSPLANT CENTER (NHB) Where:
+LM [**Hospital 5628**] CLINIC Phone:[**Telephone/Fax (1) 673**]
+Date/Time:[**2192-10-22**] 10:40
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 707**] MD, [**MD Number(3) 709**]
+
+Completed by:[**2192-10-8**]

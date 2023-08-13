@@ -1,0 +1,256 @@
+Admission Date:  [**2112-10-31**]              Discharge Date:   [**2112-11-13**]
+
+
+Service: NEUROSURGERY
+
+Allergies:
+Novocain / Fentanyl
+
+Attending:[**First Name3 (LF) 2724**]
+Chief Complaint:
+Thoracic mass
+
+Major Surgical or Invasive Procedure:
+Thoracic spinal mass resection
+
+History of Present Illness:
+83y/o male with hx of recal cell carcinoma presented with
+abdominal pain over the past one month. The pain located at the
+left side of umbilicus, almost as band like distribution. The
+pain was also sensed as dull, uncomfortable feeling.
+Besides this pain, he did not have any other symptoms such as
+weakness, numbness, difficulty in ambulation, urination,
+stooling.
+Last weekend, he felt the symptom did not imporved and visited
+OSH ED. There he was obtained CT scan and eventually follow up
+MRI, and found to have T9 mass lesion. He was referred to [**Hospital1 18**]
+for further evaluation.
+
+ROS: No headache, fever, trauma hx, urinary/bowel incontinence.
+
+
+Past Medical History:
+Renal cell carcinoma: s/p L nephrectomy in [**2104**]. Pathology was
+renal cell ca, clear cell type, grade III, size 8.5 cm, invasion
+into renal vein was present. Has had surveillance CT scans
+yearly
+at OSH - all negative.
+Atrial fibrillation - has been in sinus, anti-coagulated
+TURP for BPH
+hyperlipidemia
+
+
+Social History:
+Married, 6 children. Retired from the air force, was a fighter
+pilot. Drinks 3-4 drinks/week. Tobacco - smoked 40 yrs, ~1
+pack/wk - quit in [**2089**]. No illicits.
+
+
+Family History:
+father - MI, mother - AD, brother - colon ca at age 73.
+
+
+Physical Exam:
+Vitals: 97.8  HR 64, reg  BP 105/64 RR 16  SO2 100% r/a
+Gen:NAD.
+HEENT:MMM. Sclera clear. OP clear. Extra ear canals, ear drums
+clear.
+Neck: No Carotid bruits
+CV: RRR, Nl S1 and S2, no murmurs/gallops/rubs
+Lung: Clear to auscultation bilaterally
+Abd: Tenderness at the left side of umbilicus. No defenese,
+rebound.
+Ext: No arthralgia, no cyanosis/edema
+
+Neurologic examination:
+Mental status: Awake and alert, cooperative with exam, normal
+affect
+Orientation: Oriented to person, place, and date
+Language: Fluent with good comprehension and repetition. Naming
+intact. No dysarthria or paraphasic errors
+No apraxia, no neglect
+
+Cranial Nerves:
+I: not tested
+II: Pupils equally round and reactive to light, 3 to 2mm
+bilaterally. Visual fields are full to finger movement. Fundi
+normal bilaterally.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to tuning fork bilaterally. No tinnitus. No
+nystagmus.
+IX, X: Palatal elevation symmetrical
+[**Doctor First Name 81**]: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations, intact movements
+
+Motor:
+Normal bulk and tone bilaterally
+No tremor, no asterixis
+Full strength throughout
+
+MMT [**Doctor First Name **] Tri [**Hospital1 **] WExt WFlx IO IP Quad HS TA GC [**Last Name (un) 938**] ToeExt ToeFlx
+R   5   5   5  5    5    5  5  5    5  5  5  5   5      5
+L   5   5   5  5    5    5  5  5    5  5  5  5   5      5
+Slightly unstable one foot standing at the left.
+No pronator drift
+
+Sensation: Hyperestesia at the left T9-T10 both
+anterior/posterior trunk. Intact to light touch, pinprick,
+temperature (cold), vibration, and propioception throughout all
+extremities.
+Position sense slightly decreased at the left toe.
+
+Reflexes: B T Br Pa Ankle
+Right     2 2 2  2   2
+Left      2 2 2  2   2
+Toes were downgoing bilaterally
+
+Coordination: Normal on finger-nose-finger, rapid alternating
+movements normal, FFM normal.
+
+Gait: stance is narrow based, with stable gait. Stable tandem
+gait
+
+Meningeal sign: Negative Brudzinski sign. No nucal rigidity.
+
+
+Pertinent Results:
+6.1>13.4/37.7<202
+SED-Rate: 17
+
+PT: 37.5  PTT: 37.7  INR: 4.2
+
+139  107  29  99    AGap=14
+------------------
+4.3  22  1.6
+Ca: 9.4 Mg: 2.4 P: 3.1
+
+T-spine CT ([**11-1**]):
+1.  Large mass involving the posterior elements at the level of
+T9 on the left which is invading the central canal and causing
+thecal sac compression.
+2.  Multiple masses in the lung consistent with metastases.
+Findings were discussed with you the day of the study.
+
+L-spine CT ([**11-1**]):
+1.  Congenitally narrowed central spinal canal as described
+above.  Mild degenerative changes at L4-5 with a diffuse
+broad-based disc bulge.  There is no evidence for neural
+foraminal narrowing.
+2.  No bony lesions are identified to indicate metastatic isease
+in the lumbar spine.  Please see thoracic spine report of the
+same date for significant findings regarding likely metastatic
+disease.
+
+Chest CT ([**11-1**]):
+1.  Numerous bilateral soft tissue density pulmonary nodules
+consistentwith pulmonary metastases. Given the history of prior
+nephrectomy, metastatic renal cell carcinoma is likely.
+2.  Destructive osseous lesion in the T9 vertebral body with
+encroachment upon the spinal canal.  Urgent Neurosurgery consult
+and further characterization with dedicated MRI is required.
+3.  Coronary artery calcifications.
+
+
+Brief Hospital Course:
+Patient was admitted to Medicine service for initial work up. CT
+guided biospy was performed on [**2112-11-3**], pathology result was
+renal cell carcinoma and the T9 lesion was considered
+metastasis.
+Right after receiving this result, patient was scheduled for (1)
+tumor embolization by interventional radiology and (2)t7-11
+laminectomies/mass resection and fusion on [**2112-11-8**] by Dr.
+[**Last Name (STitle) 548**].
+Post operatively he was moving all extremities with full
+strength he had a drain placed interoperatively.
+On POD#2 his hematocrit was 22.8 he received 2 units of PRBCs,
+follow up crit was:
+
+Physical therapy was consulted and cleared patient for discharge
+to home.
+
+Medications on Admission:
+Coumadin
+Tricor
+Zocor
+
+
+Discharge Medications:
+1. Fenofibrate Micronized 145 mg Tablet Sig: One (1) Tablet PO
+daily ().
+2. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+4. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 5-10 MLs
+PO Q4H (every 4 hours) as needed for pain.
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) **] Nursing Services
+
+Discharge Diagnosis:
+Metastic Renal Cell Carcinoma
+
+
+Discharge Condition:
+Neurologically stable.
+
+
+Discharge Instructions:
+DISCHARGE INSTRUCTIONS FOR SPINE CASES
+
+??????	Do not smoke
+??????	Keep wound(s) clean and dry / No tub baths or pools for two
+weeks from your date of surgery
+??????	If you have steri-strips in place ?????? keep dry x 72 hours.  Do
+not pull them off. They will fall off on their own or be taken
+off in the office
+??????	No pulling up, lifting> 10 lbs., excessive bending or
+twisting
+??????	Limit your use of stairs to 2-3 times per day
+??????	Have a family member check your incision daily for signs of
+infection
+??????	If you are required to wear one, wear cervical collar or back
+brace as instructed
+??????	You may shower briefly without the collar / back brace unless
+instructed otherwise
+??????	Take pain medication as instructed; you may find it best if
+taken in the a.m. when you wake for morning stiffness and before
+bed for sleeping discomfort
+??????	Do not take any anti-inflammatory medications such as Motrin,
+Advil, aspirin, Ibuprofen etc. unless directed by your doctor
+??????	Increase your intake of fluids and fiber as pain medicine
+(narcotics) can cause constipation
+??????	Clearance to drive and return to work will be addressed at
+your post-operative office visit
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE
+FOLLOWING:
+
+??????	Pain that is continually increasing or not relieved by pain
+medicine
+??????	Any weakness, numbness, tingling in your extremities
+??????	Any signs of infection at the wound site: redness, swelling,
+tenderness, drainage
+??????	Fever greater than or equal to 101?????? F
+??????	Any change in your bowel or bladder habits
+Restart Coumadin in a month
+
+
+Followup Instructions:
+Have staples removed in 10 days.
+Follow up in 6 weeks with Dr. [**Last Name (STitle) 548**], [**Hospital 18**] [**Hospital 4695**] Clinic,
+[**Telephone/Fax (1) 1669**].
+Follow up with Renal Oncology Clnic at 4pm on [**2112-12-5**] with Dr.
+[**Last Name (STitle) 1729**]/Dr. [**Last Name (STitle) **], [**0-0-**].
+
+
+
+Completed by:[**2112-11-12**]

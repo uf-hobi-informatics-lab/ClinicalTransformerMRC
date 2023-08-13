@@ -1,0 +1,210 @@
+T1	Drug 8704 8711	Sotalol
+T2	Strength 8712 8717	80 mg
+T3	Form 8734 8740	Tablet
+T4	Dosage 8730 8733	0.5
+T5	Route 8741 8743	PO
+T6	Drug 6912 6922	prednisone
+T7	Drug 5314 5322	GoLytely
+T8	Drug 8515 8527	Pantoprazole
+T9	Strength 8528 8533	40 mg
+T10	Form 8534 8540;8540 8564	Tablet , Delayed Release (E.C.)
+T11	Drug 8062 8069	Sotalol
+T12	Strength 8070 8074	40mg
+T13	Drug 137 144	Heparin
+T14	Strength 8215 8220	20 mg
+T15	Route 8221 8223	PO
+T16	Drug 8204 8213;8213 8214	Prednison e
+T17	Drug 8002 8009	Lipitor
+T18	Strength 8010 8014	10mg
+T19	Drug 8078 8088	Prednisone
+T20	Strength 8089 8093	20mg
+T21	Drug 7247 7254	Sotalol
+T22	Drug 1492 1499	Heparin
+T23	Frequency 1503 1506	TID
+T24	Drug 2202 2209	lovenox
+T25	Drug 8268 8275;8276 8279	Sotalol HCl
+T26	Strength 8280 8285	40 mg
+T27	Route 8286 8288	PO
+T28	Strength 8364 8369	10 mg
+T29	Form 8390 8396	Tablet
+T30	Route 8397 8399	PO
+T31	Drug 8351 8362;8362 8363	Atorvastati n
+T32	Strength 8041 8046	81 mg
+T33	Drug 8033 8040	Aspirin
+T34	Drug 8418 8431	Acetaminophen
+T35	Strength 8432 8438	325 mg
+T36	Form 8459 8465	Tablet
+T37	Route 8466 8468	PO
+T38	Drug 2211 2217	plavix
+T39	Drug 8230 8243	Acetaminophen
+T40	Frequency 8258 8260;8260 8267	Q4 -6H:PRN
+T41	Route 8255 8257	PO
+T42	Strength 8308 8313	10 mg
+T43	Route 8314 8316	PO
+T44	Drug 8295 8306;8306 8307	Atorvastati n
+T45	Drug 2222 2229	aspirin
+T46	Drug 8047 8053	Nexium
+T47	Strength 8054 8058	40mg
+T48	Drug 7152 7162	prednisone
+T49	Strength 6986 6991	20 mg
+T50	Strength 8190 8195	40 mg
+T51	Frequency 8199 8203	Q12H
+T52	Route 8196 8198	PO
+T53	Drug 8177 8188;8188 8189	Pantoprazol e
+T54	Drug 2708 2715	heparin
+T55	Drug 8122 8129	heparin
+T56	Drug 2107 2115	coumadin
+T57	Drug 8638 8648	Prednisone
+T58	Strength 8649 8654	20 mg
+T59	Form 8675 8681	Tablet
+T60	Route 8682 8684	PO
+T61	Reason 1511 1526	DVT prophylaxis
+T62	Reason 2120 2135	DVT prophylaxis
+T63	Reason 7819 7833	GI prophylaxis
+T64	Reason 8506 8510	pain
+T65	Drug 114 134	Sulfa (Sulfonamides)
+T66	Dosage 647 649	2U
+T67	Drug 653 656	FFP
+T68	Dosage 661 663	2U
+T69	Drug 667 671	PRBC
+T70	Route 1500 1502	sc
+T71	Route 2716 2718	SQ
+T72	Dosage 5122 5129	2 units
+T73	Drug 5133 5136	FFP
+T74	Dosage 5141 5148	2 units
+T75	Drug 5152 5158	PRBC's
+T76	Drug 5528 5531	PPI
+T78	Drug 5503 5509	PRBC's
+T79	Dosage 5492 5499	2 units
+T80	Reason 6826 6846	Rheumatoid Arthritis
+T81	Reason 7240 7244	Afib
+T82	Drug 7811 7814	PPI
+T83	Frequency 8015 8017	QD
+T84	Form 8018 8032	Enteric coated
+T85	Frequency 8059 8061	QD
+T86	Frequency 8075 8077	QD
+T87	Frequency 8094 8096	QD
+T88	Route 8119 8121	sq
+T89	Frequency 8224 8229	DAILY
+T90	Strength 8244 8254	325-650 mg
+T91	Frequency 8289 8294	DAILY
+T92	Frequency 8317 8322	DAILY
+T93	Form 8370 8376	Tablet
+T94	Dosage 8382 8389	One (1)
+T95	Frequency 8400 8405;8406 8413	DAILY (Daily)
+T96	Form 8439 8445	Tablet
+T97	Dosage 8451 8458	Two (2)
+T98	Dosage 8570 8573;8574 8577	One (1)
+T99	Form 8578 8608	Tablet, Delayed Release (E.C.)
+T100	Route 8609 8611	PO
+T101	Frequency 8612 8633	Q12H (every 12 hours)
+T102	Form 8655 8661	Tablet
+T103	Dosage 8667 8674	One (1)
+T104	Frequency 8685 8698	DAILY (Daily)
+T105	Form 8718 8724	Tablet
+T106	Frequency 8744 8757	DAILY (Daily)
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Form-Drug Arg1:T3 Arg2:T1
+R3	Dosage-Drug Arg1:T4 Arg2:T1
+R4	Route-Drug Arg1:T5 Arg2:T1
+R5	Strength-Drug Arg1:T9 Arg2:T8
+R6	Form-Drug Arg1:T10 Arg2:T8
+R7	Strength-Drug Arg1:T12 Arg2:T11
+R8	Strength-Drug Arg1:T14 Arg2:T16
+R9	Route-Drug Arg1:T15 Arg2:T16
+R10	Strength-Drug Arg1:T18 Arg2:T17
+R11	Strength-Drug Arg1:T20 Arg2:T19
+R12	Frequency-Drug Arg1:T23 Arg2:T22
+R13	Strength-Drug Arg1:T26 Arg2:T25
+R14	Route-Drug Arg1:T27 Arg2:T25
+R15	Strength-Drug Arg1:T28 Arg2:T31
+R16	Form-Drug Arg1:T29 Arg2:T31
+R17	Route-Drug Arg1:T30 Arg2:T31
+R18	Strength-Drug Arg1:T32 Arg2:T33
+R19	Strength-Drug Arg1:T35 Arg2:T34
+R20	Form-Drug Arg1:T36 Arg2:T34
+R21	Route-Drug Arg1:T37 Arg2:T34
+R22	Frequency-Drug Arg1:T40 Arg2:T39
+R23	Route-Drug Arg1:T41 Arg2:T39
+R24	Strength-Drug Arg1:T42 Arg2:T44
+R25	Route-Drug Arg1:T43 Arg2:T44
+R26	Strength-Drug Arg1:T47 Arg2:T46
+R27	Strength-Drug Arg1:T50 Arg2:T53
+R28	Frequency-Drug Arg1:T51 Arg2:T53
+R29	Route-Drug Arg1:T52 Arg2:T53
+R30	Strength-Drug Arg1:T58 Arg2:T57
+R31	Form-Drug Arg1:T59 Arg2:T57
+R32	Route-Drug Arg1:T60 Arg2:T57
+R33	Dosage-Drug Arg1:T66 Arg2:T67
+R34	Dosage-Drug Arg1:T68 Arg2:T69
+R35	Reason-Drug Arg1:T61 Arg2:T22
+R36	Route-Drug Arg1:T70 Arg2:T22
+R37	Reason-Drug Arg1:T62 Arg2:T56
+R38	Route-Drug Arg1:T71 Arg2:T54
+R39	Dosage-Drug Arg1:T72 Arg2:T73
+R40	Dosage-Drug Arg1:T74 Arg2:T75
+R41	Dosage-Drug Arg1:T79 Arg2:T78
+R43	Reason-Drug Arg1:T80 Arg2:T6
+R44	Reason-Drug Arg1:T81 Arg2:T21
+R45	Reason-Drug Arg1:T63 Arg2:T82
+R46	Route-Drug Arg1:T88 Arg2:T55
+R47	Frequency-Drug Arg1:T87 Arg2:T19
+R48	Frequency-Drug Arg1:T86 Arg2:T11
+R49	Frequency-Drug Arg1:T85 Arg2:T46
+R50	Form-Drug Arg1:T84 Arg2:T33
+R51	Frequency-Drug Arg1:T83 Arg2:T17
+R52	Frequency-Drug Arg1:T92 Arg2:T44
+R53	Frequency-Drug Arg1:T91 Arg2:T25
+R54	Strength-Drug Arg1:T90 Arg2:T39
+R55	Frequency-Drug Arg1:T89 Arg2:T16
+R56	Frequency-Drug Arg1:T95 Arg2:T31
+R57	Dosage-Drug Arg1:T94 Arg2:T31
+R58	Form-Drug Arg1:T93 Arg2:T31
+R59	Reason-Drug Arg1:T64 Arg2:T34
+R60	Dosage-Drug Arg1:T97 Arg2:T34
+R61	Form-Drug Arg1:T96 Arg2:T34
+R62	Frequency-Drug Arg1:T101 Arg2:T8
+R63	Route-Drug Arg1:T100 Arg2:T8
+R64	Form-Drug Arg1:T99 Arg2:T8
+R65	Dosage-Drug Arg1:T98 Arg2:T8
+R66	Frequency-Drug Arg1:T104 Arg2:T57
+R67	Form-Drug Arg1:T102 Arg2:T57
+R68	Dosage-Drug Arg1:T103 Arg2:T57
+R69	Frequency-Drug Arg1:T106 Arg2:T1
+R70	Form-Drug Arg1:T105 Arg2:T1
+T109	Drug 621 627	fluids
+T110	Reason 2184 2187	DVT
+T111	Drug 2544 2552	steroids
+T112	Drug 4278 4284	barium
+T116	Reason 7009 7016;7017 7038	prevent adrenal insufficiency
+T117	Reason 428 432	LGIB
+T119	ADE 2247 2261	thigh hematoma
+T120	ADE 2750 2755	BRBPR
+T121	ADE 2760 2771	hypotension
+T122	Reason 5027 5031	LGIB
+T123	Reason 5343 5360;5361 5372	preparation for a colonoscopy
+T124	Dosage 6923 6928	taper
+T125	ADE 7110 7122	Leukocytosis
+T126	Reason 7472 7475	FEN
+T127	Drug 7493 7497	IVFs
+R71	Reason-Drug Arg1:T126 Arg2:T127
+R72	Reason-Drug Arg1:T117 Arg2:T67	
+R73	Reason-Drug Arg1:T117 Arg2:T109	
+R74	Reason-Drug Arg1:T117 Arg2:T69	
+R75	Reason-Drug Arg1:T110 Arg2:T24	
+R76	Reason-Drug Arg1:T110 Arg2:T38	
+R77	Reason-Drug Arg1:T110 Arg2:T45	
+R78	ADE-Drug Arg1:T119 Arg2:T24	
+R79	ADE-Drug Arg1:T119 Arg2:T38	
+R80	ADE-Drug Arg1:T119 Arg2:T45	
+R81	ADE-Drug Arg1:T120 Arg2:T54	
+R82	ADE-Drug Arg1:T121 Arg2:T54	
+R83	Reason-Drug Arg1:T122 Arg2:T73	
+R84	Reason-Drug Arg1:T122 Arg2:T75	
+R85	Reason-Drug Arg1:T123 Arg2:T7	
+R86	Dosage-Drug Arg1:T124 Arg2:T6	
+R87	Strength-Drug Arg1:T49 Arg2:T6	
+R88	Reason-Drug Arg1:T116 Arg2:T6	
+R89	ADE-Drug Arg1:T125 Arg2:T48	
+T77	Route 5525 5527	IV
+R42	Route-Drug Arg1:T77 Arg2:T76	

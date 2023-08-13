@@ -1,0 +1,274 @@
+Admission Date:  [**2125-1-24**]              Discharge Date:   [**2125-1-26**]
+
+Date of Birth:  [**2048-3-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Erythromycin Base / Nsaids / Adhesive Tape
+
+Attending:[**First Name3 (LF) 2704**]
+Chief Complaint:
+Transfer to CCU for hypotension status post elective peripheral
+angiography
+
+Major Surgical or Invasive Procedure:
+Right lower extremity angiography
+Percutaneous coronary angioplasty of right anterior tibial
+artery
+
+History of Present Illness:
+Ms. [**Known lastname 9164**] is a 76 year-old female with a complicated PMHx
+that includes CAD s/p Lcx stenting, DM type 2, s/p dual
+pacemaker placement for bradycardia, atrial fibrillation on
+chronic Coumadin therapy, with severe PVD s/p multiple stents,
+angioplasties and atherectomies, with claudication symptoms. She
+recently developed a RLE ulcer, and was referred for RLE
+angiography and PTCA of her right tibial anterior tibial artery.
+
+
+One hour after the procedure, Ms. [**Known lastname 9164**] became hypotensive
+with SBP down to 30s when the sheath was pulled, HR paced at 60.
+She also complained of severe right groin pain at the cath site.
+She was given Atropine X 2, IVF bolus, and transfused 2 units of
+PRBCs. Her HR subsequently increased to 120s, then she went into
+atrial fibrillation with RVR in 160s. She spontaneously
+converted back to NSR with HR 88. Her BP improved with the above
+resuscitation measures, and she was trasnferred to the CCU for
+further management and care.
+
+An emergent CT scan was performed on arrival to CCU, which
+revealed a right-sided RP bleed.
+
+Past Medical History:
+1. CAD s/p LCX stent in 2/[**2122**]. LM with 60% ostial stenosis,
+total occlusion of RCA on last cardiac catheterization 05/[**2123**].
+2. Congestive heart failure, mild LV systolic dysfunction with
+EF 48% on last ventriculogram 05/[**2123**].
+3. Peripheral [**Year (4 digits) 1106**] disease s/p left EIA and SFA stenting
+[**3-/2123**], and s/p atherectomy/PTA of LSFA [**12/2123**] for instent
+restenosis.
+4. Bradycardia status post [**Company 1543**] dual chamber pacemaker
+placement [**2123-12-29**].
+5. Intermittent atrial fibrillation noted on PPM interrogation,
+on chronic Coumadin therapy.
+6. Hypercholesterolemia
+7. Chronic ITP with [**Doctor First Name **]. BM bx normal in [**2113**].
+8. Diabetes mellitus type 2, diet controlled
+9. Peripheral neuropathy
+10. Mild COPD
+11. PUD
+12. Gastritis, Barrett's esophagus
+13. Multinodular goiter
+
+Past surgical history:
+1. Status post cholecystectomy
+2. s/p TAH-BSO
+3. s/p right THR
+4. s/p L4, L5 discectomy
+5. s/p appendectomy
+
+Social History:
+Widow. She lives with her son. She has 6 adult children.
+Ex-smoker. She quit smoking 12 years ago; 120 pack-year smoking
+history.
+
+Family History:
+Family history positive for CAD: brother died of MI at age 44,
+another brother died at age 53 of MI.
+
+Physical Exam:
+Physical examination on admission to CCU:
+VITALS: HR 65, V-paced, BP 120/46, RR 12, Sat 100% on 4L NC.
+GEN: Alert, confused.
+HEENT: PERRL.
+NECK: JVP not elevated.
+RESP: Limited to anterior chest. Clear to auscultation.
+CVS: RRR. Normal S1, S2. No S3, S4. No murmur or rub.
+GI: BS normoactive. RLQ firm to palpation, tender. No clear
+palpable hematoma.
+EXT: Right groin with dressing in place. Tender to palpation.
+Pedal pulses present via Doppler.
+NEURO: Limited examination, patient non-cooperative. Moves all 4
+extremities.
+
+
+Pertinent Results:
+Relevant laboratory data on admission to CCU:
+CBC:
+WBC-13.5*# RBC-3.39* HGB-11.4* HCT-32.8* MCV-97 MCH-33.6*
+MCHC-34.6 RDW-16.3*
+
+Chemistry:
+GLUCOSE-153* UREA N-10 CREAT-0.8 SODIUM-140 POTASSIUM-3.4
+CHLORIDE-107 TOTAL CO2-27 ANION GAP-9
+CALCIUM-7.0* PHOSPHATE-4.5 MAGNESIUM-1.3*
+
+Coagulation profile:
+PT-13.8* PTT-23.5 INR(PT)-1.2
+
+EKG: V-paced, rate 60 bpm, LBBB morphology.
+
+[**2124-1-24**] RLE angiography: Initial angiography showed a severely
+diseased AT. We planned to treat this vessel with PTA and
+atherectomy. Heparin was given for anticoagulation. Access was
+obtained in an antegrade fashion of the RCFA and a 7 French
+Arrow sheath was advanced to the mid SFA. The AT was crossed
+with great difficulties with numerous wires, including PT
+[**Name (NI) 9165**], [**Name (NI) 9166**] and Shinobi. However, attempts to cross the
+distal lesion with atherectomy or angioplasty devices failed.
+Finally, a 2.0x20 mm Maverick crossed the lesion, which was
+dilated at 12 Atm. Next, a 2.5x20 mm Quantum Maverick balloon
+was used to dilate the entire AT at 12-22 Atm. Final angiography
+showed no residual stenosis with flow to the foot through the PA
+and AT. The patient left the lab in stable
+condition.
+
+[**2125-1-24**] CT OF THE ABDOMEN WITHOUT CONTRAST: Changes of
+emphysema are seen at both lung bases. There is bibasilar
+dependent atelectasis, without significant pleural effusion or
+pneumothorax. Coronary artery calcifications and coronary
+[**Month/Day/Year 1106**] calcifications are seen. Pacemaker wires are also
+present.
+
+There is residual contrast within the kidneys from recent
+interventional procedure.
+
+The liver, spleen, adrenal glands, kidneys, stomach, pancreas,
+and small bowel are within normal limits. Marked [**Month/Day/Year 1106**]
+calcifications are seen of the aorta, celiac axis, SMA, [**Female First Name (un) 899**], and
+iliac/femoral arteries. The gallbladder is not identified, and
+the patient may be status post cholecystectomy. There is a small
+hiatal hernia present.
+
+There is a large amount of retroperitoneal hemorrhage present,
+tracking from the right groin to the right posterior pararenal
+space. In the greatest axial dimensions, this measures
+approximately 7.0 x 7.8 cm in size, and it extends a length of
+approximately 20 cm in the SI dimension. There is no significant
+abdominal lymph adenopathy present, and no ascites fluid is
+present.
+
+CT OF THE PELVIS WITHOUT CONTRAST: Diverticuli are seen, and the
+large bowel is otherwise unremarkable in appearance. Hyperdense
+free fluid is seen within the pelvis, possibly tracking from the
+retroperitoneal hemorrhage. The bladder appears unremarkable,
+with a Foley catheter in place.
+
+A right-sided hip replacement is present. No significant osseous
+abnormalities are seen aside from degenerative changes and
+right-convex scoliosis centered at the thoracolumbar junction.
+
+IMPRESSION:
+1. Large right-sided retroperitoneal hemorrhage, extending from
+the right groin to the right posterior pararenal space.
+2. No significant hemorrhage is seen within the right groin or
+extending into the right leg.
+
+Brief Hospital Course:
+76 year-old female with a complicated PMHX that includes CAD s/p
+LCx stenting in [**2122**], DM type 2, s/p PPM placement for
+bradycardia, atrial fibrillation on Coumadin, with severe PVD
+s/p mutliple interventions, now s/p RLE angiography and right
+anterior tibial artery PTCA with post-procedure hypotension and
+RP bleed. Transferred to the CCU for further care.
+
+1) Retroperitoneal bleed: Her hypotension was felt secondary to
+her retroperitoneal bleed and likely vagal response at the time
+of the sheath pull. As mentioned in the HPI, she was transfused
+2 units of PRBCs in the cath lab, and was transfused an
+additional unit in the CCU. She was also given IVF. She remained
+hemodynamically stable throughout her stay in the CCU, without
+need for pressors, and her HCT also remained stable following
+the 3 units of PRBCs. Coumadin was held in the setting of her RP
+bleed, to be restarted as an outpatient. Aspirin was resumed on
+[**2125-1-25**] and well tolerated. Her hematocrit was 31.1 at
+discharge.
+
+2) s/p PTCA to right [**Doctor First Name **]: She was continued on aspirin while in
+hospital. Pedal pulses were present via Doppler. She will
+follow-up with Dr. [**First Name (STitle) **] in the week following discharge.
+
+3) CAD: No acute issues in hospital. She was continued on
+Lipitor. Aspirin, Atenolol, Diovan, and Lisinopril were
+gradually resumed in hospital following the procedure.
+
+4) Mental status change: On arrival to the CCU, Ms. [**Known lastname 9164**] was
+noted to be confused, belligerent. Her acute mental status
+change was felt most likely medication-related s/p
+administration of Fentanyl in the cath lab, sedatives. No gross
+electrolyte abnormalities, ABG unremarkable. She responded to
+Haldol for acute agitation/confusion. She was alert and oriented
+the following morning without recurrence of confusion.
+
+5) Diabetes mellitus type 2: She was kept on a regular insulin
+sliding scale in hospital. Her diabetes appears to be
+diet-controlled as an out-patient.
+
+Medications on Admission:
+Atenolol 50 mg PO QD
+Diovan 160 mg PO QD
+Colace 200 mg PO QD
+Ecotrin 81 mg PO QD
+Effexor 150 mg PO QHS
+HCTZ 12.5 mg PO QD
+Lipitor 40 mg PO QD
+Lisinopril 40 mg PO QD
+MVI 1 tab PO QD
+Prilosec 40 mg PO QD
+Trazodone 200 mg PO QHS
+Warfarin last dose on [**2125-1-20**]
+
+Discharge Medications:
+1. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Diovan 160 mg Tablet Sig: One (1) Tablet PO once a day.
+3. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+5. Venlafaxine HCl 75 mg Capsule, Sust. Release 24HR Sig: Two
+(2) Capsule, Sust. Release 24HR PO DAILY (Daily).
+6. Hydrochlorothiazide 25 mg Tablet Sig: 0.5 Tablet PO DAILY
+(Daily).
+7. Lipitor 40 mg Tablet Sig: One (1) Tablet PO once a day.
+8. Lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.
+9. Multi-Vitamin     Tablet Sig: One (1) Tablet PO once a day.
+10. Prilosec 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+11. Trazodone HCl 100 mg Tablet Sig: Two (2) Tablet PO at
+bedtime.
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. RLE Angiography and PTCA of right anterior tibial artery
+2. Complicated by large retroperitoneal bleed
+
+
+Discharge Condition:
+Pt was in good condition, with a stable hematocrit, ambulating,
+and good oxygen saturations on room air.
+
+Discharge Instructions:
+Please call Dr. [**First Name (STitle) **] or return to the hospital if you
+experience bleeding, weakness, dizziness, shortness of breath,
+chest pain, groin, abdomen or back pain.
+
+Dr.[**Name (NI) 3101**] office will call you Monday for an appointment next
+week.
+
+Stop taking your Coumadin until Dr. [**First Name (STitle) **] tells you to resume
+it.
+
+Followup Instructions:
+See Dr. [**First Name (STitle) **] in one week.  His office will call you Monday.
+
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) 9119**] [**Name12 (NameIs) 9120**] MEDICINE (PRIVATE) Where: ADULT
+MEDICINE UNIT [**Hospital3 **] HEALTHCARE - 1000 [**Location (un) **] - [**Location (un) 2352**],
+[**Numeric Identifier 9121**] Phone:[**Pager number **] Date/Time:[**2125-2-21**] 2:00
+Provider: [**Name10 (NameIs) **] STUDY Where: CC CLINICAL CENTER RADIOLOGY
+Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2125-5-15**] 11:00
+
+
+
+Completed by:[**2125-1-27**]

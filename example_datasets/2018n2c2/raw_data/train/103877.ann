@@ -1,0 +1,94 @@
+T1	Drug 7702 7719	Calcium Gluconate
+T2	Drug 7750 7761	Simethicone
+T3	Strength 7762 7766	80mg
+T4	Frequency 7800 7803	QID
+T5	Route 7797 7799	PO
+T7	Drug 112 118	Flagyl
+T8	Drug 7731 7740	Midodrine
+T9	Strength 7741 7744	5mg
+T10	Frequency 7745 7748	TID
+T11	Drug 7678 7688	Amiodarone
+T12	Strength 7689 7694	200mg
+T13	Drug 7255 7265	amiodarone
+T14	Strength 7720 7725	650mg
+T15	Frequency 7726 7729	TID
+T16	Drug 121 143	Proton Pump Inhibitors
+T17	Drug 145 158	Benzimidazole
+T18	Drug 1228 1233	Vanco
+T19	Drug 1192 1195	CTX
+T20	Strength 1196 1199	1gm
+T21	Dosage 1202 1203	1
+T22	Drug 1205 1213	Levaquin
+T23	Strength 1214 1219	500mg
+T25	Dosage 1225 1226	1
+T26	Strength 1234 1237	1gm
+T28	Dosage 1243 1244	1
+T29	Drug 1568 1576	Coumadin
+T30	Reason 1534 1553	Atrial fibrillation
+T31	ADE 1584 1592	GI bleed
+T32	Drug 5036 5039	PPI
+T33	ADE 4983 4999	thrombocytopenia
+T34	Drug 500 503	PPI
+T35	ADE 447 463	thrombocytopenia
+T36	Drug 6520 6523	CTX
+T37	Drug 6524 6532	Levaquin
+T38	Drug 6533 6538	Vanco
+T39	Reason 6851 6865	C Diff colitis
+T40	Drug 6947 6952	Vanco
+T41	Drug 7004 7009	Vanco
+T42	Strength 7010 7015	250mg
+T43	Route 7016 7018	PO
+T44	Frequency 7019 7022	QID
+T45	Reason 7180 7199	Atrial Fibrillation
+T46	Drug 7405 7408	PPI
+T47	ADE 7330 7346	Thrombocytopenia
+T48	Frequency 7695 7700	daily
+T49	Drug 7785 7790	Vanco
+T50	Strength 7791 7796	250mg
+R1	Strength-Drug Arg1:T3 Arg2:T2
+R2	Frequency-Drug Arg1:T4 Arg2:T49
+R3	Route-Drug Arg1:T5 Arg2:T49
+R4	Strength-Drug Arg1:T9 Arg2:T8
+R5	Frequency-Drug Arg1:T10 Arg2:T8
+R6	Strength-Drug Arg1:T12 Arg2:T11
+R7	Strength-Drug Arg1:T14 Arg2:T1
+R8	Frequency-Drug Arg1:T15 Arg2:T1
+R9	Dosage-Drug Arg1:T21 Arg2:T19
+R10	Strength-Drug Arg1:T20 Arg2:T19
+R11	Dosage-Drug Arg1:T28 Arg2:T18
+R13	Strength-Drug Arg1:T26 Arg2:T18
+R14	Dosage-Drug Arg1:T25 Arg2:T22
+R16	Strength-Drug Arg1:T23 Arg2:T22
+R17	ADE-Drug Arg1:T31 Arg2:T29
+R18	Reason-Drug Arg1:T30 Arg2:T29
+R19	ADE-Drug Arg1:T33 Arg2:T32
+R20	ADE-Drug Arg1:T35 Arg2:T34
+R21	Frequency-Drug Arg1:T44 Arg2:T41
+R22	Route-Drug Arg1:T43 Arg2:T41
+R23	Strength-Drug Arg1:T42 Arg2:T41
+R24	Reason-Drug Arg1:T39 Arg2:T41
+R25	Reason-Drug Arg1:T45 Arg2:T13
+R26	ADE-Drug Arg1:T47 Arg2:T46
+R27	Frequency-Drug Arg1:T48 Arg2:T11
+R28	Strength-Drug Arg1:T50 Arg2:T49
+T51	Drug 1379 1381	O2
+T52	Dosage 1396 1398	2L
+T53	Route 1398 1400	NC
+T54	Drug 7267 7282	Anticoagulation
+T56	Reason 1149 1176	bilateral pleural effusions
+T57	Reason 6397 6414	pleural effusions
+R29	Dosage-Drug Arg1:T52 Arg2:T51
+R30	Route-Drug Arg1:T53 Arg2:T51
+T6	Drug 7805 7810	Vit B
+T55	Drug 7811 7816	Vit C
+T58	Drug 7817 7827	Folic Acid
+R31	Reason-Drug Arg1:T56 Arg2:T19	
+R32	Reason-Drug Arg1:T56 Arg2:T18	
+R33	Reason-Drug Arg1:T56 Arg2:T22	
+R34	Reason-Drug Arg1:T57 Arg2:T36	
+R35	Reason-Drug Arg1:T57 Arg2:T37	
+R36	Reason-Drug Arg1:T57 Arg2:T38	
+T24	Route 1220 1222	IV
+T27	Route 1238 1240	IV
+R12	Route-Drug Arg1:T27 Arg2:T18	
+R15	Route-Drug Arg1:T24 Arg2:T22	

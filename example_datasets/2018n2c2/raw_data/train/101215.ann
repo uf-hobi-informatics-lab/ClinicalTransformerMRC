@@ -1,0 +1,148 @@
+T1	Drug 171 182	Penicillins
+T2	Reason 4253 4265	hypertensive
+R1	Reason-Drug Arg1:T2 Arg2:T3
+T3	Drug 4291 4300	Labetolol
+T4	Route 4301 4305	drip
+R2	Route-Drug Arg1:T4 Arg2:T3
+T5	Reason 4310 4333;4334 4341	adequate blood pressure control
+T7	Drug 4440 4451	antibiotics
+T8	Reason 4465 4496	ventilator associated pneumonia
+R4	Reason-Drug Arg1:T8 Arg2:T7
+T9	Reason 4508 4516;4517 4531	positive blood cultures
+R5	Reason-Drug Arg1:T9 Arg2:T7
+T11	Drug 4934 4941	Esmolol
+T13	Drug 4946 4953	Nipride
+T14	Drug 4965 4969	HCTZ
+T15	Strength 4970 4972	25
+R8	Strength-Drug Arg1:T15 Arg2:T14
+T16	Frequency 4973 4975	qd
+R9	Frequency-Drug Arg1:T16 Arg2:T14
+T17	Drug 4977 4982	Zocor
+T18	Drug 4984 4994	Lisinopril
+T19	Strength 4995 4997	10
+R10	Strength-Drug Arg1:T19 Arg2:T18
+T20	Drug 5016 5022	Viagra
+T21	Frequency 5023 5026	prn
+R11	Frequency-Drug Arg1:T21 Arg2:T20
+T22	Drug 5054 5067	Ciprofloxacin
+T23	Strength 5068 5074	500 mg
+R12	Strength-Drug Arg1:T23 Arg2:T22
+T24	Form 5075 5081	Tablet
+R13	Form-Drug Arg1:T24 Arg2:T22
+T25	Dosage 5087 5094	One (1)
+R14	Dosage-Drug Arg1:T25 Arg2:T22
+T26	Form 5095 5101	Tablet
+R15	Form-Drug Arg1:T26 Arg2:T22
+T27	Route 5102 5104	PO
+R16	Route-Drug Arg1:T27 Arg2:T22
+T28	Frequency 5105 5109	Q12H
+R17	Frequency-Drug Arg1:T28 Arg2:T22
+T29	Drug 5157 5167	Vancomycin
+T30	Form 5168 5179	in Dextrose
+R18	Form-Drug Arg1:T30 Arg2:T29
+T31	Strength 5180 5193	1 gram/200 mL
+R19	Strength-Drug Arg1:T31 Arg2:T29
+T32	Form 5194 5203	Piggyback
+R20	Form-Drug Arg1:T32 Arg2:T29
+T33	Dosage 5209 5212;5213 5216	One (1)
+R21	Dosage-Drug Arg1:T33 Arg2:T29
+T34	Route 5217 5228	Intravenous
+R22	Route-Drug Arg1:T34 Arg2:T29
+T35	Frequency 5229 5234;5235 5251	Q 12H (Every 12 Hours)
+R23	Frequency-Drug Arg1:T35 Arg2:T29
+T36	Drug 5282 5294	Atorvastatin
+T37	Strength 5295 5300	20 mg
+R24	Strength-Drug Arg1:T37 Arg2:T36
+T38	Form 5301 5307	Tablet
+R25	Form-Drug Arg1:T38 Arg2:T36
+T39	Dosage 5313 5316;5317 5320	One (1)
+R26	Dosage-Drug Arg1:T39 Arg2:T36
+T40	Form 5321 5327	Tablet
+R27	Form-Drug Arg1:T40 Arg2:T36
+T41	Route 5328 5330	PO
+R28	Route-Drug Arg1:T41 Arg2:T36
+T42	Frequency 5331 5336	DAILY
+T43	Drug 5381 5388	Aspirin
+T44	Strength 5389 5394	81 mg
+R30	Strength-Drug Arg1:T44 Arg2:T43
+T45	Form 5395 5411	Tablet, Chewable
+R31	Form-Drug Arg1:T45 Arg2:T43
+T46	Dosage 5417 5420;5421 5424	One (1)
+R32	Dosage-Drug Arg1:T46 Arg2:T43
+T47	Form 5425 5441	Tablet, Chewable
+R33	Form-Drug Arg1:T47 Arg2:T43
+T48	Route 5442 5444	PO
+R34	Route-Drug Arg1:T48 Arg2:T43
+T49	Frequency 5445 5450;5451 5458	DAILY (Daily)
+R35	Frequency-Drug Arg1:T49 Arg2:T43
+T50	Drug 5505 5515	Furosemide
+T51	Strength 5516 5524	10 mg/mL
+R36	Strength-Drug Arg1:T51 Arg2:T50
+T52	Form 5525 5533	Solution
+R37	Form-Drug Arg1:T52 Arg2:T50
+T53	Dosage 5539 5553	Twenty (20) mg
+R38	Dosage-Drug Arg1:T53 Arg2:T50
+T54	Form 5554 5563	Injection
+R39	Form-Drug Arg1:T54 Arg2:T50
+T55	Frequency 5564 5575	twice a day
+R40	Frequency-Drug Arg1:T55 Arg2:T50
+T56	Duration 5576 5586	for 7 days
+R41	Duration-Drug Arg1:T56 Arg2:T50
+T57	Drug 5614 5632	Potassium Chloride
+T58	Strength 5633 5639	20 mEq
+R42	Strength-Drug Arg1:T58 Arg2:T57
+T59	Form 5640 5670	Tab Sust.Rel. Particle/Crystal
+R43	Form-Drug Arg1:T59 Arg2:T57
+T60	Dosage 5676 5679;5680 5683	One (1)
+R44	Dosage-Drug Arg1:T60 Arg2:T57
+T61	Form 5684 5714	Tab Sust.Rel. Particle/Crystal
+R45	Form-Drug Arg1:T61 Arg2:T57
+T62	Route 5715 5717	PO
+R46	Route-Drug Arg1:T62 Arg2:T57
+T63	Frequency 5718 5728	once a day
+R47	Frequency-Drug Arg1:T63 Arg2:T57
+T64	Duration 5729 5739	for 7 days
+R48	Duration-Drug Arg1:T64 Arg2:T57
+T65	Drug 5799 5811	Pantoprazole
+T66	Strength 5812 5817	40 mg
+R49	Strength-Drug Arg1:T66 Arg2:T65
+T67	Form 5818 5841;5842 5848	Tablet, Delayed Release (E.C.)
+R50	Form-Drug Arg1:T67 Arg2:T65
+T68	Dosage 5854 5857;5858 5861	One (1)
+R51	Dosage-Drug Arg1:T68 Arg2:T65
+T69	Form 5862 5885;5886 5892	Tablet, Delayed Release (E.C.)
+R52	Form-Drug Arg1:T69 Arg2:T65
+T70	Route 5893 5895	PO
+R53	Route-Drug Arg1:T70 Arg2:T65
+T71	Frequency 5896 5900;5901 5917	Q24H (every 24 hours)
+R54	Frequency-Drug Arg1:T71 Arg2:T65
+T72	Drug 5978 5987	Labetalol
+T73	Strength 5988 5994	200 mg
+R55	Strength-Drug Arg1:T73 Arg2:T72
+T74	Form 5995 6001	Tablet
+R56	Form-Drug Arg1:T74 Arg2:T72
+T75	Dosage 6007 6011;6012 6015	Four (4)
+R57	Dosage-Drug Arg1:T75 Arg2:T72
+T76	Form 6016 6022	Tablet
+R58	Form-Drug Arg1:T76 Arg2:T72
+T77	Route 6023 6025	PO
+R59	Route-Drug Arg1:T77 Arg2:T72
+T79	Drug 6998 7009	antibiotics
+R3	Reason-Drug Arg1:T5 Arg2:T3	
+T6	Form 5355 5364	Tablet(s)
+R61	Form-Drug Arg1:T6 Arg2:T36	
+T80	Form 5469 5488	Tablet, Chewable(s)
+R62	Form-Drug Arg1:T80 Arg2:T43	
+R29	Frequency-Drug Arg1:T42 Arg2:T36	
+T81	Form 5749 5782	Tab Sust.Rel. Particle/Crystal(s)
+R63	Form-Drug Arg1:T81 Arg2:T57	
+T82	Form 5928 5958	Tablet, Delayed Release (E.C.)
+R64	Form-Drug Arg1:T82 Arg2:T65	
+T78	Frequency 6026 6038;6039 6045	TID (3 times a day)
+T83	Form 6057 6066	Tablet(s)
+R60	Frequency-Drug Arg1:T78 Arg2:T72	
+R65	Form-Drug Arg1:T83 Arg2:T72	
+T10	Route 4931 4933	IV
+T12	Route 4943 4945	IV
+R6	Route-Drug Arg1:T12 Arg2:T13	
+R7	Route-Drug Arg1:T10 Arg2:T11	

@@ -1,0 +1,387 @@
+Admission Date:  [**2120-8-30**]              Discharge Date:   [**2120-9-15**]
+
+Date of Birth:  [**2051-9-25**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+aspirin / Codeine / Penicillins / Iodine
+
+Attending:[**First Name3 (LF) 165**]
+Chief Complaint:
+Chest Pain
+
+Major Surgical or Invasive Procedure:
+[**2120-9-2**] Cardiac Cath
+[**2120-9-5**] Urgent coronary artery bypass graft x5:  Left internal
+mammary artery to left anterior descending artery and saphenous
+vein grafts to diagonal ramus obtuse marginal and posterior
+descending arteries
+
+History of Present Illness:
+68 year old male with insulin dependent DM, HTN, obesity
+admitted to CCU for aspirin desensitization in setting of chest
+pain with exertion over past week. Symptoms started 1 week ago
+with substernal chest pain while carying luggage to cruise ship
+- substernal/dull, radiates to abdomen "like ruler", occurs
+during exertion. Resolved with rest. Then tried to exert himself
+again throughout week, but developed same chest pain. He has
+been "taking it slowly", however, still gets symptoms with
+decreasing amount of exertion. New symptom for him. Denies
+peripheral edema, palpitations, syncope. Came to ED for eval. He
+was found to have multivessel disease upon cardiac
+catheterization and is now being referred to cardiac surgery for
+revascularization.
+
+Past Medical History:
+Diabetes
+Hypertension
+Arthritis
+Kidney Stones
+Bullet wound to right leg
+s/p Back surgery
+s/p Right rotator cuff repair
+
+Social History:
+Race:Caucasian
+Last Dental Exam:3-4 months ago
+Lives with: family
+Contact:[**Name (NI) **] (daughter)
+Occupation:Retired prison crew manager
+Cigarettes: Smoked no [x] yes []
+Other Tobacco use:denies
+ETOH: < 1 drink/week [x]  [**1-15**] drinks/week [] >8 drinks/week []
+Illicit drug use:denies
+
+Family History:
+Premature coronary artery disease- Brother deceased from sudden
+cardiac death at 58. Father with MI in mid-70's
+
+Physical Exam:
+Pulse:65 Resp:15  O2 sat: 99/RA
+B/P  Right:176/103    Left:147/71
+Height:6'     Weight:260 lbs
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema [] _____
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: palp  Left: palp
+DP           Right: dop  Left: dop
+PT           [**Name (NI) 167**]: palp  Left: palp
+Radial       Right:   Left:
+
+Pertinent Results:
+[**2120-9-9**] 05:10AM BLOOD WBC-10.4 RBC-3.45* Hgb-10.7* Hct-30.2*
+MCV-88 MCH-31.0 MCHC-35.5* RDW-13.2 Plt Ct-230
+[**2120-9-5**] 01:04PM BLOOD PT-13.8* PTT-33.7 INR(PT)-1.2*
+[**2120-9-9**] 05:10AM BLOOD Glucose-156* UreaN-32* Creat-1.3* Na-136
+K-4.0 Cl-95* HCO3-31 AnGap-14
+[**2120-9-11**] 06:24AM BLOOD WBC-8.1 RBC-3.52* Hgb-10.6* Hct-31.9*
+MCV-91 MCH-30.1 MCHC-33.3 RDW-12.8 Plt Ct-337
+[**2120-9-10**] 12:50PM BLOOD WBC-9.9 RBC-3.62* Hgb-10.8* Hct-33.3*
+MCV-92 MCH-29.8 MCHC-32.5 RDW-13.1 Plt Ct-341
+[**2120-9-11**] 06:24AM BLOOD Glucose-92 UreaN-34* Creat-1.3* Na-135
+K-4.0 Cl-95* HCO3-29 AnGap-15
+[**2120-9-10**] 12:50PM BLOOD Glucose-140* UreaN-33* Creat-1.4* Na-135
+K-4.2 Cl-94* HCO3-28 AnGap-17
+[**2120-9-9**] 05:10AM BLOOD Glucose-156* UreaN-32* Creat-1.3* Na-136
+K-4.0 Cl-95* HCO3-31 AnGap-14
+
+Findings
+LEFT ATRIUM: No spontaneous echo contrast or thrombus in the
+body of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA. Good (>20 cm/s) LAA ejection velocity.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: PFO is present. Left-to-right
+shunt across the interatrial septum at rest.
+LEFT VENTRICLE: Normal LV wall thickness and cavity size.
+Overall normal LVEF (>55%).
+RIGHT VENTRICLE: Normal RV systolic function.
+AORTA: Normal aortic diameter at the sinus level. Simple
+atheroma in aortic arch. Simple atheroma in descending aorta.
+AORTIC VALVE: Three aortic valve leaflets. No AS. No AR.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Trivial
+MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized.
+No PS. Physiologic PR.
+PERICARDIUM: No pericardial effusion.
+Conclusions
+PRE-BYPASS:
+-No spontaneous echo contrast or thrombus is seen in the body of
+the left atrium or left atrial appendage.
+-A small patent foramen ovale is present. A slight left-to-right
+shunt across the interatrial septum is seen.
+- Left ventricular wall thicknesses and cavity size are normal.
+Overall left ventricular systolic function is normal (LVEF>55%)
+with normal free wall contractility.
+-There are simple atheroma in the aortic arch. There are simple
+atheroma in the descending thoracic aorta.
+-There are three aortic valve leaflets. There is no aortic valve
+stenosis. No aortic regurgitation is seen.
+-The mitral valve leaflets are mildly thickened. Trivial mitral
+regurgitation is seen.
+-There is no pericardial effusion.
+POSTBYPASS:
+The patient is AV paced on low dose phenylephrine infusion.
+Biventricular funtion is maintained. The valves remain
+unchanged. The aorta remains intact.
+
+[**Last Name (LF) **],[**First Name3 (LF) **] CSURG FA6A [**2120-9-13**] 10:28 AM
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 91676**]
+Reason: eval for effusion
+ Final Report
+PA LATERAL VIEWS OF THE CHEST
+
+REASON FOR EXAM: Status post CABG.
+
+Comparison is made with prior study performed the day earlier.
+Mediastinal widening has improved. Cardiac size is top normal.
+Right basilar
+atelectasis has resolved. Small atelectasis in the left lower
+lobe remain.
+Bilateral pleural effusions are small. There is no evidence of
+pneumothorax.
+
+[**Hospital 93**] MEDICAL CONDITION:
+   68 year old man with ileus/obstruction
+REASON FOR THIS EXAMINATION:
+   eval ileus
+
+Final Report
+INDICATION: Question ileus or obstruction.
+
+COMPARISON: Abdominal radiographs on [**2120-9-12**].
+
+FINDINGS: Six frontal views of the abdomen were obtained. Again
+seen is
+small bowel dilation, similar to yesterday's study, with air
+again seen in the transverse colon. There is no evidence of free
+air. There are scattered air-fluid levels seen. Again seen is
+hyperostosis of the lumbar spine, consistent with DISH. Again
+seen is a cluster of calcifications within the region of the
+prostate likely representing prostate calcifications. There are
+sternotomy wires in place.
+
+IMPRESSION: Some small bowel dilation with air in the colon,
+consistent with
+ileus.
+
+[**2120-8-30**] 12:40PM BLOOD WBC-7.7 RBC-4.50* Hgb-13.9* Hct-40.2
+MCV-90 MCH-30.8 MCHC-34.5 RDW-12.6 Plt Ct-239
+[**2120-8-31**] 05:18AM BLOOD WBC-6.4 RBC-4.39* Hgb-13.2* Hct-38.1*
+MCV-87 MCH-30.1 MCHC-34.6 RDW-13.2 Plt Ct-189
+[**2120-9-1**] 05:55AM BLOOD WBC-7.2 RBC-4.43* Hgb-13.4* Hct-39.9*
+MCV-90 MCH-30.4 MCHC-33.7 RDW-13.0 Plt Ct-185
+[**2120-9-2**] 06:45AM BLOOD WBC-7.4 RBC-4.41* Hgb-13.9* Hct-39.3*
+MCV-89 MCH-31.5 MCHC-35.4* RDW-13.3 Plt Ct-201
+[**2120-9-3**] 02:40AM BLOOD WBC-9.1 RBC-4.16* Hgb-12.6* Hct-36.6*
+MCV-88 MCH-30.3 MCHC-34.4 RDW-13.2 Plt Ct-200
+[**2120-9-4**] 07:15AM BLOOD WBC-11.0 RBC-4.25* Hgb-13.3* Hct-37.6*
+MCV-89 MCH-31.4 MCHC-35.5* RDW-13.3 Plt Ct-192
+[**2120-9-6**] 02:05AM BLOOD WBC-12.2* RBC-3.70* Hgb-11.0* Hct-32.9*
+MCV-89 MCH-29.9 MCHC-33.6 RDW-13.2 Plt Ct-171
+[**2120-9-8**] 05:29AM BLOOD WBC-13.4* RBC-3.46* Hgb-10.6* Hct-29.8*
+MCV-86 MCH-30.6 MCHC-35.6* RDW-13.3 Plt Ct-213
+[**2120-9-10**] 12:50PM BLOOD WBC-9.9 RBC-3.62* Hgb-10.8* Hct-33.3*
+MCV-92 MCH-29.8 MCHC-32.5 RDW-13.1 Plt Ct-341
+[**2120-9-11**] 06:24AM BLOOD WBC-8.1 RBC-3.52* Hgb-10.6* Hct-31.9*
+MCV-91 MCH-30.1 MCHC-33.3 RDW-12.8 Plt Ct-337
+[**2120-9-12**] 05:50AM BLOOD WBC-7.2 RBC-3.44* Hgb-10.6* Hct-30.1*
+MCV-88 MCH-30.7 MCHC-35.0 RDW-12.7 Plt Ct-308
+[**2120-9-13**] 09:34AM BLOOD WBC-7.2 RBC-3.76* Hgb-11.1* Hct-34.7*
+MCV-92 MCH-29.6 MCHC-32.1 RDW-12.8 Plt Ct-396
+[**2120-9-14**] 07:15AM BLOOD WBC-7.8 RBC-3.41* Hgb-10.1* Hct-30.5*
+MCV-90 MCH-29.8 MCHC-33.3 RDW-12.2 Plt Ct-323
+[**2120-8-30**] 12:40PM BLOOD Neuts-55.1 Lymphs-36.0 Monos-5.6 Eos-2.6
+Baso-0.7
+[**2120-8-30**] 12:40PM BLOOD PT-11.1 PTT-22.3 INR(PT)-0.9
+[**2120-8-30**] 12:40PM BLOOD Plt Ct-239
+[**2120-9-14**] 07:15AM BLOOD Plt Ct-323
+[**2120-8-30**] 12:40PM BLOOD Glucose-96 UreaN-30* Creat-1.1 Na-141
+K-4.6 Cl-106 HCO3-27 AnGap-13
+[**2120-9-9**] 05:10AM BLOOD Glucose-156* UreaN-32* Creat-1.3* Na-136
+K-4.0 Cl-95* HCO3-31 AnGap-14
+[**2120-9-10**] 12:50PM BLOOD Glucose-140* UreaN-33* Creat-1.4* Na-135
+K-4.2 Cl-94* HCO3-28 AnGap-17
+[**2120-9-11**] 06:24AM BLOOD Glucose-92 UreaN-34* Creat-1.3* Na-135
+K-4.0 Cl-95* HCO3-29 AnGap-15
+[**2120-9-12**] 05:50AM BLOOD Glucose-98 UreaN-29* Creat-1.2 Na-139
+K-4.1 Cl-99 HCO3-29 AnGap-15
+[**2120-9-13**] 09:34AM BLOOD Glucose-70 UreaN-21* Creat-1.2 Na-138
+K-4.1 Cl-99 HCO3-27 AnGap-16
+[**2120-9-14**] 07:15AM BLOOD Glucose-73 UreaN-18 Creat-1.1 Na-140
+K-4.1 Cl-104 HCO3-25 AnGap-15
+[**2120-9-15**] 07:10AM BLOOD UreaN-17 Creat-1.0 Na-138 K-4.1 Cl-102
+[**2120-9-10**] 12:50PM BLOOD ALT-19 AST-30 LD(LDH)-266* AlkPhos-51
+Amylase-23 TotBili-0.8
+[**2120-8-30**] 12:40PM BLOOD cTropnT-<0.01
+[**2120-8-30**] 10:38PM BLOOD cTropnT-<0.01
+[**2120-8-31**] 05:18AM BLOOD cTropnT-<0.01
+[**2120-9-5**] 05:50PM BLOOD cTropnT-0.46*
+[**2120-9-6**] 02:05AM BLOOD CK-MB-18* MB Indx-4.6
+[**2120-9-6**] 02:06AM BLOOD cTropnT-0.34*
+[**2120-9-7**] 04:08AM BLOOD cTropnT-0.31*
+[**2120-9-9**] 05:10AM BLOOD cTropnT-0.27*
+[**2120-9-3**] 02:40AM BLOOD %HbA1c-6.7* eAG-146*
+[**2120-8-31**] 05:18AM BLOOD Triglyc-168* HDL-44 CHOL/HD-3.6
+LDLcalc-80 LDLmeas-96
+
+Brief Hospital Course:
+Mr. [**Known lastname 4281**] presented to the ED with chest pain. He was
+appropriately medically managed and admitted for further
+work-up. He underwent a cardiac cath on [**9-2**] which revealed
+severe three vessel coronary artery disease. He underwent
+pre-operative work-up and on [**9-5**] was brought to the operating
+room where he underwent a coronary artery bypass graft x 5 (Left
+internal mammary artery to left anterior descending artery and
+saphenous vein grafts to diagonal ramus obtuse marginal and
+posterior descending arteries). Please see operative report for
+surgical details. Following surgery he was transferred to the
+CVICU for invasive monitoring intubated and sedated in stable
+condition. Later this day he was weaned from sedation, awoke
+neurologically intact and extubated. On post-op day one he was
+started on beta-blockers/ statin/aspirin/diuretics and gently
+diuresed towards his pre-op weight. Chest tubes and epicardial
+pacing wires were removed per protocol. Later on this day he was
+transferred to the step-down floor for further care. Physical
+Therapy was consulted for evaluation of strength and mobility
+and cleared him safe to return to home with VNA services when
+ready. He did have some abdominal pain, nausea and abdominal
+distention on post operative day 4. A KUB showed marked small
+bowel dilation with air-fluid levels concerning for small bowel
+obstruction.  All liver function tests and amylase/ lipase were
+essentially normal.  His Lasix was stopped, IVF was given and
+his abdominal pain slowly resolved. Repeat KUB showed ileus.  At
+the time of discharge he was ambulating without difficulty,
+passing flatus and stool, tolerating a regular oral diet and his
+incisions were healing well.  The remainder of his hospital
+course was essentially uneventful. He continued to progress and
+was cleared for discharge to home with VNA on POD 17. All follow
+up appointments were advised.
+
+
+Medications on Admission:
+- Metformin 1000 mg qam
+- Humalin-N 30 units daily
+- Humalin-R 30 units daily
+- Lisinopril 20 daily
+- paroxetine 20 daily
+
+Discharge Medications:
+1. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+2. paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+6. metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+7. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain, fever.
+8. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+9. senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day:
+hold for loose stools.
+10. glucometer  Sig: One (1)   four times a day: Glucometer for
+home monitoring.
+Disp:*1 meter* Refills:*0*
+11. test strips  Sig: One (1)   four times a day.
+Disp:*1 box* Refills:*2*
+12. insulin regular human 100 unit/mL Solution Sig: Fifteen (15)
+units Injection every morning: [**Month (only) 116**] need to increase to 30 units
+when oral intake better.
+13. Humulin N 100 unit/mL Suspension Sig: Fifteen (15) units
+Subcutaneous every  morning: [**Month (only) 116**] need to increase to 30 units
+when oral intake back to normal.
+14. furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day
+for 5 days.
+Disp:*5 Tablet(s)* Refills:*0*
+15. potassium chloride 10 mEq Tablet Extended Release Sig: One
+(1) Tablet Extended Release PO once a day for 5 days.
+Disp:*5 Tablet Extended Release(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Community Nurse [**First Name (Titles) **] [**Last Name (Titles) **] Care,Inc
+
+Discharge Diagnosis:
+Coronary artery disease s/p coronary artery bypass graft x 5
+Past medical history:
+Diabetes
+Hypertension
+Arthritis
+Kidney Stones
+Bullet wound to right leg
+s/p Back surgery
+s/p Right rotator cuff repair
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with oral analgesia
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Left - healing well, no erythema or drainage.
+Trace Edema
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 170**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**First Name (STitle) **] Phone:[**Telephone/Fax (1) 170**] Date/Time:[**2120-10-7**] at
+1:30pm in the [**Hospital **] Medical office building [**Hospital Unit Name **]
+Cardiologist: Dr. [**Last Name (STitle) 8098**] on [**10-7**] at 1:15pm
+WOUND CARE NURSE Phone:[**Telephone/Fax (1) 170**] Date/Time:[**2120-9-17**] at 10:15
+at [**Last Name (un) 2577**] building [**Hospital Unit Name **]
+
+Please call to schedule appointments with your
+Primary Care Dr. [**Last Name (STitle) 39008**] in [**12-10**] weeks [**Telephone/Fax (1) 57082**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 170**]. Answering service will contact on call
+person during off hours**
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 173**]
+
+Completed by:[**2120-9-15**]

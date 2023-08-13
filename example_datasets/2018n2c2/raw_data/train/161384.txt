@@ -1,0 +1,266 @@
+Admission Date:  [**2115-5-15**]              Discharge Date:   [**2115-5-23**]
+
+Date of Birth:  [**2050-5-19**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 5790**]
+Chief Complaint:
+pericardial effusion
+
+Major Surgical or Invasive Procedure:
+[**2115-5-15**] - Left video assisted thoracoscopic surgery, pericardial
+window. (Dr [**Last Name (STitle) **]
+
+
+History of Present Illness:
+Ms [**Known lastname 101562**] is a 64 year old woman with multiple medical problems
+who was referred to our clinic for a pericardial window. She was
+being evaluated by ENT (Dr [**Last Name (STitle) **] this spring for excision
+of leukoplakia of the vocal cords when a moderate pericardial
+effusion was discovered on pre-operative testing. Her
+ENT procedure was postponed pending management of the effusion.
+Of note, she is a poor historian and is unsure of her medical
+issues or surgical plans. She had a pericardiocentesis performed
+six months ago which drained 1L. She denies prior thoracic or
+major abdominal surgery. She was recently placed on coumadin for
+A-fib, she has held that for 2 days. Last INR available was 2.6
+on [**2115-2-27**], then rechecked at 1.2 on [**2115-5-15**].
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Hypertension, Hyperlipidemia
+2. CARDIAC HISTORY:
+- CABG: None
+- PERCUTANEOUS CORONARY INTERVENTIONS:  None
+3. OTHER PAST MEDICAL HISTORY:
+Pericardial effusion
+COPD
+Vocal chord abnormality
+Carotid artery disease
+s/p bilateral carotid endarterectomies-left [**2106**], right [**2111**]
+Peripheral arterial disease
+Esophageal reflux
+Gastric ulcer related to NSAIDS
+Hypothyroidism
+Atrial fibrillation
+Current smoking->[**12-2**] pack per day
+Right ACL repair
+Cholecystectomy
+Bladder suspension x 3
+Right rotator cuff repair
+Shingles
+Depression
+PVD:
+Successful stenting of left common iliac stenosis
+followed by covered stenting for dissection and possible
+extravasation [**5-8**].Occluded superficial femoral artery with
+reconstitution of heavily diseased above-knee popliteal artery.
+
+Social History:
+Married but husband in nursing home. Has two sons. 80 pk yr hx
+of smokign
+Former ETOH abuse, not current. No illicit drug use
+
+Family History:
+Both parents with CAD, her mother had MI at unknown age.
+Brother had MI at age 51.  She also CAD in multiple other family
+members
+
+
+Physical Exam:
+VS: T 97.6  HR: 70 AF  BP: 100-120/72 Sats: 96% RA @ rest
+activtiy 89-95% RA
+General: 65 year-old female in no apparent distress
+HEENT: normocephalic, mucus membranes moist
+Neck: supple
+Card: RRR
+Resp: decreased breath sounds no crackles or wheezes
+GI: obese, benign
+Extr: warm no edema
+Incision: L VATs clean, dry intact. no erythema
+Neuro: Awake, alert oriented.
+
+Pertinent Results:
+[**2115-5-22**] WBC-13.7* RBC-4.99 Hgb-14.0 Hct-41.1 Plt Ct-488*
+[**2115-5-22**] Glucose-134* UreaN-9 Creat-0.6 Na-142 K-3.5 Cl-101
+HCO3-32
+[**2115-5-22**] Calcium-9.1 Phos-4.1 Mg-2.0
+
+[**2115-5-21**] CXR:
+FINDINGS: In comparison with the study of [**5-20**], there is little
+overall
+change. Continued enlargement of the cardiac silhouette with
+mild elevation of pulmonary venous pressure. Atelectatic changes
+are seen at the bases, especially on the left with small
+bilateral pleural effusions.
+
+[**2115-5-17**] Echo: IMPRESSION: Normal biventricular cavity sizes with
+preserved global biventricular systolic function. Moderate
+mitral regurgitation. Pulmonary artery systolic hypertension. No
+significant pericardial effusion.
+
+
+Brief Hospital Course:
+Ms [**Known lastname 101562**] was admitted to the Thoracic Surgery service on the
+day of her scheduled surgery, [**2115-5-15**]. INR was checked that day
+(1.2). She underwent left video assisted thoracoscopic surgery
+with pericardial window under Dr [**Last Name (STitle) **]. The surgery was
+uneventful and went as planned, but she remained intubated
+overnight given her very high oxygen requirement. She was
+transferred to the ICU intubated and an urgent pulmonology
+consult was requested. Our pulmonology colleagues agreed with us
+that she was retaining fluid leading to pulmonary edema so we
+removed all IV fluid and began diuresis with furosemide IV. She
+responded well and she was extubated in the afternoon of POD 1.
+By POD 2, she had resumed most of her home medications and was
+beginning a regular diet. Her Coumadin was resumed and
+pericardial drain was removed (total output ) on POD 3. She
+remained in the ICU until POD 4, the primary indication being
+increased oxygen demand, requiring face tent most of the day.
+Chest x-rays and daily weights indicated she was no longer fluid
+overloaded, but her oxygenation continued to be poor. On the
+floor, we were unable to keep her oxygen saturation above 90%
+with less than 4L nasal canula. She reports this as her baseline
+pulmonary status, though denies being on home oxygen. She was
+seen and evaluated by physical therapy who initially recommended
+rehab due to risk of fall. She also required 4L NC desaturating
+to 84% on 2L NC. Over the next few days she improved.  Physical
+therapy re-evaluated her and deemed her safe for home with PT.
+
+While in house some mild confusion which improved over the
+course of her hospital stay.  On discharge she was awake, alert,
+oriented and walked independently.
+
+Heme: Warfarin was restarted for atrial fibrillation and she
+will follow-up with her PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) 17143**] as an outpatient.
+
+By the time of discharge on [**2115-5-23**], she was tolerating a
+regular diet, voiding without difficulty, hemodynamically
+stable, taking her home medications and ambulating independently
+without oxygen, saturating 94% RA.   She was discharged to home
+with [**Location (un) 86**] Care Group VNA and Physical therapy.  She will
+follow-up with Dr. [**Last Name (STitle) **] as an outpatient.
+
+Medications on Admission:
+ALBUTEROL 90mcg 2pf q6prn, ADVAIR 250-50", AMLODIPINE 10',
+ARIPIPRAZOLE 20', EZETIMIBE-SIMVASTATIN [**9-19**]', FUROSEMIDE 40',
+LEVOTHYROXINE 100', LORAZEPAM 2qhs, METOPROLOL 100', OMEPRAZOLE
+40', QUETIAPINE 25''', QUETIAPINE 200qhs PRN, RANITIDINE 300qhs,
+WARFARIN 2', D3 1000'
+
+
+Discharge Medications:
+1. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+2. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+One (1) Puff Inhalation Q6H (every 6 hours) as needed for
+wheezes, sob.
+3. amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.
+4. aripiprazole 20 mg Tablet Sig: One (1) Tablet PO once a day.
+
+5. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+7. quetiapine 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+8. quetiapine 200 mg Tablet Sig: One (1) Tablet PO QHS (once a
+day (at bedtime)) as needed for insomnia.
+9. ranitidine HCl 150 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+10. nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr
+Transdermal DAILY (Daily).
+11. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+12. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+13. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every 4-6 hours
+as needed for pain.
+Disp:*20 Tablet(s)* Refills:*0*
+14. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+15. warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM: INR Goal 2.0-2.5 for Afib.
+16. metoprolol succinate 100 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+17. Vytorin [**9-19**] 10-20 mg Tablet Sig: One (1) Tablet PO at
+bedtime.
+18. Vitamin D-3 1,000 unit Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO once a day.
+19. potassium chloride 8 mEq Tablet Extended Release Sig: One
+(1) Tablet Extended Release PO once a day.
+Disp:*30 Tablet Extended Release(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] VNA
+
+Discharge Diagnosis:
+Pericardial effusion
+Hypertension
+Hyperlipidemia
+COPD
+Vocal chord abnormality
+Carotid artery disease
+Peripheral arterial disease
+Esophageal reflux
+Gastric ulcer related to NSAIDS,
+Hypothyroidism
+Atrial fibrillation (on coumadin)
+Shingles
+Depression
+Peripheral vascular disease
+
+PSH: bilateral carotid endarterectomies-left [**2106**], right [**2111**];
+Right ACL repair, lap CCY, Bladder suspension x 3, Right rotator
+cuff repair; covered stenting for dissection and possible
+extravasation left common iliac [**5-8**]
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - independent
+
+
+Discharge Instructions:
+Call Dr.[**Name (NI) 2347**] office [**Telephone/Fax (1) 2348**] if you experience:
+-Fevers greater than 101 or chills
+-Increased shortness of breath or cough or chest pain
+-Left chest incision develops drainage. Your left incisions are
+covered with glue. This will come off over a couple weeks.
+
+Pain:
+-Acetaminophen 650 every 6 hours for pain
+-Oxycodone 5 mg every 4-6 hours as needed for pain
+
+Activity
+-Shower daily. Wash incision with mild soap & water, rinse, pat
+dry
+-No tub bathing or swimming until incisions healed
+-Walk 4-5 times a day increase you time and distance
+-Continue incentive spirometry
+
+Followup your coumadin dosing with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 16258**] [**Telephone/Fax (1) 19196**]
+on [**Telephone/Fax (1) 2974**] [**2115-5-24**]. VNA should draw your INR [**Month/Day/Year 2974**].
+
+
+Followup Instructions:
+Follow-up with Dr. [**Last Name (STitle) **] [**0-0-**] Date/Time:[**2115-5-30**]
+4:00 in the [**Hospital Ward Name 516**] [**Hospital Ward Name 23**] Clinical Center, [**Location (un) 24**]
+
+Chest X-Ray [**Location (un) 861**] Radiology 30 minutes before your
+appointment
+
+INR [**2115-5-24**]. Followup coumadin dosing with Dr. [**Last Name (STitle) 16258**] on [**Last Name (STitle) 2974**]
+[**2115-5-24**].
+
+
+
+Completed by:[**2115-5-23**]

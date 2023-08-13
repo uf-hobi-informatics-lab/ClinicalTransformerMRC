@@ -1,0 +1,383 @@
+Admission Date:  [**2105-7-14**]              Discharge Date:   [**2105-7-21**]
+
+Date of Birth:  [**2041-2-12**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 783**]
+Chief Complaint:
+Weakness, slurred speech, increased frequency of urination
+
+Major Surgical or Invasive Procedure:
+Foley catheter placed
+
+
+History of Present Illness:
+Pt is a 64 y/o African American gentleman who has a past medical
+history significant for DMII (most recent HbA1c:11.8 on
+[**2105-3-28**]), HTN, and BPH who initially presented with
+dysarthria, weakness and change in bladder habits. Pt was in his
+normal state of health until about a week ago when he began to
+notice an increase in the number of times he had to urinate.
+Although he has nocturia at baseline (usually wakes 3-4 times
+per week to use the bathroom at night), he began to use the
+bathroom during the day with increasing frequency, every 15-20
+minutes. He found that he was urinating only a very small
+amount, "several drops" each time and felt like he had not
+completely emptied his bladder.
+Then, on [**2105-7-14**], the patient woke up and felt generally weak.
+He noticed his speech was slurred and his legs felt unsteady
+when getting up from bed. The weakness came on all of a sudden
+and he felt a cramping fatigue worst in his calves. He had no
+trouble understanding others or finding words, but noticed his
+pronunciation of words was impaired. In addition, he also felt
+intermittently very cold and then very hot. When his partner
+arrived home, she too immediately noticed the changes in his
+speech and brought him to the ED at [**Hospital3 **].
+
+At [**Hospital1 **] initial VS were: 98.2 72 156/82 14 98% on RA. He was
+observed to have altered mental status, raising suspicion for
+possible TIA or stroke. Head CT was normal. Lab work was notable
+for Cr 10.4, K 8.4. He received 2 grams Ca-gluconate, 10 units
+of insulin and D50, sodium bicarbonate, and 15 mg PO Kayakelate.
+He was found to be in acute renal failure with hyperkalemia,
+with EKG changes notable for peaked T waves. Suspecting the need
+for emergent dialysis he was transferred to [**Hospital1 18**].
+
+Pt arrived to the MICU at [**Hospital1 18**] where he was alert and oriented
+x3 At [**Hospital1 18**], he presented with SBPS to 190.  Electrolyte
+abnormalities not improved.  EKG with persistently peaked t
+waves.  He was transfered to the MICU and treated medically
+without need for hemodialysis.  Foley was placed with over 500cc
+relieved.  DRE showed prostate enlargement, symmetric in nature.
+ In the MICU serial ekg's normalized.  He proceeded to have
+brisk urine output.  Potassium normalized and Cr trending
+downward.
+
+He has had chronic knee pain for which he takes acetaminophen;
+he also takes a nightly ibuprofen-containing sleep aid for
+insomnia.
+
+
+Past Medical History:
+-Hyperlipidemia
+-Hypertension: Stress ECHO ([**2105-7-1**]) with normal LV wall
+[**Last Name (LF) 93024**], [**First Name3 (LF) **]=60%, no LVH, normal stress response
+-Non-insulin dependent DM II: HbA1c=11.8 ([**2105-3-28**])
+
+
+Social History:
+Pt is a bus driver for children with special needs. He lives
+alone, but has a partner with whom he is very close. He has
+three grown children and three grandchildren. He denies a
+history of tobacco or cigarette use. He drinks socially, [**3-22**]
+times per week; 6 shots of vodka/week. He denies any history of
+illicit drug use.
+
+
+Family History:
+Father: killed in [**Country 10181**]
+Mother: died of kidney failure in her early 60s
+Children in good health
+
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITAL SIGNS: 98.3 159/84 66 100%RA FS 134
+GEN: Pt is an African American gentleman, who is alert and
+orientedx3 with fluent and linear thinking. He does not appear
+to be in any immediate distress or discomfort
+HEENT: Neck is supple with full ROM, no evidence of
+lymphadenopathy, sclera are anicteric, MMM, OP clear, no
+observed JVP
+PULM: Lungs are clear to auscultation bilaterally
+CV: II/VI midsystolic blowing murmur loudest at the heart base,
+rate was at times regular and during shorter periods entered
+episdoes of an irregularly irregular rhythm, no rubs or gallops
+appreciated, PMI was not displaced
+ABD: obese, soft, hypoactive bowel sounds, nontender to
+palpation, no masses palpated, no heptosplenomegaly
+GU: foley catheter in place, draining without obstruction
+EXT: distal pulses intact, warm and well perfused, 1+ pitting
+edema of lower legs bilaterally that per patient report has been
+there for the past 6 months
+SKIN: no ulcers or lesions appreciated, legs are slightly
+lighter in color than thigh with less hair growth
+NEURO: CN 2-12 grossly intact, sensation intact throughout,
+strength 5/5 throughout
+
+DISCHARGE PHYSICAL EXAM:
+VITAL SIGNS: 98.0 154/98 (Systolic range: 165-136) 62 18 99%RA
+FS 136; Max FS of 189 @1200
+I/Os: I: No IV fluids, O: 3520 (24 hr total)
+GEN: alert and orientedx3 with fluent and linear thinking. Not
+in any immediate distress or discomfort
+HEENT: Neck is supple with full ROM, no evidence of
+lymphadenopathy, sclera are anicteric, MMM, OP clear, no
+observed JVP
+PULM: Lungs are clear to auscultation bilaterally
+CV: Frequent premature beats, II/VI systolic blowing murmur
+loudest at the heart base without radiation, no rubs or gallops
+appreciated, PMI was not displaced
+ABD: obese, soft, hypoactive bowel sounds, nontender to
+palpation, no masses palpated, no heptosplenomegaly
+GU: foley catheter in place, draining without obstruction, urine
+is clear, light yellow in color
+EXT: distal pulses intact, warm and well perfused, trace pitting
+edema of lower legs bilaterally that is improved from 2 days
+prior. Right forearm is less swollen and nontender to palpation.
+
+SKIN: no ulcers or lesions appreciated, legs are slightly
+lighter in color than thigh with less hair growth
+NEURO: CN 2-12 grossly intact, sensation intact throughout,
+strength 5/5 throughout
+
+Pertinent Results:
+ADMISSION LABS:
+[**2105-7-14**] 10:49PM   GLUCOSE-69* NA+-135 K+-7.9* CL--105
+[**2105-7-14**] 10:40PM   GLUCOSE-75 UREA N-78* CREAT-10.2* SODIUM-133
+POTASSIUM-8.0* CHLORIDE-103 TOTAL CO2-19* ANION GAP-19
+[**2105-7-14**] 10:40PM   estGFR-Using this
+[**2105-7-14**] 10:40PM   CK(CPK)-73
+[**2105-7-14**] 10:40PM   CALCIUM-9.8 PHOSPHATE-4.9* MAGNESIUM-2.6
+[**2105-7-14**] 10:40PM   WBC-9.2 RBC-3.97* HGB-13.0* HCT-39.4* MCV-99*
+MCH-32.7* MCHC-33.0 RDW-13.7
+[**2105-7-14**] 10:40PM   NEUTS-67.2 LYMPHS-19.0 MONOS-9.6 EOS-3.8
+BASOS-0.4
+[**2105-7-14**] 10:40PM   PLT COUNT-494*
+
+[**Hospital3 984**]:
+[**2105-7-18**] 06:30AM BLOOD C3-157 C4-40
+[**2105-7-18**] 06:30AM BLOOD HIV Ab-NEGATIVE
+
+DISCHARGE LABS:
+[**2105-7-21**] 06:00AM BLOOD WBC-4.8 RBC-3.31* Hgb-11.1* Hct-32.7*
+MCV-99* MCH-33.5* MCHC-33.9 RDW-13.2 Plt Ct-307
+[**2105-7-21**] 06:00AM BLOOD Glucose-127* UreaN-69* Creat-5.7* Na-137
+K-4.6 Cl-104 HCO3-21* AnGap-17
+[**2105-7-21**] 06:00AM BLOOD Calcium-9.5 Phos-5.2* Mg-2.0
+
+URINE:
+[**2105-7-15**] 01:17AM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.009
+[**2105-7-15**] 01:17AM URINE Blood-NEG Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+[**2105-7-15**] 01:17AM URINE RBC-1 WBC-2 Bacteri-FEW Yeast-NONE Epi-0
+TransE-<1
+[**2105-7-17**] 05:36AM URINE Eos-NEGATIVE
+[**2105-7-17**] 03:56PM URINE U-PEP-NEGATIVE
+
+EKGS:
+[**Hospital1 **] ECG sinus 68 PR 212, QRS 102 Qtc 402, +peaked Ts
+[**Hospital1 18**] ECG sinus @ 68, with peaked T waves.
+
+[**2105-7-14**]  10:36:10 PM
+Sinus rhythm. Within normal limits. No previous tracing
+available for
+comparison.
+Rate	PR	QRS	QT/QTc	P	QRS	T
+68	148	94	376/390	25	-3	7
+
+EKG: [**2105-7-16**]  6:21:52 PM
+Sinus rhythm. Atrial and ventricular ectopy. Compared to the
+previous tracing of the same date, there is no significant
+change.
+Rate	PR	QRS	QT/QTc	P	QRS	T
+70	148	84	398/415	13	-2	3
+
+Imaging Studies
+Renal Ultrasound ([**2105-7-15**])
+1. No hydronephrosis.  Bilateral tiny simple renal cysts noted.
+2. Incidentally noted, the liver is diffusely echogenic,
+consistent with fatty infiltration.  Other forms of liver
+disease and more advanced liver disease including significant
+hepatic fibrosis/cirrhosis cannot be excluded on this study.
+
+
+Brief Hospital Course:
+64 y/o African American male with a PMH of DMII and HTN who
+presented with generalized weakness, altered mental status,
+slurred speech and increased frequency of small amounts of
+urination.  He was found to be in acute renal failure at an OSH
+and transferred here to [**Hospital1 18**] for possible hemodialysis.  He was
+stabilized medically in the ICU until [**7-16**] when his care was
+transitioned to the general medicine service.
+
+**ACUTE ISSUES**
+# Acute Renal Failure: He presented in acute renal failure with
+creatinine of 10.4 (baseline 0.9), hyperkalemia, and EKG
+changes.   His ARF was largely attributed to obstruction as he
+was retaining over 500cc urine and found to have large symmetric
+prostate on DRE.  However, no hydronephrosis seen on ultrasound.
+ Additionally, he was also on a number of potentially
+nephrotoxigenic medications causing ATN, including lisinopril,
+NSAIDs, and potassium citrate. He was initially medically
+managed in the ICU IVF, lasix, bicarb with good effect.  Renal
+function gradually improved over several days following catheter
+placement, fluid support, and discontinuation of nephrotoxigenic
+drugs.  He was discharged with a Cr of 5.7, and not restarted on
+his nephrotoxic meds.  He will be followed by renal as an
+outpatient.  Furthermore, he was started on Tamsulosin for his
+BPH.  His foley remained in place to allow [**5-26**] day bladder rest
+before urology will try voiding trial as an outpatient in the
+next few days.
+
+#Hyperkalemia: He was found to have an elevated K 8 with
+associated peaked T waves. Potassium levels dropped with
+administration of kayexalate, insulin, and bicarbonate. Serial
+EKGS also showed resolution of peaked T waves.
+
+#DM II: Prior to this admission, he was only taking oral
+hypoglycemics.  However, these were discontinued in light of his
+ARF.  His blood sugars were managed on sliding scale insulin.
+Since he required Humalog 5-7 units for the last 3 days of
+hospitalization, he was sent home on Lantus 2units QHS with
+lispro sliding scale coverage.  He will be followed by his PCP
+in the next 2-3 days for follow-up  of this new diabetes
+regimen.  He was also provided with an educational counseling
+session regarding home insulin.  His oral hypoglycemics were
+held, with the goal of transitioning back to agents after renal
+approval and Cr normalization.
+
+#BPH:  As above, his BPH contributed to urinary obstruction and
+ARF.  DRE revealed symmetric enlargement of prostate.  Previous
+biopsy was benign.  Was started on Tamsulosin this admission.
+Urology will follow in clinic for void trial.
+
+**CHRONIC ISSUES**
+# Hypertension: He was found to be hypertensive to SBP 180s
+during the admission as his ACE-I was held in light of his ARF.
+After transfer to the floor, he was continued on his Amlodipine
+5mg and Metoprolol succinate 100 daily.  Quinapril discontinued
+indefinitely. Tamsulosin added for BPH.
+
+# Hyperlipidemia: Stable, continued his home statin.
+
+**TRANSITIONAL ISSUES**
+-Urology outpatient follow up: The patient will be called by
+urology for an appointment this week.  Until then, foley will
+remain in place and he will be visited by VNA for foley-related
+care.
+-Renal outpatient follow up to readdress kidney function and
+possibility of restoring prior home meds: quinapril, metformin,
+glipizide
+-PCP follow up in the next couple days to follow up glucose
+control on newly started insulin regimen and antihypertensive
+regimen, and side effects to newly started Tamsulosin. Also
+should repeat chem 7 to follow up K and Cr.
+-Following meds should not be restarted until clearance from
+renal:  quinipril, metformin, glipizide, NSAIDS, KCL
+-Full Code
+
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from Patient.
+1. Aspirin 162 mg PO DAILY
+2. Metoprolol Succinate XL 100 mg PO DAILY
+3. Ezetimibe 10 mg PO DAILY
+4. Quinapril 20 mg PO DAILY
+5. MetFORMIN (Glucophage) 1000 mg PO BID
+6. potassium citrate *NF* 2 tablets Oral Daily
+7. Rosuvastatin Calcium 20 mg PO DAILY
+8. GlipiZIDE XL 10 mg PO BID
+9. Amlodipine 5 mg PO DAILY
+
+
+Discharge Medications:
+1. Amlodipine 5 mg PO DAILY
+2. Rosuvastatin Calcium 20 mg PO DAILY
+3. Aspirin 162 mg PO DAILY
+4. Metoprolol Succinate XL 100 mg PO DAILY
+5. Tamsulosin 0.4 mg PO HS
+RX *tamsulosin 0.4 mg 1 capsule(s) by mouth at bedtime Disp #*30
+Capsule Refills:*1
+6. Acetaminophen 325-650 mg PO Q6H:PRN pain
+RX *acetaminophen 500 mg 1 tablet(s) by mouth q6 hour Disp #*40
+Tablet Refills:*0
+7. Docusate Sodium 100 mg PO BID
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day
+Disp #*60 Capsule Refills:*0
+8. Ezetimibe 10 mg PO DAILY
+9. HumaLOG KwikPen *NF* (insulin lispro) 100 unit/mL
+Subcutaneous qam ac
+RX *insulin lispro [Humalog KwikPen] 100 unit/mL Inject 0-9
+units per sliding scale before meals Disp #*2 Unit Refills:*1
+10. Glargine 2 units SQ qhs
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+Acute Renal Failure
+Hyperkalemia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Dr. [**Known lastname 174**],
+
+It was a pleasure taking care of you while you were hospitalized
+at [**Hospital1 69**]. You were hospitalized
+because of changes in mental status, decreased urine output,
+generalized weakness, and decreased functioning of your kidney.
+Your kidney injury was most likely caused by an obstruction of
+the bladder as a result of your large prostate. You were treated
+with IV fluid resuscitation, that you tolerated well. A foley
+catheter was also placed to bypass the bladder obstruction
+caused by the enlarged prostate. The catheter will remain in
+place until you follow up with the urology doctors. You will
+receive more information about the details of this appointment
+in the next couple of days. At the time of the appointment they
+will provide you with further instructions concerning the
+catheter and management of your large prostate. You were also
+started on Tamsulosin, a medication that will help to reduce the
+size of your prostate. Overall, your kidney function improved
+greatly with these interventions.
+
+Over the next several weeks it is very important that you stay
+well hydrated and drink lots of fluids. If you notice an
+increase in pain around the catheter, pain with urination,
+change in urine color, or fever please contact your PCP or
+return to the Emergency Room.
+
+We have arranged several follow-up appointments for you
+regarding your kidney function and enlarged prostate. These are
+listed below.
+
+We have made changes to your medications which are described
+below.
+
+Followup Instructions:
+Department: WEST [**Hospital 2002**] CLINIC
+When: MONDAY [**2105-7-27**] at 3:00 PM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 721**]
+Building: De [**Hospital1 **] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **]
+Campus: WEST     Best Parking: [**Street Address(1) 592**] Garage
+
+Name: [**Last Name (LF) **],[**First Name3 (LF) **] W.
+Location: [**Hospital3 **] INTERNAL MEDICINE ASSOCIATES
+Address: [**Street Address(2) 4472**], [**Apartment Address(1) 4473**], [**Hospital1 **],[**Numeric Identifier 9331**]
+Phone: [**Telephone/Fax (1) 4475**]
+Appt:  [**7-28**] at 1:15pm
+
+Department: SURGICAL SPECIALTIES
+When: WEDNESDAY [**2105-8-5**] at 1:30 PM
+With: [**First Name8 (NamePattern2) 161**] [**Name6 (MD) 162**] [**Name8 (MD) 163**], MD [**Telephone/Fax (1) 921**]
+Building: [**Hospital6 29**] [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+                             [**First Name11 (Name Pattern1) 734**] [**Last Name (NamePattern1) 735**] MD, [**MD Number(3) 799**]
+
+Completed by:[**2105-7-21**]

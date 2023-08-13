@@ -1,0 +1,14 @@
+T1	Drug 281 289	Percocet
+T2	Drug 292 298	Motrin
+T3	Drug 301 307	Nsaids
+T4	Drug 310 317	Aspirin
+T5	Drug 320 328	Dilantin
+T6	Drug 377 386	Captopril
+T7	Strength 417 423	6.25mg
+R1	Strength-Drug Arg1:T7 Arg2:T6
+T8	Frequency 424 427	TID
+R2	Frequency-Drug Arg1:T8 Arg2:T6
+T9	Strength 433 439	12.5mg
+R3	Strength-Drug Arg1:T9 Arg2:T6
+T10	Frequency 440 443	TID
+R4	Frequency-Drug Arg1:T10 Arg2:T6

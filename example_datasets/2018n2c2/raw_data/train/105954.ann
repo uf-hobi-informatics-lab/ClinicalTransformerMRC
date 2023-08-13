@@ -1,0 +1,45 @@
+T3	Drug 4486 4489	IVF
+T4	Reason 4494 4503	hydration
+R2	Reason-Drug Arg1:T4 Arg2:T3
+T5	Dosage 4518 4519	3
+R3	Dosage-Drug Arg1:T5 Arg2:T7
+T6	Reason 4529 4543	peri-operative
+R4	Reason-Drug Arg1:T6 Arg2:T7
+T7	Drug 4544 4555	antibiotics
+T8	Drug 5363 5368	Zosyn
+T9	Reason 5381 5412	blood cultures positive for GNR
+R5	Reason-Drug Arg1:T9 Arg2:T8
+T10	Drug 5473 5483	vancomycin
+T11	Drug 5606 5612	flagyl
+T12	Drug 5679 5690	fluconazole
+T13	Reason 5695 5700	yeast
+R6	Reason-Drug Arg1:T13 Arg2:T12
+T14	Dosage 5736 5743	2 units
+T15	Drug 5744 5747	RBC
+T17	Drug 6105 6116	antibiotics
+T18	Drug 6428 6435	Benicar
+T19	Strength 6436 6446	20/12.5 mg
+R8	Strength-Drug Arg1:T19 Arg2:T18
+T20	Frequency 6447 6457	once daily
+R9	Frequency-Drug Arg1:T20 Arg2:T18
+T21	Drug 6458 6468	ranitidine
+T22	Strength 6469 6475	150 mg
+R10	Strength-Drug Arg1:T22 Arg2:T21
+T23	Frequency 6476 6486	once daily
+R11	Frequency-Drug Arg1:T23 Arg2:T21
+T24	Drug 6487 6498	simvastatin
+T25	Strength 6499 6504	20 mg
+R12	Strength-Drug Arg1:T25 Arg2:T24
+T26	Frequency 6505 6515	once daily
+R13	Frequency-Drug Arg1:T26 Arg2:T24
+T27	Drug 6516 6523	aspirin
+T28	Strength 6524 6530	325 mg
+R14	Strength-Drug Arg1:T28 Arg2:T27
+T29	Frequency 6531 6541	once daily
+R15	Frequency-Drug Arg1:T29 Arg2:T27
+T30	Drug 6542 6550	Darvocet
+T31	Frequency 6551 6556	p.r.n
+R16	Frequency-Drug Arg1:T31 Arg2:T30
+T32	Reason 6562 6582	abdominal discomfort
+R17	Reason-Drug Arg1:T32 Arg2:T30
+R1	Dosage-Drug Arg1:T14 Arg2:T15	

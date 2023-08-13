@@ -1,0 +1,164 @@
+Admission Date:  [**2156-7-26**]              Discharge Date:   [**2156-9-3**]
+
+Date of Birth:  [**2104-3-28**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Sulfa (Sulfonamides) / Ciprofloxacin / Morphine Sulfate / Ativan
+/ Piperacillin Sodium/Tazobactam
+
+Attending:[**First Name3 (LF) 6346**]
+Chief Complaint:
+Transfer from Outside Hospital with sepsis and bowel leakage
+after two laparotomies
+
+Major Surgical or Invasive Procedure:
+Exploratory laparotomy, extensive lysis of adhesions, small
+bowel resection with enteroenterostomy, cecal primary closure,
+abdomen washout and gastrojejunostomy tube placement.
+
+
+History of Present Illness:
+[**Known firstname 17**] is a 52-year-old female who was transferred from an
+outside hospital after being admitted inearly [**Month (only) 205**] with
+diverticulitis. The patient was treated withantibiotic therapy
+and then underwent exploratory laparotomy
+and segmental colectomy with primary anastomosis on [**2156-6-30**]. She spent 10 days in the hospital postoperatively and
+was discharged home. She returned shortly thereafter with
+increasing abdominal pain and fevers. The patient had a
+pelvic abscess with an anastomotic leak and was taken to the
+operating room a second time on [**2156-7-20**] for
+exploratory laparotomy and abscess drainage. Enterotomies
+were made during this exploration and they were repaired with
+interrupted silk sutures. The patient was given an end
+colostomy and mucous fistula.
+
+Postoperatively on [**2156-7-26**], succus was actively drainging
+from the wound. A CT scan was performed which showed
+extravasation of contrast from the bowel into the pelvis and out
+the wound. The patient was transferred to the [**Hospital1 346**] for tertiary care after that finding.
+The patient was initially accepted by Dr. [**Last Name (STitle) **] and
+then transferred to Dr. [**First Name (STitle) 2819**] on the Blue Surgery service.
+
+The patient was seen in the surgical intensive care unit in
+on arrival. There was bilious drainage from the abdominal
+incision and feculent drainage from [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1661**]-[**Location (un) 1662**] drain
+that had been placed in the pelvis by the previous surgeon.
+The patient was explained the risks and benefits of operative
+procedure and it was deemed appropriate to operate as there
+was significant drainage and it probably would not be
+controlled adequately with nonoperative therapy. The grave
+situation was explained to the patient and the patient's
+daughter, and the patient agreed to proceed and signed a
+surgical consent for exploration. Bowel resection, diverting
+ostomy and requirement to leave the abdomen open were all
+discussed and a consent was signed.
+
+Past Medical History:
+Recurrent Diverticulitis
+HTN
+Benign colon polyp
+h/o EtOH abuse
+Fiberoid uterus s/p TAH BSO
+s/p Laproscopic cholecystectomy
+
+
+Social History:
+quit smoking in [**6-/2156**] at the time of her admission for
+diverticulitis
+1.5ppd X 30 yrs
+History of EtOH and marijuana abuse
+
+Family History:
+non-contributory
+
+Physical Exam:
+temp:101.6, HR 123, BP 125/47, RR 19, SaO2 97%
+Gen: frail thin caucasion woman in NAD,
+HEENT: NCAT EOMI
+CV: RR, tachy, nl S1, S2
+Pulm: CTA b/l
+Abd: BS present, tender to palp, drains intact, midline
+inscision
+Ext: no pedal edema, MAE
+
+
+Pertinent Results:
+[**2156-7-26**] 07:58PM   GLUCOSE-83 UREA N-10 CREAT-0.5 SODIUM-131*
+POTASSIUM-4.9 CHLORIDE-97 TOTAL CO2-24 ANION GAP-15
+[**2156-7-26**] 07:58PM   ALT(SGPT)-9 AST(SGOT)-16 LD(LDH)-212 ALK
+PHOS-142* AMYLASE-103* TOT BILI-0.3
+[**2156-7-26**] 07:58PM   WBC-15.6* RBC-3.44* HGB-10.3* HCT-31.3*
+MCV-91 MCH-30.0 MCHC-33.0 RDW-14.7
+[**2156-7-26**] 07:58PM   NEUTS-72.6* LYMPHS-16.1* MONOS-5.6 EOS-5.5*
+BASOS-0.2
+[**2156-7-26**] 07:58PM   PLT SMR-VERY HIGH PLT COUNT-645*
+
+Brief Hospital Course:
+The patient was admitted to the Blue surgery service and
+underwent an emergent operation on [**2156-7-27**] (see Dr.[**Name (NI) 11471**] op
+note). Postoperatively, her wound healed secondarily with wet to
+dry dressing changes twice daily. She underwent CT-guided
+drainage of a pelvic abscess with placement of a pigtail
+catheter. A G tube and JP drain were also placed. She was
+administered antibiotics for organisms isolated from her wound
+cultures. One week [**Last Name (LF) **], [**Known firstname 17**] developed a fever/rash and
+renal failure thought to be a reaction to an antibiotic, most
+likely Zosyn. She also developed a severe skin rash and was
+briefly transferred to the SICU for fluid resuscitation. She
+recovered from the drug reaction, was transferred back to the
+floor. Repeat CT scans of her abdomen showed no new collections,
+and she continued to improve. The JP drain was removed on [**8-31**].
+She was deemed ready for discharge to rehab on [**9-3**].
+
+Medications on Admission:
+Atenolol
+vancomycin
+levofloxacin
+metronidazole
+
+Discharge Medications:
+1. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID
+(4 times a day) as needed.
+Disp:*qs x 1 month packet* Refills:*0*
+2. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+QID (4 times a day) as needed.
+Disp:*qs x 1 month packet* Refills:*0*
+3. Heparin Flush PICC (100 units/ml) 2 ml IV DAILY:PRN
+10 ml NS followed by 2 ml of 100 Units/ml heparin (200 units
+heparin) each lumen Daily and PRN.  Inspect site every shift.
+4. Sodium Chloride 0.9%  Flush 10 ml IV DAILY:PRN
+PICC line - Inspect site every shift
+5. Dolasetron Mesylate 12.5 mg IV Q8H:PRN
+6. Diazepam 2.5 mg IV BID PRN
+7. Hydromorphone 0.5-4 mg IV Q3-4H:PRN pain
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 700**] - [**Location (un) 701**]
+
+Discharge Diagnosis:
+Small bowel leakage and cecal leakage enterocutaneous fistula
+Allergic reaction to pipericillin with severe rash/renal failure
+Sepsis
+
+
+Discharge Condition:
+Stable.
+
+
+Discharge Instructions:
+Please call your doctor if you experience fever >101.5, redness
+or purulent drainage from wounds, persistent nausea/vomiting, or
+any other concerns. No heavy lifting for 8 weeks. Please take
+all medications as prescribed.
+
+Followup Instructions:
+Please see Dr. [**First Name (STitle) 2819**] in 1 week. Upon discharge, please call Dr. [**Name (NI) 63323**] office at [**Telephone/Fax (1) 2998**] for an appointment.
+
+
+Completed by:[**2156-9-3**]

@@ -1,0 +1,234 @@
+T1	Drug 1265 1273	dilantin
+T2	Reason 1278 1285;1286 1297	seizure prophylaxis
+R1	Reason-Drug Arg1:T2 Arg2:T1
+T3	Drug 1331 1337	keflex
+T4	Reason 1381 1391	cellulitis
+R2	Reason-Drug Arg1:T4 Arg2:T3
+T5	Drug 167 174	Aspirin
+T6	Strength 1722 1727	10 mg
+R3	Strength-Drug Arg1:T6 Arg2:T8
+T8	Drug 1731 1744	dexamethasone
+T9	Dosage 1746 1749	5 L
+R5	Dosage-Drug Arg1:T9 Arg2:T10
+T10	Drug 1750 1753	IVF
+T11	Drug 1755 1765	vancomycin
+T12	Drug 177 189	Indomethacin
+T13	Drug 1771 1783	levofloxacin
+T14	Drug 192 205	Ciprofloxacin
+T15	Drug 208 218	Probenecid
+T16	Drug 221 232	Allopurinol
+T17	Drug 251 260	Phenytoin
+T18	Drug 263 269	Keflex
+T20	Drug 5518 5529	cosyntropin
+T21	Reason 5530 5534	test
+R6	Reason-Drug Arg1:T21 Arg2:T20
+T22	Drug 5570 5580	Vancomycin
+T23	Drug 5585 5597	Levofloxacin
+T25	Drug 5771 5779	steroids
+T26	Duration 5818 5823	3 day
+R8	Duration-Drug Arg1:T26 Arg2:T27
+T27	Drug 5834 5844	Prednisone
+T28	Strength 5845 5849	60mg
+R9	Strength-Drug Arg1:T28 Arg2:T27
+T29	Drug 5851 5859	Dilantin
+T30	ADE 5941 5960	acute renal failure
+R10	ADE-Drug Arg1:T30 Arg2:T29
+T31	ADE 5976 5993	morbilliform rash
+R11	ADE-Drug Arg1:T31 Arg2:T29
+T33	ADE 6008 6021	drug reaction
+R13	ADE-Drug Arg1:T33 Arg2:T29
+T34	Drug 6140 6146	Keflex
+T35	ADE 6150 6168	anaphylactic shock
+R14	ADE-Drug Arg1:T35 Arg2:T34
+R15	ADE-Drug Arg1:T35 Arg2:T36
+T36	Drug 6187 6201	cephalosporins
+T37	Drug 6231 6239	dilantin
+T38	Drug 6244 6250	Keflex
+T39	Reason 6845 6866	Hepatitis C Cirrhosis
+R16	Reason-Drug Arg1:T39 Arg2:T41
+R17	Reason-Drug Arg1:T39 Arg2:T42
+T40	Reason 6871 6895	Hepatocellular Carcinoma
+R18	Reason-Drug Arg1:T40 Arg2:T41
+R19	Reason-Drug Arg1:T40 Arg2:T42
+T41	Drug 6912 6922	Interferon
+T42	Drug 6927 6936	Ribavirin
+T43	Drug 7560 7578	Anti-hypertensives
+T44	Drug 7620 7630	Tamsulosin
+T45	Strength 7631 7637	0.4 mg
+R20	Strength-Drug Arg1:T45 Arg2:T44
+T46	Drug 7666 7676	Amlodipine
+T47	Reason 7716 7727	Hypothyroid
+R21	Reason-Drug Arg1:T47 Arg2:T48
+T48	Drug 7754 7767	Levothyroxine
+T49	Drug 8009 8019	Amlodipine
+T50	Strength 8020 8024	5 mg
+R22	Strength-Drug Arg1:T50 Arg2:T49
+T51	Frequency 8025 8030	DAILY
+R23	Frequency-Drug Arg1:T51 Arg2:T49
+T52	Drug 8034 8044	Tamsulosin
+T53	Strength 8045 8051	0.4 mg
+R24	Strength-Drug Arg1:T53 Arg2:T52
+T54	Frequency 8052 8054	HS
+R25	Frequency-Drug Arg1:T54 Arg2:T52
+T55	Drug 8058 8067	Oxycodone
+T56	Strength 8068 8072	5 mg
+R26	Strength-Drug Arg1:T56 Arg2:T55
+T57	Frequency 8073 8086	Q4H as needed
+R27	Frequency-Drug Arg1:T57 Arg2:T55
+T58	Reason 8091 8095	pain
+R28	Reason-Drug Arg1:T58 Arg2:T55
+T59	Drug 8100 8112	Multivitamin
+T60	Drug 8116 8131	Cholecalciferol
+T61	Drug 8133 8143	vitamin D3
+T62	Strength 8145 8154	400 Units
+R29	Strength-Drug Arg1:T62 Arg2:T60
+R30	Strength-Drug Arg1:T62 Arg2:T61
+T63	Frequency 8155 8160	DAILY
+R31	Frequency-Drug Arg1:T63 Arg2:T60
+R32	Frequency-Drug Arg1:T63 Arg2:T61
+T64	Drug 8164 8173	Vitamin E
+T65	Strength 8174 8183	400 Units
+R33	Strength-Drug Arg1:T65 Arg2:T64
+T66	Frequency 8184 8189	DAILY
+R34	Frequency-Drug Arg1:T66 Arg2:T64
+T67	Drug 8193 8206	Levothyroxine
+T68	Strength 8207 8213	75 mcg
+R35	Strength-Drug Arg1:T68 Arg2:T67
+T69	Frequency 8214 8219	DAILY
+R36	Frequency-Drug Arg1:T69 Arg2:T67
+T70	Drug 8223 8238	Docusate sodium
+T71	Strength 8239 8245	100 mg
+R37	Strength-Drug Arg1:T71 Arg2:T70
+T72	Drug 8266 8291	Phenytoin sodium extended
+T73	Strength 8292 8298	100 mg
+R38	Strength-Drug Arg1:T73 Arg2:T72
+T74	Frequency 8299 8302	TID
+R39	Frequency-Drug Arg1:T74 Arg2:T72
+T75	Drug 8307 8313	Keflex
+T76	Drug 8341 8351	tamsulosin
+T77	Strength 8352 8358	0.4 mg
+R40	Strength-Drug Arg1:T77 Arg2:T76
+T78	Form 8359 8387	Capsule, Sust. Release 24 hr
+R41	Form-Drug Arg1:T78 Arg2:T76
+T79	Dosage 8393 8400	One (1)
+R42	Dosage-Drug Arg1:T79 Arg2:T76
+T80	Form 8401 8429	Capsule, Sust. Release 24 hr
+R43	Form-Drug Arg1:T80 Arg2:T76
+T81	Route 8430 8432	PO
+R44	Route-Drug Arg1:T81 Arg2:T76
+T82	Frequency 8436 8443	bedtime
+R45	Frequency-Drug Arg1:T82 Arg2:T76
+T83	Drug 8448 8457	oxycodone
+T84	Drug 845 851	keflex
+T85	Strength 8458 8462	5 mg
+R46	Strength-Drug Arg1:T85 Arg2:T83
+T86	Form 8463 8469	Tablet
+R47	Form-Drug Arg1:T86 Arg2:T83
+T87	Dosage 8475 8482	One (1)
+R48	Dosage-Drug Arg1:T87 Arg2:T83
+T88	Form 8483 8489	Tablet
+R49	Form-Drug Arg1:T88 Arg2:T83
+T89	Route 8490 8492	PO
+R50	Route-Drug Arg1:T89 Arg2:T83
+T90	Frequency 8493 8507;8508 8523	every four (4) hours as needed
+R51	Frequency-Drug Arg1:T90 Arg2:T83
+T91	Reason 8528 8532	Pain
+R52	Reason-Drug Arg1:T91 Arg2:T83
+T92	Drug 8537 8549	multivitamin
+T93	Form 8554 8560	Tablet
+R53	Form-Drug Arg1:T93 Arg2:T92
+T94	Route 8561 8565	Oral
+R54	Route-Drug Arg1:T94 Arg2:T92
+T95	Drug 8569 8584	cholecalciferol
+T96	Drug 8586 8596	vitamin D3
+T97	Strength 8598 8606	400 unit
+R55	Strength-Drug Arg1:T97 Arg2:T95
+R56	Strength-Drug Arg1:T97 Arg2:T96
+T98	Form 8607 8613	Tablet
+R57	Form-Drug Arg1:T98 Arg2:T95
+R58	Form-Drug Arg1:T98 Arg2:T96
+T99	Dosage 8619 8626	One (1)
+R59	Dosage-Drug Arg1:T99 Arg2:T95
+R60	Dosage-Drug Arg1:T99 Arg2:T96
+T100	Form 8627 8633	Tablet
+R61	Form-Drug Arg1:T100 Arg2:T95
+R62	Form-Drug Arg1:T100 Arg2:T96
+T101	Route 8634 8636	PO
+R63	Route-Drug Arg1:T101 Arg2:T95
+R64	Route-Drug Arg1:T101 Arg2:T96
+T102	Frequency 8637 8647	once a day
+R65	Frequency-Drug Arg1:T102 Arg2:T95
+R66	Frequency-Drug Arg1:T102 Arg2:T96
+T103	Drug 8652 8665	levothyroxine
+T104	Strength 8666 8672	75 mcg
+R67	Strength-Drug Arg1:T104 Arg2:T103
+T105	Form 8673 8679	Tablet
+R68	Form-Drug Arg1:T105 Arg2:T103
+T106	Dosage 8685 8692	One (1)
+R69	Dosage-Drug Arg1:T106 Arg2:T103
+T107	Form 8693 8699	Tablet
+R70	Form-Drug Arg1:T107 Arg2:T103
+T108	Route 8700 8702	PO
+R71	Route-Drug Arg1:T108 Arg2:T103
+T109	Frequency 8703 8708	DAILY
+R72	Frequency-Drug Arg1:T109 Arg2:T103
+T110	Drug 8721 8736	docusate sodium
+T111	Strength 8737 8743	100 mg
+R73	Strength-Drug Arg1:T111 Arg2:T110
+T112	Form 8744 8751	Capsule
+R74	Form-Drug Arg1:T112 Arg2:T110
+T113	Reason 875 896	superficial phlebitis
+R75	Reason-Drug Arg1:T113 Arg2:T84
+T114	Dosage 8757 8764	One (1)
+R76	Dosage-Drug Arg1:T114 Arg2:T110
+T115	Form 8765 8772	Capsule
+R77	Form-Drug Arg1:T115 Arg2:T110
+T116	Route 8773 8775	PO
+R78	Route-Drug Arg1:T116 Arg2:T110
+T117	Frequency 8776 8779	BID
+R79	Frequency-Drug Arg1:T117 Arg2:T110
+T118	Drug 8800 8809	vitamin E
+T119	Strength 8810 8818	400 unit
+R80	Strength-Drug Arg1:T119 Arg2:T118
+T120	Form 8819 8825	Tablet
+R81	Form-Drug Arg1:T120 Arg2:T118
+T121	Dosage 8831 8838	One (1)
+R82	Dosage-Drug Arg1:T121 Arg2:T118
+T122	Form 8839 8845	Tablet
+R83	Form-Drug Arg1:T122 Arg2:T118
+T123	Route 8846 8848	PO
+R84	Route-Drug Arg1:T123 Arg2:T118
+T124	Frequency 8849 8859	once a day
+R85	Frequency-Drug Arg1:T124 Arg2:T118
+T125	Drug 9001 9010	PHENYTOIN
+T126	Drug 9016 9026	CEPHALEXIN
+T127	ADE 9375 9379	rash
+T128	ADE 9384 9402	low blood pressure
+T129	Route 9426 9437	intravenous
+R86	Route-Drug Arg1:T129 Arg2:T130
+R87	Route-Drug Arg1:T129 Arg2:T131
+T130	Drug 9438 9444	fluids
+T131	Drug 9449 9457	steroids
+T132	ADE 9538 9546	reaction
+R88	ADE-Drug Arg1:T132 Arg2:T134
+R89	ADE-Drug Arg1:T132 Arg2:T135
+R90	ADE-Drug Arg1:T132 Arg2:T136
+R91	ADE-Drug Arg1:T132 Arg2:T137
+T133	ADE 9550 9557	allergy
+R92	ADE-Drug Arg1:T133 Arg2:T134
+R93	ADE-Drug Arg1:T133 Arg2:T135
+R94	ADE-Drug Arg1:T133 Arg2:T136
+R95	ADE-Drug Arg1:T133 Arg2:T137
+T134	Drug 9596 9604	Dilantin
+T135	Drug 9606 9615	phenytoin
+T136	Drug 9620 9626	Keflex
+T137	Drug 9628 9638	cephalexin
+T138	Drug 9749 9757	Dilantin
+T139	Drug 9765 9771	Keflex
+T140	Drug 9774 9783	Amlodipin
+R96	ADE-Drug Arg1:T127 Arg2:T134	
+R97	ADE-Drug Arg1:T128 Arg2:T134	
+T7	Route 1728 1730	IV
+R4	Route-Drug Arg1:T7 Arg2:T8	
+T19	Route 5768 5770	IV
+R7	Route-Drug Arg1:T19 Arg2:T25	

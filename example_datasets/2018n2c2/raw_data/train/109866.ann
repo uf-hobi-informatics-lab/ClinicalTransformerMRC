@@ -1,0 +1,159 @@
+T2	Strength 8526 8530	5 mg
+T3	Form 8552 8559	Capsule
+T4	Frequency 8563 8569;8570 8573	once a day
+T5	Route 8560 8562	PO
+T6	Drug 8517 8524;8524 8525	ramipri l
+T7	Drug 8135 8143	ramipril
+T8	Drug 8460 8465	Lasix
+T9	Strength 8466 8471	40 mg
+T10	Form 8492 8498	Tablet
+T11	Frequency 8502 8508;8509 8512	once a day
+T12	Route 8499 8501	PO
+T13	Drug 8578 8587;8588 8591	diltiazem HCl
+T14	Strength 8592 8597	30 mg
+T15	Form 8618 8624	Tablet
+T16	Route 8625 8627	PO
+T17	Drug 8912 8919	aspirin
+T18	Strength 8920 8925	81 mg
+T19	Form 8956 8962;8962 8972	Tablet , Chewable
+T20	Frequency 8976 8982;8983 8986	once a day
+T21	Route 8973 8975	PO
+T22	Drug 8148 8158	lovastatin
+T23	Drug 1558 1563	zosyn
+T24	Drug 8164 8169	lasix
+T25	Drug 8672 8685	acetaminophen
+T26	Strength 8686 8692	325 mg
+T27	Form 8713 8719	Tablet
+T28	Route 8720 8722	PO
+T29	Drug 5860 5866	Ativan
+T30	Drug 6250 6256	Ativan
+T31	Drug 8747 8753	Colace
+T32	Strength 8754 8760	100 mg
+T33	Form 8782 8789	Capsule
+T34	Frequency 8793 8800;8801 8804	twice a day
+T35	Route 8790 8792	PO
+T36	Drug 8349 8356;8357 8366	heparin (porcine)
+T37	Strength 8367 8377;8377 8380	5,000 unit /mL
+T38	Frequency 8441 8450;8451 8454	2 times a day
+T39	Route 8413 8422	Injection
+T40	Drug 8116 8125;8126 8128	diltiazem ER
+T41	Drug 8186 8194	celebrex
+T42	Reason 8329 8344	hemorrhoid pain
+T43	Reason 8895 8907	constipation
+T44	Drug 1568 1576	Protonix
+T45	Strength 1577 1579	40
+T46	Drug 5701 5707	fluids
+T47	Reason 5898 5919	to reduce his anxiety
+T48	ADE 6211 6220	confusion
+T49	Drug 7058 7065	Tylenol
+T50	Reason 7033 7037	pain
+T51	Strength 8129 8132	360
+T52	Strength 8144 8145	5
+T53	Strength 8159 8161	40
+T54	Strength 8170 8172	40
+T55	Drug 8175 8178	asa
+T56	Strength 8179 8181	81
+T57	Drug 8239 8253	hydrocortisone
+T58	Strength 8254 8259	2.5 %
+T59	Form 8260 8265	Cream
+T60	Dosage 8271 8278	One (1)
+T61	Form 8279 8283	Appl
+T62	Route 8284 8290	Rectal
+T63	Frequency 8308 8311;8312 8324	PRN () as needed
+T64	Form 8381 8389	Solution
+T65	Dosage 8395 8406;8407 8412	5000 (5000) units
+T66	Form 8472 8478	Tablet
+T67	Dosage 8484 8491	One (1)
+T68	Form 8531 8538	Capsule
+T69	Dosage 8544 8551	One (1)
+T70	Form 8598 8604	Tablet
+T71	Dosage 8610 8617	One (1)
+T72	Frequency 8628 8634;8635 8647	QID (4 times a day)
+T73	Form 8693 8699	Tablet
+T74	Dosage 8705 8712	Two (2)
+T75	Frequency 8723 8729;8730 8742	TID (3 times a day)
+T76	Form 8761 8768	Capsule
+T77	Dosage 8774 8781	One (1)
+T78	Drug 8809 8825	Milk of Magnesia
+T79	Strength 8826 8837	400 mg/5 mL
+T80	Form 8838 8848	Suspension
+T81	Dosage 8854 8866	Two (2) tbsp
+T82	Route 8867 8869	PO
+T83	Frequency 8870 8890	at bedtime as needed
+T84	Form 8926 8942	Tablet, Chewable
+T85	Dosage 8948 8955	One (1)
+R1	Strength-Drug Arg1:T2 Arg2:T6
+R2	Form-Drug Arg1:T3 Arg2:T6
+R3	Frequency-Drug Arg1:T4 Arg2:T6
+R4	Route-Drug Arg1:T5 Arg2:T6
+R5	Strength-Drug Arg1:T9 Arg2:T8
+R6	Form-Drug Arg1:T10 Arg2:T8
+R7	Frequency-Drug Arg1:T11 Arg2:T8
+R8	Route-Drug Arg1:T12 Arg2:T8
+R9	Strength-Drug Arg1:T14 Arg2:T13
+R10	Form-Drug Arg1:T15 Arg2:T13
+R11	Route-Drug Arg1:T16 Arg2:T13
+R12	Strength-Drug Arg1:T18 Arg2:T17
+R13	Form-Drug Arg1:T19 Arg2:T17
+R14	Frequency-Drug Arg1:T20 Arg2:T17
+R15	Route-Drug Arg1:T21 Arg2:T17
+R16	Strength-Drug Arg1:T26 Arg2:T25
+R17	Form-Drug Arg1:T27 Arg2:T25
+R18	Route-Drug Arg1:T28 Arg2:T25
+R19	Strength-Drug Arg1:T32 Arg2:T31
+R20	Form-Drug Arg1:T33 Arg2:T31
+R21	Frequency-Drug Arg1:T34 Arg2:T31
+R22	Route-Drug Arg1:T35 Arg2:T31
+R23	Strength-Drug Arg1:T37 Arg2:T36
+R24	Frequency-Drug Arg1:T38 Arg2:T36
+R25	Route-Drug Arg1:T39 Arg2:T36
+R26	Strength-Drug Arg1:T45 Arg2:T44
+R28	Reason-Drug Arg1:T47 Arg2:T29
+R29	ADE-Drug Arg1:T48 Arg2:T30
+R30	Reason-Drug Arg1:T50 Arg2:T49
+R31	Strength-Drug Arg1:T56 Arg2:T55
+R32	Strength-Drug Arg1:T54 Arg2:T24
+R33	Strength-Drug Arg1:T53 Arg2:T22
+R34	Strength-Drug Arg1:T52 Arg2:T7
+R35	Strength-Drug Arg1:T51 Arg2:T40
+R36	Reason-Drug Arg1:T42 Arg2:T57
+R37	Frequency-Drug Arg1:T63 Arg2:T57
+R38	Route-Drug Arg1:T62 Arg2:T57
+R39	Dosage-Drug Arg1:T60 Arg2:T57
+R40	Form-Drug Arg1:T61 Arg2:T57
+R41	Form-Drug Arg1:T59 Arg2:T57
+R42	Strength-Drug Arg1:T58 Arg2:T57
+R43	Dosage-Drug Arg1:T65 Arg2:T36
+R44	Form-Drug Arg1:T64 Arg2:T36
+R45	Dosage-Drug Arg1:T67 Arg2:T8
+R46	Form-Drug Arg1:T66 Arg2:T8
+R47	Dosage-Drug Arg1:T69 Arg2:T6
+R48	Form-Drug Arg1:T68 Arg2:T6
+R49	Frequency-Drug Arg1:T72 Arg2:T13
+R50	Dosage-Drug Arg1:T71 Arg2:T13
+R51	Form-Drug Arg1:T70 Arg2:T13
+R52	Frequency-Drug Arg1:T75 Arg2:T25
+R53	Dosage-Drug Arg1:T74 Arg2:T25
+R54	Form-Drug Arg1:T73 Arg2:T25
+R55	Dosage-Drug Arg1:T77 Arg2:T31
+R56	Form-Drug Arg1:T76 Arg2:T31
+R57	Reason-Drug Arg1:T43 Arg2:T78
+R58	Frequency-Drug Arg1:T83 Arg2:T78
+R59	Route-Drug Arg1:T82 Arg2:T78
+R60	Dosage-Drug Arg1:T81 Arg2:T78
+R61	Form-Drug Arg1:T80 Arg2:T78
+R62	Strength-Drug Arg1:T79 Arg2:T78
+R63	Dosage-Drug Arg1:T85 Arg2:T17
+R64	Form-Drug Arg1:T84 Arg2:T17
+T86	Drug 9653 9667	stool softners
+T87	Drug 9673 9682	narcotics
+T88	Drug 9708 9717	narcotics
+T89	Reason 1523 1535;1536 1544	organo-axial volvulus
+T90	ADE 5828 5837	delirious
+R65	Reason-Drug Arg1:T89 Arg2:T23	
+R66	Reason-Drug Arg1:T89 Arg2:T44	
+R67	ADE-Drug Arg1:T90 Arg2:T29	
+T1	Route 5698 5700	IV
+R27	Route-Drug Arg1:T1 Arg2:T46	
+T91	ADE 6225 6233	delirium
+R68	ADE-Drug Arg1:T91 Arg2:T30	

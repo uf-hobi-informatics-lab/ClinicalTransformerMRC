@@ -1,0 +1,243 @@
+T1	Drug 10048 10056;10057 10065	Docusate (Colace)
+T2	Drug 8516 8529	hydromorphone
+T3	Strength 8530 8534	4 mg
+T4	Form 8551 8558	Tablets
+T5	Dosage 8547 8550	1-2
+T6	Route 8559 8561	PO
+T7	Drug 7752 7765	amitriptyline
+T8	Strength 7766 7771	10 mg
+T9	Form 7792 7798	Tablet
+T10	Route 7799 7801	PO
+T11	Drug 10466 10474	Prilosec
+T12	Strength 7963 7968	20 mg
+T13	Form 7989 7995	Tablet
+T14	Route 7996 7998	PO
+T15	Drug 7952 7961;7961 7962	famotidin e
+T16	Drug 8412 8427;8428 8431	diphenhydramine HCl
+T17	Strength 8432 8437	25 mg
+T18	Form 8459 8466	Capsule
+T19	Route 8467 8469	PO
+T20	Drug 7854 7867	acetaminophen
+T21	Strength 7868 7874	325 mg
+T22	Form 7895 7901	Tablet
+T23	Route 7902 7904	PO
+T24	Drug 10196 10202	Motrin
+T25	Drug 7598 7611	amitriptyline
+T26	Drug 10213 10218	Advil
+T27	Drug 7644 7657	levetiracetam
+T28	Strength 7658 7664	500 mg
+T29	Form 7665 7671	Tablet
+T30	Drug 8741 8754	dexamethasone
+T31	Strength 8755 8761	1.5 mg
+T32	Form 8782 8788	Tablet
+T33	Frequency 8792 8794	Q8
+T34	Route 8789 8791	PO
+T35	Drug 10278 10284;10285 10300	Keppra (Levetiracetam)
+T36	Strength 8176 8180	5 mg
+T37	Form 8201 8207	Tablet
+T38	Route 8208 8210	PO
+T39	Drug 8167 8174;8174 8175	diazepa m
+T40	Drug 9052 9060	Dulcolax
+T41	Strength 9061 9066	10 mg
+T42	Form 9067 9078	Suppository
+T43	Drug 10204 10211	Aspirin
+T44	Drug 170 178;179 186	Morphine Sulfate
+T45	Drug 8295 8304	oxycodone
+T46	Strength 8305 8309	5 mg
+T47	Form 8326 8333	Tablets
+T48	Dosage 8322 8325	1-2
+T49	Route 8334 8336	PO
+T50	Drug 10476 10484	Protonix
+T51	Drug 189 197	Dilaudid
+T52	Drug 10224 10233	Ibuprofen
+T53	Drug 8949 8962	dexamethasone
+T54	Strength 8963 8967	1 mg
+T55	Form 8988 8994	Tablet
+T56	Frequency 8998 9000	Q8
+T57	Route 8995 8997	PO
+T58	Drug 8055 8063;8064 8070	docusate sodium
+T59	Strength 8071 8077	100 mg
+T60	Form 8099 8106	Capsule
+T61	Route 8107 8109	PO
+T62	Drug 10489 10495	Pepcid
+T63	Strength 8652 8656	4 mg
+T64	Form 8677 8683	Tablet
+T65	Frequency 8687 8689	Q8
+T66	Route 8684 8686	PO
+T67	Drug 8638 8650;8650 8651	dexamethason e
+T68	Strength 8860 8864	2 mg
+T69	Form 8885 8891	Tablet
+T70	Frequency 8895 8897	Q8
+T71	Route 8892 8894	PO
+T72	Drug 8846 8858;8858 8859	dexamethason e
+T73	Reason 7939 7947	headache
+T74	Reason 8371 8375	pain
+T75	Reason 8504 8511	itching
+T76	Reason 8596 8600	pain
+T77	Reason 9125 9137	constipation
+T78	ADE 9960 9972	constipation
+T79	Drug 7613 7616	OCP
+T80	Dosage 7677 7684	Two (2)
+T81	Form 7685 7691	Tablet
+T82	Route 7692 7694	PO
+T83	Frequency 7695 7701;7702 7714	BID (2 times a day)
+T84	Form 7772 7778	Tablet
+T85	Dosage 7784 7791	One (1)
+T86	Frequency 7802 7808;7809 7817	HS (at bedtime)
+T87	Form 7875 7881	Tablet
+T88	Dosage 7887 7894	Two (2)
+T89	Frequency 7905 7915;7916 7934	Q6H (every 6 hours) as needed
+T90	Form 7969 7975	Tablet
+T91	Dosage 7981 7988	One (1)
+T92	Frequency 7999 8013;8014 8018	BID (2 times a day)
+T93	Form 8078 8085	Capsule
+T94	Dosage 8091 8098	One (1)
+T95	Frequency 8110 8116;8117 8129	BID (2 times a day)
+T96	Form 8181 8187	Tablet
+T97	Dosage 8193 8200	One (1)
+T98	Frequency 8211 8223;8224 8240	Q6H (every 6 hours) as needed
+T99	Reason 8245 8252	anxiety
+T100	Form 8310 8316	Tablet
+T101	Frequency 8337 8356;8357 8366	Q3H (every 3 hours) as needed
+T102	Form 8438 8445	Capsule
+T103	Dosage 8451 8458	One (1)
+T104	Frequency 8470 8473;8474 8499	Q6H (every 6 hours) as needed
+T105	Form 8535 8541	Tablet
+T106	Frequency 8562 8574;8575 8591	Q4H (every 4 hours) as needed
+T107	Form 8657 8663	Tablet
+T108	Dosage 8669 8676	One (1)
+T109	Duration 8693 8698;8699 8703	for 2 days
+T110	Form 8762 8768	Tablet
+T111	Dosage 8774 8781	Two (2)
+T112	Duration 8798 8801;8802 8808	for 2 days
+T113	Form 8865 8871	Tablet
+T114	Dosage 8877 8884	One (1)
+T115	Duration 8901 8906;8907 8911	for 2 days
+T116	Form 8968 8974	Tablet
+T117	Dosage 8980 8987	One (1)
+T118	Frequency 9004 9009;9010 9014	for 2 days
+T119	Dosage 9084 9091	One (1)
+T120	Route 9093 9099	Rectal
+T121	Frequency 9100 9110;9111 9120	once a day as needed
+T122	Drug 10383 10390	steroid
+T123	Drug 10573 10580	steroid
+T124	ADE 10529 10536;10537 10547	stomach irritation
+T125	Dosage 7479 7486	50cc/hr
+T126	Drug 7490 7493	IVF
+R1	Strength-Drug Arg1:T3 Arg2:T2
+R2	Form-Drug Arg1:T4 Arg2:T2
+R3	Dosage-Drug Arg1:T5 Arg2:T2
+R4	Route-Drug Arg1:T6 Arg2:T2
+R5	Strength-Drug Arg1:T8 Arg2:T7
+R6	Form-Drug Arg1:T9 Arg2:T7
+R7	Route-Drug Arg1:T10 Arg2:T7
+R8	Strength-Drug Arg1:T12 Arg2:T15
+R9	Form-Drug Arg1:T13 Arg2:T15
+R10	Route-Drug Arg1:T14 Arg2:T15
+R11	Strength-Drug Arg1:T17 Arg2:T16
+R12	Form-Drug Arg1:T18 Arg2:T16
+R13	Route-Drug Arg1:T19 Arg2:T16
+R14	Strength-Drug Arg1:T21 Arg2:T20
+R15	Form-Drug Arg1:T22 Arg2:T20
+R16	Route-Drug Arg1:T23 Arg2:T20
+R17	Strength-Drug Arg1:T28 Arg2:T27
+R18	Form-Drug Arg1:T29 Arg2:T27
+R19	Strength-Drug Arg1:T31 Arg2:T30
+R20	Form-Drug Arg1:T32 Arg2:T30
+R21	Frequency-Drug Arg1:T33 Arg2:T30
+R22	Route-Drug Arg1:T34 Arg2:T30
+R23	Strength-Drug Arg1:T36 Arg2:T39
+R24	Form-Drug Arg1:T37 Arg2:T39
+R25	Route-Drug Arg1:T38 Arg2:T39
+R26	Strength-Drug Arg1:T41 Arg2:T40
+R27	Form-Drug Arg1:T42 Arg2:T40
+R28	Strength-Drug Arg1:T46 Arg2:T45
+R29	Form-Drug Arg1:T47 Arg2:T45
+R30	Dosage-Drug Arg1:T48 Arg2:T45
+R31	Route-Drug Arg1:T49 Arg2:T45
+R32	Strength-Drug Arg1:T54 Arg2:T53
+R33	Form-Drug Arg1:T55 Arg2:T53
+R34	Frequency-Drug Arg1:T56 Arg2:T53
+R35	Route-Drug Arg1:T57 Arg2:T53
+R36	Strength-Drug Arg1:T59 Arg2:T58
+R37	Form-Drug Arg1:T60 Arg2:T58
+R38	Route-Drug Arg1:T61 Arg2:T58
+R39	Strength-Drug Arg1:T63 Arg2:T67
+R40	Form-Drug Arg1:T64 Arg2:T67
+R41	Frequency-Drug Arg1:T65 Arg2:T67
+R42	Route-Drug Arg1:T66 Arg2:T67
+R43	Strength-Drug Arg1:T68 Arg2:T72
+R44	Form-Drug Arg1:T69 Arg2:T72
+R45	Frequency-Drug Arg1:T70 Arg2:T72
+R46	Route-Drug Arg1:T71 Arg2:T72
+R47	Frequency-Drug Arg1:T83 Arg2:T27
+R48	Route-Drug Arg1:T82 Arg2:T27
+R49	Form-Drug Arg1:T81 Arg2:T27
+R50	Dosage-Drug Arg1:T80 Arg2:T27
+R51	Frequency-Drug Arg1:T86 Arg2:T7
+R52	Dosage-Drug Arg1:T85 Arg2:T7
+R53	Form-Drug Arg1:T84 Arg2:T7
+R54	Reason-Drug Arg1:T73 Arg2:T20
+R55	Frequency-Drug Arg1:T89 Arg2:T20
+R56	Dosage-Drug Arg1:T88 Arg2:T20
+R57	Form-Drug Arg1:T87 Arg2:T20
+R58	Frequency-Drug Arg1:T92 Arg2:T15
+R59	Dosage-Drug Arg1:T91 Arg2:T15
+R60	Form-Drug Arg1:T90 Arg2:T15
+R61	Frequency-Drug Arg1:T95 Arg2:T58
+R62	Dosage-Drug Arg1:T94 Arg2:T58
+R63	Form-Drug Arg1:T93 Arg2:T58
+R64	Reason-Drug Arg1:T99 Arg2:T39
+R65	Frequency-Drug Arg1:T98 Arg2:T39
+R66	Dosage-Drug Arg1:T97 Arg2:T39
+R67	Form-Drug Arg1:T96 Arg2:T39
+R68	Reason-Drug Arg1:T74 Arg2:T45
+R69	Frequency-Drug Arg1:T101 Arg2:T45
+R70	Form-Drug Arg1:T100 Arg2:T45
+R71	Reason-Drug Arg1:T75 Arg2:T16
+R72	Frequency-Drug Arg1:T104 Arg2:T16
+R73	Dosage-Drug Arg1:T103 Arg2:T16
+R74	Form-Drug Arg1:T102 Arg2:T16
+R75	Reason-Drug Arg1:T76 Arg2:T2
+R76	Frequency-Drug Arg1:T106 Arg2:T2
+R77	Duration-Drug Arg1:T109 Arg2:T67
+R78	Dosage-Drug Arg1:T108 Arg2:T67
+R79	Form-Drug Arg1:T107 Arg2:T67
+R80	Duration-Drug Arg1:T112 Arg2:T30
+R81	Dosage-Drug Arg1:T111 Arg2:T30
+R82	Form-Drug Arg1:T110 Arg2:T30
+R83	Duration-Drug Arg1:T115 Arg2:T72
+R84	Dosage-Drug Arg1:T114 Arg2:T72
+R85	Form-Drug Arg1:T113 Arg2:T72
+R86	Frequency-Drug Arg1:T118 Arg2:T53
+R87	Dosage-Drug Arg1:T117 Arg2:T53
+R88	Form-Drug Arg1:T116 Arg2:T53
+R89	Reason-Drug Arg1:T77 Arg2:T40
+R90	Frequency-Drug Arg1:T121 Arg2:T40
+R91	Route-Drug Arg1:T120 Arg2:T40
+R92	Dosage-Drug Arg1:T119 Arg2:T40
+R93	Dosage-Drug Arg1:T125 Arg2:T126
+T127	Route 7154 7156	PO
+T128	Drug 7157 7166	pain meds
+T130	Reason 7179 7191	breakthourgh
+T131	Drug 7217 7232	pain medication
+T133	Drug 9505 9518	pain medicine
+T134	Drug 9927 9940;9941 9949	narcotic pain medicine
+T135	Drug 10024 10038	stool softener
+T136	Drug 10079 10103	narcotic pain medication
+T137	Drug 10160 10187	anti-inflammatory medicines
+R95	Route-Drug Arg1:T127 Arg2:T128
+R96	Reason-Drug Arg1:T130 Arg2:T128
+R98	Form-Drug Arg1:T105 Arg2:T2	
+R99	ADE-Drug Arg1:T78 Arg2:T134	
+R100	ADE-Drug Arg1:T124 Arg2:T122	
+T138	Reason 10529 10536;10537 10547	stomach irritation
+R101	Reason-Drug Arg1:T138 Arg2:T62	
+R102	Reason-Drug Arg1:T138 Arg2:T50	
+R103	Reason-Drug Arg1:T138 Arg2:T11	
+T129	Route 7172 7174	IV
+R94	Route-Drug Arg1:T129 Arg2:T128	
+T132	Route 7214 7216	IV
+R97	Route-Drug Arg1:T132 Arg2:T131	
+T139	Reason 8253 8258	spasm
+R104	Reason-Drug Arg1:T139 Arg2:T39	

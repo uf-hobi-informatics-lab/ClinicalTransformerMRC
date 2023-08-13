@@ -1,0 +1,320 @@
+Admission Date:  [**2185-5-23**]              Discharge Date:   [**2185-6-8**]
+
+
+Service: MEDICINE
+
+Allergies:
+Flagyl
+
+Attending:[**First Name3 (LF) 1253**]
+Chief Complaint:
+pneumonia, tachycardia
+
+Major Surgical or Invasive Procedure:
+PICC placement
+
+History of Present Illness:
+Ms. [**Known lastname 7756**] is a [**Age over 90 **] year-old woman with dementia and benign
+meningioma, presenting from [**Hospital3 2558**] with increased
+productive cough, SOB and tachycardia. Patient has had one week
+of increasing productive cough. She denies any chest pain,
+nausea, vomiting. She is unable to provide further history about
+her symptoms.
+.
+Of note, she was admitted from [**Date range (1) 108390**] for sinus
+tachycardia and chronic cough. She was again admitted from
+[**Date range (1) 33900**] for a rash that was determined to be from
+metronidazole, which she was taking for Clostridium difficile
+colitis, upon which she was placed on PO vancomycin, which she
+was to take until [**2185-5-7**].
+.
+In the ED, initial vs were: T 100 P 150 BP 140/84 R 20 Sat 98%
+2L. Patient was noted to have wheezing on exam with crackles at
+bases R>L. She was also noted to have diffuse rash on torso,
+legs, and arms, documented to be from Flagyl at [**Hospital3 2558**].
+CXR was concerning for RLL pneumonia, so she was given a dose of
+Vancomycin and levofloxacin IV. She was also noted to have UTI.
+She was given 1g of tylenol for fever. HRs improved briefly to
+90s with brief conversion to NSR after IVF bolus, then converted
+back to Afib with rates in 150s. She received a total of 1.5L of
+IVFs in the ED. For ventricular rates intermittently in 150s,
+she was then given 5mg IV lopressor which decreased HR to
+110s-130s. Patient has a signed DNR form in her [**Hospital3 2558**]
+records. She had also complained of some abdominal discomfort in
+the ED, but on exam, she was easily distracted with no signs of
+tenderness. Vitals in ED prior to transfer were as follows: HR
+98 BP 115/61 RR 28 O2sat 99% 2L.
+.
+On arrival to the MICU, patient appears comfortable and states
+that her cough is much better. She complains of no chest pain or
+dyspnea. She has no noted pain.
+.
+Review of sytems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats. Denies headache, sinus
+tenderness. Denied chest pain or tightness, palpitations. Denied
+nausea, vomiting, diarrhea, constipation or abdominal pain. No
+recent change in bowel or bladder habits. No dysuria. Denied
+arthralgias or myalgias.
+.
+
+
+Past Medical History:
+-HTN
+-CKD III/IV
+-Dementia baseline A&O X 1
+-h/o SVT (usually post op or during stress)
+-h/o UTI (pansensitive E.Coli)
+-Dysphagia
+-Benign cerebellopontine angle meningioma.
+-History of diverticulitis.
+-Osteoporosis, s/p L hip fx s/p ORIF [**8-22**], vertebral compression
+fractures (L2/L3)
+-Depression w/ psychosis
+-Colonic polyps, s/p partial colorectal resection [**2167**], for
+sessile polyp.  Postoperative course c/b SVT
+-s/p thyroid surgery - details unknown
+-EGD [**11/2174**], with gastritis, (+)  H. pylori.
+-Colonoscopy [**11/2174**], adenomatous polyp resection.
+-Status post C3 through C7 laminectomy.
+-Glaucoma
+- recent admission for pancreatitis [**4-25**]
+- recent episode of Cdiff [**4-25**]
+
+Social History:
+She lives at [**Hospital3 2558**]. Has no surviving family. HCP is
+friend, [**Name (NI) **] [**Name (NI) 108388**] [**Telephone/Fax (1) 108389**].
+
+At baseline is not that ambulatory (not at all per pt, minimally
+so with assistance per [**Location (un) **]) since hip fracture.
+
+
+Family History:
+Not relevant to current presentation. Patient also not able to
+provide.
+
+Physical Exam:
+Vitals: T: 96.6 BP: 114/64 P: 69 R: 27 O2: 97%RA
+General: Alert, oriented x 3, no acute distress, cooperative
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: rhonchorous sounds present at the right base > left base,
+presence of upper airway sounds, no accessory muscle use, no
+wheezes
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Skin: exfoliative, erythematous rash on arms, legs and torso
+
+
+Pertinent Results:
+CT Chest w/o Contrast: [**2185-5-31**]
+1. Bilateral nonhemorrhagic pleural effusions, with associated
+dependent
+atelectasis, including left lower lobe collapse, with additional
+atelectasis seen dependently in the right middle lobe. There is
+associated opacification of the left lower lobe bronchi, which
+may reflect mucus plugging or aspiration. In the aerated lung
+parenchyma, there are no focal opacities to suggest pneumonia.
+2. Redemonstration of left apical lung mass, suboptimally
+evaluated due to
+respiratory motion, though little change from [**2184-5-21**].
+3. Aortic valvular calcifications, with mild ectasia of the
+ascending aorta.
+4. Atrophy of the left kidney, with configuration suggesting
+chronic left UPJ obstruction.
+5. Moderately severe biapical pleural scarring.
+.
+CT Abdomen/Pelvis: [**2185-5-30**]
+1. Bibasilar and right middle lobe atelectasis with small
+bilateral pleural
+effusions, new since prior imaging.
+2. Resolution of the previously described pancreatitis of the
+tail with a
+stable 16-mm hypodense lesion which may represent either a
+pseudocyst or other pancreatic cystic lesion, for example IPMN.
+This could be further evaluated with MRCP.
+3. Unchanged multiple fat-containing anterior abdominal wall
+hernias. One
+midline hernia now contains a loop of transverse colon but no
+evidence for
+proximal obstruction.
+4. No intra-abdominal collection to account for elevated white
+cell count.
+.
+[**2185-5-30**] RUE U/S: No evidence of right upper extremity DVT.
+.
+Microbiology:
+UCx [**2185-5-23**] with E.coli; all blood cultures negative; repeat
+urine culture negative; C.difficile negative x 2
+.
+**PENDING**
+C-diff PCR remains pending at this time.  [**Month (only) 116**] discontinue oral
+vancomycin if returns negative.  Note that pt has allergy to
+flagyl.
+.
+[**2185-5-23**] 07:00PM BLOOD WBC-7.8 RBC-3.58* Hgb-11.8* Hct-33.8*
+MCV-95 MCH-33.1* MCHC-35.0# RDW-15.0 Plt Ct-163
+[**2185-5-25**] 01:00PM BLOOD WBC-20.4*# RBC-3.42* Hgb-10.7* Hct-33.5*
+MCV-98 MCH-31.2 MCHC-31.8 RDW-15.2 Plt Ct-198
+[**2185-6-6**] 08:00AM BLOOD WBC-10.3 RBC-3.33* Hgb-10.4* Hct-32.2*
+MCV-97 MCH-31.2 MCHC-32.2 RDW-15.7* Plt Ct-115*
+[**2185-5-24**] 03:44AM BLOOD Glucose-159* UreaN-26* Creat-1.4* Na-142
+K-4.6 Cl-109* HCO3-19* AnGap-19
+[**2185-5-27**] 06:00AM BLOOD Glucose-101* UreaN-46* Creat-2.4* Na-143
+K-4.7 Cl-109* HCO3-22 AnGap-17
+[**2185-6-6**] 08:00AM BLOOD Glucose-83 UreaN-19 Creat-1.9* Na-142
+K-3.8 Cl-109* HCO3-21* AnGap-16
+[**2185-5-30**] 04:47AM BLOOD ALT-11 AST-13 AlkPhos-96 TotBili-0.4
+[**2185-6-6**] 08:00AM BLOOD Calcium-7.4* Phos-3.6 Mg-1.5*
+[**2185-5-23**] 07:00PM BLOOD cTropnT-0.02*
+[**2185-5-24**] 03:44AM BLOOD TSH-1.5
+
+Brief Hospital Course:
+HEALTH CARE ASSOCIATED PNEUMONIA: Treated with vancomycin and
+cefepime x 8 day total course.
+
+ATRIAL FIBRILLATION WITH RAPID VENTRICULAR RATE: Treated with
+dilatiazem and metoprolol.  Discharge regimen was metoprolol
+12.5mg po bid and diltiazem 60 mg po QID. Diltiazem may be
+converted to Diltiazem XR 240 mg po q day as an outpatient.
+Heart rates well-controlled when patient takes medications as
+scheduled.
+
+ACUTE ON CHRONIC KIDNEY FAILURE: Treated with IVF and improved
+to 2.1-2.2 at time of discharge.
+
+C DIFF COLITIS: Recent c diff 1 month ago.  The patient was
+treated in the last month with flagyl and developed a rash, at
+which time she was transitioned to PO vancomycin, which she
+completed prior to this admission.  While on broad spectrum
+antibiotics for HCAP above she developed a leukocytosis of 20
+from 5 so she was started empirically on vancomycin oral 125mg
+po q6hrs and should continue this for after she is finished with
+her antibiotics for aspiration pneumonia (See below).
+
+Aspiration: Patient noted to be frankly aspirating on [**2185-5-28**].
+She was made NPO and was seen in evaluation by speech and
+swallow. She had evidence of continued aspiration on three
+subsequent evaluations, attributed to delirium and weakness from
+prolonged hospitalization and multiple infections. In the
+setting of her aspiration, elevated WBC, and findings on chest
+CT she was started on an eight day course of
+Piperacillin/Tazobactam for presumed aspiration pneumonia. In
+discussion with her health care proxy it was decided that
+parenteral nutrition or placement of a G-tube would not be in
+keeping with her goals of care, and she was allowed to eat to
+her comfort and desire. She was followed closely by both Speech
+and Swallow and Nutrition.
+
+Hypernatremia: While NPO for aspiration as above patient became
+hypernatremic. She was treated for two days with D5W and her
+sodium normalized.
+
+Medications on Admission:
+brimonidine Dosage uncertain [**2184-11-12**]
+clobetasol 0.05 % Ointment apply [**Hospital1 **] x 5 days then QOD x 1 wk
+[**2185-5-6**]
+latanoprost [Xalatan] Dosage uncertain [**2184-11-12**]
+levothyroxine Dosage uncertain [**2184-11-12**]
+metoprolol tartrate Dosage uncertain [**2184-11-12**]
+mirtazapine Dosage uncertain [**2184-11-12**]
+mupirocin 2 % Ointment Apply to wound daily  [**2185-1-4**]
+omeprazole Dosage uncertain [**2184-11-12**]
+timolol maleate Dosage uncertain [**2184-11-12**]
+triamcinolone acetonide 0.1% Oint apply [**Hospital1 **] on days not using
+clobetasol [**2185-5-6**]
+
+    * OTCs *
+acetaminophen Dosage uncertain
+alum-mag hydroxide-simeth [Mylanta] Dosage uncertain
+aspirin Dosage uncertain
+bisacodyl [Dulcolax] Dosage uncertain
+calcium carbonate-vitamin D3 [Calcium with Vitamin D] Dosage
+uncertain
+carbamide peroxide [Debrox] Dosage uncertain
+cranberry ext-C-L. sporogenes [Azo Cranberry] Dosage uncertain
+docusate sodium [Colace] Dosage uncertain
+magnesium hydroxide [Milk of Magnesia] Dosage uncertain
+sennosides [Senokot] Dosage uncertain
+sodium phosphates [Fleet Enema]
+
+Discharge Medications:
+1. vancomycin 125 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours): take until [**2185-6-16**].
+2. brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic Q12H
+(every 12 hours).
+3. timolol maleate 0.25 % Drops Sig: One (1) Drop Ophthalmic [**Hospital1 **]
+(2 times a day).
+4. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+5. mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+7. triamcinolone acetonide 0.1 % Ointment Sig: One (1) Appl
+Topical once a day for 5 days: to affected areas (rash) -
+do not use on face, armpit, or groin.
+.
+8. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+9. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+10. heparin (porcine) 5,000 unit/mL Solution Sig: One (1) inj
+Injection TID (3 times a day).
+11. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS
+(at bedtime).
+12. ipratropium bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours): [**Month (only) 116**] wean off or switch to MDI as
+tolerated.
+13. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as
+needed for sob/wheeze.
+14. diltiazem HCl 60 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours).
+15. white petrolatum-mineral oil     Cream Sig: One (1) Appl
+Topical [**Hospital1 **] (2 times a day).
+16. acetaminophen 650 mg/20.3 mL Solution Sig: 1-2 tabs PO Q8H
+(every 8 hours) as needed for pain.
+17. docusate sodium 50 mg/5 mL Liquid Sig: One Hundred (100) mg
+PO BID (2 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 2558**] - [**Location (un) **]
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Health care associated bacterial pneumonia
+Aspiration pneumonia
+Possible C diff colitis
+Atrial fibrillation with rapid ventricular rate
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+You were admitted to the hospital with a fever and found to have
+pneumonia.  You also may have had a recurrance of your C diff
+(colon infection), although this is uncertain.
+
+Please take your medications as prescribed and make your follow
+up appointments.
+
+Followup Instructions:
+Please follow up with your primary care physician [**Name Initial (PRE) 176**] 2 weeks
+of your discharge from the hospital: [**Last Name (LF) **],[**First Name3 (LF) **] [**Telephone/Fax (1) 608**]
+
+
+

@@ -1,0 +1,219 @@
+T1	Drug 2544 2551	heparin
+T2	Drug 3032 3039	heparin
+T3	Drug 3726 3733	heparin
+T4	Drug 3879 3886	heparin
+T5	Form 3887 3890	gtt
+R1	Form-Drug Arg1:T5 Arg2:T4
+T6	Drug 3941 3948	heparin
+T7	Drug 4336 4343	heparin
+T8	Form 4344 4347	gtt
+R2	Form-Drug Arg1:T8 Arg2:T7
+T9	Reason 4509 4523	hallucinations
+R3	Reason-Drug Arg1:T9 Arg2:T10
+T10	Drug 4538 4544	Keppra
+T11	Drug 4979 4985	Keppra
+T12	Drug 5133 5138	tacro
+T13	Strength 5161 5166	1.5mg
+R4	Strength-Drug Arg1:T13 Arg2:T12
+T14	Drug 5209 5219	prednisone
+T15	Strength 5237 5241	15mg
+R5	Strength-Drug Arg1:T15 Arg2:T14
+T16	Frequency 5242 5247	daily
+R6	Frequency-Drug Arg1:T16 Arg2:T14
+T17	Drug 5277 5280	MMF
+T18	Strength 5281 5287	1000mg
+R7	Strength-Drug Arg1:T18 Arg2:T17
+T19	Drug 5306 5314	protonix
+T20	Strength 5315 5319	40mg
+R8	Strength-Drug Arg1:T20 Arg2:T19
+T21	Frequency 5320 5325	daily
+R9	Frequency-Drug Arg1:T21 Arg2:T19
+T22	Drug 5327 5338	fluconazole
+T23	Strength 5339 5344	400mg
+R10	Strength-Drug Arg1:T23 Arg2:T22
+T24	Frequency 5345 5350	daily
+R11	Frequency-Drug Arg1:T24 Arg2:T22
+T25	Drug 5352 5359	valcyte
+T26	Strength 5360 5365	900mg
+R12	Strength-Drug Arg1:T26 Arg2:T25
+T27	Frequency 5366 5371	daily
+R13	Frequency-Drug Arg1:T27 Arg2:T25
+T28	Drug 5373 5379	plavix
+T29	Strength 5380 5384	75mg
+R14	Strength-Drug Arg1:T29 Arg2:T28
+T30	Frequency 5385 5390	daily
+R15	Frequency-Drug Arg1:T30 Arg2:T28
+T31	Drug 5392 5395	ASA
+T32	Strength 5396 5401	325mg
+R16	Strength-Drug Arg1:T32 Arg2:T31
+T33	Frequency 5402 5407	daily
+R17	Frequency-Drug Arg1:T33 Arg2:T31
+T34	Drug 5409 5416;5417 5419	Bactrim SS
+T35	Frequency 5420 5425	daily
+R18	Frequency-Drug Arg1:T35 Arg2:T34
+T36	Drug 5427 5437	metoprolol
+T37	Strength 5438 5442	25mg
+R19	Strength-Drug Arg1:T37 Arg2:T36
+T38	Frequency 5443 5446	tid
+R20	Frequency-Drug Arg1:T38 Arg2:T36
+T39	Drug 5448 5454	colace
+T40	Strength 5455 5460	100mg
+R21	Strength-Drug Arg1:T40 Arg2:T39
+T41	Drug 5479 5489	prednisone
+T42	Strength 5490 5496	17.5mg
+R22	Strength-Drug Arg1:T42 Arg2:T41
+T43	Frequency 5497 5502	daily
+R23	Frequency-Drug Arg1:T43 Arg2:T41
+T44	Drug 5504 5511	prograf
+T45	Strength 5512 5515	2mg
+R24	Strength-Drug Arg1:T45 Arg2:T44
+T46	Drug 5560 5581	Mycophenolate Mofetil
+T47	Strength 5582 5588	500 mg
+R25	Strength-Drug Arg1:T47 Arg2:T46
+T48	Form 5589 5595	Tablet
+R26	Form-Drug Arg1:T48 Arg2:T46
+T49	Dosage 5601 5608	Two (2)
+R27	Dosage-Drug Arg1:T49 Arg2:T46
+T50	Form 5609 5615	Tablet
+R28	Form-Drug Arg1:T50 Arg2:T46
+T51	Route 5616 5618	PO
+R29	Route-Drug Arg1:T51 Arg2:T46
+T52	Frequency 5619 5622	BID
+R30	Frequency-Drug Arg1:T52 Arg2:T46
+T53	Drug 5643 5654	Fluconazole
+T54	Strength 5655 5661	200 mg
+R31	Strength-Drug Arg1:T54 Arg2:T53
+T55	Form 5662 5668	Tablet
+R32	Form-Drug Arg1:T55 Arg2:T53
+T56	Dosage 5674 5681	Two (2)
+R33	Dosage-Drug Arg1:T56 Arg2:T53
+T57	Form 5682 5688	Tablet
+R34	Form-Drug Arg1:T57 Arg2:T53
+T58	Route 5689 5691	PO
+R35	Route-Drug Arg1:T58 Arg2:T53
+T59	Frequency 5692 5696	Q24H
+R36	Frequency-Drug Arg1:T59 Arg2:T53
+T60	Drug 5718 5732	Valganciclovir
+T61	Strength 5733 5739	450 mg
+R37	Strength-Drug Arg1:T61 Arg2:T60
+T62	Form 5740 5746	Tablet
+R38	Form-Drug Arg1:T62 Arg2:T60
+T63	Dosage 5752 5759	Two (2)
+R39	Dosage-Drug Arg1:T63 Arg2:T60
+T64	Form 5760 5766	Tablet
+R40	Form-Drug Arg1:T64 Arg2:T60
+T65	Route 5767 5769	PO
+R41	Route-Drug Arg1:T65 Arg2:T60
+T66	Frequency 5770 5775	DAILY
+R42	Frequency-Drug Arg1:T66 Arg2:T60
+T67	Drug 5788 5817	Sulfamethoxazole-Trimethoprim
+T68	Strength 5818 5827	400-80 mg
+R43	Strength-Drug Arg1:T68 Arg2:T67
+T69	Form 5828 5834	Tablet
+R44	Form-Drug Arg1:T69 Arg2:T67
+T70	Dosage 5840 5847	One (1)
+R45	Dosage-Drug Arg1:T70 Arg2:T67
+T71	Form 5848 5854	Tablet
+R46	Form-Drug Arg1:T71 Arg2:T67
+T72	Route 5855 5857	PO
+R47	Route-Drug Arg1:T72 Arg2:T67
+T73	Frequency 5858 5863	DAILY
+R48	Frequency-Drug Arg1:T73 Arg2:T67
+T74	Drug 5876 5895	Metoprolol Tartrate
+T75	Strength 5896 5901	25 mg
+R49	Strength-Drug Arg1:T75 Arg2:T74
+T76	Form 5902 5908	Tablet
+R50	Form-Drug Arg1:T76 Arg2:T74
+T77	Dosage 5914 5921	One (1)
+R51	Dosage-Drug Arg1:T77 Arg2:T74
+T78	Form 5922 5928	Tablet
+R52	Form-Drug Arg1:T78 Arg2:T74
+T79	Route 5929 5931	PO
+R53	Route-Drug Arg1:T79 Arg2:T74
+T80	Frequency 5932 5935	TID
+R54	Frequency-Drug Arg1:T80 Arg2:T74
+T81	Drug 5956 5968	Pantoprazole
+T82	Strength 5969 5974	40 mg
+R55	Strength-Drug Arg1:T82 Arg2:T81
+T83	Form 5975 6005	Tablet, Delayed Release (E.C.)
+R56	Form-Drug Arg1:T83 Arg2:T81
+T84	Dosage 6011 6014;6015 6018	One (1)
+R57	Dosage-Drug Arg1:T84 Arg2:T81
+T85	Form 6019 6049	Tablet, Delayed Release (E.C.)
+R58	Form-Drug Arg1:T85 Arg2:T81
+T86	Route 6050 6052	PO
+R59	Route-Drug Arg1:T86 Arg2:T81
+T87	Frequency 6053 6057	Q24H
+R60	Frequency-Drug Arg1:T87 Arg2:T81
+T88	Drug 6079 6089	Prednisone
+T89	Strength 6090 6094	5 mg
+R61	Strength-Drug Arg1:T89 Arg2:T88
+T90	Form 6095 6101	Tablet
+R62	Form-Drug Arg1:T90 Arg2:T88
+T91	Dosage 6107 6116	Three (3)
+R63	Dosage-Drug Arg1:T91 Arg2:T88
+T92	Form 6117 6123	Tablet
+R64	Form-Drug Arg1:T92 Arg2:T88
+T93	Route 6124 6126	PO
+R65	Route-Drug Arg1:T93 Arg2:T88
+T94	Frequency 6127 6132	DAILY
+R66	Frequency-Drug Arg1:T94 Arg2:T88
+T95	Drug 6145 6155	Tacrolimus
+T96	Strength 6156 6160	1 mg
+R67	Strength-Drug Arg1:T96 Arg2:T95
+T97	Form 6161 6168	Capsule
+R68	Form-Drug Arg1:T97 Arg2:T95
+T98	Dosage 6174 6175	1
+R69	Dosage-Drug Arg1:T98 Arg2:T95
+T99	Form 6191 6198	Capsule
+R70	Form-Drug Arg1:T99 Arg2:T95
+T100	Route 6199 6201	PO
+R71	Route-Drug Arg1:T100 Arg2:T95
+T101	Frequency 6202 6206	Q12H
+R72	Frequency-Drug Arg1:T101 Arg2:T95
+T102	Drug 6228 6242	Insulin Lispro
+T103	Strength 6243 6254	100 unit/mL
+R73	Strength-Drug Arg1:T103 Arg2:T102
+T104	Form 6255 6263	Solution
+R74	Form-Drug Arg1:T104 Arg2:T102
+T105	Dosage 6269 6286;6287 6296	per sliding scale per scale
+R75	Dosage-Drug Arg1:T105 Arg2:T102
+T106	Route 6297 6309	Subcutaneous
+R76	Route-Drug Arg1:T106 Arg2:T102
+T107	Frequency 6310 6315	ASDIR
+R77	Frequency-Drug Arg1:T107 Arg2:T102
+T108	Drug 6335 6350	Docusate Sodium
+T109	Strength 6351 6357	100 mg
+R78	Strength-Drug Arg1:T109 Arg2:T108
+T110	Form 6358 6365	Capsule
+R79	Form-Drug Arg1:T110 Arg2:T108
+T111	Dosage 6371 6378	One (1)
+R80	Dosage-Drug Arg1:T111 Arg2:T108
+T112	Form 6379 6386	Capsule
+R81	Form-Drug Arg1:T112 Arg2:T108
+T113	Route 6387 6389	PO
+R82	Route-Drug Arg1:T113 Arg2:T108
+T114	Frequency 6390 6393	BID
+R83	Frequency-Drug Arg1:T114 Arg2:T108
+T115	Drug 6415 6428	Levetiracetam
+T116	Strength 6429 6435	250 mg
+R84	Strength-Drug Arg1:T116 Arg2:T115
+T117	Form 6436 6442	Tablet
+R85	Form-Drug Arg1:T117 Arg2:T115
+T118	Dosage 6448 6457	Three (3)
+R86	Dosage-Drug Arg1:T118 Arg2:T115
+T119	Form 6458 6464	Tablet
+R87	Form-Drug Arg1:T119 Arg2:T115
+T120	Route 6465 6467	PO
+R88	Route-Drug Arg1:T120 Arg2:T115
+T121	Frequency 6468 6471	BID
+R89	Frequency-Drug Arg1:T121 Arg2:T115
+T122	Drug 7138 7148	prednisone
+T123	Strength 7171 7175	15mg
+R90	Strength-Drug Arg1:T123 Arg2:T122
+T124	Frequency 7176 7181	daily
+R91	Frequency-Drug Arg1:T124 Arg2:T122
+T125	Drug 7204 7210	Keppra
+T126	Reason 7231 7239	seizures
+R92	Reason-Drug Arg1:T126 Arg2:T125
+T127	Drug 7310 7316	Keppra

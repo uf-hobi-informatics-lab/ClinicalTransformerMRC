@@ -1,0 +1,327 @@
+Admission Date:  [**2161-11-22**]              Discharge Date:   [**2161-11-27**]
+
+Date of Birth:  [**2109-6-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ciprofloxacin
+
+Attending:[**First Name3 (LF) 613**]
+Chief Complaint:
+Transfer from [**Hospital3 15174**] for treatment of
+altered mental status.
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+The patient is a 52 year old woman with past medical history
+significant for chronic pain on narcotics and benzodiazepines,
+malabsorption syndrome due to complications of gastric bypass
+surgery, and severe osteoporosis.  Three days prior to her
+admission to the outside hospital, the patient presented to her
+PCP's office for evaluation of ~20 pound weight loss that had
+occurred over the past 6-8 weeks.  The patient was found to have
+a urinary tract infection, and she was prescribed Ciprofloxacin.
+ The patient took two doses of the antibiotic.  The following
+day, the patient's husband noted that his wife seemed very
+nervous and agitated.  He called the PCP, [**Name10 (NameIs) 1023**] advised the
+patient to discontinue the Ciprofloxacin.  That evening, the
+patient's husband noted that the patient was laughing
+inappropriately while she watched TV.  She thought the TV was
+"talking to her."  The patient's husband called 911, but by the
+time the EMTs arrived at their home, the patient was able to
+answer questions correctly, and she refused to go to the
+hospital.  The following morning, the patient was noted to be
+more agitated, paranoid, and delusional, so her huaband called
+911 again.  This time, the patient was taken to
+[**Hospital3 15174**].
+   On presentation to the outside hospital, the patient was
+noted to have a low grade temperature (100.2). Her neurologic
+exam was reported as "non-focal," and a non-contrast head CT was
+negative for bleed. The patient's tox screen was negative for
+ETOH.  Her other laboratory data was unremarkable.  The patient
+was admitted to the hospital for treatment of narcotic
+withdrawal.
+   During her 36 hour hospitalization, the patient was given two
+doses of Buprenex.  Subsequently, the patient became lethargic,
+confused, combative, and agitated.  She was transferred to the
+ICU for further management.  She was given a few doses of Haldol
+and Ativan for her agitation.  Lumbar puncture was unsuccessful.
+ Given her persistent agitation and concern for narcotic
+withdrawal, the patient was transferred to [**Hospital1 18**] MICU for
+further management.
+
+Past Medical History:
+Motor vehicle accident, complicated by R ankle injury and rib
+fractures, [**2151**]
+
+Chronic pain syndrome since motor vehicle accident
+
+s/p R leg BKA due to R ankle injury in above MVA, [**2154**]
+
+Malabsorption syndrome, s/p gastric bypass surgery for morbid
+obesity, ~22 years ago
+
+Asthma. Patient has been hospitalized for asthma exacerbations,
+but she has never been intubated.
+
+Relapsing-remitting multiple sclerosis, questionable diagnosis
+~8 years ago.  Patient given diagnosis based on problems with
+motor coordination.
+
+Depression. Hospitalized in [**2141**] at [**Hospital3 3765**] for
+psychiatric illness.
+
+Migraine
+
+Social History:
+The patient lives at home with her husband. She has three
+children.  Her husband states that she does not abuse tobacco,
+alcohol, or illicit drugs.  The patient is currently on SSI.
+
+Family History:
+Mother with alcoholism.
+
+Physical Exam:
+GEN: Agitated, diaphoretic, cachectic appearing female lying in
+bed. Patient appears tremulous.
+VS: T: 98.8  HR: 122  BP: 140/69  RR: 18  O2sat: 98% RA
+HEENT:  NC/AT. PERRL. EOMI. Pupils dilated ~3 mm.  Edentulous.
+MM dry. OP clear.
+NECK: Supple. No nuchal rigidity. Palpable thyroid.
+CVS: Tachycardic. S1, S2. No murmurs, rubs, or gallops.
+LUNGS: CTAB. No rales, wheezes, or crackles.
+ABD: Scaphoid, non-tender, non-distended, +BS.
+EXT: Right stump without c/c/e. Left leg without c/c/e.
+Extremities warm, well-perfused.
+SKIN: No rashes or lesions.
+NEURO: Patient thinks the year is "[**2162**]," knows she is in a
+hospital, and thinks "[**Last Name (un) 2450**]" is the president.  +Tremor. Strength
+[**5-13**] in all extremities.  Finger-to-nose intact.  Reflexes 2+
+throughout.
+
+
+Pertinent Results:
+[**2161-11-22**] 07:36PM   WBC-10.0 RBC-3.68* HGB-8.5* HCT-27.6* MCV-75*
+MCH-23.1* MCHC-30.8* RDW-22.6*
+Labs on admission:
+
+[**2161-11-22**] 07:36PM   NEUTS-85.8* LYMPHS-10.0* MONOS-3.8 EOS-0.3
+BASOS-0.1
+[**2161-11-22**] 07:36PM   PLT COUNT-878*
+[**2161-11-22**] 07:36PM   GLUCOSE-97 UREA N-7 CREAT-0.3* SODIUM-139
+POTASSIUM-3.6 CHLORIDE-104 TOTAL CO2-26 ANION GAP-13
+[**2161-11-22**] 07:36PM   ALT(SGPT)-10 AST(SGOT)-17 ALK PHOS-89 TOT
+BILI-0.2
+[**2161-11-22**] 07:36PM   ALBUMIN-3.1* CALCIUM-8.3* PHOSPHATE-3.0
+MAGNESIUM-1.8
+[**2161-11-22**] 07:36PM   PT-13.1 PTT-26.9 INR(PT)-1.1
+[**2161-11-22**] 07:36PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.014
+[**2161-11-22**] 07:36PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-150 BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2161-11-22**] 10:12PM CEREBROSPINAL FLUID (CSF)  PROTEIN-28
+GLUCOSE-76
+[**2161-11-22**] 10:12PM CEREBROSPINAL FLUID (CSF)  WBC-7 RBC-370*
+POLYS-20 LYMPHS-76 MONOS-4
+[**2161-11-22**] 10:12PM CEREBROSPINAL FLUID (CSF)  WBC-10 RBC-2500*
+[**2161-11-23**] 02:53AM BLOOD calTIBC-384 Ferritn-7.5* TRF-295
+[**2161-11-22**] 07:36PM BLOOD VitB12-GREATER TH Folate-GREATER TH
+[**2161-11-22**] 07:36PM BLOOD TSH-0.62
+[**2161-11-22**] 07:36PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+
+EKG:
+(OSH)
+Sinus tachycardia, 96 bpm. Nl int, nl axis. No ST/TW changes.
+
+CXR:
+No infiltrates or consolidations.
+
+Labs on discharge:
+
+[**2161-11-26**] 05:59AM BLOOD WBC-9.6 RBC-3.82* Hgb-8.6* Hct-29.0*
+MCV-76* MCH-22.6* MCHC-29.8* RDW-22.5* Plt Ct-657*
+[**2161-11-26**] 05:59AM BLOOD Plt Ct-657*
+[**2161-11-26**] 05:59AM BLOOD Glucose-108* UreaN-12 Creat-0.3* Na-142
+K-4.8 Cl-108 HCO3-32* AnGap-7*
+[**2161-11-26**] 05:59AM BLOOD Calcium-8.5 Phos-4.1 Mg-2.0
+[**2161-11-25**] 07:51AM BLOOD tTG-IgA-DONE
+[**2161-11-25**] 07:51AM BLOOD ENDOMYSIAL ANTIBODIES-PND
+
+Brief Hospital Course:
+1. MICU COURSE ([**Date range (1) 12258**]): Pt had an LP and the results of
+the CSF analysis were unremarkable. Her mental status improved
+in ICU and she became much more alert and was oriented by the
+morning of the second hospital day. While in the ICU, the
+chronic pain service was consulted. Their recommendations are
+noted below.
+
+2. Altered mental status: As above, the pt. underwent a lumbar
+puncture, the results of which were not suggestive of CNS
+infection as the cause of her encephalopathy.  A TSH, B12 and
+electrolytes were sent which were all within normal limits. An
+RPR was sent and was nonreactive. Upon further discussion with
+the pt. when she became more alert, it was discovered that after
+taking the first two doses of ciprofloxacin the week prior to
+admission, the pt. became extremely nauseous and had episodes of
+emesis and diarrhea.  This led the pt. to stop taking her
+narcotics which she is on chronically for pain.  Thus, it was
+believed that the pt's. altered mental status was secondary to
+narcotics withdrawal.  It should be noted, however, that
+ciprofloxacin has been associated with acute psychosis,
+seizures, and acute delirium.
+
+3. Chronic pain: The pt. reported that she had been on large
+doses of oxycontin, valium and neurontin for pain in her right
+shoulder, back and legs prior to admission.  In the context of
+her heavy narcotics use, a chronic pain service consult was
+obtained while the pt. was in the intensive care unit.  They
+recommended stopping oxycontin and decreasing the dose of
+valium.  In addition, they recommended continuing neurontin and
+adding methadone.  The pt. initially tolerated this regimen
+well.  However, on the fourth hospital day, the pt. continued to
+complain of leg spasms.  Baclofen was introduced with some
+success in relieving her spasms.
+The pain service also recommended that the pt. be started on
+celecoxib for musculoskeletal pain but this was held over the
+concern of possible upper gastrointestinal bleeding in the
+setting of iron deficiency anemia of yet uncertain etiology.
+
+4. Iron deficiency anemia:  The pt. was found to have profound
+iron deficiency anemia on admission.  Further discussion with
+the pt. and her PCP revealed that the pt. has known iron
+deficiency and has received supplementation in the past.  A
+gastroenterology consult was called.  They had recommended
+performing both colonoscopy to examine for occult malignancy
+(especially in the face of recent unintentional weight loss and
+cachexia) and an EGD to evaluate the anatomy of her upper GI
+tract in light of her prior gastric bypass.  The pt. did not
+desire to undergo these procedures during this inpatient
+hospitalization, but agreed to follow-up for these studies on an
+outpatient basis.  The importance of following-up regarding this
+issue was explicitly stressed to the pt. prior to discharge.
+She was discharged on 325mg of ferrous sulfate once per day.
+
+5. Weight loss/cachexia/?malabsorption:  In light of the pt's.
+~20 pounds over the 6 to 8 weeks prior to admission, a nutrition
+consult was obtained.  They had recommended TPN in addition to
+encouraging the pt. to increase her p.o. intake.  The pt. did
+received three days of TPN through a PICC line in addition to a
+regular diet.  There was, again, concern over occult malignancy
+which further prompted the desire to perform a colonoscopy.  A
+breast exam was also performed as a part of a malignancy work-up
+and was unremarkable.  The pt. stated that she has had a
+"negative" mammography within the last year.
+The gastroenterology service also raised the possibility of
+celiac disease and tTG-IgA and endomysial antibodies were sent
+and were pending at the time of discharge.
+There is also the possibility that her weight loss is secondary
+to her profound depression with vegetative symptoms.
+
+6. Depression: The pt. admitted to severe depression in the
+months prior to admission.  As such, the psychiatry service was
+consulted.  They recommended re-starting fluoxetine which was
+done at a dose of 20mg per day.
+
+7. Osteoporosis: The pt. was started on calcium and vitamin D
+supplementation.
+
+8. Migraine Headaches: The pt. complained of headache suggestive
+of typical (not classical) migraine.  Her pain was not relieved
+with acetaminophen.  A trial of subcutaneous sumatriptan,
+however, did provide relief.  She was discharged with a
+prescription for subcutaneous sumatriptan with instructions to
+stop taking the medication if she experienced flushing,
+dizziness, fatigue (suggestive of serotonin syndrome due to
+concomitant use of fluoxetine).
+
+Medications on Admission:
+[**Doctor First Name **] 180 mg PO daily
+Premarin 1.25 mg PO daily
+Maxair prn
+Oxycontin 160 mg PO 8x/daily
+Neurontin 600 mg PO daily
+Percocet 325-650 mg PO q4-6hours prn pain
+Valium 20 mg qid prn pain
+
+Discharge Medications:
+1. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+2. Methadone HCl 5 mg Tablet Sig: 0.5 Tablet PO QID (4 times a
+day).
+Disp:*60 Tablet(s)* Refills:*0*
+3. Diazepam 10 mg Tablet Sig: One (1) Tablet PO three times a
+day.
+Disp:*90 Tablet(s)* Refills:*0*
+4. Gabapentin 400 mg Capsule Sig: One (1) Capsule PO QID (4
+times a day).
+Disp:*120 Capsule(s)* Refills:*2*
+5. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*90 Tablet, Chewable(s)* Refills:*2*
+7. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours) as needed.
+8. Fluoxetine HCl 20 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+Disp:*30 Capsule(s)* Refills:*2*
+9. Baclofen 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+Disp:*90 Tablet(s)* Refills:*2*
+10. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Sumatriptan Succinate 6 mg/0.5 mL Kit Sig: One (1)
+Subcutaneous Q1H PRN as needed for headache not controlled by
+tylenol: [**Month (only) 116**] repaat after one hour if headache not controlled by
+first dose.  Do NOT take more than 12mg in a 24 hour time
+period.
+Disp:*60 syringes* Refills:*2*
+12. Zolpidem Tartrate 5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for insomnia.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+-acute delirium, likely secondary to narcotics withdrawal vs.
+reaction to ciprofloxacin, resolved.
+-iron deficiency anemia
+-depression
+-chronic pain
+-osteoporosis
+-migraine headache
+
+
+Discharge Condition:
+The pt. was alert and completely oriented.  She was tolerating a
+p.o. diet and eating well.  She was ambulating with the
+assistance of a walker.
+
+Discharge Instructions:
+Please take all of your medications as perscribed.  Please
+notice that you have had many medication changes.  Please be
+sure to attend all of your follow-up appointments.  If you
+experience any concerning symptoms, including dizziness,
+flushing or confusion, please call your primary care doctor or
+come to the emergency department for evaluation.
+
+Followup Instructions:
+Please call your primary care doctor, Dr. [**First Name4 (NamePattern1) 487**] [**Last Name (NamePattern1) 59655**]
+at [**Telephone/Fax (1) 26677**], to schedule a follow-up appointment regarding
+this hospitalization within one week.  It is strongly
+recommmended that you undergo a colonoscopy and
+esophagogastroduodenoscopy to investigate the cause of your
+anemia and weight loss.
+
+
+                             [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 617**]
+

@@ -1,0 +1,25 @@
+Name:  [**Known lastname **],[**Known firstname **]                   Unit No:   [**Numeric Identifier 12228**]
+
+Admission Date:  [**2181-11-6**]              Discharge Date:   [**2181-11-17**]
+
+Date of Birth:  [**2117-12-19**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 135**]
+Addendum:
+Lisinopril 2.5mg daily was added on discharge. [**Month (only) 412**] be advanced
+as blood pressure tolerates. Creatinine 1.3.
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1933**]
+
+                             [**First Name11 (Name Pattern1) 77**] [**Last Name (NamePattern4) 137**] MD [**MD Number(2) 138**]
+
+Completed by:[**2181-11-16**]

@@ -1,0 +1,180 @@
+T1	Drug 1116 1124	propofol
+T2	Form 1125 1128	gtt
+R1	Form-Drug Arg1:T2 Arg2:T1
+T3	Drug 1130 1136	flagyl
+T4	Strength 1137 1142	500mg
+R2	Strength-Drug Arg1:T4 Arg2:T3
+T6	Dosage 1147 1148	1
+R4	Dosage-Drug Arg1:T6 Arg2:T3
+T7	Drug 1154 1162	morphine
+T8	Strength 1163 1166	4mg
+R5	Strength-Drug Arg1:T8 Arg2:T7
+T10	Drug 164 175	Penicillins
+T11	Drug 178 185	Codeine
+T12	Drug 4520 4523	IVF
+T13	Reason 4544 4556	Pain control
+R7	Reason-Drug Arg1:T13 Arg2:T14
+T14	Drug 4567 4576	narcotics
+T15	ADE 4831 4850	Respiratory failure
+R8	ADE-Drug Arg1:T15 Arg2:T16
+T16	Drug 4939 4948	narcotics
+T17	Reason 5378 5381	UTI
+R9	Reason-Drug Arg1:T17 Arg2:T19
+T18	Dosage 5460 5463	one
+R10	Dosage-Drug Arg1:T18 Arg2:T19
+T19	Drug 5472 5485	ciprofloxacin
+T20	Drug 5767 5770	IVF
+T21	ADE 5902 5911	agitation
+R11	ADE-Drug Arg1:T21 Arg2:T22
+T22	Drug 5916 5924	naroctic
+T23	Drug 6934 6942	Seroquel
+T24	Strength 6943 6947	25mg
+R12	Strength-Drug Arg1:T24 Arg2:T23
+T25	Route 6948 6950	PO
+R13	Route-Drug Arg1:T25 Arg2:T23
+T26	Frequency 6951 6954	BID
+R14	Frequency-Drug Arg1:T26 Arg2:T23
+T27	Drug 6955 6961	Zantac
+T28	Strength 6962 6967	150mg
+R15	Strength-Drug Arg1:T28 Arg2:T27
+T29	Route 6968 6970	PO
+R16	Route-Drug Arg1:T29 Arg2:T27
+T30	Frequency 6971 6974	QHS
+R17	Frequency-Drug Arg1:T30 Arg2:T27
+T31	Drug 6975 6983	Cymbalta
+T32	Strength 6984 6988	60mg
+R18	Strength-Drug Arg1:T32 Arg2:T31
+T33	Route 6989 6991	PO
+R19	Route-Drug Arg1:T33 Arg2:T31
+T34	Frequency 6992 6995	BID
+R20	Frequency-Drug Arg1:T34 Arg2:T31
+T35	Drug 7024 7034	Quetiapine
+T36	Strength 7035 7040	25 mg
+R21	Strength-Drug Arg1:T36 Arg2:T35
+T37	Form 7041 7047	Tablet
+R22	Form-Drug Arg1:T37 Arg2:T35
+T38	Dosage 7053 7060	One (1)
+R23	Dosage-Drug Arg1:T38 Arg2:T35
+T39	Form 7061 7067	Tablet
+R24	Form-Drug Arg1:T39 Arg2:T35
+T40	Route 7068 7070	PO
+R25	Route-Drug Arg1:T40 Arg2:T35
+T41	Frequency 7071 7074	BID
+R26	Frequency-Drug Arg1:T41 Arg2:T35
+T42	Drug 7095 7109	Ranitidine HCl
+T43	Strength 7110 7116	150 mg
+R27	Strength-Drug Arg1:T43 Arg2:T42
+T44	Form 7117 7123	Tablet
+R28	Form-Drug Arg1:T44 Arg2:T42
+T45	Dosage 7129 7136	One (1)
+R29	Dosage-Drug Arg1:T45 Arg2:T42
+T46	Form 7137 7143	Tablet
+R30	Form-Drug Arg1:T46 Arg2:T42
+T47	Route 7144 7146	PO
+R31	Route-Drug Arg1:T47 Arg2:T42
+T48	Frequency 7147 7149	HS
+R32	Frequency-Drug Arg1:T48 Arg2:T42
+T49	Drug 7167 7177	Duloxetine
+T50	Strength 7178 7183	30 mg
+R33	Strength-Drug Arg1:T50 Arg2:T49
+T52	Form 7184 7214	Capsule, Delayed Release(E.C.)
+R35	Form-Drug Arg1:T52 Arg2:T49
+T53	Dosage 7220 7227	Two (2)
+R36	Dosage-Drug Arg1:T53 Arg2:T49
+T55	Form 7228 7258	Capsule, Delayed Release(E.C.)
+R38	Form-Drug Arg1:T55 Arg2:T49
+T56	Route 7259 7261	PO
+R39	Route-Drug Arg1:T56 Arg2:T49
+T57	Frequency 7262 7265	BID
+R40	Frequency-Drug Arg1:T57 Arg2:T49
+T58	Drug 7286 7299	Acetaminophen
+T59	Strength 7300 7306	325 mg
+R41	Strength-Drug Arg1:T59 Arg2:T58
+T60	Form 7307 7313	Tablet
+R42	Form-Drug Arg1:T60 Arg2:T58
+T61	Dosage 7319 7322	1-2
+R43	Dosage-Drug Arg1:T61 Arg2:T58
+T62	Form 7323 7330	Tablets
+R44	Form-Drug Arg1:T62 Arg2:T58
+T63	Route 7331 7333	PO
+R45	Route-Drug Arg1:T63 Arg2:T58
+T64	Frequency 7334 7346;7347 7363	Q6H (every 6 hours) as needed
+R46	Frequency-Drug Arg1:T64 Arg2:T58
+T65	Reason 7368 7373	fever
+R47	Reason-Drug Arg1:T65 Arg2:T58
+T67	Reason 7377 7381	pain
+R49	Reason-Drug Arg1:T67 Arg2:T58
+T68	Drug 7415 7430	Docusate Sodium
+T69	Strength 7431 7437	100 mg
+R50	Strength-Drug Arg1:T69 Arg2:T68
+T70	Form 7438 7445	Capsule
+R51	Form-Drug Arg1:T70 Arg2:T68
+T71	Dosage 7451 7458	One (1)
+R52	Dosage-Drug Arg1:T71 Arg2:T68
+T72	Form 7459 7466	Capsule
+R53	Form-Drug Arg1:T72 Arg2:T68
+T73	Route 7467 7469	PO
+R54	Route-Drug Arg1:T73 Arg2:T68
+T74	Frequency 7470 7473	BID
+R55	Frequency-Drug Arg1:T74 Arg2:T68
+T75	Reason 7504 7516	constipation
+R56	Reason-Drug Arg1:T75 Arg2:T68
+T76	Duration 7517 7529	for 1 months
+R57	Duration-Drug Arg1:T76 Arg2:T68
+T77	Drug 7541 7552	Hydrocodone
+T78	Drug 7590 7615	Hydrocodone-Acetaminophen
+T79	Strength 7616 7624	5-500 mg
+R58	Strength-Drug Arg1:T79 Arg2:T78
+T80	Form 7625 7631	Tablet
+R59	Form-Drug Arg1:T80 Arg2:T78
+T81	Dosage 7637 7640	1-2
+R60	Dosage-Drug Arg1:T81 Arg2:T78
+T82	Form 7641 7648	Tablets
+R61	Form-Drug Arg1:T82 Arg2:T78
+T83	Route 7649 7651	PO
+R62	Route-Drug Arg1:T83 Arg2:T78
+T84	Frequency 7652 7681	Q4H (every 4 hours) as needed
+R63	Frequency-Drug Arg1:T84 Arg2:T78
+T85	Reason 7686 7690	pain
+R64	Reason-Drug Arg1:T85 Arg2:T78
+T86	Duration 7691 7702	for 2 weeks
+R65	Duration-Drug Arg1:T86 Arg2:T78
+T87	Strength 7718 7724	4000mg
+R66	Strength-Drug Arg1:T87 Arg2:T88
+T88	Drug 7728 7741	Acetaminophen
+T89	Drug 7787 7792	Senna
+T90	Strength 7793 7799	8.6 mg
+R67	Strength-Drug Arg1:T90 Arg2:T89
+T91	Form 7800 7806	Tablet
+R68	Form-Drug Arg1:T91 Arg2:T89
+T92	Dosage 7812 7819	One (1)
+R69	Dosage-Drug Arg1:T92 Arg2:T89
+T93	Form 7820 7826	Tablet
+R70	Form-Drug Arg1:T93 Arg2:T89
+T94	Route 7827 7829	PO
+R71	Route-Drug Arg1:T94 Arg2:T89
+T95	Frequency 7830 7833	BID
+R72	Frequency-Drug Arg1:T95 Arg2:T89
+T96	Reason 7864 7876	constipation
+R73	Reason-Drug Arg1:T96 Arg2:T89
+T97	Drug 7888 7899	Hydrocodone
+T98	Drug 794 796	NS
+T99	Dosage 797 798	1
+R74	Dosage-Drug Arg1:T99 Arg2:T98
+T102	Drug 801 806	cipro
+T104	Drug 815 824	narcotics
+T105	Reason 829 841	pain control
+R78	Reason-Drug Arg1:T105 Arg2:T104
+T106	Drug 852 858	Narcan
+T108	ADE 903 911	overdose
+R80	ADE-Drug Arg1:T108 Arg2:T110
+T110	Drug 915 934	narcotic analgesics
+R34	ADE-Drug Arg1:T108 Arg2:T106	
+T51	Reason 903 911	overdose
+R37	Reason-Drug Arg1:T51 Arg2:T106	
+T5	Route 807 809	IV
+R3	Route-Drug Arg1:T5 Arg2:T102	
+T9	Route 1143 1145	IV
+R6	Route-Drug Arg1:T9 Arg2:T3	
+T54	Route 1167 1169	IV
+R48	Route-Drug Arg1:T54 Arg2:T7	

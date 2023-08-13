@@ -1,0 +1,199 @@
+T1	Reason 10133 10152	parasitic infection
+R1	Reason-Drug Arg1:T1 Arg2:T2
+T2	Drug 10158 10168	ivermectin
+T3	Dosage 10171 10172	2
+R2	Dosage-Drug Arg1:T3 Arg2:T2
+T4	Reason 10353 10363	TB therapy
+R3	Reason-Drug Arg1:T4 Arg2:T5
+R4	Reason-Drug Arg1:T4 Arg2:T6
+R5	Reason-Drug Arg1:T4 Arg2:T7
+T5	Drug 10369 10372	INH
+T6	Drug 10374 10377	PZA
+T7	Drug 10379 10388	rifabutin
+T8	Drug 10859 10862	ARV
+T9	Drug 10927 10939	chemotherapy
+T10	Drug 10958 10961	ARV
+T11	ADE 11072 11078	Thrush
+R6	ADE-Drug Arg1:T11 Arg2:T12
+T12	Drug 11114 11126	chemotherapy
+T13	Reason 11208 11219	oral thrush
+R7	Reason-Drug Arg1:T13 Arg2:T14
+T14	Drug 11241 11249	nystatin
+T15	Drug 11662 11671	Isoniazid
+T16	Strength 11672 11678	300 mg
+R8	Strength-Drug Arg1:T16 Arg2:T15
+T17	Frequency 11679 11684	daily
+R9	Frequency-Drug Arg1:T17 Arg2:T15
+T18	Drug 11685 11697	Pyrazinamide
+T19	Strength 11698 11705	1000 mg
+R10	Strength-Drug Arg1:T19 Arg2:T18
+T20	Frequency 11706 11711	daily
+R11	Frequency-Drug Arg1:T20 Arg2:T18
+T21	Drug 11712 11721	Rifabutin
+T22	Strength 11722 11728	300 mg
+R12	Strength-Drug Arg1:T22 Arg2:T21
+T23	Frequency 11729 11734	daily
+R13	Frequency-Drug Arg1:T23 Arg2:T21
+T24	Drug 11735 11745	Pyridoxine
+T25	Strength 11746 11752	100 mg
+R14	Strength-Drug Arg1:T25 Arg2:T24
+T26	Frequency 11753 11758	daily
+R15	Frequency-Drug Arg1:T26 Arg2:T24
+T27	Drug 11759 11766	Bactrim
+T29	Frequency 11770 11775	daily
+R17	Frequency-Drug Arg1:T29 Arg2:T27
+T30	Drug 11776 11788	Ketoconazole
+T31	Form 11789 11794	cream
+R18	Form-Drug Arg1:T31 Arg2:T30
+T32	Drug 11822 11831	Isoniazid
+T33	Strength 11832 11838	300 mg
+R19	Strength-Drug Arg1:T33 Arg2:T32
+T34	Form 11839 11845	Tablet
+R20	Form-Drug Arg1:T34 Arg2:T32
+T35	Dosage 11851 11858	One (1)
+R21	Dosage-Drug Arg1:T35 Arg2:T32
+T36	Form 11859 11865	Tablet
+R22	Form-Drug Arg1:T36 Arg2:T32
+T37	Route 11866 11868	PO
+R23	Route-Drug Arg1:T37 Arg2:T32
+T38	Frequency 11869 11882	DAILY (Daily)
+R24	Frequency-Drug Arg1:T38 Arg2:T32
+T39	Drug 11888 11900	Pyrazinamide
+T40	Strength 11901 11907	500 mg
+R25	Strength-Drug Arg1:T40 Arg2:T39
+T41	Form 11908 11914	Tablet
+R26	Form-Drug Arg1:T41 Arg2:T39
+T42	Dosage 11920 11927	Two (2)
+R27	Dosage-Drug Arg1:T42 Arg2:T39
+T43	Form 11928 11934	Tablet
+R28	Form-Drug Arg1:T43 Arg2:T39
+T44	Route 11935 11937	PO
+R29	Route-Drug Arg1:T44 Arg2:T39
+T45	Frequency 11938 11943;11944 11951	DAILY (Daily)
+R30	Frequency-Drug Arg1:T45 Arg2:T39
+T46	Drug 11956 11965	Rifabutin
+T47	Strength 11966 11972	150 mg
+R31	Strength-Drug Arg1:T47 Arg2:T46
+T48	Form 11973 11980	Capsule
+R32	Form-Drug Arg1:T48 Arg2:T46
+T49	Dosage 11986 11993	Two (2)
+R33	Dosage-Drug Arg1:T49 Arg2:T46
+T50	Form 11994 12001	Capsule
+R34	Form-Drug Arg1:T50 Arg2:T46
+T51	Route 12002 12004	PO
+R35	Route-Drug Arg1:T51 Arg2:T46
+T52	Frequency 12005 12010;12011 12018	DAILY (Daily)
+R36	Frequency-Drug Arg1:T52 Arg2:T46
+T53	Drug 12023 12033	Pyridoxine
+T54	Strength 12034 12039	50 mg
+R37	Strength-Drug Arg1:T54 Arg2:T53
+T55	Form 12040 12046	Tablet
+R38	Form-Drug Arg1:T55 Arg2:T53
+T56	Dosage 12052 12059	Two (2)
+R39	Dosage-Drug Arg1:T56 Arg2:T53
+T57	Form 12060 12066	Tablet
+R40	Form-Drug Arg1:T57 Arg2:T53
+T58	Route 12067 12069	PO
+R41	Route-Drug Arg1:T58 Arg2:T53
+T59	Frequency 12070 12083	DAILY (Daily)
+R42	Frequency-Drug Arg1:T59 Arg2:T53
+T60	Drug 12089 12099	Folic Acid
+T61	Strength 12100 12104	1 mg
+R43	Strength-Drug Arg1:T61 Arg2:T60
+T62	Form 12105 12111	Tablet
+R44	Form-Drug Arg1:T62 Arg2:T60
+T63	Dosage 12117 12124	One (1)
+R45	Dosage-Drug Arg1:T63 Arg2:T60
+T64	Form 12125 12131	Tablet
+R46	Form-Drug Arg1:T64 Arg2:T60
+T65	Route 12132 12134	PO
+R47	Route-Drug Arg1:T65 Arg2:T60
+T66	Frequency 12135 12148	DAILY (Daily)
+R48	Frequency-Drug Arg1:T66 Arg2:T60
+T67	Drug 12185 12193	Nystatin
+T68	Strength 12194 12209	100,000 unit/mL
+R49	Strength-Drug Arg1:T68 Arg2:T67
+T69	Form 12210 12220	Suspension
+R50	Form-Drug Arg1:T69 Arg2:T67
+T70	Dosage 12226 12237	Five (5) ML
+R51	Dosage-Drug Arg1:T70 Arg2:T67
+T71	Route 12238 12240	PO
+R52	Route-Drug Arg1:T71 Arg2:T67
+T72	Frequency 12241 12244;12245 12260	TID (3 times a day)
+R53	Frequency-Drug Arg1:T72 Arg2:T67
+T73	Duration 12261 12271	for 7 days
+R54	Duration-Drug Arg1:T73 Arg2:T67
+T74	Drug 12305 12334	Trimethoprim-Sulfamethoxazole
+T75	Strength 12335 12345	160-800 mg
+R55	Strength-Drug Arg1:T75 Arg2:T74
+T76	Form 12346 12352	Tablet
+R56	Form-Drug Arg1:T76 Arg2:T74
+T77	Dosage 12358 12365	One (1)
+R57	Dosage-Drug Arg1:T77 Arg2:T74
+T78	Form 12366 12372	Tablet
+R58	Form-Drug Arg1:T78 Arg2:T74
+T79	Route 12373 12375	PO
+R59	Route-Drug Arg1:T79 Arg2:T74
+T80	Frequency 12376 12389	DAILY (Daily)
+R60	Frequency-Drug Arg1:T80 Arg2:T74
+T81	Reason 12872 12880	lymphoma
+R61	Reason-Drug Arg1:T81 Arg2:T82
+T82	Drug 12897 12909	chemotherapy
+T83	Drug 13463 13470	Bactrim
+T84	Strength 13534 13549	single strength
+R62	Strength-Drug Arg1:T84 Arg2:T83
+T85	Strength 13553 13568	double strength
+R63	Strength-Drug Arg1:T85 Arg2:T83
+T86	Drug 13647 13657	Folic Acid
+T87	Reason 13687 13699	chemotherapy
+R64	Reason-Drug Arg1:T87 Arg2:T86
+T88	Reason 13704 13710	anemia
+R65	Reason-Drug Arg1:T88 Arg2:T86
+R66	Reason-Drug Arg1:T88 Arg2:T89
+T89	Drug 13735 13745	folic acid
+T90	Drug 13791 13799	Nystatin
+T91	Form 13800 13808	Solution
+R67	Form-Drug Arg1:T91 Arg2:T90
+T92	Drug 13811 13821	antifungal
+T93	Reason 13843 13848;13849 13858	yeast infection
+R69	Reason-Drug Arg1:T93 Arg2:T90
+T94	Reason 1883 1905	Pulmonary tuberculosis
+R70	Reason-Drug Arg1:T94 Arg2:T95
+R71	Reason-Drug Arg1:T94 Arg2:T96
+R72	Reason-Drug Arg1:T94 Arg2:T97
+R73	Reason-Drug Arg1:T94 Arg2:T98
+T95	Drug 1951 1954	INH
+T96	Drug 1956 1964	Rifampin
+T97	Drug 1966 1978	Pyrazinamide
+T98	Drug 1990 2002	Streptomycin
+T99	Drug 2031 2043	Streptomycin
+T100	Drug 2086 2094	Rifampin
+T101	Drug 2099 2108	Rifabutin
+T103	Reason 489 491	TB
+R74	Reason-Drug Arg1:T103 Arg2:T106
+R75	Reason-Drug Arg1:T103 Arg2:T105
+R76	Reason-Drug Arg1:T103 Arg2:T104
+T104	Drug 495 498	INH
+T105	Drug 500 508	Rifampin
+T106	Drug 510 522	Pyrazinamide
+T107	Reason 7892 7898;7899 7911	active tuberculosis
+R77	Reason-Drug Arg1:T107 Arg2:T108
+R78	Reason-Drug Arg1:T107 Arg2:T109
+R79	Reason-Drug Arg1:T107 Arg2:T110
+T108	Drug 7916 7919	INH
+T109	Drug 7921 7929	rifampin
+T110	Drug 7931 7943	pyrazinamide
+T111	Drug 9393 9404	rasburicase
+T112	Reason 9408 9432	decrease serum uric acid
+R80	Reason-Drug Arg1:T112 Arg2:T111
+T113	Drug 9434 9445	Allopurinol
+T114	Drug 9604 9609	Lasix
+T115	Strength 9610 9614	20mg
+R81	Strength-Drug Arg1:T115 Arg2:T114
+T116	Dosage 9617 9618	2
+R82	Dosage-Drug Arg1:T116 Arg2:T114
+T117	Drug 9802 9813	Rasburicase
+T118	ADE 9856 9873	methemoglobinemia
+R83	ADE-Drug Arg1:T118 Arg2:T117
+R68	Reason-Drug Arg1:T87 Arg2:T89	
+R84	Reason-Drug Arg1:T93 Arg2:T92	

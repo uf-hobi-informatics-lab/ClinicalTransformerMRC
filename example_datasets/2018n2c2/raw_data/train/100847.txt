@@ -1,0 +1,443 @@
+Admission Date:  [**2149-2-21**]              Discharge Date:   [**2149-3-3**]
+
+Date of Birth:  [**2099-7-18**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2745**]
+Chief Complaint:
+Left Foot Infection, DKA
+
+Major Surgical or Invasive Procedure:
+Mr. [**Known lastname 24962**] underwent podiatric surgery on [**2149-2-24**] to for left
+wound debriment and underwent wound closure on [**2149-3-3**].
+
+History of Present Illness:
+Mr. [**Known lastname 14611**] is a 49 year old male with a history of type II
+diabetes, charcot's foot s/p multiple surgeries, and previous
+MRSA infection who presented to his podiatrist on [**2149-2-21**] with
+two days of nausea, vomiting (clear, non-bilious, non bloody) ,
+productive cough (sputum color not noted), fatigue, and pain and
+redness of his left foot.  He was found to have a draining wound
+(approximately 1 cm in width x 1 cm in depth) on his left lower
+leg, just superior to the lateral malleolus with an area of
+surrounding cellulitis. He was transferred to the Emergency
+Department for treatment with IV antibiotics, and observation.
+Of note is that the patient missed his last four doses of lantus
+insulin, due to running out of medication.
+.
+In the ED his vitals were: T 99.3, HR 102, BP 134/74, R 18, and
+O2 sat 100% on room air.  Labs were drawn and significant for a
+glucose of 377, Anion Gap of  24, lactate of 1.2 and ketones in
+this urine, consistent with Diabetic Ketoacidosis. He was given
+6 units of insulin, 2 liters of IV fluid, a dose of Vancomycin
+x1 (for cellulitis), and a percocet in the ED and transferred to
+the MICU for further management of his DKA and infection.
+.
+In the MICU he was treated with his 5th liter of normal saline
+and started on an insulin drip. He was continued on Vancomycin
+and started on Zosyn. He was stable with a heart rate of  77 and
+a blood pressure of 140/66. Podiatry reported that plain film
+imaging showed "interval osteolysis adjacent to the fixation
+screws that is suggestive of infection or interval losening".
+Blood and swab cultures were obtained, and a urine culture was
+negative for growth. Mr. [**Known lastname 14611**] developed skin reactions in the
+MICU on his back and neck, consistent with a similar exanthem
+his developed in [**2148-10-12**] during his previous admission
+and was seen by dermatology. He  was subsequently admitted to
+the [**Doctor Last Name **] B service of CC7.
+
+
+Past Medical History:
+PMH:
+-Diabetes Mellitus Type 2
+-Bilateral Charcot Foot with multiple surgeries
+-History of MRSA
+-Left Lower Extremity DVT ([**2145-7-13**])
+.
+PSH
+-Left Charcot foot reconstruction ([**2148-10-12**])
+-Right pan-metatarsal resection and [**Doctor First Name **] ([**2148-10-12**])
+-Right foot I& drainage with 2nd Metatarsal head resection
+packed open ([**2147-10-13**])
+-Left and right foot debridment ([**2147-12-13**])
+-Cataract extraction of right eye ([**2147-4-12**])
+-Excision of right foot ulcer ([**2145-11-12**])
+-Skin lesion biopsy from sensitivity reaction done by
+dermatology during MICU stay.
+
+
+Social History:
+Mr. [**Known lastname 14611**] lives in [**Location 24963**], MA in an apartment unit alone,
+however his mother and aunt live in the unit downstairs. He is
+not married, nor in a relationship and does not have children.
+He has a brother whom he considers his closest contact and
+person who would make medical decisions for him. Mr. [**Known lastname 14611**] is of
+Irish descent and has a high school education. He worked at an
+auto dealership until he was fired in [**Month (only) **]. He has not been
+able to look for a job because of his recent hospitalizations
+and he states that he may not have medical insurance, but he is
+not too concerned about it. He smoked 2-3 packs per day but quit
+over two years ago. He drinks 3-5 beers per day, sometimes more.
+Patient denies illicit drug use.
+
+Family History:
+Mother has a history of type II Diabetes Mellitus.
+
+Physical Exam:
+Exam:
+Vital Signs during exam on [**2149-2-23**]: T=97.5  HR=18  BP=152/90
+RR=18   SaO2=97% on room air
+FINGERSTICKS 24h: [**Telephone/Fax (3) 24964**] - [**Telephone/Fax (3) 24965**]
+.
+General:No apparent distress
+Skin:Raised and erythematous, non-pruritic lesions visible
+across back and neck.
+Lymph:No occipital, submandibular, cervical, supraclavicular,
+axillary, epitrochlear, or inguinal LAD.
+HEENT:Normocephalic;  no proptosis; anicteric sclera;
+conjunctiva clear and nonerythematous; moist mucous membranes
+Neck:Supple; full ROM; no c-spine tenderness to palpation; JVP
++1; carotids 2+ w/o bruits; no thyromegaly or  nodules; trachea
+midline
+Back: no t-spine or l-spine tenderness to palpation; no CVAT
+Core:CTAB; symmetrical air movement bilaterally, no wheezes,
+rales, or rhonchi; resonant to percussion bilaterally; PMI
+non-displaced; S1, S2; no murmurs, gallops, or rubs
+Abd:obese; +BS; nondistended; resonant to percussion; soft;
+nontender; no rebound; no HSM; no ventral hernias
+GU:Deferred (no inguinal hernias)
+Rectal:Deferred
+Extr:Lateral, lower left foot noted to have erythema, increased
+warmth, consistent with cellulitis. A small ulceration superior
+to lateral malleolus that was 1cm in length by 1cm in depth,
+with slight pus and without odor. 2+ edema of lower extremities
+bilaterally without cyanosis. Femoral, and radial pulses 2+
+bilaterally. Pedal pulses could not be palpated bilaterally.
+Neuro:
+MS:
+Orientation: to person, place, date, and purpose for visit
+Attention: repeats 10 digits forwards
+Frontal:follows and repeats 3-step motor pattern with both hands
+
+Speech:spontaneous; fluent
+Memory:knows current events. patient refused more extensive
+memory testing.
+Parietal:correctly performs crossed-body, 2-step command
+Cognition:explains proverbs "an apple doesn't fall far from the
+tree"; good insight; appropriate judgment
+Thought Content:no hallucinations; no delusions
+Mood:upset and agitated at the moment.
+CN:
+I:not tested
+II,III:PERRL, blinks to threat
+III,IV,VI:gaze full in all directions; no ptosis.
+V:sensation symmetric to LT V1-V3
+VII:face symmetric w/o weakness
+VIII:hearing symmetric to finger rub
+IX,X:palate rises symmetrically; no dysarthria or dysphagia; gag
+reflex intact
+[**Doctor First Name 81**]:SCM??????s and trapeziums [**6-16**]
+XII:tongue midline; no gross atrophy or fasciculation
+Motor:Normal bulk in upper extremities. Lower bulk in lower
+extremities.  Normal tone; no spasticity or rigidity.  No
+tremor, chorea, athetosis, hemiballismus, or bradykinesia.  No
+pronator drift.  Could not stand without assistance or support.
+
+
+EXT: 2+ radial pulses bilat, unable to palpate DP, slightly cool
+LE, paler L than right foot, charcot feet, onychomycosis
+
+Sensory:
+Patient has decreased light touch, vibration, pain and
+temperature in both feet. Patient did not allow for examination
+of proprioception nor upper extremities.
+
+Reflexes
+No clonus or asterixis.
+Coordination / Gait:
+Patient would not cooperate with testing.
+
+
+
+
+Pertinent Results:
+ADMISSION LABS:
+130  93  18
+============< 377
+4.8  18  1.0
+.
+CK: 150  MB: 5  Trop-T: <0.01
+.
+12.1 D  > 34.1 <  336
+N:87.7 L:7.6 M:4.2 E:0.3 Bas:0.2
+.
+U/A: trace protein, 1000glucose, 150ketones, neg for infxn
+.
+TRANSFER LABS:
+138  106  5
+============< 196
+3.5  23  0.7
+Ca: 8.4 Mg: 1.7 P: 3.2
+Vanco: 9.5
+.
+4.7  > 27.3 <  319
+.
+SED-Rate: 58
+
+Discharge Labs:
+[**2149-3-3**] 06:55AM BLOOD WBC-4.9 RBC-3.02* Hgb-9.2* Hct-26.7*
+MCV-88 MCH-30.4 MCHC-34.5 RDW-14.5 Plt Ct-353
+
+[**2149-3-3**] 06:55AM BLOOD Glucose-163* UreaN-8 Creat-0.8 Na-138
+K-4.1 Cl-103 HCO3-27 AnGap-12
+
+MICRO:
+GRAM STAIN (Final [**2149-2-22**]): 2+(1-5 per 1000X
+FIELD):POLYMORPHONUCLEAR LEUKOCYTES. No MICROORGANISMS SEEN.
+.
+WOUND CULTURE (Final [**2149-2-24**]):
+KLEBSIELLA PNEUMONIAE.SPARSE GROWTH.
+.
+GRAM STAIN (Final [**2149-2-28**]):1+(<1 per 1000X
+FIELD):POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.
+.
+WOUND CULTURE (Final [**2149-3-3**]):STAPHYLOCOCCUS, COAGULASE
+NEGATIVE.RARE GROWTH.
+.
+WOUND CULTURE (Final [**2149-2-26**]): CORYNEBACTERIUM SPECIES
+(DIPHTHEROIDS).    RARE GROWTH.
+.
+WOUND CULTURE (Final [**2149-2-28**]): BETA STREPTOCOCCUS GROUP B.
+RARE GROWTH.
+
+ANAEROBIC CULTURE (Final [**2149-3-6**]):NO ANAEROBES ISOLATED.
+.
+Blood Culture, Routine (Final [**2149-2-27**]):NO GROWTH.
+.
+URINE CULTURE (Final [**2149-2-23**]): <10,000 organisms/ml.
+.
+
+FOOT XR [**2149-2-21**]:
+IMPRESSION:
+1.  No skin ulcer or focal osteolysis is noted to suggest
+osteomyelitis.
+2.  Interval osteolysis adjacent to the fixation screws is
+suggestive of
+infection or interval loosening.
+3.  Relatively stable neuropathic changes of the foot.
+.
+CXR [**2149-2-22**]:
+There are low lung volumes in the semi-upright position.  The
+lung fields
+appear clear.  No failure or pneumonia is identified.
+IMPRESSION:  No pneumonia.
+
+
+Brief Hospital Course:
+Mr. [**Known lastname 14611**] is a 49 year old male with a history of type II
+diabetes, charcot's foot s/p multiple surgeries, and previous
+MRSA infections who presents with left foot cellulitis,
+ulceration, and a resolving DKA. He developed drug rash allergy
+on his neck and back while in the ED.
+.
+1. Left foot abscess/cellulitis/drug reaction:
+Mr. [**Known lastname 14611**] presented to his podiatrist on [**2149-2-21**] with two days
+of nausea, vomiting(clear, non-bilious, non bloody) , productive
+cough (sputum color not noted), fatigue, and pain and redness of
+his left foot.  He was found to have a draining wound
+(approximately 1 cm in width x 1 cm in depth) on his left lower
+leg, just superior to the lateral malleolus with an area of
+surrounding cellulitis. He as admitted to the ED for IV
+antibiotics and observation. In the ED 2 liters of IV fluid, a
+dose of Vancomycin x1 (for cellulitis, first dose [**2149-2-22**]), and
+a percocet and transferred to the MICU for further management.
+In the MICU he was treated with his 5th liter of normal saline.
+He was stable with a heart rate of  77 and a blood pressure of
+140/66. Podiatry reported that plain film imaging showed
+"interval osteolysis adjacent to the fixation screws that is
+suggestive of infection or interval loosening".  Blood and swab
+cultures were obtained, and a urine culture was negative for
+growth. He was then admitted to the medicine floor for further
+management. On the floor He was continued on Vancomycin 1g [**Hospital1 **]
+and started on Zosyn (Pip-tazo) 4.5g Q8H on [**2149-2-22**]. He also
+developed a allergic reaction on his back, which appeared as
+erythematous, non-raised target lesions. He was taken by
+podiatry to the operating room on [**2149-2-24**] for surgical
+debridement of his foot ulcer, and found to have an abscess that
+was drained. Wound cultures grew Klebissela pneuomiae with
+sensitivites to Cipro, Meropenum, Gent, ceftriaxone and less
+sensitivities to Zosyn, amp/sublactam. He was continued on Vanc,
+but the Zosyn was stopped and he was started on Cipro (500mg PO
+bid) on [**2149-2-25**]. Wound cultures came back with gram positive
+cocci, so he was started on Keflex PO 500mg qid (first dose
+[**2149-2-26**].)Mr. [**Known lastname 24962**] improved with pain management after the
+debridement, and underwent surgical closure on [**2149-3-3**] and was
+discharged in good condition.
+.
+2. Diabetic Ketoacidosis:
+The patient presented to the emergency department with a glucose
+of 377, Anion Gap of  24, lactate of 1.2 and ketones in this
+urine, consistent with Diabetic Ketoacidosis. Of note he also
+had missed his previous 4 doses of lantus insulin.
+He was given 6 units of insulin, 2 liters of IV fluid and
+transferred to the MICU where he was started on an inslin drip.
+His anion gap eventually close, he glucose was controlled in the
+150-240's range, and his anion gap closed before he was admitted
+to the medicine floor. On the medicine floor the patient was
+followed by the [**Hospital **] clinic. His lantus dose was reduced to
+half while he was NPO before procedures, and kept at 20mg [**Hospital1 **]
+when eating regularly. His humalog scale was increased 2 units
+during his stay because of increasing glucose levels. Upon
+discharge his glucose was stable at 163 and his anion gap was
+12.
+.
+
+3. Anemia: [**Known lastname 14611**] had a hematocrit of 27.3 on admission, with a
+range of 24.4 to 28.3, with a discharge hematocrit of 26.7. Of
+note, he loss 300cc of blood during  the surgical debridement of
+his foot ulcer on [**2149-2-24**]. Two units of blood were cross and
+matched, but a transfusion was not needed. He was mainted on
+Iron supplementation with ferrous sulfate, 325mg PO. His anemia
+was stable at discharge.
+.
+
+4. Skin lesions: The patient has developed blanching, raised,
+erythematous lesions with a target like appearance on his back
+and neck in a similar distribution to a previous admission in
+[**2148-10-12**]. Dermatology consulted on the patient, and a biopsy
+was performed and found to be consistent with a drug reaction,
+although erythema multiforme could not be excluded. The patient
+was treated with HydrOXYzine 25 mg PO PRN/Q6H, and Sarna lotion
+application PRN. The drug allergy improved over the course of
+the admission and was stable at discharge. A follow up
+appointment was made with the allergy clinic for the patient.
+
+
+Medications on Admission:
+Lisinopril 20mg qd
+Lantus 20U (AM&PM)
+Humalog SS
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+3. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q6H (every 6 hours) as needed for 20 doses: do not exceed 8
+tablets in 24 hours.
+Disp:*20 Tablet(s)* Refills:*0*
+5. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Clobetasol 0.05 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2
+times a day) as needed for Rash.
+Disp:*QS QS* Refills:*0*
+7. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+QID (4 times a day) as needed for pruritis.
+8. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours) for 10 days.
+Disp:*20 Tablet(s)* Refills:*0*
+9. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours) for 10 days: FINISH ALL OF YOUR ANTIBIOTICS.
+Disp:*40 Capsule(s)* Refills:*0*
+10. Humalog 100 unit/mL Solution Sig: sliding scale
+Subcutaneous four times a day: please follow new sliding scale
+and adjust [**First Name8 (NamePattern2) **] [**Last Name (un) **] recommendations.
+Disp:*QS QS* Refills:*2*
+11. SYRINGE
+BD ultra-fine Ii short - syringes 31g 1/2cc as directed use
+5x/day. Dispense: QS x 1 month, Refill 6
+12. glucose strips
+one touch ultra fine strips.  QS for one month, 6 refills
+13. lancets
+one-touch lancets for glucose meter.  QS one month, 6 refills
+14. Lantus 100 unit/mL Solution Sig: Twenty Five (25) units
+Subcutaneous at bedtime.
+15. Lantus 100 unit/mL Solution Sig: Twenty (20) units
+Subcutaneous qAM.
+Disp:*QS QS* Refills:*6*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+PRIMARY:
+Diabetic Ketoacidosis
+Diabetic foot ulcer infection
+.
+SECONDARY:
+Bilateral Charcot Foot with multiple surgeries
+Drug sensitivy skin rash
+
+
+Discharge Condition:
+Good
+.
+FSBG 85-277
+.
+Afebrile, comfortable
+
+
+Discharge Instructions:
+You were admitted with Diabetic Ketoacidosis and a left foot
+infection. Your glucose was at 377 and you were dehydrated, thus
+you were treated with an insulin drip and IV fluids. You were
+started on the IV antibiotics  piperacillin and tazobactam and
+vancomycin for your foot infection. Your wound culture grew the
+bacteria klebisella pneumonia and group [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 24966**], [**First Name3 (LF) **] you
+were switched to a 14 day course of the oral antibiotics
+ciprofloxacin and cephalexin. You were taken to surgery by the
+podiatry service for debridement of the wound on [**2149-2-24**]. Your
+incision was left open for 4 days to heal, and was then reclosed
+in the operating room on [**2149-2-28**] and a wound vaccum was placed
+as they were not able to close the entire wound.
+.
+Wound vac will be removed and you will need to perform wet to
+dry dressings 2 times per day. You will f/u with podiatry next
+week.
+.
+You were also noted to have a rash on your back. You were seen
+by dermatology who thought that you had a drug sensitivity
+reaction. Your rash appeared to improve after discontinuation of
+the antibiotics piperacillin and tazobactam, but the exact cause
+was unknown. You will need to see allergy specialist at [**Hospital1 18**].
+Please call the allergy clinic at [**Telephone/Fax (1) 8645**].
+.
+CHANGES IN MEDICATIONS:
+Humalog scale adjusted according to print-out
+Ciprofloxacin finish additional 10 day course
+Cephalexin four times a day finish additional 10 day course
+Glargine (lantus) insulin remains 20units in AM but now PM dose
+increased to 25units.
+.
+No other changes to your medications were made
+.
+Please adhere to all of your appointments adn call to reschedule
+if needed.
+.
+If you develop any concerning symtoms such as increased urinary
+frequency, dizzyness, chills, fever above 101 degrees, light
+headedness or any other major concerns, please see your doctor
+immediately.
+
+Followup Instructions:
+1)Please contact Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] for a PCP follow up within
+the next week. Call ([**Telephone/Fax (1) 24967**].
+.
+2) [**Hospital **] Clinic with Dr. [**First Name8 (NamePattern2) 7208**] [**Last Name (NamePattern1) 978**] on Thursday, [**2149-3-6**] at 9:30 am. Phone number ([**Telephone/Fax (1) 17484**]. Please bring
+referral from PCP.
+.
+3)Podiatry- with Dr. [**First Name11 (Name Pattern1) 5445**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5446**], on [**Last Name (LF) 766**], [**2149-3-10**] at 2:30 pm. Phone:[**Telephone/Fax (1) 543**].
+.
+4) [**Hospital 9039**] clinic: Please call [**Telephone/Fax (1) 8645**] to schedule an
+appointment next week.
+
+
+

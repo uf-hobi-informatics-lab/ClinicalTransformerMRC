@@ -1,0 +1,232 @@
+T1	Reason 1096 1111	spiked to 101.3
+R1	Reason-Drug Arg1:T1 Arg2:T4
+R2	Reason-Drug Arg1:T1 Arg2:T2
+R3	Reason-Drug Arg1:T1 Arg2:T3
+T2	Drug 1128 1136	Cefepime
+T3	Drug 1138 1143	vanco
+T4	Drug 1149 1155	flagyl
+T5	Reason 1257 1289	Rectal metastatic adenocarcinoma
+R4	Reason-Drug Arg1:T5 Arg2:T6
+R5	Reason-Drug Arg1:T5 Arg2:T8
+R6	Reason-Drug Arg1:T5 Arg2:T9
+T6	Drug 1426 1433	Avastin
+T7	Drug 1435 1446	bevacizumab
+T8	Drug 1449 1452	5FU
+T9	Drug 1458 1468	Leucovorin
+T10	Reason 3074 3082	diarrhea
+R7	Reason-Drug Arg1:T10 Arg2:T12
+R8	Reason-Drug Arg1:T10 Arg2:T15
+R9	Reason-Drug Arg1:T10 Arg2:T14
+R10	Reason-Drug Arg1:T10 Arg2:T13
+T11	Reason 3087 3093	fevers
+R11	Reason-Drug Arg1:T11 Arg2:T12
+R12	Reason-Drug Arg1:T11 Arg2:T14
+R13	Reason-Drug Arg1:T11 Arg2:T13
+T12	Drug 3124 3132	cefepime
+T13	Drug 3134 3144	vancomycin
+T14	Drug 3150 3163	metronidazole
+T15	Drug 3175 3182	Lomotil
+T16	Drug 4079 4082	IVF
+T17	Dosage 4088 4089	3
+R14	Dosage-Drug Arg1:T17 Arg2:T19
+T18	Form 4090 4094	amps
+R15	Form-Drug Arg1:T18 Arg2:T19
+T19	Drug 4095 4101	bicarb
+T20	Reason 4125 4133	acidosis
+R16	Reason-Drug Arg1:T20 Arg2:T16
+R17	Reason-Drug Arg1:T20 Arg2:T19
+T21	Route 4412 4422	transfused
+R18	Route-Drug Arg1:T21 Arg2:T22
+T22	Drug 4423 4428	PRBCs
+T23	Reason 4435 4447	dropping HCT
+R19	Reason-Drug Arg1:T23 Arg2:T22
+T24	Reason 4486 4498	elevated INR
+R20	Reason-Drug Arg1:T24 Arg2:T25
+T25	Drug 4529 4532	FFP
+T26	Drug 4856 4866	octroetide
+T27	Drug 5072 5078	fluids
+T28	Drug 5083 5092	analgesia
+T29	ADE 5192 5200	Diarrhea
+R21	ADE-Drug Arg1:T29 Arg2:T30
+T30	Drug 5220 5225	chemo
+T31	ADE 5234 5242	diarrhea
+R22	ADE-Drug Arg1:T31 Arg2:T30
+T32	Drug 5274 5282	cefepime
+T33	Drug 5284 5294	vancomycin
+T34	Drug 5300 5306	flagyl
+T35	Reason 5313 5330	neutropenic fever
+R23	Reason-Drug Arg1:T35 Arg2:T32
+R24	Reason-Drug Arg1:T35 Arg2:T33
+R25	Reason-Drug Arg1:T35 Arg2:T34
+T36	Drug 5463 5466	IVF
+T37	Drug 5471 5478	Lomotil
+T38	Reason 5548 5556	diarrhea
+R26	Reason-Drug Arg1:T38 Arg2:T39
+T39	Drug 5571 5578	lomotil
+T40	Drug 5810 5820	Octreotide
+T41	Reason 5857 5864;5865 5876	relieve obstruction
+R27	Reason-Drug Arg1:T41 Arg2:T40
+T42	Route 6134 6143	tranfused
+R28	Route-Drug Arg1:T42 Arg2:T43
+R29	Route-Drug Arg1:T42 Arg2:T44
+T43	Drug 6144 6149	pRBCs
+T44	Drug 6154 6157	FFP
+T45	Dosage 6405 6418	several units
+R30	Dosage-Drug Arg1:T45 Arg2:T46
+R31	Dosage-Drug Arg1:T45 Arg2:T47
+T46	Drug 6422 6425	FFP
+T47	Drug 6430 6435	pRBCs
+T48	Dosage 6440 6446	1 unit
+R32	Dosage-Drug Arg1:T48 Arg2:T49
+T49	Drug 6450 6459	platelets
+T50	Drug 663 674	antibiotics
+T51	Reason 6688 6705	NEUTROPENIC FEVER
+R33	Reason-Drug Arg1:T51 Arg2:T53
+R34	Reason-Drug Arg1:T51 Arg2:T52
+R35	Reason-Drug Arg1:T51 Arg2:T54
+T52	Drug 6734 6742	cefepime
+T53	Drug 6744 6749	vanco
+T54	Drug 6755 6761	flagyl
+T55	Reason 6958 6978	aspiration/pneumonia
+R36	Reason-Drug Arg1:T55 Arg2:T56
+T56	Drug 7003 7014	antibiotics
+T57	Duration 7029 7035	14 day
+R37	Duration-Drug Arg1:T57 Arg2:T56
+T58	Drug 7062 7070	neupogen
+T59	Route 7071 7081	injections
+R38	Route-Drug Arg1:T59 Arg2:T58
+T60	Drug 7106 7116	antibiotic
+T61	Drug 7158 7166	neupogen
+T62	ADE 738 746	diarrhea
+R39	ADE-Drug Arg1:T62 Arg2:T64
+T63	Drug 7429 7432	IVF
+T64	Drug 784 789	chemo
+T65	Reason 8002 8015	RECTAL CANCER
+R40	Reason-Drug Arg1:T65 Arg2:T66
+R41	Reason-Drug Arg1:T65 Arg2:T68
+R42	Reason-Drug Arg1:T65 Arg2:T67
+R43	Reason-Drug Arg1:T65 Arg2:T69
+T66	Drug 8022 8034	chemotherapy
+T67	Drug 8044 8051	avastin
+T68	Drug 8052 8055	5FU
+T69	Drug 8124 8136	chemotherapy
+T70	Drug 8494 8497	IVF
+T71	Drug 8729 8732	IVF
+T72	Reason 8743 8746	SBO
+R44	Reason-Drug Arg1:T72 Arg2:T71
+T73	Drug 8856 8859	IVF
+T74	Reason 8878 8881	SBO
+R45	Reason-Drug Arg1:T74 Arg2:T73
+T75	Drug 8913 8920	Aspirin
+T76	Strength 8921 8927	325 mg
+R46	Strength-Drug Arg1:T76 Arg2:T75
+T77	Route 8928 8930	PO
+R47	Route-Drug Arg1:T77 Arg2:T75
+T78	Frequency 8931 8936	DAILY
+R48	Frequency-Drug Arg1:T78 Arg2:T75
+T79	Drug 8940 8948	Atenolol
+T80	Strength 8949 8954	50 mg
+R49	Strength-Drug Arg1:T80 Arg2:T79
+T81	Route 8955 8957	PO
+R50	Route-Drug Arg1:T81 Arg2:T79
+T82	Frequency 8958 8968	once a day
+R51	Frequency-Drug Arg1:T82 Arg2:T79
+T83	Drug 8973 8982	Buspirone
+T84	Drug 8986 8995	Compazine
+T85	Frequency 8996 8999	prn
+R52	Frequency-Drug Arg1:T85 Arg2:T84
+T86	Drug 9028 9041	Acetaminophen
+T87	Strength 9042 9048	325 mg
+R53	Strength-Drug Arg1:T87 Arg2:T86
+T88	Form 9049 9055	Tablet
+R54	Form-Drug Arg1:T88 Arg2:T86
+T89	Dosage 9061 9064	1-2
+R55	Dosage-Drug Arg1:T89 Arg2:T86
+T90	Form 9065 9072	Tablets
+R56	Form-Drug Arg1:T90 Arg2:T86
+T91	Route 9073 9075	PO
+R57	Route-Drug Arg1:T91 Arg2:T86
+T92	Frequency 9076 9081	Q4-6H
+R58	Frequency-Drug Arg1:T92 Arg2:T86
+T93	Drug 9117 9133	Prochlorperazine
+T94	Strength 9134 9139	10 mg
+R59	Strength-Drug Arg1:T94 Arg2:T93
+T95	Form 9140 9146	Tablet
+R60	Form-Drug Arg1:T95 Arg2:T93
+T96	Dosage 9152 9159	One (1)
+R61	Dosage-Drug Arg1:T96 Arg2:T93
+T97	Form 9160 9166	Tablet
+R62	Form-Drug Arg1:T97 Arg2:T93
+T98	Route 9167 9169	PO
+R63	Route-Drug Arg1:T98 Arg2:T93
+T99	Frequency 9170 9173	Q6H
+R64	Frequency-Drug Arg1:T99 Arg2:T93
+T100	Drug 9204 9221	Albuterol Sulfate
+T101	Strength 9222 9227	0.083 
+R65	Strength-Drug Arg1:T101 Arg2:T100
+T102	Form 9230 9238	Solution
+R66	Form-Drug Arg1:T102 Arg2:T100
+T103	Dosage 9244 9247;9248 9251	One (1)
+R67	Dosage-Drug Arg1:T103 Arg2:T100
+T104	Route 9253 9263	Inhalation
+R68	Route-Drug Arg1:T104 Arg2:T100
+T105	Frequency 9264 9267;9268 9293	Q4H (every 4 hours) as needed
+R69	Frequency-Drug Arg1:T105 Arg2:T100
+T106	Drug 9298 9317	Ipratropium Bromide
+T107	Strength 9318 9323;9323 9324	0.02  %
+R70	Strength-Drug Arg1:T107 Arg2:T106
+T108	Form 9325 9333	Solution
+R71	Form-Drug Arg1:T108 Arg2:T106
+T109	Dosage 9339 9342;9343 9346	One (1)
+R72	Dosage-Drug Arg1:T109 Arg2:T106
+T110	Route 9348 9358	Inhalation
+R73	Route-Drug Arg1:T110 Arg2:T106
+T111	Frequency 9359 9362;9363 9388	Q6H (every 6 hours) as needed
+R74	Frequency-Drug Arg1:T111 Arg2:T106
+T112	Drug 9393 9403	Dolasetron
+T113	Strength 9404 9420	12.5 mg/0.625 mL
+R75	Strength-Drug Arg1:T113 Arg2:T112
+T114	Form 9421 9429	Solution
+R76	Form-Drug Arg1:T114 Arg2:T112
+T115	Dosage 9435 9438;9439 9442	One (1)
+R77	Dosage-Drug Arg1:T115 Arg2:T112
+T116	Route 9443 9454	Intravenous
+R78	Route-Drug Arg1:T116 Arg2:T112
+T117	Frequency 9456 9459;9460 9485	Q8H (every 8 hours) as needed
+R79	Frequency-Drug Arg1:T117 Arg2:T112
+T118	Drug 9490 9502	Pantoprazole
+T119	Strength 9503 9508	40 mg
+R80	Strength-Drug Arg1:T119 Arg2:T118
+T120	Form 9509 9519	Recon Soln
+R81	Form-Drug Arg1:T120 Arg2:T118
+T121	Dosage 9525 9528;9529 9532	One (1)
+R82	Dosage-Drug Arg1:T121 Arg2:T118
+T122	Form 9533 9543	Recon Soln
+R83	Form-Drug Arg1:T122 Arg2:T118
+T123	Route 9544 9555	Intravenous
+R84	Route-Drug Arg1:T123 Arg2:T118
+T124	Frequency 9557 9561;9562 9578	Q12H (every 12 hours)
+R85	Frequency-Drug Arg1:T124 Arg2:T118
+T125	Drug 9583 9591	Morphine
+T126	Strength 9592 9599	2 mg/mL
+R86	Strength-Drug Arg1:T126 Arg2:T125
+T127	Form 9600 9607	Syringe
+R87	Form-Drug Arg1:T127 Arg2:T125
+T128	Drug 962 965	IVF
+T129	Route 9626 9635	Injection
+R88	Route-Drug Arg1:T129 Arg2:T125
+T130	Frequency 9636 9639	Q4H
+R89	Frequency-Drug Arg1:T130 Arg2:T125
+T131	Drug 9670 9679	Lorazepam
+T132	Strength 9680 9687	2 mg/mL
+R90	Strength-Drug Arg1:T132 Arg2:T131
+T133	Form 9688 9695	Syringe
+R91	Form-Drug Arg1:T133 Arg2:T131
+T134	Dosage 9701 9707	0.5 mg
+R92	Dosage-Drug Arg1:T134 Arg2:T131
+T135	Route 9708 9717	Injection
+R93	Route-Drug Arg1:T135 Arg2:T131
+T136	Frequency 9718 9721	Q4H
+R94	Frequency-Drug Arg1:T136 Arg2:T131
+T137	Route 985 987	IV
+R95	Route-Drug Arg1:T137 Arg2:T128	

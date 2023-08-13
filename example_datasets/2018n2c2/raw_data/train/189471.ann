@@ -1,0 +1,281 @@
+T1	Drug 10364 10374	carvedilol
+T2	Drug 10379 10388	diltiazem
+T3	Drug 11302 11310	coumadin
+T4	Drug 1271 1273	BB
+T5	Strength 1287 1291	1amp
+R1	Strength-Drug Arg1:T5 Arg2:T6
+T6	Drug 1292 1296	cacl
+T7	Strength 1298 1303	0.5mg
+R2	Strength-Drug Arg1:T7 Arg2:T8
+T8	Drug 1304 1312	atropine
+T9	Strength 1326 1329	amp
+R3	Strength-Drug Arg1:T9 Arg2:T10
+T10	Drug 1330 1332	d5
+T11	Strength 1351 1356	1 amp
+R4	Strength-Drug Arg1:T11 Arg2:T12
+T12	Drug 1357 1370	sodium bicarb
+T13	Drug 1375 1383	glucagon
+T14	Drug 1397 1405	atropine
+T15	Drug 1407 1411	cacl
+T16	Drug 1417 1425	glucagon
+T18	Strength 1432 1434	2L
+R6	Strength-Drug Arg1:T18 Arg2:T20
+T20	Drug 1435 1437	NS
+T21	Drug 1439 1442	CTX
+T22	Strength 1443 1445	1g
+R8	Strength-Drug Arg1:T22 Arg2:T21
+T23	Dosage 1447 1448	1
+R9	Dosage-Drug Arg1:T23 Arg2:T21
+T25	Drug 1771 1776	fluid
+T26	Form 1777 1784	boluses
+R11	Form-Drug Arg1:T26 Arg2:T25
+T27	Reason 1818 1829	bradycardia
+R12	Reason-Drug Arg1:T27 Arg2:T28
+R13	Reason-Drug Arg1:T27 Arg2:T29
+R14	Reason-Drug Arg1:T27 Arg2:T30
+T28	Drug 1835 1843	atropine
+T29	Drug 1845 1862	calcium gluconate
+T30	Drug 1868 1876	glucagon
+T32	Drug 6567 6572	fluid
+T33	Form 6573 6580	boluses
+R16	Form-Drug Arg1:T33 Arg2:T32
+T34	Drug 6600 6618	anti-hypertensives
+T35	Drug 6656 6661	Coreg
+T36	Drug 6666 6672	Cartia
+T38	Drug 7500 7505	fluid
+T39	Reason 7804 7807	CHF
+R18	Reason-Drug Arg1:T39 Arg2:T40
+R19	Reason-Drug Arg1:T39 Arg2:T42
+R20	Reason-Drug Arg1:T39 Arg2:T41
+T40	Drug 7808 7813	Lasix
+T41	Drug 8000 8005	Lasix
+T42	Drug 8010 8024	Spironolactone
+T43	Reason 8116 8119	CAD
+R21	Reason-Drug Arg1:T43 Arg2:T44
+R22	Reason-Drug Arg1:T43 Arg2:T45
+R23	Reason-Drug Arg1:T43 Arg2:T46
+T44	Drug 8287 8290	ASA
+T45	Drug 8295 8300	Zocor
+T46	Drug 8339 8348	Quinapril
+T47	Reason 8421 8425	COPD
+R24	Reason-Drug Arg1:T47 Arg2:T48
+T48	Drug 8452 8460	Atrovent
+T49	Frequency 8461 8464	QID
+R25	Frequency-Drug Arg1:T49 Arg2:T48
+T50	Reason 8537 8556	ATRIAL FIBRILLATION
+R26	Reason-Drug Arg1:T50 Arg2:T51
+T51	Drug 8606 8614	Coumadin
+T52	Drug 8671 8680	Glipizide
+T53	Strength 8681 8684	5mg
+R27	Strength-Drug Arg1:T53 Arg2:T52
+T54	Frequency 8685 8690	daily
+R28	Frequency-Drug Arg1:T54 Arg2:T52
+T55	Drug 8691 8696	Coreg
+T56	Strength 8697 8703	37.5mg
+R29	Strength-Drug Arg1:T56 Arg2:T55
+T57	Drug 8721 8730	Diltiazem
+T58	Strength 8743 8748	300mg
+R30	Strength-Drug Arg1:T58 Arg2:T57
+T59	Frequency 8749 8751	QD
+R31	Frequency-Drug Arg1:T59 Arg2:T57
+T60	Drug 8752 8757	Lasix
+T61	Strength 8758 8762	40mg
+R32	Strength-Drug Arg1:T61 Arg2:T60
+T62	Drug 8780 8788	Atrovent
+T63	Dosage 8789 8792	3-4
+R33	Dosage-Drug Arg1:T63 Arg2:T62
+T64	Form 8792 8797	puffs
+R34	Form-Drug Arg1:T64 Arg2:T62
+T65	Frequency 8798 8801	QID
+R35	Frequency-Drug Arg1:T65 Arg2:T62
+T66	Drug 8802 8811	Quinapril
+T67	Strength 8812 8815	5mg
+R36	Strength-Drug Arg1:T67 Arg2:T66
+T68	Frequency 8816 8821	daily
+R37	Frequency-Drug Arg1:T68 Arg2:T66
+T69	Drug 8822 8830	Coumadin
+T70	Strength 8831 8836	2.5mg
+R38	Strength-Drug Arg1:T70 Arg2:T69
+T71	Frequency 8837 8841	qday
+R39	Frequency-Drug Arg1:T71 Arg2:T69
+T72	Drug 8842 8853	Allopurinol
+T73	Drug 8854 8868	Spironolactone
+T74	Strength 8869 8873	50mg
+R40	Strength-Drug Arg1:T74 Arg2:T73
+T75	Frequency 8874 8876	QD
+R41	Frequency-Drug Arg1:T75 Arg2:T73
+T76	Drug 8877 8883	Valium
+T77	Strength 8884 8887	5mg
+R42	Strength-Drug Arg1:T77 Arg2:T76
+T78	Frequency 8888 8891	TID
+R43	Frequency-Drug Arg1:T78 Arg2:T76
+T79	Frequency 8892 8895	prn
+R44	Frequency-Drug Arg1:T79 Arg2:T76
+T80	Drug 8896 8901	Zocor
+T81	Strength 8902 8906	20mg
+R45	Strength-Drug Arg1:T81 Arg2:T80
+T82	Frequency 8907 8912	daily
+R46	Frequency-Drug Arg1:T82 Arg2:T80
+T83	Drug 8913 8919	Folate
+T84	Drug 8920 8925	Vit D
+T85	Drug 8926 8933	Vit B12
+T86	Drug 8962 8969	Aspirin
+T87	Strength 8970 8976	325 mg
+R47	Strength-Drug Arg1:T87 Arg2:T86
+T88	Form 8977 8983	Tablet
+R48	Form-Drug Arg1:T88 Arg2:T86
+T89	Dosage 8989 8996	One (1)
+R49	Dosage-Drug Arg1:T89 Arg2:T86
+T90	Form 8997 9003	Tablet
+R50	Form-Drug Arg1:T90 Arg2:T86
+T91	Route 9004 9006	PO
+R51	Route-Drug Arg1:T91 Arg2:T86
+T92	Frequency 9007 9012	DAILY
+R52	Frequency-Drug Arg1:T92 Arg2:T86
+T93	Drug 9025 9036	Simvastatin
+T94	Strength 9037 9042	40 mg
+R53	Strength-Drug Arg1:T94 Arg2:T93
+T95	Form 9043 9049	Tablet
+R54	Form-Drug Arg1:T95 Arg2:T93
+T96	Dosage 9055 9058	0.5
+R55	Dosage-Drug Arg1:T96 Arg2:T93
+T97	Form 9059 9065	Tablet
+R56	Form-Drug Arg1:T97 Arg2:T93
+T98	Route 9066 9068	PO
+R57	Route-Drug Arg1:T98 Arg2:T93
+T99	Frequency 9069 9074	DAILY
+R58	Frequency-Drug Arg1:T99 Arg2:T93
+T100	Drug 9087 9106	Ipratropium Bromide
+T102	Strength 9107 9123	17 mcg/Actuation
+R60	Strength-Drug Arg1:T102 Arg2:T100
+T103	Form 9124 9131	Aerosol
+R61	Form-Drug Arg1:T103 Arg2:T100
+T104	Dosage 9137 9144	Two (2)
+R62	Dosage-Drug Arg1:T104 Arg2:T100
+T105	Form 9145 9149	Puff
+R63	Form-Drug Arg1:T105 Arg2:T100
+T107	Route 9150 9160	Inhalation
+R65	Route-Drug Arg1:T107 Arg2:T100
+T108	Frequency 9161 9164	QID
+R66	Frequency-Drug Arg1:T108 Arg2:T100
+T109	Drug 9185 9195	Folic Acid
+T110	Strength 9196 9200	1 mg
+R67	Strength-Drug Arg1:T110 Arg2:T109
+T111	Form 9201 9207	Tablet
+R68	Form-Drug Arg1:T111 Arg2:T109
+T112	Dosage 9213 9220	One (1)
+R69	Dosage-Drug Arg1:T112 Arg2:T109
+T113	Form 9221 9227	Tablet
+R70	Form-Drug Arg1:T113 Arg2:T109
+T114	Route 9228 9230	PO
+R71	Route-Drug Arg1:T114 Arg2:T109
+T115	Frequency 9231 9236	DAILY
+R72	Frequency-Drug Arg1:T115 Arg2:T109
+T116	Drug 9250 9259	Glipizide
+T117	Strength 9260 9264	5 mg
+R73	Strength-Drug Arg1:T117 Arg2:T116
+T118	Form 9265 9271	Tablet
+R74	Form-Drug Arg1:T118 Arg2:T116
+T119	Dosage 9277 9280	0.5
+R75	Dosage-Drug Arg1:T119 Arg2:T116
+T120	Form 9281 9287	Tablet
+R76	Form-Drug Arg1:T120 Arg2:T116
+T121	Route 9288 9290	PO
+R77	Route-Drug Arg1:T121 Arg2:T116
+T122	Frequency 9291 9294	BID
+R78	Frequency-Drug Arg1:T122 Arg2:T116
+T123	Drug 9316 9326	Carvedilol
+T124	Strength 9327 9334	12.5 mg
+R79	Strength-Drug Arg1:T124 Arg2:T123
+T125	Form 9335 9341	Tablet
+R80	Form-Drug Arg1:T125 Arg2:T123
+T126	Dosage 9347 9354	One (1)
+R81	Dosage-Drug Arg1:T126 Arg2:T123
+T127	Form 9355 9361	Tablet
+R82	Form-Drug Arg1:T127 Arg2:T123
+T128	Route 9362 9364	PO
+R83	Route-Drug Arg1:T128 Arg2:T123
+T129	Frequency 9365 9368	BID
+R84	Frequency-Drug Arg1:T129 Arg2:T123
+T130	Drug 9431 9444	Diltiazem HCl
+T131	Strength 9445 9451	120 mg
+R85	Strength-Drug Arg1:T131 Arg2:T130
+T132	Form 9452 9478	Capsule, Sustained Release
+R86	Form-Drug Arg1:T132 Arg2:T130
+T133	Dosage 9484 9491	One (1)
+R87	Dosage-Drug Arg1:T133 Arg2:T130
+T134	Form 9492 9518	Capsule, Sustained Release
+R88	Form-Drug Arg1:T134 Arg2:T130
+T135	Route 9519 9521	PO
+R89	Route-Drug Arg1:T135 Arg2:T130
+T136	Frequency 9522 9527	DAILY
+R90	Frequency-Drug Arg1:T136 Arg2:T130
+T137	Drug 9602 9613	Allopurinol
+T138	Strength 9614 9620	100 mg
+R91	Strength-Drug Arg1:T138 Arg2:T137
+T139	Form 9621 9627	Tablet
+R92	Form-Drug Arg1:T139 Arg2:T137
+T140	Dosage 9633 9640	One (1)
+R93	Dosage-Drug Arg1:T140 Arg2:T137
+T141	Form 9641 9647	Tablet
+R94	Form-Drug Arg1:T141 Arg2:T137
+T142	Route 9648 9650	PO
+R95	Route-Drug Arg1:T142 Arg2:T137
+T143	Frequency 9651 9661	once a day
+R96	Frequency-Drug Arg1:T143 Arg2:T137
+T144	Drug 9693 9701	Warfarin
+T145	Strength 9702 9708	2.5 mg
+R97	Strength-Drug Arg1:T145 Arg2:T144
+T146	Form 9709 9715	Tablet
+R98	Form-Drug Arg1:T146 Arg2:T144
+T147	Dosage 9721 9728	One (1)
+R99	Dosage-Drug Arg1:T147 Arg2:T144
+T148	Form 9729 9735	Tablet
+R100	Form-Drug Arg1:T148 Arg2:T144
+T149	Route 9736 9738	PO
+R101	Route-Drug Arg1:T149 Arg2:T144
+T150	Frequency 9739 9749	once a day
+R102	Frequency-Drug Arg1:T150 Arg2:T144
+T151	Drug 9755 9764	Aldactone
+T152	Strength 9765 9770	50 mg
+R103	Strength-Drug Arg1:T152 Arg2:T151
+T153	Form 9771 9777	Tablet
+R104	Form-Drug Arg1:T153 Arg2:T151
+T154	Dosage 9783 9790	One (1)
+R105	Dosage-Drug Arg1:T154 Arg2:T151
+T155	Form 9791 9797	Tablet
+R106	Form-Drug Arg1:T155 Arg2:T151
+T156	Route 9798 9800	PO
+R107	Route-Drug Arg1:T156 Arg2:T151
+T157	Frequency 9801 9811	once a day
+R108	Frequency-Drug Arg1:T157 Arg2:T151
+T158	Drug 9817 9822	Lasix
+T159	Strength 9823 9828	40 mg
+R109	Strength-Drug Arg1:T159 Arg2:T158
+T160	Form 9829 9835	Tablet
+R110	Form-Drug Arg1:T160 Arg2:T158
+T161	Dosage 9841 9848	One (1)
+R111	Dosage-Drug Arg1:T161 Arg2:T158
+T162	Form 9849 9855	Tablet
+R112	Form-Drug Arg1:T162 Arg2:T158
+T163	Route 9856 9858	PO
+R113	Route-Drug Arg1:T163 Arg2:T158
+T164	Frequency 9859 9870	twice a day
+R114	Frequency-Drug Arg1:T164 Arg2:T158
+T165	Drug 9900 9908	Atrovent
+T167	Strength 9909 9925	18 mcg/Actuation
+R116	Strength-Drug Arg1:T167 Arg2:T165
+T168	Form 9926 9933	Aerosol
+R117	Form-Drug Arg1:T168 Arg2:T165
+T169	Dosage 9939 9946	One (1)
+R118	Dosage-Drug Arg1:T169 Arg2:T165
+T170	Route 9948 9958	Inhalation
+R119	Route-Drug Arg1:T170 Arg2:T165
+T171	Frequency 9959 9975	four times a day
+R120	Frequency-Drug Arg1:T171 Arg2:T165
+T17	Route 1768 1770	IV
+R5	Route-Drug Arg1:T17 Arg2:T25	
+T19	Route 6564 6566	IV
+R7	Route-Drug Arg1:T19 Arg2:T32	
+T24	Route 7497 7499	IV
+R10	Route-Drug Arg1:T24 Arg2:T38	

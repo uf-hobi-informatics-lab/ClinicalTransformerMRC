@@ -1,0 +1,218 @@
+Admission Date:  [**2146-4-3**]              Discharge Date:   [**2146-4-7**]
+
+Date of Birth:  [**2120-3-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1042**]
+Chief Complaint:
+Abdominal Pain, Nausea, Vomitting
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known lastname 64236**] is a 26 y/o man with IDDM for 8 years who presents
+with several days of nausea/vomiting and abdominal pain. Two
+weeks ago, he was diagnosed with sinusitis/sinus infection and
+given antibiotics. He first noticed epigastric abdominal pain
+about one week ago, constant, without relation to food. It was a
+strong, sharp pain that did not radiate. Notably, he had been
+taking ibuprofen 800 mg q3h for headache associated with
+sinusitis at that time. In past 2-3 days noticed increased
+nausea with vomiting. Denies hematemesis. Notes that he last
+kept something liquid down yesterday morning, but vomitted up
+everything (both liqiuds and solids) through the day and night.
+Thus, he came to [**Hospital1 18**] ED that night. Took insulin during that
+time intermittently but this is typical for him.
+.
+His insulin control and FSG checking has chronically been very
+poor. He admits to taking insulin about 5 times per week.
+Further, when he does take it, he taked a standing dose of 10U
+Reg and 30U of 70/30. He takes his FSG about 1 per month due to
+discomfort with the prick. He has chronic polyuria and
+polydypsia. He reports getting regular vision checks with [**Last Name (un) **]
+center and no knowledge of neuropathy, kidney disease, or eye
+problems.
+.
+On ROS, he denies HA, changes in vision, hearing, or swallowing.
+No fever, sweats, chills, weight loss. He eats very well. No CP,
+palps, PND, orthopnea. No SOB, pain with breathing, cough,
+wheeze. No recent bowel of bladder dysfunction. No troubles with
+limb weakness, sensory changes, poor coordination. He does feel
+episodes of hypoglycemia if he does not eat following insulin:
+sweating, palpitations, and anxiety.
+
+Past Medical History:
+IDDM: Poorly controlled
+DKA X 3
+Periperal neuropathy
+
+Social History:
+Patient denies any tobacco use. Uses ETOH socially. No drug use.
+Patient is a mental health worker in [**Last Name (un) 64237**] center, he
+currently lives with fiance. Pt is engaged and expecting
+daughter in next week. Lives in [**Location 18600**].
+
+
+Family History:
+Family history positive for DM,CVA, cardiac disease
+[**Name (NI) **] mother died at age 45 from heart disease related to
+diabetes
+No family history of sickle cell disease
+
+
+Physical Exam:
+T: 98.8 BP: 139/78 HR: 112 RR: 17 O2 100% RA
+Gen: Pleasant, well appearing young male in no acute distress,
+lying comfortably in bed
+HEENT: No conjunctival pallor. No scleral icterus. MM slightly
+dry. OP clear. Eye funduscopic exam WNL (no exudates, edema,
+wiring)
+NECK: Supple, No LAD, JVD not elevated while sitting upright. No
+goiter
+CV: Tachycardic, regular, no appreciable murmur. Physiologically
+splitting S2.
+LUNGS: clear to auscultation bilaterally, no wheezing or rhonchi
+
+ABD: soft, nontender to palpation, no hepatosplenomegaly
+EXT: warm, well perfused throughout, no peripheral edema
+SKIN: No rashes or ecchymoses.
+NEURO: A&Ox3. Appropriate. CN 2-12 grossly intact. 5/5 strength
+throughout. [**1-19**]+ reflexes, equal BL. Normal coordination. Distal
+foot sensation to light touch decreased.
+
+
+Pertinent Results:
+MICU Results:
+[**2146-4-3**] 08:17PM BLOOD WBC-14.6*# RBC-5.97 Hgb-15.6 Hct-48.8
+MCV-82 MCH-26.2* MCHC-32.0 RDW-12.6 Plt Ct-327
+[**2146-4-3**] 08:17PM BLOOD Glucose-404* UreaN-16 Creat-1.3* Na-143
+K-4.5 Cl-99 HCO3-12* AnGap-37*
+[**2146-4-4**] 02:46AM BLOOD Calcium-9.8 Phos-2.9 Mg-1.9
+[**2146-4-3**] 09:52PM BLOOD ALT-13 AST-11 AlkPhos-75 TotBili-0.3
+[**2146-4-4**] 12:22PM BLOOD %HbA1c-14.8*
+
+Floor Transfer:
+[**2146-4-5**] 04:30AM BLOOD WBC-10.1 RBC-4.97 Hgb-13.2* Hct-39.9*
+MCV-80* MCH-26.6* MCHC-33.1 RDW-13.0 Plt Ct-267
+[**2146-4-5**] 04:30AM BLOOD Glucose-187* UreaN-10 Creat-0.7 Na-142
+K-3.0* Cl-110* HCO3-19* AnGap-16
+[**2146-4-6**] 06:30AM BLOOD Glucose-232* UreaN-8 Creat-0.7 Na-145
+K-3.9 Cl-111* HCO3-24 AnGap-14
+[**2146-4-5**] 04:30AM BLOOD Calcium-9.1 Phos-2.2* Mg-1.8
+
+CXR:
+FINDINGS: The lungs are well expanded and clear. The mediastinum
+is unremarkable. The cardiac silhouette is within normal limits
+for size. No effusion or pneumothorax is evident. The visualized
+osseous structures are unremarkable.
+
+IMPRESSION: No acute pulmonary process.
+
+
+Brief Hospital Course:
+On arrival to MICU, patient complaining of ongoing nausea and
+epigastric pain. Vomitting X 2 was witnessed by house staff, the
+second episode occurring with a small amount of hematemesis. No
+subsequent hematemesis or significant Hct change. In the MICU,
+he was placed on insulin drip, IVF, and electrolytes (most
+notably K) were repleted as needed. His Anion Gap narrowed from
+30 to 13 by transfer to floor. His FSGs were initially high 400s
+and fluctuated between 200-500 in the MICU. Following
+stabilization, the patient was transferred to the medical floor.
+His FSG was 420 upon transfer. He was receiving standing NPH [**Hospital1 **]
+and Regular ISS with meals. On floor day 1, his FSGs were in the
+200s. His anion gap closed. Potassium and Phos were repleted.
+The [**Last Name (un) **] center was also consulted.
+.
+
+
+Discharge Medications:
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Insulin Lispro 100 unit/mL Insulin Pen Sig: As per sliding
+scale Units Subcutaneous four times a day: Use number of units
+indicated on sliding scale for your measured blood glucose level
+before breakfast, lunch, dinner, and at bedtime.
+Disp:*2 Pens* Refills:*5*
+3. Insulin Glargine 300 unit/3 mL Insulin Pen Sig: Forty (40)
+Units Subcutaneous at bedtime.
+Disp:*2 Pens* Refills:*2*
+4. Lancets     Misc Sig: One (1) lancet Miscellaneous qachs.
+Disp:*120 lancets* Refills:*2*
+5. Test strips
+One test strip
+qachs
+dispense 120
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary: Diabetic ketoacidosis, IDDM with features of insulin
+resistance.
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+You were admitted to the hospital for diabetic keto-acidosis.
+Diabetic ketoacidosis (DKA) is a severe and life threatening
+condition that results from uncontrolled blood sugar. This
+episode of DKA happened becuase you were not regularly taking
+insulin and becuase your blood sugar was very high. Your recent
+sinus infection could have also worsened your condition. As a
+result of this condition, you required admission to the
+intensive care unit. During your hospitalization, your blood
+sugar, electrolytes, and metabolism, in general, were restored
+to a more normal condition.
+
+It is extremely important that you keep your blood sugars at
+more normal levels or this life-threatening condition will
+happen again. Also, you will develop eye problems, kidney
+disease, worse leg numbness, and heart disease if your sugars
+are not controlled better.
+
+In order to control your sugars, you need to follow the Insulin
+regimen that was prescribed by the [**Last Name (un) **] center. You will have
+to take 2 types of insulin. You will take a dose of long acting
+insulin (Lantus) every night and this dose will be constant. You
+will take a dose of Humalog insulin before every meal based on
+the sliding scale chart - thus you have to check your sugar at
+this time.
+
+If you find that you are unable to follow the above insulin
+plan, you have to call your doctor at the [**Hospital **] clinic.
+
+Due to your high use of Motrin before admission, you irritated
+the lining of your stomach. Thus, we treated this problem with a
+medicine to decrease the acid in your stomach called
+pantoprazole. You should continue taking this medicine until you
+see your PCP and [**Name9 (PRE) 10748**] your stomach problem.
+
+If you begin to again experience increasing nausea, vomitting,
+abdominal pain, or any other concerning symptom, you should
+contact your PCP or go to the ER.
+
+Followup Instructions:
+You need to follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3636**] for diabetes care.
+Your first appointment is [**4-29**] at 4PM. This appointment is
+very important!!!
+
+You can call ([**Telephone/Fax (1) 17484**] and ask for Dr.[**Name (NI) 64238**] office if this
+time does not work.
+
+You need to schedule an appointment with you primary care doctor
+within the next few weeks to followup your stomach pain after
+taking Motrin.
+
+
+

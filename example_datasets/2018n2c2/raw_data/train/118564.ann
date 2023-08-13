@@ -1,0 +1,70 @@
+T1	Drug 9024 9034	prednisone
+T2	Drug 6017 6026	lorazepam
+T3	Drug 2051 2058	Bactrim
+T4	Drug 8773 8780	Dapsone
+T5	Drug 5513 5521	zolpidem
+T6	Drug 2060 2069	acyclovir
+T7	Drug 1932 1939	Bactrim
+T8	Drug 8845 8852	Dapsone
+T9	Drug 8480 8488	Nystatin
+T10	Drug 9043 9051	nicotine
+T11	Form 9052 9057	patch
+T12	Drug 533 542	ibuprofen
+T13	Drug 5527 5534	heparin
+T14	Drug 6045 6053	nicotine
+T15	Drug 4928 4938	prednisone
+T16	Drug 8674 8681	Dapsone
+T17	Drug 7622 7629	Bactrim
+T18	Drug 8169 8177	Fentanyl
+T19	Drug 4972 4984	levofloxacin
+T20	Drug 7536 7543	Bactrim
+T21	Drug 9555 9563	Nystatin
+T22	Drug 4916 4923	Bactrim
+T23	Drug 6007 6015	Fentanyl
+T24	Drug 8820 8827	Bactrim
+T25	Drug 5499 5511	pantoprazole
+T26	Drug 9568 9576	nicotine
+T27	Form 9577 9584	patches
+T29	Reason 490 498	headache
+T30	Drug 1848 1853	HAART
+T31	Reason 1652 1655	HIV
+T32	Reason 1944 1976	Pneumocystis carinii prophylaxis
+T33	Route 4904 4915	intravenous
+T34	Reason 4945 4967	possible PCP infection
+T35	Reason 4993 5021	community-acquired pneumonia
+T36	Drug 5489 5497	morphine
+T37	Reason 5991 5998	sedated
+T38	ADE 7585 7611;7612 7620	adult respiratory distress syndrome
+T39	ADE 8081 8090	agitation
+T40	ADE 8092 8106	hallucinations
+T41	ADE 8111 8120	tachypnea
+T42	Reason 8433 8437;8438 8444	oral thrush
+T43	Reason 8686 8701	PCP prophylaxis
+T44	ADE 8731 8735;8736 8761	rash on both arms and the back
+R1	Form-Drug Arg1:T11 Arg2:T10
+R2	Form-Drug Arg1:T27 Arg2:T26
+R3	Reason-Drug Arg1:T29 Arg2:T12
+R4	Reason-Drug Arg1:T31 Arg2:T30
+R5	Reason-Drug Arg1:T32 Arg2:T7
+R6	Route-Drug Arg1:T33 Arg2:T22
+R7	Reason-Drug Arg1:T34 Arg2:T15
+R8	Reason-Drug Arg1:T34 Arg2:T22
+R9	Reason-Drug Arg1:T35 Arg2:T19
+R10	Reason-Drug Arg1:T37 Arg2:T23
+R11	Reason-Drug Arg1:T37 Arg2:T2
+R12	ADE-Drug Arg1:T38 Arg2:T20
+R13	ADE-Drug Arg1:T41 Arg2:T18
+R14	ADE-Drug Arg1:T40 Arg2:T18
+R15	ADE-Drug Arg1:T39 Arg2:T18
+R16	Reason-Drug Arg1:T42 Arg2:T9
+R17	Reason-Drug Arg1:T43 Arg2:T16
+R18	ADE-Drug Arg1:T44 Arg2:T16
+T45	Drug 4039 4046	glucose
+T46	Drug 3978 3987	potassium
+T47	Drug 4023 4033	creatinine
+T48	Dosage 7954 7965	four liters
+T49	Route 7976 7989	nasal cannula
+T50	Drug 7969 7975	oxygen
+T51	Drug 9476 9481	HAART
+R19	Route-Drug Arg1:T49 Arg2:T50
+R20	Dosage-Drug Arg1:T48 Arg2:T50

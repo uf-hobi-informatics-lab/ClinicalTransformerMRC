@@ -1,0 +1,273 @@
+Admission Date:  [**2175-7-11**]              Discharge Date:   [**2175-7-19**]
+
+Date of Birth:  [**2109-7-12**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 695**]
+Chief Complaint:
+HCC/HCV
+
+Major Surgical or Invasive Procedure:
+liver transplant
+
+History of Present Illness:
+The patient is a 65-year-
+old male, with a history of hepatitis C-related cirrhosis,
+who subsequently developed hepatocellular carcinoma that has
+undergone radiofrequency ablation. The patient was evaluated
+for liver transplantation and was found to be a suitable
+candidate. He was placed on the waiting list. A suitable
+donor has become available, and the patient is now brought to
+the operating room after informed consent was obtained for
+orthotopic deceased donor liver transplant.
+
+
+Past Medical History:
+blindness [**3-2**] retinitis pigmentosa, deafness, HCV/HCC w/ cirr,
+arthritis, h/o testicular CA
+
+Social History:
+married with 2 children and 2
+grandchildren. 
+no alcohol no tobacco
+
+Physical Exam:
+NAD AOx3
+CTA b/l
+RRR
+soft, NTND
+no c/c/e
+
+Pertinent Results:
+[**2175-7-11**] 10:45AM BLOOD WBC-5.1 RBC-4.90 Hgb-15.3 Hct-45.8 MCV-94
+MCH-31.2 MCHC-33.4 RDW-13.7 Plt Ct-96*
+[**2175-7-12**] 02:00AM BLOOD WBC-11.7* RBC-3.67* Hgb-11.5* Hct-33.9*
+MCV-92 MCH-31.2 MCHC-33.8 RDW-14.7 Plt Ct-201
+[**2175-7-13**] 03:17AM BLOOD WBC-16.9* RBC-3.03* Hgb-9.7* Hct-27.1*
+MCV-89 MCH-31.8 MCHC-35.6* RDW-15.4 Plt Ct-117*
+[**2175-7-16**] 06:35AM BLOOD WBC-7.2 RBC-3.13* Hgb-9.7* Hct-28.5*
+MCV-91 MCH-30.9 MCHC-33.9 RDW-14.6 Plt Ct-110*
+[**2175-7-11**] 10:45AM BLOOD PT-12.9 PTT-31.3 INR(PT)-1.1
+[**2175-7-12**] 03:20AM BLOOD PT-19.5* PTT-90.0* INR(PT)-1.9*
+[**2175-7-18**] 04:35AM BLOOD PT-12.3 PTT-21.1* INR(PT)-1.1
+[**2175-7-11**] 10:45AM BLOOD Fibrino-105*
+[**2175-7-12**] 05:20AM BLOOD Fibrino-159
+[**2175-7-15**] 07:00AM BLOOD Fibrino-302
+[**2175-7-13**] 01:00PM BLOOD Glucose-186* UreaN-20 Creat-0.7 Na-140
+K-4.4 Cl-106 HCO3-26 AnGap-12
+[**2175-7-18**] 04:35AM BLOOD Glucose-147* UreaN-26* Creat-0.8 Na-141
+K-4.2 Cl-110* HCO3-23 AnGap-12
+[**2175-7-11**] 10:45AM BLOOD ALT-43* AST-86* AlkPhos-308* TotBili-1.0
+[**2175-7-12**] 11:55AM BLOOD ALT-511* AST-642* AlkPhos-107 TotBili-0.8
+DirBili-0.4* IndBili-0.4
+[**2175-7-14**] 04:47AM BLOOD ALT-261* AST-132* AlkPhos-113 TotBili-0.5
+[**2175-7-18**] 04:35AM BLOOD ALT-203* AST-51* AlkPhos-187* TotBili-0.4
+[**2175-7-12**] 05:20AM BLOOD Albumin-2.6* Calcium-9.3 Phos-1.6* Mg-1.8
+[**2175-7-18**] 04:35AM BLOOD Albumin-3.1* Calcium-8.4 Phos-3.5 Mg-1.7
+[**2175-7-18**] 04:35AM BLOOD AFP-13.7*
+[**2175-7-13**] 07:25AM BLOOD FK506-3.8*
+[**2175-7-18**] 04:35AM BLOOD FK506-11.2
+[**2175-7-11**] 10:53AM URINE Blood-LG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+[**2175-7-11**] 10:53AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.013
+[**2175-7-11**] 02:04PM URINE RBC-[**4-2**]* WBC-0-2 Bacteri-OCC Yeast-NONE
+Epi-0
+
+[**2175-7-16**] 10:45 am Immunology (CMV)
+
+                            **FINAL REPORT [**2175-7-18**]**
+
+   CMV Viral Load (Final [**2175-7-18**]):
+      CMV DNA not detected.
+      Name Birthdate    Age     Sex Pathology #     [**Hospital1 18**] [**Known lastname 65394**],[**Known firstname **]       [**2109-7-12**]    65 Male      [**-6/2320**] [**Numeric Identifier 65395**]
+Report to:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]
+Gross Description by:   DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]/dif
+
+
+
+SPECIMEN SUBMITTED:  RECIPIENT LIVER & DONOR LIVER BX.
+
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+[**2175-7-11**] [**2175-7-12**] [**2175-7-18**] DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]/cma??????
+Previous biopsies:    [**Numeric Identifier 65396**]  Consult slides referred to Dr.
+[**Last Name (STitle) **]. [**Doctor Last Name **].
+
+DIAGNOSIS
+
+1.  Liver, native hepatectomy (A-J):
+
+a.  One nodule (3.0 cm) of moderately differentiated
+hepatocellular carcinoma with features consistent with
+radiofrequency ablation effect.  The tumor is predominantly
+(>95%) necrotic with rare microscopic foci of viable component.
+
+b.  One focus of venous invasion seen is a portal vein away from
+the tumor.
+
+c.  Established cirrhosis with grade [**1-30**] inflammation. Trichrome
+stain evaluated.
+
+d.  Iron stain shows minimal iron deposition in Kupffer cells.
+
+e.  Gallbladder with mild chronic cholecystitis.
+
+2.  Donor liver, needle biopsy (K):
+
+a.  Liver parenchyma with no significant inflammation or fatty
+changes seen.
+
+b.  Trichrome stain shows no significant fibrosis.
+
+DUPLEX DOPP ABD/PEL  [**2175-7-12**] 10:27 AM
+
+LIVER OR GALLBLADDER US (SINGL; -59 DISTINCT PROCEDURAL SERVIC
+
+Reason: S/P LIVER TRANSPLANT ,EVAL FOR VASCULATURE FLOW AND
+PATENCY
+
+[**Hospital 93**] MEDICAL CONDITION:
+66 year old man s/p liver transplant day 0
+REASON FOR THIS EXAMINATION:
+DUPLEX - please evaluate vasculature flow and patency
+INDICATION: 66-year-old male status post liver transplant.
+
+TECHNIQUE: The liver transplant was performed.
+
+LIVER TRANSPLANT ULTRASOUND:
+
+FINDINGS: The portal vein is patent and has normal direction of
+flow. The hepatic artery and its branches are patent. The
+hepatic veins are patent. No obvious fluid collections or free
+fluid is seen.
+
+IMPRESSION: Normal liver transplant ultrasound.
+LIVER OR GALLBLADDER US (SINGLE ORGAN)  [**2175-7-16**] 2:52 PM
+
+LIVER OR GALLBLADDER US (SINGL; DUPLEX DOPP ABD/PEL
+
+Reason: please do duplex? rejection ?thrombus/clot
+
+[**Hospital 93**] MEDICAL CONDITION:
+66 year old man s/p liver transplant with increasing lfts
+REASON FOR THIS EXAMINATION:
+please do duplex? rejection ?thrombus/clot
+INDICATION: 66-year-old man status post liver transplant with
+increasing liver function tests. Evaluate.
+
+COMPARISON: [**2174-7-12**].
+
+LIVER ULTRASOUND WITH DOPPLER EXAMINATION: The liver parenchyma
+is normal in echogenicity, without focal nodules or masses. A
+new 2.9 x 1.1 x 1.4 cm echogenic nodule is seen within the
+region of the excluded donor IVC most consistent with thrombus.
+Superior extension to the recipient IVC anastomosis is not
+clearly identified, and follow-up imaging is recommended. The
+adjacent recipient IVC is patent. The right, middle, and left
+hepatic veins demonstrate normal direction of flow and
+respiratory variation. The main, posterior right, anterior
+right, and left portal veins are patent, with appropriate
+direction of flow. The main, right, and left hepatic arteries
+demonstrate normal systolic upstroke with resistive indices
+measuring 0.83, 0.72, and 0.83, respectively.
+
+IMPRESSION:
+1. Normal liver Doppler study.
+
+2. New thrombus within excluded donor IVC. Proximal extension
+into the recipient IVC is not clearly defined, and follow-up
+imaging is recommended for further evaluation.
+SPECIMEN SUBMITTED:  LIVER BIOPSY (SAME DAY RUSH)
+
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+[**2175-7-17**] [**2175-7-17**] [**2175-7-17**] DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) **]/cla
+Previous biopsies:    [**-6/2320**]  RECIPIENT LIVER & DONOR LIVER
+BX.
+  [**Numeric Identifier 65396**]  Consult slides referred to Dr. [**Last Name (STitle) **]. [**Doctor Last Name **].
+
+DIAGNOSIS:
+
+
+
+Liver, allograft, needle core biopsy:
+
+Liver parenchyma with no significant portal or lobular
+inflammation.
+
+
+
+No fatty change or features of preservation/ischemic injury are
+seen.
+
+
+
+No features of acute cellular rejection are seen.
+
+
+Brief Hospital Course:
+Patient was taken to the operating room and underwent an
+orthotopic liver transplant; the patient only required 1 unit of
+packed cells, 2 units of
+platelets, 500-cc of albumin, and 1 unit of cryo intraop. He was
+taken to the APCU intubated and in stable condition. Patient did
+extremely well and was therefore extubated later that day (ahead
+of the pathway). He stayed in the ICU for monitoring for another
+24hours, and was then transferred to the floor late on POD1.
+From here he made a remarkabel recovery. He continued to make
+good urine and LFTs went downward for the first few days. He
+ambulated with assitance and tolerated good po pretty early.
+Some hampering to his recovery was the fact that he is blind and
+somewhat deaf - he was continually claiming to be depressed
+because of boredom and lonliness. Duplex on POD1 was normal, and
+CXRs continued to be normal. His CVL was removed before he left
+the ICU. On POD5 his LFTs bumped up slightly, so he recieved 2
+boluses of steroids as a precautionary measure and a repeat US
+was performed which showed a mural thrombus in the donor IVC.
+Biopsy was done which was normal and without signs of rejection.
+After that, LFTs started to decline again and patient continued
+to do extremely well.
+
+Medications on Admission:
+citracal 600'', mycelox 5x/d, cod liver oil
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+southern [**Hospital 1727**] medical VNA
+
+Discharge Diagnosis:
+HCV/HCC
+deaf
+blind
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Call Transplant office [**Telephone/Fax (1) 673**] if fevers, chills, nausea,
+vomiting, redness/bleeding/drainage from incision or old drain
+sites, jaundice,  increased abdominal pain or any questions.
+Labs every Monday & Thursday for cbc, chem 10, ast, alt, alk
+phos, t.bili,albumin and trough prograf level. Fax results to
+[**Hospital1 18**] Transplant office attn: [**First Name8 (NamePattern2) 1022**] [**Last Name (NamePattern1) **] RN [**Telephone/Fax (1) 697**]
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 707**], MD, PHD[**MD Number(3) 708**]:[**Telephone/Fax (1) 673**]
+Date/Time:[**2175-7-26**] 2:40
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 707**], MD, PHD[**MD Number(3) 708**]:[**Telephone/Fax (1) 673**]
+Date/Time:[**2175-8-2**] 2:00
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 707**], MD, PHD[**MD Number(3) 708**]:[**Telephone/Fax (1) 673**]
+Date/Time:[**2175-8-9**] 2:00
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 707**] MD, [**MD Number(3) 709**]
+
+Completed by:[**2175-7-26**]

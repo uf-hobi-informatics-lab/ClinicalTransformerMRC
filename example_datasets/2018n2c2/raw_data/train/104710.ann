@@ -1,0 +1,77 @@
+T1	Drug 10027 10035	contrast
+T2	Drug 10524 10527	abx
+T3	Reason 10558 10566	anasarca
+R1	Reason-Drug Arg1:T3 Arg2:T4
+T4	Drug 10580 10589	diuretics
+T5	Drug 10635 10644	diuretics
+T6	Drug 10730 10741	Antibiotics
+T7	Drug 10945 10954	albuterol
+T8	Frequency 10955 10958	prn
+R2	Frequency-Drug Arg1:T8 Arg2:T7
+T9	Drug 10959 10972	dexamethasone
+T10	Strength 10973 10977	1 mg
+R3	Strength-Drug Arg1:T10 Arg2:T9
+T11	Frequency 10978 10994	four times daily
+R4	Frequency-Drug Arg1:T11 Arg2:T9
+T12	Strength 11032 11036	2 mg
+R5	Strength-Drug Arg1:T12 Arg2:T9
+T13	Frequency 11037 11042	daily
+R6	Frequency-Drug Arg1:T13 Arg2:T9
+T14	Drug 11055 11061	keppra
+T15	Strength 11062 11069	1000 mg
+R7	Strength-Drug Arg1:T15 Arg2:T14
+T16	Drug 11087 11097	lisinopril
+T17	Strength 11098 11103	10 mg
+R8	Strength-Drug Arg1:T17 Arg2:T16
+T18	Frequency 11104 11109	daily
+R9	Frequency-Drug Arg1:T18 Arg2:T16
+T19	Drug 11110 11119	lorazepam
+T20	Strength 11120 11124	1 mg
+R10	Strength-Drug Arg1:T20 Arg2:T19
+T21	Frequency 11125 11132	qhs prn
+R11	Frequency-Drug Arg1:T21 Arg2:T19
+T22	Drug 11133 11141	nystatin
+T23	Form 11142 11156	swish and spit
+R12	Form-Drug Arg1:T23 Arg2:T22
+T24	Drug 11157 11165	protonix
+T25	Strength 11166 11171	40 mg
+R13	Strength-Drug Arg1:T25 Arg2:T24
+T26	Frequency 11172 11177	daily
+R14	Frequency-Drug Arg1:T26 Arg2:T24
+T27	Drug 11178 11188	ranitidine
+T28	Strength 11189 11195	150 mg
+R15	Strength-Drug Arg1:T28 Arg2:T27
+T29	Drug 11213 11220	tylenol
+T30	Frequency 11221 11224	prn
+R16	Frequency-Drug Arg1:T30 Arg2:T29
+T31	Reason 11842 11851	pneumonia
+R17	Reason-Drug Arg1:T31 Arg2:T32
+T32	Drug 11865 11876	antibiotics
+T33	Drug 11929 11941	chemotherapy
+T34	Strength 1670 1678	30 grams
+R18	Strength-Drug Arg1:T34 Arg2:T35
+T35	Drug 1682 1692	kayexalate
+T36	Strength 1694 1699	10 mg
+R20	Strength-Drug Arg1:T36 Arg2:T37
+T37	Drug 1703 1716	dexamethasone
+T38	Drug 1718 1724	zofran
+T39	Drug 1730 1738	morphine
+T40	Reason 2334 2349;2350 2354	chronic R thumb pain
+R21	Reason-Drug Arg1:T40 Arg2:T41
+T41	Drug 2375 2383	steroids
+T42	Dosage 2406 2411	taper
+R22	Dosage-Drug Arg1:T42 Arg2:T41
+T43	Reason 3073 3079;3080 3087	dental abscess
+R23	Reason-Drug Arg1:T43 Arg2:T44
+T44	Drug 3132 3143	antibiotics
+T45	Reason 5358 5405	nonsmall cell lung cancer with brain metastasis
+R24	Reason-Drug Arg1:T45 Arg2:T47
+T47	Drug 5607 5620	dexamethasone
+T49	Drug 5703 5710	steroid
+T50	Dosage 5711 5716	taper
+R27	Dosage-Drug Arg1:T50 Arg2:T49
+T51	Reason 5761 5771	palliative
+R28	Reason-Drug Arg1:T51 Arg2:T52
+T52	Drug 5772 5784	chemotherapy
+T53	ADE 9955 9968	renal failure
+R29	ADE-Drug Arg1:T53 Arg2:T1

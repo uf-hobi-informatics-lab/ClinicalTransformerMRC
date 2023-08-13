@@ -1,0 +1,120 @@
+T1	Drug 4999 5013	spironolactone
+T2	Strength 5014 5018	25mg
+T3	Route 5019 5021	PO
+T4	Drug 1866 1876	cephalexin
+T5	Drug 5196 5204	zolpidem
+T6	Strength 5205 5209	10mg
+T7	Route 5210 5212	PO
+T8	Drug 4182 4190	Coumadin
+T9	Drug 5066 5081;5081 5091	Trypsin-Dalsam- Castor oil
+T10	Dosage 5093 5101	90 units
+T11	Route 5102 5109	topical
+T12	Drug 4958 4968	Metoprolol
+T13	Strength 4969 4975	12.5mg
+T14	Frequency 4976 4979	TID
+T15	Drug 5219 5225	zofran
+T16	Strength 5226 5229	4mg
+T17	Route 5230 5232	PO
+T18	Drug 2027 2035	coumadin
+T19	Drug 414 422	coumadin
+T20	Drug 5041 5052	Mirtazapine
+T21	Strength 5053 5058	7.5mg
+T22	Route 5059 5061	PO
+T23	Drug 179 188	Terazosin
+T24	Drug 5172 5181	torsemide
+T25	Strength 5182 5186	40mg
+T26	Route 5187 5189	PO
+T27	Drug 5150 5158	warfarin
+T28	Strength 5159 5162	2mg
+T29	Route 5163 5165	PO
+T30	Drug 4980 4989	Midodrine
+T31	Strength 4990 4994	10mg
+T32	Frequency 4995 4998	TID
+T33	Reason 406 410	Afib
+T34	Reason 2019 2023	Afib
+T35	Drug 165 176	Penicillins
+T36	Drug 626 632	NSAIDs
+T37	Strength 800 804	10mg
+T38	Drug 808 813	Vit K
+T39	Drug 1843 1847	Levo
+T40	Drug 1849 1860	clindamycin
+T41	Reason 1802 1813	cellulits c
+T42	Reason 4174 4178	afib
+T43	Frequency 5022 5027	daily
+T44	Drug 5028 5040	Multivitamin
+T45	Frequency 5062 5065	qhs
+T46	Drug 5114 5125	collagenase
+T47	Strength 5126 5139	250 unit/gram
+T48	Form 5140 5144	oint
+T49	Frequency 5166 5171	daily
+T50	Frequency 5190 5195	daily
+T51	Frequency 5213 5218	daily
+T52	Frequency 5233 5239	hs prn
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Route-Drug Arg1:T3 Arg2:T1
+R3	Strength-Drug Arg1:T6 Arg2:T5
+R4	Route-Drug Arg1:T7 Arg2:T5
+R5	Dosage-Drug Arg1:T10 Arg2:T9
+R6	Route-Drug Arg1:T11 Arg2:T9
+R7	Strength-Drug Arg1:T13 Arg2:T12
+R8	Frequency-Drug Arg1:T14 Arg2:T12
+R9	Strength-Drug Arg1:T16 Arg2:T15
+R10	Route-Drug Arg1:T17 Arg2:T15
+R11	Strength-Drug Arg1:T21 Arg2:T20
+R12	Route-Drug Arg1:T22 Arg2:T20
+R13	Strength-Drug Arg1:T25 Arg2:T24
+R14	Route-Drug Arg1:T26 Arg2:T24
+R15	Strength-Drug Arg1:T28 Arg2:T27
+R16	Route-Drug Arg1:T29 Arg2:T27
+R17	Strength-Drug Arg1:T31 Arg2:T30
+R18	Frequency-Drug Arg1:T32 Arg2:T30
+R19	Reason-Drug Arg1:T33 Arg2:T19
+R20	Strength-Drug Arg1:T37 Arg2:T38
+R21	Reason-Drug Arg1:T41 Arg2:T39
+R22	Reason-Drug Arg1:T41 Arg2:T40
+R23	Reason-Drug Arg1:T41 Arg2:T4
+R24	Reason-Drug Arg1:T34 Arg2:T18
+R25	Reason-Drug Arg1:T42 Arg2:T8
+R26	Frequency-Drug Arg1:T52 Arg2:T15
+R27	Frequency-Drug Arg1:T51 Arg2:T5
+R28	Frequency-Drug Arg1:T50 Arg2:T24
+R29	Frequency-Drug Arg1:T49 Arg2:T27
+R30	Form-Drug Arg1:T48 Arg2:T46
+R31	Strength-Drug Arg1:T47 Arg2:T46
+R32	Frequency-Drug Arg1:T45 Arg2:T20
+R33	Frequency-Drug Arg1:T43 Arg2:T1
+T53	Drug 4790 4806	Pain medications
+T54	Drug 4849 4857	pressors
+T55	Drug 791 794	FFP
+T56	Dosage 784 790	3 Unit
+T58	Drug 779 782	RBC
+T59	Dosage 1351 1352	4
+T60	Drug 1353 1356	RBC
+T61	Dosage 1358 1359	2
+T62	Drug 1360 1363	FFP
+T63	Dosage 1365 1366	1
+T64	Drug 1367 1370	plt
+T65	Dosage 1376 1381	5000U
+T66	Drug 1385 1394	Factor IX
+T67	Duration 1919 1926	3 weeks
+T69	Reason 4229 4234	BRBPR
+T71	ADE 4253 4273	supratherapeutic INR
+T72	Dosage 4293 4300	23units
+T73	Drug 4301 4306	pRBCs
+T74	Frequency 5110 5113	prn
+T75	Frequency 5146 5149	prn
+R35	Dosage-Drug Arg1:T56 Arg2:T55
+R36	Dosage-Drug Arg1:T59 Arg2:T60
+R37	Dosage-Drug Arg1:T65 Arg2:T66
+R38	Dosage-Drug Arg1:T63 Arg2:T64
+R39	Dosage-Drug Arg1:T61 Arg2:T62
+R40	Dosage-Drug Arg1:T72 Arg2:T73
+R41	Reason-Drug Arg1:T69 Arg2:T73
+R42	ADE-Drug Arg1:T71 Arg2:T8	
+R43	Frequency-Drug Arg1:T74 Arg2:T9	
+R44	Frequency-Drug Arg1:T75 Arg2:T46	
+T57	Drug 2457 2459	NC
+T68	Reason 1816 1828	septic shock
+R34	Reason-Drug Arg1:T68 Arg2:T4	
+R45	Reason-Drug Arg1:T68 Arg2:T40	
+R46	Reason-Drug Arg1:T68 Arg2:T39	

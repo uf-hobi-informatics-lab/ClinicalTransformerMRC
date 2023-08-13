@@ -1,0 +1,192 @@
+T1	Drug 1017 1024	heparin
+T2	Route 1025 1028	gtt
+R1	Route-Drug Arg1:T2 Arg2:T1
+T3	Reason 1229 1248	atrial fibrillation
+R2	Reason-Drug Arg1:T3 Arg2:T4
+T4	Drug 1252 1260	coumadin
+T5	Reason 4515 4518	GIB
+R3	Reason-Drug Arg1:T5 Arg2:T6
+R4	Reason-Drug Arg1:T5 Arg2:T9
+T6	Drug 4572 4575	PPI
+T7	Duration 4576 4583;4584 4589	for one month
+R5	Duration-Drug Arg1:T7 Arg2:T6
+T8	Frequency 4595 4600	daily
+R6	Frequency-Drug Arg1:T8 Arg2:T9
+T9	Drug 4601 4604	PPI
+T10	Drug 4641 4649	coumadin
+T11	Drug 4657 4664	heparin
+T12	Route 4665 4669	drip
+R7	Route-Drug Arg1:T12 Arg2:T11
+T13	Reason 4715 4718	HTN
+R8	Reason-Drug Arg1:T13 Arg2:T14
+R9	Reason-Drug Arg1:T13 Arg2:T15
+T14	Drug 4725 4728	ACE
+T15	Drug 4733 4735	BB
+T16	ADE 4787 4798	hypotension
+R10	ADE-Drug Arg1:T16 Arg2:T14
+R11	ADE-Drug Arg1:T16 Arg2:T15
+T17	Reason 4941 4963	Mechanical heart valve
+R12	Reason-Drug Arg1:T17 Arg2:T18
+R13	Reason-Drug Arg1:T17 Arg2:T19
+T18	Drug 4972 4979	heparin
+T19	Drug 4997 5005	coumadin
+T20	Drug 5103 5110	heparin
+T21	Drug 5114 5122	coumadin
+T22	Reason 5313 5316	PPx
+R14	Reason-Drug Arg1:T22 Arg2:T23
+R15	Reason-Drug Arg1:T22 Arg2:T24
+R16	Reason-Drug Arg1:T22 Arg2:T25
+T23	Drug 5318 5325	Heparin
+T24	Drug 5326 5334	coumadin
+T25	Drug 5346 5349	PPI
+T26	Drug 5693 5702	toprol xl
+T27	Strength 5703 5708	50 mg
+R17	Strength-Drug Arg1:T27 Arg2:T26
+T28	Route 5709 5711	po
+R18	Route-Drug Arg1:T28 Arg2:T26
+T29	Frequency 5712 5718	qdaily
+R19	Frequency-Drug Arg1:T29 Arg2:T26
+T30	Drug 5719 5728	quinipril
+T31	Strength 5729 5734	20 mg
+R20	Strength-Drug Arg1:T31 Arg2:T30
+T32	Route 5735 5737	po
+R21	Route-Drug Arg1:T32 Arg2:T30
+T33	Frequency 5738 5744	qdaily
+R22	Frequency-Drug Arg1:T33 Arg2:T30
+T34	Drug 5745 5752	lipitor
+T35	Strength 5753 5757	10mg
+R23	Strength-Drug Arg1:T35 Arg2:T34
+T36	Route 5758 5760	po
+R24	Route-Drug Arg1:T36 Arg2:T34
+T37	Frequency 5761 5767	qdaily
+R25	Frequency-Drug Arg1:T37 Arg2:T34
+T38	Drug 5768 5776	protonix
+T39	Strength 5777 5782	40 mg
+R26	Strength-Drug Arg1:T39 Arg2:T38
+T40	Route 5783 5785	po
+R27	Route-Drug Arg1:T40 Arg2:T38
+T41	Frequency 5786 5792	qdaily
+R28	Frequency-Drug Arg1:T41 Arg2:T38
+T42	Drug 5793 5798	lasix
+T43	Strength 5799 5804	20 mg
+R29	Strength-Drug Arg1:T43 Arg2:T42
+T44	Route 5805 5807	po
+R30	Route-Drug Arg1:T44 Arg2:T42
+T45	Frequency 5808 5814	qdaily
+R31	Frequency-Drug Arg1:T45 Arg2:T42
+T46	Drug 5815 5821	colace
+T47	Strength 5822 5827	100mg
+R32	Strength-Drug Arg1:T47 Arg2:T46
+T48	Route 5828 5830	po
+R33	Route-Drug Arg1:T48 Arg2:T46
+T49	Frequency 5831 5837	qdaily
+R34	Frequency-Drug Arg1:T49 Arg2:T46
+T50	Drug 5838 5844	ativan
+T51	Strength 5845 5850	1.5mg
+R35	Strength-Drug Arg1:T51 Arg2:T50
+T52	Route 5851 5853	po
+R36	Route-Drug Arg1:T52 Arg2:T50
+T53	Frequency 5854 5857	qhs
+R37	Frequency-Drug Arg1:T53 Arg2:T50
+T54	Drug 5886 5898	Atorvastatin
+T55	Strength 5899 5904	10 mg
+R38	Strength-Drug Arg1:T55 Arg2:T54
+T56	Form 5905 5911	Tablet
+R39	Form-Drug Arg1:T56 Arg2:T54
+T57	Dosage 5917 5924	One (1)
+R40	Dosage-Drug Arg1:T57 Arg2:T54
+T58	Form 5925 5931	Tablet
+R41	Form-Drug Arg1:T58 Arg2:T54
+T59	Route 5932 5934	PO
+R42	Route-Drug Arg1:T59 Arg2:T54
+T60	Frequency 5935 5940;5941 5948	DAILY (Daily)
+R43	Frequency-Drug Arg1:T60 Arg2:T54
+T61	Drug 5985 6010	Methyl Salicylate-Menthol
+T62	Strength 6011 6016	15-15 
+R44	Strength-Drug Arg1:T62 Arg2:T61
+T63	Form 6019 6027	Ointment
+R45	Form-Drug Arg1:T63 Arg2:T61
+T64	Dosage 6033 6040	One (1)
+R46	Dosage-Drug Arg1:T64 Arg2:T61
+T65	Form 6041 6045	Appl
+R47	Form-Drug Arg1:T65 Arg2:T61
+T66	Form 6046 6053	Topical
+R48	Form-Drug Arg1:T66 Arg2:T61
+T67	Frequency 6072 6096	2 times a day) as needed
+R49	Frequency-Drug Arg1:T67 Arg2:T61
+T68	Reason 6101 6110	back pain
+R50	Reason-Drug Arg1:T68 Arg2:T61
+T69	Drug 6141 6154	Acetaminophen
+T70	Strength 6155 6161	325 mg
+R51	Strength-Drug Arg1:T70 Arg2:T69
+T71	Form 6162 6168	Tablet
+R52	Form-Drug Arg1:T71 Arg2:T69
+T72	Dosage 6174 6177	1-2
+R53	Dosage-Drug Arg1:T72 Arg2:T69
+T73	Form 6178 6185	Tablets
+R54	Form-Drug Arg1:T73 Arg2:T69
+T74	Route 6186 6188	PO
+R55	Route-Drug Arg1:T74 Arg2:T69
+T75	Frequency 6189 6201;6202 6218	Q6H (every 6 hours) as needed
+R56	Frequency-Drug Arg1:T75 Arg2:T69
+T76	Reason 6223 6227	pain
+R57	Reason-Drug Arg1:T76 Arg2:T69
+T77	Drug 6232 6244	Pantoprazole
+T78	Strength 6245 6250	40 mg
+R58	Strength-Drug Arg1:T78 Arg2:T77
+T79	Form 6251 6281	Tablet, Delayed Release (E.C.)
+R59	Form-Drug Arg1:T79 Arg2:T77
+T80	Dosage 6287 6290;6291 6294	One (1)
+R60	Dosage-Drug Arg1:T80 Arg2:T77
+T81	Form 6295 6325	Tablet, Delayed Release (E.C.)
+R61	Form-Drug Arg1:T81 Arg2:T77
+T82	Route 6326 6328	PO
+R62	Route-Drug Arg1:T82 Arg2:T77
+T83	Frequency 6329 6353;6354 6360	Q12H (every 12 hours) as needed
+R63	Frequency-Drug Arg1:T83 Arg2:T77
+T84	Reason 6365 6380	antral erosions
+R64	Reason-Drug Arg1:T84 Arg2:T77
+T85	Duration 6381 6393	for 1 months
+R65	Duration-Drug Arg1:T85 Arg2:T77
+T86	Drug 6454 6462	Warfarin
+T87	Strength 6463 6469	2.5 mg
+R66	Strength-Drug Arg1:T87 Arg2:T86
+T88	Form 6470 6476	Tablet
+R67	Form-Drug Arg1:T88 Arg2:T86
+T89	Dosage 6482 6489	Two (2)
+R68	Dosage-Drug Arg1:T89 Arg2:T86
+T90	Form 6490 6496	Tablet
+R69	Form-Drug Arg1:T90 Arg2:T86
+T91	Route 6497 6499	PO
+R70	Route-Drug Arg1:T91 Arg2:T86
+T92	Frequency 6500 6510	at bedtime
+R71	Frequency-Drug Arg1:T92 Arg2:T86
+T93	Drug 6577 6585	warfarin
+T94	Drug 700 705	NSAID
+T95	Drug 7190 7198	coumadin
+T96	Drug 7212 7220	warfarin
+T97	Reason 7292 7315	mechanical heart valves
+R72	Reason-Drug Arg1:T97 Arg2:T95
+R73	Reason-Drug Arg1:T97 Arg2:T96
+T98	Drug 7317 7325	Coumadin
+T99	Reason 7335 7350	prevent strokes
+R74	Reason-Drug Arg1:T99 Arg2:T98
+T100	Drug 7390 7398	coumadin
+T101	ADE 7408 7415;7416 7431	make it easier to bleed
+R75	ADE-Drug Arg1:T101 Arg2:T100
+T102	Drug 7467 7475	coumadin
+T103	ADE 7487 7516	erosions in your stomach bled
+R76	ADE-Drug Arg1:T103 Arg2:T102
+T104	Drug 7588 7596	coumadin
+T105	Drug 7716 7724	coumadin
+T106	Drug 7793 7801	coumadin
+T107	Reason 791 815	guiaic positive rectally
+R77	Reason-Drug Arg1:T107 Arg2:T113
+T108	Drug 7966 7974	coumadin
+T109	Drug 8234 8242	Coumadin
+T110	Reason 8248 8261	blood thinner
+R78	Reason-Drug Arg1:T110 Arg2:T109
+T111	Dosage 849 851	1L
+R80	Dosage-Drug Arg1:T111 Arg2:T112
+T112	Drug 852 855	IVF
+T113	Drug 871 879	protonix

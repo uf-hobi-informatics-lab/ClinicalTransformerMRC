@@ -1,0 +1,61 @@
+T1	Drug 608 612	Tums
+T2	Drug 4673 4684	clindamycin
+T3	Drug 1730 1735	zosyn
+T4	Drug 1574 1582	levophed
+T5	Drug 6159 6167	benadryl
+T6	Drug 1737 1743	flagyl
+T7	Drug 5538 5546	Benadryl
+T8	Drug 1745 1752	tylenol
+T9	Drug 4690 4695	zosyn
+T10	Drug 4761 4772	clindamycin
+T11	Route 4773 4775	po
+T12	Drug 5503 5507	Tums
+T13	Drug 6076 6080	TUMS
+T14	Drug 1758 1764	zofran
+T15	Drug 4661 4671	Vancomycin
+T16	Reason 5555 5562	itching
+T17	Reason 589 600	indigestion
+T18	Dosage 1510 1513	7 L
+T19	Drug 1514 1517	IVF
+T20	Reason 4520 4526	Sepsis
+T21	Drug 4901 4910	cefalexin
+T22	Drug 5394 5399	fluid
+T24	Reason 5284 5308	mild acute renal failure
+T25	Drug 5742 5753	Beta lactam
+T26	ADE 5791 5795	rash
+T27	Reason 6172 6179	itching
+R1	Route-Drug Arg1:T11 Arg2:T10
+R2	Reason-Drug Arg1:T17 Arg2:T1
+R3	Dosage-Drug Arg1:T18 Arg2:T19
+R4	Reason-Drug Arg1:T20 Arg2:T15
+R5	Reason-Drug Arg1:T20 Arg2:T2
+R6	Reason-Drug Arg1:T20 Arg2:T9
+R8	ADE-Drug Arg1:T26 Arg2:T25
+R9	Reason-Drug Arg1:T27 Arg2:T5
+T28	Drug 4442 4449	pressor
+T29	Reason 4412 4418	sepsis
+T30	Drug 4741 4744	abx
+T31	Drug 4955 4958	abx
+T32	Drug 5125 5128	abx
+T33	Drug 5328 5334	fluids
+T34	Drug 5664 5676	vasopressors
+T35	Reason 5615 5653	Toxic shock syndrome with septic shock
+T36	ADE 4989 5016	morbilliform drug erruption
+T37	Reason 1460 1476	BP down to 85/47
+T38	ADE 4867 4879	eosinophilia
+T39	Frequency 5547 5550	prn
+T40	Duration 4911 4922	for one day
+T42	Frequency 6180 6189	as needed
+R10	Reason-Drug Arg1:T29 Arg2:T28
+R11	Reason-Drug Arg1:T35 Arg2:T34
+R12	ADE-Drug Arg1:T36 Arg2:T31
+R13	Reason-Drug Arg1:T37 Arg2:T19	
+R14	Duration-Drug Arg1:T40 Arg2:T21	
+R15	ADE-Drug Arg1:T38 Arg2:T10	
+R16	Reason-Drug Arg1:T24 Arg2:T33	
+R17	Frequency-Drug Arg1:T39 Arg2:T7	
+R18	Reason-Drug Arg1:T16 Arg2:T7	
+R19	Frequency-Drug Arg1:T42 Arg2:T5	
+T23	Route 5391 5393	IV
+R7	Route-Drug Arg1:T23 Arg2:T22	
+T43	ADE 5724 5739	pulmonary edema

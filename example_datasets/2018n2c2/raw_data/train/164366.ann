@@ -1,0 +1,418 @@
+T1	Drug 10154 10162	atenolol
+T2	Reason 10172 10186	blood pressure
+R1	Reason-Drug Arg1:T2 Arg2:T1
+T3	Drug 1080 1091	ceftriaxone
+T4	Strength 1092 1096	2 gm
+R2	Strength-Drug Arg1:T4 Arg2:T3
+T5	Drug 1098 1108	vancomycin
+T6	Drug 1113 1119	flagyl
+T7	Strength 1127 1135	4 liters
+R3	Strength-Drug Arg1:T7 Arg2:T8
+T8	Drug 1139 1152	normal saline
+T9	Strength 1350 1352	6L
+R4	Strength-Drug Arg1:T9 Arg2:T10
+T10	Drug 1356 1358	NS
+T11	Drug 1412 1420	levophed
+T12	Strength 1444 1459	0.05 mcg/kg/min
+R5	Strength-Drug Arg1:T12 Arg2:T11
+T13	Drug 1549 1557	pressors
+T14	Reason 1574 1579;1580 1588	blood pressure
+R6	Reason-Drug Arg1:T14 Arg2:T13
+T15	Drug 1656 1664	pressors
+T17	Drug 1671 1677	fluids
+T18	Drug 168 178	Bactrim Ds
+T19	Route 1733 1735	po
+R8	Route-Drug Arg1:T19 Arg2:T20
+T20	Drug 1736 1748	levofloxacin
+T21	Drug 181 188	Dapsone
+T22	Drug 191 202	Delavirdine
+T23	Drug 205 221	Abacavir Sulfate
+T24	Drug 224 235	Amoxicillin
+T25	Drug 4995 5003	pressors
+T27	Drug 5011 5017	fluids
+T28	Reason 5033 5047	blood pressure
+R10	Reason-Drug Arg1:T28 Arg2:T27
+R11	Reason-Drug Arg1:T28 Arg2:T25
+T29	Reason 5283 5298;5299 5308	a potential LLL pneumonia
+T30	ADE 5362 5383	anaphylactic reaction
+R12	ADE-Drug Arg1:T30 Arg2:T31
+T31	Drug 5387 5398	amoxicillin
+T32	ADE 5437 5445	pruritis
+R13	ADE-Drug Arg1:T32 Arg2:T31
+R14	ADE-Drug Arg1:T32 Arg2:T35
+T33	ADE 5447 5468	facial erythema/edema
+R15	ADE-Drug Arg1:T33 Arg2:T31
+R16	ADE-Drug Arg1:T33 Arg2:T35
+T34	ADE 5519 5540	anaphylactic exposure
+R17	ADE-Drug Arg1:T34 Arg2:T35
+T35	Drug 5544 5551	bactrim
+T36	Drug 5691 5703	levofloxacin
+T37	Duration 5743 5752	seven day
+R18	Duration-Drug Arg1:T37 Arg2:T36
+T38	Reason 6026 6032	nausea
+R19	Reason-Drug Arg1:T38 Arg2:T39
+T39	Drug 6079 6088	compazine
+T40	Reason 6219 6222	HTN
+R20	Reason-Drug Arg1:T40 Arg2:T41
+R21	Reason-Drug Arg1:T40 Arg2:T44
+R22	Reason-Drug Arg1:T40 Arg2:T46
+T41	Drug 6397 6405	atenolol
+T42	Strength 6409 6414	25 mg
+R23	Strength-Drug Arg1:T42 Arg2:T41
+T43	Frequency 6415 6420	daily
+R24	Frequency-Drug Arg1:T43 Arg2:T41
+T44	Drug 6614 6624	metoprolol
+T45	Strength 6625 6630	50 mg
+R25	Strength-Drug Arg1:T45 Arg2:T44
+T46	Drug 6635 6645	lisinopril
+T47	Strength 6646 6650	5 mg
+R26	Strength-Drug Arg1:T47 Arg2:T46
+T48	Drug 6678 6685	aspirin
+T49	Reason 6691 6705	Hyperlipidemia
+R27	Reason-Drug Arg1:T49 Arg2:T50
+T50	Drug 6731 6742	pravastatin
+T51	Drug 6784 6792	ANDROGEL
+T52	Strength 6793 6801	1%(50MG)
+R28	Strength-Drug Arg1:T52 Arg2:T51
+T53	Route 6803 6821	Apply to shoulders
+R29	Route-Drug Arg1:T53 Arg2:T51
+T54	Frequency 6822 6831	every day
+R30	Frequency-Drug Arg1:T54 Arg2:T51
+T55	Drug 6846 6853	ASPIRIN
+T56	Strength 6854 6860	325 mg
+R31	Strength-Drug Arg1:T56 Arg2:T55
+T57	Dosage 6862 6865	one
+R32	Dosage-Drug Arg1:T57 Arg2:T55
+T58	Form 6866 6872	tablet
+R33	Form-Drug Arg1:T58 Arg2:T55
+T59	Route 6876 6884	by mouth
+R34	Route-Drug Arg1:T59 Arg2:T55
+T60	Frequency 6885 6890	daily
+R35	Frequency-Drug Arg1:T60 Arg2:T55
+T61	Drug 6891 6901	FOLIC ACID
+T62	Strength 6902 6905	1MG
+R36	Strength-Drug Arg1:T62 Arg2:T61
+T63	Frequency 6914 6923	every day
+R37	Frequency-Drug Arg1:T63 Arg2:T61
+T64	Drug 6924 6937	FOSAMPRENAVIR
+T65	Reason 693 715	antibiotic prophylaxis
+R38	Reason-Drug Arg1:T65 Arg2:T88
+T66	Strength 6938 6943	700MG
+R39	Strength-Drug Arg1:T66 Arg2:T64
+T67	Dosage 6950 6953	two
+R40	Dosage-Drug Arg1:T67 Arg2:T64
+T68	Form 6954 6959	pills
+R41	Form-Drug Arg1:T68 Arg2:T64
+T69	Frequency 6960 6981	twice a day with food
+R42	Frequency-Drug Arg1:T69 Arg2:T64
+T70	Drug 6982 6989	KALETRA
+T71	Strength 6990 7000	33.3-133.3
+R43	Strength-Drug Arg1:T71 Arg2:T70
+T72	Dosage 7002 7003	4
+R44	Dosage-Drug Arg1:T72 Arg2:T70
+T73	Form 7004 7012	capsules
+R45	Form-Drug Arg1:T73 Arg2:T70
+T74	Frequency 7013 7034	twice a day with food
+R46	Frequency-Drug Arg1:T74 Arg2:T70
+T75	Drug 7035 7045	LISINOPRIL
+T76	Strength 7046 7049	5MG
+R47	Strength-Drug Arg1:T76 Arg2:T75
+T77	Frequency 7056 7065	every day
+R48	Frequency-Drug Arg1:T77 Arg2:T75
+T78	Drug 7066 7076	LORATADINE
+T79	Strength 7077 7082	10 mg
+R49	Strength-Drug Arg1:T79 Arg2:T78
+T80	Dosage 7084 7085	1
+R50	Dosage-Drug Arg1:T80 Arg2:T78
+T81	Form 7086 7092	tablet
+R51	Form-Drug Arg1:T81 Arg2:T78
+T82	Route 7096 7104	by mouth
+R52	Route-Drug Arg1:T82 Arg2:T78
+T83	Frequency 7105 7115	once a day
+R53	Frequency-Drug Arg1:T83 Arg2:T78
+T84	Drug 7116 7125	LORAZEPAM
+T85	Strength 7126 7129	1MG
+R54	Strength-Drug Arg1:T85 Arg2:T84
+T86	Form 7147 7151	pill
+R55	Form-Drug Arg1:T86 Arg2:T84
+T87	Reason 7166 7174	insomnia
+R56	Reason-Drug Arg1:T87 Arg2:T84
+T88	Drug 717 728	amoxicillin
+T89	Drug 7175 7194	METOPROLOL TARTRATE
+T90	Strength 7195 7199	50MG
+R57	Strength-Drug Arg1:T90 Arg2:T89
+T91	Frequency 7207 7216	every day
+R58	Frequency-Drug Arg1:T91 Arg2:T89
+T92	Drug 7217 7224	PATANOL
+T93	Strength 7225 7228	0.1 
+R59	Strength-Drug Arg1:T93 Arg2:T92
+T94	Dosage 7232 7235	1-2
+R60	Dosage-Drug Arg1:T94 Arg2:T92
+T95	Form 7236 7241	drops
+R61	Form-Drug Arg1:T95 Arg2:T92
+T96	Route 7245 7253	each eye
+R62	Route-Drug Arg1:T96 Arg2:T92
+T97	Frequency 7254 7265	twice a day
+R63	Frequency-Drug Arg1:T97 Arg2:T92
+T98	Drug 7266 7284	PRAVASTATIN SODIUM
+T99	Strength 7285 7289	20MG
+R64	Strength-Drug Arg1:T99 Arg2:T98
+T100	Dosage 7296 7299	one
+R65	Dosage-Drug Arg1:T100 Arg2:T98
+T101	Form 7300 7304	pill
+R66	Form-Drug Arg1:T101 Arg2:T98
+T102	Frequency 7305 7313	at night
+R67	Frequency-Drug Arg1:T102 Arg2:T98
+T103	Drug 7314 7328	RHINOCORT AQUA
+T104	Strength 7329 7331	32
+R68	Strength-Drug Arg1:T104 Arg2:T103
+T105	Form 7345 7351	sprays
+R69	Form-Drug Arg1:T105 Arg2:T103
+T106	Route 7355 7367	each nostril
+R70	Route-Drug Arg1:T106 Arg2:T103
+T107	Frequency 7368 7378	once a day
+R71	Frequency-Drug Arg1:T107 Arg2:T103
+T108	Drug 7379 7388	TENOFOVIR
+T109	Strength 7389 7395	300 MG
+R72	Strength-Drug Arg1:T109 Arg2:T108
+T110	Dosage 7402 7405	one
+R73	Dosage-Drug Arg1:T110 Arg2:T108
+T111	Form 7406 7410	pill
+R74	Form-Drug Arg1:T111 Arg2:T108
+T112	Frequency 7411 7426	a day with food
+R75	Frequency-Drug Arg1:T112 Arg2:T108
+T113	Drug 7427 7433	TRICOR
+T114	Strength 7434 7439	145MG
+R76	Strength-Drug Arg1:T114 Arg2:T113
+T115	Dosage 7441 7444	One
+R77	Dosage-Drug Arg1:T115 Arg2:T113
+T116	Form 7445 7451	tablet
+R78	Form-Drug Arg1:T116 Arg2:T113
+T117	Route 7452 7460	by mouth
+R79	Route-Drug Arg1:T117 Arg2:T113
+T118	Frequency 7461 7470	every day
+R80	Frequency-Drug Arg1:T118 Arg2:T113
+T119	Drug 7471 7477	ZANTAC
+T120	Strength 7478 7483	300MG
+R81	Strength-Drug Arg1:T120 Arg2:T119
+T121	Dosage 7485 7488	One
+R82	Dosage-Drug Arg1:T121 Arg2:T119
+T122	Form 7489 7495	tablet
+R83	Form-Drug Arg1:T122 Arg2:T119
+T123	Frequency 7496 7506	at bedtime
+R84	Frequency-Drug Arg1:T123 Arg2:T119
+T124	Drug 7534 7541	Aspirin
+T125	Strength 7542 7548	325 mg
+R85	Strength-Drug Arg1:T125 Arg2:T124
+T126	Form 7549 7555	Tablet
+R86	Form-Drug Arg1:T126 Arg2:T124
+T127	Dosage 7561 7568	One (1)
+R87	Dosage-Drug Arg1:T127 Arg2:T124
+T128	Form 7569 7575	Tablet
+R88	Form-Drug Arg1:T128 Arg2:T124
+T129	Route 7576 7578	PO
+R89	Route-Drug Arg1:T129 Arg2:T124
+T130	Frequency 7579 7584	DAILY
+R90	Frequency-Drug Arg1:T130 Arg2:T124
+T131	Drug 7629 7642	Fosamprenavir
+T132	Strength 7643 7649	700 mg
+R91	Strength-Drug Arg1:T132 Arg2:T131
+T133	Form 7650 7656	Tablet
+R92	Form-Drug Arg1:T133 Arg2:T131
+T134	Dosage 7662 7669	Two (2)
+R93	Dosage-Drug Arg1:T134 Arg2:T131
+T135	Form 7670 7676	Tablet
+R94	Form-Drug Arg1:T135 Arg2:T131
+T136	Route 7677 7679	PO
+R95	Route-Drug Arg1:T136 Arg2:T131
+T137	Frequency 7680 7684	Q12H
+R96	Frequency-Drug Arg1:T137 Arg2:T131
+T138	ADE 771 777	nausea
+R97	ADE-Drug Arg1:T138 Arg2:T88
+T139	Drug 7739 7758	Lopinavir-Ritonavir
+T140	Strength 7759 7772	133.3-33.3 mg
+R98	Strength-Drug Arg1:T140 Arg2:T139
+T141	Form 7773 7780	Capsule
+R99	Form-Drug Arg1:T141 Arg2:T139
+T142	Dosage 7786 7794	Four (4)
+R100	Dosage-Drug Arg1:T142 Arg2:T139
+T143	ADE 779 787	vomiting
+R101	ADE-Drug Arg1:T143 Arg2:T88
+T144	Form 7795 7798	Cap
+R102	Form-Drug Arg1:T144 Arg2:T139
+T145	Route 7799 7801	PO
+R103	Route-Drug Arg1:T145 Arg2:T139
+T146	Frequency 7802 7805	BID
+R104	Frequency-Drug Arg1:T146 Arg2:T139
+T147	Drug 7856 7885	Tenofovir Disoproxil Fumarate
+T148	Strength 7886 7892	300 mg
+R105	Strength-Drug Arg1:T148 Arg2:T147
+T149	ADE 789 797	diarrhea
+R106	ADE-Drug Arg1:T149 Arg2:T88
+T150	Form 7893 7899	Tablet
+R107	Form-Drug Arg1:T150 Arg2:T147
+T151	Dosage 7905 7912	One (1)
+R108	Dosage-Drug Arg1:T151 Arg2:T147
+T152	Form 7913 7919	Tablet
+R109	Form-Drug Arg1:T152 Arg2:T147
+T153	Route 7920 7922	PO
+R110	Route-Drug Arg1:T153 Arg2:T147
+T154	Frequency 7923 7928	DAILY
+R111	Frequency-Drug Arg1:T154 Arg2:T147
+T155	Drug 7973 7985	Levofloxacin
+T156	Strength 7986 7992	500 mg
+R112	Strength-Drug Arg1:T156 Arg2:T155
+T157	ADE 799 804	fever
+R113	ADE-Drug Arg1:T157 Arg2:T88
+T158	Form 7993 7999	Tablet
+R114	Form-Drug Arg1:T158 Arg2:T155
+T159	Dosage 8005 8012	One (1)
+R115	Dosage-Drug Arg1:T159 Arg2:T155
+T160	Form 8013 8019	Tablet
+R116	Form-Drug Arg1:T160 Arg2:T155
+T161	Route 8020 8022	PO
+R117	Route-Drug Arg1:T161 Arg2:T155
+T162	Frequency 8023 8027	Q24H
+R118	Frequency-Drug Arg1:T162 Arg2:T155
+T163	Frequency 8049 8055	3 days
+R119	Frequency-Drug Arg1:T163 Arg2:T155
+T164	ADE 806 812	chills
+R120	ADE-Drug Arg1:T164 Arg2:T88
+T165	Drug 8091 8114	Oxycodone-Acetaminophen
+T166	Strength 8115 8123	5-325 mg
+R121	Strength-Drug Arg1:T166 Arg2:T165
+T167	Form 8124 8130	Tablet
+R122	Form-Drug Arg1:T167 Arg2:T165
+T168	Dosage 8136 8139	1-2
+R123	Dosage-Drug Arg1:T168 Arg2:T165
+T169	Form 8140 8147	Tablets
+R124	Form-Drug Arg1:T169 Arg2:T165
+T170	Route 8148 8150	PO
+R125	Route-Drug Arg1:T170 Arg2:T165
+T171	Frequency 8151 8187	Q4-6H (every 4 to 6 hours) as needed
+R126	Frequency-Drug Arg1:T171 Arg2:T165
+T172	Reason 8192 8200	headache
+R127	Reason-Drug Arg1:T172 Arg2:T165
+T173	Duration 8201 8211	for 3 days
+R128	Duration-Drug Arg1:T173 Arg2:T165
+T174	Drug 8248 8259	Pravastatin
+T175	Strength 8260 8265	20 mg
+R129	Strength-Drug Arg1:T175 Arg2:T174
+T176	Form 8266 8272	Tablet
+R130	Form-Drug Arg1:T176 Arg2:T174
+T177	Dosage 8278 8285	One (1)
+R131	Dosage-Drug Arg1:T177 Arg2:T174
+T178	Form 8286 8292	Tablet
+R132	Form-Drug Arg1:T178 Arg2:T174
+T179	Route 8293 8295	PO
+R133	Route-Drug Arg1:T179 Arg2:T174
+T180	Frequency 8296 8306	once a day
+R134	Frequency-Drug Arg1:T180 Arg2:T174
+T181	Drug 8343 8350	Patanol
+T182	Strength 8351 8354	0.1 
+R135	Strength-Drug Arg1:T182 Arg2:T181
+T183	Form 8357 8362	Drops
+R136	Form-Drug Arg1:T183 Arg2:T181
+T184	Dosage 8368 8371	1-2
+R137	Dosage-Drug Arg1:T184 Arg2:T181
+T185	Form 8372 8377	drops
+R138	Form-Drug Arg1:T185 Arg2:T181
+T186	Route 8378 8388	Ophthalmic
+R139	Route-Drug Arg1:T186 Arg2:T181
+T187	Frequency 8390 8401	twice a day
+R140	Frequency-Drug Arg1:T187 Arg2:T181
+T188	Drug 8474 8482	Atenolol
+T189	Strength 8483 8488	25 mg
+R141	Strength-Drug Arg1:T189 Arg2:T188
+T190	Form 8489 8495	Tablet
+R142	Form-Drug Arg1:T190 Arg2:T188
+T191	Dosage 8501 8508	One (1)
+R143	Dosage-Drug Arg1:T191 Arg2:T188
+T192	Form 8509 8515	Tablet
+R144	Form-Drug Arg1:T192 Arg2:T188
+T193	Route 8516 8518	PO
+R145	Route-Drug Arg1:T193 Arg2:T188
+T194	Frequency 8519 8529	once a day
+R146	Frequency-Drug Arg1:T194 Arg2:T188
+T195	Drug 8567 8575	AndroGel
+T196	Strength 8576 8587	1 % (50 mg)
+R147	Strength-Drug Arg1:T196 Arg2:T195
+T197	Form 8588 8601	Gel in Packet
+R148	Form-Drug Arg1:T197 Arg2:T195
+T198	Dosage 8607 8614	One (1)
+R149	Dosage-Drug Arg1:T198 Arg2:T195
+T199	Dosage 8615 8621	packet
+R150	Dosage-Drug Arg1:T199 Arg2:T195
+T200	Route 8622 8633	Transdermal
+R151	Route-Drug Arg1:T200 Arg2:T195
+T201	Frequency 8634 8644	once a day
+R152	Frequency-Drug Arg1:T201 Arg2:T195
+T202	Drug 8680 8690	Folic Acid
+T203	Strength 8691 8695	1 mg
+R153	Strength-Drug Arg1:T203 Arg2:T202
+T204	Form 8696 8702	Tablet
+R154	Form-Drug Arg1:T204 Arg2:T202
+T205	Dosage 8708 8715	One (1)
+R155	Dosage-Drug Arg1:T205 Arg2:T202
+T206	Form 8716 8722	Tablet
+R156	Form-Drug Arg1:T206 Arg2:T202
+T207	Route 8723 8725	PO
+R157	Route-Drug Arg1:T207 Arg2:T202
+T208	Frequency 8726 8736	once a day
+R158	Frequency-Drug Arg1:T208 Arg2:T202
+T209	Drug 8774 8784	Loratadine
+T210	Strength 8785 8790	10 mg
+R159	Strength-Drug Arg1:T210 Arg2:T209
+T211	Form 8791 8797	Tablet
+R160	Form-Drug Arg1:T211 Arg2:T209
+T212	Dosage 8803 8810	One (1)
+R161	Dosage-Drug Arg1:T212 Arg2:T209
+T213	Form 8811 8817	Tablet
+R162	Form-Drug Arg1:T213 Arg2:T209
+T214	Route 8818 8820	PO
+R163	Route-Drug Arg1:T214 Arg2:T209
+T215	Frequency 8821 8831	once a day
+R164	Frequency-Drug Arg1:T215 Arg2:T209
+T216	Drug 8869 8875	Tricor
+T217	Strength 8876 8882	145 mg
+R165	Strength-Drug Arg1:T217 Arg2:T216
+T218	Form 8883 8889	Tablet
+R166	Form-Drug Arg1:T218 Arg2:T216
+T219	Dosage 8895 8902	One (1)
+R167	Dosage-Drug Arg1:T219 Arg2:T216
+T220	Form 8903 8909	Tablet
+R168	Form-Drug Arg1:T220 Arg2:T216
+T221	Route 8910 8912	PO
+R169	Route-Drug Arg1:T221 Arg2:T216
+T222	Frequency 8913 8923	once a day
+R170	Frequency-Drug Arg1:T222 Arg2:T216
+T223	Drug 8961 8970	Compazine
+T224	Strength 8971 8976	10 mg
+R171	Strength-Drug Arg1:T224 Arg2:T223
+T225	Form 8977 8983	Tablet
+R172	Form-Drug Arg1:T225 Arg2:T223
+T226	Dosage 8989 8996	One (1)
+R173	Dosage-Drug Arg1:T226 Arg2:T223
+T227	Form 8997 9003	Tablet
+R174	Form-Drug Arg1:T227 Arg2:T223
+T228	Route 9004 9006	PO
+R175	Route-Drug Arg1:T228 Arg2:T223
+T229	Frequency 9007 9018;9019 9038	every eight (8) hours as needed
+R176	Frequency-Drug Arg1:T229 Arg2:T223
+T230	Reason 9043 9049	nausea
+R177	Reason-Drug Arg1:T230 Arg2:T223
+T231	Duration 9050 9061	for 1 weeks
+R178	Duration-Drug Arg1:T231 Arg2:T223
+T232	Drug 9179 9190	amoxicillin
+T233	ADE 9191 9202	anaphylaxis
+R179	ADE-Drug Arg1:T233 Arg2:T232
+T234	Drug 9423 9434	amoxicillin
+R180	Reason-Drug Arg1:T29 Arg2:T31	
+T16	Route 1668 1670	IV
+R7	Route-Drug Arg1:T16 Arg2:T17	
+T26	Route 5008 5010	IV
+R9	Route-Drug Arg1:T26 Arg2:T27	
+T235	Reason 6215 6218	CAD
+R181	Reason-Drug Arg1:T235 Arg2:T41	
+R182	Reason-Drug Arg1:T235 Arg2:T46	
+R183	Reason-Drug Arg1:T235 Arg2:T44	

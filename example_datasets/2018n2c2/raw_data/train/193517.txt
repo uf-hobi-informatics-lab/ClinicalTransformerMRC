@@ -1,0 +1,401 @@
+Admission Date:  [**2137-2-21**]              Discharge Date:   [**2137-3-5**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1145**]
+Chief Complaint:
+anterior wall STEMI
+
+Major Surgical or Invasive Procedure:
+Coronary Catheterization X2
+Intubation/Extubation
+
+
+History of Present Illness:
+83yo with a history DM, HTN, and MI with RCA stenting in [**2127**]
+arrived to ED by ambulance after 1 hr of substernal chest pain
+that came on while shoveling snow at approximately 11am this
+morning.  Upon arrival to the ED he was found to have ST
+elevations in V1-V5 with ST depressions in  II, III, AvF and Q
+waves in v1-V5 and new RBB.  He was urgently taken to cardiac
+cath where he was found to have complete acute occlusion of the
+proximal LAD with an completely occluded RCA and 90% occluded
+circumflex. After angioplasty flow was recovered in the LAD and
+a stent was placed.  During the procedure the patient had
+multiple episodes of ventricular tachycardia and underwent
+electrocardioversion several times and started on amiodarone. He
+vomitted and was intubated. He became hypotensive and was
+started on dopamine 15mcg/kg.  Post procedure PCWP was 40 mm/Hg
+with V waves to 80.  Bedside echo showed an VEF of 20-25% with
+3+ MR.  [**Name13 (STitle) 6**] aortic balloon pump was not placed because he has a
+tortuous aorta.
+During the procedure he received over 600cc of contrast and was
+given 40mg of lasix.
+
+ROS: Per wife,  cardiac review of systems is notable for two
+weeks of fatigue, dyspnea on exertion, and presyncope. No chest
+pain before today's acute event. Also no paroxysmal nocturnal
+dyspnea, orthopnea, ankle edema, or palpitations.
+
+
+Past Medical History:
+# Myocardial Infarction with two stents placed in the RCA in
+[**2127**].
+# Diabetes: HA1c 6.4% on [**11-30**]. High grade proteinuria X 1yr.
+# Hypertension
+# Hypercholesteremia
+# Asthma
+
+Social History:
+Social history is significant for: smokes [**1-27**] cigarettes a day.
+Lives with his wife.
+
+Family History:
+No family history of early coronary disease or stroke and no
+family history of sudden cardiac death.
+
+Physical Exam:
+VS: T 99.0 , BP 130/67  , HR 79 , RR 21 , O2 % 100 on  100% FIO2
+MechVent.
+Gen: WDWN middle aged male sedated on mechanical ventilation.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa.
+Neck: Supple with prominent JVP
+CV: RR, distant heart sounds normal S1, S2. No S4, no S3.
+Chest: No chest wall deformities, scoliosis or kyphosis. No
+crackles, wheeze, rhonchi.
+Abd: Obese, soft, NTND, No HSM or tenderness. No abdominial
+bruits.
+Ext: No c/c/e. Rt Groin access site clean and intact.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+Pulses:
+Right: Carotid 2+ without bruit;  2+ DP
+Left: Carotid 2+ without bruit;  2+ DP
+
+Pertinent Results:
+HEMODYNAMICS:
+Cardiac Output 4.7
+Cardiac index 2.27
+SVR 1209
+
+LABORATORY DATA on admission:
+[**2137-2-21**] 08:40PM   GLUCOSE-132* UREA N-43* CREAT-2.2* SODIUM-137
+POTASSIUM-5.0 CHLORIDE-105 TOTAL CO2-20* ANION GAP-17
+[**2137-2-21**] 08:40PM   CK(CPK)-6935*
+[**2137-2-21**] 08:40PM   CALCIUM-9.0 PHOSPHATE-4.1 MAGNESIUM-2.0
+[**2137-2-21**] 08:40PM   WBC-21.9* RBC-4.62 HGB-12.4* HCT-37.1*
+MCV-80* MCH-26.8* MCHC-33.4 RDW-14.8
+[**2137-2-21**] 08:40PM   NEUTS-92.8* BANDS-0 LYMPHS-3.9* MONOS-2.9
+EOS-0.3 BASOS-0.1
+[**2137-2-21**] 05:07PM   LACTATE-1.2
+
+Laboratory Data on discharge:
+WBC 13.2, Hct 30.5, Plt 451
+BUN/Cr 77/2.5 (stable from day prior)
+Na 139, K 5.0, Cl 105, HCO3 22, Glucose 126
+
+[**8-22**] elevations in V1-V5; ST depressions in
+II, III, and aVF ; Q waves in V1-V5; and RBBB not seen on
+previous ECG.
+.
+#ECHO on [**2-21**]: LVEF = 20% ; 3+ MR ;
+Left ventricular wall thicknesses and cavity size are normal.
+There is severe regional left ventricular systolic dysfunction
+with akinesis of the anterior wall, septum, distal LV segments
+and apex. There is hypokinesis of the remaining segments (LVEF =
+20%). No masses or thrombi are seen in the left ventricle. There
+is no ventricular septal defect. Right ventricular chamber size
+is normal. with focal hypokinesis of the apical free wall.
+Moderate to severe (3+) mitral regurgitation is seen (no
+papillary muscle rupture or frank prolapse seen). There is no
+pericardial effusion.
+.
+#Cardiac Catheterization on [**2137-2-21**]
+COMMENTS:
+1. Selective coronary angiography of this right dominant system
+revealed
+3 vessel CAD. The LMCA had no obstruction. The LAD was flush
+occluded
+proximallly. The LCX had an 80% mid lesion adn an 80% OM1. The
+RCA was
+occluded in the mid vessel and filled distally via collaterals.
+2. Resting hemodynamics revealed severely elevated left and
+right sided
+filling pressures, cardiogenic shock with a PCWP of 40 with V
+waves to
+55.
+3. Left ventriculography was deferred.
+4. Successful PTCA and stenting of the proximal LAD with a
+overlapping
+2.5 x 18 and 2.5 x 12 mm minivision stents which were post
+dilated with
+a 3.0 x 15 mm Quantum balloon. Final angiography revealed no
+residual
+stenosis, no dissection and TIMI III flow.
+5. Acute anterior STEMI, cardiogenic shock and VT requiring
+defibrillation/pacing for heart block.
+
+#Cardiac Catheterization on [**3-1**]
+COMMENTS:
+1. Coronary angiography of this right dominant system revealed
+stent
+thrombosis within the previously placed proximal LAD distal BMS.
+The
+LMCA had no significant disease. The LAD stents were patent with
+a
+distal filling defect and probable stent underexpansion with
+stent
+thrombosis. The LCX was unchanged from prior. The RCA was not
+engaged.
+2. Resting hemodynamics revealed normal systemic arterial
+pressures with
+an SBP of 120 mm Hg.
+3. Left ventriculography was not performed.
+4. Successful balloon angioplasty of the LAD stents with a 2.75
+balloon
+with no residual stenosis, defect or dissection.
+
+# [**2-28**] BILATERAL LOWER EXTREMITY DOPPLER ULTRASOUND:  [**Doctor Last Name **]-scale
+and Doppler
+examination of the bilateral common femoral, superficial
+femoral, and
+popliteal veins was performed.  There is a deep venous
+thrombosis in the right
+superficial femoral vein extending all the way down to the
+popliteal vein with
+intraluminal clot expanding the vein and absence of flow
+consistent with
+complete occlusion.  The right common femoral vein is patent.
+There is no
+evidence of deep venous thrombosis involving the left leg.
+IMPRESSION:  DVT on the right extending from the superficial
+femoral vein to the popliteal vein.
+
+# [**3-4**] V/Q scan: Low probability
+
+# [**3-4**] CXR:IMPRESSION: Mild CHF with small pleural effusion.
+
+
+Brief Hospital Course:
+83 yo male with a history of coronary artery disease status post
+STEMI and RCA stent in [**2127**], anterior STEMI [**2137-2-21**] with 2
+overlapping BMS to proximal LAD, anterior STEMI [**2137-3-1**] with
+stent thrombosis, DMII, HTN, and CRI.
+
+# CAD/Ischemia:  Status post STEMI and RCA stent in [**2127**],
+anterior STEMI [**2137-2-21**] with 2 overlapping BMS to proximal LAD,
+anterior STEMI [**2137-3-1**] with stent thrombosis.  Patient presented
+with anterior STEMI with ST elevations V1-V4 and ST depressions
+in II III and aVf.  By cardiac angiography he was found to have
+completely occluded proximal LAD, 80% occlusion of the Lcx and
+complete proximal occlusion of the RCA with distal flow from
+collaterals. The LAD lesion was opened by angioplasty and a bare
+metal stent was placed.  During the procedure the patient became
+hypotensive with episodes of V Tach and V fib requiring multiple
+cardioversions.  After emesis he was intubated for airway
+protection. He was then transfered to the CCU and started on
+[**Month/Day/Year **], plavix, and heparin. On [**2137-3-1**] pt developed chest pain
+while at rest and was found to have anterior ST elevations in
+V1-V3. He was treated with nitroglycerin, O2, and morphine which
+resulted in alleviation of his symptoms. At cardiac
+catheterization he was found to have an LAD stent thrombosis
+that was opened with balloon angioplasty resulting in improved
+flow through the LAD stent.  He remains on Toprol XL 25mg daily,
+[**Last Name (LF) 17339**], [**First Name3 (LF) **], and Plavix daily.
+.
+# Pump: At presentation the patient developed cardiogenic shock
+and was found to have a PCWP of 40 with VEF 20% by echo with 3+
+MR, and septal and anterolateral ventricular akenesis.  An IABP
+was not used becasue the patient has a tortutous aorta.  He was
+initially started on dopamine. In the first 24 hours post cath
+he developed several episodes of sinus bradycardia and
+hypotension when attempting to wean down the dopamine that
+required atropine boluses on one occasion. He was transitioned
+to levophed on [**2-23**]. Metoprolol was started on [**2-24**]. After
+maintaining pressure well he taken off levophed on [**2-26**]. On [**3-1**]
+he developed dyspnea and appeared fluid overloaded on clinical
+exam and has begun on Lasix for diuresis.  On the day of
+discharge the lasix dose was increased to 80mg daily.  This can
+be titrated based on fluid status and blood pressure parameters.
+ ACE-I/ARBs was held due to concerns for renal function; if
+renal function recovers to baseline, we would strongly
+recommended ACE inhibitor therapy for decreased EF. Will need to
+have creatinine and potassium checked in 2 days at rehab
+facility. Needs strict intake/output measurement along with
+daily weights.
+.
+# Rhythm: During cardiac catherization patient had ventricular
+tachycardia and ventricular fibrillation that required multiple
+cardioversions to regain perfusing rhythm. At that time he was
+then started on amiodarone drip.  He was transfered to the CCU
+in NSR and the amiodarone was discontinued.  On [**2-23**] and then
+again on [**2-24**] he developed atrial fibrillation with rapid
+ventricular repsonse in the context of attempted ventilator
+weens.  Both episodes were treated with amiodarone and
+metoprolol and he returned to NSR. Since [**2-24**] he has been in NSR
+on daily metropolol and amiodarone.  He is also on coumadin.
+Coumadin dose was held on [**3-25**] for supratherapeutic INR.
+Plan is to restart coumadin on [**3-6**], INR on [**3-5**] at the time of
+discharge was 3.1, was receiving a dose of 5mg, patient was
+being loaded on amiodarone. The dose of amiodarone will be
+decreased and it is reasonable to initiate warfarin at 5mg and
+check frequent INR level to ensure he is not supratherapeutic
+and adjust as necessary.
+.
+# Respiratory: During cardiac arrest the patient vomitted and
+was intubated for airway protection.  He was removed from
+mechanical ventilation on [**2-25**]. Since, he has used up to 3L O2
+by nasal canula after patient reported subjective dyspnea though
+he has maintained 02 saturations above 95%.  After ecoli was
+found in a sputum culture he completed a course of
+ciprofloxacin. He has had episodes of dyspnea with elvated JVP
+and lower extremity edema, and signs of CHF on CXR;  Diuresis
+with lasix was begun on [**3-1**].  The dose was uptitrated from 40mg
+PO lasix to 80mg PO lasix based on increased pulmonary edema on
+CXR.  VQ scan was low probability for pulmonary embolism on
+[**3-4**].
+
+# CKD: Cr 1.4-1.8 at baseline. During initial cardiac
+catheterization he received  600cc dye load and  had episodes of
+hypotension. He arrived to the CCU with a Non AG acidosis of
+unclear etiology that resolved over the next several days. His
+Cr peaked on [**2-23**] at 4.4 and then declined steadily declined to
+2.4 on [**3-4**] despite receiving another 60cc dye load on [**3-1**].  He
+never required HD, although renal consult team followed closely.
+He will need renal follow up as an outpatient.
+
+# DVT: Despite therapeutic heparin levels, patient developed a
+right sided femoral to popliteal DVT discovered on ultrasound on
+[**2-28**]. As mentioned above VQ scan was negative. He was maintained
+on heparin and then transitioned to coumadin. Because of DVT
+despite heparin for ACS on presentation and antiplatelet therapy
+peri-MI as well as in-stent thrombosis on adequate antiplatelet
+therapy, concern for hypercoagulable state is high and pt should
+have full hypercoagulable work up once other issues are stable.
+.
+# R arm cellulitis: In addition he developed an infiltrated
+right forearm venous access site that became ecchymotic and
+tender and was presumptive treated with cefelaxin for concern of
+a possible cellulitis.
+.
+# BPH: Restarted on Flomax on day of discharge.
+
+Medications on Admission:
+1. Diltiazem ER 240 mg
+2. Flomax 0.4 mg
+3. Quinine 324 mg
+
+Discharge Medications:
+1. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Glipizide 5 mg Tablet Sig: One (1) Tablet PO twice a day.
+5. Insulin Regular Human 100 unit/mL Solution Sig: One (1)
+Injection ASDIR (AS DIRECTED).
+6. Senna 8.8 mg/5 mL Syrup Sig: Five (5) ML PO BID (2 times a
+day) as needed.
+7. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation Q6H (every 6 hours) as needed.
+8. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+9. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q8H (every
+8 hours) for 2 days.
+10. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,
+Sublingual Sublingual ASDIR (AS DIRECTED) as needed for chest
+pain.
+11. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed.
+12. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 6 days.
+13. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day:
+Start after [**Hospital1 **] dosing finishes.
+14. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+15. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+16. Coumadin 5 mg Tablet Sig: One (1) Tablet PO at bedtime:
+Start on [**3-5**].
+17. Lasix 80 mg Tablet Sig: One (1) Tablet PO once a day.
+18. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 599**] of [**Location (un) 55**]
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Coronary Artery Disease, s/p ST elevation myocardial infarction
+Diabetes Mellitus type 2
+Hypertension
+Hypercholesteremia
+Benign Prostatic Hypertrophy
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted to [**Hospital1 18**] with an ST elevation myocardial
+infarction.  This is a blockage in a vessel supplying blood to
+the heart. This vessel was opened with a stent.  You suffered
+from a clot in the stent following the placement.  You also had
+a decrease in the pumping function of your heart and medications
+have been added to compensate for this.
+
+Please take your medications as prescribed. The following
+changes has been made to your medications:
+- Please start taking aspirin 325mg daily for secondary
+cardiovascular prevention (to prevent another heart attack)
+- Please start taking atorvastatin 80mg daily for your heart and
+for your cholesterol
+- Please start taking Toprol XL 25mg daily for your heart and
+blood pressure (prevents remodelling of the heart)
+- Please start taking clopidogrel (Plavix) 75 mg daily to keep
+stents open. DO NOT STOP PLAVIX UNTIL INSTRUCTED BY A
+CARDIOLOGIST, EVEN IF ANOTHER DOCTOR RECOMMENDS STOPPING IT. YOU
+MUST TAKE THIS MEDICINE EVERY DAY TO PREVENT HEART ATTACKS FROM
+YOUR STENTS.
+- Please start taking Lasix 80mg daily to help keep your fluid
+status appropriate.
+
+Your Flomax was restarted the day of your discharge from the
+hospital.  You will need to have your blood pressure monitored
+with the addition of this medication.
+
+If you develop chest pain, jaw pain, or chest pressure with pain
+radiating into arm, or if you for any reason become concerned
+about your medical condition please call 911 or present to
+nearest ED.
+- We also gave you Nitroglycerin tablets to take if you
+experience chest pain, please call 911 or your doctor if chest
+pain recurs even if it dissapears with nitroglycerine.
+**DO NOT STOP TAKING THE ASPIRIN OR PLAVIX UNLESS INSTRUCTED TO
+DO SO BY YOUR CARDIOLOGIST EVEN IF ANOTHER DOCTOR TELLS YOU TO**
+
+
+Followup Instructions:
+Please call Dr.[**Name (NI) 8156**] office to schedule a follow up in the
+next 2-4 weeks.
+
+You have a follow up appointment with Dr. [**Last Name (STitle) **] (cardiology) on
+Tues. [**3-12**] at 11am in the [**Hospital Ward Name 23**] Building. Floor 7. ([**Telephone/Fax (1) 3942**]
+
+Please call the [**Hospital 10701**] Clinic at ([**Telephone/Fax (1) 773**] to schedule
+a follow up appointment in the next 2-4 weeks.
+
+Please schedule a follow up appointment with you podiatrist as
+needed.
+
+
+

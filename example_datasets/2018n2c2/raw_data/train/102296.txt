@@ -1,0 +1,222 @@
+Admission Date:  [**2172-9-28**]              Discharge Date:   [**2172-9-30**]
+
+
+Service: MEDICINE
+
+Allergies:
+Quinolones
+
+Attending:[**First Name3 (LF) 689**]
+Chief Complaint:
+acute blood loss
+
+Major Surgical or Invasive Procedure:
+RBC transfusion
+
+History of Present Illness:
+Ms. [**Known lastname **] is an 86yo woman with h/o recent stroke who was
+transferred from [**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **] after being found to have a low
+hematocrit. There was no reported bleeding and she was without
+complaint. Per review of notes in the chart, there was no
+preceeding diarrhea or vomiting. She does not have any
+endoscopies or colonoscopies in the [**Hospital1 **] record.  Pt denies abd
+pain but hx limited by her aphasia/non-verbal status.  Per PCP
+and family, [**Name9 (PRE) 79134**] invasive treatment/work-up is preferred as
+long as there is no significant GI bleed.
+.
+She was taken to [**Hospital1 18**] ED where her VS were stable, Hct 17.4,
+and she was noted to have guaiac +, formed, brown stool.  Coags
+wnl at 1.2.  Also had sodium 151, which has since resolved w/
+D5W IF.  Pt was given 2uRBCs, including that given in MICU. She
+spent 1 day in MICU where her Hct bumped back to 17.4->27.7 o/n.
+She was seen by GI who recommended conservative rx w/ PPI and
+prn transfusions.
+
+Past Medical History:
+Alzheimer's Dementia
+h/o L MCA stroke [**9-/2172**] with persistent hemiparesis and aphasia
+
+HTN
+B12 deficiency
+Anemia with baseline Hct 25-27
+h/o UTIs
+Cataracts
+Glaucoma
+
+Social History:
+Lives in [**Hospital3 **] facility ([**First Name4 (NamePattern1) 1188**] [**Last Name (NamePattern1) **])
+Does not smoke/ ETOH/ take illicit drugs.
+
+
+Family History:
+not available at present
+
+Physical Exam:
+VS: 98.1 102 134/95 19 100% RA
+Awake, responsive and orients well to examiner. Unable to
+produce coherent speech. +Cachectic.
+EOMI. Right pupil is round and reactive but left is difficult to
+appreciate if it is reacting. Will not open mouth or follow
+commands but has a symmetric face.
+Neck is supple
+Heart is tachycardic and regular with a systolic murmur heard
+best at apex, though not holosystolic.
+No increased work of breathing, no accessory muscle use. Lungs
+clear though does not breathe deeply.
+Abd is soft and not tender.
+LE are non-edematous b/l.
+She is able to squeeze her left hand and slow the rate of fall
+of her left leg. Right arm is kept in flexion and is resistant
+to movement. 0/5 strength on right side.
+
+Pertinent Results:
+CBC: WBC-6.5# RBC-1.92*# Hgb-5.3*# Hct-17.4*# MCV-90# Plt Ct-271
+Coags: PT-13.4 PTT-27.0 INR(PT)-1.2*
+
+Chemistries:
+153  117  42
+-------------< 161
+4.2  27  1.1
+
+Hemolysis labs: calTIBC-334 Hapto-287* Ferritn-27 TRF-257
+
+EKG: Sinus tachycardia. Borderline leftward axis. Possible prior
+inferior
+myocardial infarction. Compared to the previous tracing of
+[**2172-9-8**] the findings are similar.
+
+CXR: IMPRESSION: No evidence of pulmonary edema.
+
+
+Brief Hospital Course:
+This is an 86yo woman with dementia and h/o recent left MCA
+stroke complicated by persistent aphasia and hemiparesis
+admitted with acute hematocrit drop and guaiac positive stool.
+.
+# Anemia: Pt has chronic anemia w/ baseline Hct 25-27.
+Hemolysis work-up was negative.  Acute drop in Hct was thought
+to be from GI source.  Pt's Hct bumped appropriately with 2u RBC
+transfusions, and she was monitored for 1 day in MICU, where she
+remained hemodynamically stable.  GI was consulted, and given
+her family's desire for minimal intervention, she was managed
+conservatively with PPI, Hct checks, and PRN transfusions.  She
+was also taken off ASA ppx for stroke, in setting of GIB.
+Although labs do not show iron deficiency, she was supplemented
+as she may continue to have GIB.  Her Hct remained stable at ~25
+on day of discharge.  She should have her hematocrit checked on
+the day after discharge.  Her hematocrit should be regularly
+monitored afterwards according to her attending doctor's
+discretion, but we would advise that another Hematocrit be
+checked this [**Last Name (LF) 2974**], [**10-2**], and that she be transfused
+as needed to keep her Hct at baseline ~ 25
+.
+# Hypernatremia:  Pt arrived with sodium of 153, which was
+thought to be due to free water deficit from poor access to
+water.  She was gently hydrated with D5W and her hypernatremia
+resolved and has remained within normal range.
+.
+# Elevated troponin:  Patient unable to verbalize chest pain.
+EKG does not show changes from prior tracing 3 weeks ago.  Her
+troponin remained stable at 0.03 after 3 sets of enzymes.  She
+was continued on home simvastatin.
+.
+# s/p Left MCA stroke: Continues to have significant aphasia and
+right sided weakness.  Keppra was continued.  ASA was held in
+setting of active bleed.
+.
+# HTN:  Remained HD stable throughout hospitalization with good
+BP control.  Norvasc was held b/c of GI bleed, but discharge
+instructions were to re-start her anti-hypertensive medications
+at her long term care facility if she remained hemodynamically
+stsable.
+.
+# h/o cataracts and glaucoma:  Pt was continued on levobunolol.
+She was given xalatan eye drops instead of travatan due to
+formulary issues.
+.
+# Heel ulcer: Stage 1 pressure ulcer was identified this
+admission. The pt's legs were kept in waffle boots to minimize
+pressure to this area.
+.
+# Code: DNR/DNI
+
+Medications on Admission:
+ASA 325mg daily
+Keppra 500mg [**Hospital1 **]
+Simvastatin 20mg QHS
+Norvasc 2.5mg QHS
+Risperdal 0.25mg QHS--recently stopped [**Name8 (MD) **] MD
+Lasix 20mg PO daily
+Calcium + Vit D 500mg/200IU [**Hospital1 **]
+Colace
+Senna
+Dulcolax
+Travatan eye gtt OU QHS
+Levobunolol 0.5% eye gtt OU QHS
+
+Discharge Medications:
+1. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+2. Levobunolol 0.5 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+3. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+4. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as
+needed.
+7. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as
+needed.
+8. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+9. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day:
+This was held during the hospitalization, but should be
+re-started if the patient's SBP remains stable >100.
+10. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day: This
+was held during the hospitalization, but should be re-started
+and added back to her regimen.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1186**] - [**Location (un) 538**]
+
+Discharge Diagnosis:
+Primary:
+-Acute-on-chronic anemia with guaiac + stools and no further GI
+work-up secondary to family's desire for minimal intervention
+-Hypernatremia secondary to inability to take adequate water,
+resolved with IV fluids
+Secondary:
+-s/p left MCA stroke with persistent hemiparesis and aphasia
+-Left heel ulcer
+-Alzheimer's dementia
+-Hypertension
+-History of glaucoma & cataracts
+
+Discharge Condition:
+Improved hematocrit, hemodynamically stable
+
+
+Discharge Instructions:
+You were admitted for an acute drop in your blood count. Your
+blood count stabilized after 2 units of blood transfusion.  It
+was thought that you are bleeding from your GI tract.  Because
+your family desires minimal interventions, we plan to
+conservatively treat your bleeding by monitoring your blood
+count and giving transfusions on an as needed basis.
+
+Please continue to have your blood count monitored at your
+living facility.
+
+Followup Instructions:
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 640**] [**Last Name (NamePattern4) 3445**], MD Phone:[**Telephone/Fax (1) 44**]
+Date/Time:[**2172-10-5**] 1:30pm
+
+
+
+Completed by:[**2172-10-1**]

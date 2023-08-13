@@ -1,0 +1,252 @@
+T1	Drug 1034 1041	lovenox
+T2	Drug 167 175	Morphine
+T3	Drug 178 187	Oxycontin
+T4	Drug 190 201	Penicillins
+T5	Drug 204 214	Prednisone
+T6	Drug 217 224	Codeine
+T7	Drug 227 233	Advair
+T8	Form 234 240	Diskus
+R1	Form-Drug Arg1:T8 Arg2:T7
+T9	Reason 444 463;464 470	non-small cell lung cancer
+R2	Reason-Drug Arg1:T9 Arg2:T10
+R3	Reason-Drug Arg1:T9 Arg2:T11
+R4	Reason-Drug Arg1:T9 Arg2:T12
+T10	Drug 590 595	taxol
+T11	Drug 597 608	carboplatin
+T12	Drug 643 650	avastin
+T13	Reason 6625 6641	Pulmonary emboli
+R5	Reason-Drug Arg1:T13 Arg2:T14
+T14	Drug 6720 6727	lovenox
+T15	Reason 6733 6745	Hypertension
+R7	Reason-Drug Arg1:T15 Arg2:T19
+R8	Reason-Drug Arg1:T15 Arg2:T20
+T16	Reason 6774 6785	hypotensive
+R9	Reason-Drug Arg1:T16 Arg2:T17
+T17	Drug 6821 6826	fluid
+T18	Dosage 6827 6834	boluses
+R10	Dosage-Drug Arg1:T18 Arg2:T17
+T19	Drug 7007 7015	atenolol
+T20	Drug 7023 7037	chlorthalidone
+T21	Reason 7084 7090	NSCLCa
+R11	Reason-Drug Arg1:T21 Arg2:T24
+R12	Reason-Drug Arg1:T21 Arg2:T25
+R13	Reason-Drug Arg1:T21 Arg2:T23
+T22	Drug 7123 7128	chemo
+T23	Drug 7134 7139	taxol
+T24	Drug 7141 7152	carboplatin
+T25	Drug 7154 7161	Avastin
+T26	ADE 7217 7229	Pancytopenia
+R14	ADE-Drug Arg1:T26 Arg2:T27
+T27	Drug 7244 7249	chemo
+T28	Reason 7320 7351	Intermittent Atrial Tachycardia
+R15	Reason-Drug Arg1:T28 Arg2:T29
+T29	Drug 7356 7364	atenolol
+T30	Strength 7365 7369	75mg
+R16	Strength-Drug Arg1:T30 Arg2:T29
+T31	Frequency 7370 7375;7376 7381	twice daily
+R17	Frequency-Drug Arg1:T31 Arg2:T29
+T32	Strength 7405 7409	50mg
+R18	Strength-Drug Arg1:T32 Arg2:T29
+T33	Frequency 7410 7421	twice daily
+R19	Frequency-Drug Arg1:T33 Arg2:T29
+T34	Drug 7450 7458	Atenolol
+T35	Strength 7459 7464	75 mg
+R20	Strength-Drug Arg1:T35 Arg2:T34
+T36	Drug 7482 7494	Atorvastatin
+T37	Strength 7495 7500	20 mg
+R21	Strength-Drug Arg1:T37 Arg2:T36
+T38	Frequency 7501 7506	daily
+R22	Frequency-Drug Arg1:T38 Arg2:T36
+T39	Drug 7507 7522	Irbesartan-HCTZ
+T40	Strength 7523 7534	150/12.5 mg
+R23	Strength-Drug Arg1:T40 Arg2:T39
+T41	Frequency 7535 7540	daily
+R24	Frequency-Drug Arg1:T41 Arg2:T39
+T42	Drug 7541 7552	Rabeprazole
+T43	Strength 7553 7558	20 mg
+R25	Strength-Drug Arg1:T43 Arg2:T42
+T44	Frequency 7559 7564	daily
+R26	Frequency-Drug Arg1:T44 Arg2:T42
+T45	Drug 7565 7576	Tiotroprium
+T46	Dosage 7577 7578	1
+R27	Dosage-Drug Arg1:T46 Arg2:T45
+T47	Form 7579 7582	Cap
+R28	Form-Drug Arg1:T47 Arg2:T45
+T48	Frequency 7583 7588	daily
+R29	Frequency-Drug Arg1:T48 Arg2:T45
+T49	Drug 7616 7626	Enoxaparin
+T50	Strength 7627 7636	100 mg/mL
+R30	Strength-Drug Arg1:T50 Arg2:T49
+T51	Form 7637 7644	Syringe
+R31	Form-Drug Arg1:T51 Arg2:T49
+T52	Dosage 7650 7664	Ninety (90) mg
+R32	Dosage-Drug Arg1:T52 Arg2:T49
+T53	Route 7665 7677	Subcutaneous
+R33	Route-Drug Arg1:T53 Arg2:T49
+T54	Frequency 7678 7701	every twelve (12) hours
+R34	Frequency-Drug Arg1:T54 Arg2:T49
+T55	Drug 7736 7749	Acetaminophen
+T56	Strength 7750 7756	325 mg
+R35	Strength-Drug Arg1:T56 Arg2:T55
+T57	Form 7757 7763	Tablet
+R36	Form-Drug Arg1:T57 Arg2:T55
+T58	Dosage 7769 7772	1-2
+R37	Dosage-Drug Arg1:T58 Arg2:T55
+T59	Form 7773 7780	Tablets
+R38	Form-Drug Arg1:T59 Arg2:T55
+T60	Route 7781 7783	PO
+R39	Route-Drug Arg1:T60 Arg2:T55
+T61	Frequency 7784 7796;7797 7813	Q6H (every 6 hours) as needed
+R40	Frequency-Drug Arg1:T61 Arg2:T55
+T62	Reason 7818 7822	pain
+R41	Reason-Drug Arg1:T62 Arg2:T55
+T63	Drug 7827 7842	Docusate Sodium
+T64	Strength 7843 7849	100 mg
+R42	Strength-Drug Arg1:T64 Arg2:T63
+T65	Form 7850 7857	Capsule
+R43	Form-Drug Arg1:T65 Arg2:T63
+T66	Dosage 7863 7870	One (1)
+R44	Dosage-Drug Arg1:T66 Arg2:T63
+T67	Form 7871 7878	Capsule
+R45	Form-Drug Arg1:T67 Arg2:T63
+T68	Route 7879 7881	PO
+R46	Route-Drug Arg1:T68 Arg2:T63
+T69	Frequency 7882 7888;7889 7911	BID (2 times a day) as needed
+R47	Frequency-Drug Arg1:T69 Arg2:T63
+T70	Reason 7916 7928	constipation
+R48	Reason-Drug Arg1:T70 Arg2:T63
+T71	Drug 7933 7951	Tiotropium Bromide
+T72	Strength 7952 7958	18 mcg
+R49	Strength-Drug Arg1:T72 Arg2:T71
+T73	Form 7959 7987	Capsule, w/Inhalation Device
+R50	Form-Drug Arg1:T73 Arg2:T71
+T74	Dosage 7993 8000	One (1)
+R51	Dosage-Drug Arg1:T74 Arg2:T71
+T75	Form 8001 8004	Cap
+R52	Form-Drug Arg1:T75 Arg2:T71
+T76	Route 8005 8015	Inhalation
+R53	Route-Drug Arg1:T76 Arg2:T71
+T77	Frequency 8016 8029	DAILY (Daily)
+R54	Frequency-Drug Arg1:T77 Arg2:T71
+T78	Drug 8034 8041	Aciphex
+T79	Strength 8042 8047	20 mg
+R55	Strength-Drug Arg1:T79 Arg2:T78
+T80	Form 8048 8078	Tablet, Delayed Release (E.C.)
+R56	Form-Drug Arg1:T80 Arg2:T78
+T81	Dosage 8084 8091	One (1)
+R57	Dosage-Drug Arg1:T81 Arg2:T78
+T82	Form 8092 8122	Tablet, Delayed Release (E.C.)
+R58	Form-Drug Arg1:T82 Arg2:T78
+T83	Route 8123 8125	PO
+R59	Route-Drug Arg1:T83 Arg2:T78
+T84	Frequency 8126 8141	every other day
+R60	Frequency-Drug Arg1:T84 Arg2:T78
+T85	Drug 8146 8154	Atenolol
+T86	Strength 8155 8160	50 mg
+R61	Strength-Drug Arg1:T86 Arg2:T85
+T87	Form 8161 8167	Tablet
+R62	Form-Drug Arg1:T87 Arg2:T85
+T88	Dosage 8173 8180	One (1)
+R63	Dosage-Drug Arg1:T88 Arg2:T85
+T89	Form 8181 8187	Tablet
+R64	Form-Drug Arg1:T89 Arg2:T85
+T90	Route 8188 8190	PO
+R65	Route-Drug Arg1:T90 Arg2:T85
+T91	Frequency 8191 8205;8206 8210	BID (2 times a day)
+R66	Frequency-Drug Arg1:T91 Arg2:T85
+T92	Drug 8247 8277	Irbesartan-Hydrochlorothiazide
+T93	Strength 8278 8289	150-12.5 mg
+R67	Strength-Drug Arg1:T93 Arg2:T92
+T94	Form 8290 8296	Tablet
+R68	Form-Drug Arg1:T94 Arg2:T92
+T95	Dosage 8302 8305;8306 8310	one half
+R69	Dosage-Drug Arg1:T95 Arg2:T92
+T96	Form 8311 8317	Tablet
+R70	Form-Drug Arg1:T96 Arg2:T92
+T97	Route 8318 8320	PO
+R71	Route-Drug Arg1:T97 Arg2:T92
+T98	Frequency 8321 8331	once a day
+R72	Frequency-Drug Arg1:T98 Arg2:T92
+T99	Drug 8336 8348	Fexofenadine
+T100	Strength 8349 8354	60 mg
+R73	Strength-Drug Arg1:T100 Arg2:T99
+T101	Form 8355 8361	Tablet
+R74	Form-Drug Arg1:T101 Arg2:T99
+T102	Dosage 8367 8374	One (1)
+R75	Dosage-Drug Arg1:T102 Arg2:T99
+T103	Form 8375 8381	Tablet
+R76	Form-Drug Arg1:T103 Arg2:T99
+T104	Route 8382 8384	PO
+R77	Route-Drug Arg1:T104 Arg2:T99
+T105	Frequency 8385 8397;8398 8414	BID (2 times a day) as needed
+R78	Frequency-Drug Arg1:T105 Arg2:T99
+T106	Reason 8419 8426	itching
+R79	Reason-Drug Arg1:T106 Arg2:T99
+T107	Drug 8431 8443	Atorvastatin
+T108	Strength 8444 8449	20 mg
+R80	Strength-Drug Arg1:T108 Arg2:T107
+T109	Form 8450 8456	Tablet
+R81	Form-Drug Arg1:T109 Arg2:T107
+T110	Dosage 8462 8465;8466 8469	One (1)
+R82	Dosage-Drug Arg1:T110 Arg2:T107
+T111	Form 8470 8476	Tablet
+R83	Form-Drug Arg1:T111 Arg2:T107
+T112	Route 8477 8479	PO
+R84	Route-Drug Arg1:T112 Arg2:T107
+T113	Frequency 8480 8490	once a day
+R85	Frequency-Drug Arg1:T113 Arg2:T107
+T114	Drug 8497 8510	Lidocaine HCl
+T116	Form 8515 8523	Solution
+R87	Form-Drug Arg1:T116 Arg2:T114
+T117	Dosage 8529 8539	One (1) ML
+R88	Dosage-Drug Arg1:T117 Arg2:T114
+T118	Route 8540 8555	Mucous membrane
+R89	Route-Drug Arg1:T118 Arg2:T114
+T119	Frequency 8556 8585	TID (3 times a day) as needed
+R90	Frequency-Drug Arg1:T119 Arg2:T114
+T120	Reason 8590 8600	oral sores
+R91	Reason-Drug Arg1:T120 Arg2:T114
+T121	Drug 8659 8678	Formoterol Fumarate
+T122	Strength 8679 8690	20 mcg/2 mL
+R92	Strength-Drug Arg1:T122 Arg2:T121
+T123	Form 8691 8716	Solution for Nebulization
+R93	Form-Drug Arg1:T123 Arg2:T121
+T124	Dosage 8722 8729	One (1)
+T125	Form 8730 8738	solution
+R94	Form-Drug Arg1:T125 Arg2:T121
+T126	Route 8739 8749	Inhalation
+R95	Route-Drug Arg1:T126 Arg2:T121
+T127	Frequency 8750 8771	twice a day as needed
+T128	Reason 8776 8795	shortness of breath
+R96	Reason-Drug Arg1:T128 Arg2:T121
+T129	Reason 8799 8807	wheezing
+R97	Reason-Drug Arg1:T129 Arg2:T121
+T130	Reason 881 884	PEs
+R98	Reason-Drug Arg1:T130 Arg2:T131
+R99	Reason-Drug Arg1:T130 Arg2:T1
+T131	Drug 905 912	heparin
+T132	Route 913 916	gtt
+R100	Route-Drug Arg1:T132 Arg2:T131
+T133	Reason 9205 9217;9218 9227	prevent clot formation
+R101	Reason-Drug Arg1:T133 Arg2:T134
+T134	Drug 9235 9242	Lovenox
+T135	Drug 9304 9311	Lovenox
+T136	Strength 9312 9324	90mg (0.9cc)
+R102	Strength-Drug Arg1:T136 Arg2:T135
+T137	Route 9332 9346	subcutaneously
+R103	Route-Drug Arg1:T137 Arg2:T135
+T138	Frequency 9347 9358	twice daily
+R104	Frequency-Drug Arg1:T138 Arg2:T135
+T139	Drug 9365 9376	Perforomist
+T140	Form 9377 9386	nebulizer
+R105	Form-Drug Arg1:T140 Arg2:T139
+T141	Frequency 9387 9398	twice daily
+R106	Frequency-Drug Arg1:T141 Arg2:T139
+T142	Drug 9404 9418	Chlorthalidone
+R6	Reason-Drug Arg1:T21 Arg2:T22	
+T143	Form 7711 7719	syringes
+R107	Form-Drug Arg1:T143 Arg2:T49	
+T144	Form 8221 8230	Tablet(s)
+R108	Form-Drug Arg1:T144 Arg2:T85	
+R109	Dosage-Drug Arg1:T124 Arg2:T121	
+R110	Frequency-Drug Arg1:T127 Arg2:T121	

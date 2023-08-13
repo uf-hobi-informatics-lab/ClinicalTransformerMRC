@@ -1,0 +1,291 @@
+Admission Date:  [**2126-12-4**]              Discharge Date:   [**2127-1-12**]
+
+Date of Birth:  [**2080-3-28**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3326**]
+Chief Complaint:
+R basilic vein thrombosis
+
+Major Surgical or Invasive Procedure:
+R heart catheterization
+L internal jugular central venous line
+L radial arterial line
+
+History of Present Illness:
+Ms. [**Known lastname 28331**] is a 46 year old woman with history of AML s/p
+allogeneic stem
+cell transplant from an unrelated donor in [**2124-10-24**], with
+TBI and Cytoxan for conditioning regimen.  Her course was
+complicated by graft versus host disease of the skin and lungs,
+hypertension and numerous steroid-related complications such as
+diabetes, steroid myopathy, and increased peripheral edema.
+.
+She presents today from clinic with right arm swelling (she had
+a PICC in the arm) and was found to have a completely occluded
+right basilic vein.  She has some pain in the right arm,
+especially with movement.  The PICC line was pulled and she was
+admitted for anticoagulation.
+.
+Of note, she was recently discharged after she was admitted with
+Enterococcal bacteremia (vanco sensitive); she finished her
+course of ampicillin yesterday.  She has otherwise been doing
+well at rehab-- she has been slowly diuresed and is making some
+progress with PT.
+
+Past Medical History:
+PMH/PSH:
+1) Acute Myelogenous Leukemia type M2 s/p matched unrelated
+donor stem cell transplant [**10-29**]; complicated by GVHD of the
+liver, skin and lungs.
+2) Bronchiolitis Obliterans
+- PFTs [**2126-6-6**] showed FEV1 0.47 L/17% of predicted, FEV1/FVC 41%
+- developed due to GVHD [**6-29**]
+- at End Stage Lung Disease - severely limited functional status
+
+40 (on prior admission)
+3) Right lung abscess, s/p resection
+4) Pulmonary nodules with geotrichum
+5) Diabetes Mellitus, [**1-25**] steroid treatment
+6) Hypertension
+
+
+Social History:
+Patient lives with mother, but has been at rehab since her [**Hospital1 18**]
+discharge one week ago. Currently unemployed. Previously
+worked as stock clerk. Quit smoking 2 years ago. Occasional EtOH
+use.
+
+Family History:
+No history of oncologic diseases.
+
+
+Physical Exam:
+Vitals on arrival to the floor: 97.7, 60, 120/92, 100% 3L NC
+Gen: Obese cushingoid female pleasant, sitting up in bed. Wearin
+oxygen
+HEENT: + mucous on eyelashes and injected conjunctivae b/l- old
+per patient [**1-25**] GVHD. No scleral icterus.
+Neck: No cervical LAD. JVP could not be appreciated.
+CV: nml S1, S2, no m/r/g
+Lungs: occ wheeze, but overall CTA b/l
+Extremities: 4+ pitting edema of the legs, L + R, to the thigh.
+No areas of cellulitis on legs or arms. Some weeping of clear
+fluid from anterior left leg and right arm (at sites where she
+has scabs and scratches).  Extremities somewhat cool to touch,
+but 2+ DPP b/l and radial pulse.
+Neuro: CN II- XII grossly intact.  Gait deferred.
+Upper extremities: No increases tone. 2+ DTRs. 4/5 strength
+throughout.
+Lower extremities: 2/5 strength present in proximal muscles with
+
+[**3-29**] in distal muscles s/l. No reflexes elicited.
+
+Pertinent Results:
+ADMISSION LABS:
+[**2126-12-4**] 11:20AM BLOOD WBC-6.4 RBC-2.67* Hgb-9.9* Hct-30.7*
+MCV-115* MCH-37.3* MCHC-32.4 RDW-15.8* Plt Ct-131*
+[**2126-12-4**] 11:20AM BLOOD Neuts-86.2* Lymphs-7.6* Monos-5.3 Eos-0.7
+Baso-0.1
+[**2126-12-4**] 11:20AM BLOOD Plt Ct-131*
+[**2126-12-4**] 11:20AM BLOOD UreaN-37* Creat-1.3* Na-142 K-3.6 Cl-96
+HCO3-40* AnGap-10
+[**2126-12-4**] 11:20AM BLOOD ALT-15 AST-16 LD(LDH)-255* AlkPhos-669*
+TotBili-0.3 DirBili-0.2 IndBili-0.1
+[**2126-12-4**] 11:20AM BLOOD Calcium-8.3* Phos-3.5 Mg-1.8
+UricAcd-10.1* Cholest-156
+
+DISCHARGE LABS:
+
+RADIOLOGY:
+[**2126-12-4**] RUE US: Basilic vein thrombosis
+[**2126-12-4**] Bilateral LE US: No evidence of DVT
+
+[**2126-12-11**] Renal US: Unremarkable renal ultrasound without
+evidence of vascular abnormality.
+
+
+Brief Hospital Course:
+1. Anasarca: The patient appeared to be total body overloaded by
+intravascularly dry at admission. She [**Month/Day/Year 1834**] right heart
+catheterization on [**2126-12-6**] that showed pulmonary hypertension
+(systolic BP 45, diastolic BP 20, mean BP 28). She was therefore
+started on sildenafil. The nephrology service was consulted, and
+she diuresed well on a regimen on albumin, lasix, and
+chlorthiazide (then metolazone). Her diuresis was discontinued
+on [**1-8**] because of development of hypotension occuring in the
+setting of a urinary tract infection. Subsequently, she was
+transferred to the [**Hospital Unit Name 153**] for hypotension (see below) where
+sildenafil was d/c'd as the patient was unlikely benefiting from
+it in the setting of relatively mild to moderate pulmonary HTN
+and overall systemic hypotension.
+
+2. UTI: She developed a urinary tract infection with Pseudomonas
+on [**12-15**] and was treated with a two week course of levofloxacin
+then ciprofloxacin. A repeat urine culture was obtained for
+followup on [**1-2**] although she was afebrile and had no urinary
+complaints. This culture again grew out Pseudomonas, this time
+quinolone resistant. Her foley catheter was changed, as she
+refused to have it removed. She subsequently developed a fever
+to 101.3 on [**1-7**] and was started on cefepime, with addition of
+vancomycin and flagyl on [**1-8**]. Upon transfer to the [**Hospital Unit Name 153**] for
+hypotension and tachycardia (see below), she was continued on
+vancomycin, cefepime, and flagyl. A central venous line and
+arterial line were placed under sterile conditions. After 24
+hours in the ICU, the patient was on 3 pressors with the
+differential diagnosis including septic vs. cardiogenic shock.
+Meropenem was added as for double gram-negative and Psuedomonas
+coverage. In spite of maximal medical therapy, the patient
+remained maxed out on 3 pressors. A repeat family meeting was
+held with the pt's HCP and mother, who agreed to make the
+patient CMO. She expired shortly thereafter. An autospy was
+offered, but declined.
+
+3. Hypotension and tachycardia: She developed hypotension to the
+70's sytolic on [**1-8**] which responded initially to fluid boluses.
+Her hypotension was thought to reflect both aggressive diuresis
+and possible urosepsis. She developed tachycardia to the 120's
+on [**1-9**] with a new RBBB. She was transferred to the [**Hospital Unit Name 153**] where
+she was given adenosine 6 mg X 2 with conversion to sinus
+tachycaria after the second dose of adenosine. However, she went
+back into a wide complex tachycardia with a RBBB pattern soon
+thereafter. The cardiology team evaluated her and felt that this
+rhythm was most likely an SVT with rate related aberancy;
+however the following day, after reviewing the EKG strips with
+the EP attending, the patient was determined to have a fasicular
+ventricular tachycardia in the setting of no known prior CAD or
+ischemic scar. The treatment of choice in this setting would
+have been verapimil; however this was not feasible as the
+patient was already on 3 pressors (neo, levophed, and
+vasopressin). The following day, a dose of verapimil was tried
+given concern for possibly worsening cardiogenic shock (however
+the patient's extremities remained warm to palpation, which
+suggested likely septic shock) with conversion back to sinus
+tachycardia. She was not cardioverted secondary to the patient's
+wishes to remain DNR/DNI. Given the patient's lack of
+improvement in spite of maximal medical care, the patient was
+made CMO after another family meeting and expired shortly
+thereafter.
+
+3. C. diff colitis: She experienced loose stools after admission
+and a stool sample was positive for C. diff toxin on [**12-8**]; she
+was subsequently treated with a 14 day course of flagyl. This
+was restarted on [**1-8**] as noted above in the context of recurrent
+fever and increased stooling.
+
+4. Right basilic vein thrombosis: The patient's PICC line was
+removed and she was started on IV heparin and then coumadin. Her
+anticoagulation was discontinued in the setting of heme positive
+stools and widely varying INR (thought likely to be due to
+interactions with her many medications). A repeat ultrasound of
+the upper extremity showed no evidence of persistent thrombus
+therefore she was not continued on further anticoagulation.
+
+5. AML with history of GVHD: She was continued on cyclosporine,
+Cellcept, and her prednisone was titrated down per BMT
+recommendations.
+
+6. Elevated LFTs: Her transaminases, alkaline phosphatase, and
+bilirubin were moderately elevated and thought to be secondary
+to GVHD of the liver after review of her medication list and
+right upper quadrant ultrasound revealed no other clear causes
+of these findings. Her alkaline phosphatase elevation was
+probably due at least in part to her bony disease as the bone
+specific fraction was elevated as well.
+
+7. Acute renal failure: The patient's creatinine was 1.3 at
+admission peaking at 1.9. She was thought to be intravascularly
+dry with prerenal failure. Her creatinine improved with addition
+of albumin to her diuretic regimen consistent with this.
+
+8. Pulmonary hypertension: Ms. [**Known lastname 28331**] [**Last Name (Titles) 1834**] right heart
+catheterization on [**12-7**] to assess whether pulmonary
+hypertension might be contributing to her significant edema.
+This study showed mean pulmonary pressures of 28 and she was
+subsequently started on sildenafil, which was subsequently d/c'd
+upon transfer to the [**Hospital Unit Name 153**] (see above).
+
+9. Heme positive stools: As noted above, she had heme positive
+stools in the setting of anticoagulation with IV heparin and
+warfarin and recent C. difficile colitis infectoin. In addition,
+she had a prior history of gastritis on endoscopy and was
+receiving steroids for her GVHD. She was started on a PPI and
+her Hct was followed closely.
+
+10. Hyperparathyroidism and vitamin D deficiency: The patient's
+PTH was rechecked as the differential for her bone changes noted
+on plain films included osteitis fibrosa. She was evaluated by
+the endocrinology consult service who felt that her
+hyperparathyroidism was likely secondary, perhaps due to renal
+failure or steroid use. Her vitamin D levels were rechecked and
+found to be low. She was started on weekly vitamin D and daily
+calcium. She will need repeat vitamin D studies and should
+follow up with endocrinology for further management. She was
+started on a bisphosphonate per endocrine recs.
+
+11. Pulmonary osteoarthropathy: She complained of diffuse body
+pains and aches. Imaging of her extremities was notable for
+diffuse periosteal reaction. The endocrinology service reviewed
+the films and felt the history and imaging were most consistent
+with pulmonary osteoarthropathy. Her pain was treated with oral
+dilaudid as needed for pain control.
+
+12. Eye pains: Ms. [**Known lastname 28331**] complained of eye soreness. This was
+thought to be secondary to GVHD. She was started on cyclosporin
+eye drops and artificial tears. She was evaluated by the
+opthalmology consult service who recommended addition of Refresh
+eye drops which she continued with relief of her symptoms.
+
+Medications on Admission:
+Atenolol 100 mg qd
+Cell cept [**Pager number **] mg qam
+Cellcept [**Pager number **] mg qpm
+Hydralazine 25 mg q 6 hrs
+Neoral 50 mg qam
+Neoral 25 mg qhs
+Prednisone 15 mg [**Hospital1 **]
+Valtrex 500 mg [**Hospital1 **]
+VFEND 200 mg [**Hospital1 **]
+Benzonatate
+Azithromycin 250 mg qod
+Bactrim DS MWF
+Lantus 12 U qd
+HSSI
+Zolpidem 10 mg qd
+Oxycodone 5 mg prn
+Odansetron 4 mg q 8 hrs prn
+Albuterol prn
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Cardiorespiratory Arrest
+Septic vs. cardiogenic shock
+Psuedomonas UTI
+Fasciular Ventricular Tachycardia
+AML c/b GVHD
+R basilic DVT
+Acute renal failure
+Anasarca
+Pulmonary Hypertension
+
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+
+Completed by:[**2127-1-13**]

@@ -1,0 +1,155 @@
+T1	Drug 641 647	Keflex
+T2	Drug 3653 3659	Unasyn
+T3	Drug 2248 2254	Keflex
+T4	Strength 2255 2261	500 mg
+T5	Frequency 2267 2273	b.i.d.
+T6	Route 2262 2266	p.o.
+T7	Drug 6603 6608	Lasix
+T8	Drug 2190 2199	Enalapril
+T9	Strength 2200 2205	20 mg
+T10	Route 2206 2210	p.o.
+T11	Drug 4943 4952	enalapril
+T12	Drug 3293 3303	vancomycin
+T14	Drug 6670 6681	pravastatin
+T15	Strength 6682 6687	20 mg
+T16	Route 6688 6692	p.o.
+T17	Drug 4376 4381	Lasix
+T18	Drug 3673 3681	cefepime
+T19	Drug 3485 3490	Lasix
+T20	Drug 4933 4938	Lasix
+T21	Strength 6637 6643	0.5 mg
+T22	Drug 6627 6635;6635 6636	lorazepa m
+T23	Drug 3369 3375	Unasyn
+T24	Drug 3306 3317	Doxycycline
+T25	Drug 6700 6709	Compazine
+T26	Strength 6710 6714;6715 6720	5 to 10 mg
+T27	Drug 3693 3703	vancomycin
+T28	Drug 6575 6584	Enalapril
+T29	Strength 6585 6590	20 mg
+T30	Route 6591 6595	p.o.
+T31	Drug 3569 3578	enalapril
+T32	Drug 5298 5305	Demerol
+T33	Drug 3583 3588	Lasix
+T34	Drug 2218 2229	pravastatin
+T35	Strength 2230 2235	20 mg
+T36	Route 2236 2240	p.o.
+T37	Reason 4102 4117	pulmonary edema
+T38	Reason 6662 6668	nausea
+T39	Reason 6735 6741	nausea
+T40	Reason 605 615	cellulitis
+T41	Route 636 640	oral
+T42	Drug 2110 2114	IL-2
+T43	Reason 1996 2004	melanoma
+T44	Dosage 2100 2109	high-dose
+T45	Frequency 2211 2216	daily
+T46	Frequency 2241 2246	daily
+T47	Reason 3261 3271	cellulitis
+T48	Reason 3448 3456;3457 3463	short of breath
+T49	Reason 3521 3544	diastolic heart failure
+T50	Drug 3999 4003	IL-2
+T51	Dosage 3989 3998	high-dose
+T52	Reason 3894 3902	melanoma
+T53	ADE 4086 4097	tachycardia
+T54	Drug 4801 4806	fluid
+T55	Dosage 4807 4812	bolus
+T56	Reason 4730 4733	SVT
+T57	Drug 5263 5267	IL-2
+T59	Reason 5277 5283	rigors
+T60	ADE 5307 5314	fatigue
+T62	Reason 5320 5331	hypotension
+T63	Drug 5362 5367	fluid
+T64	Form 5368 5375	boluses
+T65	Drug 5560 5571	bicarbonate
+T66	Reason 5498 5516	metabolic acidosis
+T67	Dosage 5572 5579	boluses
+T68	Drug 6356 6360	IL-2
+T69	Reason 6292 6311	Metastatic melanoma
+T70	Drug 6442 6446	IL-2
+T71	ADE 6384 6399	pulmonary edema
+T72	ADE 6409 6436	bilateral pleural effusions
+T73	ADE 6455 6464;6465 6473	capillary     leak
+T74	ADE 6480 6500	respiratory distress
+T75	Frequency 6596 6601	daily
+T76	Strength 6609 6611;6612 6614	20 mg
+T77	Route 6615 6619	p.o.
+T78	Frequency 6620 6625	daily
+T79	Frequency 6644 6661	q. 6 hours p.r.n.
+T80	Frequency 6693 6698	daily
+T81	Frequency 6721 6727;6728 6734	q.i.d. p.r.n.
+R1	Strength-Drug Arg1:T4 Arg2:T3
+R2	Frequency-Drug Arg1:T5 Arg2:T3
+R3	Route-Drug Arg1:T6 Arg2:T3
+R4	Strength-Drug Arg1:T9 Arg2:T8
+R5	Route-Drug Arg1:T10 Arg2:T8
+R7	Strength-Drug Arg1:T15 Arg2:T14
+R8	Route-Drug Arg1:T16 Arg2:T14
+R9	Strength-Drug Arg1:T21 Arg2:T22
+R10	Strength-Drug Arg1:T26 Arg2:T25
+R11	Strength-Drug Arg1:T29 Arg2:T28
+R12	Route-Drug Arg1:T30 Arg2:T28
+R13	Strength-Drug Arg1:T35 Arg2:T34
+R14	Route-Drug Arg1:T36 Arg2:T34
+R15	Reason-Drug Arg1:T40 Arg2:T1
+R16	Route-Drug Arg1:T41 Arg2:T1
+R17	Reason-Drug Arg1:T43 Arg2:T42
+R18	Dosage-Drug Arg1:T44 Arg2:T42
+R19	Frequency-Drug Arg1:T45 Arg2:T8
+R20	Frequency-Drug Arg1:T46 Arg2:T34
+R21	Reason-Drug Arg1:T47 Arg2:T24
+R22	Reason-Drug Arg1:T47 Arg2:T12
+R23	Reason-Drug Arg1:T48 Arg2:T19
+R24	Reason-Drug Arg1:T49 Arg2:T31
+R25	Reason-Drug Arg1:T49 Arg2:T33
+R26	Reason-Drug Arg1:T52 Arg2:T50
+R27	Dosage-Drug Arg1:T51 Arg2:T50
+R28	ADE-Drug Arg1:T53 Arg2:T50
+R29	Reason-Drug Arg1:T37 Arg2:T50
+R30	Reason-Drug Arg1:T56 Arg2:T54
+R31	Dosage-Drug Arg1:T55 Arg2:T54
+R32	ADE-Drug Arg1:T59 Arg2:T57
+R33	Reason-Drug Arg1:T59 Arg2:T32
+R34	ADE-Drug Arg1:T60 Arg2:T57
+R35	ADE-Drug Arg1:T62 Arg2:T57
+R36	Form-Drug Arg1:T64 Arg2:T63
+R37	Reason-Drug Arg1:T62 Arg2:T63
+R38	Dosage-Drug Arg1:T67 Arg2:T65
+R39	Reason-Drug Arg1:T66 Arg2:T65
+R40	Reason-Drug Arg1:T69 Arg2:T68
+R41	ADE-Drug Arg1:T74 Arg2:T70
+R42	ADE-Drug Arg1:T73 Arg2:T70
+R43	ADE-Drug Arg1:T72 Arg2:T70
+R44	Frequency-Drug Arg1:T75 Arg2:T28
+R45	Route-Drug Arg1:T77 Arg2:T7
+R46	Frequency-Drug Arg1:T78 Arg2:T7
+R47	Strength-Drug Arg1:T76 Arg2:T7
+R48	Frequency-Drug Arg1:T79 Arg2:T22
+R49	Reason-Drug Arg1:T38 Arg2:T22
+R50	Frequency-Drug Arg1:T80 Arg2:T14
+R51	Reason-Drug Arg1:T39 Arg2:T25
+R52	Frequency-Drug Arg1:T81 Arg2:T25
+T82	Drug 751 762	antibiotics
+T83	Reason 3395 3430	cellulitic area continued to worsen
+T84	Reason 4298 4308	tachypneic
+T85	Reason 4313 4321	fatigued
+T86	Reason 4862 4870	diuresis
+T87	Drug 5693 5699	fluids
+T89	Dosage 6341 6346;6347 6355	high-     dose
+T90	Drug 6536 6540	IL-2
+T91	ADE 6505 6524	Acute renal failure
+T92	Drug 470 474	IL-2
+T93	Dosage 460 469	high-dose
+T94	Reason 232 240	melanoma
+T97	Reason 4222 4249	bilateral pleural effusions
+R53	Dosage-Drug Arg1:T93 Arg2:T92
+R54	Reason-Drug Arg1:T94 Arg2:T92
+R56	ADE-Drug Arg1:T91 Arg2:T90
+R57	Reason-Drug Arg1:T83 Arg2:T23	
+R58	Reason-Drug Arg1:T97 Arg2:T17	
+R59	Reason-Drug Arg1:T84 Arg2:T17	
+R60	Reason-Drug Arg1:T85 Arg2:T17	
+R61	Reason-Drug Arg1:T86 Arg2:T20	
+R62	ADE-Drug Arg1:T71 Arg2:T68	
+T13	Route 3290 3292	IV
+R6	Route-Drug Arg1:T13 Arg2:T12	
+T58	Route 5690 5692	IV
+R55	Route-Drug Arg1:T58 Arg2:T87	

@@ -1,0 +1,202 @@
+T1	Reason 1158 1162	pain
+R1	Reason-Drug Arg1:T1 Arg2:T2
+T2	Drug 1176 1184	morphine
+T3	Form 1185 1188	PCA
+R2	Form-Drug Arg1:T3 Arg2:T2
+T4	Drug 1336 1344	Percocet
+T5	Reason 1349 1361	pain control
+R3	Reason-Drug Arg1:T5 Arg2:T4
+T6	Drug 1759 1767	Atenolol
+T7	Drug 2281 2289	Dopamine
+T8	Route 2290 2294	drip
+R4	Route-Drug Arg1:T8 Arg2:T7
+T9	ADE 2333 2344	hypotension
+R5	ADE-Drug Arg1:T9 Arg2:T11
+T10	ADE 2366 2380	shaking chills
+R6	ADE-Drug Arg1:T10 Arg2:T11
+T11	Drug 2401 2415	gamma globulin
+T12	Drug 2431 2445	gamma globulin
+T13	Drug 3121 3127	Colace
+T14	Drug 3132 3140	Dulcolax
+T15	Form 3141 3154	suppositories
+R7	Form-Drug Arg1:T15 Arg2:T13
+R8	Form-Drug Arg1:T15 Arg2:T14
+T16	Frequency 3155 3160	p.r.n
+R9	Frequency-Drug Arg1:T16 Arg2:T13
+R10	Frequency-Drug Arg1:T16 Arg2:T14
+T17	Strength 3895 3900	80 mg
+R11	Strength-Drug Arg1:T17 Arg2:T19
+T18	Route 3904 3915	intravenous
+R12	Route-Drug Arg1:T18 Arg2:T19
+T19	Drug 3916 3921	Lasix
+T20	Frequency 3922 3933	twice daily
+R13	Frequency-Drug Arg1:T20 Arg2:T19
+T21	Reason 3950 3962	urine output
+R14	Reason-Drug Arg1:T21 Arg2:T19
+T22	Route 4060 4071	intravenous
+R15	Route-Drug Arg1:T22 Arg2:T23
+T23	Drug 4072 4078	fluids
+T24	Route 4155 4166	intravenous
+R16	Route-Drug Arg1:T24 Arg2:T25
+T25	Drug 4167 4172	Lasix
+T26	Reason 4956 4973	Immunosuppression
+R17	Reason-Drug Arg1:T26 Arg2:T27
+R18	Reason-Drug Arg1:T26 Arg2:T28
+R19	Reason-Drug Arg1:T26 Arg2:T29
+T27	Drug 5013 5026	Thymoglobulin
+T28	Drug 5028 5036	CellCept
+T29	Drug 5038 5049	Solu-Medrol
+T30	Drug 5133 5146	Thymoglobulin
+T31	Strength 5170 5176	100 mg
+R20	Strength-Drug Arg1:T31 Arg2:T32
+T32	Drug 5180 5187	Zenapax
+T33	Drug 5208 5221	Thymoglobulin
+T34	Drug 5260 5268	Rapamune
+T35	Drug 527 535	Atenolol
+T36	Drug 5309 5316	Zenapax
+T37	Drug 5350 5358	Rapamune
+T38	Strength 536 542	100 mg
+R21	Strength-Drug Arg1:T38 Arg2:T35
+T39	Route 543 546	p.o
+R22	Route-Drug Arg1:T39 Arg2:T35
+T40	Frequency 548 554	q. day
+R23	Frequency-Drug Arg1:T40 Arg2:T35
+T41	Drug 560 567	Zestril
+T42	Strength 568 572	5 mg
+R24	Strength-Drug Arg1:T42 Arg2:T41
+T43	Route 573 576	p.o
+R25	Route-Drug Arg1:T43 Arg2:T41
+T44	Frequency 578 584	q. day
+R26	Frequency-Drug Arg1:T44 Arg2:T41
+T45	Drug 590 598	Prilosec
+T46	Strength 599 604	20 mg
+R27	Strength-Drug Arg1:T46 Arg2:T45
+T47	Route 605 608	p.o
+R28	Route-Drug Arg1:T47 Arg2:T45
+T48	Frequency 610 621	twice a day
+R29	Frequency-Drug Arg1:T48 Arg2:T45
+T49	Drug 6223 6231	Atenolol
+T50	Strength 6232 6237	50 mg
+R30	Strength-Drug Arg1:T50 Arg2:T49
+T51	Route 6238 6241	p.o
+R31	Route-Drug Arg1:T51 Arg2:T49
+T52	Frequency 6243 6249	q. day
+R32	Frequency-Drug Arg1:T52 Arg2:T49
+T53	Drug 6255 6262	Zestril
+T54	Strength 6263 6267	5 mg
+R33	Strength-Drug Arg1:T54 Arg2:T53
+T55	Route 6268 6271	p.o
+R34	Route-Drug Arg1:T55 Arg2:T53
+T56	Drug 627 633	Celexa
+T57	Frequency 6273 6279	q. day
+R35	Frequency-Drug Arg1:T57 Arg2:T53
+T58	Drug 6285 6293	Protonix
+T59	Strength 6294 6299	40 mg
+R36	Strength-Drug Arg1:T59 Arg2:T58
+T60	Route 6300 6303	p.o
+R37	Route-Drug Arg1:T60 Arg2:T58
+T61	Frequency 6305 6316	twice a day
+R38	Frequency-Drug Arg1:T61 Arg2:T58
+T62	Drug 6322 6328	Celexa
+T63	Strength 6329 6334	20 mg
+R39	Strength-Drug Arg1:T63 Arg2:T62
+T64	Route 6335 6338	p.o
+R40	Route-Drug Arg1:T64 Arg2:T62
+T65	Strength 634 639	20 mg
+R41	Strength-Drug Arg1:T65 Arg2:T56
+T66	Frequency 6340 6346	q. day
+R42	Frequency-Drug Arg1:T66 Arg2:T62
+T67	Drug 6352 6361	Rocaltrol
+T68	Dosage 6362 6363	1
+R43	Dosage-Drug Arg1:T68 Arg2:T67
+T69	Form 6364 6370	tablet
+R44	Form-Drug Arg1:T69 Arg2:T67
+T70	Route 6371 6374	p.o
+R45	Route-Drug Arg1:T70 Arg2:T67
+T71	Frequency 6376 6382	q. day
+R46	Frequency-Drug Arg1:T71 Arg2:T67
+T72	Drug 6388 6395	Renagel
+T73	Strength 6396 6403	3200 mg
+R47	Strength-Drug Arg1:T73 Arg2:T72
+T74	Route 640 643	p.o
+R48	Route-Drug Arg1:T74 Arg2:T56
+T75	Route 6404 6407	p.o
+R49	Route-Drug Arg1:T75 Arg2:T72
+T76	Frequency 6409 6426	three times a day
+R50	Frequency-Drug Arg1:T76 Arg2:T72
+T77	Drug 6432 6440	CellCept
+T78	Strength 6441 6447	1 gram
+R51	Strength-Drug Arg1:T78 Arg2:T77
+T79	Route 6448 6451	p.o
+R52	Route-Drug Arg1:T79 Arg2:T77
+T80	Frequency 645 651	q. day
+R53	Frequency-Drug Arg1:T80 Arg2:T56
+T81	Frequency 6453 6464	twice a day
+R54	Frequency-Drug Arg1:T81 Arg2:T77
+T82	Drug 6470 6480	Prednisone
+T83	Strength 6481 6486	20 mg
+R55	Strength-Drug Arg1:T83 Arg2:T82
+T84	Route 6487 6490	p.o
+R56	Route-Drug Arg1:T84 Arg2:T82
+T85	Frequency 6492 6498	q. day
+R57	Frequency-Drug Arg1:T85 Arg2:T82
+T86	Drug 6504 6527	Bactrim Single Strength
+T87	Dosage 6529 6532	one
+R58	Dosage-Drug Arg1:T87 Arg2:T86
+T88	Form 6533 6539	tablet
+R59	Form-Drug Arg1:T88 Arg2:T86
+T89	Route 6540 6543	p.o
+R60	Route-Drug Arg1:T89 Arg2:T86
+T90	Frequency 6545 6551	q. day
+R61	Frequency-Drug Arg1:T90 Arg2:T86
+T91	Drug 6557 6563	Colace
+T92	Strength 6564 6570	100 mg
+R62	Strength-Drug Arg1:T92 Arg2:T91
+T93	Drug 657 666	Rocaltrol
+T94	Route 6571 6574	p.o
+R63	Route-Drug Arg1:T94 Arg2:T91
+T95	Frequency 6576 6587	twice a day
+R64	Frequency-Drug Arg1:T95 Arg2:T91
+T96	Drug 6593 6601	Amphojel
+T97	Dosage 6602 6607	15 ml
+R65	Dosage-Drug Arg1:T97 Arg2:T96
+T98	Route 6608 6611	p.o
+R66	Route-Drug Arg1:T98 Arg2:T96
+T99	Frequency 6613 6630	three times a day
+R67	Frequency-Drug Arg1:T99 Arg2:T96
+T100	Drug 6651 6662	Ganciclovir
+T101	Strength 6663 6669	500 mg
+R68	Strength-Drug Arg1:T101 Arg2:T100
+T102	Dosage 667 670	one
+R69	Dosage-Drug Arg1:T102 Arg2:T93
+T103	Route 6670 6673	p.o
+R70	Route-Drug Arg1:T103 Arg2:T100
+T104	Frequency 6675 6681	q. day
+R71	Frequency-Drug Arg1:T104 Arg2:T100
+T105	Drug 6687 6695	Rapamune
+T106	Strength 6696 6700	5 mg
+R72	Strength-Drug Arg1:T106 Arg2:T105
+T107	Route 6701 6704	p.o
+R73	Route-Drug Arg1:T107 Arg2:T105
+T108	Frequency 6706 6712	q. day
+R74	Frequency-Drug Arg1:T108 Arg2:T105
+T109	Form 671 677	tablet
+R75	Form-Drug Arg1:T109 Arg2:T93
+T110	Drug 6718 6726	Nystatin
+T111	Dosage 6727 6731	5 ml
+R76	Dosage-Drug Arg1:T111 Arg2:T110
+T112	Route 6732 6735	p.o
+R77	Route-Drug Arg1:T112 Arg2:T110
+T113	Frequency 6755 6771	four times a day
+R78	Frequency-Drug Arg1:T113 Arg2:T110
+T114	Route 678 681	p.o
+R79	Route-Drug Arg1:T114 Arg2:T93
+T115	Frequency 683 689	q. day
+R80	Frequency-Drug Arg1:T115 Arg2:T93
+T116	Drug 695 702	Renagel
+T117	Strength 703 710	3200 mg
+R81	Strength-Drug Arg1:T117 Arg2:T116
+T118	Route 711 714	p.o
+R82	Route-Drug Arg1:T118 Arg2:T116
+T119	Frequency 716 733	three times a day
+R83	Frequency-Drug Arg1:T119 Arg2:T116

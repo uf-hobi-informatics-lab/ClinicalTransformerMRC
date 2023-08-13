@@ -1,0 +1,462 @@
+Admission Date:  [**2132-9-7**]              Discharge Date:   [**2132-10-21**]
+
+Date of Birth:  [**2097-8-29**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Percocet / Penicillins / Vicodin / Heparin Agents
+
+Attending:[**First Name3 (LF) 348**]
+Chief Complaint:
+diffuse weakness, episodic numbness, diffuse body pain
+
+Major Surgical or Invasive Procedure:
+Mechanical pleurodesis and Left Upper Lobe Wedge Resection
+
+
+History of Present Illness:
+35 yo woman discharged from [**Hospital1 2025**] (admitted [**Date range (1) 32318**], then
+[**Date range (1) 74351**]) s/p pleurodesis/VATS for bleb removal.  Pt. was
+admitted to [**Hospital1 2025**] from OSH with a L pneumothorax on [**8-22**], has a
+chest tube placed, and on [**8-26**] had L flexible bronch, VATS, and
+pleurodesis.  She tolerated the procedure well, with no
+complications, and her pain was controlled with a Dilaudid PCA
+-> Morphine PCA -> PO Dilaudid.  She was seen by the pain
+service there and discharged on 2 mg Dilaudid PO Q4 per their
+recs.  She was readmitted on [**9-1**] with a recurrent pneumothorax
+and got a 2nd L sided chest tube.  She was discharged on [**9-7**] on
+Dilaudid 2 mg PO Q8.
+.
+Pt. presented to the [**Hospital1 18**] ED [**9-7**] c/o diffuse weakness,
+episodic numbness, diffuse body pain.  She was given 2 mg IV
+Dilaudid in ED, 0.5 mg Ativan, and admitted to medicine for pain
+control.  She was started on Amitriptyline however she never
+received a dose. In the morning she was found to be complaining
+of back pain and pain at the site of her chest tube placement.
+She denied constipation, diarrhea or bowel incontinence, dysuria
+or incontinence of urine, weakness or numbness, though she did
+report "tingling" in her abdomen, and that she "can't feel bowel
+movements coming out."  At 9PM that evening, she was found to be
+unresponsive with a poor respiratory effort.  She was moving all
+extremities spontaneously.  She was lethargic but appropriate 20
+minutes before.  Initially her O2 sats were 70% on RA, HR 100,
+SBP 160.  Her O2 sats improved to 94% on a face mask.  She had
+clear breath sounds bilaterally.  She was intubated for airway
+protection.  Her ABG was found to be 6.86/179/168/35/lactate
+2.4.  Of note her WBC count increased to 22.4 with 78%
+Neutrophils and 0% bands from 7.8 earlier today. She received
+Narcan x1. She was transferred to the MICU.
+
+Past Medical History:
+Bleb -> Pneumothorax, s/p Pleurodesis/VATS and Chest tube
+placement at [**Hospital1 2025**] [**8-22**]- 8/12
+L shoulder subluxation
+Boating accident [**2125**] -> pelvic fracture and renal laceration,
+managed non-operatively
+Spontaneous Pneumothorax in R, [**2126**]
+
+Social History:
+Engaged to be married, lives with daughter 17, son, and [**Name2 (NI) 802**]
+that she has is raising.  Employed as a surgical tech at [**Hospital **], hasn't worked recently.  She started smoking
+in [**2125**]; smokes ~10 cigs per day, however, last cigarrette [**8-22**]
+when admitted to [**Hospital1 2025**] with pneumothorax.  Mother reports that she
+does not abuse ETOH or illicit drugs.  She takes ativan [**Hospital1 **] for
+anxiety.
+
+Family History:
+FH: Mother with h/o VT s/p ablation
+    Uncle with CAD s/p CABG
+    Denies family h/o neurologic disorders
+
+
+Physical Exam:
+T 98.1 78 136/72 18 98% on RA
+Gen: sleeping, mild distress moaning
+eomi: tiny minimally reactive pupils, eomi
+neck: nl movement, no tenderness
+lungs: cta x 2
+heart: bandages on her left side covering two former chest tube
+wounds
+abd: soft flat, nt +bs
+ext: difficult to test strength secondary to pain, +pulses, ext
+warm
+no sensory deficit to light touch
+AOx3
+
+
+Pertinent Results:
+Chest CT, [**9-8**]: There is no pneumothorax. There is scarring
+around a previous chest tube tract at the left lung apex. Linear
+scarring is also present in the right and left lower lobes.
+There is pleural thickening or small amount of pleural fluid at
+the right lung base. Scattered blebs are present in both lungs.
+The airways are patent to the level of segmental bronchi. There
+is no mediastinal or axillary lymphadenopathy. There is no
+evidence of hilar lymphadenopathy on non-contrast evaluation.
+The heart and great vessels appear unremarkable. There is no
+pericardial effusion.
+.
+The visualized portions of the liver and spleen appear
+unremarkable. There are no suspicious lytic or sclerotic lesions
+in the visualized osseous structures.
+.
+IMPRESSION: No pneumothorax. Right basilar pleural thickening
+versus a small pleural effusion.
+
+Admission Labs:
+
+[**2132-9-7**] 10:40PM   GLUCOSE-110* UREA N-8 CREAT-0.7 SODIUM-141
+POTASSIUM-3.9 CHLORIDE-102 TOTAL CO2-25 ANION GAP-18
+[**2132-9-7**] 10:40PM   CALCIUM-9.9 PHOSPHATE-3.7 MAGNESIUM-1.9
+[**2132-9-7**] 10:40PM   WBC-7.8 RBC-4.31 HGB-12.6 HCT-37.0 MCV-86
+MCH-29.2 MCHC-34.0 RDW-12.4
+[**2132-9-7**] 10:40PM   NEUTS-74.9* LYMPHS-21.7 MONOS-2.7 EOS-0.4
+BASOS-0.2
+[**2132-9-7**] 10:40PM   PT-13.2 PTT-28.3 INR(PT)-1.2
+
+CT CHEST
+
+INDICATION: History of recurrent pneumothoraces, Guillain-[**Location (un) **]
+syndrome,
+pulmonary embolism with increasing left-sided chest pain.
+
+Comparison is made to the prior chest CT dated [**2132-9-18**]
+and prior
+chest x-ray on the same day.
+
+TECHNIQUE: Multidetector CT scanning of the chest was performed
+following
+intravenous administration of 150 cc of Optiray contrast.
+Multiplanar
+reconstructions were also obtained.
+
+FINDINGS: Compared to the prior CT scan, there has been interval
+development
+of a large left-sided pneumothorax. This also appears to have
+progressed
+significantly compared to the chest x-ray performed on the same
+day. There
+are associated atelectatic changes in the left lung. There is
+again evidence
+of left upper lobe wedge resection. Multiple peripheral blebs
+are noted along
+the right upper lobe. Linear atelectatic changes are
+demonstrated in the
+right lower lobe with marked interval reexpansion of the right
+lower lobe.
+There has been development of an oval shaped roughly 3.8 x 2.1
+cm
+low-attenuation lesion in the right lower lobe with a few foci
+of gas most
+consistent with loculated fluid. The pulmonary arteries
+demonstrate no
+evidence of pulmonary embolism. The heart, pericardium, and
+great vessels are
+within normal limits. Note is made of a tracheostomy tube. An NG
+tube is
+also noted. No pathologically enlarged axillary, mediastinal, or
+hilar lymph
+nodes are demonstrated.
+
+BONE WINDOWS: There are no suspicious lytic or sclerotic
+lesions.
+
+CT RECONSTRUCTIONS: The above findings were confirmed with
+multiplanar
+reconstructions.
+
+IMPRESSION:
+1. Interval development of very large left-sided pneumothorax.
+2. Marked interval reexpansion of the right lower lobe compared
+to the prior
+CT scan with residual small loculated fluid collection in the
+right lower
+lobe.
+3. No evidence of pulmonary embolism.
+THE STUDY AND THE REPORT WERE REVIEWED BY THE STAFF RADIOLOGIST.
+
+DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 7832**]
+
+
+Approved: SAT [**2132-9-27**] 9:06 AM
+Procedure Date:[**2132-9-26**]
+
+Clinical: Left recurrent pneumothorax.
+Gross: The specimen is received fresh and labeled with the
+patient's name, medical record number and "right upper lobe
+wedge" and consists of three wedge resections of lung, the
+smallest measuring 2.8 x 1.2 x 0.5 cm, the second measuring 3.6
+x 1.2 x 0.6 cm, and the largest measuring 8.5 x 2.5 x 1.5 cm.
+The pleural surface is smooth and without any gross
+abnormalities. Serial sectioning reveals a red-brown spongy cut
+surface without any lesions. The specimen is represented in A-C.
+
+TWO VIEW CHEST, [**2132-10-16**] AT 14:51
+
+COMPARISON: Previous study of earlier the same date at 8:24.
+
+INDICATION: Status post removal of left-sided chest tube.
+
+Since the recent chest radiograph, a left-sided chest tube has
+been removed.
+A small left apical pneumothorax is present, best visualized on
+the lateral
+view. In retrospect, this is also present on the pre-chest tube
+removal
+radiograph and is without interval change. On the PA view, the
+pneumothorax
+was partially obscured by the overlying chest tube on the
+previous film,
+rendering it more difficult to visualize prospectively. The
+remainder of the
+chest radiograph is without change since the recent radiograph.
+
+IMPRESSION: Small left apical pneumothorax, stable in retrospect
+compared to
+pre-chest tube removal radiograph of earlier the same date.
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5785**]
+
+
+Approved: [**Doctor First Name **] [**2132-10-16**] 5:53 PM
+Procedure Date:[**2132-10-16**]
+
+INDICATION: 35-year-old woman with abdominal distention. Please
+assess for
+bowel obstruction.
+
+COMPARISON: Abdominal radiograph dated [**2132-10-6**].
+
+TECHNIQUE: AP supine and upright abdominal radiographs were
+obtained.
+
+FINDINGS: There is an NG tube which on [**2132-10-6**] had
+shape
+consistent with post pyloric position but now is coiled over the
+left abdomen
+presumably within the non-distended stomach. Small and large
+bowel are of
+normal caliber. Air is seen throughout loops of small bowel and
+within the
+proximal colon. There is no definite free air identified. There
+are two 5 cm
+metallic linear objects overlying the right abdomen with shape
+consistent with
+[**Doctor First Name **] pins and are likely external to the patient. There is
+stable appearance
+of bilateral breast implants. Bony structures are unremarkable.
+
+IMPRESSION: No evidence of obstruction. NG tube with tip
+previously in post-
+pyloric position has now migrated back into the stomach.
+THE STUDY AND THE REPORT WERE REVIEWED BY THE STAFF RADIOLOGIST.
+
+DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 7832**]
+
+
+Approved: MON [**2132-10-13**] 7:27 AM
+Procedure Date:[**2132-10-10**]
+
+
+Brief Hospital Course:
+35 yo F with h/o spontaneous PTX, GBS, HIT induced PEs,
+vent-associated pneumonia called out from the MICU [**10-1**].  Her
+recent history is significant for 2 admissions to [**Hospital1 2025**]
+([**Date range (1) 32318**]/05) for spontaenous left pneumothoraces.  On her first
+admission, she had a left sided chest tube placed, a VATS, and
+pleurodesis.  She tolerated this well and was discharged on PO
+dilaudid for pain control.  She re-presented for her second
+admission to [**Hospital1 2025**] with a recurrent pneumothorax, got a 2nd left
+sided chest tube, and was again discharged on PO dilaudid.
+After being dischraged from [**Hospital1 2025**] she presented the same day to
+[**Hospital1 18**] complaining of diffuse weakness and body pain as well as
+episodic numbness.  She was initially treated with pain control
+with a morphine PCA per the pain service.  She continued to have
+diffuse weakness, increasing anxiety and psychiatry was
+initially consulted for ? conversion disorder.  On the evening
+of [**9-9**] a code was called as she was unresponsibe with a poor
+respiratory effort (HR 100, sBP 160, O2Sat 70% on RA --> 94% on
+face mask).  An ABG revealed pH 6.86, pO2 168 pCOs 179).  She
+was intubated and transferred to the MICU.
+
+1st MICU course:
+A neurology consult felt her elevated LP protein (112), diffuse
+motor weakness, rapid time course, and rapid increase in her
+peripheral WBC ([**8-8**]) were all consistent with GBS.  She was
+started on plasmapheresis and received four sessions (fifth
+session was not completed because pheresis line had to be pulled
+due to positive HIT antibody).  She also developed ventilator
+associated pneumonia for which she was treated with
+vanco/levo/vanc for a 7 day course which was finished on [**9-17**].
+She also developed heparin associated thrombocytopenia which
+improved after d/cing all heparin products.  On [**9-18**], she had
+increasing respiratory distress and increasing O2 requirements
+and a CTA revealed pulmonary emboli found within all 3 segmental
+branches of the RUL pulmonary artery.  Due to her positive HIT
+antibody, she was started on argatroban and coumadin.  She was
+switched to a trach mask on [**9-23**] and tolerated this and on [**9-25**]
+was transferred to the floor.  The morning of [**9-26**] she developed
+[**10-27**] stabbing, non-radiating, L sided chest pain.  Cardiac
+enzymes were negative and a stat ECHO showed no WMA.  A CXR was
+unremarkable but a CT scan showed a large L PTX and she was
+transferred back to the MICU.
+
+2nd MICU course:
+Her INR was reversed and on [**9-30**] she had a mechanical
+pleurodesis and LUL wedge resection.  No blebs were seen but
+there was abnormal appearing lung tissue in the apex.  She was
+transferred out of the MICU on [**10-1**].
+
+1. Pneumothorax: unclear etiology of recurrent PTX.  Possibly
+secondary to her stature.  alpha-1-antitrypsin was negative.
+S/p L-sided wedge resection and pleurodesis on [**9-30**].  She had 2
+chest tubes and one was removed [**10-6**], but [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] drain was left
+in place.  The [**Doctor Last Name **] drain was removed on [**10-17**] after a
+successful flamping trial.  She will follow up with CT surgery
+in 1 week.
+
+2. Pulmonary Embolism: She had a PE in all 3 branches of RUL
+pulmonary artery on [**9-18**] CT scan.  Developed HIT with
+plasmapheresis for GBS.  Restarted argatroban and coumadin [**10-1**]
+following CT surgery.  She was initially on coumadin 2.5 mg PO
+QHS and stable with an INR between [**2-21**].  Her INR started to
+trend down, however, and her coumadin was adjusted to 3 mg PO
+QHS.  Before discharge however, her INR started to trend up
+slightly past 3, so she was discharged on 2.5 mg PO QHS.  Her
+INR will be followed up by her PCP during her appointment later
+this week.  He has been called regarding this.
+
+3. Guillain-[**Location (un) **] Syndrome: She was s/p four cycles of
+plasmapheresis (didn't get fifth cycle due to developing HIT).
+Her tracheostomy was dwonsized on [**10-10**].  Trach was buttoned on
+[**10-13**] and removed on [**10-14**].  On discharge, her stoma was almost
+completely healed and well-granulated.  She will continue to
+bandage it until completely healed (7-10 days from removal
+date), and will cover it with cellophane for showering.  Her
+strength returned over the course of her admission with daily
+physical therapy.  On discharge, she was able to walk on her own
+with a cane and to manage a couple flight of stairs.  She has a
+follow-up appointment scheduled with neurology, and has the
+phone number of interventional pulmonary should she have any
+questions regarding her stoma.
+
+4. Pain: Patient has pain secondary to her Guillain-[**Location (un) **] and
+Pneumothorax.  Her PCA was discontinued once the [**Doctor Last Name 406**] drain was
+removed, and her pain was well controlled with a fentanyl patch
+and oral morphine, which will be tapered as an outpatient.  She
+will also continue neurontin 600 mg TID per neurology.  She was
+not given oxycodone as she had a history of anaphylaxis to
+percocet.
+
+5. Anxiety: She has chronic anxiety which has been heightened by
+recent course of events.  She was placed on her home dose of
+standing ativan 0.5 mg PO Q6, and had several discussions with
+social work and psychiatry nurses in-house.
+
+6. Ventilator-associated pneumonia - L retrocardiac opacity that
+has since rsesolved.  Sputhm from [**9-11**] with Haemophilus
+B-lactamase negative.  She completed a 7 day course of Levo/Vanc
+on [**9-17**].  She was afebrile with a normal WBC count on discharge.
+
+7. Anemia - Her hematocrit was stable since her 2nd transfer out
+of the MICU and her anemia was thought to be secondary to
+frequent blood draws.  No evidence of an RP bleed by CT scan, no
+evidence of hemolysis.  She was transfused with 2 units on [**10-8**].
+ Her hematocrit had been stable for several days on discharge.
+
+8. Abdominal pain - She developed intermittent abdominal pain
+after her second transfer out of the MICU which required
+placement of an NG tube with tube feeding.  Her abdominal pain
+spontaneously improved to the point where the tube was removed
+and she was tolerating a regular diet, and further improved once
+she was told to take POs slowly and to avoid milk products.  She
+was discharged tolerating a regular diet with no further
+abdominal complaints.
+
+Medications on Admission:
+Motrin 800 mg TID
+Dilaudid 2 mg PO Q8 (pt. taking it more frequently)
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+Disp:*60 Tablet(s)* Refills:*2*
+2. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+HS (at bedtime) as needed: for constipation.
+Disp:*30 Suppository(s)* Refills:*0*
+3. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**1-20**]
+Puffs Inhalation Q6H (every 6 hours) as needed.
+Disp:*1 inhaler* Refills:*0*
+4. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO TID (3
+times a day).
+Disp:*180 Capsule(s)* Refills:*0*
+5. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q 6 HRS ().
+Disp:*56 Tablet(s)* Refills:*0*
+6. Fentanyl 50 mcg/hr Patch 72HR Sig: One (1) Patch 72HR
+Transdermal Q72H (every 72 hours).
+Disp:*4 Patch 72HR(s)* Refills:*0*
+7. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One
+(1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+8. Morphine 15 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6
+hours) as needed for 10 days.
+Disp:*120 Tablet(s)* Refills:*0*
+9. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 119**] Homecare
+
+Discharge Diagnosis:
+Primary:
+1. Spontaneous Left-sided pneumothorax
+2. Heparin-induced antibody pulmonary embolism
+3. Guillain-[**Location (un) **] syndrome
+4. Ventilator-associated pneumonia
+5. Anxiety
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+1. Please take all medications as prescribed
+2. Please go to all follow-up appointments
+3. If you develop difficulty breathing or persistent chest pain,
+or have other concerning medical issues, please seek medical
+attention or call 911.
+
+Followup Instructions:
+1. You have a follow-up appointment with Thoracic Surgery/Dr.
+[**Last Name (STitle) **] [**2132-10-28**] Tuesday at 2:00 PM on the [**Location (un) **] the
+[**Hospital Ward Name 23**] Clinical Center at [**Hospital1 69**]
+([**Telephone/Fax (1) 170**]). 45 minutes prior to appointment that day, go to
+Sharpiro Clinical Center [**Location (un) **] for chest xray.
+2. You will not need a follow-up appointment with interventional
+pulmonology regarding your tracheostomy.  However, if you have
+questions or if your stoma does not heal in [**7-27**] days, you may
+call [**Telephone/Fax (1) 3020**] to schedule an appointment with Dr. [**First Name (STitle) **]
+[**Name (STitle) **]
+3. You have a follow-up appointment with Dr. [**Last Name (STitle) **] and Dr. [**First Name (STitle) 951**]
+(of Neurology) on [**2132-11-14**] Friday at 4:45 PM in the [**Hospital Ward Name 23**]
+Building, [**Location (un) **], of [**Hospital1 69**].
+[**Telephone/Fax (1) 1040**].
+4. You have a follow-up appointment with your primary care
+doctor, Dr. [**First Name (STitle) 951**] on [**2132-10-24**] Friday at 10:20 AM.
+5. You have a follow-up appointment with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], with
+whom you would like to establish your primary care follow-up, on
+[**2132-10-29**] at 1:30 PM on the [**Location (un) **] North Suite of [**Hospital Ward Name 23**] at
+[**Hospital1 69**] [**Telephone/Fax (1) 250**].
+
+
+
+Completed by:[**2132-10-21**]

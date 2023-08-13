@@ -1,0 +1,297 @@
+Admission Date:  [**2151-3-1**]              Discharge Date:   [**2151-3-3**]
+
+Date of Birth:  [**2089-4-27**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Aspirin / Penicillins / Keflex / Compazine / E-Mycin / Cipro /
+Sulfa (Sulfonamide Antibiotics) / Iodine-Iodine Containing /
+Vasotec / Prochlorperazine
+
+Attending:[**First Name3 (LF) 3556**]
+Chief Complaint:
+Respiratory distress
+
+Major Surgical or Invasive Procedure:
+Eye surgery
+
+History of Present Illness:
+This is a 61 yo female with a history of laryngeal spasm,
+possible asthma, and anxiety who underwent elective L eye
+cataract removal and trabeculectomy today under general
+anestesia with LMA, PACU course complicated by respiratory
+distress. She has had prior issues post-op with laryngeal spasm,
+sometimes requiring intubation. Her PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] notes that her
+asthma dx is not clear, and that when she has been intubated,
+there does not appear to be any obstructive issues, suggesting
+most of her symptoms are upper airway in nature. She has
+responded inconsistently to heliox in the past, and at her last
+admission at OSH did not tolerate NPPV well, but responded well
+to clonazepam.
+
+Regarding recent events, per anesthesia and nursing, she
+initially developed dry cough, followed by progressive tachypnea
+and dyspnea over the afternoon (from ~2pm to 7pm). Was given
+albuterol and ipratropium nebs without significant effect.
+Called by anesthesia to see patient around 7pm, given RR
+reaching upper 30s and concern for need of NPPV vs invasive
+ventilation. Had recently received 60mg solumedrol and racemic
+epinephrine without significant effect. Patient notes feeling
+dyspneic with dry cough intermittently, as well as wheezy. She
+denies fatigue, stating she knows what that implies. No fevers,
+pain, dysuria, nausea, vomiting. Detailed ROS not obtained in
+setting of patient's respiratory distress.
+
+
+Past Medical History:
+-Asthma, per PCP dx is not clear
+-Laryngospasm
+-Rheumatoid arthritis
+-HTN
+-Coronary artery disease
+-Diabetes type II (pt denies)
+-Vaginal hysterectomy in [**2131**]
+-Appendectomy in [**2130**]
+-Anxiety
+-Depression
+-Tonsillectomy
+-Supraventricular tachycardia
+-Peripheral neuropathy
+
+
+Social History:
+Denies tobacco, EtOH, drugs.
+
+
+Family History:
+Coronary artery disease in father. Hypertension in her father.
+Asthma as in her two children.
+
+
+Physical Exam:
+General: Alert, moderate respiratory distress
+HEENT: MM dry, eye patch over L eye
+Neck: Muscular retractions with inspiration
+Lungs: High-pitched wheezing audible throughout respiratory
+cycle - noted over upper airway and appears to transmit
+throughout lung fields, poor air movement
+CV: Tachycardic with regular rhythm, no murmurs, rubs, gallops
+Abdomen: +BS. Soft, non-tender, non-distended.
+Ext: warm, well perfused, 2+ pulses, no edema
+
+
+Pertinent Results:
+Admission Labs:
+[**2151-3-1**] 08:18PM BLOOD WBC-9.5 RBC-4.78 Hgb-15.9 Hct-45.7 MCV-96
+MCH-33.3* MCHC-34.9 RDW-12.7 Plt Ct-196
+[**2151-3-1**] 08:18PM BLOOD Glucose-175* UreaN-25* Creat-1.0 Na-143
+K-3.3 Cl-101 HCO3-26 AnGap-19
+[**2151-3-1**] 08:18PM BLOOD Calcium-9.7 Phos-3.6 Mg-2.0
+
+Brief Hospital Course:
+This is a 61 yo female with a history of laryngeal spasm,
+possible asthma, and anxiety who is in the ICU for respiratory
+distress s/p elective eye surgery.
+
+# Respiratory distress: Felt most likely related to paradoxical
+vocal cord motion, although quite difficult to tell from
+physical exam alone. Panting maneuver did alleviate wheezing.
+ENT evaluated and noted only mild upper airway edema. She was
+supported with supplemental oxygen and heliox at time. She did
+not require NIV or intubation. She was treated with prn nebs,
+but no high dose steroids as this was not felt to be consistent
+with asthma exacerbation. No clinical evidence of infection. She
+was evaluated by PT and cleared for home. She was walked around
+the unit and was saturating at 94% on RA. She felt well and safe
+to go home. Dr. [**Last Name (STitle) **] (her PCP) was called and he felt as though
+she was a good judge of being safe to go home.
+
+# Trabeculectomy/Glaucoma: She had her procedure and tolerated
+surgery well. Dr. [**Last Name (STitle) **] recommended Tobramycin drops 4
+times a day, Tobraymycin oitnment at night, and apraclonidine
+[**Hospital1 **] with follow-up early next week.
+
+# Rheumatoid arthritis: Stable. She was continued on imuran.
+Humira was to be continued on [**Hospital1 **] weekly.
+
+# Coronary artery disease: Stable. ASA allergy. Continued on
+ticlopidine, BB and statin.
+
+# Diabetes type II: Pt denies dx, more likely hyperglycemia that
+is steroid related. She was covered with HISS, and [**Hospital1 **]
+with diet control.
+
+# Depression and anxiety: Continued on home meds of Abilify,
+Duloxetine, and lorazepam.
+
+# Supraventricular tachycardia: Stable. Continued on digoxin,
+verapamil, metoprolol
+
+# HTN: Stable during admission. Continued verapamil and
+metoprolol.
+
+# Transition issues: She was [**Hospital1 **] home with follow-up
+established with Pulmonology, Ophthalmology, and her PCP.
+
+Medications on Admission:
+Xalatan 0.005% gtt left eye HS
+Brimonidine 0.15% gtt left eye TID
+Pilocarpine 2% gtt left eye QID
+Crestor 5mg daily
+Digoxin 250mcg daily
+Cymbalta 80mg daily
+Duoneb q3h prn
+Oxybutynin 15mg ER daily
+Humira 40mg SC weekly
+Seroquel 75mg HS
+Furosemide 40mg [**Hospital1 **]
+Imuran 150mg daily (pt takes 50mg TID)
+Lorazepam 1mg QHS
+Verapamil 120mg daily
+Advair 250-50 1inh [**Hospital1 **]
+Combivent 2 puffs QID prn SOB
+Abilify 5mg TID (pt takes 15mg qday)
+Metoprolol 50mg [**Hospital1 **]
+Ticlopidine 250mg [**Hospital1 **]
+Methylprednisolone 6mg daily
+Ca/vit D 250mg daily
+KCl 40meq daily prn
+
+
+Discharge Medications:
+1. aripiprazole 5 mg Tablet Sig: One (1) Tablet PO three times a
+day.
+2. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+3. brimonidine 0.15 % Drops Sig: One (1) drop Ophthalmic In your
+LEFT eye TID (3x a day).
+4. Combivent 18-103 mcg/Actuation Aerosol Sig: Two (2) Puffs
+Inhalation every six (6) hours.
+5. calcium carbonate-vitamin D2 250 (625)-125 mg-unit Tablet
+Sig: One (1) Tablet PO once a day.
+6. rosuvastatin 5 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. duloxetine 20 mg Capsule, Delayed Release(E.C.) Sig: Four (4)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+8. digoxin 250 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. DuoNeb 0.5 mg-3 mg(2.5 mg base)/3 mL Solution for
+Nebulization Sig: One (1) Nebulizer Inhalation Q3 hrs (every 3
+hours) as needed for shortness of breath or wheezing.
+10. Humira 40 mg/0.8 mL Kit Sig: One (1) Injection Subcutaneous
+once a week.
+11. azathioprine 50 mg Tablet Sig: Three (3) Tablet PO once a
+day.
+12. furosemide 40 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+13. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+14. lorazepam 1 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed for insomnia.
+15. methylprednisolone 4 mg Tablet Sig: 1.5 Tablets PO once a
+day.
+16. oxybutynin chloride 15 mg Tablet Extended Rel 24 hr Sig: One
+(1) Tablet Extended Rel 24 hr PO once a day.
+17. phenrgan with codeine  Sig: Ten (10) ml  every four (4)
+hours as needed for cough.
+18. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+Two (2) Tablet, ER Particles/Crystals PO once a day.
+19. quetiapine 25 mg Tablet Sig: Three (3) Tablet PO QHS (once a
+day (at bedtime)).
+20. verapamil 120 mg Tablet Extended Release Sig: One (1) Tablet
+Extended Release PO Q24H (every 24 hours).
+21. Xalatan 0.005 % Drops Sig: One (1) drop Ophthalmic at
+bedtime.
+22. pilocarpine HCl 2 % Drops Sig: One (1) drop Ophthalmic four
+times a day.
+23. ticlopidine 250 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+24. tobramycin-dexamethasone 0.3-0.1 % Drops, Suspension Sig:
+One (1) Drop Ophthalmic QID (4 times a day): Until Opthalmology
+follow-up.
+Disp:*1 bottle* Refills:*2*
+25. tobramycin-dexamethasone 0.3-0.1 % Ointment Sig: One (1)
+Appl Ophthalmic QHS (once a day (at bedtime)).
+Disp:*1 tube* Refills:*2*
+26. apraclonidine 0.5 % Drops Sig: One (1) Drop Ophthalmic [**Hospital1 **]
+(2 times a day).
+Disp:*1 bottle* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+cataract + mitomycin C trabeculectomy
+Laryngeal spasm
+
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Ms. [**Known lastname **],
+
+You were admitted to [**Hospital1 18**] for eye surgery and after the
+procedure you had more difficulty breathing. You were observed
+in the medical intensive care unit and were given oxygen to help
+with the breathing. You were treated with inhalers, and ENT
+evaluated you and did not see any abnormalities in your airway.
+
+At the time of discharge, your oxygen levels were normal on room
+air. You felt much improved, and after discussion with your
+primary care doctor [**First Name (Titles) **] [**Last Name (Titles) **] you home with follow-up with
+your PCP, [**Name10 (NameIs) 17329**], and ophthomology.
+
+We made the following changes to your medications:
+- Please use Tobradex drops in your left eye four times a day
+until you follow-up with Dr. [**Last Name (STitle) **]
+- Please use Tobradex ointment (melted - place the tube in warm
+water prior to use) in your left eye at bedtime until you
+follow-up with Dr. [**Last Name (STitle) **]
+- Please use Apraclonidine drops in your left eye two times a
+day until you follow-up with Dr. [**Last Name (STitle) **]
+
+Please take all other medications as prescribed, and please
+follow-up with your doctors at the [**Name5 (PTitle) 4314**] below.
+
+Please call Dr.[**Name (NI) 103641**] office on [**2151-3-4**] at [**Telephone/Fax (1) 253**]
+for instructions on when to remove your eye patch.
+
+Followup Instructions:
+Name: [**Last Name (LF) **], [**First Name3 (LF) **] C. MD
+Specialty: Ophthalmology
+Address:[**Location (un) **], [**Hospital Ward Name **] 5, [**Location (un) **],[**Numeric Identifier 718**]
+Phone: [**Telephone/Fax (1) 253**]
+Appointment: Tuesday [**3-9**] at 10AM
+
+Name: [**Last Name (LF) **],[**First Name3 (LF) **] C.
+Address: [**Location (un) **] [**Apartment Address(1) 97918**], [**Location (un) **],[**Numeric Identifier 1700**]
+Phone: [**Telephone/Fax (1) 95663**]
+Appointment: Thursday [**3-11**] at 3:30PM
+
+Department: PULMONARY FUNCTION LAB
+When: MONDAY [**2151-3-15**] at 1:40 PM
+With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 609**]
+Building: [**Hospital6 29**] [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: PFT
+When: MONDAY [**2151-3-15**] at 2:00 PM
+
+Department: MEDICAL SPECIALTIES
+When: MONDAY [**2151-3-15**] at 2:00 PM
+With: DR. [**First Name (STitle) 1112**]/DR. [**Last Name (STitle) **] [**Telephone/Fax (1) 612**]
+Building: [**Hospital6 29**] [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3559**] MD, [**MD Number(3) 3560**]
+
+Completed by:[**2151-3-4**]

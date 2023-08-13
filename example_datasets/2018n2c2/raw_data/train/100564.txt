@@ -1,0 +1,184 @@
+Admission Date:  [**2144-1-20**]              Discharge Date:   [**2144-1-23**]
+
+Date of Birth:  [**2100-3-11**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5790**]
+Chief Complaint:
+SVC thrombosis
+
+Major Surgical or Invasive Procedure:
+removal of port-a-cath
+thrombolysis with TPA
+
+
+History of Present Illness:
+43 yo male with hx of rectal CA, DMII, and histoplasmosis now
+presents with SVC partial thrombosis now admitted to ICU for
+thrombolysis. He has been undergoing XRT and 5-FU which he has
+be tolerating well. Over the past 2-3 weeks he has had worsening
+chest pain. CTA on [**1-3**] revealed no PE and he was evaluated on
+by his thoracic surgeon for incisional pain but it was not felt
+to be due to the incisions. He continued to have vague pain
+radiating to his shoulders and biceps bilaterally but didn't
+notice any facial or arm swelling. There was concern that his
+portacath was malfunctioning since it infused well but nursing
+had difficulty withdrawing from it so he was sent for portacath
+flow study. Study revealed no flow into the SVG with thrombus
+surrouding the catheter and extending beyond the catheter tip.
+After discussion between IR and Heme/Onc plan was made to
+transfer him to the [**Hospital Unit Name 153**] for tPA infusion.
+
+Past Medical History:
+1. DMII- dx age 31 but only started glyburide [**10-27**]
+2. Thrush-HIV neg due to high FS
+3. hyperlipidemia
+4. Rectal CA-dx [**10-27**] as invasive rectal CA on colonoscopy done
+to evaluate rectal bleeding, with metastatic workup thus far
+negartive-started neoadjuvent 5- FU and XRT [**2143-12-18**] with plan
+for 6 weeks
+5. Suspected histoplasmosis-found on CT as part of metastatic
+workup, path revealed caseating granuloma with budding yeast
+6. VATs LLL weg resection with LN bx and portacath
+placement-[**2143-12-11**]
+
+
+Social History:
+Single.  He lives in the warehouse district in
+[**Location (un) 86**].  He is a designer.  He is originally of Greek descent
+and
+his parents grew up in [**Country 5881**]. He was born in United States.  He
+drinks a cocktail a day and smokes.  Parents live in nearby.  He
+is single with no children.  He is heterosexual.
+
+
+Family History:
+ No family history.
+
+Physical Exam:
+T  98.2  HR   120   BP 154/112    RR  16     O2Sat 97& [**Female First Name (un) **]
+Gen-NAD
+HEENT-PERRL, no elev JVP
+Hrt-tachy RR nS1S2 no MRG
+Lungs-CTA bilat
+Abd-soft, NT, ND ,no HSM, NABS
+Extrem-2+rad and dp pulses, no edema
+Neuro-CNII-XII intact, [**4-25**] UE and LE strength, distal sensation
+intact
+Skin-no rashes or lesions, left IJ portacath with no erthema or
+tenderness
+
+
+Pertinent Results:
+admit labs:
+Labs and studies-
+PT: 11.7  INR: 1.0
+.
+Chem 7
+134  95  12  195    AGap=14
+4.2  29  0.6
+ALT: 11 AP: 87
+AST: 9 LDH: 185 Dbili: 0.2
+.
+WBC 11.8 Hgb 12.3 Plt 452 Hct 35.9
+ N:84.7 L:6.4 M:7.2 E:1.5 Bas:0.2
+
+Port a cath study-
+IMPRESSION:  Left-sided port with diffuse peri-catheter thrombus
+including thrombus beyond the distal tip, no antegrade flow from
+the port into the superior vena cava.  Findings were discussed
+with Dr. [**Last Name (un) 5561**] and the patient will be seen in oncology
+clinic this day with discussions concerning options such as TPA
+through the current port or port removal.
+
+
+Brief Hospital Course:
+43 yo male with hx of rectal CA, DMII, and histoplasmosis now
+presents with SVC partial thrombosis now admitted to ICU for
+thrombolysis.
+.
+1. SVC thrombosis-The patient initially presented with vague
+chest, shoulder and arm pain. Also, his port was not functioning
+well. A subsequent port study showed clot diffuse peri-catheter
+thrombus including thrombus beyond the distal tip, no antegrade
+flow from the port into the superior vena cava. He may be
+hypercoagulable  due to CA. We initially infused tpa at 1mg/hr
+for 8 hours followed by another 8 hours of 1/2mg/hr, per IR
+protocol. However a subsequent port study showed persistance of
+the clot. TPA was stopped. Surgery was consulted and a decision
+was made to remove the port. He tolerated the procedure well and
+was started on lovenox post-op.
+
+2. Rectal CA-Pt not yet staged. Pt. will continue with continue
+XRT as an outpatient. His 5-fu was changed to Xeloda per
+HemeOnc. Will hold on XRT per Rad Onc while managing thrombosis
+issue.
+.
+3. DMII- We held glyburide while he was NPO and maintained on a
+RISS. His glyburide was restarted after his procedure.
+
+4. Diarrhea- likely related to 5FU. Resolved during his stay.
+
+Contact-father [**Name (NI) **] [**Telephone/Fax (1) 17438**] cell [**Telephone/Fax (1) 17439**].
+.
+Code-full
+
+
+Medications on Admission:
+Glyburide 5mg qd
+Prilosec 20mg [**Hospital1 **]
+itraconazole 100mg qd
+lorazepam 5mg p.r.n.
+oxycodone 5mg q4h prn
+
+
+Discharge Medications:
+1. Glyburide 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Enoxaparin 80 mg/0.8 mL Syringe Sig: Eighty (80) mg
+Subcutaneous Q12H (every 12 hours).
+Disp:*4800 mg* Refills:*2*
+3. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4
+to 6 hours) as needed for pain.
+4. Itraconazole 100 mg Capsule Sig: Two (2) Capsule PO DAILY
+(Daily).
+5. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4
+to 6 hours) as needed.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. Deep Vein Thrombosis of subclavian vein
+2. Rectal cancer
+3. Histoplasmosis
+4. Diabetes Mellitus, Type II
+
+
+Discharge Condition:
+Stable.  Your Port-a-cath has been removed
+
+
+Discharge Instructions:
+1. please take your medications as prescribed.
+2. please follow up with your appointments as below.
+3. if you experience any shortness of breath, chest pain,
+shoulder ain, fevers chills or other worrisome symptoms, please
+seek medical attention.
+
+Followup Instructions:
+1. Please call and make a follow up appointment with your
+primary care physician [**Last Name (NamePattern4) **] [**12-24**] weeks.
+2. You have an appointment with Radiation-Oncology on Monday,
+[**1-27**] at 8:45 AM.
+3. You have an appointment to follow up with Dr. [**Last Name (un) 5561**] on
+Wednesday, [**1-29**] @ 9am.  If you need to change this
+appointment, please call [**Telephone/Fax (1) 6568**].
+
+
+
+Completed by:[**2144-1-23**]

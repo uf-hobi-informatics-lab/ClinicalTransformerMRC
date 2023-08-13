@@ -1,0 +1,467 @@
+Admission Date:  [**2162-10-3**]              Discharge Date:   [**2162-12-1**]
+
+
+Service: MEDICINE
+
+Allergies:
+Opioid Analgesics / Iodine; Iodine Containing / Nitrostat
+
+Attending:[**First Name3 (LF) 8487**]
+Chief Complaint:
+"Weakness all over my body"
+
+Major Surgical or Invasive Procedure:
+[**10/2162**]: Vtach/vfib arrest s/p cardioversion now on chronic
+amiodarone therapy
+[**2162-10-25**]: Percutaneous gastrostomy tube placement.
+[**2162-10-25**]: Open tracheostomy tube placement.
+[**2162-10-29**]: Flexible bronchoscopy with therapeutic aspiration
+of bloody secretions.
+Ultrafiltration with removal of 18L of fluid
+
+History of Present Illness:
+84 yo male with multiple medical problems, including
+hypertension, hypercholesterolemia, CAD, and history of CVA's
+who presented to the ED with a 24 history of weakness, cough,
+SOB and nausea. He denied fevers, chills, chest pain, abdominal
+pain. Emesis x 1 that AM. In ED he was found to be hypoxemic w/
+sats 85% on RA, pulmonary edema on CXR and SBP in the 80's. On
+presentation, however, the patient was alert and oriented,
+appropriate and mentating well. He initially received 2L NS for
+IVF hydration, as well as antibiotics including ceftriaxone,
+azithromycin, vancomycin for suspected community acquired
+pneumonia. The patient then went into rapid afib with HR in the
+140's. He was given 5 mg Lopressor IV and his HR decreased to
+100. However, the patient's respiratory status declined
+precipitously and his sats dipped to 86% on a 100% face mask. He
+was placed on a nonrebreather and subsequently intubated in the
+setting of impending respiratory failure. Peri-intubation the
+patient again became hypotensive with SBP in the 80-60's and was
+started on dopamine and dilt for rate control. After intubation
+and central line placement, the patient was transferred to the
+MICU and admitted with a running diagnosis of sepsis caused by
+an underlying community acquired pneumonia.
+
+Although the patient had a extensive medical history and problem
+list, prior to presentation and subsequent admission to the
+hospital he was fairly independent and ambulatory, living at
+home with his wife.
+
+Past Medical History:
+1. Hypertension
+2. Hypercholesterolemia
+3.  Acromegaly since [**2108**]
+4.  Transient ischemic attacks in [**2129**] and [**2146**] and [**2155**]
+5.  Subacute bacterial endocarditis
+6.  High-grade ventricular ectopy
+7.  Status post prostate surgery in [**2140**]
+8.  Squamous cell carcinoma
+9.  CAD w/ PTCA of LAD in [**2160**]
+10.  Hernia in [**2146**] with recurrence in [**2154**]
+11.  Paget's disease in [**2148**]
+12. Hyponatremia in [**2148**]
+13. Mitral regurgitation
+14. Polymyalgia rheumatica
+15. Macular degeneration in the right eye in [**2153**]
+16. Prosthesis in the left eye since [**2149**]
+17. History of dizziness and motion sickness/falls
+18. History of pituitary tumor, s/p resection with resulting
+panhypopituitarism requiring chronic steroid therapy
+
+Social History:
+Married, worked as an accountant, no tobacco x 45 years, minimal
+ETOH.
+Son who lives in [**Location 3340**], Daughter who lives in [**Country **].
+
+Family History:
+Mo died 79 of CVA, Fa died at 90 of "old age", sister died 47 of
+breast cancer
+
+Physical Exam:
+[**2162-10-4**] on admission from ED to MICU
+
+Temp 99.1, HR 70, BP 90's/palp, (101/53 on dopamine), sats 97%
+on AC, TV 550, RR16, PEEP 5 FiO2 70
+GENL: elderly male, sedated, intubated
+HEENT: L eye prosthetic, R eye minimally reactive, no icterus,
+no JVP, no LAD, Left IJ TLC in place
+CV: distant HS, + very loud holosystolic murmur heard throughout
+the chest with PMI at the apex and radiation to the left axilla
+Lungs: End exp wheezes at apices, clear with decreased movement,
+crackles at bilateral bases
+ABD: soft, obese, non-distended, +BS, no HSM
+EXT: 1+DP pulses, WWP, minimal edema
+
+Pertinent Results:
+CTA CHEST W&W/O C &RECONS  [**2162-10-4**] 1:24 PM
+IMPRESSION:
+1. No CT evidence of pulmonary embolus.
+2. Bilateral large pleural effusions with bibasilar
+collapse/consolidation.
+3. Multiple hepatic cysts.
+
+TTE ECHO Study Date of [**2162-10-4**]
+Conclusions:
+1. The left atrium is moderately dilated.
+2. The left ventricular cavity size is normal. Overall left
+ventricular
+systolic function is mildly depressed.
+3. The aortic valve leaflets (3) are mildly thickened. Mild (1+)
+aortic
+regurgitation is seen.
+4. The mitral valve leaflets are moderately thickened with the
+posterior
+leaflet be calcified and prolapsing. Mild to moderate ([**12-11**]+)
+mitral
+regurgitation is seen.
+5. Compared with the findings of the prior report (tape
+unavailable for
+review) of [**2158-5-2**], left ventricular systolic function may have
+decreased.
+
+TEE ECHO Study Date of [**2162-10-6**]
+Conclusions:
+The left atrium is dilated. No spontaneous echo contrast is seen
+in the body of the left atrium or left atrial appendage. No
+atrial septal defect is seen by 2D or color Doppler. Overall
+left ventricular systolic function is normal (LVEF>55%)
+(intinsic LV systolic function may be depressed given the
+severity of mitral regurgitation). Right ventricular chamber
+size and free wall motion are normal. There are simple atheroma
+in the descending thoracic aorta. The aortic valve leaflets (3)
+are mildly thickened. No masses or vegetations are seen on the
+aortic valve. Mild to moderate ([**12-11**]+) aortic regurgitation is
+seen. The mitral valve leaflets are moderately thickened. There
+is moderate/severe mitral valve prolapse. There is partial
+posterior mitral leaflet flail. There is a echodense mass on the
+posterior leaflet consistent with probable old vegetation on the
+mitral valve; small mobile echodense mass is associated that may
+represent a possible new vegetation. Eccentric, anteriorly
+directed, moderate to severe (3+) mitral regurgitation is seen.
+The tricuspid valve leaflets are mildly thickened. No
+vegetation/mass is seen on the tricuspid or pulmonic valves.
+There is a trivial/physiologic pericardial effusion.
+
+IMPRESSION: Probable old (healed) mitral valve vegetation;
+cannot exclude
+small superimposed new vegetation. Mitral valve prolapse with
+partial flail of the posterior leaflet and moderate to severe
+(3+) mitral regurgitation. Mild to moderate (2+) aortic
+regurgitation. Mild to moderate (2+) tricuspid regurgitation.
+Normal biventricular systolic function (LVEF 60-70%)(intrinisic
+LV systolic function may be depressed given the severity of
+mitral regurgitation).
+
+ECHO Study Date of [**2162-10-10**]
+Conclusions:
+Overall left ventricular systolic function is normal (LVEF>55%).
+Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets are mildly thickened. No aortic
+regurgitation is seen. There is
+partial mitral leaflet flail. Moderate to severe (3+) mitral
+regurgitation is seen. Tricuspid regurgitation is present but
+cannot be quantified. There is a trivial/physiologic pericardial
+effusion.
+Compared with the findings of the prior report (tape unavailable
+for review)of [**2162-10-6**], there is no significant change
+
+ECHO Study Date of [**2162-11-1**]
+Conclusions:
+1. The left atrium is normal in size.
+2.Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is normal(LVEF>55%).
+3.Right ventricular chamber size and free wall motion are
+normal.
+4.The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic regurgitation.
+5.The mitral valve leaflets are moderately thickened. There is
+partial mitral leaflet flail. Mitral regurgitation is present
+but cannot be quantified.
+6.There is no pericardial effusion.
+
+Compared with the findings of the prior study (tape reviewed) of
+[**2162-10-10**], the mass on the posterior mitral valve leaflet is more
+prominent. This may
+represent a flailed mitral valve leaflet with chordae or it may
+represent a vegetation. If the mass is a vegetation, and because
+this mass appears
+calcified, this mass might be a healed vegetation. The mitral
+regurgitation is hard to quantify in this present study.
+
+TEE ECHO Study Date of [**2162-11-3**]
+Conclusions:
+The left atrium is markedly dilated. No spontaneous echo
+contrast or thrombus is seen in the body of the left atrium/left
+atrial appendage or the body of the right atrium/right atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler. Overall left ventricular systolic function is normal
+(LVEF>55%). [Intrinsic left ventricular systolic function may be
+more depressed given the severity of mitral regurgitation.]
+Right ventricular chamber size and free wall motion are normal.
+There are complex (>4mm, non-mobile) atheroma in the aortic
+arch. The aortic valve leaflets (3) are mildly thickened, but no
+aortic stenosis is present. No masses or vegetations are seen on
+the aortic valve. Mild (1+) aortic regurgitation is seen. The
+mitral valve leaflets are moderately thickened. There is partial
+flail of the posterior leaflet with leaflet tethering and a very
+small (~2mm) mobile echodensity at the leaflet tip that likely
+represents a ruptured chordae (cannot exclude a vegetation if
+clinically suggested).. An eccentric jet of severe (4+) mitral
+regurgitation is seen. An echodense "mass" is seen in close
+proximity to the mitral annulus. This may represent a healed
+abscess or
+atypical mitral annular calcification. A mobile mass is seen
+attached to the posterior leaflet. This may represent a torn
+chordae or a healed vegetation. The tricuspid valve leaflets are
+mildly thickened. No vegetation/mass is seen on the pulmonic
+valve or tricuspid valve. There is no pericardial effusion.
+
+CT CHEST W/O CONTRAST  [**2162-11-5**] 11:09 AM
+IMPRESSION:
+1) Worsening pulmonary edema.
+2) Moderate bilateral pleural effusions,which have increased
+compared to [**2162-10-4**]. There is bibasilar atelectasis as
+well. A pneumonia in these consolidative areas cannot be fully
+excluded.
+
+CT ABDOMEN W/O CONTRAST  [**2162-11-15**] 2:48 PM
+CT CHEST WITHOUT IV CONTRAST: As on the prior study, there are
+large bilateral effusions, stable since the prior study. The
+previously noted bilateral upper lobe air space disease has
+progressed and appears more densely consolidated, particularly
+within the right upper lobe, and to a lesser extent the left
+upper lobe. Additionally, Hounsfield units within the areas of
+dense consolidation measure up to approximately 67 Hounsfield
+units, which is denser than simple fluid, indicating complex
+fluid, possibly hemorrhage.
+A tracheostomy tube is noted. No mediastinal adenopathy.
+Bibasilar collapse is once again identified, unchanged. Mitral
+valve calcifications as well as coronary calcifications are
+seen. A right subclavian line is noted, with its tip in the
+superior vena cava.
+CT ABDOMEN WITHOUT IV CONTRAST: Multiple low-attenuation lesions
+are seen within the liver, measuring up to approximately 6 cm,
+probably representing cysts. A gastrostomy tube is noted.
+Unenhanced gallbladder, adrenals, kidneys, and spleen appear
+normal. The pancreas contains a few punctate calcifications,
+with extensive calcifications noted within the splenic artery.
+CT PELVIS WITHOUT IV CONTRAST: The unenhanced colon, urinary
+bladder and seminal vesicles are grossly normal. An open left
+inguinal ring containing fat is identified.
+BONE WINDOWS: There is severe demineralization within the sacrum
+and left iliac bone, with degenerative changes noted within the
+remainder of the spine.
+IMPRESSION: Dense consolidation within the upper lobes, which is
+increased since the prior study dated [**2162-11-5**]. The
+density of the consolidation suggests complex fluid and is
+compatible with hemorrhage, particularly given the clinical
+history.
+
+ECHO Study Date of [**2162-11-17**]
+Conclusions:
+The left atrium is markedly dilated. The left ventricular cavity
+size is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). Right ventricular chamber size and free wall motion
+are normal. The aortic valve leaflets are mildly thickened. Mild
+(1+) aortic regurgitation is seen. The mitral valve leaflets are
+moderately thickened. There is partial mitral leaflet flail.
+There is moderate thickening/calcification of the mitral valve
+chordae (no definite vegetation seen; cannot exclude
+vegetation/healed vegetation). Severe (4+) mitral regurgitation
+is seen. The mitral regurgitation jet is eccentric. There is no
+pericardial effusion.
+Compared with the prior study (tape reviewed) of [**2162-11-1**],
+there is no
+significant change.
+
+[**2162-12-1**]: Cardiac catheterization: Report pending at the time of
+transfer.
+
+Brief Hospital Course:
+The patient was admitted to the MICU with a diagnosis of sepsis
+and community acquired pneumonia. He had a long and complicated
+hospital course that will be described by system.
+
+1. Respiratory: The patient was intubated on the day of
+admission for hypoxic respiratory failure presumably related to
+sepsis and CAP in the setting of baseline CHF. In the ED, the
+patient received a dose of ceftriaxone, azithromycin, and
+vancomycin. He was initially continued on Vancomycin and also
+started on Levaquin for ABx coverage for presumed community
+acquired pneumonia. Blood cultures drawn on the date of
+admission [**10-4**] showed 1/2 bottles positive for Staph Coag Neg.
+Further blood cultures were negative. He then developed
+ventilator associated pneumonia with MRSA. He was given
+Linezolid for coverage of MRSA and completed a 2-week course on
+[**2162-10-25**].  He required trach placement on [**2162-10-25**] for failure
+to wean. His sputum cultures were repeatedly positive for MRSA
+and pseudomonas and enterobacter cloacea througout his
+hospitalization. He was treated with vancomycin and meropenem
+from [**2162-10-31**] through [**2162-11-13**]. The vancomycin was restarted on
+[**2162-11-15**] after he spiked a fever and had MRSA in sputum again and
+this was continued until his discharge. He was started on
+ceftazidime on [**2162-11-23**] and that was also continued until his
+discharge.  He was also treated with Flagyl early in the
+hospitalization for presumed aspiration pneumonia. Most recent
+sputum cultures from [**2162-11-29**] were positive for MRSA and
+pseudomonas sensitive to ceftazidime. His latest ventilator
+settings were AC/0.4/TV=600/RR=10/PEEP=5. He had repeated trials
+with a Passy-Miur valve that were unsuccessful leading to
+coughing fits.
+
+2. CV: The patient was initially hypotensive at the time of
+admission, likely related to sepsis +/- possible adrenal
+insufficiency. On admission, he was started on stress dose
+steroids and overnight remained on dopamine. The patient was
+able to be weaned off pressors after the first night, but
+subsquently required intermitent use of pressors to maintain his
+SBP.
+
+2.1. Rhythm: He was in afib with a rapid ventricular response on
+admisison that was treated with a diltiazem drip, lopressor and
+digoxin. He developed polymorphic VT with a transition to Vfib
+on [**2162-10-23**] that responded to defibrillation. He was started on
+a lidocaine drip and then switched to amiodarone. The amiodarone
+dose was decreased on [**2162-11-28**] in attempt to decrease the beta
+blocker effect in the face of CHF. He is to remain on Amiodarone
+200 mg PO daily. He also went into atrial fibrillation early in
+the hospital course that resolved with discontinuation of
+dobutamine. He was in normal sinus rhythm at the time of
+discharge.
+
+3. Mitral Regurgitation: Per echo he has 4+ MR, which has been
+refractory to medical therapy. Fluid overload was a major issue.
+He underwent ultrafiltation in the CCU for several days with
+removal of 18L of fluid. Upon completion of ultrafiltration he
+was diuresed unsuccessfully with lasix boluses. He was started
+on a lasix drip with a goal of even to negative fluid balance.
+However, we were limited given his hypotension and had to be
+held frequently. His blood pressure also did not tolerate
+nesiritide. Captopril was added at a dose of 12.5 mg TID for
+afterload reduction, along with Lasix drip as tolerated by BP.
+Digoxin was also added for inotropic effect. Close to discharge,
+the patient was tolerating captopril plus intermittent lasix
+drip of 2mg/hr titrated to blood pressure. The lasix drip was
+converted to a standing dose of 40mg IV BID. Metolazone 5mg po
+BID was also added for synergy.  Pt did well on this regimen x
+48hrs prior to the time of discharge. Pt was initially informed
+that he may be candidate for MV replacement surgery, but was
+subsequently refused this surgery by the CT [**Doctor First Name **] service who
+felt that his operative risk was too high given his significant
+comorbities.
+
+4 History of endocarditis ([**2127**]'s): TEE showed a question of a
+vegetation on MV. Subsequently, low suspicion.
+
+5. Agitation: Pt was kept on a standing dose of haldol 2.5 mg
+TID which was effective.
+
+7. Nutrition: Mr. [**Known lastname **] has a PEG tube and was tolerating tube
+feeds using Respalor Full strength at 50cc/hr.  Vit C and Zinc
+were added per nutrition recommendations.
+
+8. Endocrine: Mr. [**Known lastname **] has known panhypopituitarism. He was
+admitted on prednisone 5 mg daily (home dose). He required
+stress dose steroids for his adrenal, subsequently tapered to 20
+mg PO daily, on which he remains at the time of discharge.
+
+Regarding his diabetes, serum glucose was well controlled on an
+insulin sliding scale starting with 5 units for FSG > 150 and
+incrementing by 2 units.
+
+9. Hematology: He had thrombocytopenia initially on admission.
+HIT antibody was negative. His thrombocytopenia was subsequently
+attributed to Linezolid, and resolved several days after
+linezolid was discontinued. Platelet count 170s on day of
+discharge.
+
+10. Prophylaxis: Pt was treated with Carafate for GI prophylaxis
+(given thrombocytopenia) and Heparin SQ for DVT prophylaxis.
+
+11. Physical Therapy: Pt was felt to be progressing well from a
+PT standpoint. He will need continued aggressive PT follow-up.
+
+12. Access: A right subclavian was placed on [**2162-11-14**] and a PICC
+line was placed on [**2162-11-30**].
+
+Medications on Admission:
+Metoprolol 12.5 mg [**Hospital1 **]
+ECASA 325 mg daily
+Plavix 75 mg daily
+Folic acid 2 mg [**Hospital1 **]
+Zocor 30 mg QHS
+Vit B6 100 mg daily
+Vit B12 100 mcg daily
+CaCO3
+MVI
+Meclizine prn
+Vitamin E
+Prednisone 5 mg daily
+Temezepam prn
+
+Discharge Medications:
+1. Furosemide 40 mg IV BID
+2. Heparin 5000 UNIT SC TID
+3. Metolazone 5 mg PO BID
+4. Vancomycin HCl 1000 mg IV Q24H (Please hold Vanco for random
+level >20)
+5. Meclizine HCl 12.5 mg PO Q8H:PRN
+6. Amiodarone HCl 200 mg PO DAILY
+7. Digoxin 0.125 mg PO DAILY
+8. Ceftazidime 2 gm IV Q8H  [**11-23**]
+9. Captopril 12.5 mg PO TID (Hold for MAP<50)  [**11-20**]
+10. Ascorbic Acid 500 mg PO BID  [**11-19**]
+11. Zinc Sulfate 220 mg PO DAILY  [**11-19**]
+12. Morphine Sulfate 2-4 mg IV Q2H:PRN  [**11-18**]
+13. Psyllium 1 PKT PO TID:PRN  [**11-16**]
+14. Haloperidol 2.5-5 mg IV BID:PRN agitation  [**11-14**]
+15. Haloperidol 2.5 mg PO TID  [**11-14**]
+16. Oxybutynin 5 mg PO BID:PRN  [**11-13**]
+17. Insulin SC  (per Insulin Flowsheet)
+18. Bisacodyl 10 mg PO/PR [**Hospital1 **]:PRN (hold for diarrhea)  [**11-10**]
+19. Lactulose 30 ml PO Q8H:PRN (hold for diarrhea)  [**11-10**]
+20. Senna 1 TAB PO BID:PRN (hold for diarrhea)  [**11-10**]
+21. Nystatin Oral Suspension 5 ml PO QID:PRN  [**11-10**]
+22. Miconazole Powder 2% 1 Appl TP QID groin [**Female First Name (un) **]  [**11-10**]
+23. Milk of Magnesia 30 ml PO Q6H:PRN  [**11-10**]
+24. Simethicone 40-80 mg PO QID:PRN  [**11-10**]
+25. Acetaminophen 325-650 mg PO Q4-6H:PRN  [**11-10**]
+26. Sucralfate 1 gm PO QID  [**11-10**] @ 2126 View
+27. Prednisone 20 mg PO DAILY  [**11-10**]
+28. Cyanocobalamin 1000 mcg PO QD  [**11-10**]
+30. Docusate Sodium (Liquid) 100 mg PO BID
+31. Simvastatin 30 mg PO QHS
+32. Folic Acid 3 mg PO BID
+33. Thiamine HCl 100 mg PO/NG DAILY
+34. Artificial Tears 1-2 DROP OU PRN
+35. Albuterol-Ipratropium [**12-11**] PUFF IH Q4H:PRN
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+1)Respiratory failure
+2)Congestive heart failure
+3)Mitral regurgitation
+4)Community-acquired pneumonia
+5)Ventilator associated pneumonia
+6)Tracheostomy
+7)Anemia
+8)Thrombocytopenia
+9)Hypopituitarism
+
+Discharge Condition:
+Fair
+
+Discharge Instructions:
+To [**Hospital6 **]
+
+Followup Instructions:
+Follow up with Dr. [**Last Name (STitle) **]
+
+
+
+Completed by:[**2162-12-1**]

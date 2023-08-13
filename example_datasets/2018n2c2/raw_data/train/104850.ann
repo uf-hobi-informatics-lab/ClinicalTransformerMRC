@@ -1,0 +1,96 @@
+T3	Drug 10314 10322	morphine
+T4	Drug 10394 10401	Truvada
+T5	Drug 10402 10409	Reyataz
+T6	Strength 10410 10413	150
+R2	Strength-Drug Arg1:T6 Arg2:T5
+T7	Drug 10415 10421	Norvir
+T8	Strength 10422 10425	100
+R3	Strength-Drug Arg1:T8 Arg2:T7
+T11	Strength 10435 10437	DS
+T12	Drug 10439 10451	Azithromycin
+T13	Frequency 10452 10464	twice weekly
+R5	Frequency-Drug Arg1:T13 Arg2:T12
+T14	Drug 10465 10471	Ambien
+T15	Frequency 10472 10475	prn
+R6	Frequency-Drug Arg1:T15 Arg2:T14
+T16	Drug 10476 10487	Doxycycline
+T17	Strength 10488 10494	100 mg
+R7	Strength-Drug Arg1:T17 Arg2:T16
+T18	Drug 10529 10536	Vicodin
+T19	Strength 10537 10542	5/725
+R8	Strength-Drug Arg1:T19 Arg2:T18
+T20	Frequency 10543 10546	prn
+R9	Frequency-Drug Arg1:T20 Arg2:T18
+T21	Reason 10551 10559	leg pain
+R10	Reason-Drug Arg1:T21 Arg2:T18
+T22	Drug 1670 1678	coumadin
+T23	Drug 1683 1690	heparin
+T24	Drug 1707 1719	levofloxacin
+T25	Drug 1921 1925	Doxy
+T26	Dosage 2437 2440	8 L
+R11	Dosage-Drug Arg1:T26 Arg2:T27
+T27	Drug 2441 2443	NS
+T28	Drug 2572 2580	Dopamine
+T29	Drug 2585 2593	levophed
+T30	Strength 2608 2614	1 gram
+R12	Strength-Drug Arg1:T30 Arg2:T31
+T31	Drug 2618 2628	vancomycin
+T32	Strength 2630 2636	1 gram
+R13	Strength-Drug Arg1:T32 Arg2:T33
+T33	Drug 2640 2643	CTX
+T34	Strength 2651 2653	DS
+R14	Strength-Drug Arg1:T34 Arg2:T35
+T35	Drug 2654 2661	bactrim
+T36	Reason 3286 3290	AIDS
+R15	Reason-Drug Arg1:T36 Arg2:T37
+T37	Drug 3294 3299	HAART
+T39	Drug 3913 3921	dopamine
+T40	Drug 3925 3933	levophed
+T41	Reason 404 408	AIDs
+R16	Reason-Drug Arg1:T41 Arg2:T42
+T42	Drug 428 433	HAART
+T43	Drug 5223 5234	caspofungin
+T44	Drug 5236 5248	azithromycin
+T45	Drug 5250 5267	imipenem-cilastin
+T46	Drug 5278 5293	antiretrovirals
+T47	Drug 5298 5305	bactrim
+T48	Drug 5524 5532	NS fluid
+T49	Dosage 5533 5538	bolus
+R17	Dosage-Drug Arg1:T49 Arg2:T48
+T50	ADE 5584 5588	NSVT
+R18	ADE-Drug Arg1:T50 Arg2:T51
+T51	Drug 5609 5617	dopamine
+T52	Drug 5642 5650	levophed
+T53	Duration 5670 5686	for several days
+R19	Duration-Drug Arg1:T53 Arg2:T52
+T54	Drug 6276 6284	coumadin
+T55	Drug 6335 6342	heparin
+T56	Drug 6378 6385	lovenox
+T57	Strength 6386 6393	1mcg/kg
+R20	Strength-Drug Arg1:T57 Arg2:T56
+T58	Drug 6496 6503	heparin
+T59	Drug 6531 6538	lovenox
+T60	Drug 6682 6690	morphine
+T61	Frequency 6691 6694	prn
+R21	Frequency-Drug Arg1:T61 Arg2:T60
+T62	Drug 6918 6921	IVF
+T63	Drug 6989 6997	ambisome
+T64	Drug 7162 7167	ddAVP
+T65	Reason 7175 7181;7182 7199	if can concentrate urine
+T67	Drug 7201 7209	Ambisome
+T68	Drug 7222 7233	caspofungin
+T69	Drug 7778 7784	NS IVF
+T70	Drug 787 792	HAART
+T71	Drug 8056 8067	retrovirals
+T72	Drug 8069 8076	azithro
+T73	Drug 8077 8084	bactrim
+T74	Drug 8087 8095	imipenem
+T75	Drug 8118 8123	vanco
+T76	Drug 923 931	Levaquin
+T77	Drug 9390 9393	PPI
+T78	Drug 9411 9418	lovenox
+T9	Drug 10427 10434	Bactrim
+R4	Strength-Drug Arg1:T11 Arg2:T9	
+R1	Reason-Drug Arg1:T65 Arg2:T64	
+T1	Route 10311 10313	IV
+R22	Route-Drug Arg1:T1 Arg2:T3	

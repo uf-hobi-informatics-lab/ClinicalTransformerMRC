@@ -1,0 +1,336 @@
+Admission Date:  [**2137-12-28**]              Discharge Date:   [**2138-1-3**]
+
+
+Service: MEDICINE
+
+Allergies:
+Lisinopril
+
+Attending:[**First Name3 (LF) 134**]
+Chief Complaint:
+Chest Pain
+
+Major Surgical or Invasive Procedure:
+Cardiac Cath
+
+History of Present Illness:
+Ms [**Known lastname 80042**] is an 84 year old woman with history of labile
+hypertension, coronary artery disase (per report with 40% RCA
+lesion seen in [**2-/2137**] cath), CLL, h/o breast cancer s/p left
+mastectomy and ischemic cardiomyopathy, presenting with new
+episode of chest pain this evening.
+.
+History is obtained via russian interpreter; patient reports she
+was at home resting when she started having severe chest pain
+localized to the left chest and which radiated to the left arm.
+Patient took imdur and diovan and pain resolved in approximately
+5 minutes. Denies any dizziness, syncope or pre-syncope, nausea,
+vomiting, diarrhea, diaphoresis, but did feel some difficulty
+breathing.
+.
+Patient denies any recent joint pains, cough, hemoptysis, black
+stools or red stools. She denies recent fevers, chills or
+rigors.
+.
+Patient believes this pain is more of a "pressure" than the pain
+she has been experiencing for the last few months. Denies
+paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+palpitations, syncope or presyncope.
+.
+In the ED, 181/94, 70, 26 200% RA. Given 5mg IV lopressor,
+aspirin, plavix and heparin drip after discussion of ECG with
+cardiology fellow. Patient admitted for further evaluation.
+
+
+Past Medical History:
+Hypertension
+Diet-controlled diabetes
+Congestive heart failure
+Breast cancer diagnosed 15 years ago, s/p left mastectomy
+CLL
+
+
+Social History:
+No smoking history. Denies EtOH or illicit drugs. Widowed. Lives
+alone. Competent in IADLs. Grandchildren live nearby.
+
+Family History:
+No family history of early MI, otherwise non-contributory.
+
+Physical Exam:
+VS: 97.9 140/55 71 20 99% RA
+GENERAL: Well appearing elderly femaly in no distress. Appears
+frustrated.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 16 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: trace bilateral pedal edema
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+[**2137-12-28**] 09:00PM BLOOD WBC-8.8 RBC-4.14* Hgb-12.7 Hct-36.1
+MCV-87 MCH-30.7 MCHC-35.2* RDW-13.9 Plt Ct-221
+[**2137-12-28**] 09:00PM BLOOD PT-12.5 PTT-23.8 INR(PT)-1.1
+[**2137-12-28**] 09:00PM BLOOD Glucose-148* UreaN-13 Creat-0.7 Na-139
+K-3.6 Cl-100 HCO3-26 AnGap-17
+[**2137-12-28**] 09:00PM BLOOD CK(CPK)-79
+[**2137-12-29**] 05:40AM BLOOD ALT-20 AST-34 CK(CPK)-200*
+[**2137-12-29**] 01:10PM BLOOD CK(CPK)-173*
+[**2137-12-30**] 05:35AM BLOOD CK(CPK)-102
+[**2137-12-31**] 05:30AM BLOOD CK(CPK)-62
+[**2138-1-1**] 05:25AM BLOOD CK(CPK)-51
+[**2137-12-28**] 09:00PM BLOOD CK-MB-4 proBNP-255
+[**2137-12-28**] 09:00PM BLOOD cTropnT-0.03*
+[**2137-12-29**] 05:40AM BLOOD CK-MB-19* MB Indx-9.5* cTropnT-0.38*
+[**2137-12-29**] 01:10PM BLOOD CK-MB-14* MB Indx-8.1* cTropnT-0.25*
+[**2137-12-30**] 12:05AM BLOOD CK-MB-7 cTropnT-0.16*
+[**2137-12-30**] 05:35AM BLOOD CK-MB-6 cTropnT-0.15*
+[**2137-12-31**] 05:30AM BLOOD CK-MB-NotDone cTropnT-0.11*
+[**2138-1-1**] 05:25AM BLOOD CK-MB-NotDone cTropnT-0.15*
+[**2137-12-29**] 05:40AM BLOOD Calcium-8.8 Phos-4.6* Mg-2.3 Iron-71
+[**2137-12-29**] 05:40AM BLOOD calTIBC-347 Ferritn-58 TRF-267
+
+Cardiology Report ECG Study Date of [**2137-12-28**]  8:54:32 PM
+Sinus rhythm. Left anterior fascicular block. Inferolateral T
+wave
+abnormalities are non-specific but cannot exclude ischemia.
+Since the previous
+tracing of [**2137-12-17**] sinus bradycardia is absent. Clinical
+correlation is
+suggested.
+
+[**12-28**] CXR
+IMPRESSION: No evidence of pneumonia. Probable trace right
+pleural effusion.
+
+[**12-31**] TTE
+The left atrium and right atrium are normal in cavity size.
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size. There is mild regional left ventricular systolic
+dysfunction with hypokinesis of the basal inferolateral wall.
+The remaining segments contract normally (LVEF = 50 %). Right
+ventricular chamber size and free wall motion are normal. The
+diameters of aorta at the sinus, ascending and arch levels are
+normal. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. Trace aortic regurgitation is
+seen. The mitral valve leaflets are structurally normal. There
+is no mitral valve prolapse. Mild to moderate ([**12-13**]+) mitral
+regurgitation is seen. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+mild regional systolic dysfunction c/w CAD. Mild moderate mitral
+regurgitation. Mild pulmonary artery systolic hypertension.
+
+CLINICAL IMPLICATIONS:
+Based on [**2135**] AHA endocarditis prophylaxis recommendations, the
+echo findings indicate prophylaxis is NOT recommended. Clinical
+decisions regarding the need for prophylaxis should be based on
+clinical and echocardiographic data.
+..
+[**2138-1-1**] CARDIAC CATHETERIZATION:
+COMMENTS:
+1. Selective coronary angiography of this right dominant system
+revealed
+one vessel CAD. The LMCA, LAD and LCX had no angiographically
+apparent
+flow limiting disease. The RCA had a calcified ostial 95% lesion
+with
+left to right collaterals to the distal RCA.
+2.  Successful rotational atheretomy, PTCA and stenting of the
+ostial
+RCA with two overlapping Cypher (3x18mm distal; 3.5x13mm) drug
+eluting
+stents postdilated distally with a 3.25mm balloon and 3.5mm
+balloon
+proximally.  Final angiography demonstrated no angiographically
+apparent
+dissection, no residual stenosis and TIMI III flow throughout
+the vessel
+(See PTCA comments).
+3.  Successful closure of the right femoral arteriotomy site
+with a Mynx
+closure device.
+4. Limited resting hemodynamics demonstrated systemic arterial
+hypertension, with BP of 180/72 mmHg.
+5. Left ventriculography was deferred.
+FINAL DIAGNOSIS:
+1. One vessel coronary artery disease.
+2. Successful rotational atheretomy, PTCA and stenting of the
+ostial RCA
+with two overlapping Cypher drug eluting stents.
+3. Successful closure of the right femoral arteriotomy site with
+a Mynx
+closure device.
+
+
+
+Brief Hospital Course:
+Ms [**Known lastname 80042**] is an 84 year old woman with history of CAD,
+systolic heart failure, presenting with complaint of chest pain.
+
+.
+# NSTEMI: Patient with complaints of chest pain the day of
+admission.  She was chest pain free after SL nitro.  She ruled
+in for NSTEMI with a peak Trop of 0.38.  She was started on
+heparin and integrelin gtt. She was also given ASA 325, plavix
+loaded with 600mg and continued on 75mg daily, and continued her
+BB.  She remained chest pain free thoughout her admission.  She
+underwent cardiac cath on [**1-1**] and showed One vessel coronary
+artery disease with 95 % occluded proximal RCA. She then
+underwent successful rotational atheretomy, PTCA and stenting of
+the ostial RCA
+with two overlapping Cypher drug eluting stents as well as
+successful closure of the right femoral arteriotomy site with a
+Mynx closure device. She will plan on long-term Plavix therapy.
+.
+# CHRONIC SYSTOLIC HEART FAILURE: The patient underwent ECHO on
+[**12-31**] and showed an EF 50%.  She was continued on her BB and [**Last Name (un) **]
+therapy.
+.
+# HYPERTENSION: Pt with labile blood pressures during her stay.
+Her BP would be elevated into SBP 150's later in the evening.
+Her valsartan was changed to noon time dosing to improve evening
+pressures. Her BP improved with the adjustment. She was
+continued on Diltiazem, Isosorbide, Metoprolol, and valsartan.
+.
+# Diabetes: She is diet controlled. Her AM glucose has been
+elevated with a high of 148. She was monitored with QACHS FS and
+covered with an ISS.  She should have outpatient follow-up
+regarding further management.
+.
+# Glaucoma: She was continued on her outpatient regimen
+.
+# FEN: Cardiac/ Diabetic diet was continued and her electrolytes
+were monitored daily and repleted as needed.
+.
+# ACCESS: PIV's
+.
+# PROPHYLAXIS: Heparin drip
+.
+# CODE: The patient was maintained as a full code status for the
+entirety of her hospital course and this was confirmed with
+family
+.
+# CONTACT: [**Name (NI) **]-daughter [**Name (NI) 15139**] ([**Telephone/Fax (1) 80043**] / ([**Telephone/Fax (1) 80044**]
+
+Medications on Admission:
+-- Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+-- Diltiazem HCl 300 mg Capsule, Sustained Release Sig: One (1)
+
+Capsule, Sustained Release PO DAILY (Daily).
+-- Valsartan 160 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+
+day).
+-- Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+
+PO DAILY (Daily).
+-- Rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+6. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr
+Sig: 0.5 Tablet Sustained Release 24 hr PO DAILY (Daily).
+7. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+
+bedtime).
+8. Polyvinyl Alcohol 1.4 % Drops Sig: 1-2 Drops Ophthalmic PRN
+(as needed).
+9. Betimol 0.5 % Drops Sig: One (1) Ophthalmic once a day
+
+
+Discharge Medications:
+1. Valsartan 160 mg Tablet Sig: One (1) Tablet PO twice a day.
+2. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr
+Sig: 0.5 Tablet Sustained Release 24 hr PO once a day.
+3. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+4. Timolol Maleate 0.5 % Drops Sig: One (1)  Ophthalmic Daily
+().
+5. Polyvinyl Alcohol 1.4 % Drops Sig: [**12-13**]  Ophthalmic prn.
+6. Diltiazem HCl 180 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily).
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*
+7. Toprol XL 50 mg Tablet Sustained Release 24 hr Sig: Three (3)
+Tablet Sustained Release 24 hr PO once a day.
+Disp:*90 Tablet Sustained Release 24 hr(s)* Refills:*2*
+8. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 459**] for the Aged - MACU
+
+Discharge Diagnosis:
+Primary:
+NSTEMI
+Hypertension
+Diet-controlled diabetes
+Diastolic Congestive heart failure
+
+
+Discharge Condition:
+stable, chest pain free, ambulating, O2 sat >95% on RA
+
+
+Discharge Instructions:
+It was a pleasure taking care of you while you were in the
+hospital.  You were admitted to [**Hospital1 18**] because of a heart attack.
+ You underwent cardiac catheterization that showed a blockage of
+one of the arteries of your heart and you had a stent placed.
+
+Please take all your medications as prescribed.  The following
+changes were made to your medication regimen.
+1. Please take aspirin 325 mg daily instead of 81 mg daily
+2. Please take plavix 75 mg daily.  It is very important that
+you take this medication every day.  Do not stop this medication
+until you are told to do so by your cardiologist.
+3. You will start taking Toprol XL 150mg daily
+4. Your Diltiazem was decreased to 180mg daily
+5. You were started on omeprazole 40mg daily
+6. You will start Lipitor 80mg daily
+
+Please follow up with the appointments below.
+
+Please call your PCP or go to the ED if you experience chest
+pain, palpitations, shortness of breath, nausea, vomiting,
+fevers, chills, or other concerning symptoms.
+
+Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+
+Followup Instructions:
+You have an appointment with your primary care physician [**Last Name (NamePattern4) **].
+[**First Name8 (NamePattern2) **] [**Name (STitle) **] on [**1-15**] 4:30.  If this is not convenient
+you can call and reschedule.  The office number is [**Telephone/Fax (1) 589**].
+
+.
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2138-2-3**]
+2:20
+
+
+
+Completed by:[**2138-1-6**]

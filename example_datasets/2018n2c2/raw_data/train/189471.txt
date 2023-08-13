@@ -1,0 +1,304 @@
+Admission Date:  [**2171-1-28**]              Discharge Date:   [**2171-2-1**]
+
+Date of Birth:  [**2095-12-28**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 898**]
+Chief Complaint:
+weakness, bradycardia and hypotension
+
+Major Surgical or Invasive Procedure:
+PICC placement and removal
+
+
+History of Present Illness:
+(PER MICU ADMITTING TEAM)
+74F with h/o CAD, DMII, CHF (unknown EF), Afib, and COPD
+presenting with weakness.  As per family, patient had been well
+in USOH until beginning of [**Month (only) **] when she developed flu-like
+symptoms.  Myalgias continued for several days followed by
+development of n/v/diarrhea on [**12-29**].  History was
+characterized by almost daily diarrhea (watery, non-bloody) and
+vomiting after most meals (occurring 30min to 1hr, non-bloody).
+Only able to take small amounts of food/water.  Denies
+fevers/chills/rigors/abd pain.  Family describes that patient
+increasingly fatigued and tired.  Too weak and tired to present
+to PCP [**Name Initial (PRE) 3011**] -> came into ED by family.
+.
+In ED, initially triaged w/ bp 148/86, on re-check in triage
+found to be hypotensive 70/20 w/ HR 39.  Treated for symptomatic
+bradycardia [**1-24**] BB o/d -> rec'd 1amp cacl, 0.5mg atropine, [**12-24**]
+amp d5 (bs was 73), then 1 amp sodium bicarb and glucagon.
+Again rec'd atropine, cacl, and glucagon. Also 2L NS, CTX 1g x1.
+Uo in ED 700cc.
+.
+(PER FLOOR ADMITTING TEAM)
+Briefly, patient is a 74F CAD, DMII, CHF (EF 70%), COPD who was
+admitted to the MICU for bradycardia and hypotension. She had
+presented to the ED with several weeks of
+nausea/vomiting/diarrhea; she was found to be in acute renal
+failure with Cr 6.7, which was treated with IV fluid boluses;
+she was treated for symptomatic bradycardia with atropine,
+calcium gluconate, and glucagon. Bradycardia was thought to be
+[**1-24**] decreased clearance of nodal agents, and they were held,
+with improvement of bradycardia. Hypotension was attributed to
+dehydration, Cr improved with fluids.  Nausea/Vomiting was
+attributed to ARF, which improved with improved hydration, and
+patient was able to tolerate solid fluids evening before
+transfer to floor. On interview, patient reported she was
+feeling well and denied any complaints of difficulty breathing,
+abdominal pain, chest pain, or nausea/vomiting. Patient did
+report lethargy.
+
+Past Medical History:
+Congestive heart failure, (EF 70%)
+CAD
+Atrial fibrillation
+Hypertension
+Hyperlipidemia
+Nephrolithiasis
+COPD- mild
+Type II diabetes mellitus
+?Obstrucive sleep apnea
+
+Social History:
+lives with her cousin.  previously worked in human resourses for
+state of MA.  h/o tob use, quit 14yrs ago.  rare EtOH use.  no
+illicits
+
+Family History:
+NC
+
+Physical Exam:
+T 96.3  HR 66  BP 118/50  RR 20  98%4L
+Well appearing, obese, comfortable, lying in bed, NAD
+PERRL, anicteric, MMM, OP clear,
+No cervical/sm/sc LAD, JVP unappreciable, no thyromegaly.
+Regular S1,S2. No m/r/g (despite prior note)
+Poor air entry, CLA b/l
++BS, soft, NT, ND, no masses, no HSM
+1+ b/l LE edema.  Pulses by doppler b/l
+A&Ox3, CN II-XII
+
+Pertinent Results:
+[**2171-1-28**] 08:15PM URINE  HOURS-RANDOM CREAT-33 SODIUM-88
+POTASSIUM-10 CHLORIDE-79 URIC ACID-3.0 TOTAL CO2-<5
+[**2171-1-28**] 08:15PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.008
+[**2171-1-28**] 08:15PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-100 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-SM
+[**2171-1-28**] 08:15PM URINE  RBC-[**2-24**]* WBC-[**6-1**]* BACTERIA-FEW
+YEAST-NONE EPI-[**6-1**]
+[**2171-1-28**] 08:00PM   TYPE-ART PO2-340* PCO2-42 PH-7.31* TOTAL
+CO2-22 BASE XS--4 INTUBATED-NOT INTUBA
+[**2171-1-28**] 07:45PM   GLUCOSE-99 UREA N-91* CREAT-5.2*# SODIUM-128*
+POTASSIUM-4.8 CHLORIDE-96 TOTAL CO2-18* ANION GAP-19
+[**2171-1-28**] 07:45PM   CK(CPK)-47
+[**2171-1-28**] 07:45PM   ALT(SGPT)-19 AST(SGOT)-16 ALK PHOS-70
+AMYLASE-85 TOT BILI-0.2
+[**2171-1-28**] 07:45PM   LIPASE-55
+[**2171-1-28**] 07:45PM   CK-MB-2 cTropnT-<0.01
+[**2171-1-28**] 07:45PM   CALCIUM-8.9 PHOSPHATE-5.9*# MAGNESIUM-1.5*
+[**2171-1-28**] 07:45PM   WBC-11.0 RBC-3.52* HGB-11.1* HCT-32.0* MCV-91
+MCH-31.6 MCHC-34.8 RDW-15.4
+[**2171-1-28**] 07:45PM   WBC-11.0 RBC-3.52* HGB-11.1* HCT-32.0* MCV-91
+MCH-31.6 MCHC-34.8 RDW-15.4
+[**2171-1-28**] 07:45PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-NORMAL
+[**2171-1-28**] 06:56PM   COMMENTS-CONTAMINAT
+[**2171-1-28**] 06:42PM   WBC-11.3* RBC-4.24 HGB-13.5 HCT-39.8 MCV-94
+MCH-31.9 MCHC-34.0 RDW-15.6*
+[**2171-1-28**] 06:40PM   CK-MB-2 cTropnT-0.01
+.
+HEAD CT
+IMPRESSION: No intracranial hemorrhage.
+.
+PORTABLE CXR
+IMPRESSION: Similar mild cardiomegaly, but no acute
+cardiopulmonary process
+.
+PORTABLE ABDOMEN
+IMPRESSION: Somewhat prominent small bowel and large bowel gas
+pattern.
+.
+RENAL U/S
+IMPRESSION: Bilateral nephrolithiasis. The numerous calculi seen
+in the left kidney with obstruction of the left upper pole
+raises the suspicion of a staghorn calculus. This is confirmed
+on the prior CT scan from [**2170-8-23**].
+.
+ECHO
+The left atrium is markedly dilated. The right atrium is
+markedly dilated. No atrial septal defect is seen by 2D or color
+Doppler. Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is normal (LVEF 70%). No masses or thrombi are
+seen in the left ventricle. There is no ventricular septal
+defect. The right ventricular cavity is dilated. Right
+ventricular systolic function appears depressed. The aortic
+valve leaflets (3) are mildly thickened but aortic stenosis is
+not present. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. Mild (1+) mitral regurgitation is seen. [Due to
+acoustic shadowing, the severity of mitral regurgitation may be
+significantly UNDERestimated.] The tricuspid valve leaflets are
+mildly thickened. Severe [4+] tricuspid regurgitation is seen.
+There is moderate pulmonary artery systolic hypertension. There
+is no pericardial effusion.
+
+Brief Hospital Course:
+Patient is a 74 year-old female with CAD, DMII, CHF, AFib, and
+COPD who was initially admitted to the MICU for bradycardia,
+hypotension, and acute renal failure. The following issues were
+addressed during her hospital stay:
+.
+# HYPOTENSION/BRADYCARDIA
+In the MICU, hypotension/bradycardia was attributed to decreased
+clearance of nodal agents in setting of ARF (vs. accidental
+overdose on medications). Patient responded well to IV fluid
+boluses and withholding of anti-hypertensives (patient was on
+significant doses of Coreg and Cartia). Clinical suspicion for
+tamponade was low, and no pulsus on exam was noted; ECHO
+confirmed clinical suspicion. On transfer to the floor,
+hypotension was no longer an issue, and medications were
+cautiously added at lower dosages. Patient to follow-up with PCP
+and cardiologist for further titration of medications as
+tolerated.
+.
+# DIARRHEA/NAUSEA/VOMITING/ACUTE RENAL FAILURE
+Patient without history of renal insufficiency admitted with Cr
+of 6.7. Patient with long course of what appeared to be viral
+gastrointestinal illness precipitating dehydration and worsening
+renal function. No other source could be identified, stool
+assays were unremarkable. Renal U/S was with evidence of
+nephrolithiasis with focal hydronephrosis, but this was
+unchanged from a prior study. ARF was pre-renal in nature, and
+highly responsive to IV fluid hydration. Patient's Cr steadily
+improved to 0.9 on discharge. Patient was referred to Urology as
+an outpatient for further work-up of kidney stones. Patient's
+nausea/vomiting improved as renal function returned to baseline,
+and patient was tolerating PO meals x 48 hours at time of
+discharge.
+.
+# CHF
+Lasix was initially held in setting of hypotension. Clinical
+exam for the first several days remained without evidence of
+fluid overload. ECHO showed 4+ TR, patient highly pre-load
+dependent. Lasix and Spironolactone were added back as blood
+pressure improved. To follow-up with outpatient cardiologist.
+.
+# CAD
+Patient was chest-pain free on admission. Serial cardiac enzymes
+were negative for acute coronary syndrome, in investigating
+etiology for bradycardia and hypotension. ASA and Zocor were
+continued at outpatient dosages. Quinapril was held secondary to
+above reasons, and added back when tolerated.
+.
+# COPD
+Patient was maintained on Atrovent QID, and was without
+difficulty breathing or desaturation as inpatient.
+.
+# ATRIAL FIBRILLATION
+Patient's INR was supratherapeutic on admission. Coumadin was
+re-started once INR < 3.
+
+Medications on Admission:
+Glipizide 5mg daily
+Coreg 37.5mg [**Hospital1 **]
+Diltiazem (Cartia XT) 300mg QD
+Lasix 40mg [**Hospital1 **]
+Atrovent 3-4puffs QID
+Quinapril 5mg daily
+Coumadin 2.5mg qday
+Allopurinol
+Spironolactone 50mg QD
+Valium 5mg TID prn
+Zocor 20mg daily
+Folate
+Vit D
+Vit B12
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Simvastatin 40 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+3. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation QID (4 times a day).
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Glipizide 5 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).
+
+6. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*qs one month Tablet(s)* Refills:*2*
+7. Diltiazem HCl 120 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily).
+Disp:*qs one month Capsule, Sustained Release(s)* Refills:*2*
+8. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO once a day:
+as you were taking before.
+9. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+10. Aldactone 50 mg Tablet Sig: One (1) Tablet PO once a day.
+11. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day: per
+your previous dose.
+12. Atrovent 18 mcg/Actuation Aerosol Sig: One (1)  Inhalation
+four times a day: as before.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary
+1. Acute Renal Failure
+2. Hypotension/Bradycardia
+.
+Secondary
+1. CAD
+2. HTN
+3. COPD
+4. DMII
+
+
+Discharge Condition:
+feeling well, without oxygen requirement, tolerating PO, ARF
+resolved, no lightheadedness or dizziness
+
+
+Discharge Instructions:
+1. Please take all medications as prescribed. Note the lowered
+doses of carvedilol and diltiazem (these may be changed again
+once you see your physicians in follow up)
+2. Please make all follow-up appointments as below
+3. if you develop any chest pain, shortness of breath,
+lightheadedness, dizziness, loss of consciousness, urinary
+problems, or any other concerning signs/symptoms, please contact
+your PCP or report to the Emergency Department immediately
+4. You will be discharged with a holter monitor, which will
+monitor your heart rate closely and allow your doctors to
+increase your medications as necessary
+5. please have your INR checked on Tuesday, [**2-5**], when
+you see Dr. [**Last Name (STitle) **]
+
+Followup Instructions:
+You have follow-up scheduled with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 5768**]
+on Tuesday, [**2-5**] at 9:00 AM. Office address is [**Street Address(2) 17363**]. Please have him check an INR at that time and
+adjust your coumadin accordingly.
+.
+Please make an appointment to follow-up with your PCP [**Last Name (NamePattern4) **].
+[**Last Name (STitle) 12646**]. We have spoken to him about your hospital course and
+he will see you once he returns from vacation. [**Telephone/Fax (1) 4615**].
+Your holter monitor report (heart monitor) report will be sent
+to him.
+.
+Please make an appointment to see the urology clinic regarding
+your kidney stones in the next 1-2 weeks. The number for the
+urology clinic at [**Hospital3 **] is [**Telephone/Fax (1) 164**].
+
+
+
+Completed by:[**2171-2-3**]

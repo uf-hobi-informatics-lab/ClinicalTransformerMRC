@@ -1,0 +1,348 @@
+Admission Date:  [**2170-10-5**]              Discharge Date:   [**2170-10-16**]
+
+Date of Birth:  [**2101-4-18**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 8790**]
+Chief Complaint:
+Abdominal pain
+
+Major Surgical or Invasive Procedure:
+Bone Marrow Biopsy
+Intra-abdominal and axillary Lymphnode Biopsies
+
+
+History of Present Illness:
+69 year old [**Location 12189**] only male with a history of TB
+on INH, Rifampin, Pyrazinamide, AIDS CD4 156 who is followed by
+the [**Hospital **] clinic and was recently evaluated on [**2170-10-4**] with
+epigastric abdominal pain and found to have lymphoma on CT. The
+abdominal pain is diffuse and achy. He states that he's had
+abdominal pain x 1 month and recently returned from [**Country 3587**]
+where he was evaluated and treated with a "medication" that
+improved his symptoms there. However, he states that it has
+worsened over the past few days which caused him to seek
+attention in the [**Hospital **] clinic. He denies nausea, vomiting, or
+diarrhea. He has mild constipation. As a result, a CT torso was
+obtained on [**2170-10-5**] and the preliminary read showed multiple
+masses suggestive of lymphoma. Per OMR records, the patient has
+a long-standing history of abdominal pain since [**2164**] but imaging
+was obtained only recently.
+
+Based on the results of his CT scan, the patient was referred to
+the ED for further evaluation. There, his LDH was 1095, uric
+acid 22.6, AST 66, ALT 48, and sodium 129. He was subsequently
+admitted to OB on TB precautions for further workup of his
+grossly abnormal CT scan.
+
+Past Medical History:
+1. HIV: Diagnosed in [**2158**]. He did not disclose to his PCP at
+[**Hospital1 18**], however, his HIV status until [**2165**] at which time he began
+to see ID for treatment consideration. ARV-naive. No OIs
+2. Pulmonary tuberculosis. Diagnosed in [**Country 3587**]. Started on
+INH, Rifampin, Pyrazinamide and likely Streptomycin on [**7-22**],
+
+[**2170**]. Streptomycin was stopped a few weeks later. [**9-20**] Rifampin
+
+to Rifabutin in anticipation of starting antiretroviral therapy.
+
+3. Transmetacarpal amputation ([**2137**] after a machine accident in
+
+the war in [**Country 37027**])
+4. Bilateral inguinal hernias
+5. Herpes Zoster
+
+Social History:
+Has 17 children. He has a wife in [**Country 3587**]. He denies any
+history of IV drug use. He was born in [**Country 37027**] and lived there
+for 42 years, moved to [**Country 3587**], and has traveled back and
+forth yearly to the US since [**2141**]. He denies current tobacco use
+ although he has a 108-pack-year smoking history and the brother
+whom he lives with smokes approximately four packs of cigarettes
+a day. He stopped smoking in [**2135**] after a doctor advised him
+against it. He also said he used to drink heavily although has
+not used alcohol in years. He currently lives with his brother
+[**Name (NI) 43334**] [**Telephone/Fax (1) 43335**] who also only speaks [**Location 7972**].
+
+
+Family History:
+Significant for coronary artery disease although
+no reports of premature coronary artery disease
+
+Physical Exam:
+VS: HR 81, BP 117/66, O2sat 91% on NRB
+GEN: Elderly, ill- appearing in no respiratory distress
+HEENT: EOMI, PERRL, anicteric
+NECK: Supple,
+CHEST: Decreased BS @ L base
+CV: RRR, S1S2, no m/r/g
+ABD: Soft/NT/ND, +BS
+EXT: warm, no c/c/e
+SKIN: No rashes
+
+
+Pertinent Results:
+[**2170-10-4**] 12:20PM
+URIC ACID-21.5*
+LIPASE-33
+ALT(SGPT)-59* AST(SGOT)-83* LD(LDH)-1135*
+ALK PHOS-125* AMYLASE-78 TOT BILI-0.2
+.
+[**2170-10-5**] 05:20PM
+URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG
+BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG
+COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.013
+[**2170-10-5**] 05:20PM
+PT-13.4 PTT-29.1 INR(PT)-1.2*
+PLT SMR-NORMAL PLT COUNT-343
+HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL
+NEUTS-37* BANDS-1 LYMPHS-27 MONOS-3 EOS-32* BASOS-0
+ATYPS-0 METAS-0 MYELOS-0
+WBC-6.2 RBC-3.02* HGB-9.3* HCT-27.9* MCV-92 MCH-30.7 MCHC-33.3
+RDW-15.3
+ALBUMIN-3.5 CALCIUM-8.9 PHOSPHATE-4.6* MAGNESIUM-1.8 URIC
+ACID-22.6*
+LIPASE-33
+ALT(SGPT)-48* AST(SGOT)-66* LD(LDH)-1095* ALK PHOS-123* TOT
+BILI-0.2
+GLUCOSE-114* UREA N-16 CREAT-1.2 SODIUM-129* POTASSIUM-4.1
+CHLORIDE-97 TOTAL CO2-23 ANION GAP-13
+.
+CT ABDOMEN W/CONTRAST Study Date of [**2170-10-4**] 3:00 PM
+IMPRESSION:
+1. Bilateral diffuse tree-in-[**Male First Name (un) 239**] densities which are compatible
+with the
+patient's diagnosis of TB. No cavitary lesion is noted.
+2. Anterior mediastinal, mesenteric and pelvic nodal masses
+compatible with the diagnosis of high- grade lymphoma.
+3. Multiple small hypodense liver lesions and kidney lesions are
+too small to characterize.
+.
+SPECIMEN SUBMITTED: BONE MARROW BIOPSY
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+[**2170-10-6**] [**2170-10-7**] [**2170-10-19**] DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 3157**]/vf
+Previous biopsies:    [**-8/3863**]  LEFT AXILLARY LYMPH NODE.
+  [**-8/3862**]  immunophenotyping; BM
+ ==============    DIAGNOSIS     ============
+SPECIMEN: BONE MARROW ASPIRATE AND CORE BIOPSY:
+DIAGNOSIS:
+MARKEDLY HYPERCELLULAR BONE MARROW WITH PROMINENT EOSINOPHILS
+AND SCATTERED LYMPHOHISTIOCYTIC AGGREGATES. SEE NOTE.
+Note: There is no morphological evidence of lymphoma. Special
+stains for acid fast (AFB) and fungal (PAS, GMS) organisms are
+negative. Immunostains for CMV, and HSV [**1-3**] are negative as
+well.
+Pathology Examination
+.
+Name Birthdate    Age     Sex Pathology #     [**Hospital1 18**] [**Known lastname 43336**],[**Known firstname **] [**Last Name (NamePattern1) 43337**]       [**2101-4-18**]    69 Male      [**-8/3899**]
+[**Numeric Identifier 43338**]
+SPECIMEN SUBMITTED: Immunophenotyping, Lymph Node
+Procedure date     Tissue received     Report Date    Diagnosed
+by
+[**2170-10-9**] [**2170-10-9**] [**2170-10-19**] DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 3157**]/tk??????
+INTERPRETATION
+The immunophenotypic findings in conjunction with histological
+and immunohistochemical studies are consistent with a diagnosis
+of plasmablastic lymphoma (HHV8 negative subtype) .
+.
+CHEST (PORTABLE AP) Study Date of [**2170-10-9**] 2:21 PM
+FINDINGS: In comparison with the study of [**10-8**], there has been
+placement of an endotracheal tube with its tip approximately 3
+cm above the carina. Left subclavian catheter extends to the
+mid-to-lower portion of the SVC. Patchy areas of opacification
+again seen, especially in the right upper zone.  Haziness of the
+left and also probably right bases could reflect free pleural
+fluid.
+.
+Portable TTE (Complete) Done [**2170-10-10**] at 10:46:11 AM
+The left atrium is mildly dilated. The estimated right atrial
+pressure is 0-5 mmHg. Left ventricular wall thickness, cavity
+size and regional/global systolic function are normal (LVEF
+60-70%). Tissue Doppler imaging suggests a normal left
+ventricular filling pressure (PCWP<12mmHg). There is no
+ventricular septal defect. The right ventricular cavity is
+dilated with normal free wall contractility. The aortic valve
+leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic regurgitation. The mitral valve leaflets
+are structurally normal. There is no mitral valve prolapse. Mild
+(1+) mitral regurgitation is seen. There is moderate pulmonary
+artery systolic hypertension. There is a trivial/physiologic
+pericardial effusion. There are no echocardiographic signs of
+tamponade.
+.
+[**2170-10-16**] 12:00AM BLOOD
+WBC-3.3* RBC-2.52* Hgb-8.3* Hct-23.5* MCV-93 MCH-33.0*
+MCHC-35.4* RDW-17.7* Plt Ct-336
+PT-12.7 PTT-39.6* INR(PT)-1.1
+Glucose-151* UreaN-26* Creat-0.8 Na-131* K-4.0 Cl-101 HCO3-23
+AnGap-11
+ALT-74* AST-90* LD(LDH)-1801* AlkPhos-102 TotBili-0.4
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 69 year old [**Location 7972**] man with active
+tuberculosis (on INH, rifampin, pyrazinamide), HIV (last CD4
+count 156 on [**2170-9-20**]) who was recently evaluated for epigastric
+abdominal pain and was found to have a CT demonstrating
+mediastinal, mesenteric, and pelvic nodal masses compatible with
+high-grade lymphoma.
+.
+# Abdominal Pain/Lymphadenopathy:  Pt presented with diffuse and
+achy abdominal pain, which he had for the preceding month. He
+went to the infectious disease clinic, where he had been
+followed for his tuberculosis and HIV. A CT torso was performed
+on [**2170-10-5**], with preliminary read showing multiple masses
+suggestive of lymphoma. He was referred to the ED for
+evaluation; his LDH was 1095 and uric acid 22.6. He was admitted
+to the [**Hospital Ward Name 516**] hospitalists and rapidly transferred to the
+BMT service for further management.  A bone marrow biopsy was
+obtained surgery was emergently consulted for to obtain tissue.
+The patiet underwent a mini ex-lap and axillary lymphnode
+disection for biopsy.  Both bone marrow and abdominal lymphnode
+biopsies demonstrated plasmablastic lymphoma.  The patient was
+started on [**Hospital1 **] and tolerated the treatment well.  He was
+discharged with instructions to follow-up with the hematology
+clinic.
+.
+# Tumor lysis syndrome/methemoglobinemia: The patient was
+admitted with concern- Check tumor lysis.  The renal team was
+consulted on [**10-8**] for spontaneous tumor lysis syndrome, with
+specific question of prophylactic hemodialysis, and recommended
+rasburicase to decrease serum uric acid. Allopurinol was
+continued.
+On [**10-8**] in the evening, Mr. [**Known lastname **] [**Last Name (Titles) 7600**] for hypoxia with
+desaturations to the 80's. He was given Lasix 20mg x 2 with
+minimal improvement and was transferred to the ICU.  A
+discrepancy was noted between his oxygen saturations and PaO2 on
+ABG. Methemoglobin level was noted to be elevated at 10%.
+Rasburicase was held given its known association with
+methemoglobinemia.
+.
+# Tuberculosis/Eosinophilia/HIV: Infectious disease was
+consulted for help with management of tuberculosis, HIV, and
+possible parasitic infection given elevated eosinophilia; they
+recommended continuing treatment for tuberculosis and treating
+for possible parasitic infection with ivermectin x 2.
+Charcot-[**Location (un) 5244**] crystals were seen in the stool, which was
+thought to be secondary to successful treatment of intestinal
+parasites.  The patient was continued on TB therapy with INH,
+PZA, rifabutin.  Sputum from [**9-27**] had been positive for minimal
+AFB, concerning for either profound immunosuppression,
+noncompliance, and/or MDR TB.  MTD testing was negative for M.
+Tuberculosis on [**10-3**].  The patient was continued on TB therapy.
+Induced sputum samples from [**10-10**] and [**10-12**] were negative for AFB
+on gram stain.  Repeat cultures were obtained on [**10-15**] and were
+pending at the time of discharge.
+Regarding the patient's HIV, the patient was ARV naive.  His
+last CD 4 156 with VL 489,000.  Due to the need for
+chemotherapy, it was felt that ARV therapy should be postponed.
+Upon discharge, the patient was scheduled for follow-up with the
+ID. clinic.
+.
+# Thrush: Several days following his inital chemotherapy
+treatment, the patient was noted to have the [**Last Name (un) **] appearance of
+oral thrush.   He was started on nystatin with instructions to
+complete an outpatient treatment course.
+.
+# Inguinal Hernia:  Pt complained of intermittant abdominal pain
+when standing or coughing.  On further exam, the patient was
+note to have bilateral inguninal herias.  Surgery was consulted
+for concer for infarction.  However, bith inguinal hernias were
+reduced without difficulty.  No further interventions were
+taken.
+
+
+Medications on Admission:
+Isoniazid 300 mg daily
+Pyrazinamide 1000 mg daily
+Rifabutin 300 mg daily
+Pyridoxine 100 mg daily
+Bactrim SS daily
+Ketoconazole cream
+
+Discharge Medications:
+1. Isoniazid 300 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Pyrazinamide 500 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+3. Rifabutin 150 mg Capsule Sig: Two (2) Capsule PO DAILY
+(Daily).
+4. Pyridoxine 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO TID
+(3 times a day) for 7 days.
+Disp:*105 ML(s)* Refills:*0*
+7. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] VNA
+
+Discharge Diagnosis:
+Plasmablastic Lymphoma
+Tuberculosis
+HIV
+
+
+Discharge Condition:
+The patient was hemodynamically stable, afebrile and without
+pain at the time of discharge.
+
+
+Discharge Instructions:
+You were admitted for evaluation of abdominal pain.  You
+underwent a bone marrow biopsy and biopsy of lymphnodes which
+showed that you had a type of cancer known as lymphoma.  You
+underwent chemotherapy treatment for this cancer and will
+require close follow-up for additional treatment.  You have an
+appointment scheduled in the [**Hospital **] clinic tomorrow, [**10-17**].
+You will be contact[**Name (NI) **] regarding the timing of this appointment.
+.
+You are scheduled for a follow-up appointment with Dr. [**Last Name (STitle) **]
+in the Infectious disease clinic on Thursday.  You should
+continue to wear a mask when in public and at any return visit
+to the hospital.
+.
+We have made several changes to your medications during this
+hospitalization
+# Bactrim- (antibiotic) we have changed the dose of this
+medication from single strength to double strength.  When you
+return home, please make sure you are taking the new medication.
+# Folic Acid- (vitamin).  Because of your chemotherapy and
+anemia, we have started you on folic acid.  Please take this
+medication as directed.
+# Nystatin Solution- (antifungal). This is to treat a yeast
+infection in your mouth.  You will need to take this medication
+for at least 7 days or as instructed by your doctor.
+.
+Please continue to take all previously prescribed medications.
+Please take all medications as directed.
+.
+You should call your doctor or seek immediate medical attention
+if you develop fevers, chills, nausea, vomiting, diarrhea,
+abdominal pain, chest pain, shortness of breath or any other
+symptom of concern
+
+Followup Instructions:
+Provider: [**Last Name (NamePattern4) **]. [**First Name (STitle) **] [**Doctor Last Name 9406**]
+Phone:[**Telephone/Fax (1) 457**]
+Date/Time:[**2170-10-18**] 9:30
+.
+[**Hospital **] clinic/Dr. [**Last Name (STitle) **]: [**2170-10-17**]
+([**Telephone/Fax (1) 11576**]
+
+
+
+Completed by:[**2170-10-22**]

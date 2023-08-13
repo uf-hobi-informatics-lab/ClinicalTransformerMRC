@@ -1,0 +1,86 @@
+T1	Drug 2422 2431	Lopressor
+T2	Strength 2432 2437	25 mg
+T3	Frequency 2441 2444	bid
+T4	Route 2438 2440	po
+T5	Drug 4039 4047	Dilantin
+T6	Drug 2504 2510	Ambien
+T7	Drug 4106 4112	Zantac
+T9	Drug 2446 2454	Dilantin
+T10	Drug 4114 4122	Benadryl
+T11	Drug 5081 5088	Lipitor
+T12	Drug 4979 4987	Dilantin
+T13	Drug 2525 2531	Iodine
+T14	Drug 4894 4901	Lipitor
+T15	Drug 4127 4134	Synalar
+T16	Drug 5216 5222	Zantac
+T17	Strength 5223 5229	150 mg
+T18	Drug 3940 3948	Tegretol
+T19	Drug 2470 2478	Prilosec
+T20	Strength 2455 2461	200 mg
+T21	Frequency 2465 2468	tid
+T22	Route 2485 2487	po
+T23	Drug 940 948	Dilantin
+T24	Drug 3631 3639	Tegretol
+T25	Drug 2099 2107	Dilantin
+T26	Drug 2142 2150	Tegretol
+T27	Drug 5238 5245	Synalar
+T28	Form 5264 5269	cream
+T29	Drug 5116 5124	Dilantin
+T30	Drug 2495 2502	Lipitor
+T31	Reason 979 987	seizures
+T32	Route 2462 2464	po
+T33	Strength 2479 2484	40 mg
+T34	Frequency 2488 2493	q day
+T36	Drug 4098 4104	fluids
+T37	ADE 4939 4953	increased LFTs
+T38	Route 5230 5232	po
+T39	Frequency 5233 5236	bid
+T40	Form 5246 5254	ointment
+T41	Drug 5256 5263	Eucerin
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Frequency-Drug Arg1:T3 Arg2:T1
+R3	Route-Drug Arg1:T4 Arg2:T1
+R5	Strength-Drug Arg1:T17 Arg2:T16
+R6	Strength-Drug Arg1:T20 Arg2:T9
+R7	Frequency-Drug Arg1:T21 Arg2:T9
+R8	Route-Drug Arg1:T22 Arg2:T19
+R9	Form-Drug Arg1:T28 Arg2:T41
+R10	Reason-Drug Arg1:T31 Arg2:T23
+R11	Route-Drug Arg1:T32 Arg2:T9
+R12	Frequency-Drug Arg1:T34 Arg2:T19
+R13	Strength-Drug Arg1:T33 Arg2:T19
+R15	ADE-Drug Arg1:T37 Arg2:T12
+R16	Form-Drug Arg1:T40 Arg2:T27
+R17	Frequency-Drug Arg1:T39 Arg2:T16
+R18	Route-Drug Arg1:T38 Arg2:T16
+T42	Drug 5419 5427	Atenolol
+T43	Form 4135 4140	cream
+T44	Drug 4604 4630	anti-epileptic medications
+T45	Drug 4726 4750	anti-seizure medications
+T46	Strength 5202 5207	60 mg
+T47	Route 5208 5210	po
+T48	Frequency 5211 5214	bid
+T49	ADE 1837 1848;1849 1863	erythema on patient's face
+T50	ADE 1966 1982	rash on his arms
+T51	ADE 4019 4035	hypersensitivity
+T52	ADE 3668 3672	rash
+T53	ADE 4918 4927;4928 4932	increased LFTs
+T54	ADE 5125 5150	hypersensitivity reaction
+T55	ADE 3699 3711	lip swelling
+T56	ADE 3716 3731	tongue swelling
+R19	ADE-Drug Arg1:T55 Arg2:T24	
+R21	ADE-Drug Arg1:T50 Arg2:T25	
+R22	ADE-Drug Arg1:T49 Arg2:T25	
+R23	ADE-Drug Arg1:T56 Arg2:T24	
+R14	ADE-Drug Arg1:T52 Arg2:T24	
+R20	ADE-Drug Arg1:T51 Arg2:T5	
+R24	Form-Drug Arg1:T43 Arg2:T15	
+R25	ADE-Drug Arg1:T53 Arg2:T12	
+R26	ADE-Drug Arg1:T54 Arg2:T29	
+T35	Drug 5177 5201	[**Doctor First Name **]
+#1	AnnotatorNotes T35	likely a med that got mistook for a name
+R27	Strength-Drug Arg1:T46 Arg2:T35	
+R28	Route-Drug Arg1:T47 Arg2:T35	
+R29	Frequency-Drug Arg1:T48 Arg2:T35	
+T8	Route 4095 4097	IV
+R4	Route-Drug Arg1:T8 Arg2:T36	

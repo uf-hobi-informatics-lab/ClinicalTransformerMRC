@@ -1,0 +1,367 @@
+T1	Drug 10002 10021	metoprolol tartrate
+T2	Strength 10022 10027	50 mg
+R1	Strength-Drug Arg1:T2 Arg2:T1
+T3	Form 10028 10034	Tablet
+R2	Form-Drug Arg1:T3 Arg2:T1
+T4	Dosage 10040 10047	One (1)
+R3	Dosage-Drug Arg1:T4 Arg2:T1
+T5	Form 10048 10054	Tablet
+R4	Form-Drug Arg1:T5 Arg2:T1
+T6	Route 10055 10057	PO
+R5	Route-Drug Arg1:T6 Arg2:T1
+T7	Frequency 10058 10061	BID
+R6	Frequency-Drug Arg1:T7 Arg2:T1
+T8	Drug 10083 10089	EpiPen
+T9	Strength 10090 10103	0.3 mg/0.3 mL
+R7	Strength-Drug Arg1:T9 Arg2:T8
+T10	Form 10104 10116	Pen Injector
+R8	Form-Drug Arg1:T10 Arg2:T8
+T11	Dosage 10122 10129	One (1)
+R9	Dosage-Drug Arg1:T11 Arg2:T8
+T12	Route 10130 10143	Intramuscular
+R10	Route-Drug Arg1:T12 Arg2:T8
+T13	Frequency 10144 10157	PRN as needed
+R11	Frequency-Drug Arg1:T13 Arg2:T8
+T14	Reason 10162 10173	anaphylaxis
+R12	Reason-Drug Arg1:T14 Arg2:T8
+T15	ADE 10600 10611;10612 10632	swelling of your tongue and neck
+R13	ADE-Drug Arg1:T15 Arg2:T16
+T16	Drug 10748 10758	Lisinopril
+T17	Drug 10812 10822	lisinopril
+T18	Drug 1090 1100	lisinopril
+T19	Drug 10920 10928	steroids
+T20	Drug 10994 11004	LISINOPRIL
+T21	Reason 1105 1117	hypertension
+R14	Reason-Drug Arg1:T21 Arg2:T18
+T22	Drug 11166 11176	Prednisone
+T23	Strength 11177 11181	60mg
+R15	Strength-Drug Arg1:T23 Arg2:T22
+T24	Frequency 11182 11187	daily
+R16	Frequency-Drug Arg1:T24 Arg2:T22
+T25	Duration 11188 11202	for 1 more day
+R17	Duration-Drug Arg1:T25 Arg2:T22
+T26	Drug 11220 11230	amlodipine
+T27	Strength 11231 11234	5mg
+R18	Strength-Drug Arg1:T27 Arg2:T26
+T28	Frequency 11235 11240	daily
+R19	Frequency-Drug Arg1:T28 Arg2:T26
+T29	Reason 11250 11264	blood pressure
+R20	Reason-Drug Arg1:T29 Arg2:T26
+T30	Drug 11282 11290	benadryl
+T31	Frequency 11291 11300	as needed
+R21	Frequency-Drug Arg1:T31 Arg2:T30
+T32	Reason 11334 11346	lip swelling
+R22	Reason-Drug Arg1:T32 Arg2:T30
+T33	Drug 1171 1182	allopurinol
+T34	Drug 1611 1619	benadryl
+T35	Drug 1621 1631	famotidine
+T36	Drug 163 179	Morphine Sulfate
+T38	Drug 1636 1654	methylprednisolone
+T39	Drug 1663 1674	epinephrine
+T40	Route 1679 1688	injection
+R25	Route-Drug Arg1:T40 Arg2:T39
+T41	Drug 182 189	Codeine
+T42	Drug 212 222	Vancomycin
+T43	Drug 225 230	Zosyn
+T44	Drug 233 243	lisinopril
+T45	Drug 3348 3358	decitabine
+T46	Drug 3590 3595	chemo
+T47	Duration 3636 3654	28 days to 42 days
+R26	Duration-Drug Arg1:T47 Arg2:T46
+T48	Drug 3797 3807	decitabine
+T49	Drug 3987 3993	RAD001
+T50	Strength 3994 3998	5 mg
+R27	Strength-Drug Arg1:T50 Arg2:T49
+T51	Route 3999 4001	po
+R28	Route-Drug Arg1:T51 Arg2:T49
+T52	Drug 4025 4031	PKC412
+T53	Strength 4032 4037	50 mg
+R29	Strength-Drug Arg1:T53 Arg2:T52
+T54	Route 4038 4040	po
+R30	Route-Drug Arg1:T54 Arg2:T52
+T55	Frequency 4041 4044	bid
+R31	Frequency-Drug Arg1:T55 Arg2:T52
+T56	Drug 4269 4279	daptomycin
+T57	Duration 4280 4290	for 10 day
+R32	Duration-Drug Arg1:T57 Arg2:T56
+T58	ADE 557 574	neutropenic fever
+R33	ADE-Drug Arg1:T58 Arg2:T59
+T59	Drug 594 606	chemotherapy
+T60	ADE 7027 7044	neutropenic fever
+R34	ADE-Drug Arg1:T60 Arg2:T61
+T61	Drug 7064 7076	chemotherapy
+T62	ADE 7203 7236	tongue and anterior neck swelling
+R35	ADE-Drug Arg1:T62 Arg2:T63
+T63	Drug 7255 7265	lisinopril
+T64	ADE 7278 7306	Tongue/neck swelling/Allergy
+R36	ADE-Drug Arg1:T64 Arg2:T67
+T65	Drug 7310 7314	ACEI
+T66	Drug 7349 7353	ACEI
+T67	Drug 7362 7372	lisinopril
+T69	Drug 7463 7471	steroids
+T70	Drug 7473 7481	benadryl
+T71	Drug 7486 7496	famotidine
+T72	ADE 754 769	aphthous ulcers
+R40	ADE-Drug Arg1:T72 Arg2:T83
+T73	Route 7549 7551	PO
+R41	Route-Drug Arg1:T73 Arg2:T74
+T74	Drug 7563 7573	prednisone
+T75	Strength 7574 7579	60 mg
+R42	Strength-Drug Arg1:T75 Arg2:T74
+T76	Duration 7595 7601	3 days
+R43	Duration-Drug Arg1:T76 Arg2:T74
+T77	Drug 7713 7717	ACEI
+T78	Drug 7721 7731	lisinopril
+T79	Drug 7765 7769	ACEI
+T80	Reason 8043 8055	Hypertension
+R44	Reason-Drug Arg1:T80 Arg2:T81
+R45	Reason-Drug Arg1:T80 Arg2:T82
+R46	Reason-Drug Arg1:T80 Arg2:T85
+T81	Drug 8081 8091	lisinopril
+T82	Drug 8115 8125	metoprolol
+T83	Drug 813 825	chemotherapy
+T84	Strength 8143 8148	50 mg
+R47	Strength-Drug Arg1:T84 Arg2:T82
+T85	Drug 8170 8180	amlodipine
+T86	Strength 8181 8184	5mg
+R48	Strength-Drug Arg1:T86 Arg2:T85
+T87	Frequency 8185 8190	daily
+R49	Frequency-Drug Arg1:T87 Arg2:T85
+T88	Reason 8207 8224	better control BP
+R50	Reason-Drug Arg1:T88 Arg2:T85
+T89	Reason 8255 8285	Myelofibrosis with panmyelosis
+R51	Reason-Drug Arg1:T89 Arg2:T90
+R52	Reason-Drug Arg1:T89 Arg2:T91
+R53	Reason-Drug Arg1:T89 Arg2:T92
+R54	Reason-Drug Arg1:T89 Arg2:T94
+T90	Drug 8312 8324	chemotherapy
+T91	Drug 8446 8458	levofloxacin
+T92	Drug 8463 8475	valacyclovir
+T93	Drug 847 855	glycerin
+T94	Drug 8497 8508	allopurinol
+T95	Dosage 8521 8522	1
+R55	Dosage-Drug Arg1:T95 Arg2:T97
+T96	Form 8523 8527	unit
+R56	Form-Drug Arg1:T96 Arg2:T97
+T97	Drug 8528 8537	platelets
+T98	Dosage 8542 8543	1
+R57	Dosage-Drug Arg1:T98 Arg2:T100
+T99	Form 8544 8548	unit
+R58	Form-Drug Arg1:T99 Arg2:T100
+T100	Drug 8552 8556	PRBC
+T101	Form 864 873	mouthwash
+R59	Form-Drug Arg1:T101 Arg2:T93
+T102	Drug 8729 8739	Lisinopril
+T103	Strength 8740 8745	10 mg
+R60	Strength-Drug Arg1:T103 Arg2:T102
+T104	Route 8746 8748	PO
+R61	Route-Drug Arg1:T104 Arg2:T102
+T105	Frequency 8749 8754	daily
+R62	Frequency-Drug Arg1:T105 Arg2:T102
+T106	Drug 8755 8774	Metoprolol tartrate
+T107	Strength 8775 8780	50 mg
+R63	Strength-Drug Arg1:T107 Arg2:T106
+T108	Route 8781 8783	PO
+R64	Route-Drug Arg1:T108 Arg2:T106
+T109	Frequency 8784 8787	BID
+R65	Frequency-Drug Arg1:T109 Arg2:T106
+T110	Drug 8788 8799	Allopurinol
+T111	Strength 8800 8806	200 mg
+R66	Strength-Drug Arg1:T111 Arg2:T110
+T112	Route 8807 8809	PO
+R67	Route-Drug Arg1:T112 Arg2:T110
+T113	Frequency 8810 8815	daily
+R68	Frequency-Drug Arg1:T113 Arg2:T110
+T114	Drug 8816 8826	Omeprazole
+T115	Strength 8827 8832	20 mg
+R69	Strength-Drug Arg1:T115 Arg2:T114
+T116	Route 8833 8835	PO
+R70	Route-Drug Arg1:T116 Arg2:T114
+T117	Frequency 8836 8839	BID
+R71	Frequency-Drug Arg1:T117 Arg2:T114
+T118	Drug 8840 8852	Valacyclovir
+T119	Strength 8853 8859	500 mg
+R72	Strength-Drug Arg1:T119 Arg2:T118
+T120	Route 8860 8862	PO
+R73	Route-Drug Arg1:T120 Arg2:T118
+T121	Frequency 8863 8868	daily
+R74	Frequency-Drug Arg1:T121 Arg2:T118
+T122	Drug 8869 8885	Prochlorperazine
+T123	Strength 8886 8890	5 mg
+R75	Strength-Drug Arg1:T123 Arg2:T122
+T124	Route 8891 8893	PO
+R76	Route-Drug Arg1:T124 Arg2:T122
+T125	Frequency 8894 8901	Q6h PRN
+R77	Frequency-Drug Arg1:T125 Arg2:T122
+T126	Reason 8902 8908	nausea
+R78	Reason-Drug Arg1:T126 Arg2:T122
+T127	Drug 8909 8921	Levofloxacin
+T128	Strength 8922 8928	500 mg
+R79	Strength-Drug Arg1:T128 Arg2:T127
+T129	Route 8929 8931	PO
+R80	Route-Drug Arg1:T129 Arg2:T127
+T130	Frequency 8932 8937	daily
+R81	Frequency-Drug Arg1:T130 Arg2:T127
+T131	Drug 8938 8947	Lorazepam
+T132	Strength 8948 8954	0.5 mg
+R82	Strength-Drug Arg1:T132 Arg2:T131
+T133	Route 8955 8957	PO
+R83	Route-Drug Arg1:T133 Arg2:T131
+T134	Frequency 8958 8965	Q8h PRN
+R84	Frequency-Drug Arg1:T134 Arg2:T131
+T135	Reason 8966 8972	nausea
+R85	Reason-Drug Arg1:T135 Arg2:T131
+T136	Drug 8982 8995	Acetaminophen
+T137	Strength 8996 9006	325-650 mg
+R86	Strength-Drug Arg1:T137 Arg2:T136
+T138	Route 9007 9009	PO
+R87	Route-Drug Arg1:T138 Arg2:T136
+T139	Frequency 9010 9013	PRN
+R88	Frequency-Drug Arg1:T139 Arg2:T136
+T140	Reason 9014 9022	headache
+R89	Reason-Drug Arg1:T140 Arg2:T136
+T141	Drug 9051 9061	amlodipine
+T142	Strength 9062 9066	5 mg
+R90	Strength-Drug Arg1:T142 Arg2:T141
+T143	Form 9067 9073	Tablet
+R91	Form-Drug Arg1:T143 Arg2:T141
+T144	Dosage 9079 9086	One (1)
+R92	Dosage-Drug Arg1:T144 Arg2:T141
+T145	ADE 908 930	anterior neck swelling
+R93	ADE-Drug Arg1:T145 Arg2:T93
+T146	Form 9087 9093	Tablet
+R94	Form-Drug Arg1:T146 Arg2:T141
+T147	Route 9094 9096	PO
+R95	Route-Drug Arg1:T147 Arg2:T141
+T148	Frequency 9097 9102	DAILY
+R96	Frequency-Drug Arg1:T148 Arg2:T141
+T149	Drug 9147 9158	allopurinol
+T150	Strength 9159 9165	100 mg
+R97	Strength-Drug Arg1:T150 Arg2:T149
+T151	Form 9166 9172	Tablet
+R98	Form-Drug Arg1:T151 Arg2:T149
+T152	Dosage 9178 9185	Two (2)
+R99	Dosage-Drug Arg1:T152 Arg2:T149
+T153	Form 9186 9192	Tablet
+R100	Form-Drug Arg1:T153 Arg2:T149
+T154	Route 9193 9195	PO
+R101	Route-Drug Arg1:T154 Arg2:T149
+T155	Frequency 9196 9201	DAILY
+R102	Frequency-Drug Arg1:T155 Arg2:T149
+T156	Drug 9214 9224	omeprazole
+T157	Strength 9225 9230	20 mg
+R103	Strength-Drug Arg1:T157 Arg2:T156
+T158	Form 9231 9261	Capsule, Delayed Release(E.C.)
+R104	Form-Drug Arg1:T158 Arg2:T156
+T159	Dosage 9267 9274	One (1)
+R105	Dosage-Drug Arg1:T159 Arg2:T156
+T160	Form 9275 9305	Capsule, Delayed Release(E.C.)
+R106	Form-Drug Arg1:T160 Arg2:T156
+T161	Route 9306 9308	PO
+R107	Route-Drug Arg1:T161 Arg2:T156
+T162	Frequency 9309 9312	BID
+R108	Frequency-Drug Arg1:T162 Arg2:T156
+T163	Drug 9333 9345	valacyclovir
+T164	Strength 9346 9352	500 mg
+R109	Strength-Drug Arg1:T164 Arg2:T163
+T165	Form 9353 9359	Tablet
+R110	Form-Drug Arg1:T165 Arg2:T163
+T166	Dosage 9365 9372	One (1)
+R111	Dosage-Drug Arg1:T166 Arg2:T163
+T167	Form 9373 9379	Tablet
+R112	Form-Drug Arg1:T167 Arg2:T163
+T168	Route 9380 9382	PO
+R113	Route-Drug Arg1:T168 Arg2:T163
+T169	Frequency 9383 9388	DAILY
+R114	Frequency-Drug Arg1:T169 Arg2:T163
+T170	Drug 9401 9411	prednisone
+T171	Strength 9412 9417	20 mg
+R115	Strength-Drug Arg1:T171 Arg2:T170
+T172	Form 9418 9424	Tablet
+R116	Form-Drug Arg1:T172 Arg2:T170
+T173	Dosage 9430 9439	Three (3)
+R117	Dosage-Drug Arg1:T173 Arg2:T170
+T174	Form 9440 9446	Tablet
+R118	Form-Drug Arg1:T174 Arg2:T170
+T175	Route 9447 9449	PO
+R119	Route-Drug Arg1:T175 Arg2:T170
+T176	Frequency 9450 9455	DAILY
+R120	Frequency-Drug Arg1:T176 Arg2:T170
+T177	Duration 9464 9474	for 1 days
+R121	Duration-Drug Arg1:T177 Arg2:T170
+T178	Drug 9547 9571	prochlorperazine maleate
+T179	Strength 9572 9576	5 mg
+R122	Strength-Drug Arg1:T179 Arg2:T178
+T180	Form 9577 9583	Tablet
+R123	Form-Drug Arg1:T180 Arg2:T178
+T181	Dosage 9589 9596	One (1)
+R124	Dosage-Drug Arg1:T181 Arg2:T178
+T182	Form 9597 9603	Tablet
+R125	Form-Drug Arg1:T182 Arg2:T178
+T183	Route 9604 9606	PO
+R126	Route-Drug Arg1:T183 Arg2:T178
+T184	Frequency 9607 9636	every six (6) hours as needed
+R127	Frequency-Drug Arg1:T184 Arg2:T178
+T185	Reason 9641 9647	nausea
+R128	Reason-Drug Arg1:T185 Arg2:T178
+T186	Drug 9652 9664	levofloxacin
+T187	Strength 9665 9671	500 mg
+R129	Strength-Drug Arg1:T187 Arg2:T186
+T188	Form 9672 9678	Tablet
+R130	Form-Drug Arg1:T188 Arg2:T186
+T189	Dosage 9684 9691	One (1)
+R131	Dosage-Drug Arg1:T189 Arg2:T186
+T190	Form 9692 9698	Tablet
+R132	Form-Drug Arg1:T190 Arg2:T186
+T191	Route 9699 9701	PO
+R133	Route-Drug Arg1:T191 Arg2:T186
+T192	Frequency 9702 9706	Q24H
+R134	Frequency-Drug Arg1:T192 Arg2:T186
+T193	Drug 9728 9737	lorazepam
+T194	Strength 9738 9744	0.5 mg
+R135	Strength-Drug Arg1:T194 Arg2:T193
+T195	Form 9745 9751	Tablet
+R136	Form-Drug Arg1:T195 Arg2:T193
+T196	Dosage 9757 9764	One (1)
+R137	Dosage-Drug Arg1:T196 Arg2:T193
+T197	Form 9765 9771	Tablet
+R138	Form-Drug Arg1:T197 Arg2:T193
+T198	Route 9772 9774	PO
+R139	Route-Drug Arg1:T198 Arg2:T193
+T199	Frequency 9775 9786;9787 9806	every eight (8) hours as needed
+R140	Frequency-Drug Arg1:T199 Arg2:T193
+T200	Reason 9811 9817	nausea
+R141	Reason-Drug Arg1:T200 Arg2:T193
+T201	Drug 9831 9850	diphenhydramine HCl
+T202	Strength 9851 9856	25 mg
+R142	Strength-Drug Arg1:T202 Arg2:T201
+T203	Form 9857 9864	Capsule
+R143	Form-Drug Arg1:T203 Arg2:T201
+T204	Dosage 9870 9877	One (1)
+R144	Dosage-Drug Arg1:T204 Arg2:T201
+T205	Form 9878 9885	Capsule
+R145	Form-Drug Arg1:T205 Arg2:T201
+T206	Route 9886 9888	PO
+R146	Route-Drug Arg1:T206 Arg2:T201
+T207	Frequency 9889 9892;9893 9918	Q6H (every 6 hours) as needed
+R147	Frequency-Drug Arg1:T207 Arg2:T201
+T208	Reason 9923 9930	puritis
+R148	Reason-Drug Arg1:T208 Arg2:T201
+T37	Route 1633 1635	IV
+R23	Route-Drug Arg1:T37 Arg2:T38	
+T68	Route 7460 7462	IV
+R24	Route-Drug Arg1:T68 Arg2:T69	
+R37	Route-Drug Arg1:T68 Arg2:T70	
+R38	Route-Drug Arg1:T68 Arg2:T71	
+T209	Reason 8974 8981	anxiety
+R39	Reason-Drug Arg1:T209 Arg2:T131	
+T210	Reason 9819 9826	anxiety
+R149	Reason-Drug Arg1:T210 Arg2:T193	
+T211	Reason 9932 9946	throat itching
+T212	Reason 9948 9954;9955 9963	throat swelling
+R150	Reason-Drug Arg1:T211 Arg2:T201	
+R151	Reason-Drug Arg1:T212 Arg2:T201	
+T213	Reason 10175 10192	allergic reaction
+R152	Reason-Drug Arg1:T213 Arg2:T8	
+T214	Reason 11316 11322;11323 11332	throat tightness
+R153	Reason-Drug Arg1:T214 Arg2:T30	

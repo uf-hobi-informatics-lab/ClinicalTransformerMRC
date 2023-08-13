@@ -1,0 +1,157 @@
+T1	Drug 4534 4543	meropenem
+T2	Drug 3142 3151	Acyclovir
+T3	Drug 4424 4433	meropenem
+T4	Drug 1228 1234	Ativan
+T5	Strength 1214 1220	800 mg
+T7	Drug 1163 1174	Ceftriaxone
+T8	Strength 1175 1182	2 grams
+T10	Drug 6860 6880	Levothyroxine Sodium
+T11	Strength 6881 6888	100 mcg
+T12	Form 6909 6915	Tablet
+T13	Route 6916 6918	PO
+T14	Drug 4237 4246	meropenem
+T15	Drug 2256 2266	Vancomycin
+T16	Drug 3226 3236	Vancomycin
+T17	Drug 1235 1243	Tylenol.
+T18	Drug 6937 6955	Alendronate Sodium
+T19	Strength 6956 6961	70 mg
+T20	Form 6978 6984	Tablet
+T21	Dosage 6974 6977	0.5
+T22	Route 6985 6987	PO
+T23	Strength 6762 6768	325 mg
+T24	Form 6789 6795	Tablet
+T25	Route 6796 6798	PO
+T26	Drug 6748 6760;6760 6761	Acetaminophe n
+T27	Drug 3546 3556	Vancomycin
+T28	Drug 2271 2280	Acyclovir
+T29	Drug 6691 6698	levoxyl
+T30	Drug 3241 3250	Acyclovir
+T31	Drug 3114 3125	Ceftriaxone
+T32	Drug 4413 4422	meropenem
+T33	Drug 3505 3514	Meropenem
+T34	Drug 6706 6713	fosamax
+T35	Drug 5684 5696	Levofloxacin
+T36	Drug 6581 6588	levoxyl
+T37	Drug 4918 4931	normal saline
+T38	Drug 3127 3137	Vancomycin
+T39	Drug 1204 1213	Acyclovir
+T40	Strength 7235 7241	500 mg
+T41	Form 7262 7268	Tablet
+T42	Route 7269 7271	PO
+T43	Drug 7222 7233;7233 7234	Levofloxaci n
+T44	Drug 3516 3528	Levofloxacin
+T45	Drug 2237 2248	Ceftriaxone
+T46	Drug 4734 4746	levofloxacin
+T47	Reason 6840 6845	fever
+T48	Drug 165 176	Penicillins
+T49	Drug 1187 1192	Vanco
+T50	Strength 1193 1199	1 gram
+T52	Reason 2895 2915	Bacterial Meningitis
+T53	Reason 2916 2921	Fever
+T54	ADE 4221 4225;4226 4231	drug fever
+T55	ADE 4397 4407	drug fever
+T56	Drug 4705 4713	levoflox
+T57	Reason 4800 4812	Hyponatremia
+T58	Drug 5239 5243	NaCl
+T59	Strength 5244 5247	3gm
+T60	Route 5248 5250	PO
+T61	Frequency 5251 5254	TID
+T62	Reason 5291 5303	hyponatremia
+T63	ADE 5697 5711	liver toxicity
+T64	Drug 5917 5925	levoflox
+T65	Reason 6533 6547	Hypothyroidism
+T66	Form 6769 6775	Tablet
+T67	Dosage 6781 6788	Two (2)
+T68	Frequency 6799 6804;6805 6835	Q4-6H (every 4 to 6 hours) as needed
+T69	Form 6889 6895	Tablet
+T70	Dosage 6901 6908	One (1)
+T71	Frequency 6919 6932	DAILY (Daily)
+T72	Form 6962 6968	Tablet
+T73	Frequency 6988 6992;6993 7007	QMON (every Monday)
+T74	Drug 7012 7027	Sodium Chloride
+T75	Strength 7028 7031	1 g
+T76	Form 7032 7038	Tablet
+T77	Dosage 7044 7053	Three (3)
+T78	Form 7054 7060	Tablet
+T79	Route 7061 7063	PO
+T80	Frequency 7064 7070;7071 7083	TID (3 times a day)
+T81	Drug 7121 7136	Sodium Chloride
+T82	Strength 7137 7143	0.65 %
+T83	Form 7144 7158	Aerosol, Spray
+T84	Form 7175 7181	Sprays
+T85	Route 7182 7187	Nasal
+T86	Frequency 7188 7217	QID (4 times a day) as needed
+T87	Form 7242 7248	Tablet
+T88	Dosage 7254 7261	One (1)
+T89	Frequency 7272 7278;7279 7291	BID (2 times a day)
+R1	Strength-Drug Arg1:T5 Arg2:T39
+R3	Strength-Drug Arg1:T8 Arg2:T7
+R5	Strength-Drug Arg1:T11 Arg2:T10
+R6	Form-Drug Arg1:T12 Arg2:T10
+R7	Route-Drug Arg1:T13 Arg2:T10
+R8	Strength-Drug Arg1:T19 Arg2:T18
+R9	Form-Drug Arg1:T20 Arg2:T18
+R10	Dosage-Drug Arg1:T21 Arg2:T18
+R11	Route-Drug Arg1:T22 Arg2:T18
+R12	Strength-Drug Arg1:T23 Arg2:T26
+R13	Form-Drug Arg1:T24 Arg2:T26
+R14	Route-Drug Arg1:T25 Arg2:T26
+R15	Strength-Drug Arg1:T40 Arg2:T43
+R16	Form-Drug Arg1:T41 Arg2:T43
+R17	Route-Drug Arg1:T42 Arg2:T43
+R19	Strength-Drug Arg1:T50 Arg2:T49
+R20	Reason-Drug Arg1:T53 Arg2:T2
+R21	Reason-Drug Arg1:T53 Arg2:T38
+R22	Reason-Drug Arg1:T53 Arg2:T31
+R23	Reason-Drug Arg1:T52 Arg2:T2
+R24	Reason-Drug Arg1:T52 Arg2:T38
+R25	Reason-Drug Arg1:T52 Arg2:T31
+R26	ADE-Drug Arg1:T54 Arg2:T14
+R27	ADE-Drug Arg1:T55 Arg2:T32
+R28	Reason-Drug Arg1:T57 Arg2:T37
+R29	Frequency-Drug Arg1:T61 Arg2:T58
+R30	Route-Drug Arg1:T60 Arg2:T58
+R31	Strength-Drug Arg1:T59 Arg2:T58
+R32	Reason-Drug Arg1:T62 Arg2:T58
+R33	ADE-Drug Arg1:T63 Arg2:T35
+R34	Reason-Drug Arg1:T65 Arg2:T36
+R35	Reason-Drug Arg1:T47 Arg2:T26
+R36	Frequency-Drug Arg1:T68 Arg2:T26
+R37	Dosage-Drug Arg1:T67 Arg2:T26
+R38	Form-Drug Arg1:T66 Arg2:T26
+R39	Frequency-Drug Arg1:T71 Arg2:T10
+R40	Dosage-Drug Arg1:T70 Arg2:T10
+R41	Form-Drug Arg1:T69 Arg2:T10
+R42	Frequency-Drug Arg1:T73 Arg2:T18
+R43	Form-Drug Arg1:T72 Arg2:T18
+R44	Frequency-Drug Arg1:T80 Arg2:T74
+R45	Route-Drug Arg1:T79 Arg2:T74
+R46	Dosage-Drug Arg1:T77 Arg2:T74
+R47	Form-Drug Arg1:T78 Arg2:T74
+R48	Form-Drug Arg1:T76 Arg2:T74
+R49	Strength-Drug Arg1:T75 Arg2:T74
+R50	Frequency-Drug Arg1:T86 Arg2:T81
+R51	Route-Drug Arg1:T85 Arg2:T81
+R52	Form-Drug Arg1:T84 Arg2:T81
+R53	Form-Drug Arg1:T83 Arg2:T81
+R54	Strength-Drug Arg1:T82 Arg2:T81
+R55	Dosage-Drug Arg1:T88 Arg2:T43
+R56	Form-Drug Arg1:T87 Arg2:T43
+R57	Frequency-Drug Arg1:T89 Arg2:T43
+T90	Drug 3477 3488	antibiotics
+T91	Drug 5142 5152;5153 5159	hypertonic saline
+T92	Dosage 5131 5138	boluses
+T93	Drug 5448 5452	NaCl
+T94	Form 5453 5460	tablets
+T95	Reason 3466 3471	fever
+T96	Drug 4472 4480	levoflox
+T97	ADE 4500 4505	Fever
+R58	Dosage-Drug Arg1:T92 Arg2:T91
+R59	Form-Drug Arg1:T94 Arg2:T93
+R60	Reason-Drug Arg1:T95 Arg2:T90	
+T6	Route 1183 1185	IV
+T9	Route 1200 1202	IV
+T51	Route 1221 1223	IV
+R2	Route-Drug Arg1:T6 Arg2:T7	
+R4	Route-Drug Arg1:T9 Arg2:T49	
+R18	Route-Drug Arg1:T51 Arg2:T39	

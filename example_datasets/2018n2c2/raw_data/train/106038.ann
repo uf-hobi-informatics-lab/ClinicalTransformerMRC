@@ -1,0 +1,393 @@
+T1	Route 10001 10003	PO
+R1	Route-Drug Arg1:T1 Arg2:T226
+T2	Frequency 10004 10009;10010 10017	DAILY (Daily)
+R2	Frequency-Drug Arg1:T2 Arg2:T226
+T3	Drug 10055 10070	calcium acetate
+T4	Strength 10071 10077	667 mg
+R3	Strength-Drug Arg1:T4 Arg2:T3
+T5	Form 10078 10085	Capsule
+R4	Form-Drug Arg1:T5 Arg2:T3
+T6	Dosage 10091 10098	One (1)
+R5	Dosage-Drug Arg1:T6 Arg2:T3
+T7	Form 10099 10106	Capsule
+R6	Form-Drug Arg1:T7 Arg2:T3
+T8	Route 10107 10109	PO
+R7	Route-Drug Arg1:T8 Arg2:T3
+T9	Frequency 10110 10113;10114 10148	TID W/MEALS (3 TIMES A DAY WITH MEALS)
+R8	Frequency-Drug Arg1:T9 Arg2:T3
+T10	Drug 10187 10194	aspirin
+T11	Strength 10195 10200	81 mg
+R9	Strength-Drug Arg1:T11 Arg2:T10
+T12	Form 10201 10231	Tablet, Delayed Release (E.C.)
+R10	Form-Drug Arg1:T12 Arg2:T10
+T13	Dosage 10237 10244	One (1)
+R11	Dosage-Drug Arg1:T13 Arg2:T10
+T14	Form 10245 10275	Tablet, Delayed Release (E.C.)
+R12	Form-Drug Arg1:T14 Arg2:T10
+T15	Route 10276 10278	PO
+R13	Route-Drug Arg1:T15 Arg2:T10
+T16	Frequency 10279 10289	once a day
+R14	Frequency-Drug Arg1:T16 Arg2:T10
+T17	Drug 10351 10362	simvastatin
+T18	Strength 10363 10368	20 mg
+R15	Strength-Drug Arg1:T18 Arg2:T17
+T19	Form 10369 10375	Tablet
+R16	Form-Drug Arg1:T19 Arg2:T17
+T20	Reason 1037 1054	sharp chest pains
+R17	Reason-Drug Arg1:T20 Arg2:T53
+T21	Dosage 10381 10388	One (1)
+R18	Dosage-Drug Arg1:T21 Arg2:T17
+T22	Form 10389 10395	Tablet
+R19	Form-Drug Arg1:T22 Arg2:T17
+T23	Route 10396 10398	PO
+R20	Route-Drug Arg1:T23 Arg2:T17
+T24	Frequency 10399 10409	once a day
+R21	Frequency-Drug Arg1:T24 Arg2:T17
+T25	Drug 10447 10455	Sensipar
+T26	Strength 10456 10461	30 mg
+R22	Strength-Drug Arg1:T26 Arg2:T25
+T27	Form 10462 10468	Tablet
+R23	Form-Drug Arg1:T27 Arg2:T25
+T28	Dosage 10474 10481	One (1)
+R24	Dosage-Drug Arg1:T28 Arg2:T25
+T29	Form 10482 10488	Tablet
+R25	Form-Drug Arg1:T29 Arg2:T25
+T30	Route 10489 10491	PO
+R26	Route-Drug Arg1:T30 Arg2:T25
+T31	Frequency 10492 10502	once a day
+R27	Frequency-Drug Arg1:T31 Arg2:T25
+T32	Drug 10540 10550	omeprazole
+T33	Strength 10551 10556	20 mg
+R28	Strength-Drug Arg1:T33 Arg2:T32
+T34	Form 10557 10587	Capsule, Delayed Release(E.C.)
+R29	Form-Drug Arg1:T34 Arg2:T32
+T35	Dosage 10593 10600	One (1)
+R30	Dosage-Drug Arg1:T35 Arg2:T32
+T36	Form 10601 10631	Capsule, Delayed Release(E.C.)
+R31	Form-Drug Arg1:T36 Arg2:T32
+T37	Route 10632 10634	PO
+R32	Route-Drug Arg1:T37 Arg2:T32
+T38	Frequency 10635 10645	once a day
+R33	Frequency-Drug Arg1:T38 Arg2:T32
+T39	Drug 10707 10717	folic acid
+T40	Strength 10718 10722	1 mg
+R34	Strength-Drug Arg1:T40 Arg2:T39
+T41	Form 10723 10729	Tablet
+R35	Form-Drug Arg1:T41 Arg2:T39
+T42	Dosage 10735 10742	One (1)
+R36	Dosage-Drug Arg1:T42 Arg2:T39
+T43	Form 10743 10749	Tablet
+R37	Form-Drug Arg1:T43 Arg2:T39
+T44	Route 10750 10752	PO
+R38	Route-Drug Arg1:T44 Arg2:T39
+T45	Frequency 10753 10763	once a day
+R39	Frequency-Drug Arg1:T45 Arg2:T39
+T46	Drug 10801 10810	trazodone
+T47	Strength 10811 10816	50 mg
+R40	Strength-Drug Arg1:T47 Arg2:T46
+T48	Form 10817 10823	Tablet
+R41	Form-Drug Arg1:T48 Arg2:T46
+T49	Dosage 10829 10836	One (1)
+R42	Dosage-Drug Arg1:T49 Arg2:T46
+T50	Form 10837 10843	Tablet
+R43	Form-Drug Arg1:T50 Arg2:T46
+T51	Route 10844 10846	PO
+R44	Route-Drug Arg1:T51 Arg2:T46
+T52	Frequency 10847 10857	at bedtime
+R45	Frequency-Drug Arg1:T52 Arg2:T46
+T53	Drug 1105 1118	nitroglycerin
+T54	ADE 11294 11312	low blood pressure
+R46	ADE-Drug Arg1:T54 Arg2:T55
+T55	Drug 11376 11381;11382 11402	blood pressure medications
+T56	Drug 11425 11439;11440 11451	blood pressure medications
+T57	Frequency 1144 1149	daily
+R47	Frequency-Drug Arg1:T57 Arg2:T53
+T58	Frequency 1166 1169	PRN
+R48	Frequency-Drug Arg1:T58 Arg2:T53
+T59	Drug 12111 12126	Calcium acetate
+T60	Strength 12127 12130	667
+R49	Strength-Drug Arg1:T60 Arg2:T59
+T61	Frequency 12131 12145	TID with meals
+R50	Frequency-Drug Arg1:T61 Arg2:T59
+T62	Reason 12160 12166;12167 12173	calium higher
+R51	Reason-Drug Arg1:T62 Arg2:T59
+T63	Reason 12183 12200	phosphorous lower
+R52	Reason-Drug Arg1:T63 Arg2:T59
+T64	Drug 12209 12222	Levothyroxine
+T65	Strength 12223 12229	200mcg
+R53	Strength-Drug Arg1:T65 Arg2:T64
+T66	Frequency 12230 12235	daily
+R54	Frequency-Drug Arg1:T66 Arg2:T64
+T67	Drug 12242 12252	Lisinopril
+T68	Drug 12259 12269	Metoprolol
+T69	Drug 12276 12289	Nitroglycerin
+T70	Drug 12298 12308	Fluoxetine
+T71	Strength 12312 12316	60mg
+R55	Strength-Drug Arg1:T71 Arg2:T70
+T72	Frequency 12317 12322	daily
+R56	Frequency-Drug Arg1:T72 Arg2:T70
+T73	Drug 1365 1375	Vancomycin
+T74	Drug 1380 1385	Zosyn
+T75	Drug 1402 1410	Levophed
+T76	Strength 1414 1418	0.06
+R57	Strength-Drug Arg1:T76 Arg2:T75
+T77	Drug 1746 1754	Levophed
+T78	Reason 3140 3152	chronic pain
+R58	Reason-Drug Arg1:T78 Arg2:T79
+T79	Drug 3156 3165	methadone
+T80	ADE 3366 3377	Hypotension
+R59	ADE-Drug Arg1:T80 Arg2:T81
+T81	Drug 3418 3442	antihypertensive regimen
+T82	Drug 3574 3587	beta-blockade
+T83	Drug 3694 3707	nitroglycerin
+T84	Frequency 3731 3736	daily
+R60	Frequency-Drug Arg1:T84 Arg2:T83
+T85	Frequency 3754 3757	PRN
+R61	Frequency-Drug Arg1:T85 Arg2:T83
+T86	Drug 4062 4070	Levophed
+T87	Drug 4173 4184	antibiotics
+T88	Drug 4313 4326	levothyroxine
+T89	Reason 4336 4362	significant hypothyroidism
+R62	Reason-Drug Arg1:T89 Arg2:T88
+T90	Reason 445 462	chronic back pain
+R63	Reason-Drug Arg1:T90 Arg2:T92
+T91	Drug 4485 4503	anti-hypertensives
+T92	Drug 466 475	methadone
+T93	Drug 4745 4756	simvastatin
+T94	Reason 4765 4787	cholesterol management
+R64	Reason-Drug Arg1:T94 Arg2:T93
+T95	Drug 4792 4795	ASA
+T96	Reason 4799 4809;4810 4824	reduce her risk of stroke
+R65	Reason-Drug Arg1:T96 Arg2:T95
+T97	Drug 5231 5237	advair
+T98	Reason 5263 5267	COPD
+R66	Reason-Drug Arg1:T98 Arg2:T97
+T99	Reason 5337 5349	Hyperkalemia
+R67	Reason-Drug Arg1:T99 Arg2:T100
+R68	Reason-Drug Arg1:T99 Arg2:T101
+R69	Reason-Drug Arg1:T99 Arg2:T102
+T100	Drug 5427 5434	insulin
+T101	Drug 5436 5446	kayexelate
+T102	Drug 5470 5477	insulin
+T103	ADE 5728 5741	Prolonged PTT
+R70	ADE-Drug Arg1:T103 Arg2:T104
+T104	Drug 5760 5767	heparin
+T105	Drug 5834 5841	heparin
+T106	Reason 5968 5974	Anemia
+R71	Reason-Drug Arg1:T106 Arg2:T107
+T107	Drug 6014 6017	EPO
+T108	Reason 6132 6135	CAD
+R72	Reason-Drug Arg1:T108 Arg2:T112
+R73	Reason-Drug Arg1:T108 Arg2:T109
+T109	Drug 6348 6351	asa
+T111	Strength 6352 6356	81mg
+R74	Strength-Drug Arg1:T111 Arg2:T109
+T112	Drug 6358 6369	simvastatin
+T113	Strength 6370 6374	20mg
+R75	Strength-Drug Arg1:T113 Arg2:T112
+T114	Drug 6376 6384	BBlocker
+T115	Drug 6389 6393	ACEi
+T116	Reason 6471 6485	Hypothyroidism
+R76	Reason-Drug Arg1:T116 Arg2:T117
+R77	Reason-Drug Arg1:T116 Arg2:T118
+T117	Drug 6527 6540	Levothyroxine
+T118	Drug 6670 6683	Levothyroxine
+T119	Strength 6684 6690	188mcg
+R78	Strength-Drug Arg1:T119 Arg2:T118
+T120	Frequency 6691 6696	daily
+R79	Frequency-Drug Arg1:T120 Arg2:T118
+T121	Reason 6926 6942	Seizure Disorder
+R80	Reason-Drug Arg1:T121 Arg2:T122
+T122	Drug 6957 6963	Keppra
+T123	Strength 6964 6970	250 mg
+R81	Strength-Drug Arg1:T123 Arg2:T122
+T124	Reason 6993 7003	Depression
+R83	Reason-Drug Arg1:T124 Arg2:T126
+T125	Drug 7080 7090	clonazepam
+T126	Drug 7153 7163	fluoxitine
+T127	Strength 7179 7181	40
+R85	Strength-Drug Arg1:T127 Arg2:T126
+T128	Strength 7185 7190	60 mg
+R86	Strength-Drug Arg1:T128 Arg2:T126
+T129	Frequency 7191 7196	daily
+R87	Frequency-Drug Arg1:T129 Arg2:T126
+T130	Reason 7276 7288	Chronic Pain
+R88	Reason-Drug Arg1:T130 Arg2:T132
+R89	Reason-Drug Arg1:T130 Arg2:T131
+T131	Drug 7293 7303	Gabapentin
+T132	Drug 7308 7317	methadone
+T133	Strength 7382 7386	44mg
+R90	Strength-Drug Arg1:T133 Arg2:T132
+T134	Frequency 7387 7392	daily
+R91	Frequency-Drug Arg1:T134 Arg2:T132
+T135	Reason 8471 8480	depressed
+R92	Reason-Drug Arg1:T135 Arg2:T136
+T136	Drug 8489 8499	fluoxetine
+T137	Strength 8519 8523	40mg
+R93	Strength-Drug Arg1:T137 Arg2:T136
+T138	Strength 8527 8531	60mg
+R94	Strength-Drug Arg1:T138 Arg2:T136
+T139	Frequency 8532 8537	daily
+R95	Frequency-Drug Arg1:T139 Arg2:T136
+T140	Drug 8652 8659	BP meds
+T141	ADE 8676 8687	hypotension
+R96	ADE-Drug Arg1:T141 Arg2:T140
+T142	Drug 8905 8925	Metoprolol succinate
+T143	Strength 8926 8928	25
+R97	Strength-Drug Arg1:T143 Arg2:T142
+T144	Frequency 8929 8934	daily
+R98	Frequency-Drug Arg1:T144 Arg2:T142
+T145	Drug 8936 8945	Nitrostat
+T146	Frequency 8946 8949	PRN
+R99	Frequency-Drug Arg1:T146 Arg2:T145
+T147	Drug 8951 8962	Simvastatin
+T148	Strength 8963 8965	20
+R100	Strength-Drug Arg1:T148 Arg2:T147
+T149	Frequency 8966 8971	daily
+R101	Frequency-Drug Arg1:T149 Arg2:T147
+T150	Drug 8973 8976	ASA
+T151	Strength 8977 8979	81
+R102	Strength-Drug Arg1:T151 Arg2:T150
+T152	Frequency 8980 8985	daily
+R103	Frequency-Drug Arg1:T152 Arg2:T150
+T153	Drug 8987 8997	Fluoxetine
+T154	Strength 8998 9000	40
+R104	Strength-Drug Arg1:T154 Arg2:T153
+T155	Frequency 9001 9006	daily
+R105	Frequency-Drug Arg1:T155 Arg2:T153
+T156	Drug 9008 9018	Gabapentin
+T157	Strength 9019 9022	300
+R106	Strength-Drug Arg1:T157 Arg2:T156
+T158	Frequency 9023 9028	daily
+R107	Frequency-Drug Arg1:T158 Arg2:T156
+T159	Drug 9030 9040	Lisinopril
+T160	Strength 9041 9044	2.5
+R108	Strength-Drug Arg1:T160 Arg2:T159
+T161	Frequency 9045 9050	daily
+R109	Frequency-Drug Arg1:T161 Arg2:T159
+T162	Drug 9052 9058	Keppra
+T163	Strength 9059 9062	250
+R110	Strength-Drug Arg1:T163 Arg2:T162
+T164	Drug 9081 9091	Folic acid
+T165	Strength 9092 9096	1 mg
+R111	Strength-Drug Arg1:T165 Arg2:T164
+T166	Frequency 9097 9102	daily
+R112	Frequency-Drug Arg1:T166 Arg2:T164
+T167	Drug 9104 9112	Sensipar
+T168	Strength 9113 9118	30 mg
+R113	Strength-Drug Arg1:T168 Arg2:T167
+T169	Frequency 9119 9122	PRN
+R114	Frequency-Drug Arg1:T169 Arg2:T167
+T170	Drug 9124 9133	Trazadone
+T171	Strength 9134 9136	50
+R115	Strength-Drug Arg1:T171 Arg2:T170
+T172	Frequency 9137 9140	qhs
+R116	Frequency-Drug Arg1:T172 Arg2:T170
+T173	Drug 9142 9152	Omeprazole
+T174	Strength 9153 9155	20
+R117	Strength-Drug Arg1:T174 Arg2:T173
+T175	Frequency 9156 9161	daily
+R118	Frequency-Drug Arg1:T175 Arg2:T173
+T176	Drug 9190 9203	levetiracetam
+T177	Strength 9204 9210	250 mg
+R119	Strength-Drug Arg1:T177 Arg2:T176
+T178	Form 9211 9217	Tablet
+R120	Form-Drug Arg1:T178 Arg2:T176
+T179	Dosage 9223 9230	One (1)
+R121	Dosage-Drug Arg1:T179 Arg2:T176
+T180	Form 9231 9237	Tablet
+R122	Form-Drug Arg1:T180 Arg2:T176
+T181	Route 9238 9240	PO
+R123	Route-Drug Arg1:T181 Arg2:T176
+T182	Frequency 9241 9247;9248 9260	BID (2 times a day)
+R124	Frequency-Drug Arg1:T182 Arg2:T176
+T184	Form 9271 9277	Tablet
+R126	Form-Drug Arg1:T184 Arg2:T176
+T185	Drug 9297 9319	fluticasone-salmeterol
+T186	Strength 9320 9335	250-50 mcg/dose
+R127	Strength-Drug Arg1:T186 Arg2:T185
+T187	Form 9336 9352	Disk with Device
+R128	Form-Drug Arg1:T187 Arg2:T185
+T188	Dosage 9358 9365	One (1)
+R129	Dosage-Drug Arg1:T188 Arg2:T185
+T189	Form 9366 9382	Disk with Device
+R130	Form-Drug Arg1:T189 Arg2:T185
+T190	Route 9383 9393	Inhalation
+R131	Route-Drug Arg1:T190 Arg2:T185
+T191	Frequency 9412 9425	2 times a day
+R132	Frequency-Drug Arg1:T191 Arg2:T185
+T192	Drug 9473 9486	levothyroxine
+T193	Strength 9487 9494	100 mcg
+R133	Strength-Drug Arg1:T193 Arg2:T192
+T194	Form 9495 9501	Tablet
+R134	Form-Drug Arg1:T194 Arg2:T192
+T195	Dosage 9507 9514	One (1)
+R135	Dosage-Drug Arg1:T195 Arg2:T192
+T196	Form 9515 9521	Tablet
+R136	Form-Drug Arg1:T196 Arg2:T192
+T197	Route 9522 9524	PO
+R137	Route-Drug Arg1:T197 Arg2:T192
+T198	Frequency 9525 9530;9531 9538	DAILY (Daily)
+R138	Frequency-Drug Arg1:T198 Arg2:T192
+T199	Drug 9575 9588	levothyroxine
+T200	Strength 9589 9595	88 mcg
+R139	Strength-Drug Arg1:T200 Arg2:T199
+T201	Form 9596 9602	Tablet
+R140	Form-Drug Arg1:T201 Arg2:T199
+T202	Dosage 9608 9615	One (1)
+R141	Dosage-Drug Arg1:T202 Arg2:T199
+T203	Form 9616 9622	Tablet
+R142	Form-Drug Arg1:T203 Arg2:T199
+T204	Route 9623 9625	PO
+R143	Route-Drug Arg1:T204 Arg2:T199
+T205	Frequency 9626 9632;9633 9636	once a day
+R144	Frequency-Drug Arg1:T205 Arg2:T199
+T206	Drug 9694 9704	gabapentin
+T207	Strength 9705 9711	300 mg
+R145	Strength-Drug Arg1:T207 Arg2:T206
+T208	Form 9712 9719	Capsule
+R146	Form-Drug Arg1:T208 Arg2:T206
+T209	Dosage 9725 9732	One (1)
+R147	Dosage-Drug Arg1:T209 Arg2:T206
+T210	Form 9733 9740	Capsule
+R148	Form-Drug Arg1:T210 Arg2:T206
+T211	Route 9741 9743	PO
+R149	Route-Drug Arg1:T211 Arg2:T206
+T212	Frequency 9744 9753;9754 9767	QHD (each hemodialysis)
+R150	Frequency-Drug Arg1:T212 Arg2:T206
+T213	Drug 9805 9815	clonazepam
+T214	Strength 9816 9822	0.5 mg
+R151	Strength-Drug Arg1:T214 Arg2:T213
+T215	Form 9823 9829	Tablet
+R152	Form-Drug Arg1:T215 Arg2:T213
+T216	Dosage 9835 9842	One (1)
+R153	Dosage-Drug Arg1:T216 Arg2:T213
+T217	Form 9843 9849	Tablet
+R154	Form-Drug Arg1:T217 Arg2:T213
+T218	Route 9850 9852	PO
+R155	Route-Drug Arg1:T218 Arg2:T213
+T219	Frequency 9853 9865;9866 9872	BID (2 times a day)
+R156	Frequency-Drug Arg1:T219 Arg2:T213
+T220	Drug 9877 9886	methadone
+T221	Strength 9887 9895	10 mg/mL
+R157	Strength-Drug Arg1:T221 Arg2:T220
+T222	Form 9896 9907	Concentrate
+R158	Form-Drug Arg1:T222 Arg2:T220
+T223	Dosage 9913 9931	Forty Four (44) mg
+R159	Dosage-Drug Arg1:T223 Arg2:T220
+T224	Route 9932 9934	PO
+R160	Route-Drug Arg1:T224 Arg2:T220
+T225	Frequency 9935 9948	DAILY (Daily)
+R161	Frequency-Drug Arg1:T225 Arg2:T220
+T226	Drug 9953 9963	fluoxetine
+T227	Strength 9964 9969	20 mg
+R162	Strength-Drug Arg1:T227 Arg2:T226
+T228	Form 9970 9977	Capsule
+R163	Form-Drug Arg1:T228 Arg2:T226
+T229	Dosage 9983 9992	Three (3)
+R164	Dosage-Drug Arg1:T229 Arg2:T226
+T230	Form 9993 10000	Capsule
+R165	Form-Drug Arg1:T230 Arg2:T226
+R82	Reason-Drug Arg1:T124 Arg2:T125	
+T110	Reason 7004 7011	Anxiety
+R84	Reason-Drug Arg1:T110 Arg2:T125	

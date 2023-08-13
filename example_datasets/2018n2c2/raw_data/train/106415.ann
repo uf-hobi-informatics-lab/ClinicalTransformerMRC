@@ -1,0 +1,590 @@
+T1	Duration 10804 10809	7-day
+R1	Duration-Drug Arg1:T1 Arg2:T2
+R2	Duration-Drug Arg1:T1 Arg2:T3
+T2	Drug 10820 10824	vanc
+T3	Drug 10825 10830	zosyn
+T4	Reason 10835 10845	aspiration
+R3	Reason-Drug Arg1:T4 Arg2:T2
+R4	Reason-Drug Arg1:T4 Arg2:T3
+T5	Reason 11302 11322	Stenotrophomonas PNA
+R5	Reason-Drug Arg1:T5 Arg2:T6
+R6	Reason-Drug Arg1:T5 Arg2:T8
+T6	Drug 11368 11375	Bactrim
+T7	Duration 11377 11383	14 day
+R7	Duration-Drug Arg1:T7 Arg2:T6
+T8	Drug 11440 11447	Bactrim
+T9	Drug 11559 11566	Bactrim
+T10	Reason 11612 11627	Pseudomonas UTI
+R8	Reason-Drug Arg1:T10 Arg2:T11
+T11	Drug 11650 11658	Cefepime
+T12	Reason 11701 11715	Line infection
+R9	Reason-Drug Arg1:T12 Arg2:T15
+T13	Drug 11721 11729	Cefepime
+T14	Reason 11744 11747	UTI
+R10	Reason-Drug Arg1:T14 Arg2:T13
+T15	Drug 11754 11763	Linezolid
+T16	Drug 11926 11934	Cefepime
+T17	Duration 11973 11976	14d
+R11	Duration-Drug Arg1:T17 Arg2:T18
+T18	Drug 11987 11995	Cefepime
+T19	Duration 12000 12002	9d
+R12	Duration-Drug Arg1:T19 Arg2:T20
+T20	Drug 12013 12022	Linezolid
+T21	Reason 12107 12129	Labile blood pressures
+R13	Reason-Drug Arg1:T21 Arg2:T23
+T22	Dosage 12273 12284	stress dose
+R14	Dosage-Drug Arg1:T22 Arg2:T23
+T23	Drug 12285 12293	steroids
+T24	Drug 12305 12313	pressors
+T25	Reason 12318 12329	hypotension
+R15	Reason-Drug Arg1:T25 Arg2:T24
+T26	Reason 12383 12395	hypertensive
+R16	Reason-Drug Arg1:T26 Arg2:T27
+R17	Reason-Drug Arg1:T26 Arg2:T30
+T27	Drug 12437 12446	labetalol
+T28	Route 12447 12451	drip
+R18	Route-Drug Arg1:T28 Arg2:T27
+T29	Frequency 12463 12466	PRN
+R19	Frequency-Drug Arg1:T29 Arg2:T30
+T30	Drug 12467 12478	hydralazine
+T31	Drug 12510 12519	Labetalol
+T32	Route 12520 12524	drip
+R20	Route-Drug Arg1:T32 Arg2:T31
+T33	Route 12528 12530	PO
+R21	Route-Drug Arg1:T33 Arg2:T34
+R22	Route-Drug Arg1:T33 Arg2:T31
+T34	Drug 12531 12540	Labetalol
+T35	Drug 12573 12582	Labetalol
+T36	Frequency 12583 12586	PRN
+R23	Frequency-Drug Arg1:T36 Arg2:T35
+T37	Drug 12604 12613	Labetalol
+T38	Drug 12640 12648	atenolol
+T39	Strength 12652 12656	50mg
+R24	Strength-Drug Arg1:T39 Arg2:T38
+T40	Frequency 12657 12662	daily
+R25	Frequency-Drug Arg1:T40 Arg2:T38
+T41	Drug 12673 12683	lisinopril
+T42	Strength 12684 12688	10mg
+R26	Strength-Drug Arg1:T42 Arg2:T41
+T43	Frequency 12689 12694	daily
+R27	Frequency-Drug Arg1:T43 Arg2:T41
+T44	Drug 12800 12808	steroids
+T45	Drug 12814 12824	Prednisone
+T46	Strength 12825 12829	40mg
+R28	Strength-Drug Arg1:T46 Arg2:T45
+T47	Frequency 12830 12835	daily
+R29	Frequency-Drug Arg1:T47 Arg2:T45
+T48	Duration 12837 12843	5 days
+R30	Duration-Drug Arg1:T48 Arg2:T45
+T49	Drug 12894 12904	Prednisone
+T50	Strength 12905 12908	5mg
+R31	Strength-Drug Arg1:T50 Arg2:T49
+T51	Route 12909 12911	PO
+R32	Route-Drug Arg1:T51 Arg2:T49
+T52	Frequency 12912 12917	daily
+R33	Frequency-Drug Arg1:T52 Arg2:T49
+T53	Reason 12922 12956	maintenance of transplanted kidney
+R34	Reason-Drug Arg1:T53 Arg2:T49
+T54	Drug 13009 13020	allopurinol
+T55	Reason 13043 13047	gout
+R35	Reason-Drug Arg1:T55 Arg2:T54
+T56	Reason 13053 13056	DVT
+R36	Reason-Drug Arg1:T56 Arg2:T57
+R37	Reason-Drug Arg1:T56 Arg2:T59
+T57	Drug 13146 13153	heparin
+T58	Route 13154 13158	drip
+R38	Route-Drug Arg1:T58 Arg2:T57
+T59	Drug 13179 13187	coumadin
+T60	ADE 13232 13237;13238 13246	liver hematoma
+R39	ADE-Drug Arg1:T60 Arg2:T57
+R40	ADE-Drug Arg1:T60 Arg2:T59
+T61	Route 13398 13400	SC
+R41	Route-Drug Arg1:T61 Arg2:T62
+T62	Drug 13401 13408	Heparin
+T63	Frequency 13409 13412	tid
+R42	Frequency-Drug Arg1:T63 Arg2:T62
+T64	Route 13610 13612	SC
+R43	Route-Drug Arg1:T64 Arg2:T65
+T65	Drug 13613 13620	Heparin
+T66	Drug 14163 14171	narcotic
+T67	Drug 14491 14497	Reglan
+T68	Strength 14498 14503	2.5mg
+R44	Strength-Drug Arg1:T68 Arg2:T67
+T69	Frequency 14504 14507	TID
+R45	Frequency-Drug Arg1:T69 Arg2:T67
+T70	Reason 14534 14551;14552 14565	presumed diabetic gastroparesis
+T72	ADE 14616 14630	Liver Hematoma
+R47	ADE-Drug Arg1:T72 Arg2:T73
+T73	Drug 14680 14687	heparin
+T74	Route 14688 14692	drip
+R48	Route-Drug Arg1:T74 Arg2:T73
+T75	Reason 14697 14708	IVC thombus
+R49	Reason-Drug Arg1:T75 Arg2:T73
+T76	Dosage 15165 15171	3 unit
+R50	Dosage-Drug Arg1:T76 Arg2:T77
+T77	Drug 15172 15176	pRBC
+T78	Drug 15204 15207	FFP
+T79	Drug 15979 15987	fentanyl
+T80	Drug 15991 16000	methadone
+T81	Drug 16020 16028	seroquel
+T82	Drug 16316 16322	Keppra
+T83	Drug 16329 16335	Keppra
+T84	Strength 16336 16341	500mg
+R51	Strength-Drug Arg1:T84 Arg2:T83
+T85	Frequency 16342 16346	qday
+R52	Frequency-Drug Arg1:T85 Arg2:T83
+T86	Strength 16360 16365	250mg
+R53	Strength-Drug Arg1:T86 Arg2:T83
+T87	Frequency 16366 16374	after HD
+R54	Frequency-Drug Arg1:T87 Arg2:T83
+T88	Reason 1659 1662	PEA
+R55	Reason-Drug Arg1:T88 Arg2:T102
+R56	Reason-Drug Arg1:T88 Arg2:T150
+R57	Reason-Drug Arg1:T88 Arg2:T142
+R58	Reason-Drug Arg1:T88 Arg2:T130
+R59	Reason-Drug Arg1:T88 Arg2:T117
+T89	Drug 167 177	Vancomycin
+T90	Drug 16824 16834	prednisone
+T91	Strength 16835 16838	5mg
+R60	Strength-Drug Arg1:T91 Arg2:T90
+T92	Route 16839 16841	PO
+R61	Route-Drug Arg1:T92 Arg2:T90
+T93	Frequency 16842 16847	daily
+R62	Frequency-Drug Arg1:T93 Arg2:T90
+T94	Reason 16852 16861	rejection
+R63	Reason-Drug Arg1:T94 Arg2:T90
+T95	Drug 16873 16880	Renagel
+T96	Strength 16881 16884	800
+R64	Strength-Drug Arg1:T96 Arg2:T95
+T97	Frequency 16885 16888	tid
+R65	Frequency-Drug Arg1:T97 Arg2:T95
+T98	Drug 16890 16899	Sevelemer
+T99	Strength 16900 16903	800
+R66	Strength-Drug Arg1:T99 Arg2:T98
+T100	Frequency 16904 16907	tid
+R67	Frequency-Drug Arg1:T100 Arg2:T98
+T101	Strength 1714 1718	2 mg
+R68	Strength-Drug Arg1:T101 Arg2:T102
+T102	Drug 1719 1730	epinephrine
+T103	Drug 17265 17275	Amlodipine
+T104	Strength 17276 17281	10 mg
+R69	Strength-Drug Arg1:T104 Arg2:T103
+T105	Drug 17300 17310	Calcitriol
+T106	Strength 17311 17318	0.25mcg
+R70	Strength-Drug Arg1:T106 Arg2:T105
+T107	Frequency 17319 17321	QD
+R71	Frequency-Drug Arg1:T107 Arg2:T105
+T108	Dosage 1732 1733	2
+R72	Dosage-Drug Arg1:T108 Arg2:T117
+T109	Drug 17323 17333	Cinacalcet
+T110	Strength 17334 17339	90 mg
+R73	Strength-Drug Arg1:T110 Arg2:T109
+T111	Form 1734 1738	amps
+R74	Form-Drug Arg1:T111 Arg2:T117
+T112	Frequency 17340 17342	QD
+R75	Frequency-Drug Arg1:T112 Arg2:T109
+T113	Drug 17344 17353	Clonidine
+T114	Strength 17354 17360	0.1 mg
+R76	Strength-Drug Arg1:T114 Arg2:T113
+T115	Drug 17379 17384	Lasix
+T116	Strength 17385 17390	120mg
+R77	Strength-Drug Arg1:T116 Arg2:T115
+T117	Drug 1739 1745	bicarb
+T118	Route 17391 17393	PO
+R78	Route-Drug Arg1:T118 Arg2:T115
+T119	Frequency 17394 17397	BID
+R79	Frequency-Drug Arg1:T119 Arg2:T115
+T120	Drug 17399 17408	Labetalol
+T121	Strength 17409 17414	600mg
+R80	Strength-Drug Arg1:T121 Arg2:T120
+T122	Drug 17432 17442	Lisinopril
+T123	Strength 17443 17447	10mg
+R81	Strength-Drug Arg1:T123 Arg2:T122
+T124	Frequency 17448 17451	QHS
+R82	Frequency-Drug Arg1:T124 Arg2:T122
+T125	Drug 17453 17462	Minoxidil
+T126	Strength 17463 17467	10mg
+R83	Strength-Drug Arg1:T126 Arg2:T125
+T127	Strength 1747 1751	1 mg
+R84	Strength-Drug Arg1:T127 Arg2:T130
+T128	Drug 17486 17507	Mycophenolate Mofetil
+T129	Strength 17508 17513	500mg
+R85	Strength-Drug Arg1:T129 Arg2:T128
+T130	Drug 1752 1760	atropine
+T131	Drug 17532 17542	Prednisone
+T132	Strength 17543 17546	5mg
+R86	Strength-Drug Arg1:T132 Arg2:T131
+T133	Frequency 17547 17549	QD
+R87	Frequency-Drug Arg1:T133 Arg2:T131
+T134	Drug 17550 17560	Vardenafil
+T135	Strength 17561 17565	10mg
+R88	Strength-Drug Arg1:T135 Arg2:T134
+T136	Frequency 17566 17569	PRN
+R89	Frequency-Drug Arg1:T136 Arg2:T134
+T137	Drug 17571 17578	Aspirin
+T138	Strength 17579 17583	81mg
+R90	Strength-Drug Arg1:T138 Arg2:T137
+T139	Frequency 17584 17586	QD
+R91	Frequency-Drug Arg1:T139 Arg2:T137
+T140	Drug 17587 17614	Insulin NPH & Regular Human
+T141	Dosage 17615 17629	Ten (10) units
+R92	Dosage-Drug Arg1:T141 Arg2:T140
+T142	Drug 1762 1773	insulin/D50
+T143	Route 17630 17642	Subcutaneous
+R93	Route-Drug Arg1:T143 Arg2:T140
+T144	Frequency 17643 17646	qPM
+R94	Frequency-Drug Arg1:T144 Arg2:T140
+T145	Drug 17648 17675	Insulin NPH & Regular Human
+T146	Dosage 17676 17693	Twenty (20) Units
+R95	Dosage-Drug Arg1:T146 Arg2:T145
+T147	Route 17694 17706	Subcutaneous
+R96	Route-Drug Arg1:T147 Arg2:T145
+T148	Frequency 17707 17710	qAM
+R97	Frequency-Drug Arg1:T148 Arg2:T145
+T149	Drug 17741 17758	Heparin (Porcine)
+T150	Drug 1775 1779	IVFs
+T151	Strength 17759 17772	5,000 unit/mL
+R98	Strength-Drug Arg1:T151 Arg2:T149
+T152	Form 17773 17781	Solution
+R99	Form-Drug Arg1:T152 Arg2:T149
+T153	Dosage 17787 17821;17822 17827	4000-[**Numeric Identifier 2249**] units
+R100	Dosage-Drug Arg1:T153 Arg2:T149
+T154	Form 17828 17837	Injection
+R101	Form-Drug Arg1:T154 Arg2:T149
+T155	Frequency 17838 17863	PRN (as needed) as needed
+R102	Frequency-Drug Arg1:T155 Arg2:T149
+T156	Reason 17868 17878	line flush
+R103	Reason-Drug Arg1:T156 Arg2:T149
+T157	Drug 17883 17888	Senna
+T158	Strength 17889 17895	8.6 mg
+R104	Strength-Drug Arg1:T158 Arg2:T157
+T159	Form 17896 17902	Tablet
+R105	Form-Drug Arg1:T159 Arg2:T157
+T160	Dosage 17908 17915	One (1)
+R106	Dosage-Drug Arg1:T160 Arg2:T157
+T161	Form 17916 17922	Tablet
+R107	Form-Drug Arg1:T161 Arg2:T157
+T162	Route 17923 17925	PO
+R108	Route-Drug Arg1:T162 Arg2:T157
+T163	Frequency 17926 17940;17941 17955	BID (2 times a day) as needed
+R109	Frequency-Drug Arg1:T163 Arg2:T157
+T164	Reason 17960 17972	constipation
+R110	Reason-Drug Arg1:T164 Arg2:T157
+T165	Drug 17977 17987	Sucralfate
+T166	Strength 17988 17994	1 gram
+R111	Strength-Drug Arg1:T166 Arg2:T165
+T167	Form 17995 18001	Tablet
+R112	Form-Drug Arg1:T167 Arg2:T165
+T168	Dosage 18007 18014	One (1)
+R113	Dosage-Drug Arg1:T168 Arg2:T165
+T169	Form 18015 18021	Tablet
+R114	Form-Drug Arg1:T169 Arg2:T165
+T170	Route 18022 18024	PO
+R115	Route-Drug Arg1:T170 Arg2:T165
+T171	Frequency 18025 18037;18038 18044	QID (4 times a day)
+R116	Frequency-Drug Arg1:T171 Arg2:T165
+T172	Drug 18049 18062	Acetaminophen
+T173	Strength 18063 18074	160 mg/5 mL
+R117	Strength-Drug Arg1:T173 Arg2:T172
+T174	Form 18075 18083	Solution
+R118	Form-Drug Arg1:T174 Arg2:T172
+T175	Dosage 18089 18099	325-650 mg
+R119	Dosage-Drug Arg1:T175 Arg2:T172
+T176	Route 18100 18102	PO
+R120	Route-Drug Arg1:T176 Arg2:T172
+T177	Frequency 18103 18106;18107 18132	Q6H (every 6 hours) as needed
+R121	Frequency-Drug Arg1:T177 Arg2:T172
+T178	Reason 18137 18142	fever
+R122	Reason-Drug Arg1:T178 Arg2:T172
+T179	Drug 18153 18162	Bisacodyl
+T180	Strength 18163 18167	5 mg
+R123	Strength-Drug Arg1:T180 Arg2:T179
+T181	Form 18168 18198	Tablet, Delayed Release (E.C.)
+R124	Form-Drug Arg1:T181 Arg2:T179
+T182	Dosage 18204 18211	Two (2)
+R125	Dosage-Drug Arg1:T182 Arg2:T179
+T183	Form 18212 18242	Tablet, Delayed Release (E.C.)
+R126	Form-Drug Arg1:T183 Arg2:T179
+T184	Route 18243 18245	PO
+R127	Route-Drug Arg1:T184 Arg2:T179
+T185	Frequency 18246 18275	BID (2 times a day) as needed
+R128	Frequency-Drug Arg1:T185 Arg2:T179
+T186	Reason 18280 18292	constipation
+R129	Reason-Drug Arg1:T186 Arg2:T179
+T187	Drug 18297 18307	Cinacalcet
+T188	Strength 18308 18313	30 mg
+R130	Strength-Drug Arg1:T188 Arg2:T187
+T189	Form 18314 18320	Tablet
+R131	Form-Drug Arg1:T189 Arg2:T187
+T190	Dosage 18326 18333	One (1)
+R132	Dosage-Drug Arg1:T190 Arg2:T187
+T191	Form 18334 18340	Tablet
+R133	Form-Drug Arg1:T191 Arg2:T187
+T192	Route 18341 18343	PO
+R134	Route-Drug Arg1:T192 Arg2:T187
+T193	Frequency 18344 18357	DAILY (Daily)
+R135	Frequency-Drug Arg1:T193 Arg2:T187
+T194	Drug 18363 18389	Polyvinyl Alcohol-Povidone
+T195	Strength 18390 18397	1.4-0.6 
+R136	Strength-Drug Arg1:T195 Arg2:T194
+T196	Form 18400 18411	Dropperette
+R137	Form-Drug Arg1:T196 Arg2:T194
+T197	Form 18427 18432	Drops
+R138	Form-Drug Arg1:T197 Arg2:T194
+T198	Route 18433 18443	Ophthalmic
+R139	Route-Drug Arg1:T198 Arg2:T194
+T199	Frequency 18444 18469	PRN (as needed) as needed
+R140	Frequency-Drug Arg1:T199 Arg2:T194
+T200	Reason 18474 18484	irritation
+R141	Reason-Drug Arg1:T200 Arg2:T194
+T201	Drug 18489 18511	Bacitracin-Polymyxin B
+T202	Strength 18512 18529	500-10,000 unit/g
+R142	Strength-Drug Arg1:T202 Arg2:T201
+T203	Form 18530 18538	Ointment
+R143	Form-Drug Arg1:T203 Arg2:T201
+T204	Dosage 18544 18547;18548 18551	One (1)
+R144	Dosage-Drug Arg1:T204 Arg2:T201
+T205	Form 18552 18556	Appl
+R145	Form-Drug Arg1:T205 Arg2:T201
+T206	Route 18557 18567	Ophthalmic
+R146	Route-Drug Arg1:T206 Arg2:T201
+T207	Frequency 18568 18587	QID (4 times a day)
+R147	Frequency-Drug Arg1:T207 Arg2:T201
+T208	Drug 18592 18602	Quetiapine
+T209	Strength 18603 18608	25 mg
+R148	Strength-Drug Arg1:T209 Arg2:T208
+T210	Form 18609 18615	Tablet
+R149	Form-Drug Arg1:T210 Arg2:T208
+T211	Dosage 18621 18628	One (1)
+R150	Dosage-Drug Arg1:T211 Arg2:T208
+T212	Form 18629 18635	Tablet
+R151	Form-Drug Arg1:T212 Arg2:T208
+T213	Route 18636 18638	PO
+R152	Route-Drug Arg1:T213 Arg2:T208
+T214	Frequency 18639 18653;18654 18658	TID (3 times a day)
+R153	Frequency-Drug Arg1:T214 Arg2:T208
+T215	Drug 18664 18674	Prednisone
+T216	Strength 18675 18679	5 mg
+R154	Strength-Drug Arg1:T216 Arg2:T215
+T217	Form 18680 18686	Tablet
+R155	Form-Drug Arg1:T217 Arg2:T215
+T218	Dosage 18692 18699	One (1)
+R156	Dosage-Drug Arg1:T218 Arg2:T215
+T219	Form 18700 18706	Tablet
+R157	Form-Drug Arg1:T219 Arg2:T215
+T220	Route 18707 18709	PO
+R158	Route-Drug Arg1:T220 Arg2:T215
+T221	Frequency 18710 18723	DAILY (Daily)
+R159	Frequency-Drug Arg1:T221 Arg2:T215
+T222	Reason 18729 18745	renal transplant
+R160	Reason-Drug Arg1:T222 Arg2:T215
+T223	Drug 18751 18780	Trimethoprim-Sulfamethoxazole
+T224	Strength 18781 18791	160-800 mg
+R161	Strength-Drug Arg1:T224 Arg2:T223
+T225	Form 18792 18798	Tablet
+R162	Form-Drug Arg1:T225 Arg2:T223
+T226	Dosage 18804 18808;18809 18812	Four (4)
+R163	Dosage-Drug Arg1:T226 Arg2:T223
+T227	Form 18813 18819	Tablet
+R164	Form-Drug Arg1:T227 Arg2:T223
+T228	Route 18820 18822	PO
+R165	Route-Drug Arg1:T228 Arg2:T223
+T229	Frequency 18823 18846	QHD (each hemodialysis)
+R166	Frequency-Drug Arg1:T229 Arg2:T223
+T230	Frequency 18875 18883	AFTER HD
+R167	Frequency-Drug Arg1:T230 Arg2:T223
+T231	Drug 18889 18903	Metoclopramide
+T232	Strength 18904 18909	10 mg
+R168	Strength-Drug Arg1:T232 Arg2:T231
+T233	Form 18910 18916	Tablet
+R169	Form-Drug Arg1:T233 Arg2:T231
+T234	Strength 18922 18928	2.5 mg
+R170	Strength-Drug Arg1:T234 Arg2:T231
+T235	Route 18929 18931	PO
+R171	Route-Drug Arg1:T235 Arg2:T231
+T236	Frequency 18932 18946;18947 18951	BID (2 times a day)
+R172	Frequency-Drug Arg1:T236 Arg2:T231
+T237	Drug 18957 18967	Lisinopril
+T238	Strength 18968 18973	10 mg
+R173	Strength-Drug Arg1:T238 Arg2:T237
+T239	Form 18974 18980	Tablet
+R174	Form-Drug Arg1:T239 Arg2:T237
+T240	Dosage 18986 18993	One (1)
+R175	Dosage-Drug Arg1:T240 Arg2:T237
+T241	Form 18994 19000	Tablet
+R176	Form-Drug Arg1:T241 Arg2:T237
+T242	Route 19001 19003	PO
+R177	Route-Drug Arg1:T242 Arg2:T237
+T243	Frequency 19004 19009;19010 19017	DAILY (Daily)
+R178	Frequency-Drug Arg1:T243 Arg2:T237
+T244	Reason 19042 19056	persistent HTN
+R179	Reason-Drug Arg1:T244 Arg2:T237
+T245	Drug 19062 19070	Atenolol
+T246	Strength 19071 19076	50 mg
+R180	Strength-Drug Arg1:T246 Arg2:T245
+T247	Form 19077 19083	Tablet
+R181	Form-Drug Arg1:T247 Arg2:T245
+T248	Dosage 19089 19096	One (1)
+R182	Dosage-Drug Arg1:T248 Arg2:T245
+T249	Form 19097 19103	Tablet
+R183	Form-Drug Arg1:T249 Arg2:T245
+T250	Route 19104 19106	PO
+R184	Route-Drug Arg1:T250 Arg2:T245
+T251	Frequency 19107 19120	DAILY (Daily)
+R185	Frequency-Drug Arg1:T251 Arg2:T245
+T252	Drug 19127 19140	Sevelamer HCl
+T253	Strength 19141 19147	400 mg
+R186	Strength-Drug Arg1:T253 Arg2:T252
+T254	Form 19148 19154	Tablet
+R187	Form-Drug Arg1:T254 Arg2:T252
+T255	Dosage 19160 19167	Two (2)
+R188	Dosage-Drug Arg1:T255 Arg2:T252
+T256	Form 19168 19174	Tablet
+R189	Form-Drug Arg1:T256 Arg2:T252
+T257	Route 19175 19177	PO
+R190	Route-Drug Arg1:T257 Arg2:T252
+T258	Frequency 19178 19181;19182 19216	TID W/MEALS (3 TIMES A DAY WITH MEALS)
+R191	Frequency-Drug Arg1:T258 Arg2:T252
+T259	Drug 19222 19239	Albuterol Sulfate
+T260	Strength 19240 19256	90 mcg/Actuation
+R192	Strength-Drug Arg1:T260 Arg2:T259
+T261	Form 19257 19276	HFA Aerosol Inhaler
+R193	Form-Drug Arg1:T261 Arg2:T259
+T262	Dosage 19282 19289	Two (2)
+R194	Dosage-Drug Arg1:T262 Arg2:T259
+T263	Form 19290 19294	Puff
+R195	Form-Drug Arg1:T263 Arg2:T259
+T264	Route 19295 19305	Inhalation
+R196	Route-Drug Arg1:T264 Arg2:T259
+T265	Frequency 19306 19335	Q4H (every 4 hours) as needed
+R197	Frequency-Drug Arg1:T265 Arg2:T259
+T266	Reason 19340 19347	dyspnea
+R198	Reason-Drug Arg1:T266 Arg2:T259
+T267	Reason 19349 19355	wheeze
+R199	Reason-Drug Arg1:T267 Arg2:T259
+T268	Drug 19361 19380	Ipratropium Bromide
+T269	Strength 19381 19397	17 mcg/Actuation
+R200	Strength-Drug Arg1:T269 Arg2:T268
+T270	Form 19398 19405	Aerosol
+R201	Form-Drug Arg1:T270 Arg2:T268
+T271	Dosage 19411 19418	Two (2)
+R202	Dosage-Drug Arg1:T271 Arg2:T268
+T272	Form 19419 19423	Puff
+R203	Form-Drug Arg1:T272 Arg2:T268
+T273	Route 19424 19434	Inhalation
+R204	Route-Drug Arg1:T273 Arg2:T268
+T274	Frequency 19435 19464	Q4H (every 4 hours) as needed
+R205	Frequency-Drug Arg1:T274 Arg2:T268
+T275	Reason 19469 19481;19482 19488	shortness of breath
+R206	Reason-Drug Arg1:T275 Arg2:T268
+T276	Reason 19490 19497	dyspnea
+R207	Reason-Drug Arg1:T276 Arg2:T268
+T277	Drug 19503 19513	Prednisone
+T278	Strength 19514 19519	20 mg
+R208	Strength-Drug Arg1:T278 Arg2:T277
+T279	Form 19520 19526	Tablet
+R209	Form-Drug Arg1:T279 Arg2:T277
+T280	Dosage 19532 19539	Two (2)
+R210	Dosage-Drug Arg1:T280 Arg2:T277
+T281	Form 19540 19546	Tablet
+R211	Form-Drug Arg1:T281 Arg2:T277
+T282	Route 19547 19549	PO
+R212	Route-Drug Arg1:T282 Arg2:T277
+T283	Frequency 19550 19563	DAILY (Daily)
+R213	Frequency-Drug Arg1:T283 Arg2:T277
+T284	Duration 19564 19574	for 5 days
+R214	Duration-Drug Arg1:T284 Arg2:T277
+T285	Drug 19636 19646	prednisone
+T286	Strength 19647 19650	5mg
+R215	Strength-Drug Arg1:T286 Arg2:T285
+T287	Route 19651 19653	PO
+R216	Route-Drug Arg1:T287 Arg2:T285
+T288	Frequency 19654 19659	daily
+R217	Frequency-Drug Arg1:T288 Arg2:T285
+T289	Reason 19664 19673	rejection
+R218	Reason-Drug Arg1:T289 Arg2:T285
+T290	Drug 19679 19692	Heparin Flush
+T291	Strength 19694 19705	10 units/ml
+R219	Strength-Drug Arg1:T291 Arg2:T290
+T292	Dosage 19707 19711	2 mL
+R220	Dosage-Drug Arg1:T292 Arg2:T290
+T294	Frequency 19715 19718	PRN
+R222	Frequency-Drug Arg1:T294 Arg2:T290
+T295	Reason 19719 19729	line flush
+R223	Reason-Drug Arg1:T295 Arg2:T290
+T296	Drug 19736 19743	heparin
+T297	Dosage 19766 19770	10mL
+R224	Dosage-Drug Arg1:T297 Arg2:T298
+T298	Drug 19771 19784	Normal Saline
+T299	Drug 19797 19804	Heparin
+T300	Frequency 19814 19827	daily and PRN
+R225	Frequency-Drug Arg1:T300 Arg2:T299
+R226	Frequency-Drug Arg1:T300 Arg2:T298
+T301	Route 19828 19837	per lumen
+R227	Route-Drug Arg1:T301 Arg2:T298
+R228	Route-Drug Arg1:T301 Arg2:T299
+T302	Drug 19843 19849	Keppra
+T303	Strength 19850 19856	250 mg
+R229	Strength-Drug Arg1:T303 Arg2:T302
+T304	Form 19857 19863	Tablet
+R230	Form-Drug Arg1:T304 Arg2:T302
+T305	Dosage 19869 19876	One (1)
+R231	Dosage-Drug Arg1:T305 Arg2:T302
+T306	Form 19877 19883	Tablet
+R232	Form-Drug Arg1:T306 Arg2:T302
+T307	Route 19884 19886	PO
+R233	Route-Drug Arg1:T307 Arg2:T302
+T308	Frequency 19887 19895	after HD
+R234	Frequency-Drug Arg1:T308 Arg2:T302
+T309	Drug 19926 19932	Keppra
+T310	Strength 19933 19938	500mg
+R235	Strength-Drug Arg1:T310 Arg2:T309
+T311	Route 19939 19941	PO
+R236	Route-Drug Arg1:T311 Arg2:T309
+T312	Frequency 19942 19945	BID
+R237	Frequency-Drug Arg1:T312 Arg2:T309
+T313	Drug 19951 19957	Keppra
+T314	Strength 19958 19964	500 mg
+R238	Strength-Drug Arg1:T314 Arg2:T313
+T315	Form 19965 19971	Tablet
+R239	Form-Drug Arg1:T315 Arg2:T313
+T316	Dosage 19977 19984	One (1)
+R240	Dosage-Drug Arg1:T316 Arg2:T313
+T317	Form 19985 19991	Tablet
+R241	Form-Drug Arg1:T317 Arg2:T313
+T318	Route 19992 19994	PO
+R242	Route-Drug Arg1:T318 Arg2:T313
+T319	Frequency 19995 20006	twice a day
+R243	Frequency-Drug Arg1:T319 Arg2:T313
+T320	Drug 20012 20029	Heparin (Porcine)
+T321	Strength 20030 20043	5,000 unit/mL
+R244	Strength-Drug Arg1:T321 Arg2:T320
+T322	Form 20044 20052	Solution
+R245	Form-Drug Arg1:T322 Arg2:T320
+T323	Dosage 20058 20065	One (1)
+R246	Dosage-Drug Arg1:T323 Arg2:T320
+T324	Route 20066 20075	Injection
+R247	Route-Drug Arg1:T324 Arg2:T320
+T325	Frequency 20076 20095	TID (3 times a day)
+R248	Frequency-Drug Arg1:T325 Arg2:T320
+T326	Reason 20101 20112	IVC thrombi
+R249	Reason-Drug Arg1:T326 Arg2:T320
+T327	Reason 20943 20959	Diabetes, type 2
+R250	Reason-Drug Arg1:T327 Arg2:T328
+T328	Drug 20964 20971	insulin
+T329	Reason 21810 21828	clot in your veins
+R251	Reason-Drug Arg1:T329 Arg2:T330
+T330	Drug 21847 21861	blood thinners
+T331	ADE 21882 21886	bled
+R252	ADE-Drug Arg1:T331 Arg2:T330
+R253	ADE-Drug Arg1:T331 Arg2:T332
+T332	Drug 21900 21914	blood thinners
+T333	Reason 2463 2479	Diabetes, type 2
+R254	Reason-Drug Arg1:T333 Arg2:T334
+T334	Drug 2484 2491	insulin
+T335	Drug 826 836	furosemide
+R46	Reason-Drug Arg1:T70 Arg2:T67	
+T71	Route 19712 19714	IV
+R221	Route-Drug Arg1:T71 Arg2:T290	
+T293	Reason 18144 18148	pain
+R255	Reason-Drug Arg1:T293 Arg2:T172	

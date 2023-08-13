@@ -1,0 +1,14 @@
+T1	Drug 193 199	Lantus
+T2	Strength 200 208	26 units
+T3	Form 284 293	injection
+T4	Route 209 223	subcutaneously
+T5	Drug 297 304	Humalog
+T6	Frequency 224 231	at h.s.
+T7	Form 180 189	injection
+T8	Dosage 305 338	1 unit per 15 gm of carbohydrates
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Form-Drug Arg1:T3 Arg2:T5
+R3	Frequency-Drug Arg1:T6 Arg2:T1
+R4	Form-Drug Arg1:T7 Arg2:T1
+R5	Route-Drug Arg1:T4 Arg2:T1
+R6	Dosage-Drug Arg1:T8 Arg2:T5

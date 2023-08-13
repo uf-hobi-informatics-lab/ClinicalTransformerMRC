@@ -1,0 +1,377 @@
+T1	Strength 1137 1140	0.4
+R1	Strength-Drug Arg1:T1 Arg2:T2
+T2	Drug 1141 1147	narcan
+T3	Drug 1269 1275	narcan
+T4	Strength 1318 1321	2mg
+R2	Strength-Drug Arg1:T4 Arg2:T5
+T5	Drug 1322 1328	narcan
+T6	Drug 13511 13516	Vanco
+T7	Drug 13547 13557	Vancomycin
+T8	Drug 13653 13656	ASA
+T9	Drug 13657 13664	Ethanol
+T10	Drug 13665 13672	Acetmnp
+T11	Drug 13673 13680	Bnzodzp
+T13	Reason 15105 15134	Acute diastolic heart failure
+R3	Reason-Drug Arg1:T13 Arg2:T14
+T14	Drug 15227 15232	lasix
+T15	Strength 15233 15238	40 mg
+R4	Strength-Drug Arg1:T15 Arg2:T14
+T17	Dosage 15244 15245	1
+R6	Dosage-Drug Arg1:T17 Arg2:T14
+T18	Strength 15266 15271	20 mg
+R7	Strength-Drug Arg1:T18 Arg2:T14
+T20	Frequency 15275 15280	daily
+R9	Frequency-Drug Arg1:T20 Arg2:T14
+T21	Strength 15315 15319	40mg
+R10	Strength-Drug Arg1:T21 Arg2:T14
+T22	Route 15320 15322	PO
+R11	Route-Drug Arg1:T22 Arg2:T14
+T23	Frequency 15323 15328	daily
+R12	Frequency-Drug Arg1:T23 Arg2:T14
+T24	Drug 15446 15458	beta blocker
+T25	Drug 15474 15478	ACEI
+T26	Drug 15546 15560	spironolactone
+T27	Reason 16098 16122	Gram positive bacteremia
+R13	Reason-Drug Arg1:T27 Arg2:T28
+T28	Drug 16168 16172	vanc
+T29	Drug 164 171	Aspirin
+T30	Drug 1701 1703	O2
+T31	Dosage 1711 1713	2L
+R14	Dosage-Drug Arg1:T31 Arg2:T30
+T32	Route 1714 1716	NC
+R15	Route-Drug Arg1:T32 Arg2:T30
+T33	Drug 174 179	Sulfa
+T34	ADE 17942 17963	Altered mental status
+R16	ADE-Drug Arg1:T34 Arg2:T35
+T35	Drug 17970 17977	opiates
+T36	ADE 18058 18074	unresponsiveness
+R17	ADE-Drug Arg1:T36 Arg2:T37
+T37	Drug 18081 18088	opiates
+T38	Drug 181 204	Sulfonamide Antibiotics
+T39	Drug 18122 18128	narcan
+T40	Reason 19290 19302	Hypertension
+R18	Reason-Drug Arg1:T40 Arg2:T42
+T41	Reason 19427 19438	proteinuria
+R19	Reason-Drug Arg1:T41 Arg2:T42
+T42	Drug 19466 19471	ACE-I
+T43	Drug 19496 19510	spironolactone
+T44	Reason 19521 19534	heart failure
+R20	Reason-Drug Arg1:T44 Arg2:T43
+T45	Reason 19539 19551	hypertension
+R21	Reason-Drug Arg1:T45 Arg2:T43
+T46	Drug 19609 19621	beta blocker
+T47	Reason 19628 19632	dCHF
+R22	Reason-Drug Arg1:T47 Arg2:T46
+T48	Reason 19811 19822	Hypokalemia
+R23	Reason-Drug Arg1:T48 Arg2:T49
+R24	Reason-Drug Arg1:T48 Arg2:T50
+R25	Reason-Drug Arg1:T48 Arg2:T51
+R26	Reason-Drug Arg1:T48 Arg2:T52
+T49	Drug 19888 19902	spironolactone
+T50	Drug 19941 19950	potassium
+T51	Drug 19979 19988	potassium
+T52	Drug 20031 20045	spironolactone
+T53	Drug 208 215	Quinine
+T54	ADE 20963 20970	Long QT
+R27	ADE-Drug Arg1:T54 Arg2:T55
+R28	ADE-Drug Arg1:T54 Arg2:T56
+T55	Drug 21059 21065	haldol
+T56	Drug 21106 21112	haldol
+T57	Strength 21135 21138	5mg
+R29	Strength-Drug Arg1:T57 Arg2:T56
+T58	Strength 21144 21148	10mg
+R30	Strength-Drug Arg1:T58 Arg2:T56
+T59	Drug 21735 21743	depakote
+T60	ADE 21767 21788	altered mental status
+R31	ADE-Drug Arg1:T60 Arg2:T59
+T61	Drug 21837 21843	haldol
+T62	Strength 21861 21864	5mg
+R32	Strength-Drug Arg1:T62 Arg2:T61
+T63	Strength 21870 21874	10mg
+R33	Strength-Drug Arg1:T63 Arg2:T61
+T64	Drug 22245 22250	lasix
+T65	Frequency 22266 22269	prn
+R34	Frequency-Drug Arg1:T65 Arg2:T64
+T66	Reason 22272 22279	DVT PPx
+R35	Reason-Drug Arg1:T66 Arg2:T67
+T67	Drug 22281 22288	Heparin
+T68	Route 22289 22291	SC
+R36	Route-Drug Arg1:T68 Arg2:T67
+T69	Drug 22347 22356	Clonidine
+T70	Strength 22357 22363	0.3 mg
+R37	Strength-Drug Arg1:T70 Arg2:T69
+T71	Form 22364 22367	Tab
+R38	Form-Drug Arg1:T71 Arg2:T69
+T72	Dosage 22368 22369	1
+R39	Dosage-Drug Arg1:T72 Arg2:T69
+T73	Form 22370 22376	Tablet
+R40	Form-Drug Arg1:T73 Arg2:T69
+T74	Route 22380 22388	by mouth
+R41	Route-Drug Arg1:T74 Arg2:T69
+T75	Frequency 22389 22400	twice a day
+R42	Frequency-Drug Arg1:T75 Arg2:T69
+T76	Drug 22402 22411	captopril
+T77	Strength 22412 22419	12.5 mg
+R43	Strength-Drug Arg1:T77 Arg2:T76
+T78	Form 22420 22423	Tab
+R44	Form-Drug Arg1:T78 Arg2:T76
+T79	Dosage 22424 22425	1
+R45	Dosage-Drug Arg1:T79 Arg2:T76
+T80	Form 22426 22432	Tablet
+R46	Form-Drug Arg1:T80 Arg2:T76
+T81	Route 22436 22444	by mouth
+R47	Route-Drug Arg1:T81 Arg2:T76
+T82	Frequency 22445 22456	twice a day
+R48	Frequency-Drug Arg1:T82 Arg2:T76
+T83	Drug 22458 22466	Atenolol
+T84	Strength 22467 22472	50 mg
+R49	Strength-Drug Arg1:T84 Arg2:T83
+T85	Form 22473 22476	Tab
+R50	Form-Drug Arg1:T85 Arg2:T83
+T86	Dosage 22477 22478	1
+R51	Dosage-Drug Arg1:T86 Arg2:T83
+T87	Form 22479 22485	Tablet
+R52	Form-Drug Arg1:T87 Arg2:T83
+T88	Route 22489 22497	by mouth
+R53	Route-Drug Arg1:T88 Arg2:T83
+T89	Frequency 22498 22503	daily
+R54	Frequency-Drug Arg1:T89 Arg2:T83
+T90	Drug 22505 22516	Hydralazine
+T91	Strength 22517 22522	25 mg
+R55	Strength-Drug Arg1:T91 Arg2:T90
+T92	Form 22523 22526	Tab
+R56	Form-Drug Arg1:T92 Arg2:T90
+T93	Dosage 22527 22528	1
+R57	Dosage-Drug Arg1:T93 Arg2:T90
+T94	Form 22529 22535	Tablet
+R58	Form-Drug Arg1:T94 Arg2:T90
+T95	Route 22539 22547	by mouth
+R59	Route-Drug Arg1:T95 Arg2:T90
+T96	Frequency 22548 22564	four times a day
+R60	Frequency-Drug Arg1:T96 Arg2:T90
+T97	Drug 22566 22571	Zocor
+T98	Strength 22572 22577	10 mg
+R61	Strength-Drug Arg1:T98 Arg2:T97
+T99	Form 22578 22581	Tab
+R62	Form-Drug Arg1:T99 Arg2:T97
+T100	Dosage 22582 22583	1
+R63	Dosage-Drug Arg1:T100 Arg2:T97
+T101	Form 22584 22590	Tablet
+R64	Form-Drug Arg1:T101 Arg2:T97
+T102	Route 22594 22602	by mouth
+R65	Route-Drug Arg1:T102 Arg2:T97
+T103	Frequency 22603 22613	once a day
+R66	Frequency-Drug Arg1:T103 Arg2:T97
+T104	Drug 22615 22636	potassium Chloride SR
+T105	Strength 22637 22643	20 mEq
+R67	Strength-Drug Arg1:T105 Arg2:T104
+T106	Form 22644 22667	Tab, Particles/Crystals
+R68	Form-Drug Arg1:T106 Arg2:T104
+T107	Dosage 22668 22669	2
+R69	Dosage-Drug Arg1:T107 Arg2:T104
+T108	Form 22670 22673	Tab
+R70	Form-Drug Arg1:T108 Arg2:T104
+T109	Route 22677 22685	by mouth
+R71	Route-Drug Arg1:T109 Arg2:T104
+T110	Frequency 22686 22696	once a day
+R72	Frequency-Drug Arg1:T110 Arg2:T104
+T111	Drug 22698 22710	procardia XL
+T112	Strength 22711 22716	60 mg
+R73	Strength-Drug Arg1:T112 Arg2:T111
+T113	Form 22717 22726	24 hr Tab
+R74	Form-Drug Arg1:T113 Arg2:T111
+T114	Dosage 22727 22728	1
+R75	Dosage-Drug Arg1:T114 Arg2:T111
+T115	Form 22729 22735	Tablet
+R76	Form-Drug Arg1:T115 Arg2:T111
+T116	Route 22739 22747	by mouth
+R77	Route-Drug Arg1:T116 Arg2:T111
+T117	Frequency 22748 22758	once a day
+R78	Frequency-Drug Arg1:T117 Arg2:T111
+T118	Drug 22776 22785	labetalol
+T119	Strength 22786 22792	200 mg
+R79	Strength-Drug Arg1:T119 Arg2:T118
+T120	Form 22793 22796	Tab
+R80	Form-Drug Arg1:T120 Arg2:T118
+T121	Dosage 22797 22798	1
+R81	Dosage-Drug Arg1:T121 Arg2:T118
+T122	Form 22805 22811	Tablet
+R82	Form-Drug Arg1:T122 Arg2:T118
+T123	Route 22815 22823	by mouth
+R83	Route-Drug Arg1:T123 Arg2:T118
+T124	Frequency 22824 22835	twice a day
+R84	Frequency-Drug Arg1:T124 Arg2:T118
+T125	Drug 22838 22846	Depakote
+T126	Strength 22847 22853	500 mg
+R85	Strength-Drug Arg1:T126 Arg2:T125
+T127	Drug 22899 22910	simvastatin
+T128	Strength 22911 22916	10 mg
+R86	Strength-Drug Arg1:T128 Arg2:T127
+T129	Form 22917 22923	Tablet
+R87	Form-Drug Arg1:T129 Arg2:T127
+T130	Dosage 22929 22936	One (1)
+R88	Dosage-Drug Arg1:T130 Arg2:T127
+T131	Form 22937 22943	Tablet
+R89	Form-Drug Arg1:T131 Arg2:T127
+T132	Route 22944 22946	PO
+R90	Route-Drug Arg1:T132 Arg2:T127
+T133	Frequency 22947 22952	DAILY
+R91	Frequency-Drug Arg1:T133 Arg2:T127
+T134	Drug 22997 23006	captopril
+T135	Strength 23007 23014	12.5 mg
+R92	Strength-Drug Arg1:T135 Arg2:T134
+T136	Form 23015 23021	Tablet
+R93	Form-Drug Arg1:T136 Arg2:T134
+T137	Dosage 23027 23034	One (1)
+R94	Dosage-Drug Arg1:T137 Arg2:T134
+T138	Form 23035 23041	Tablet
+R95	Form-Drug Arg1:T138 Arg2:T134
+T139	Route 23042 23044	PO
+R96	Route-Drug Arg1:T139 Arg2:T134
+T140	Frequency 23045 23048	BID
+R97	Frequency-Drug Arg1:T140 Arg2:T134
+T141	Drug 23101 23112	hydralazine
+T142	Strength 23113 23118	25 mg
+R98	Strength-Drug Arg1:T142 Arg2:T141
+T143	Form 23119 23125	Tablet
+R99	Form-Drug Arg1:T143 Arg2:T141
+T144	Dosage 23131 23138	One (1)
+R100	Dosage-Drug Arg1:T144 Arg2:T141
+T145	Form 23139 23145	Tablet
+R101	Form-Drug Arg1:T145 Arg2:T141
+T146	Route 23146 23148	PO
+R102	Route-Drug Arg1:T146 Arg2:T141
+T147	Frequency 23149 23152	Q6H
+R103	Frequency-Drug Arg1:T147 Arg2:T141
+T148	Drug 23206 23216	nifedipine
+T149	Strength 23217 23222	60 mg
+R104	Strength-Drug Arg1:T149 Arg2:T148
+T150	Form 23223 23248	Tablet Extended Rel 24 hr
+R105	Form-Drug Arg1:T150 Arg2:T148
+T151	Dosage 23254 23261	One (1)
+R106	Dosage-Drug Arg1:T151 Arg2:T148
+T152	Form 23262 23287	Tablet Extended Rel 24 hr
+R107	Form-Drug Arg1:T152 Arg2:T148
+T153	Route 23288 23290	PO
+R108	Route-Drug Arg1:T153 Arg2:T148
+T154	Frequency 23291 23301	once a day
+R109	Frequency-Drug Arg1:T154 Arg2:T148
+T155	Drug 23357 23366	labetalol
+T156	Strength 23367 23373	200 mg
+R110	Strength-Drug Arg1:T156 Arg2:T155
+T157	Form 23374 23380	Tablet
+R111	Form-Drug Arg1:T157 Arg2:T155
+T158	Dosage 23386 23393	One (1)
+R112	Dosage-Drug Arg1:T158 Arg2:T155
+T159	Form 23394 23400	Tablet
+R113	Form-Drug Arg1:T159 Arg2:T155
+T160	Route 23401 23403	PO
+R114	Route-Drug Arg1:T160 Arg2:T155
+T161	Frequency 23404 23407	BID
+R115	Frequency-Drug Arg1:T161 Arg2:T155
+T162	Drug 23460 23469	clonidine
+T163	Strength 23470 23476	0.3 mg
+R116	Strength-Drug Arg1:T163 Arg2:T162
+T164	Form 23477 23483	Tablet
+R117	Form-Drug Arg1:T164 Arg2:T162
+T165	Dosage 23489 23496	One (1)
+R118	Dosage-Drug Arg1:T165 Arg2:T162
+T166	Form 23497 23503	Tablet
+R119	Form-Drug Arg1:T166 Arg2:T162
+T167	Route 23504 23506	PO
+R120	Route-Drug Arg1:T167 Arg2:T162
+T168	Frequency 23507 23518	twice a day
+R121	Frequency-Drug Arg1:T168 Arg2:T162
+T169	Drug 23555 23573	potassium chloride
+T170	Strength 23574 23580	20 mEq
+R122	Strength-Drug Arg1:T170 Arg2:T169
+T171	Form 23581 23610	Tablet, ER Particles/Crystals
+R123	Form-Drug Arg1:T171 Arg2:T169
+T172	Dosage 23616 23623	One (1)
+R124	Dosage-Drug Arg1:T172 Arg2:T169
+T173	Form 23624 23653	Tablet, ER Particles/Crystals
+R125	Form-Drug Arg1:T173 Arg2:T169
+T174	Route 23654 23656	PO
+R126	Route-Drug Arg1:T174 Arg2:T169
+T175	Frequency 23657 23667	once a day
+R127	Frequency-Drug Arg1:T175 Arg2:T169
+T176	Drug 23727 23735	Depakote
+T177	Strength 23736 23742	500 mg
+R128	Strength-Drug Arg1:T177 Arg2:T176
+T178	Form 23743 23773	Tablet, Delayed Release (E.C.)
+R129	Form-Drug Arg1:T178 Arg2:T176
+T179	Dosage 23779 23786	One (1)
+R130	Dosage-Drug Arg1:T179 Arg2:T176
+T180	Form 23787 23817	Tablet, Delayed Release (E.C.)
+R131	Form-Drug Arg1:T180 Arg2:T176
+T181	Route 23818 23820	PO
+R132	Route-Drug Arg1:T181 Arg2:T176
+T182	Frequency 23821 23832	twice a day
+R133	Frequency-Drug Arg1:T182 Arg2:T176
+T183	Drug 23893 23904	haloperidol
+T184	Strength 23905 23909	5 mg
+R134	Strength-Drug Arg1:T184 Arg2:T183
+T185	Form 23910 23916	Tablet
+R135	Form-Drug Arg1:T185 Arg2:T183
+T186	Dosage 23922 23929	One (1)
+R136	Dosage-Drug Arg1:T186 Arg2:T183
+T187	Form 23930 23936	Tablet
+R137	Form-Drug Arg1:T187 Arg2:T183
+T188	Route 23937 23939	PO
+R138	Route-Drug Arg1:T188 Arg2:T183
+T189	Frequency 23940 23945	DAILY
+R139	Frequency-Drug Arg1:T189 Arg2:T183
+T190	Drug 23991 24005	spironolactone
+T191	Strength 24006 24011	25 mg
+R140	Strength-Drug Arg1:T191 Arg2:T190
+T192	Form 24012 24018	Tablet
+R141	Form-Drug Arg1:T192 Arg2:T190
+T193	Dosage 24024 24031	One (1)
+R142	Dosage-Drug Arg1:T193 Arg2:T190
+T194	Form 24032 24038	Tablet
+R143	Form-Drug Arg1:T194 Arg2:T190
+T195	Route 24039 24041	PO
+R144	Route-Drug Arg1:T195 Arg2:T190
+T196	Frequency 24042 24047	DAILY
+R145	Frequency-Drug Arg1:T196 Arg2:T190
+T197	Drug 24093 24103	furosemide
+T198	Strength 24104 24109	40 mg
+R146	Strength-Drug Arg1:T198 Arg2:T197
+T199	Form 24110 24116	Tablet
+R147	Form-Drug Arg1:T199 Arg2:T197
+T200	Dosage 24122 24129	One (1)
+R148	Dosage-Drug Arg1:T200 Arg2:T197
+T201	Form 24130 24136	Tablet
+R149	Form-Drug Arg1:T201 Arg2:T197
+T202	Route 24137 24139	PO
+R150	Route-Drug Arg1:T202 Arg2:T197
+T203	Frequency 24140 24145	DAILY
+R151	Frequency-Drug Arg1:T203 Arg2:T197
+T204	Reason 25345 25359	Blood pressure
+R152	Reason-Drug Arg1:T204 Arg2:T205
+R153	Reason-Drug Arg1:T204 Arg2:T206
+T205	Drug 25386 25396	metoprolol
+T206	Drug 25401 25415	spironolactone
+T207	Drug 25422 25430	atenolol
+T208	Drug 25439 25444	lasix
+T209	Reason 25449 25461	leg swelling
+R154	Reason-Drug Arg1:T209 Arg2:T208
+T210	Drug 25473 25479	haldol
+T211	Strength 25485 25489	10mg
+R155	Strength-Drug Arg1:T211 Arg2:T210
+T212	Strength 25493 25496	5mg
+R156	Strength-Drug Arg1:T212 Arg2:T210
+T213	Frequency 25497 25502	daily
+R157	Frequency-Drug Arg1:T213 Arg2:T210
+T214	Drug 25510 25519	potassium
+T215	Strength 25576 25580	20mg
+R158	Strength-Drug Arg1:T215 Arg2:T214
+T216	Frequency 25581 25586	daily
+R159	Frequency-Drug Arg1:T216 Arg2:T214
+T217	ADE 4687 4697	angioedema
+R160	ADE-Drug Arg1:T217 Arg2:T218
+T218	Drug 4705 4710	ACE-I
+T12	Route 15239 15241	iv
+R5	Route-Drug Arg1:T12 Arg2:T14	
+T16	Route 15272 15274	iv
+R8	Route-Drug Arg1:T16 Arg2:T14	

@@ -1,0 +1,607 @@
+Admission Date:  [**2187-10-15**]              Discharge Date:   [**2187-11-19**]
+
+Date of Birth:  [**2122-4-29**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ativan
+
+Attending:[**First Name3 (LF) 2641**]
+Chief Complaint:
+Chief Complaint: back pain
+Reason for MICU admission: Altered mental status and epidural
+abscesses.
+
+
+Major Surgical or Invasive Procedure:
+EMG/NCS
+.
+lumbar puncture
+.
+[**2187-10-30**] Cervical and thoracic spinal abscess debridement
+1. C7 corpectomy.
+2. C5-C6 anterior cervical diskectomy and fusion with
+    application of interbody device.
+3. Biopsy as well as culture of abscess - deep down to the
+    bone and spinal cord.
+4. Application of interbody device, C7 expandable cage.
+5. Application of [**Location (un) 976**]-[**Doctor Last Name 3012**] tongs with removal as well
+    as [**Location (un) 8766**] tongs with removal.
+6. Posterior spinal decompression, C4 to T1.
+7. Posterior spinal arthrodesis, C4 to T1.
+8. Application of local autograft and allograft.
+9. T3-T4 posterior decompression for abscess.
+.
+[**2187-11-2**] L5-S2 spinal abscess debridement
+1. Iliac crest aspirate.
+2. Iliac crest bone biopsy.
+3. L5 bilateral laminectomy, medial facetectomy,
+    foraminotomy for removal of epidural abscess.
+4. S1 bilateral laminectomy, medial facetectomy and
+    decompression for epidural abscess.
+5. S2 decompression, bilateral laminectomy.
+6. Repair of dural leak.
+.
+Percutaneous gastrojejunostomy tube placement
+
+
+History of Present Illness:
+65F with history of sciatica and chronic low back pain,
+presenting to [**Hospital3 10310**] hospital with worsening back pain,
+now admit to MICU with altered mental status, renal failure and
+multiple epidural abcesses.  She began to feel ill one week ago
+when she acutely felt "awful" with low-grade fevers, back pain
+and thought she had the flu.  She went to the ED, where she was
+treated with ibuprofen, Vicodin and Tamiflu.  She stayed home
+for the rest of the week resting her back, until the pain
+worsened on Friday and she went to see her PCP.  [**Name10 (NameIs) **] was
+diagnosed with sciatica and sent home with Percocet.  Over
+Saturday and Sunday she became increasingly somnolent, sleeping
+excessively and refusing to eat.  Initially she would still
+drink water through a straw, but stopped doing that Sunday.  Her
+husband called the [**Name (NI) **] for advice, and was told to call 911.  She
+had not complained specifically of headaches and he did not
+notice photophobia or neck stiffness.  She may have been
+urinating less, but did not complain of dysuria.
+
+EMS arrived to find her supine on the couch complaining of back
+pain.  In the OSH ED her VS were T 99.6, HR 120, BP 132/68, 91%
+on RA.   Given ceftriaxone, flagyl, clindamycin, and vancomycin.
+ Episode of transient tachycardia to 120s that resolved with
+fluids.  Found to have new ARF, a positive UA and leukocytosis
+to 20K with 14% bands.  No imaging done there before she was
+transferred to the [**Hospital1 **].
+.
+In the [**Hospital1 18**] ED, initial vs were: T97.9 HR103 113/76 R30 98% on
+RA.  She was very somnolent and confused speech when awoken.
+Noted to have pustular and petichial rash over torso and lower
+extremities.  Difficult neurologic exam given cooperation.  Head
+CT normal.  MRI performed that was concerning for multiple
+diffuse epidural collections on a noncontrast scan limited
+somewhat by motion.  Spine service was consulted, who reviewed
+MRI and felt no spine compression - no surgical intervention
+right now.  Lactate elevated.  She received vanco, ceftriaxone,
+and was supposed to get ampicillin and acyclovir, which did not
+happen prior to transfer.  Did not LP given concern for epidural
+collections.  Blood cultures drawn (others pending at OSH) and
+heme/onc consulted out of concern for TTP.
+
+On the floor, she is somnolent but arousable and does open her
+eyes.  She grimaces on movement of any of her extremities but
+does not speak.  Will answer yes if asked if she has pain but
+does not speak.
+.
+Review of systems:
+(+) Per HPI, plus per husband a bad fall mechanical fall in her
+garden two months ago causing a facial hematoma.  Has had UTIs
+in the past but non recently.
+
+
+Past Medical History:
+- back pain/sciatica
+
+Social History:
+Principal with multiple flu contacts. Denies EtOH, drinking,
+illicit substances.  Son lives in [**Location 10311**], [**State 8449**] and is
+coming in tomorrow.
+
+
+Family History:
+Father lived to 96, mother lived to 86 then died after slow
+decline.
+
+
+Physical Exam:
+ON ADMISSION:
+Vitals: T: 97.7 BP: 107/52 P: 97 R: 26  O2: 93% on 4L NC
+General: Arousable but closes eyes almost immediately. Does not
+answer questions of orientation.
+HEENT: PERRL, sclera anicteric, MMM, oropharynx with small
+pustules and signs of buccal trauma from biting. Good dentition,
+not signs of abscesses.
+Neck: Neck stiff, but patient does not relax. No JVD. ? positive
+Kernig's sign with resistance.  Patient resisting too much for
+Brudzinski's sign.
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen:  soft, grimaces on palpation of epigastrum and RUQ,
+non-distended, bowel sounds present, no rebound tenderness, no
+organomegaly
+GU: foley in place.
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Skin: Diffuse tiny pustules over erythematous base, generally
+blanching, though some over hemorrhagic, non-blanching base.
+More concentrated over thighs, sparing face, palms and soles.
+.
+ON DISCHARGE:
+General: answers questions appropriately. speaks slowly.
+fatigued. +anasarca
+HEENT: PERRL, sclera anicteric
+Neck: [**Location (un) 2848**] J in place
+Lungs: tr crackles b/l bases
+CV: tachcardic, no murmurs, rubs, gallops
+Abdomen:  soft, nontender, +BS
+GU: foley in place.
+Ext: warm, well perfused, severe pitting edema of b/l legs and
+RUE
+Skin: rash resolved
+Neuro: CN2->12 grossly intact, able to move all fingers and
+toes. able to flex L arm at elbow against gravity, but not
+shoulder. not able to flex R arm against [**Last Name (un) 10312**] at arm or
+shoulder. Cannot lift legs off bed. Sensation grossly intact.
+
+Pertinent Results:
+ON ADMISSION:
+[**2187-10-15**]
+.
+136  98  133
+------------- 196
+4.5  13  5.7
+.
+Ca: 7.2 Mg: 3.1 P: 4.1
+ALT: 168 AP: 153 Tbili: 3.6 Alb: 2.1
+AST: 141 LDH: 513 Dbili: 3.1
+Lip: 11
+.
+Serum ASA, EtOH, Acetmnphn, Benzo, Barb, Tricyc Negative
+.
+Hapto: 267
+.
+......12.3
+10.9 ------ 58
+......38.1
+N:85 Band:0 L:2 M:13 E:0 Bas:0
+.
+PT: 13.4  PTT: 27.8  INR: 1.1
+Fibrinogen: 837
+.
+Utox neg.
+.
+HIV neg
+.
+[**10-15**] MRI spine:
+Multifocal small epidural collections as detailed above,
+predominantly in the thoracic spine. No significant cord
+compression is noted at any level.
+Etiology for these collections could include infection or
+hematomas.
+Appearance is not suggestive of neoplasm, although correlation
+with CSF
+evaluation would be recommended.Evaluation is limited due to
+lack of
+contrast. Extensive degenerative changes in the lumbar spine
+with clumping of nerve roots at L5-S1.
+.
+[**10-15**] CT head:
+No acute intracranial process.
+.
+[**10-15**] CT abdomen/pelvis:
+No evidence of hydronephrosis or obstructive renal calculi.
+Given
+noncontrast technique, pyelonephritis cannot be excluded.
+Recommend clinical correlation.
+.
+[**10-16**] Echo:
+No vegetations or clinically-significant regurgitant valvular
+disease seen (reasonable-quality study). Normal global and
+regional biventricular systolic function. Mild pulmonary
+hypertension. In presence of high clinical suspicion, absence of
+vegetations on transthoracic echocardiogram does not exclude
+endocarditis.
+.
+[**10-17**] CXR:
+Findings suggestive interval worsening of mild-to-moderate
+pulmonary edema; chronic interstitial lung disease may be
+present.
+.
+[**10-20**] MRI Spine:
+Overall no significant change compared to the previous study
+with
+the exam limited by motion. Severe degenerative changes are
+identified with foraminal narrowing as above. The previously
+noted tiny epidural collection at L5-S1 level is not apparent
+but mild epidural enhancement is seen. No definite new
+collection is identified.
+.
+[**10-20**] MRI Head:
+No significant abnormalities on MRI of the brain with and
+without
+gadolinium.
+.
+[**10-21**] CT Pelvis:
+1) No evidence of right hip infection or abscess. Note that MRI
+or
+radionuclide bone scan are more sensitive for the detection of
+early
+infection.
+2) Diffuse anasarca.
+.
+[**10-25**] EMG/NCS:
+Complex, abnormal study. The electrophysiologic findings are
+consistent with
+a severe, subacute multilevel polyradiculopathy involving
+cervical and
+lumbosacral myotomes diffusely and would be consistent with
+either an
+inflammatory/infectious meningeal process. The abnormalities are
+most
+pronounced in the midcervical region. In addition, there is
+evidence for a superimposed neuromyopathy, as may be seen in
+acute quadriplegic myopathy of intensive care.
+
+[**10-30**] C-Spine Non-Trauma:
+Five intraoperative radiographs of cervical spine with final
+images showing both anterior and posterior fusion extending from
+C4 through T1 posteriorly and C5 through T1 anteriorly. There is
+an interbody anterior graft at C5-6 and apparently C7 body has
+been partially replaced by a metallic device.
+.
+[**10-31**] MRI Head:
+1. No acute infarction or hemorrhage.
+2. Sinus disease as described above, the activity of which is to
+be
+determined clinically.
+3. Enhancing fluid within the left temporalis region suggestive
+of phlegmon. This enhancing collection previously demonstrated
+restricted diffusion. Additional subcutaneous scalp fluid
+collections in the bilateral parietal regions may represent soft
+tissue edema; however, there is no evidence of enhancement to
+suggest abscess.
+.
+[**10-31**] MRI L Spine:
+1. New posterior epidural abscess extending from the level of
+L4-L5 to the
+level of S2 with phlegmonous extension into the paravertebral
+and paraspinous musculature. No evidence of enhancing
+intervertebral discs to suggest discitis.
+2. Advanced degenerative changes of the lumbar spine, unchanged
+since the
+previous examination.
+.
+[**11-1**] MRI T spine:
+1. Epidural abscesses are identified at the upper thoracic spine
+
+involving the levels of T1, T2, and T3, apparently slightly
+smaller since the prior examination, however, there is
+persistent enhancement surrounding the thecal sac and the spinal
+cord.
+2. No evidence of abnormal signal within the thoracic spinal
+cord.
+3. Epidural abscess is again demonstrated at the level of T7/T8,
+causing
+anterior thecal sac deformity and also demonstrating pattern of
+enhancement.
+4. Heterogeneous signal is again redemonstrated in the bone
+marrow, likely
+consistent with a combination of osteomyelitis/discitis.
+5. Persistent bilateral pleural effusions.
+.
+[**11-2**] XR L-Spine:
+Single intraoperative radiograph performed without a radiologist
+present.
+These demonstrate the lower lumbar spine. At the lumbosacral
+junction,
+instrumentation is demonstrated. Background degenerative change
+is
+demonstrated in the remainder of the lumbar spine in the single
+intraoperative radiograph. For full details of surgery, please
+consult the operative report.
+.
+[**11-9**] MRI SPINE:
+IMPRESSION:
+1. Persistent multiloculated small epidural abscess anterior to
+the thecal
+sac at the L5-S1 level measuring up to 2 cm in the SI dimension
+and
+compressimg the thecal sac at this level.
+2. Markedly improved epidural abscesses at C5 through T1, T3-T4
+and
+posteriorly at L4-L5. Fluid collections in the resection bed
+within the
+cervical and lumbar spine may be postoperative, though infection
+cannot be
+excluded.
+3. Persistent multifocal abnormal bone marrow signal
+abnormality, consistent
+with extensive osteomyelitis.
+4. Large bilateral pleural effusions.
+.
+[**11-9**] right upper extremity ultrasound:
+1. Fibrin sheath identified around PICC line in the right
+basilic vein. The
+fibrin sheath does not extend beyond the basilic vein.
+2. No deep venous thrombosis identified in right upper limb.
+.
+[**11-12**] Ultrasound:
+FINDINGS: Grayscale and color Doppler imaging of the common
+femoral,
+superficial femoral, and popliteal veins was performed
+bilaterally. Normal
+compressibility, flow, waveform, and augmentation demonstrated.
+No
+intraluminal thrombus is identified. Subcutaneous edema is noted
+bilaterally.
+
+IMPRESSION: No lower extremity deep venous thrombosis
+bilaterally.
+
+
+
+
+Brief Hospital Course:
+#. MSSA infection (including epidural abscesses/vertebral
+osteo/meningitis/bacteremia/skin lesions/UTI): Pt found to have
+MSSA from blood and also grew MSSA from urine.  Vancomycin was
+started, then switched to Nafcillin when the organism was
+identified. TTE was performed and showed no vegetations. It is
+unknown what the portal of entry for the MSSA was. The
+bacteremia, skin lesions and UTI resolved with appropriate
+antibiotic therapy. Ortho spine was consulted and recommended
+serial imaging to determine whether epidural abscesses were
+increasing in size or causing spinal cord compression. Pt got
+MRIs approximately once a week and on the 3rd it was more clear
+that the patient would require surgery. She underwent
+neurosurgery [**10-30**] and for epidural abscess drainage (and C7
+corpectomy, C4-T1 fusion, T3-4 laminectomy).  Multiple abscesses
+present (~5, with 3 major ones), hardware place, cultures sent,
+debrided.  Upon repeat imaging post operatively, MRI showed
+expanding T-spine epidural abscess, so she then underwent L
+spine decompression [**11-2**] with debridement.  Per ID, Gentamycin
+was added to help with Nafcillin penetration for a 5-day course,
+which was completed on [**11-6**]. Pt will continue on nafcillin for
+at least 8 weeks and will follow up with spine and ID.  Her
+tentative stop date for nafcillin is [**2187-12-29**], or it may be
+stopped on [**12-14**] when she visits ID.  She has an appointment with
+Spinal surgery on [**2186-12-27**].  she will need to have her staples
+removed on [**2187-11-23**] in rehab with log role [**Last Name (LF) 10313**], [**First Name3 (LF) **] Spine
+surgery. She is to have weekly [**First Name3 (LF) **] draws faxed to the Infectious
+Disease Physician, [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].
+.
+#Hospital Acquired Pneumonia: treated for HAP with vancomycin
+and cefepime from [**11-11**] through [**11-18**].  Her nafcillin was
+stopped during this treatment and was restarted on [**11-19**].
+.
+#. Altered mental status: The patient was initially minimally
+responsive. This was thought to be secondary to meningitis as
+well as the severity of her infection. This resolved
+substantially with antibiotics. She did remain minimally
+delerious throughout her stay (generally oriented x3 with
+moments of confusion). MRI head was normal.
+.
+# Weakness: As pt's mental status improved and she became
+cooperative with  neuro exam, it became clear that she had
+diffuse weakness with some focality (especially R arm) with
+sensation relatively intact. Neurology was consulted who felt
+that some of the weakness could be [**12-25**] cord inflammation and so
+pt recieved pulsed steroids early in her admission without
+significant effect. Pt underwent EMG which showed a mixed
+picture (see EMG report for full details). Pt did undergo
+decompression on [**10-30**] and [**11-2**] but strength remained similar.
+.
+#. GI Bleed:  On [**2187-10-28**] pt developed melanotic stools and a
+hematocrit drop from 24 to 20. IV PPI was continued and she
+recieved 1U of prbcs and had an EGD which showed severe
+ulcerations in stomach and duodenum most consistent with nsaid
+use (pt did use ibuprofen at home). Per pt she had had a normal
+colonoscopy at [**Hospital1 112**] 4 yrs ago and this was not repeated as an
+inpt. Pt also reports h/o duodenal ulcers in the [**2147**]. An h
+pylori was sent and was positive. Treatment of h pylori was
+deferred in setting of nafcillin therapy and severe infection.
+Pt was continued on PPI, eventually  transitioned to PO. Pt will
+need 2 week course of amoxicillin and clarithromycin after her
+nafcillin treatment is complete (nafcillin does not cover h
+pylori.)
+She should continue lansoprazole until her visit with the
+Gastroenterologist in [**Month (only) 404**].
+.
+#. Persistent Sinus Tachycardia: Pt maintained HR of ~100
+throughout her admission (~1 month). This was felt to most
+likely be related to her severe underlying infection and
+recurrent low grade fevers. Intravascular volume depletion was
+also a likely contributor given pt's low albumin and anasarca
+and clinical appearance of being dry (dry mouth, low JVP). PE
+was considered, however, pt was on DVT ppx throughout admission
+and EKG did not have any changes. Further, pt's oxygen
+requirement was minimal to none and ultimately it was decided
+that PE was highly unlikely. Also given her prolonged stay may
+be a PE, though this is less likely.
+.
+#. Edema: Patient was noted to have anasarca and an albumin of
+1.9. Pt was not diuresed aggressively as she appeared
+intravascularly depleted and had minimal oxygen requirement. Her
+edema improved upon discharge.
+.
+#. Anemia: Pt remained anemic throughout her stay. Perhaps she
+has had ulcers for some time contributing to her anemia. Her
+reticulocyte count was 6.7 arguing against marrow suppression as
+the etiology, however, iron studies were consistent with anemia
+of chronic disease. The transfusion goal was set at 22. She
+recieved 2U of PRBCs throughout her stay.
+.
+#. Pain: Patient had severe back pain throughout her admission
+that was ultimately treated with a fentanyl patch with small
+boluses of IV morphine for breakthrough pain. A kanair bed was
+also found to help with her pain.
+.
+#. Rash: On admission pt had 2 rashes. She had diffuse small
+pustules which grew MSSA and resolved c antibiotics. She also
+had, on the left back, a 4 x 3cm erythematous plaque with a
+central brown / black, rough, necrotic area which was biopsied
+by dermatology and showed "Focal necrotizing vasculitis in
+mid-dermis with focal thrombosis, and ischemic necrosis of
+epidermis and appendages" which dermatology felt was consistent
+with a reactive process, rather than representing a primary
+vasculitis, given the clinical scenerio.
+.
+#. Acute renal failure: Pt had [**Last Name (un) **] on admission, which resolved
+c IVF.
+.
+#. Elevated transaminases: Pt had elevated LFTs on admission,
+most likely from poor perfusion in the setting of dehydration or
+billiary sludging in the setting of SIRS.  RUQ ultrasound
+unremarkable. This was trended and resolved.
+.
+#. Thrombocytopenia: in combination with direct bilirubinemia
+was concerning for consumptive process like TTP or DIC on
+admission, however no chistocytes on smear.  Most likely due to
+poor production in the setting of infection and resolved during
+admission.
+.
+#. Nutrition: she failed speech and swallow on [**11-12**].  A
+percutaneous gastrojejunostomy tube was placed on [**11-15**] and tube
+feeds continued.
+.
+# Electrolyte Abnormalities: Patient had persistent hypokalemia
+and hypophosphatemia. Standing electrolyte orders were instilled
+and should be continued in rehab until levels normalize. Also, a
+Chem-10 should be checked every other day while taking these
+medications.
+
+#. Access: Patient has a PICC placed in the right arm on
+[**2187-10-19**].
+
+#. Code: Full Code
+-------------
+TO DO
+- treat for h pylori after treatment for MSSA complete
+- take out staples on [**2187-11-23**] in rehab
+- continue age appropriate cancer screening
+- continue pain management without nsaids
+
+
+Medications on Admission:
+Tylenol and ibuprofen generally for back pain.  This past week
+Tamiflu, Vicodin and Percocet.
+
+
+Discharge Medications:
+1. Oxycodone 5 mg/5 mL Solution [**Date Range **]: One (1)  PO Q6H (every 6
+hours) as needed for pain.
+2. Miconazole Nitrate 2 % Powder [**Date Range **]: One (1) Appl Topical TID
+(3 times a day).
+3. Heparin, Porcine (PF) 10 unit/mL Syringe [**Date Range **]: One (1) ML
+Intravenous PRN (as needed) as needed for line flush.
+4. Lovenox 40 mg/0.4 mL Syringe [**Date Range **]: One (1)  Subcutaneous once
+a day: to be discontinued when able to move around q8h. .
+5. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated [**Date Range **]:
+[**11-24**] Adhesive Patch, Medicateds Topical DAILY (Daily): 12 hours
+on, 12 hours off .
+6. Insulin Regular Human 100 unit/mL Solution [**Month/Day (2) **]: per sliding
+scale  Injection ASDIR (AS DIRECTED) as needed for
+hyperglycemia.
+7. Acetaminophen 325 mg Tablet [**Month/Day (2) **]: Two (2) Tablet PO Q6H (every
+6 hours) as needed for fever or pain.
+8. Senna 8.6 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO BID (2 times a
+day) as needed for constip.
+9. Polyethylene Glycol 3350 17 gram/dose Powder [**Month/Day (2) **]: One (1)  PO
+DAILY (Daily) as needed for constipation.
+10. Docusate Sodium 50 mg/5 mL Liquid [**Month/Day (2) **]: One (1)  PO BID (2
+times a day): Hold for loose stools.
+11. Morphine 2 mg/mL Syringe [**Month/Day (2) **]: One (1)  Injection Q4H (every
+4 hours) as needed for pain: hold for sedation, rr<12.
+12. Fentanyl 50 mcg/hr Patch 72 hr [**Month/Day (2) **]: One (1) Patch 72 hr
+Transdermal Q72H (every 72 hours).
+13. Lisinopril 10 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO DAILY
+(Daily).
+14. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+Tablet,Rapid Dissolve, DR PO BID (2 times a day).
+15. Outpatient [**Name (NI) **] Work
+PT, PTT, INR, Chem-7, LFTs, CBC/Diff every monday
+faxed to Infectious disease R.Ns. at ([**Telephone/Fax (1) 1353**]
+
+16. Nafcillin in D2.4W 2 gram/100 mL Piggyback [**Telephone/Fax (1) **]: Two (2)
+grams Intravenous Q4H (every 4 hours): Start Date: [**2187-11-19**]
+Last Dose should be [**2187-12-28**].
+17. Outpatient [**Month/Day/Year **] Work
+Please check chem-10 every other day until electrolytes are
+normalized.
+18. Potassium Chloride 20 mEq Packet [**Month/Day/Year **]: One (1) packet PO TID
+(3 times a day): hold for K > 4.
+19. Phos-NaK 280-160-250 mg Powder in Packet [**Month/Day/Year **]: Two (2)  PO
+once a day: hold for Phos > 4.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 105**] - [**Location (un) 86**]
+
+Discharge Diagnosis:
+MSSA epidural abscesses, MSSA meningitis and vertebral
+osteomyelitis and discitis, MSSA UTI, MSSA bacteremia, MSSA
+diffuse skin pustules, profound weakness. dysphagia. anasarca.
+duodenal and gastric ulcers complicated by bleeding.
+
+
+Discharge Condition:
+Vital signs stable. very weak legs and R arm more swollen than L
+arm, but very diffuse weakness. anasarca. intermittently
+confused.
+
+
+Discharge Instructions:
+You were admitted with a bacterial infection of your spinal
+fluid and the bones of your spine as well as your urine and
+blood and skin. You were treated with antibiotics and the
+orthopedic surgeons did two surgeries to take out the abscesses.
+
+
+You also had a lot of weakness, for which we had neurology see
+you. They felt that your weakness was due to a combination of
+factors including the infection around your spine and also some
+muscle weakness from being so weak. You worked extensively with
+physical therapy and will continue to do so at rehab.
+.
+You were having difficulty swallowing as well, thought secondary
+to pharyngeal inflammation from your cervical spine surgery and
+muscle weakness from prolonged hospitalization.  You therefore
+had a gastrojejunostomy tube placed to receive nutrition.
+.
+You will need to wear the cervical collar until you meet with
+the spine surgeons on [**2187-12-27**]. You have staples on
+your back. These will need to be removed [**2187-11-23**]. We spoke with
+the spine surgeons and they stated your facility can remove
+these under log role precautions.
+.
+You will need to continue nafcillin until at least [**2187-12-28**],
+unless the Infectious Disease specialists tell you otherwise at
+your appointment on [**2187-12-14**].
+
+Followup Instructions:
+Please help Ms [**Known lastname 166**] go to the following appointments:
+Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] (infectious disease), MD. Phone
+[**Telephone/Fax (1) 457**] Date: [**2187-11-28**] 10:30am
+Provider: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] (infectious disease), MD
+Phone:[**Telephone/Fax (1) 457**] Date/Time: [**2187-12-14**] 9:30a
+Provider: [**First Name8 (NamePattern2) **] [**Name11 (NameIs) 10314**] (gastroenterology), MD
+Phone:[**Telephone/Fax (1) 463**] Date/Time:[**2187-12-5**] 3:00p
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] (spine surgery) Phone:[**Telephone/Fax (1) 1228**]
+Date/Time:[**2187-12-27**] 12:20
+
+
+

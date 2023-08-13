@@ -1,0 +1,304 @@
+Admission Date:  [**2152-10-18**]              Discharge Date:   [**2152-10-23**]
+
+Date of Birth:  [**2104-10-21**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Vancomycin
+
+Attending:[**First Name3 (LF) 4748**]
+Chief Complaint:
+tramatic fx of left fibula
+
+Major Surgical or Invasive Procedure:
+revision of Left BKa [**10-19**]
+s/p epidural [**10-19**],d/c'd [**10-20**]
+Import Major Surgical or Invasive Procedure
+
+
+History of Present Illness:
+Patient who under went Left BKA for left charchot foot
+deforimity which was refractory to multiple
+reconstructions.Experienced a tramatic left tibular fx while
+climbing stair without prothesis on at the time.Admitted for
+peroperative Ketamin gtt and BKA revision
+
+Past Medical History:
+PMH: Charcot, degenerative disease of the foot, ankle, central
+cord syrinx, polyneuropathy.  He also received left foot fusion
+and the two other operations of the left foot and ankle and a
+right foot surgery.
+
+PSH: Fat pad biopsy (Amyloidosis ruled out), left foot fusion in
+[**2148**], exostectomy of the left foot in [**2149**], another exostectomy
+in [**2150**] and a more recent exostectomy in later [**2150**].
+
+
+Social History:
+SocHx:  He has a MA degree.  He is now not working because of
+his problems.  [**Name (NI) **] is single.  He smokes less than half a pack a
+day to one pack a day for the last 10 to 15 years.  Drinks two
+to five drinks a week of usually wine; occasional marijuana use.
+
+
+Family History:
+FamHx:  His mother who is 83 has moderate Alzheimer's disease.
+Father died at 84 of stroke.  Two sisters and a brother in good
+health without any neurological problems. Father's side of the
+family history is really not very well known.
+
+
+Physical Exam:
+Vital signs: stable, afebrile
+HEENT: no carotid bruits
+Lungs: clear to auscultaation
+Heart: RRR
+Abd: bengin
+EXT: well healed left BKA stump,no erythema,no fluctance. right
+charchot foot deformity without tenderness or erythema.
+Pulses4+
+neuro: nonfocal
+
+Pertinent Results:
+[**2152-10-18**] 10:44PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.021
+[**2152-10-18**] 10:44PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2152-10-18**] 10:44PM URINE  RBC-1 WBC-1 BACTERIA-FEW YEAST-NONE
+EPI-0
+[**2152-10-18**] 10:44PM URINE  AMORPH-FEW CA OXAL-OCC
+[**2152-10-18**] 10:44PM URINE  MUCOUS-RARE
+[**2152-10-18**] 05:30PM   GLUCOSE-82 UREA N-16 CREAT-1.0 SODIUM-141
+POTASSIUM-3.6 CHLORIDE-107 TOTAL CO2-23 ANION GAP-15
+[**2152-10-18**] 05:30PM   CALCIUM-9.5 PHOSPHATE-3.5 MAGNESIUM-2.1
+[**2152-10-18**] 05:30PM   WBC-5.8 RBC-4.89 HGB-14.3 HCT-40.1 MCV-82
+MCH-29.3 MCHC-35.7* RDW-13.6
+[**2152-10-18**] 05:30PM   PLT COUNT-199
+[**2152-10-18**] 05:30PM   PT-14.4* PTT-26.4 INR(PT)-1.3*
+
+[**2152-10-22**] 07:35AM BLOOD WBC-3.1* RBC-4.29* Hgb-12.8* Hct-36.1*
+MCV-84 MCH-29.7 MCHC-35.3* RDW-13.6 Plt Ct-124*
+[**2152-10-22**] 07:35AM BLOOD PT-13.8* PTT-26.6 INR(PT)-1.2*
+[**2152-10-22**] 07:35AM BLOOD Glucose-104 UreaN-9 Creat-0.9 Na-141
+K-3.9 Cl-108 HCO3-25 AnGap-12
+[**2152-10-22**] 07:35AM BLOOD Calcium-8.6 Phos-2.8 Mg-2.1
+
+Brief Hospital Course:
+[**2152-10-18**] Admitted. IV Kefzol began perioperatively. Iv ketamin
+began by Pain service. prepared for surgery.
+[**2152-10-19**] Revision og Left BKA
+[**2152-10-20**] POD#1. no overnight events. Inital dressing removed.
+Stump clean dry and intact. Epidural d/c'd. foley d/c'd diet
+advance. PT to evaluate.
+developed temp 102.5 not resonded to tylenol, repeat 102.7 blood
+and urine c/s obtained, cbc obtained. antibiotics covereage
+brodened from kefzol to vanco/cipro/flagyl. Patient developed
+subjective sx of SOB,. developed rash on chest and hives on neck
+shortly after starting antibioitcs.Atbx discontinued. wbc 3.6
+UA negative for wbc,bacti,nitrates,leuk/rbc 20-50. he than
+develope temperature of 104 which continued to rise to 105.6
+repeat labs obtained.patient PA cxr no infiltrates. placed on
+cooling blanket and transfered to ICU. ID consulted.  ID
+recommended Daptomycin and Ceftazidime until 24hours afebrile.
+Blood cultures were sent.
+[**2152-10-21**] Ketamine drip dose was tapered. Pt was afebrile.
+[**2152-10-22**] Pt was afebrile for more than 24 hours.  Antibiotics
+were discontinued.
+[**2152-10-23**] Pt remained afebrile.  Blood cultures had no growth to
+date.  Pt being discharged in good condition, tolerating regular
+diet, having bowel movements and voiding and pain well
+controlled.  Pt to follow up in three weeks.
+
+Medications on Admission:
+clonazepam 1mgm tid,topiramate 100mgm tab [**12-15**] @HS,tramadol 50mgm
+q4h,
+
+
+Discharge Medications:
+1. Tramadol 50 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours)
+as needed.
+2. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day) as needed.
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Topiramate 100 mg Tablet Sig: 1.5 Tablets PO HS (at bedtime)
+as needed.
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 3 weeks.
+Disp:*42 Capsule(s)* Refills:*0*
+6. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO 3-6 hours for 2
+weeks: Do not drive, drink or operate heavy machinery while
+taking oxycodone.
+Disp:*200 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Bayada Nurses Inc
+
+Discharge Diagnosis:
+tramatic left fibular fx with migration
+history of charchot feet,s/p multiple left foot
+resonstructions-failed,s/p left BKA [**4-20**]
+histroy of poly neuropathies
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+no stump shrinkers
+no tub baths
+please do not wear prothesis until seen in followup with Dr.
+[**Last Name (STitle) 1391**]
+call if develope fever >101.5
+call if wound site becomes red,swollen or drains
+
+.
+This information is designed as a guideline to assist you in a
+speedy recovery from your surgery. Please follow these
+guidelines unless your physician has specifically instructed you
+otherwise. Please call our office nurse if you have any
+questions. Dial 911 if you have any medical emergency.
+.
+ACTIVITY:
+.
+There are restrictions on activity. On the side of your
+amputation you are non weight bearing until cleared by your
+Surgeon. You should keep this amputation site elevated when ever
+possible.
+.
+You may use the other leg to assist in transferring and pivots.
+But try not to exert to much pressure on the amputation site
+when transferring and or pivoting. Please keep knee immobilizer
+on at all times to help keep the amputation site straight.
+.
+No driving until cleared by your Surgeon.
+.
+PLEASE CALL US IMMEDIATELY FOR ANY OF THE FOLLOWING PROBLEMS:
+.
+Redness in or drainage from your leg wound(s) .
+.
+Watch for signs and symptoms of infection. These are: a fever
+greater than 101 degrees, chills, increased redness, or pus
+draining from the incision site. If you experience any of these
+or bleeding at the incision site, CALL THE DOCTOR.
+.
+Exercise:
+.
+Limit strenuous activity for 6 weeks.
+.
+Do not drive a car unless cleared by your Surgeon.
+.
+Try to keep leg elevated when able.
+.
+BATHING/SHOWERING:
+.
+You may shower immediately upon coming home. No bathing. A
+dressing may cover you??????re amputation site and this should be
+left in place for three (3) days. Remove it after this time and
+wash your incision(s) gently with soap and water. You will have
+sutures, which are usually removed in 3 weeks. This will be done
+by the Surgeon on your follow-up appointment.
+.
+WOUND CARE:
+.
+An appointment will be made for you to return for suture
+removal.
+.
+When the sutures are removed the doctor may or may not place
+pieces of tape called steri-strips over the incision. These will
+stay on about a week and you may shower with them on. If these
+do not fall off after 10 days, you may peel them off with warm
+water and soap in the shower.
+.
+Avoid taking a tub bath, swimming, or soaking in a hot tub for
+four weeks after surgery.
+.
+MEDICATIONS:
+.
+Unless told otherwise you should resume taking all of the
+medications you were taking before surgery. You will be given a
+new prescription for pain medication, which can be taken every
+three (3) to four (4) hours only if necessary.
+.
+Remember that narcotic pain meds can be constipating and you
+should increase the fluid and bulk foods in your diet. (Check
+with your physician if you have fluid restrictions.) If you feel
+that you are constipated, do not strain at the toilet. You may
+use over the counter Metamucil or Milk of Magnesia. Appetite
+suppression may occur; this will improve with time. Eat small
+balanced meals throughout the day.
+.
+CAUTIONS:
+.
+NO SMOKING! We know you've heard this before, but it really is
+an important step to your recovery. Smoking causes narrowing of
+your blood vessels which in turn decreases circulation. If you
+smoke you will need to stop as soon as possible. Ask your nurse
+or doctor for information on smoking cessation.
+.
+Avoid pressure to your amputation site.
+.
+No strenuous activity for 6 weeks after surgery.
+.
+DIET :
+.
+There are no special restrictions on your diet postoperatively.
+Poor appetite is expected for several weeks and small, frequent
+meals may be preferred.
+.
+For people with vascular problems we would recommend a
+cholesterol lowering diet: Follow a diet low in total fat and
+low in saturated fat and in cholesterol to improve lipid profile
+in your blood. Additionally, some people see a reduction in
+serum cholesterol by reducing dietary cholesterol. Since a
+reduction in dietary cholesterol is not harmful, we suggest that
+most people reduce dietary fat, saturated fat and cholesterol to
+decrease total cholesterol and LDL (Low Density Lipoprotein-the
+bad cholesterol). Exercise will increase your HDL (High Density
+Lipoprotein-the good cholesterol) and with your doctor's
+permission, is typically recommended. You may be self-referred
+or get a referral from your doctor.
+.
+If you are overweight, you need to think about starting a weight
+management program. Your health and its improvement depend on
+it. We know that making changes in your lifestyle will not be
+easy, and it will require a whole new set of habits and a new
+attitude. If interested you can may be self-referred or can get
+a referral from your doctor.
+.
+If you have diabetes and would like additional guidance, you may
+request a referral from your doctor.
+.
+FOLLOW-UP APPOINTMENT:
+.
+Be sure to keep your medical appointments. The key to your
+improving health will be to keep a tight reign on any of the
+chronic medical conditions that you have. Things like high blood
+pressure, diabetes, and high cholesterol are major villains to
+the blood vessels. Don't let them go untreated!
+.
+Please call the office on the first working day after your
+discharge from the hospital to schedule a follow-up visit. This
+should be scheduled on the calendar for seven to fourteen days
+after discharge. Normal office hours are 8:30-5:30 Monday
+through Friday.
+.
+PLEASE FEEL FREE TO CALL THE OFFICE WITH ANY OTHER CONCERNS OR
+QUESTIONS THAT MIGHT ARISE
+
+
+Followup Instructions:
+7-14 weeks Dr. [**Last Name (STitle) 1391**], call for an appointment [**Telephone/Fax (1) 1393**]
+3weeks for removal of sutures in Dr.[**Name (NI) 1392**] office
+Provider:  [**Name10 (NameIs) **] INFUSION Phone:[**Telephone/Fax (1) 1652**] Date/Time:[**2152-11-14**]
+7:50
+
+
+
+Completed by:[**2152-10-24**]

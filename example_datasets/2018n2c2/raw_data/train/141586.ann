@@ -1,0 +1,312 @@
+T1	Frequency 10002 10007	Daily
+R1	Frequency-Drug Arg1:T1 Arg2:T188
+T2	Drug 10008 10016	Warfarin
+T3	Strength 10017 10021	3 mg
+R2	Strength-Drug Arg1:T3 Arg2:T2
+T4	Route 10022 10024	PO
+R3	Route-Drug Arg1:T4 Arg2:T2
+T5	Frequency 10025 10030	Daily
+R4	Frequency-Drug Arg1:T5 Arg2:T2
+T6	Drug 10031 10045	Oyster calcium
+T7	Strength 10046 10052	500 mg
+R5	Strength-Drug Arg1:T7 Arg2:T6
+T8	Route 10053 10055	PO
+R6	Route-Drug Arg1:T8 Arg2:T6
+T9	Frequency 10056 10059	BID
+R7	Frequency-Drug Arg1:T9 Arg2:T6
+T10	Drug 10060 10071	Alendronate
+T11	Strength 10072 10077	70 mg
+R8	Strength-Drug Arg1:T11 Arg2:T10
+T12	Route 10078 10080	PO
+R9	Route-Drug Arg1:T12 Arg2:T10
+T13	Frequency 10081 10087	Weekly
+R10	Frequency-Drug Arg1:T13 Arg2:T10
+T14	Drug 10115 10125	Famotidine
+T15	Strength 10126 10131	20 mg
+R11	Strength-Drug Arg1:T15 Arg2:T14
+T16	Form 10132 10138	Tablet
+R12	Form-Drug Arg1:T16 Arg2:T14
+T17	Dosage 10144 10151	One (1)
+R13	Dosage-Drug Arg1:T17 Arg2:T14
+T18	Form 10152 10158	Tablet
+R14	Form-Drug Arg1:T18 Arg2:T14
+T19	Route 10159 10161	PO
+R15	Route-Drug Arg1:T19 Arg2:T14
+T20	Frequency 10162 10166	Q24H
+R16	Frequency-Drug Arg1:T20 Arg2:T14
+T21	Drug 10188 10200	Fexofenadine
+T22	Strength 10201 10206	60 mg
+R17	Strength-Drug Arg1:T22 Arg2:T21
+T23	Form 10207 10213	Tablet
+R18	Form-Drug Arg1:T23 Arg2:T21
+T24	Dosage 10219 10226	One (1)
+R19	Dosage-Drug Arg1:T24 Arg2:T21
+T25	Form 10227 10233	Tablet
+R20	Form-Drug Arg1:T25 Arg2:T21
+T26	Route 10234 10236	PO
+R21	Route-Drug Arg1:T26 Arg2:T21
+T27	Frequency 10237 10240	BID
+R22	Frequency-Drug Arg1:T27 Arg2:T21
+T28	Drug 10261 10271	Prednisone
+T29	Strength 10272 10276	5 mg
+R23	Strength-Drug Arg1:T29 Arg2:T28
+T30	Form 10277 10283	Tablet
+R24	Form-Drug Arg1:T30 Arg2:T28
+T31	Dosage 10289 10296	One (1)
+R25	Dosage-Drug Arg1:T31 Arg2:T28
+T32	Form 10297 10303	Tablet
+R26	Form-Drug Arg1:T32 Arg2:T28
+T33	Route 10304 10306	PO
+R27	Route-Drug Arg1:T33 Arg2:T28
+T34	Frequency 10307 10322	EVERY OTHER DAY
+R28	Frequency-Drug Arg1:T34 Arg2:T28
+T35	Drug 10345 10356	Simvastatin
+T36	Strength 10357 10362	10 mg
+R29	Strength-Drug Arg1:T36 Arg2:T35
+T37	Form 10363 10369	Tablet
+R30	Form-Drug Arg1:T37 Arg2:T35
+T38	Dosage 10375 10382	Two (2)
+R31	Dosage-Drug Arg1:T38 Arg2:T35
+T39	Form 10383 10389	Tablet
+R32	Form-Drug Arg1:T39 Arg2:T35
+T40	Route 10390 10392	PO
+R33	Route-Drug Arg1:T40 Arg2:T35
+T41	Frequency 10393 10398	DAILY
+R34	Frequency-Drug Arg1:T41 Arg2:T35
+T42	Drug 10411 10420	Vitamin D
+T43	Strength 10421 10431	1,000 unit
+R35	Strength-Drug Arg1:T43 Arg2:T42
+T44	Form 10432 10438	Tablet
+R36	Form-Drug Arg1:T44 Arg2:T42
+T45	Dosage 10444 10451	One (1)
+R37	Dosage-Drug Arg1:T45 Arg2:T42
+T46	Form 10452 10458	Tablet
+R38	Form-Drug Arg1:T46 Arg2:T42
+T47	Route 10459 10461	PO
+R39	Route-Drug Arg1:T47 Arg2:T42
+T48	Frequency 10462 10468;10469 10472	once a day
+R40	Frequency-Drug Arg1:T48 Arg2:T42
+T49	Drug 10477 10494	Calcium Carbonate
+T50	Strength 10495 10501	500 mg
+R41	Strength-Drug Arg1:T50 Arg2:T49
+T52	Form 10502 10518	Tablet, Chewable
+R42	Form-Drug Arg1:T52 Arg2:T49
+T53	Dosage 10524 10531	One (1)
+R43	Dosage-Drug Arg1:T53 Arg2:T49
+T55	Form 10532 10548	Tablet, Chewable
+R44	Form-Drug Arg1:T55 Arg2:T49
+T56	Route 10549 10551	PO
+R45	Route-Drug Arg1:T56 Arg2:T49
+T57	Frequency 10552 10555	BID
+R46	Frequency-Drug Arg1:T57 Arg2:T49
+T58	Drug 10576 10587	Alendronate
+T59	Strength 10588 10593	70 mg
+R47	Strength-Drug Arg1:T59 Arg2:T58
+T60	Form 10594 10600	Tablet
+R48	Form-Drug Arg1:T60 Arg2:T58
+T61	Dosage 10606 10613	One (1)
+R49	Dosage-Drug Arg1:T61 Arg2:T58
+T62	Form 10614 10620	Tablet
+R50	Form-Drug Arg1:T62 Arg2:T58
+T63	Route 10621 10623	PO
+R51	Route-Drug Arg1:T63 Arg2:T58
+T64	Frequency 10624 10635	once a week
+R52	Frequency-Drug Arg1:T64 Arg2:T58
+T65	Drug 10641 10649	Coumadin
+T66	Strength 10650 10654	1 mg
+R53	Strength-Drug Arg1:T66 Arg2:T65
+T67	Form 10655 10661	Tablet
+R54	Form-Drug Arg1:T67 Arg2:T65
+T68	Dosage 10667 10670	1.5
+R55	Dosage-Drug Arg1:T68 Arg2:T65
+T69	Form 10671 10678	Tablets
+R56	Form-Drug Arg1:T69 Arg2:T65
+T70	Route 10679 10681	PO
+R57	Route-Drug Arg1:T70 Arg2:T65
+T71	Frequency 10682 10692	at bedtime
+R58	Frequency-Drug Arg1:T71 Arg2:T65
+T72	Drug 10729 10748	Metoprolol Tartrate
+T73	Strength 10749 10754	25 mg
+R59	Strength-Drug Arg1:T73 Arg2:T72
+T74	Form 10755 10761	Tablet
+R60	Form-Drug Arg1:T74 Arg2:T72
+T75	Dosage 10767 10771	0.25
+R61	Dosage-Drug Arg1:T75 Arg2:T72
+T76	Form 10772 10778	Tablet
+R62	Form-Drug Arg1:T76 Arg2:T72
+T77	Route 10779 10781	PO
+R63	Route-Drug Arg1:T77 Arg2:T72
+T78	Frequency 10782 10789;10790 10793	twice a day
+R64	Frequency-Drug Arg1:T78 Arg2:T72
+T79	Drug 10831 10841	Famotidine
+T80	Strength 10842 10846	20mg
+R65	Strength-Drug Arg1:T80 Arg2:T79
+T81	Drug 10868 10880	Fexofenadine
+T82	Strength 10881 10885	60mg
+R66	Strength-Drug Arg1:T82 Arg2:T81
+T83	Drug 111 125	Ace Inhibitors
+T84	Reason 11867 11884	INR was corrected
+R67	Reason-Drug Arg1:T84 Arg2:T85
+R68	Reason-Drug Arg1:T84 Arg2:T86
+T85	Drug 11890 11899	Vitamin K
+T86	Drug 11919 11925	plasma
+T87	Drug 12024 12032	Coumadin
+T88	Drug 12076 12084	Coumadin
+T89	Strength 12104 12109	1.5mg
+R69	Strength-Drug Arg1:T89 Arg2:T88
+T90	Frequency 12110 12115	daily
+R70	Frequency-Drug Arg1:T90 Arg2:T88
+T91	Strength 1243 1248	10 mg
+R71	Strength-Drug Arg1:T91 Arg2:T96
+T92	Drug 12477 12485	coumadin
+T93	Strength 12486 12491	1.5mg
+R72	Strength-Drug Arg1:T93 Arg2:T92
+T94	Frequency 12492 12497	daily
+R73	Frequency-Drug Arg1:T94 Arg2:T92
+T95	Route 1252 1254	PO
+R74	Route-Drug Arg1:T95 Arg2:T96
+T96	Drug 1255 1264	Vitamin K
+T97	Drug 12622 12632	Metoprolol
+T98	Strength 12636 12642	6.25mg
+R75	Strength-Drug Arg1:T98 Arg2:T97
+T99	Frequency 12643 12654	twice a day
+R76	Frequency-Drug Arg1:T99 Arg2:T97
+T100	ADE 12692 12715	heart rate was too slow
+R77	ADE-Drug Arg1:T100 Arg2:T97
+T101	Drug 12725 12735	Amlodipine
+T103	Drug 128 159	Sulfa (Sulfonamide Antibiotics)
+T104	Drug 1321 1332	antibiotics
+T105	Drug 1345 1353	Coumadin
+T107	Drug 1567 1575	Coumadin
+T108	Strength 1582 1585	2.5
+R78	Strength-Drug Arg1:T108 Arg2:T107
+T110	Dosage 2285 2292	2 units
+T112	Drug 2296 2299	FFP
+T113	Reason 2685 2696	Angiogedema
+R82	Reason-Drug Arg1:T113 Arg2:T115
+R83	Reason-Drug Arg1:T113 Arg2:T116
+T115	Drug 2728 2738	solumedrol
+T116	Drug 2743 2757	H1,H2 blockers
+T117	ADE 3587 3597	Angioedema
+R86	ADE-Drug Arg1:T117 Arg2:T118
+T118	Drug 3720 3731	lisinospril
+T119	Reason 380 407	chronic atrial fibrillation
+R87	Reason-Drug Arg1:T119 Arg2:T125
+T121	Drug 3837 3845	steroids
+T122	Drug 3850 3864	H1/H2 blockers
+T123	Reason 3892 3911	Atrial fibrillation
+R90	Reason-Drug Arg1:T123 Arg2:T124
+T124	Drug 3915 3923	Coumadin
+T125	Drug 411 419	Coumadin
+T126	ADE 7571 7582	INR was >20
+R93	ADE-Drug Arg1:T126 Arg2:T130
+T1270	Reason 7571 7582	INR was >20
+T127	Drug 7605 7614	Vitamin K
+T128	Dosage 7619 7620	2
+T129	Drug 7630 7633	FFP
+T130	Drug 7636 7644	Coumadin
+T131	Reason 7716 7735	Acute renal failure
+R94	Reason-Drug Arg1:T131 Arg2:T132
+T132	Drug 7750 7753	IVF
+T133	Drug 7994 8003	Vitamin K
+T134	Drug 8061 8069	Coumadin
+T135	Drug 8094 8103	Vitamin K
+T136	Drug 8108 8111	FFP
+T137	Drug 8248 8256	coumadin
+T138	Strength 8276 8281	1.5mg
+R95	Strength-Drug Arg1:T138 Arg2:T137
+T139	Frequency 8282 8287	daily
+R96	Frequency-Drug Arg1:T139 Arg2:T137
+T141	Drug 8476 8491	anticoagulation
+T142	Drug 8651 8659	coumadin
+T143	Strength 8679 8684	1.5mg
+R98	Strength-Drug Arg1:T143 Arg2:T142
+T144	Frequency 8685 8690	daily
+R99	Frequency-Drug Arg1:T144 Arg2:T142
+T145	Reason 8695 8714	Atrial fibrillation
+R100	Reason-Drug Arg1:T145 Arg2:T146
+T146	Drug 8716 8726	Metoprolol
+T147	ADE 8751 8762	bradycardia
+R101	ADE-Drug Arg1:T147 Arg2:T146
+T148	Drug 8779 8794	anticoagulation
+T149	Drug 8839 8847	coumadin
+T150	Strength 8867 8872	1.5mg
+R102	Strength-Drug Arg1:T150 Arg2:T149
+T151	Frequency 8873 8878	daily
+R103	Frequency-Drug Arg1:T151 Arg2:T149
+T152	Reason 9031 9050	Acute Kidney Injury
+R104	Reason-Drug Arg1:T152 Arg2:T153
+T153	Drug 9106 9109	IVF
+T154	Reason 9115 9127	Hypertension
+R105	Reason-Drug Arg1:T154 Arg2:T155
+T155	Drug 9132 9142	Metoprolol
+T156	Drug 9149 9159	Amlodipine
+T157	Reason 9184 9194	BP control
+R107	Reason-Drug Arg1:T157 Arg2:T156
+T158	Reason 9199 9213	Hyperlipidemia
+R109	Reason-Drug Arg1:T158 Arg2:T159
+T159	Drug 9224 9230	statin
+T160	Reason 9235 9245	Angioedema
+R110	Reason-Drug Arg1:T160 Arg2:T161
+R111	Reason-Drug Arg1:T160 Arg2:T162
+R112	Reason-Drug Arg1:T160 Arg2:T163
+T161	Drug 9256 9268	Fexofenadine
+T162	Drug 9270 9280	Famotidine
+T163	Drug 9286 9296	Prednisone
+T164	Drug 9817 9827	Amlodipine
+T165	Strength 9828 9833	10 mg
+R113	Strength-Drug Arg1:T165 Arg2:T164
+T166	Route 9834 9836	PO
+R114	Route-Drug Arg1:T166 Arg2:T164
+T167	Frequency 9837 9842	Daily
+R115	Frequency-Drug Arg1:T167 Arg2:T164
+T168	Drug 9843 9855	Fexofenadine
+T169	Strength 9856 9861	60 mg
+R116	Strength-Drug Arg1:T169 Arg2:T168
+T170	Route 9862 9864	PO
+R117	Route-Drug Arg1:T170 Arg2:T168
+T171	Frequency 9865 9868	BID
+R118	Frequency-Drug Arg1:T171 Arg2:T168
+T172	Drug 9869 9879	Famotidine
+T173	Strength 9880 9885	20 mg
+R119	Strength-Drug Arg1:T173 Arg2:T172
+T174	Route 9886 9888	PO
+R120	Route-Drug Arg1:T174 Arg2:T172
+T175	Frequency 9889 9892	BID
+R121	Frequency-Drug Arg1:T175 Arg2:T172
+T176	Drug 9893 9903	Metoprolol
+T177	Strength 9904 9911	12.5 mg
+R122	Strength-Drug Arg1:T177 Arg2:T176
+T178	Route 9912 9914	PO
+R123	Route-Drug Arg1:T178 Arg2:T176
+T179	Frequency 9915 9918	BID
+R124	Frequency-Drug Arg1:T179 Arg2:T176
+T180	Drug 9919 9929	Prednisone
+T181	Strength 9930 9934	5 mg
+R125	Strength-Drug Arg1:T181 Arg2:T180
+T182	Route 9935 9937	PO
+R126	Route-Drug Arg1:T182 Arg2:T180
+T183	Frequency 9938 9953	Every other day
+R127	Frequency-Drug Arg1:T183 Arg2:T180
+T184	Drug 9954 9965	Simvastatin
+T185	Strength 9966 9971	20 mg
+R128	Strength-Drug Arg1:T185 Arg2:T184
+T186	Route 9972 9974	PO
+R129	Route-Drug Arg1:T186 Arg2:T184
+T187	Frequency 9975 9980	Daily
+R130	Frequency-Drug Arg1:T187 Arg2:T184
+T188	Drug 9981 9990	Vitamin D
+T189	Strength 9991 9998	1000 IU
+R131	Strength-Drug Arg1:T189 Arg2:T188
+T190	Route 9999 10001	PO
+R132	Route-Drug Arg1:T190 Arg2:T188
+R79	Dosage-Drug Arg1:T110 Arg2:T112	
+R80	Dosage-Drug Arg1:T128 Arg2:T129	
+R81	Reason-Drug Arg1:T1270 Arg2:T127	
+R91	Reason-Drug Arg1:T1270 Arg2:T129	
+T51	Route 11904 11915	transfusion
+R92	Route-Drug Arg1:T51 Arg2:T86	
+T54	Route 2725 2727	IV
+R84	Route-Drug Arg1:T54 Arg2:T115	
+T102	Route 3834 3836	IV
+R85	Route-Drug Arg1:T102 Arg2:T121	

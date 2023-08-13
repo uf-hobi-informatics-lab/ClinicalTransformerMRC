@@ -1,0 +1,378 @@
+T1	Drug 10299 10309	Vancomycin
+T2	Strength 10310 10312	1g
+R1	Strength-Drug Arg1:T2 Arg2:T1
+T3	Drug 10345 10350	Zosyn
+T4	Drug 10352 10360	Pip-tazo
+T5	Strength 10362 10366	4.5g
+R2	Strength-Drug Arg1:T5 Arg2:T3
+R3	Strength-Drug Arg1:T5 Arg2:T4
+T6	Frequency 10367 10370	Q8H
+R4	Frequency-Drug Arg1:T6 Arg2:T3
+R5	Frequency-Drug Arg1:T6 Arg2:T4
+T7	Reason 10599 10609	foot ulcer
+R6	Reason-Drug Arg1:T7 Arg2:T8
+R7	Reason-Drug Arg1:T7 Arg2:T9
+R8	Reason-Drug Arg1:T7 Arg2:T10
+R9	Reason-Drug Arg1:T7 Arg2:T11
+R10	Reason-Drug Arg1:T7 Arg2:T12
+R11	Reason-Drug Arg1:T7 Arg2:T13
+R12	Reason-Drug Arg1:T7 Arg2:T14
+R13	Reason-Drug Arg1:T7 Arg2:T15
+R14	Reason-Drug Arg1:T7 Arg2:T16
+R15	Reason-Drug Arg1:T7 Arg2:T20
+T8	Drug 10720 10725	Cipro
+T9	Drug 10727 10736	Meropenum
+T10	Drug 10738 10742	Gent
+T11	Drug 10744 10755	ceftriaxone
+T12	Drug 10782 10787	Zosyn
+T13	Drug 10789 10802	amp/sublactam
+T14	Drug 10824 10828	Vanc
+T15	Drug 10838 10843	Zosyn
+T16	Drug 10878 10883	Cipro
+T17	Strength 10885 10890	500mg
+R16	Strength-Drug Arg1:T17 Arg2:T16
+T18	Route 10891 10893	PO
+R17	Route-Drug Arg1:T18 Arg2:T16
+T19	Frequency 10894 10897	bid
+R18	Frequency-Drug Arg1:T19 Arg2:T16
+T20	Drug 10991 10997	Keflex
+T21	Route 10998 11000	PO
+R19	Route-Drug Arg1:T21 Arg2:T20
+T22	Strength 11001 11006	500mg
+R20	Strength-Drug Arg1:T22 Arg2:T20
+T23	Frequency 11007 11010	qid
+R21	Frequency-Drug Arg1:T23 Arg2:T20
+T24	Reason 11216 11237	Diabetic Ketoacidosis
+R22	Reason-Drug Arg1:T24 Arg2:T29
+R23	Reason-Drug Arg1:T24 Arg2:T32
+R24	Reason-Drug Arg1:T24 Arg2:T33
+T26	Drug 1144 1155	antibiotics
+T27	Drug 11462 11476	lantus insulin
+T28	Dosage 11491 11498	6 units
+R26	Dosage-Drug Arg1:T28 Arg2:T29
+T29	Drug 11502 11509	insulin
+T30	Dosage 11511 11519	2 liters
+R27	Dosage-Drug Arg1:T30 Arg2:T32
+T32	Drug 11526 11531	fluid
+T33	Drug 11587 11593	inslin
+T34	Route 11594 11598	drip
+R29	Route-Drug Arg1:T34 Arg2:T33
+T35	Drug 11835 11841	lantus
+T36	Strength 11915 11919	20mg
+R30	Strength-Drug Arg1:T36 Arg2:T35
+T37	Drug 11964 11971	humalog
+T38	Dosage 11992 11993;11994 11999	2 units
+R31	Dosage-Drug Arg1:T38 Arg2:T37
+T40	Reason 12027 12052	increasing glucose levels
+R33	Reason-Drug Arg1:T40 Arg2:T37
+T41	Reason 12131 12137	Anemia
+R34	Reason-Drug Arg1:T41 Arg2:T44
+T42	Drug 1232 1238;1239 1246	lantus insulin
+T43	Reason 12470 12490	Iron supplementation
+R35	Reason-Drug Arg1:T43 Arg2:T44
+T44	Drug 12496 12511	ferrous sulfate
+T45	Strength 12513 12518	325mg
+R36	Strength-Drug Arg1:T45 Arg2:T44
+T46	Route 12519 12521	PO
+R37	Route-Drug Arg1:T46 Arg2:T44
+T47	Reason 12565 12577	Skin lesions
+R38	Reason-Drug Arg1:T47 Arg2:T48
+R39	Reason-Drug Arg1:T47 Arg2:T52
+T48	Drug 12962 12973	HydrOXYzine
+T49	Strength 12974 12979	25 mg
+R40	Strength-Drug Arg1:T49 Arg2:T48
+T50	Route 12980 12982	PO
+R41	Route-Drug Arg1:T50 Arg2:T48
+T51	Frequency 12983 12990	PRN/Q6H
+R42	Frequency-Drug Arg1:T51 Arg2:T48
+T52	Drug 12996 13001	Sarna
+T53	Form 13002 13008	lotion
+R43	Form-Drug Arg1:T53 Arg2:T52
+T54	Frequency 13021 13024	PRN
+R44	Frequency-Drug Arg1:T54 Arg2:T52
+T55	Drug 13216 13226	Lisinopril
+T56	Strength 13227 13231	20mg
+R45	Strength-Drug Arg1:T56 Arg2:T55
+T57	Frequency 13232 13234	qd
+R46	Frequency-Drug Arg1:T57 Arg2:T55
+T58	Drug 13235 13241	Lantus
+T59	Dosage 13242 13245	20U
+R47	Dosage-Drug Arg1:T59 Arg2:T58
+T60	Frequency 13247 13252	AM&PM
+R48	Frequency-Drug Arg1:T60 Arg2:T58
+T61	Drug 13254 13261	Humalog
+T63	Drug 13292 13307	Docusate Sodium
+T64	Strength 13308 13314	100 mg
+R50	Strength-Drug Arg1:T64 Arg2:T63
+T65	Form 13315 13322	Capsule
+R51	Form-Drug Arg1:T65 Arg2:T63
+T66	Dosage 13328 13335	One (1)
+R52	Dosage-Drug Arg1:T66 Arg2:T63
+T67	Form 13336 13343	Capsule
+R53	Form-Drug Arg1:T67 Arg2:T63
+T68	Route 13344 13346	PO
+R54	Route-Drug Arg1:T68 Arg2:T63
+T69	Frequency 13347 13353;13354 13366	BID (2 times a day)
+R55	Frequency-Drug Arg1:T69 Arg2:T63
+T70	Drug 13371 13376	Senna
+T71	Strength 13377 13383	8.6 mg
+R56	Strength-Drug Arg1:T71 Arg2:T70
+T72	Form 13384 13390	Tablet
+R57	Form-Drug Arg1:T72 Arg2:T70
+T73	Dosage 13396 13403	One (1)
+R58	Dosage-Drug Arg1:T73 Arg2:T70
+T74	Form 13404 13410	Tablet
+R59	Form-Drug Arg1:T74 Arg2:T70
+T75	Route 13411 13413	PO
+R60	Route-Drug Arg1:T75 Arg2:T70
+T76	Frequency 13414 13428;13429 13433	BID (2 times a day)
+R62	Frequency-Drug Arg1:T76 Arg2:T70
+T77	Drug 13438 13453	Ferrous Sulfate
+T78	Strength 13454 13473	325 mg (65 mg Iron)
+R63	Strength-Drug Arg1:T78 Arg2:T77
+T79	Form 13474 13480	Tablet
+R64	Form-Drug Arg1:T79 Arg2:T77
+T80	Dosage 13486 13493	One (1)
+R65	Dosage-Drug Arg1:T80 Arg2:T77
+T81	Form 13494 13500	Tablet
+R66	Form-Drug Arg1:T81 Arg2:T77
+T82	Route 13501 13503	PO
+R67	Route-Drug Arg1:T82 Arg2:T77
+T83	Frequency 13504 13517	DAILY (Daily)
+R68	Frequency-Drug Arg1:T83 Arg2:T77
+T84	Drug 13522 13545	Oxycodone-Acetaminophen
+T85	Strength 13546 13554	5-325 mg
+R69	Strength-Drug Arg1:T85 Arg2:T84
+T86	Form 13555 13561	Tablet
+R70	Form-Drug Arg1:T86 Arg2:T84
+T87	Dosage 13567 13574	One (1)
+R71	Dosage-Drug Arg1:T87 Arg2:T84
+T88	Form 13575 13581	Tablet
+R72	Form-Drug Arg1:T88 Arg2:T84
+T89	Route 13582 13584	PO
+R73	Route-Drug Arg1:T89 Arg2:T84
+T90	Frequency 13585 13614	Q6H (every 6 hours) as needed
+R74	Frequency-Drug Arg1:T90 Arg2:T84
+T91	Duration 13615 13627	for 20 doses
+R75	Duration-Drug Arg1:T91 Arg2:T84
+T92	Drug 13701 13711	Lisinopril
+T93	Strength 13712 13717	20 mg
+R76	Strength-Drug Arg1:T93 Arg2:T92
+T94	Form 13718 13724	Tablet
+R77	Form-Drug Arg1:T94 Arg2:T92
+T95	Dosage 13730 13737	One (1)
+R78	Dosage-Drug Arg1:T95 Arg2:T92
+T96	Form 13738 13744	Tablet
+R79	Form-Drug Arg1:T96 Arg2:T92
+T97	Route 13745 13747	PO
+R80	Route-Drug Arg1:T97 Arg2:T92
+T98	Frequency 13748 13761	DAILY (Daily)
+R81	Frequency-Drug Arg1:T98 Arg2:T92
+T99	Drug 13767 13777	Clobetasol
+T100	Strength 13778 13782	0.05 
+R82	Strength-Drug Arg1:T100 Arg2:T99
+T101	Form 13785 13790	Cream
+R83	Form-Drug Arg1:T101 Arg2:T99
+T102	Dosage 13796 13803	One (1)
+R84	Dosage-Drug Arg1:T102 Arg2:T99
+T103	Form 13804 13808	Appl
+R85	Form-Drug Arg1:T103 Arg2:T99
+T104	Route 13809 13816	Topical
+R86	Route-Drug Arg1:T104 Arg2:T99
+T106	Reason 13864 13868	Rash
+R88	Reason-Drug Arg1:T106 Arg2:T99
+T107	Drug 13898 13913	Camphor-Menthol
+T108	Strength 13914 13921	0.5-0.5 
+R89	Strength-Drug Arg1:T108 Arg2:T107
+T109	Form 13924 13930	Lotion
+R90	Form-Drug Arg1:T109 Arg2:T107
+T110	Dosage 13936 13943	One (1)
+R91	Dosage-Drug Arg1:T110 Arg2:T107
+T111	Form 13944 13948	Appl
+R92	Form-Drug Arg1:T111 Arg2:T107
+T112	Route 13949 13956	Topical
+R93	Route-Drug Arg1:T112 Arg2:T107
+T113	Frequency 13957 13986	QID (4 times a day) as needed
+R94	Frequency-Drug Arg1:T113 Arg2:T107
+T114	Reason 13991 13999	pruritis
+R95	Reason-Drug Arg1:T114 Arg2:T107
+T115	Drug 14004 14017	Ciprofloxacin
+T116	Strength 14018 14024	500 mg
+R96	Strength-Drug Arg1:T116 Arg2:T115
+T117	Form 14025 14031	Tablet
+R97	Form-Drug Arg1:T117 Arg2:T115
+T118	Dosage 14037 14044	One (1)
+R98	Dosage-Drug Arg1:T118 Arg2:T115
+T119	Form 14045 14051	Tablet
+R99	Form-Drug Arg1:T119 Arg2:T115
+T120	Route 14052 14054	PO
+R100	Route-Drug Arg1:T120 Arg2:T115
+T121	Frequency 14055 14059	Q12H
+R101	Frequency-Drug Arg1:T121 Arg2:T115
+T122	Duration 14077 14088	for 10 days
+R102	Duration-Drug Arg1:T122 Arg2:T115
+T123	Drug 14125 14135	Cephalexin
+T124	Strength 14136 14142	500 mg
+R103	Strength-Drug Arg1:T124 Arg2:T123
+T125	Form 14143 14150	Capsule
+R104	Form-Drug Arg1:T125 Arg2:T123
+T126	Dosage 14156 14163	One (1)
+R105	Dosage-Drug Arg1:T126 Arg2:T123
+T127	Form 14164 14171	Capsule
+R106	Form-Drug Arg1:T127 Arg2:T123
+T128	Route 14172 14174	PO
+R107	Route-Drug Arg1:T128 Arg2:T123
+T129	Frequency 14175 14185;14186 14194	Q6H (every 6 hours)
+R108	Frequency-Drug Arg1:T129 Arg2:T123
+T130	Duration 14195 14206	for 10 days
+R109	Duration-Drug Arg1:T130 Arg2:T123
+T131	Drug 14277 14284	Humalog
+T132	Strength 14285 14296	100 unit/mL
+R110	Strength-Drug Arg1:T132 Arg2:T131
+T133	Form 14297 14305	Solution
+R111	Form-Drug Arg1:T133 Arg2:T131
+T134	Dosage 14311 14324	sliding scale
+R112	Dosage-Drug Arg1:T134 Arg2:T131
+T135	Route 14325 14337	Subcutaneous
+R113	Route-Drug Arg1:T135 Arg2:T131
+T136	Frequency 14338 14354	four times a day
+R114	Frequency-Drug Arg1:T136 Arg2:T131
+T137	Dosage 14374 14387	sliding scale
+R115	Dosage-Drug Arg1:T137 Arg2:T131
+T138	Drug 14765 14771	Lantus
+T139	Strength 14772 14783	100 unit/mL
+R116	Strength-Drug Arg1:T139 Arg2:T138
+T140	Form 14784 14792	Solution
+R117	Form-Drug Arg1:T140 Arg2:T138
+T141	Dosage 14798 14820	Twenty Five (25) units
+R118	Dosage-Drug Arg1:T141 Arg2:T138
+T142	Route 14821 14833	Subcutaneous
+R119	Route-Drug Arg1:T142 Arg2:T138
+T143	Frequency 14834 14844	at bedtime
+R120	Frequency-Drug Arg1:T143 Arg2:T138
+T144	Drug 14850 14856	Lantus
+T145	Strength 14857 14868	100 unit/mL
+R121	Strength-Drug Arg1:T145 Arg2:T144
+T146	Form 14869 14877	Solution
+R122	Form-Drug Arg1:T146 Arg2:T144
+T147	Dosage 14883 14900	Twenty (20) units
+R123	Dosage-Drug Arg1:T147 Arg2:T144
+T148	Route 14901 14913	Subcutaneous
+R124	Route-Drug Arg1:T148 Arg2:T144
+T149	Frequency 14914 14917	qAM
+R125	Frequency-Drug Arg1:T149 Arg2:T144
+T150	Reason 1504 1525	Diabetic Ketoacidosis
+R126	Reason-Drug Arg1:T150 Arg2:T164
+R127	Reason-Drug Arg1:T150 Arg2:T171
+T151	Reason 15257 15278	Diabetic Ketoacidosis
+R128	Reason-Drug Arg1:T151 Arg2:T153
+R129	Reason-Drug Arg1:T151 Arg2:T157
+T153	Drug 15385 15392	insulin
+T154	Route 15393 15397	drip
+R130	Route-Drug Arg1:T154 Arg2:T153
+T155	Dosage 1540 1547	6 units
+R131	Dosage-Drug Arg1:T155 Arg2:T164
+T157	Drug 15405 15411	fluids
+T159	Drug 15440 15451	antibiotics
+T160	Drug 15453 15465	piperacillin
+T161	Drug 15470 15480	tazobactam
+T162	Drug 15485 15495	vancomycin
+T163	Reason 15505 15519	foot infection
+R137	Reason-Drug Arg1:T163 Arg2:T162
+R138	Reason-Drug Arg1:T163 Arg2:T161
+R139	Reason-Drug Arg1:T163 Arg2:T160
+R140	Reason-Drug Arg1:T163 Arg2:T159
+T164	Drug 1551 1558	insulin
+T165	Dosage 1560 1568	2 liters
+R141	Dosage-Drug Arg1:T165 Arg2:T171
+T166	Duration 15705 15711	14 day
+R142	Duration-Drug Arg1:T166 Arg2:T172
+R143	Duration-Drug Arg1:T166 Arg2:T170
+R144	Duration-Drug Arg1:T166 Arg2:T169
+T168	Route 15726 15730	oral
+R146	Route-Drug Arg1:T168 Arg2:T172
+R147	Route-Drug Arg1:T168 Arg2:T170
+R148	Route-Drug Arg1:T168 Arg2:T169
+T169	Drug 15731 15742	antibiotics
+T170	Drug 15743 15756	ciprofloxacin
+T171	Drug 1575 1580	fluid
+T172	Drug 15761 15771	cephalexin
+T173	Drug 1592 1602	Vancomycin
+T174	Dosage 1604 1605	1
+R149	Dosage-Drug Arg1:T174 Arg2:T173
+T175	Reason 1611 1621	cellulitis
+R150	Reason-Drug Arg1:T175 Arg2:T173
+T176	Drug 1630 1638	percocet
+T177	ADE 16302 16318;16319 16327	drug sensitivity reaction
+R151	ADE-Drug Arg1:T177 Arg2:T180
+R152	ADE-Drug Arg1:T177 Arg2:T181
+T178	ADE 16334 16338	rash
+R153	ADE-Drug Arg1:T178 Arg2:T180
+R154	ADE-Drug Arg1:T178 Arg2:T181
+R155	ADE-Drug Arg1:T178 Arg2:T179
+T179	Drug 16388 16399	antibiotics
+T180	Drug 16400 16412	piperacillin
+T181	Drug 16417 16427	tazobactam
+T182	Drug 16615 16622	Humalog
+T183	Drug 16661 16674	Ciprofloxacin
+T184	Duration 16693 16699	10 day
+R156	Duration-Drug Arg1:T184 Arg2:T183
+T185	Drug 16707 16717	Cephalexin
+T186	Frequency 16718 16734	four times a day
+R157	Frequency-Drug Arg1:T186 Arg2:T185
+T187	Duration 16753 16759	10 day
+R158	Duration-Drug Arg1:T187 Arg2:T185
+T188	Drug 16767 16792	Glargine (lantus) insulin
+T189	Dosage 16801 16808	20units
+R159	Dosage-Drug Arg1:T189 Arg2:T188
+T190	Frequency 16812 16814	AM
+R160	Frequency-Drug Arg1:T190 Arg2:T188
+T191	Frequency 16823 16825	PM
+R161	Frequency-Drug Arg1:T191 Arg2:T188
+T192	Dosage 16844 16851	25units
+R162	Dosage-Drug Arg1:T192 Arg2:T188
+T193	Drug 1777 1790	normal saline
+T194	Drug 1809 1816	insulin
+T195	Route 1817 1821	drip
+R163	Route-Drug Arg1:T195 Arg2:T194
+T196	Drug 1843 1853	Vancomycin
+T197	Drug 1869 1874	Zosyn
+T198	Reason 9133 9140	abscess
+R164	Reason-Drug Arg1:T198 Arg2:T201
+R165	Reason-Drug Arg1:T198 Arg2:T204
+R166	Reason-Drug Arg1:T198 Arg2:T208
+T199	Reason 9579 9589	cellulitis
+R167	Reason-Drug Arg1:T199 Arg2:T201
+T201	Drug 9623 9634	antibiotics
+T202	Dosage 9662 9670	2 liters
+R169	Dosage-Drug Arg1:T202 Arg2:T204
+T204	Drug 9677 9682	fluid
+T205	Drug 9694 9704	Vancomycin
+T206	Dosage 9706 9707	1
+R171	Dosage-Drug Arg1:T206 Arg2:T205
+T207	Reason 9713 9723	cellulitis
+R172	Reason-Drug Arg1:T207 Arg2:T205
+T208	Drug 9760 9768	percocet
+T209	Drug 9870 9883	normal saline
+R32	ADE-Drug Arg1:T177 Arg2:T179	
+T25	Route 1572 1574	IV
+R25	Route-Drug Arg1:T25 Arg2:T171	
+T31	Route 9620 9622	IV
+T39	Route 9674 9676	IV
+R28	Route-Drug Arg1:T31 Arg2:T201	
+R49	Route-Drug Arg1:T39 Arg2:T204	
+T62	Route 11523 11525	IV
+R61	Route-Drug Arg1:T62 Arg2:T32	
+T105	Route 15402 15404	IV
+R87	Route-Drug Arg1:T105 Arg2:T157	
+T152	Route 15437 15439	IV
+R132	Route-Drug Arg1:T152 Arg2:T159	
+R133	Route-Drug Arg1:T152 Arg2:T160	
+R134	Route-Drug Arg1:T152 Arg2:T161	
+R135	Route-Drug Arg1:T152 Arg2:T162	
+T156	Route 1141 1143	IV
+R136	Route-Drug Arg1:T156 Arg2:T26	
+T158	Reason 9141 9151	cellulitis
+T167	Reason 9152 9165	drug reaction
+R145	Reason-Drug Arg1:T158 Arg2:T201	
+R168	Reason-Drug Arg1:T167 Arg2:T201	

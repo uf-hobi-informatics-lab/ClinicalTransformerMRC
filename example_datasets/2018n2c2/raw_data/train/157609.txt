@@ -1,0 +1,391 @@
+Admission Date:  [**2144-12-24**]              Discharge Date:   [**2144-12-31**]
+
+Date of Birth:  [**2103-12-5**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Vincristine
+
+Attending:[**Last Name (NamePattern4) 290**]
+Chief Complaint:
+Altered mental status
+
+Major Surgical or Invasive Procedure:
+Endotracheal extubation
+
+History of Present Illness:
+*Per OSH records as patient could not provide limited history
+while intubated and sedated*
+41 yo gentleman with h/o acromegaly and diffuse large B-cell
+lymphoma (s/p admission at [**Hospital1 18**] from [**2144-7-11**] to [**2144-11-12**])
+who was transferred from [**Hospital6 5016**] following episode
+of altered mental status early today that led to intubation for
+airway protection. Patient had a head CT performed at [**Hospital 40796**] which was reported as showing right temporal and
+parietal edema and small foci of hemorrhage, though the images
+were not sent with the patient upon transfer to [**Hospital1 18**]. According
+to discharge paperwork from [**Hospital3 **] today, the patient
+originally presented to the hospital on [**2144-12-21**] with
+intractable nausea and vomiting of 5 days duration. While at
+[**Hospital3 **], the patient had several abdominal films as well as
+an upper GI series which were reportedly unremarkable.
+Physicians were concerned that there was a central cause of
+nausea and attempted head imaging, which the patient initially
+refused. Late on night of [**2144-10-23**], patient was found to be
+minimally responsive with head turning to right and arms flexed
+to chest. As he had received nortriptyline, there was initial
+concern for a dystonic reaction and 50 mg IV diphenhydramine was
+pushed. There was no improvement in his mental status following
+that intervention and he was intubated for ariway protection and
+head CT was then performed with results as above. Transfer to
+[**Hospital1 18**] was requested given patient's decline in mental status
+requiring intubation.
+
+Of note, patient was recently admitted to [**Hospital6 5016**]
+on [**12-14**] with hypercalcemia and a pseudomonas infection of stage
+IV pressure ulcer. He completed antibiotic course of
+ceftazidime, daptomycin, and azithromycin.
+
+Unknown level of ambulation immediately prior to presentation to
+[**Hospital6 5016**] on [**2144-12-21**]; however, at time of discharge
+from [**Hospital1 18**] on [**2144-11-12**], he could stand and walk about 10 feet.
+A recent neurology note from [**2144-12-4**] assessed his IP strength
+as being 1 on the right and 0 on the left. He was assessed as
+having "residual severe paraparesis due to combination of
+deconditioning and vincristine toxic polyneuropathy, and
+question of critical illness polyneuropathy/myopathy."
+
+REVIEW OF SYSTEMS:
+*extremely limited due to intubated and sedated status of
+patient*
+
+Past Medical History:
+1) Diffuse Large B-Cell Lymphoma, Stage IVB with CNS
+involvement:
+- hospitalization from [**2144-7-11**] - [**2144-11-12**]
+- oringinally had Bell's Palsy, urinary retention, and LE
+weakness; transferred to [**Hospital1 **] with labs suggestive of tumor lysis
+syndrome
+- bone marrow biopsy demonstrated Burkitt-like high grade
+lymphoma
+- imaging showed lymphangitic spread to lung, stomach, ureters
+- severe scrotal swelling felt to be due to tumor involvement
+- LP demonstrated malignant cells.
+- first treated with hyper-CVAD systemically and intrathecal
+chemotherapy with MTX and cytarabine starting the first week of
+[**Month (only) 205**]
+- then treated with R-[**Hospital1 **] alternating with HD MTX. Vincristine
+was stopped due to concern that it might be causing severe
+polyneuropathy
+- treatment complicated by mucositis and pancytopenia requiring
+neupogen
+- now in remission
+2) Pituitary Macroadenoma
+3) Acromegaly
+4) h/o Respiratory Failure with ARDS requiring mechanical
+ventilation [**2144-7-12**] to [**2144-7-30**] -- did well with PSV, had
+large TV (700-800) and MV (>10)
+5) h/o Mycoplasma hominis PNA treated with cipro and doxy
+6) Sinus Tachycardia with PVCs -- had significant work-up with
+TSH, TTE. Felt to be physiologic given lymphoma, infection,
+acromegaly.
+7) Lower extremity paraparesis attributed to leptomeningeal
+involvement of his lymphoma, vincristine toxicity, and critical
+care myopathy.
+- received IVIG for possible paraneoplastic syndrome, but
+stopped b/c of low IgA
+8) h/o DVT [**2144-8-15**], plan for at least 6 months of lovenox
+9) Stage IV Sacral ulcer, required surgical debridements
+10) h/o Bell's Palsy -- unclear if [**2-17**] acromegaly or Burkitt's
+11) Constipation requiring aggressive bowel regimen
+12) Peripheral neuropathy
+13) h/o keratitis and right corneal ulcer, Cx grew coag neg
+staph, s/p right lid approximation
+14) h/o Diffuse Joint Pain thought to be from acromegaly, on
+methadone
+15) h/o right tibial fracture
+
+
+Social History:
+Brother incarcerated in [**Name (NI) 3844**]. Patient has a 19 yr old
+son in [**Name (NI) **]. Prior to his recent hospitalization, he was
+living in automobile. Discharged to [**Hospital1 **] on [**2144-11-12**] and
+currently living at Wood Mill Skilled Nursing Facility.
+Tobacco: 2.5 packs X 25 years
+EtOH: unknown
+IVDA/other illicit drug use: previously denied
+
+
+Family History:
+Non-contributory per prior records.
+
+Physical Exam:
+VS: T 97, HR 94, BP 155/96, RR 17, O2Sat 100% (AC Vt 600, FiO2
+50%, f 16, PEEP 5)
+GEN: NAD, appears cachectic, intubated and sedated
+HEENT: Left pupil reactive 3 -> 2 mm, right pupil sluggish 4 mm,
+right eyelid surgical changes, generous tongue, oral mucosa dry,
+ET tube in place, generous chin, frontal bossing
+NECK: No [**Doctor First Name **], no JVP elevation
+PULM: Significant pectus carinum, CTAB anteriorly
+CARD: RR, nl S1, nl S2, no M/R/G
+ABD: Thin, BS+, epigastric scar, soft, non-distended,
+non-tympanitic
+EXT: Minimal BLE pitting, markedly enlarged hands and feet
+SKIN: No rashes, approximately 4 x 5 cm sacral ulcer without
+visible exudates, but with undermining of superficial skin
+NEURO: Sedated, was seen to be moving both upper extremities
+non-purposefully while briefly off sedation, muscle tone is
+normal bilaterally in upper and lower extremities
+
+
+Pertinent Results:
+Admission labs:
+6.7>11.4/33.2< 202
+WBC remained WNL during ICU course with value up to 7.9 as of
+[**12-27**], Hct increased to 37.6, Platelets remained stable
+
+N85, L9.2, M4.2, E1.4, B0.3
+
+PT 15.9, PTT 31.5, INR 1.4
+
+142/3.2/109/25/5/0.4<90, remained stable during ICU course as of
+[**12-27**]
+
+ALT 9, AST 15, LDH 489 (increased to 796 as of [**12-28**]), AlkPhos
+72, Amylase 17, TB 0.3, Lipase 11
+
+Alb 3.6, Ca 8.0, Phos 0.8 (repleted to 2.2, then required repeat
+repletion), Mg 1.9
+
+TP 6.0, Osm 280
+
+PTH 133
+
+PEP pending
+b2micro pending
+
+ABG: 7.44/33/205
+
+UA 3 WBC, 5 RBC, <1 epi, neg nitrite
+
+LP CSF [**12-25**]
+Tube 1: 183 WBC, 13 RBC, 2 polys, 98 other
+Tube 4: 300 WBC, 4 RBC, 1 poly, 99 other
+TP: 463 Glucose 1 LDH 1459
+PEP pending
+HSV pending
+flow pending
+
+cultures:
+[**12-24**] urine neg
+[**12-24**], 13 blood pending
+[**12-25**] sputum: coag + staph
+[**12-25**] CSF Cryptococcal neg, culture NGTD
+[**12-27**] urine NGTD
+
+CT head [**12-24**]
+1. Limited study due to patient motion despite five repeat
+attempts.
+2. Round mild densities in the temporal lobes, and possibly
+increased density interdigitating with the sulci. Note
+additional history obtained of Burkitt's lymphoma. The findings
+may relate to lymphoma involvement, less likely parenchymal and
+subarachnoid hemorrhage, though not quite as dense as typical
+hemorrhage products, especially in temporal lobes.
+3. Enlarged pituitary gland, better evaluated on recent MR
+pituitary.
+These findings were discussed with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4011**] at 9:00 p.m.
+[**2144-12-24**], at which time MRI had been ordered and the patient had
+been brought for MRI.
+
+[**12-25**] MRI, MRV, MRA head
+1. Diffuse leptomeningeal enhancement and FLAIR hyperintensity
+involving the right greater than left temporal and parietal
+lobes, with more focal areas of parenchymal abnormality in the
+temporal lobe, also right greater than left.  Differential
+diagnostic considerations primarily include recurrent lymphoma
+(especially given the patient's history of Burkitt's lymphoma)
+as well as a meningoencephalitis such as herpes encephalitis,
+although other viral or bacterial meningoencephalitides could
+also result in a similar appearance.
+
+2. Areas of decreased diffusion corresponding to the
+leptomeningeal disease with additional foci involving the right
+thalamus and right hippocampus, which may represent acute
+infarcts, although they may be related to lymphomatous
+involvement versus infectious process given the findings above.
+Hypoxic injury would be a less likely differential
+consideration.
+
+3. Suboptimal MRA and MRV given patient motion. There is no
+definite
+evidence of venous thrombosis, although the sigmoid sinuses and
+the visualized internal jugular veins are suboptimally
+evaluated.
+
+4. No evidence of a hemodynamically significant stenosis on the
+MRA of the
+head, although irregularity at the anterior communicating artery
+raises the possibility of a small aneurysm. This was
+suboptimally evaluated given the degree of patient motion. At
+the time of followup imaging, the MRA sequence could be
+repeated.
+
+5. Pituitary adenoma, not significantly changed since the prior
+examination when accounting for differences in technique,
+although dedicated imaging of the sella was not obtained today.
+
+[**12-25**]
+TTE
+The left atrium is mildly dilated. No atrial septal defect is
+seen by 2D or color Doppler. The estimated right atrial pressure
+is 0-10mmHg. Left ventricular wall thicknesses are normal. The
+left ventricular cavity size is normal. There is probably mild
+global left ventricular hypokinesis (LVEF = 45-50 %). No masses
+or thrombi are seen in the left ventricle. There is no
+ventricular septal defect. Right ventricular chamber size is
+normal. with borderline normal free wall function. The aortic
+valve leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic regurgitation. The mitral valve appears
+structurally normal with trivial mitral regurgitation. There is
+a small pericardial effusion. There are no echocardiographic
+signs of tamponade.
+
+Compared with the prior study (images reviewed) of [**2144-8-13**],
+the LVEF is less vigorous. The pericardial effusion is slightly
+larger but still with no evidence for overt tamponade.
+
+[**12-27**] Chest Xray
+The endotracheal tube is no longer visualized. This is a rotated
+
+film. There is bilateral lower lobe subsegmental atelectasis.
+The right
+Port-A-Cath is unchanged.
+
+[**12-28**] CT Head
+Relatively stable vasogenic edema in the temporal lobes as well
+as leptomeningeal hyperdensity and hyperdensity in the left
+temporal lobe. Question of increased hypodensity in the mid
+brain, recommend correlation with MRI to exclude the possibility
+of ischemia.
+
+[**12-29**] Chest Xray
+As compared to the previous radiograph, there is no relevant
+change. No evidence of pneumothorax, no pleural effusion. Mild
+retrocardiac atelectasis. No focal parenchymal opacity
+suggesting pneumonia, no overhydration.
+
+
+Brief Hospital Course:
+41 year old gentleman with h/o acromegaly and high grade B-cell
+lymphoma (s/p admission at [**Hospital1 18**] from [**2144-7-11**] to [**2144-11-12**])
+who was transferred from [**Hospital6 5016**] following episode
+of altered mental status early on day of admission, [**12-24**], that
+led to intubation for airway protection.
+
+#. Lymphoma: He initially presented to [**Hospital6 5016**] with
+nausea and vomiting.  On admission here, an LP was done that
+showed a high opening pressure (49) and multiple atypical cells
+concerning for recurrent CNS lymphoma.  He was started on
+high-dose Decadron and was followed by Medical Oncology,
+Neuro-oncology, and Radiation Oncology.  His presenting symptoms
+were considered a consequence of his worsening lymphoma.  Given
+his previous treatments with intrathecal chemotherapy, he was
+not considered a candidate for chemotherapy.  He began
+palliative full brain XRT on [**2144-12-28**].  His clinical condition
+deteriorated and his respiratory status worsened and he was only
+able to have one treatment. On [**2144-12-29**] a discussion with the
+health care proxy led to Mr. [**Known lastname **] being made comfort measures
+only.  He died on [**2144-12-31**] at 4:40pm.
+
+#. Altered mental status:  His AMS was most likely caused by
+recurrent CNS lymphoma and increased intracranial pressure.  He
+was initially treated with Acyclovir for HSV, however this was
+stopped due to low clinical suspicion. His mental status did not
+improve off sedation.  His mental status deteriorated to the
+point where he was not responsive, likely related to his CNS
+lymphoma and increased ICP.
+
+#. Endotracheal intubation/extubation: He was intubated for
+airway protection at an OSH prior to admission.  He
+self-extubated two days after admission without complication.
+He remained off ventilatory support and became hypoxic three
+days prior to death but was made comfort measures only.
+
+#. Pneumonia: At admission, he spiked a temperature, had copious
+secretions and a consolidation in the RUL on chest x-ray.
+Vancomycin and Cefepime were started on [**12-25**] for a planned 8
+day course, which was stopped early when the goals of care were
+changed.
+
+#. Acromegaly and Pituitary Macroadenoma:  He had a history of a
+pituitary adenoma and surgical resection had been planned for
+future.  This was deferred due to his poor clinical status.
+
+#. Sacral decubitus ulcer:  He had a stage IV sacral ulcer with
+recent pseudomonal infection. It appeared uninfected on
+admission and was followed by the wound care team.
+
+#. Code Status: He was initially full code during this
+hospitalization, but after he clinically worsened with severe
+alteration in mental status, he was made DNR/DNI and eventually
+comfort measures only.
+
+#. Emergency Contact: [**Name (NI) **] [**Last Name (NamePattern1) 40169**] (Health Care Proxy): Primary
+ph [**Telephone/Fax (1) 83235**], Secondary ph [**Telephone/Fax (1) 83236**]
+
+Medications on Admission:
+MEDS ON TRANSFER:
+1) Metoprolol 12.5 mg PO BID
+2) Furosemide 20 mg PO BID (on hold)
+3) Nitroglycerin 0.3 mg SL PRN chest pain
+4) Morphine 2 mg IV PRN chest pain
+5) Citalopram 20 mg DAILY
+6) Pregabalin 50 mg [**Hospital1 **]
+7) Nortriptyline 25 mg QHS
+8) Tizanidine 2 mg Q12H
+9) Lorazepam PRN
+10) Polyethylene glycol DAILY
+11) Senna 8.6 mg two tabs [**Hospital1 **]
+12) Docusate sodium 100 mg TID
+13) Bisacodyl 10 mg oral DAILY
+14) Lactulose 30 mL Q6H:PRN constipation
+15) Acetaminophen 650 mg Q4H:PRN pain or fever
+16) Maalox plus 30 mL Q4H:PRN 17) Ondansetron 4 mg IV Q6H:PRN
+nausea
+17) Magnesium hydroxide 10 mL Q6H:PRN dyspepsia
+18) Lovenox 90 mg Q12H (on hold)
+19) Multivitamins DAILY
+20) Clotrimazole 10 mg QID
+21) Miconazole topical QID:PRN
+
+
+Discharge Medications:
+Expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Cardiopulmonary Arrest
+Hypoxia
+Central nervous system lymphoma
+
+Secondary Diagnosis:
+Acromegaly
+Pituitary adenoma
+
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+

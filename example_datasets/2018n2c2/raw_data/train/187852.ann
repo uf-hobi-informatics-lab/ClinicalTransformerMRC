@@ -1,0 +1,5 @@
+T1	Drug 389 399	Lisinopril
+T2	Strength 400 405	2.5mg
+T3	Frequency 406 411	daily
+R1	Strength-Drug Arg1:T2 Arg2:T1
+R2	Frequency-Drug Arg1:T3 Arg2:T1
