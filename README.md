@@ -87,12 +87,5 @@ python ./src/inference/mrc_ner_inference.py \
 > we provide a jupyter notebook with postprocessing 2018 n2c2 and 2022 n2c2 dataset as an example
 
 ## Reference
-We have a preprint at
-```
-@article{peng2023clinical,
-  title={Clinical Concept and Relation Extraction Using Prompt-based Machine Reading Comprehension},
-  author={Peng, Cheng and Yang, Xi and Yu, Zehao and Bian, Jiang and Hogan, William R and Wu, Yonghui},
-  journal={arXiv preprint arXiv:2303.08262},
-  year={2023}
-}
-```
+Peng C, Yang X, Yu Z, Bian J, Hogan WR, Wu Y. Clinical concept and relation extraction using prompt-based machine reading comprehension. J Am Med Inform Assoc. Published online June 14, 2023. doi:10.1093/jamia/ocad107
+https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocad107/7198189?redirectedFrom=fulltext
