@@ -1,0 +1,312 @@
+Admission Date:  [**2154-8-30**]              Discharge Date:   [**2154-9-1**]
+
+Date of Birth:  [**2081-12-11**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Optiray 320
+
+Attending:[**First Name3 (LF) 2290**]
+Chief Complaint:
+Post-operative hypoxia
+
+Major Surgical or Invasive Procedure:
+Debridement of tracheal nodule with interventional pulmonology
+
+
+History of Present Illness:
+72 yo F with poorly differentiated squamous cell carcinoma of
+the lung who underwent rigid bronch [**2154-8-30**] (Friday) in the
+CDC for debridement of a nodule partially occluding the trachea
+(CT 09/[**2153**]).
+
+Patient was apneic post-operatively attributed to paralytics,
+for which she was intubated and placed on AC until the paralytic
+wore off. She was then weaned to CPAP and extubated to high flow
+facemask without difficulty. She was later switched to high flow
+face tent and then nasal canula 4L->2L and was comfortable
+sating 92%.
+
+On the floor, the patient was comfortable on 2L nasal cannula,
+sating 94%. Complains of coughing when taking deep breaths, but
+otherwise stable. She denies CP, N/V/D/C, dysuria, HA, vision
+changes, or depressed mood.
+
+
+Past Medical History:
+Poorly differentiated SCC of lung:
+- s/p right upper lobectomy and chemotherapy [**2148**]
+- left lower lobe nodule 1.4cm, non-diagnostic CT-guided biopsy,
+s/p CyberKnife
+CAD s/p Coronary angioplasty [**2139**], [**2151**], CABG x 3v [**2151**]
+H/o Infectious colitis [**2152**]
+HTN
+IDDM
+Hypercholesterolemia
+Bladder surgery [**2123**]
+Hernia repair [**2147**],
+S/p Cholecystectomy [**2147**]
+
+
+Social History:
+Former smoker, 80 pack year history. No EtOH or drugs. Married.
+
+Family History:
+Father with lung/bone cancer, mother relatively
+healthy until later yrs.
+
+
+Physical Exam:
+VS: 97.9 96.9 102/60 20 96%2LNC
+GEN: Pleasant, comfortable, NAD
+HEENT: PERRL, EOMI, anicteric, dry MM
+RESP: Wheezing throughout with Rhonchorous breath sounds
+CV: RR, S1 and S2 wnl, no m/r/g
+ABD: Soft, NT, ND, +BS, no masses or hepatosplenomegaly
+EXT: Trace edema in bilateral lower extremities
+SKIN: No rashes, fairly dry skin, surfaces intact
+NEURO: AOx3. CNII-XII, sensory, and motor grossly intact.
+
+
+Pertinent Results:
+[**2154-9-1**] 07:10AM BLOOD WBC-5.9 RBC-4.15* Hgb-12.1 Hct-35.8*
+MCV-86 MCH-29.1 MCHC-33.7 RDW-15.4 Plt Ct-170
+[**2154-8-30**] 11:05AM BLOOD WBC-8.8 RBC-5.04 Hgb-14.4 Hct-44.7 MCV-89
+MCH-28.5 MCHC-32.2 RDW-15.2 Plt Ct-230
+[**2154-9-1**] 07:10AM BLOOD Plt Ct-170
+[**2154-8-30**] 11:05AM BLOOD Plt Ct-230
+[**2154-8-30**] 11:05AM BLOOD Glucose-269* UreaN-14 Creat-0.7 Na-142
+K-4.3 Cl-104 HCO3-33* AnGap-9
+[**2154-8-31**] 04:08AM BLOOD Glucose-136* UreaN-10 Creat-0.6 Na-141
+K-3.7 Cl-105 HCO3-29 AnGap-11
+[**2154-8-31**] 04:08AM BLOOD Calcium-8.2* Phos-3.0 Mg-1.8
+[**2154-8-30**] 11:05AM BLOOD Calcium-8.5 Phos-4.1 Mg-2.1
+[**2154-8-30**] 02:09PM BLOOD Type-ART pO2-97 pCO2-49* pH-7.37
+calTCO2-29 Base XS-1
+[**2154-8-30**] 10:26AM BLOOD Type-ART pO2-66* pCO2-55* pH-7.33*
+calTCO2-30 Base XS-0 Intubat-INTUBATED
+[**2154-8-30**] 10:26AM BLOOD Glucose-239* Lactate-2.2* Na-141 K-4.4
+Cl-102
+[**2154-8-30**] 10:26AM BLOOD Hgb-14.4 calcHCT-43 O2 Sat-89 COHgb-2.0
+MetHgb-0
+[**2154-8-30**] 10:26AM BLOOD freeCa-1.13
+
+[**2154-8-30**] MRSA SCREEN MRSA SCREEN-PENDING
+
+[**2154-8-31**] Radiology CHEST (PORTABLE AP)
+Right upper, right perihilar, right lower lobe opacities
+consistent with
+improving hemorrhage or aspiration are unchanged. A left lung is
+grossly
+clear. There is no evident pneumothorax. Right lung peripheral
+opacities
+better evaluated in prior CT [**8-5**] and are unchanged.
+
+[**2154-8-31**] Radiology CHEST (PORTABLE AP)
+There has been markedly improved in right upper, right perihilar
+and right
+lower lobe opacities consistent with improving hemorrhage or
+aspiration.
+Cardiomediastinal contours are unchanged with mild-to-moderate
+cardiomegaly.
+There is no evident pneumothorax. Of note, the lateral aspect of
+the left
+hemithorax was not included on the film. There are no increasing
+right
+pleural effusions. Sternal wires are aligned with fracture of
+the first wire.
+
+[**2154-8-30**] Radiology CHEST (PORTABLE AP)
+FINDINGS: In comparison with the earlier study of this date, the
+endotracheal tube has been removed. The diffuse area of
+opacification involving the perihilar region extending into both
+the apical and lower zone on the right is again seen. Again,
+this could well represent post-procedure hemorrhage, though
+supervening pneumonia cannot be excluded.
+
+[**2154-8-30**] Radiology CHEST (PORTABLE AP)
+IMPRESSIONS: Extensive right central and upper lung airspace
+opacity, which may reflect hemorrhage from the recent procedure,
+or asymmetric pulmonary edema.
+
+[**2154-8-30**] Pathology Tissue: Tracheal tumor Distal ,   [**2154-8-30**]
+[**Last Name (LF) 829**],[**First Name3 (LF) 828**] C. Not Finalized
+
+
+Brief Hospital Course:
+# Apnea/Hypoxia: The patient experienced apnea in the immediate
+post-operative period following debridement of a tracheal
+nodule. The apnea was thought to be attributed to paralytics,
+which warranted intubation. When the paralytic agents wore off,
+the patient was extubated, but remained hypoxia. The prolonged
+hypoxia post-operatively was attributed to aspiration
+pneumonitis likely with an element of post-operative
+inflammation from the procedure itself. The patient remained
+rhoncorous with course upper airway breath sounds throughout the
+hospitalization. CXR ruled out PNA as a potentialy source of
+hypoxia, and the patient did not produce significant volumes of
+concentration of blood in the sputum concerning for tracheal
+bleed. Other possibilities include worsening of underlying lung
+cancer which is unlikely to explain acute hypoxia. The patient
+was eventually transitioned to high flow face mask, followed by
+high-flow face tent, followed by nasal cannular on 4L. The
+patient was weaned without event from 4L to 2L nasal cannula and
+transferred to the inpatient medical floor, where she continued
+sat'ing ~94% on 2L. Nebs were administered on an as needed basis
+throughout the duration of hospitalization, and were found to be
+helpful in terms of coughing up phlegm.
+
+The patient was taken off supplemental oxygen the following day
+and sat'ed within her normal baseline range 88-92% on room air
+without any problems at rest. However, patient desaturated with
+physical therapy during activity. They recommended home oxygen
+(2L with activity)when ambulating with a walker. The patient
+will be discharged with home oxygen as well as VNA services.
+.
+# Hct Drop: The patient presented with a Hct 44.7 and found to
+have a Hct of 33.1 post-operatively. The low Hct is most likely
+attributable to fluids received during procedure and minimal
+blood loss, however given the 12 point drop, her lab values were
+followed and the Hct level was stable and began to rise without
+event or concern for chonic blood loss. Hct 34.0->35.8 this AM.
+.
+# Non-Small Cell Lung CA: A new tracheal mass identified on CT
+in [**Month (only) **] was highly concerning for metastasis and likely to
+grow to occlude airway the airway, so surgical debridement was
+warranted with interventional pulmonology without intraoperative
+complications outside of apnea/hypoxia as elaborated on above.
+The patient is now POD#2 s/p debridment by IP. Biopsy results
+are pending. She is followed by interventional pulmonology for
+continued management.
+.
+# Goals of Care: Discussed code status with patient, daughter
+and sons. [**Name (NI) **] quite clearly does not desire intubation or
+heroic measures. Daughter is having a difficult time with this
+but understands and respects her mother's wishes. The DNR/DNI
+status was confirmed with the patient and her health care proxy.
+
+.
+# IDDM: Continued home glargine and home meds.
+.
+# HTN: Continued amlodipine, lopressor and ASA.
+.
+# Hyperlipidemia: Continued home statin.
+
+
+Medications on Admission:
+AMLODIPINE 5 mg daily
+ESOMEPRAZOLE 40mg qd
+GLARGINE 8 units daily @ night
+LORAZEPAM 1mg [**Hospital1 **]
+METOPROLOL 150 mg [**Hospital1 **]
+REPAGLINIDE 0.5 mg tid
+SIMVASTATIN 40 mg qd
+ASPIRIN 81 mg daily
+FAMOTIDINE qd
+
+
+Discharge Medications:
+1. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Tablet(s)
+2. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+3. insulin glargine 100 unit/mL Solution Sig: Eight (8) units
+Subcutaneous at bedtime.
+4. lorazepam 0.5 mg Tablet Sig: Two (2) Tablet PO twice a day as
+needed for insomnia.
+5. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+6. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. repaglinide 0.5 mg Tablet Sig: One (1) Tablet PO three times
+a day.
+8. Aspirin Low Dose 81 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO once a day.
+9. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for pain.
+10. ipratropium-albuterol 18-103 mcg/Actuation Aerosol Sig: [**11-24**]
+puffs Inhalation every 4-6 hours as needed for shortness of
+breath or wheezing.
+Disp:*1 IH* Refills:*2*
+11. Oxygen
+2L nasal canula with ambulation
+12. famotidine 20 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 932**] Area VNA
+
+Discharge Diagnosis:
+Primary: Aspiration-induced hypoxia
+
+Secondary:
+Poorly differentiated SCC of lung:
+- right upper lobectomy and chemotherapy [**2148**]
+- left lower lobe nodule 1.4cm, non-diagnostic CT-guided biopsy,
+s/p CyberKnife
+Coronary artery disease: Coronary angioplasty [**2139**], [**2151**], CABG x
+3v [**2151**]
+Infectious colitis [**2152**]
+Hypertension
+Insulin-dependent diabetes mellitus
+Hypercholesterolemia
+Bladder surgery [**2123**]
+Hernia repair [**2147**]
+Cholecystectomy [**2147**]
+Tracheal nodule debridement [**8-/2154**]
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane) and supplemental oxygen.
+
+
+Discharge Instructions:
+You were admitted to the [**Hospital 18**] hospital for surgical debridement
+of a tracheal nodule that was contributing to your difficulty
+breathing. You underwent this procedure with the interventional
+pulmonologists.
+
+After surgery you were found to have difficulty breathing and
+decreased oxygen levels that were thought to be a result of both
+the paralytic [**Doctor Last Name 360**] used during surgery as well as the
+possibility that you aspirated fluids into your trachea/lungs
+during surgery. As such, you were intubated and transferred to
+the medical intensive care unit (MICU) for respiratory care and
+support.
+
+In the MICU, your blood oxygen levels improved over the course
+of a day on supplemental oxygen and you were transitioned from a
+face-mask to a face-tent to a nasal cannula on supplementary
+oxygen. When your oxygen levels stabilized, you were transferred
+to the inpatient floor, where you were eventually weaned off of
+supplementary oxygen. You were breathing stable at your baseline
+blood oxygen levels on the inpatient floor at rest, but were
+found to be significantly short of breath with activity. As
+such, physical therapy has recommended home oxygen, as well as
+instructed you to walk with a walker.
+
+We have set up visiting nursing to assist you with your home
+oxygen, as well as evaluating you for home safety and continued
+physical therapy.
+
+The following changes were made to your at-home medications:
+1) Added Home oxygen.
+2) Added Albuterol-Ipratropium inhaler. Please take 1-2 PUFFs
+every 4-6 hours as needed for shortness of breath or wheezing.
+No other changes were made to your at-home medications. Please
+continue taking them as instructed.
+3) Decreased your metoprolol to 50 mg twice a day from 150 mg
+
+Followup Instructions:
+Please follow-up with your primary care physician 7-10 days
+following discharge.
+
+
+Completed by:[**2154-9-1**]

@@ -1,0 +1,508 @@
+Admission Date:  [**2195-4-1**]              Discharge Date:   [**2195-4-22**]
+
+Date of Birth:  [**2115-11-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Erythromycin Base / Sulfa (Sulfonamide Antibiotics) /
+clindamycin
+
+Attending:[**First Name3 (LF) 3918**]
+Chief Complaint:
+chills, rigors
+
+Major Surgical or Invasive Procedure:
+[**2195-4-3**] - Colonoscopy
+[**2195-4-13**] - Colonoscopy
+
+History of Present Illness:
+EAST HOSPITAL MEDICINE ATTENDING ADMISSION NOTE .
+Date: [**2195-4-2**]
+Time: 0130
+___________________________________________________
+PCP: [**First Name8 (NamePattern2) 1158**] [**Last Name (NamePattern1) 679**]. Onc: [**Doctor First Name **] [**Doctor Last Name **]
+.
+CC:[**CC Contact Info 93625**]___________________________________________________
+HPI: 79 yo F with MDS--> AML, HTN, hyperlipidemia,
+diverticulosis, h/o anal fissure, AVM s/p recent cauterization
+who was recently admitted from [**Date range (1) 93626**] for decitabine and was
+in outpatient center today for platelet transfusion for dropping
+plt count (22) and nosebleeds. She tolerated the infusion but on
+her way home, she developed rigors, chills and she returned to
+the outpatient unit. Upon arrival, she was hypertensive and had
+a temp to 99.8. She was given benadryl, demerol, tylenol,
+hydrocortisone. She subsequently became hypotensive to 90/40 and
+received IVF bolus. She had intermittent, mild hypoxia 93-96%.
+  She was thought to have a transfusion reaction (work-up
+ordered) but her labs were notable for neutropenia and she was
+referred to the ED for admission.
+
+In ER: (Triage Vitals: 99.1 85 118/50 18 93% RA) CBC notable for
+hct 19.6 from 24.9 earlier in the day. hemolysis labs negative.
+CXR revealed mild interstitial edema. CT scan was performed to
+r/o a RP bleed.
+
+Currently, she feels completely well. She reports that she felt
+while prior to the platelet infusion and denies any fever,
+chills, abd pain, N/V/D, cough, headache. Her only concern is a
+bruise/canker sore in her L mouth which is mildly tender.
+.
+PAIN SCALE: none
+___________________________________________________
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL:        [] All Normal
+[ ] Fever  [x ] Chills   [ ] Sweats  [ ] Fatigue   [ ] Malaise
+[ ]Anorexia  [ ]Night sweats
+[ ] _____ lbs.    weight  loss/gain     over _____ months
+
+HEENT:          [] All Normal
+[ ] Blurred vision   [ ] Blindness  [ ] Photophobia
+[ ] Decreased acuity [ ] Dry mouth  [x ] Bleeding gums
+[ ] Oral ulcers  [ ] Sore throat    [ x] Epistaxis  [ ] Tinnitus
+[ ] Decreased hearing    [ ]Tinnitus [ ] Other:
+
+RESPIRATORY:    [x] All Normal
+[ ] SOB     [ ] DOE    [ ] Can't walk 2 flights     [ ] Cough
+[ ] Wheeze  [ ] Purulent sputum    [ ] Hemoptysis   [ ]Pleuritic
+pain
+[ ] Other:
+
+CARDIAC:        [x]  All Normal
+[ ] Angina    [ ] Palpitations   [ ] Edema   [ ] PND
+[ ] Orthopnea    [ ] Chest Pain [ ] Other:
+
+GI:             [x] All Normal
+[ ] Blood in stool     [ ] Hematemesis     [ ] Odynophagia
+[ ] Dysphagia:   [ ] Solids    [ ] Liquids
+[ ] Anorexia    [] Nausea  [] Vomiting   [ ] Reflux
+[ ] Diarrhea    [ ] Constipation  []  Abd pain  [ ] Other:
+
+GU:             [x] All Normal
+[ ] Dysuria      [ ] Frequency    [ ] Hematuria  []Discharge
+[]Menorrhagia
+
+SKIN:           [x] All Normal
+[ ] Rash        [ ] Pruritus
+
+MS:             [x] All Normal
+[ ] Joint pain    [ ] Jt swelling   [ ] Back pain  [ ] Bony pain
+
+NEURO:          [x] All Normal
+[ ] Headache    [ ] Visual changes   [ ] Sensory change [
+]Confusion [ ]Numbness of extremities
+[ ] Seizures   [ ] Weakness [ ] Dizziness/Lightheaded [ ]Vertigo
+[ ] Headache
+
+ENDOCRINE:     [x] All Normal
+[ ] Skin changes  [ ] Hair changes   [ ] Temp subjectivity
+
+HEME/LYMPH:    [] All Normal
+[ ] Easy bruising   [x ] Easy bleeding    [ ] Adenopathy
+
+PSYCH:         [x] All Normal
+[ ] Mood change        []Suicidal Ideation  [ ] Other:
+
+[x]all other systems negative except as noted above
+
+
+Past Medical History:
+Past Oncologic history:
+- MDS initially diagnosed in [**8-/2194**] during workup for anemia.
+Initial BM biopsy with e/o hypercellular marrow with peripheral
+blasts.  The patient was maintained with transfusion as needed
+and aranesp qweek.  In winter [**2194**], pt was also found to have
+increasing white count, as high as 143K on most recent BMT
+admission, at which point repeat biopsy revealed blasts
+consistent with acute myeloiod transformation.
+.
+PMH:
+- diverticulosis complicated by bleeding
+- bleeding anal fissures
+- bleeding AVMs ([**2-/2195**])
+- GERD
+- emphysema(mild)
+- dental extraction
+- myelodysplastic syndrome dx [**8-/2194**] with persistent blastemia
+- hysterectomy at age 39
+- hemorrhoidectomy x 4
+- colon polyps, AVM
+- bilateral bunion surgery
+- hypertension
+- hyperlipidemia
+- proctalgia fugax
+- TMJD
+
+Social History:
+The patient is married and lives with her husband.  She has
+three grown children.  Has a twin sister.  Ex-[**Name2 (NI) 1818**], quit 14
+year ago; has 35 pack year history.  Denies any illicit drug
+use.  Reports having a glass of wine nightly.
+
+
+Family History:
+No known fhx of MDS or leukemia.
+
+Physical Exam:
+Admission physical exam:
+T 95.9 P 82 BP 98/56 RR 20 O2Sat 96% RA
+GENERAL:  non-toxic, well-appearing, mentating clearly
+Eyes: NC/AT, post-surgical pupils (cataracts), EOMI, no scleral
+icterus noted
+Ears/Nose/Mouth/Throat: MMM,small purplish nodule on tongue,
+bruising on inside of her mouth on left side
+Neck: supple, no JVD
+Respiratory: Lungs CTA bilaterally without R/R/W
+Cardiovascular: Reg S1S2, no M/R/G noted
+Gastrointestinal: soft, NT/ND, + bowel sounds
+Genitourinary:  no flank tenderness
+Skin: no rashes or lesions noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP and PT pulses
+b/l.
+Lymphatics/Heme/Immun: No cervical, supraclavicular
+lymphadenopathy noted.
+Neurologic:
+-mental status: Alert, oriented x 3. Able to relate history
+without difficulty.
+-cranial nerves: II-XII intact
+-motor: normal bulk, strength and tone throughout. No abnormal
+movements noted.
+-sensory: No deficits to light touch throughout.
+No foley catheter/tracheostomy/PEG/ventilator support/chest
+tube/colostomy
+Psychiatric:  pleasant and interactive
+
+ACCESS: [x]PIV
+.
+Discharge PE:
+VS: Tc 97.2 Tmax 97.8 BP 118/68 (110-130'/60-80') HR 76 (70-80')
+RR 18 Sat 99 RA
+General: pleasant, well appearing elderly female, sitting
+comforably in chair, NAD,
+HEENT: EOMI, PERRL, OP clear, MM moist
+neck: supple
+CV: 3/6 SEM loudest at RUSB, normal S1, S2
+lungs: clear to auscultation b/l, no wheezes/rhonchi/crackles
+abdomen: soft, mild tenderness at left lower quadrant and
+minimal tenderness at right upper quadrant, no rebound
+tenderness or guarding, nondistended, +BS
+extremities: warm, well perfused, no LE edema, 2+DP pulses
+Neuro: CN2-12 grossly intact, normal muscle strength and
+sensation throughout
+
+Pertinent Results:
+Admission labs:
+===============
+[**2195-4-1**] WBC-2.2* RBC-2.67* HGB-8.4* HCT-24.9* MCV-94 MCH-31.5
+MCHC-33.7 RDW-18.4*
+[**2195-4-1**] NEUTS-30* BANDS-0 LYMPHS-42 MONOS-8 EOS-0 BASOS-0
+ATYPS-1* METAS-1* MYELOS-1* BLASTS-17* NUC RBCS-2*
+[**2195-4-1**] PLT SMR-VERY LOW PLT COUNT-22*
+[**2195-4-1**] GRAN CT-704*
+[**2195-4-1**] WBC-3.7*# RBC-2.21* HGB-6.8* HCT-19.6* MCV-89 MCH-30.8
+MCHC-34.7 RDW-19.6*
+[**2195-4-1**] NEUTS-87* BANDS-0 LYMPHS-2* MONOS-1* EOS-0 BASOS-0
+ATYPS-0 METAS-0 MYELOS-0 BLASTS-10*
+[**2195-4-1**] PLT SMR-VERY LOW PLT COUNT-21*
+[**2195-4-1**] PLT COUNT-31*
+[**2195-4-1**] ALT(SGPT)-12 AST(SGOT)-27 LD(LDH)-274* ALK PHOS-67 TOT
+BILI-1.8* DIR BILI-0.6* INDIR BIL-1.2
+[**2195-4-1**] HAPTOGLOB-197
+[**2195-4-1**] GLUCOSE-116* UREA N-25* CREAT-0.8 SODIUM-138
+POTASSIUM-4.3 CHLORIDE-103 TOTAL CO2-26 ANION GAP-13
+[**2195-4-1**] URINE  BLOOD-SM  NITRITE-NEG PROTEIN-TR GLUCOSE-NEG
+KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG
+[**2195-4-1**] URINE  RBC-1 WBC-3 BACTERIA-FEW YEAST-NONE EPI-2 TRANS
+EPI-<1
+.
+Discharge labs:
+===============
+[**2195-4-19**] BLOOD ALT-8 AST-22 LD(LDH)-222 AlkPhos-51 TotBili-1.1
+[**2195-4-22**] BLOOD WBC-1.8* RBC-2.94* Hgb-9.1* Hct-27.3* MCV-93
+MCH-31.0 MCHC-33.3 RDW-19.1* Plt Ct-84*
+[**2195-4-22**] BLOOD Neuts-53 Bands-0 Lymphs-33 Monos-0 Eos-0 Baso-0
+Atyps-0 Metas-0 Myelos-2* Blasts-12* NRBC-1*
+[**2195-4-22**] BLOOD Plt Smr-LOW Plt Ct-84*
+[**2195-4-22**] BLOOD PT-15.4* INR(PT)-1.4*
+[**2195-4-22**] BLOOD Gran Ct-979*
+[**2195-4-22**] BLOOD Glucose-101* UreaN-16 Creat-0.8 Na-137 K-3.8
+Cl-99 HCO3-29 AnGap-13
+[**2195-4-22**] BLOOD Calcium-8.6 Phos-4.0 Mg-1.9
+.
+Microbiology:
+=============
+Urine culture: mixed flora
+Blood culture: no growth
+MRSA screen: negative
+.
+Imaging:
+========
+[**4-1**] CHEST (PA & LAT) - Calcified pleural plaque is better
+assessed on the prior CT. There is mild interstitial edema with
+no large effusions or pneumothorax. No signs of pneumonia.
+Cardiomediastinal silhouette is stable. Calcified
+tracheobronchial tree noted. Bony structures are intact
+.
+[**4-1**] CT ABD & PELVIS WITH CO - No acute intra-abdominal or
+pelvic process. No evidence of retroperitoneal hemorrhage.
+Stable gallbladder polyp. Stable gallbladder polyps versus a
+focus of adenomyomatosis within the gallbladder fundus. Sigmoid
+diverticulosis. Patchy bibasilar opacities within the lung
+bases, with subpleural scar formations and bronchiectasis within
+the lung bases.
+.
+[**2195-4-8**] CT head without contrast:
+IMPRESSION:
+1. No evidence of acute intracranial hemorrhage or mass effect.
+Slightly
+dense appearance of the cortex lateral to the Sylvian fissure (
+se 2, im 12) is likely related to volume averaging rather than
+hemorrhage; a follow up can be considered if necessary. No prior
+CT studies are available.
+2. Bilateral mastoid opacification from fluid/mucosal thickening
+
+.
+CTA [**2195-4-18**] Abd-Pelvis
+IMPRESSION:
+1. No contrast extravasation to suggest GI bleeding.
+2. Stable gallbladder polyp and fundal adenomyomatosis.
+3. Colonic diverticulosis without evidence of diverticulitis.
+4. Small left adrenal adenoma.
+5. Unchanged Focal celiac artery and aortic dilation as
+described above.
+.
+Colonoscopy:
+============
+[**3-1**] Colonoscopy prior to this admission:
+Abnormal mucosa in the colon. Diverticulosis of the sigmoid
+colon. A small posterior rectal fissure was noted in the anal
+canal. This was not bleeding. Blood was noted throughout the
+entire colon.
+Otherwise normal colonoscopy to cecum.
+.
+[**2195-4-3**] colonoscopy:
+Non bleediong diverticulosis of the whole colon. Bleeding
+angioectasias in the cecum treated with APC. Polyp in the
+transverse colon. Blood and stool throughout colon. Non bleeding
+posterior anal fissure.
+.
+[**2195-4-13**] colonoscopy:
+Blood in the whole colon. Diverticulosis of the sigmoid colon
+and descending colon. Ulcers in the cecum. A large adherent
+blood clot was found in the cecum with surrounding oozing of
+bright red blood. Given the risk of uncontrollable bleeding in
+the setting of low platelets, the clot was not removed.
+Otherwise normal colonoscopy to cecum
+
+Brief Hospital Course:
+Ms. [**Known lastname 73078**] is 79 year old pleasant woman with a Past medical
+history significant for MDS with AML transformation on Dacogen,
+diverticulosis, known cecal AVMs admitted from clinic on [**2195-4-1**]
+in the setting of a transfusion reaction to platelets with
+thrombocytopenia who was noted to develop bright red blood per
+rectum with acute hematocrit drop who underwent repeat
+colonoscopy showing non-bleeding diverticulosis of the entire
+colon and bleeding angioectasias of the cecum treated with Argon
+Plasma coagulation. She required a second colonoscopy for
+repeated bloody bowel movements which showed a clot adherent to
+the cecum. She remained stable for a while then had frequent
+bloody bowel movements again which was controlled by amicar drip
+for 8 hours. Gradually her platelets started to increase. After
+these events, she remained stable and was discharged home in
+stable condition. She will require HLA matched platelet
+transfusions in the future if needed.
+.
+# cecal AVMs:  She was transferred to the ICU twice for bright
+red blood per rectum. The patient developed BRBPR, and was found
+to have cecal AVMs on colonoscopy s/p APC. Specifically, repeat
+colonoscopy demonstrated cecal angioectasias that were actively
+bleeding, non-bleeding colonic diverticula and small polyp.
+Hemostasis achieved with Argon Plasma coagulation therapy on
+[**2195-4-3**].  During her stay she required several units of PRBC and
+platelets. After remaining stable, she was transferred back to
+the floor however she had the same situation again and was
+transferred back to the ICU where she had her second colonoscopy
+which showed a clot adherent to the cecum with oozing around the
+clot. The clot was not removed (not amenable to endoscopic
+management). GI recommended surgical consult for possible
+resection however given her underlying disease and low platelet
+counts, they felt this will not be a favorable management. After
+having stable H/H, she was transferred back to the floor. While
+on the floor, she had a few bloody bowel movements however the
+night of [**4-17**] she had total of 450 cc bloody watery stools which
+required amicar drip for 8 hours (her platelets were in the
+40-50's). CTA was negative. Following this, she did not have any
+further significant bloody stools. She remained vitally stable
+with stable H/H and gradually rising platelet count.
+.
+# thrombocytopenia: Secondary to chemotherapy and MDS/AML
+concerns. Concern for consumptive process following transfusion
+of platelets in the setting of possible ITP vs. TTP however
+Hematologic smear was without schistocytes and there was no
+evidence of renal failure or neurologic concerns; no fevers. The
+patient also had two transfusion reactions to platelets when
+first admitted. She was premedicated with anti-histamines. While
+the patient was actively bleeding, she was also given Amicar (2
+grams IV with 1gram/hour IV infusion overnight on [**2195-4-2**]). This
+was repeated over the night of [**4-17**] as above. She was found to
+have a positive PRA and required HLA matched platelets for all
+subsequent transfusions. Her twin sister was tested at Red Cross
+for potential candidate to donate platelets for her sister
+however since she takes aspirin and plavix, this was not a
+suitable option. Of note, her platelet count was improving
+already and did not require further platelet transfusions.
+Platelet count was in the 90's upon discharge.
+.
+# transfusion reaction/PRA positive: The patient had transfusion
+reaction to platelet transfusion (once in clinic, and once while
+on the floor). She was premedicated with famotidine, benadryl,
+and hydrocortisone. A blood bank work up was initiated, and the
+patient was given group specific platelets. She was found to be
+PRA positive and requires HLA matched platelets. However, during
+her second episode of BRBPR on [**4-12**], it was found that there was
+no more HLA matched platelets available in [**Location (un) 86**] area. Red
+Cross was contact[**Name (NI) **] for more HLA matched platelets. Sister was a
+potential donor however it wasn't suitable given her
+anti-platelet therapy as above. She did not require further
+platelet transfusions once her platelet count started to
+increase.
+.
+# MDS with AML transformation:  While the patient was on the
+floor, it was noticed that her blast count was trending up and
+her neutrophil count was trending down.  It was then decided to
+start her on second cycle of Dacogen (day 1 = [**2195-4-8**]).  The
+patient tolerated the Dacogen well, with little side effects.
+12% blast cells on peripheral blood upon discharge.
+.
+# GERD: The patient was continued on her home PPI.
+.
+# constipation:  The patient has a history of severe
+constipation, however, her home medications were held in the
+setting of her BRBPR and then restarted upon discharge given
+resolution of bloody bowel movements.
+.
+Transitional Issues:
+- The patient had transfusion reaction to platelets; a blood
+bank work up was initiated and she was found to be PRA positive;
+she will require HLA matched platelets for all subsequent
+transfusions.
+
+Medications on Admission:
+1. loratadine 10 mg Tablet Sig: One (1) Tablet PO daily ().
+2. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+3. polyethylene glycol 3350 17 gram Powder in Packet Sig: One
+(1) Powder in Packet PO QHS (once a day (at bedtime)).
+4. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO QHS (once a day (at bedtime)).
+5. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+
+times a day).
+6. allopurinol 300 mg Tablet Sig: 0.5 Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Medications:
+1. loratadine 10 mg Tablet Sig: One (1) Tablet PO daily ().
+2. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+3. Miralax 17 gram Powder in Packet Sig: One (1)  PO at bedtime
+as needed for constipation.
+4. Milk of Magnesia 400 mg/5 mL Suspension Sig: Thirty (30) ml
+PO at bedtime as needed for constipation.
+5. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO twice
+a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+myelodysplastic syndrome/acute myloid leukemia
+cecal atriovenous malformations
+Lower GI bleed
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Ms. [**Known lastname 73078**],
+
+It was a pleasure taking care of you while you were hospitalized
+at [**Hospital1 18**].  You were admitted to the hospital because you had a
+transfusion reaction after getting platelets at clinic.  We did
+some tests and found that you will need specially screened
+platelets from now on because your body reacts to normal
+platelets.
+
+While you were here, you also developed some bleeding from your
+rectum.  You were transferred to the intensive care unit and
+they gastrointestinal doctors looked into your intestines with a
+camera and found some areas of bleeding called AV malformations
+that were clipped. After this, you were sent to the floor then
+sent back to the ICU when you had further bleeding. Second
+colonoscopy was done which showed a large clot attached to your
+colon in the same area where the AVM's were clipped. Your blood
+level was stable as well as your blood pressure and you were
+transferred to the floor.
+
+While on the floor, you had a few loose bloody stools that
+subsequently resolved. Your diet was gradually advanced and you
+tolerated it well prior to discharge. Your platelets gradually
+increased and it was in the 80's on your discharge day.
+
+The surgeons evaluated you for possible surgical removal of part
+of your colon, however they felt it is unsafe to do surgery for
+the moment. We did not discharge you on Amicar which is a clot
+stabilizer medication since you did not have further bloody
+stools, your blood level was stable and your platelets were
+gradually increasing.
+
+We also noticed some changes in your blood work that made us
+think that your leukemia was acting up again; because of that we
+started you on another five day cycle of chemotherapy.  You
+tolerated the chemo well.
+.
+While in the hosiptal, it was noted that occasionally your blood
+pressure was high and you were started on a medication for brief
+time. However, given your GI bleeds, this was held. We will not
+discharge you at the moment with anti-hypertensive medication.
+
+We did the following changes in your medication list:
+- Please stop allopurinol
+
+Please continue the rest of your home medications the same way
+you were taking them at home prior to admission.
+
+Your PICC line was removed prior to discharge.
+
+It will be important for you to follow up with Dr. [**Last Name (STitle) **].
+
+Please follow with your appointments as illustrated below.
+
+Followup Instructions:
+Department: HEMATOLOGY/ONCOLOGY
+When: MONDAY [**2195-4-27**] at 12:30 PM
+With: [**Name6 (MD) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 22**]
+Building: [**Hospital6 29**] [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: HEMATOLOGY/ONCOLOGY
+When: MONDAY [**2195-4-27**] at 12:30 PM
+With: [**First Name8 (NamePattern2) 2747**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3983**], NP [**Telephone/Fax (1) 3237**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: HEMATOLOGY/BMT
+When: MONDAY [**2195-4-27**] at 1 PM
+With: [**First Name8 (NamePattern2) 539**] [**Last Name (NamePattern1) 9816**], RN [**Telephone/Fax (1) 3241**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3922**]
+

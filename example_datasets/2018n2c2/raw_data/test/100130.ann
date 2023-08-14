@@ -1,0 +1,83 @@
+T1	Drug 1094 1101	Lipitor
+T2	Drug 1103 1123	Tylenol with Codeine
+T3	Drug 1125 1133	Dilantin
+T4	Drug 1149 1157	Decadron
+T5	Frequency 1158 1163	q.i.d
+R1	Frequency-Drug Arg1:T5 Arg2:T4
+T6	Duration 1178 1186	one week
+R2	Duration-Drug Arg1:T6 Arg2:T4
+T7	Drug 2689 2698	Oxacillin
+T8	Reason 2797 2807;2808 2819	ophthalmic involvement
+R3	Reason-Drug Arg1:T8 Arg2:T7
+T9	Frequency 2964 2972	q.1 hour
+R4	Frequency-Drug Arg1:T9 Arg2:T10
+T10	Drug 2973 2983	Pred Forte
+T11	Route 3003 3006	eye
+R5	Route-Drug Arg1:T11 Arg2:T10
+T12	Drug 3175 3202	Vaseline hydrated petroleum
+T13	Reason 3218 3244	decrease insensible losses
+R6	Reason-Drug Arg1:T13 Arg2:T12
+T14	Drug 402 410	Dilantin
+T15	Reason 431 450	seizure prophylaxis
+R7	Reason-Drug Arg1:T15 Arg2:T14
+T16	Route 4536 4547	intravenous
+R8	Route-Drug Arg1:T16 Arg2:T17
+T17	Drug 4548 4557	Oxacillin
+T18	Drug 4742 4752	Vancomycin
+T19	ADE 482 495	eye discharge
+R9	ADE-Drug Arg1:T19 Arg2:T14
+T20	Drug 4827 4837	Vancomycin
+T21	Drug 5200 5209;5210 5215	Petroleum jelly
+T22	Frequency 5216 5227	twice a day
+R10	Frequency-Drug Arg1:T22 Arg2:T21
+T23	Drug 547 554	sulfate
+T24	Drug 5488 5498	Pred Forte
+T25	Route 555 565	ophthalmic
+R11	Route-Drug Arg1:T25 Arg2:T23
+T26	Form 566 571	drops
+R12	Form-Drug Arg1:T26 Arg2:T23
+T27	Drug 5892 5897	Boost
+T28	Reason 5900 5918	Infectious Disease
+R13	Reason-Drug Arg1:T28 Arg2:T29
+T29	Drug 5974 5985	antibiotics
+T30	ADE 600 610	oral sores
+R14	ADE-Drug Arg1:T30 Arg2:T14
+R15	ADE-Drug Arg1:T30 Arg2:T23
+T31	ADE 615 619	rash
+R16	ADE-Drug Arg1:T31 Arg2:T14
+R17	ADE-Drug Arg1:T31 Arg2:T23
+T32	Reason 6633 6652	cystic tumor status
+R18	Reason-Drug Arg1:T32 Arg2:T33
+T33	Drug 6739 6747	Dilantin
+T34	Drug 6869 6877	Dilantin
+T35	Drug 6909 6924	anticonvulsants
+T36	ADE 814 820	fevers
+R19	ADE-Drug Arg1:T36 Arg2:T14
+T37	ADE 822 830	weakness
+R20	ADE-Drug Arg1:T37 Arg2:T14
+T38	ADE 836 844	diarrhea
+R21	ADE-Drug Arg1:T38 Arg2:T14
+T39	Drug 8750 8758	Dilantin
+T40	Drug 8966 8976	Polysporin
+T41	Form 8977 8990	ophthalmology
+R22	Form-Drug Arg1:T41 Arg2:T40
+T42	Route 8991 8994	O.U
+R23	Route-Drug Arg1:T42 Arg2:T40
+T43	Frequency 8996 9001	q.i.d
+R24	Frequency-Drug Arg1:T43 Arg2:T40
+T44	Drug 9004 9022	hydrated Petroleum
+T45	Frequency 9023 9032	as needed
+R25	Frequency-Drug Arg1:T45 Arg2:T44
+T46	Drug 9034 9041	Lipitor
+T47	Strength 9042 9047	10 mg
+R26	Strength-Drug Arg1:T47 Arg2:T46
+T48	Route 9048 9051	p.o
+R27	Route-Drug Arg1:T48 Arg2:T46
+T49	Frequency 9053 9056	q.d
+R28	Frequency-Drug Arg1:T49 Arg2:T46
+T50	Drug 9059 9067	Nystatin
+T51	Frequency 9075 9080	t.i.d
+R29	Frequency-Drug Arg1:T51 Arg2:T50
+T52	Drug 9275 9283	DILANTIN
+T53	Drug 9288 9296	TEGRETOL
+T54	Drug 9365 9373	DILANTIN
