@@ -6,7 +6,7 @@
 REPO_PATH=/home/c.peng/projects/ClinicalTransformerMRC/src
 export PYTHONPATH="$PYTHONPATH:$REPO_PATH"
 
-DATA_DIR=/red/gatortron-phi/workspace/mrc_medical/data/2022n2c2/2022n2c2_track2/data/mrc_entity/
+DATA_DIR=/data/datasets/cheng/mrc-for-ner-medical/2022n2c2/2022n2c2_track2/data/mrc_entity/
 TOTAL_CATEGORY=14
 
 # bert-large-cased
@@ -18,13 +18,13 @@ TOTAL_CATEGORY=14
 # 345m_uf_syn_pubmed_mimic_wiki_fullcased50k_megatronv22_release
 # 345m_uf_full_deid_pubmed_mimic_wiki_fullcased50k_release
 # gatortron-og-345m_deid_vocab
-FILE=gatortron-og-345m_deid_vocab
-BERT_DIR=/red/gatortron-phi/workspace/mrc_medical/transformer_pretrained_models/${FILE}
+FILE=mimiciii-bert-large-uncased_5e_128b
+BERT_DIR=/home/alexgre/projects/transformer_pretrained_models/${FILE}
 
-# MODEL_TYPE=bert
-MODEL_TYPE=megatron
+MODEL_TYPE=bert
+# MODEL_TYPE=megatron
 
-OUTPUT_BASE=/red/gatortron-phi/workspace/mrc_medical/exp/2022n2c2
+OUTPUT_BASE=/data/datasets/cheng/mrc-for-ner-medical/exp
 
 BATCH=4
 GRAD_ACC=4
@@ -59,13 +59,13 @@ OUTPUT_DIR=${OUTPUT_BASE}/model/entity/${FILE}_${BATCH}_${LR}_${LR_MINI}_${MAX_E
 mkdir -p ${OUTPUT_DIR}
 
 
-CUDA_VISIBLE_DEVICES=0,1,2,3 python3 ${REPO_PATH}/train/mrc_ner_trainer.py \
+CUDA_VISIBLE_DEVICES=0 python3 ${REPO_PATH}/train/mrc_ner_trainer.py \
 --data_dir ${DATA_DIR} \
 --model_type $MODEL_TYPE \
 --bert_config_dir ${BERT_DIR} \
 --max_length ${MAX_LEN} \
 --batch_size ${BATCH} \
---gpus="2" \
+--gpus="1" \
 --precision=${PREC} \
 --progress_bar_refresh_rate 1 \
 --lr ${LR} \
@@ -78,7 +78,6 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python3 ${REPO_PATH}/train/mrc_ner_trainer.py \
 --span_loss_candidates ${SPAN_CAND} \
 --weight_span ${SPAN_WEIGHT} \
 --warmup_steps ${WARMUP} \
---distributed_backend=ddp \
 --max_length ${MAX_LEN} \
 --gradient_clip_val ${MAX_NORM} \
 --weight_decay ${WEIGHT_DECAY} \
