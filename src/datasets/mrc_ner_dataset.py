@@ -105,11 +105,11 @@ class MRCNERDataset(Dataset):
         # print(qas_id)
         # print(tokens)
         # print(len(tokens))
-        print(start_positions)
-        print(end_positions)
-        print(type_ids)
-        print(offsets)
-        print(query_context_tokens.words)
+        # print(start_positions)
+        # print(end_positions)
+        # print(type_ids)
+        # print(offsets)
+        # print(query_context_tokens.words)
 
         # find new start_positions/end_positions, considering
         # 1. we add query tokens at the beginning
@@ -126,8 +126,8 @@ class MRCNERDataset(Dataset):
                 continue
             origin_offset2token_idx_start[token_start] = token_idx
             origin_offset2token_idx_end[token_end] = token_idx
-        print(origin_offset2token_idx_start)
-        print(origin_offset2token_idx_end)
+        # print(origin_offset2token_idx_start)
+        # print(origin_offset2token_idx_end)
 
         new_start_positions = [origin_offset2token_idx_start[start] for start in start_positions]
         new_end_positions = [origin_offset2token_idx_end[end] for end in end_positions]
